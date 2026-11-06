@@ -69,7 +69,7 @@ Many adaptations combine more than one type. For example, the toad's warty, pois
 | **Toads** (e.g. the common toad) | Dull brown, olive or grey with dark blotches on the back; pale cream or white on the belly | The dark, mottled back blends with soil and dead leaves, hiding the toad from snakes and birds above; the flat look helps it stay hidden while it waits for insects |
 | **Snakes** (e.g. many grass snakes and the green tree snakes) | Darker, often patterned back; paler, plain belly scales | The darker back blends with the ground, leaves or branches; the pale underside removes the shadow, so the snake is hard to see. This hides it both from its prey (it can ambush them) and from its enemies (such as hawks) |
 
-[IMAGE: Three panels showing countershading: (1) a fish swimming, dark grey-blue on the back fading to silvery-white on the belly, (2) a toad sitting on soil, olive-brown mottled back with a pale cream belly visible at the side, (3) a snake partly coiled on the ground, darker patterned back with a paler plain belly visible on its curled side. Each panel with a soft arrow of light from above. Flat textbook style, soft natural colours, white background, no text.]
+![Countershading in a fish, a toad and a snake: each has a dark back and a pale belly, with light shining from above](images/A3-countershading.png)
 
 ### Warning colouration in mushrooms
 
@@ -94,7 +94,7 @@ Warning colouration is the **opposite** of camouflage: instead of hiding, the or
 - **Bees and wasps** have yellow-and-black bands, which warn of their sting.
 - The **African monarch butterfly** (*Danaus chrysippus*) has bright orange wings and is distasteful to birds.
 
-[IMAGE: A group of brightly coloured poisonous mushrooms in a forest floor scene: a fly agaric with a bright red cap covered in white warty spots and a white stalk with a ring, and a smaller bright orange mushroom beside it; next to them for contrast, a dull brown mushroom. Flat textbook style, white background, no text.]
+![Warning colouration in mushrooms: a bright red fly agaric with white spots and a ring, a bright orange mushroom, and a dull brown mushroom for contrast](images/A3-warning-colouration.png)
 
 ### Categorising the colouration examples
 
@@ -138,7 +138,7 @@ Termites are social insects that live in large colonies, often of hundreds of th
 | **Winged reproductives** (alates, "flying termites") | Dark brown, with two pairs of long, equal-sized wings and working compound eyes | Fertile males and females | Leave the nest in huge swarms, usually after the first heavy rains of the rainy season, to start new colonies |
 | **Supplementary (secondary) reproductives** | Like nymphs, with short wing pads or none | Fertile | Replace the king or queen if they die, and help produce eggs in large colonies |
 
-[IMAGE: The castes of termites shown side by side on a white background at relative sizes: a huge queen with a swollen, pale, sausage-shaped abdomen and a small dark head, a normal-sized dark king beside her, a small pale soft-bodied worker, a soldier with a large dark head and long curved jaws, and a dark-brown winged reproductive (alate) with two pairs of long equal wings. Flat textbook style, soft creams and browns, no text.]
+![Termite castes at relative sizes: a huge queen with a swollen egg-filled abdomen, the king, a small pale worker, a soldier with a large head and long jaws, and a winged reproductive with two pairs of equal wings](images/A3-termite-castes.png)
 
 #### How a new termite colony is formed
 
@@ -159,7 +159,7 @@ A *Macrotermes* mound is a remarkable piece of building:
 - Around it are **nursery chambers** for eggs and young, and **fungus gardens** (fungus combs), where workers grow a fungus (*Termitomyces*) on chewed plant material. The fungus breaks down the tough plant material, and the termites eat the fungus. (The large edible *Termitomyces* mushrooms that appear on termite mounds after rain are the fruiting bodies of this fungus; see Topic A2a.)
 - Underground **tunnels** lead out to foraging areas.
 
-[IMAGE: A cut-away view of a tall savanna termite mound on red soil: the outer hard clay wall with air channels and chimneys running up through it, the royal chamber near the bottom with a large queen, honeycomb-like fungus gardens in chambers around it, nursery chambers, and tunnels leading out underground. Flat textbook style, warm reddish-browns and creams, white background, no text.]
+![Cut-away of a termite mound showing chimneys, air channels, the hard clay wall, fungus gardens, the royal chamber with the queen, a nursery, workers and underground tunnels in red soil](images/A3-termite-mound.png)
 
 #### Behavioural adaptations of termites
 
@@ -224,7 +224,7 @@ Lizards are **cold-blooded** (poikilothermic, or ectothermic). They cannot produ
 
 **Why basking is an advantage:** it allows a cold-blooded animal to become active quickly and stay at the best temperature for its muscles and enzymes, without using food energy to make heat. This is why lizards can survive on much less food than a warm-blooded animal of the same size.
 
-[IMAGE: An Agama lizard basking on a sunlit rock in the morning with its body flattened and side turned to the sun; in a second small panel, the same lizard at midday resting in the shade under a rock. Flat textbook style, warm oranges, browns and blues, white background, no text.]
+![An Agama lizard basking flattened on a rock in the morning sun, and the same lizard resting in the shade at midday](images/A3-agama-basking.png)
 
 ### Territorial behaviour
 
@@ -291,7 +291,7 @@ When conditions become too harsh (too cold, too hot, or too dry) or food is scar
 
 Both are **behavioural and physiological adaptations** that allow animals to survive periods when they could not otherwise find enough food or water.
 
-[IMAGE: Two panels: left, an African lungfish curled up inside a hardened mucus cocoon in a cut-away of dried, cracked mud at the bottom of a dried-up pond; right, a land snail sealed inside its shell with a thin whitish mucus membrane covering the shell opening, partly buried in dry soil. Flat textbook style, soft browns and greys, white background, no text.]
+![Aestivation: an African lungfish in a mucus cocoon with a breathing tube in dry cracked mud, and a land snail sealed in its shell by a dried mucus membrane in dry soil](images/A3-aestivation.png)
 
 ## Structural adaptations in organisms
 
@@ -315,7 +315,7 @@ Birds have no teeth. The shape of the beak is closely adapted to the kind of foo
 | **Fruit-cracking** | Large, strong and curved, with a sharp hook | Cracks nuts and hard fruits | Parrot, hornbill |
 | **Insect-catching** | Short and flat with a very wide gape, often with bristles at the sides | Catches insects in flight | Swallow, swift, nightjar |
 
-[IMAGE: A chart of eight bird heads in profile showing different beak types: a weaver bird with a short thick cone-shaped beak; an eagle with a strong hooked beak; a sunbird with a long thin curved beak; a duck with a broad flat beak; a kingfisher with a long straight dagger-like beak; a woodpecker with a chisel-like beak; a domestic fowl with a short pointed beak; and a parrot with a large curved hooked beak. Arranged in a 4-by-2 grid. Flat textbook style, soft natural colours, white background, no text.]
+![Eight bird beaks and their uses: weaver bird, eagle, sunbird, duck, kingfisher, woodpecker, hen and parrot](images/A3-bird-beaks.png)
 
 #### Legs and feet of birds
 
@@ -329,7 +329,7 @@ Birds have no teeth. The shape of the beak is closely adapted to the kind of foo
 | **Climbing** | Two toes in front and two behind (zygodactyl), with sharp claws | Climbing up tree trunks; gripping | Woodpecker, parrot |
 | **Running** | Long, strong legs, with fewer toes (the ostrich has only two) | Running fast on open ground | Ostrich |
 
-[IMAGE: A chart of six bird feet: a perching foot with three toes forward and one back gripping a twig; a raptor foot with long curved talons gripping a branch; a webbed duck foot; a long thin wading leg with long spread toes standing in shallow water; a sturdy scratching foot of a hen with blunt claws on soil; and a climbing foot with two toes forward and two back on tree bark. Arranged in a 3-by-2 grid. Flat textbook style, soft natural colours, white background, no text.]
+![Six bird feet and their uses: perching, raptor talons, webbed, wading, scratching and climbing](images/A3-bird-feet.png)
 
 #### Mouthparts of insects
 
@@ -358,7 +358,7 @@ In the male, the mandibles and maxillae are small or poorly developed, so he can
 
 **Note:** the **caterpillars** (larvae) of butterflies and moths have **biting and chewing** mouthparts, which they use to eat leaves. The **adults of some moths**, such as the silk moth, do not feed at all; they live only a few days on food stored by the caterpillar.
 
-[IMAGE: Three insect heads in side view showing mouthparts: (1) a female mosquito with its proboscis piercing skin, the outer sheath bent back like an elbow and a bundle of fine needle-like stylets entering the skin; (2) a butterfly with a long coiled proboscis under its head, with clubbed antennae; (3) a moth with its long proboscis uncoiled into a tubular flower, with feathery antennae. Flat textbook style, soft natural colours, white background, no text.]
+![Insect mouthparts: a mosquito piercing skin with its stylets while the labium bends back, a butterfly with its proboscis coiled at rest, and a moth with feathery antennae reaching into a flower with its long proboscis](images/A3-insect-mouthparts.png)
 
 **Butterflies and moths compared:**
 
@@ -414,7 +414,7 @@ The toad has several adaptations for protection:
 4. **Nocturnal habits:** it hides under stones, logs or in holes by day and feeds at night, avoiding many predators and the drying heat of the sun.
 5. **Staying still:** it often keeps very still when danger is near, relying on its camouflage.
 
-[IMAGE: Three panels showing protection by camouflage and defence: (1) a stick insect on a twig, its long thin brown body and legs looking exactly like a twig, (2) a green praying mantis on a leafy stem with its spiny front legs folded as if praying, (3) a warty brown toad on soil and leaf litter, puffed up, with a large parotid gland bulge behind the eye. Flat textbook style, soft greens and browns, white background, no text.]
+![Camouflage and defence: a stick insect that looks like a twig, a praying mantis with folded spiny front legs, and a warty toad with a parotid poison gland](images/A3-camouflage-defence.png)
 
 ### 3. Securing mates
 
@@ -441,7 +441,7 @@ The *Agama* lizard (*Agama agama*) shows clear differences between males and fem
 
 The female's dull colours give her **camouflage**, which protects her (and the eggs she carries) from predators.
 
-[IMAGE: A male and female Agama lizard on a wall: the male larger, perched high, with a bright orange-red head and front of tail, dark blue-black body, raised up on his front legs in a head-bobbing display; the female smaller and lower down, brown with pale spots and an orange patch on her side. Flat textbook style, warm oranges, blues and browns, white background, no text.]
+![Male Agama lizard with an orange-red head raised in a head-bobbing display on straightened front legs, above a smaller brown spotted female with an orange patch](images/A3-agama-display.png)
 
 #### Display of feathers by birds
 
@@ -457,7 +457,7 @@ In many bird species, the males have bright colours or special feathers, which t
 
 **Why males are usually brighter:** females usually choose the mate. Males compete for females, so males with the brightest colours or the best displays are chosen more often, and their features are passed on (**sexual selection**). Females, who often sit on the eggs, benefit from dull colours that hide them from predators.
 
-[IMAGE: Courtship display of birds: a peacock with its tail fanned out in a full circle of shimmering eyespot feathers facing a plain brown peahen; beside it a bright yellow male village weaver bird with a black face hanging upside down from a round woven nest and flapping its wings. Flat textbook style, soft natural colours, white background, no text.]
+![Courtship displays: a peacock fanning its eyespot tail feathers in front of a plain brown peahen, and a male village weaver hanging upside down from his woven nest flapping his wings](images/A3-bird-courtship.png)
 
 ### 4. Regulating body temperature
 
@@ -481,7 +481,7 @@ Other ways mammals control temperature:
 - **Large ears:** the very large, thin ears of elephants (and desert foxes) have many blood vessels and lose heat; elephants flap them to cool down.
 - **Behaviour:** resting in the shade, wallowing in mud or water (pigs and buffalo), huddling together in the cold.
 
-[IMAGE: A vertical cross-section of mammalian skin showing the outer epidermis, the dermis with a hair growing from a hair follicle with its small erector muscle and sebaceous gland, a coiled sweat gland with its duct opening as a pore on the surface, capillaries and blood vessels near the surface, nerve endings, and a thick layer of fat cells (subcutaneous fat) at the bottom. Flat textbook style, soft pinks, creams and yellows, white background, no text.]
+![Section of mammalian skin showing hair, epidermis, dermis, capillaries, nerve ending, hair follicle, sebaceous gland, erector muscle, sweat gland, sweat duct and pore, blood vessels and the subcutaneous fat layer](images/A3-skin-section.png)
 
 #### Feathers
 
@@ -513,7 +513,7 @@ Desert plants such as **cacti** (e.g. the prickly pear, *Opuntia*) and some *Eup
 
 **Note:** in many *Euphorbia* species, the spines are not modified leaves but outgrowths of the stem or modified stipules. They still help defend the plant, and the plant still reduces water loss by having very small leaves or shedding them in the dry season.
 
-[IMAGE: Two water-conserving organisms side by side: left, a cactus (prickly pear type) with thick green fleshy pads and clusters of sharp spines instead of leaves, growing in dry sandy soil; right, a pangolin covered in large, overlapping brown keratin scales, walking on dry ground. Flat textbook style, soft greens, browns and sand colours, white background, no text.]
+![A cactus with spines instead of leaves and thick water-storing pads, beside a pangolin covered in overlapping hard scales](images/A3-cactus-pangolin.png)
 
 #### Scales in mammals
 

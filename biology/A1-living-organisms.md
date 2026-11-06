@@ -29,7 +29,7 @@ An easy way to remember them is **MR NIGER D**:
 | R | Reproduction | Producing new young ones of the same kind | A hen lays eggs; a yam tuber sprouts into a new plant |
 | D | Death | Every living thing has a limited lifespan | All organisms eventually die |
 
-[IMAGE: Simple illustrated chart showing the 8 characteristics of living things (MR NIGER D) with a small icon for each: a running goat (movement), lungs (respiration), a plate of food (nutrition), a hand pulling away from a flame (irritability), a growing maize plant (growth), a kidney (excretion), a hen with chicks (reproduction), a wilted plant (death).]
+![Eight icons for the characteristics of living things (MR NIGER D): a running goat for movement, lungs for respiration, a plate of rice, beans and plantain for nutrition, a hand pulling away from a flame for irritability, maize plants for growth, a kidney for excretion, a hen with chicks for reproduction and a wilted plant for death](images/A1-characteristics-of-living-things.png)
 
 ### Each characteristic in more detail
 
@@ -109,9 +109,9 @@ Most cells are too small to see with the naked eye. We use a **light microscope*
 1. **Onion epidermis (plant cells):** peel the thin inner skin from a fleshy leaf of an onion bulb, place it flat on a slide in a drop of water or dilute iodine solution, cover with a cover slip and look under the microscope. You will see brick-shaped cells arranged in rows, each with a clear cell wall, a nucleus pushed to one side and a large vacuole. Iodine stains the nucleus yellow-brown. Onion epidermis cells have **no chloroplasts**, because the bulb grows underground and gets no light.
 2. **Cheek cells (animal cells):** gently scrape the inside of your cheek with a clean spatula, smear it on a slide, add a drop of methylene blue stain and cover. You will see flat, irregular cells, each with a thin cell membrane, cytoplasm and a dark-blue nucleus in the middle. There is no cell wall and no large vacuole.
 
-[IMAGE: Labelled diagram of a typical animal cell (e.g. a cheek cell) showing: cell membrane, cytoplasm, nucleus, nuclear membrane, nucleolus, mitochondria, ribosomes, endoplasmic reticulum, Golgi body, small vacuoles, lysosome and centrioles. Rounded, irregular shape. Clean textbook style, white background.]
+![Labelled diagram of a typical animal cell showing cell membrane, cytoplasm, nucleus, nuclear membrane, nucleolus, mitochondria, ribosomes, endoplasmic reticulum, Golgi body, vacuoles, lysosomes and centrioles](images/A1-animal-cell.png)
 
-[IMAGE: Labelled diagram of a typical plant cell (e.g. a leaf palisade cell) showing: cell wall, cell membrane, cytoplasm, nucleus, large central vacuole with cell sap, chloroplasts, mitochondria, ribosomes, endoplasmic reticulum and Golgi body. Regular rectangular shape. Clean textbook style, white background.]
+![Labelled diagram of a typical plant cell showing cell wall, cell membrane, cytoplasm, large central vacuole, nucleus, nucleolus, chloroplasts, mitochondria, ribosomes, endoplasmic reticulum and Golgi body](images/A1-plant-cell.png)
 
 ### Parts of the cell and what they do
 
@@ -178,7 +178,7 @@ Both plant and animal cells:
 | Food stored as | Starch (and oil) | Glycogen (and fat) |
 | Cytoplasm | A thin layer pressed against the cell wall | Fills most of the cell |
 
-[IMAGE: Side-by-side comparison of a plant cell and an animal cell, with the plant-only parts (cell wall, chloroplasts, large central vacuole) highlighted in green and the animal-only parts (centrioles) highlighted in orange. Labels on both.]
+![Plant cell and animal cell side by side, with the plant-only parts (cell wall, chloroplasts, large central vacuole) labelled in green and the animal-only centrioles labelled in orange](images/A1-plant-vs-animal-cell.png)
 
 **Memory trick:** plants need a **wall** to stand up, **chloroplasts** to make food and a **big vacuole** to stay firm. Animals move around and eat their food, so they don't need these.
 
@@ -190,7 +190,7 @@ In living things, the work of life is shared out in five levels, from the simple
 
 **Cell → Tissue → Organ → System → Organism**
 
-[IMAGE: A left-to-right flow diagram of the five levels of organisation with an arrow between each: a single muscle cell → muscle tissue → the heart (organ) → the circulatory system → a human being (organism). Each stage labelled.]
+![Flow diagram of the levels of organisation: a muscle cell, muscle tissue, the heart (organ), the circulatory system and a whole human (organism)](images/A1-levels-of-organisation.png)
 
 As you go up the levels:
 
@@ -207,7 +207,7 @@ At the cell level, a single cell is the whole organism. It carries out **all** t
 
 **Syllabus examples:** *Euglena* and *Paramecium*. (*Amoeba* and *Chlamydomonas* are also at this level.)
 
-[IMAGE: Labelled diagrams of Euglena (showing flagellum, eyespot, chloroplasts, nucleus, contractile vacuole, pellicle) and Paramecium (showing cilia, oral groove, food vacuoles, macronucleus, micronucleus, contractile vacuoles).]
+![Labelled diagrams of Euglena (flagellum, eyespot, contractile vacuole, chloroplasts, nucleus, pellicle) and Paramecium (cilia, oral groove, food vacuoles, macronucleus, micronucleus, contractile vacuoles)](images/A1-euglena-paramecium.png)
 
 #### *Euglena*
 
@@ -261,7 +261,7 @@ A **tissue** is a group of similar cells that work together to perform one funct
 | Ciliated | Columnar cells with cilia | Trachea, bronchi, oviducts (fallopian tubes) | Cilia sweep mucus and trapped dust out of the airways; they move the egg along the oviduct |
 | Stratified | Many layers of cells | Skin (epidermis), lining of the mouth and oesophagus | Protects against wear and tear |
 
-[IMAGE: Four small side-by-side panels showing types of epithelial tissue in simple cross-section: squamous (flat tile-like cells), cuboidal (cube cells), columnar (tall cells), and ciliated columnar (tall cells with tiny hairs on top), each sitting on a thin basement membrane line. Flat textbook style, soft pink and purple tones, white background.]
+![Four types of epithelial tissue on a basement membrane: squamous, cuboidal, columnar and ciliated columnar](images/A1-epithelial-tissues.png)
 
 Other important tissues include:
 
@@ -288,7 +288,7 @@ Other important tissues include:
 
 **Why tissue level?** *Hydra*'s cells are grouped into layers that act as simple tissues, but it has no true organs, such as a heart, kidney or brain.
 
-[IMAGE: Diagram of Hydra in longitudinal section, showing tentacles, mouth on the hypostome, enteron (body cavity), ectoderm, endoderm, mesoglea, a bud growing from the side, and the basal disc attached to a water plant. Flat textbook style, soft greens and blues, white background.]
+![Longitudinal section of Hydra showing tentacles, mouth on the hypostome, enteron, ectoderm, mesoglea, endoderm, a bud and the basal disc attached to a water plant](images/A1-hydra.png)
 
 ### 3. Organ level
 
@@ -315,7 +315,7 @@ Parts of an onion bulb (cut lengthwise):
 
 Other examples of organs: in animals, the heart, stomach, kidney, eye and brain; in plants, the leaf, root, stem and flower.
 
-[IMAGE: Longitudinal section of an onion bulb showing the flattened disc-like stem at the base, adventitious roots, fleshy scale leaves, dry papery outer scale leaves, terminal bud in the centre and an axillary bud. Flat textbook illustration, soft purples, creams and browns, white background.]
+![Longitudinal section of an onion bulb showing the flattened disc-shaped stem, adventitious roots, fleshy scale leaves, dry papery scale leaves, terminal bud and axillary bud](images/A1-onion-bulb.png)
 
 ### 4. System level
 
@@ -362,7 +362,7 @@ The **organism** is the whole living thing. At this level, all the cells, tissue
 | Nucleus | Sits inside the "cup" of the chloroplast; controls the cell |
 | Reproduction | Asexually by dividing inside the parent wall to form 2 to 8 (sometimes more) daughter cells (zoospores); sexually by the fusion of gametes |
 
-[IMAGE: Labelled diagram of Chlamydomonas showing two flagella, cell wall, cup-shaped chloroplast, pyrenoid, eyespot, contractile vacuoles and nucleus. Flat textbook style, soft greens, white background.]
+![Labelled diagram of Chlamydomonas showing two flagella, cell wall, cup-shaped chloroplast, pyrenoid, eyespot, contractile vacuoles and nucleus](images/A1-chlamydomonas.png)
 
 **Note:** a single-celled organism like *Chlamydomonas* is at the cell level and the organism level at the same time, because its one cell is the whole organism. JAMB lists it under the **organism level** to show that a complete, independent living thing can be just one cell.
 

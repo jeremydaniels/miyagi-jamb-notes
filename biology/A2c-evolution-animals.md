@@ -68,7 +68,7 @@ To trace the advancement of animals, biologists compare a few key features. As a
 | **Skeleton** | None, or a fluid (hydrostatic) skeleton | Exoskeleton (arthropods), then a jointed endoskeleton of bone (vertebrates) |
 | **Organ systems** | Few or none | Well-developed circulatory, excretory, nervous and reproductive systems |
 
-[IMAGE: Two simple diagrams side by side comparing body symmetry. Left: a Hydra seen from above, showing radial symmetry, with several faint dashed lines through its centre. Right: an earthworm or a simple bilaterally symmetrical animal seen from above, with one faint dashed line down the middle dividing it into left and right halves. Flat textbook style, soft greens and pinks, white background, no text.]
+![Radial symmetry in Hydra (many lines of symmetry through the central mouth) compared with bilateral symmetry in an earthworm (one line dividing it into left and right halves)](images/A2c-symmetry.png)
 
 ## Invertebrates
 
@@ -96,7 +96,7 @@ The coelenterates (also called **Cnidaria**) include *Hydra*, jellyfish, sea ane
 - At the bottom, a sticky **basal disc**, used to attach to water plants and stones.
 - Buds, testes or ovaries may be seen as swellings on the side of the body.
 
-[IMAGE: Diagram of Hydra in longitudinal section, showing tentacles, mouth on the hypostome, enteron (body cavity), ectoderm, endoderm, mesoglea, a bud growing from the side, and the basal disc attached to a water plant. Flat textbook style, soft greens and blues, white background.]
+![Longitudinal section of Hydra showing tentacles, mouth on the hypostome, enteron, ectoderm, mesoglea, endoderm, a bud and the basal disc attached to a water plant](images/A1-hydra.png)
 
 #### How *Hydra* lives
 
@@ -162,7 +162,7 @@ Adult tapeworms live attached to the inside wall of the **small intestine** of h
 | Mature proglottids | In the middle | Contain fully developed male and female organs; fertilisation happens here |
 | Gravid proglottids | Oldest, largest ones at the end | Filled with a branched uterus packed with thousands of fertilised eggs; break off and pass out in faeces |
 
-[IMAGE: Diagram of a tapeworm (Taenia): an enlarged scolex at the top with four round suckers and a crown of hooks on the rostellum, a narrow neck, and a long ribbon-like chain of flat proglottids that get larger towards the end, with a few separate enlarged proglottids showing a mature segment with reproductive organs and a gravid segment filled with a branched uterus full of eggs. Flat textbook style, soft creams and pinks, white background, no text.]
+![Pork tapeworm (Taenia) showing the scolex, neck and chain of proglottids, with an enlarged scolex (suckers and hooks on the rostellum), a mature proglottid (testes, ovary, genital pore) and a gravid proglottid with a branched uterus full of eggs](images/A2c-tapeworm.png)
 
 #### Adaptations of *Taenia* to its parasitic life
 
@@ -191,7 +191,7 @@ Adult tapeworms live attached to the inside wall of the **small intestine** of h
 
 The life history of the beef tapeworm is the same, except that the intermediate host is a cow, which picks up the eggs while grazing on contaminated pasture.
 
-[IMAGE: Circular life cycle diagram of the pork tapeworm: an adult tapeworm in a human intestine → gravid proglottids passing out in faeces onto the ground → a pig eating contaminated food → six-hooked embryo boring through the pig's gut wall into blood → bladder worms (cysticerci) as small round cysts in pig muscle → raw or undercooked pork being eaten by a human → back to adult tapeworm in the human intestine. Flat textbook style, soft pinks, creams and browns, white background, no text.]
+![Life cycle of the pork tapeworm: adult in the human intestine, egg-filled segments passed in faeces, pig eats the eggs, six-hooked embryo bores through the gut wall, bladder worms form in pig muscle, human eats undercooked pork](images/A2c-tapeworm-life-cycle.png)
 
 **Prevention and control of tapeworm infection:**
 
@@ -236,7 +236,7 @@ Nematodes are **roundworms**. Many live freely in the soil and water; others are
 - The mouth is at the front, surrounded by **three lips**.
 - Four faint lines run along the body.
 
-[IMAGE: An adult female and an adult male Ascaris roundworm side by side: long smooth creamy-pink cylindrical worms tapering at both ends; the female longer and straight, the male shorter with a curled tail. An enlarged front view of the mouth with three lips. Flat textbook style, soft pinks and creams, white background, no text.]
+![Adult female Ascaris (longer, straight) and male (shorter, curled tail), with a front view of the head end showing the mouth and three lips](images/A2c-ascaris.png)
 
 **Life history of *Ascaris*:**
 
@@ -283,7 +283,7 @@ Earthworms are common in moist, rich soil in Nigeria. In the rainy season, their
 | Dorsal and ventral surfaces | Upper surface darker; lower surface flatter and paler | The ventral surface is pressed against the soil |
 | Genital openings | Small pores on certain segments in front of the clitellum | Pass out sperm and eggs |
 
-[IMAGE: An earthworm in side view on soil showing its long ringed body with many segments, the pointed front end with the prostomium overhanging the mouth, a smooth swollen saddle-like clitellum about one third of the way along, the blunt tail end with the anus, and an enlarged inset of a few segments showing tiny paired bristles (chaetae) on the underside. Flat textbook style, soft pinks and browns, white background, no text.]
+![Earthworm showing the prostomium, segments, clitellum and anus, with an enlarged view of segments from underneath showing paired chaetae](images/A2c-earthworm.png)
 
 #### How the earthworm moves
 
@@ -397,7 +397,7 @@ In warm tropical conditions, the whole cycle takes about **10 to 14 days**.
 | Wings | Spotted (dark patches of scales) | Plain, not spotted |
 | Disease carried | Malaria (and filariasis) | Filariasis (elephantiasis) |
 
-[IMAGE: Life cycle of the mosquito drawn as a circle on and in water, with arrows: eggs floating on the water surface → larva hanging just below the surface breathing through a tube at its tail → comma-shaped pupa with two small breathing trumpets at the surface → adult mosquito emerging from the pupal skin on the water surface → adult female mosquito flying. Water shown as a light blue band. Flat textbook style, soft blues, greys and browns, white background, no text.]
+![Life cycle of the mosquito: eggs floating on the water, larva hanging below the surface with its breathing tube, comma-shaped pupa with breathing trumpets, adult emerging and flying off](images/A2c-mosquito-life-cycle.png)
 
 **Control of mosquitoes:**
 
@@ -419,7 +419,7 @@ The common cockroach in Nigerian homes is the **American cockroach** (*Periplane
 - Three pairs of long, spiny, jointed legs, adapted for running.
 - At the tip of the abdomen, a pair of jointed **cerci** (feelers that detect air movements); males also have a pair of thin **anal styles**.
 
-[IMAGE: Dorsal (top) view of an adult cockroach with long thread-like antennae, compound eyes, a broad shield-like pronotum behind the head, two leathery forewings covering most of the abdomen, three pairs of spiny jointed legs, and a pair of short cerci at the tail end. Flat textbook style, warm reddish-browns, white background, no text.]
+![Dorsal view of a cockroach showing antennae, compound eyes, head, pronotum, leathery forewings, jointed spiny legs and cerci](images/A2c-cockroach.png)
 
 **Life history of the cockroach (incomplete metamorphosis):**
 
@@ -460,7 +460,7 @@ The housefly (*Musca domestica*) is found wherever people live, especially near 
 
 In warm weather, the whole cycle can take as little as **7 to 10 days**, which is why flies multiply so fast.
 
-[IMAGE: Circular life cycle of the housefly with arrows: a cluster of white banana-shaped eggs on rotting material → white, legless, tapering maggot → dark brown barrel-shaped pupa case (puparium) → adult housefly with one pair of wings and hairy legs. Flat textbook style, soft greys, creams and browns, white background, no text.]
+![Life cycle of the housefly: eggs on rotting food, legless maggot (larva), barrel-shaped puparium, adult housefly](images/A2c-housefly-life-cycle.png)
 
 **Control of houseflies:**
 
@@ -480,7 +480,7 @@ The honey bee (*Apis mellifera*) is a **social insect** that lives in large colo
 - **Thorax:** two pairs of thin, clear wings, hooked together in flight. Three pairs of legs: the hind legs have a **pollen basket** (a hollow fringed with stiff hairs) for carrying pollen; the front legs have an **antenna cleaner**.
 - **Abdomen:** wax glands underneath, and a barbed **sting** at the tip, connected to a poison sac. The sting is a modified egg-laying tube, so only females (workers and queen) can sting.
 
-[IMAGE: An adult honey bee worker in side view, showing its hairy body with dark and golden bands on the abdomen, large compound eyes, elbowed antennae, a long tongue, two pairs of clear wings, three pairs of legs with a yellow pollen load in the pollen basket on the hind leg, and the sting at the end of the abdomen. Flat textbook style, warm golds, browns and soft blues, white background, no text.]
+![Worker honey bee in side view showing antennae, compound eye, head, long tongue, hairy thorax, two pairs of wings, banded abdomen, pollen basket with pollen load and sting](images/A2c-honeybee.png)
 
 **Life history of the honey bee (complete metamorphosis):**
 
@@ -511,7 +511,7 @@ Butterflies are common in gardens, farms and forests, especially in the rainy se
 3. **Pupa (chrysalis):** the fully grown caterpillar attaches itself to a twig or leaf with a pad of silk and changes into a **chrysalis**. It does not feed or move much; inside, the body is completely reorganised into the adult.
 4. **Adult (imago):** after one to a few weeks, the chrysalis splits and the adult butterfly crawls out. It pumps blood into its crumpled wings to expand them, waits for them to dry and harden, then flies off to feed on nectar and mate.
 
-[IMAGE: Circular life cycle of a butterfly with arrows: small round eggs on a leaf → a green caterpillar eating a leaf, showing true legs at the front and fleshy prolegs behind → a chrysalis hanging from a twig → an adult butterfly with large, brightly coloured open wings and clubbed antennae feeding on a flower. Flat textbook style, soft greens, oranges and yellows, white background, no text.]
+![Life cycle of a butterfly: eggs on a leaf, caterpillar with true legs and prolegs, chrysalis hanging from a twig, adult butterfly with clubbed antennae feeding on a flower](images/A2c-butterfly-life-cycle.png)
 
 #### Comparing the insects studied
 
@@ -554,7 +554,7 @@ Giant African land snails, such as *Archachatina marginata* and *Achatina achati
 | Breathing pore (pneumostome) | An opening on the right side, under the edge of the shell | Lets air into the **mantle cavity**, which acts as a **lung** |
 | Radula | Inside the mouth | Rasps (scrapes) leaves, fruits and other plant matter |
 
-[IMAGE: A giant African land snail in side view, gliding on a leaf: a large brown spirally coiled shell with darker stripes, a soft grey-brown body with a broad flat foot leaving a faint slime trail, two pairs of tentacles on the head with dark eyes at the tips of the longer upper pair, and a small round breathing pore under the edge of the shell. Flat textbook style, soft browns and creams, white background, no text.]
+![Giant African land snail showing the spiral shell, eyes on the upper tentacles, lower tentacles, muscular foot, breathing pore and slime trail](images/A2c-snail.png)
 
 **Life history of the land snail:**
 
@@ -681,7 +681,7 @@ Fish are vertebrates that live in water, breathe with **gills**, and move with *
 | Mouth | At the front tip of the head (terminal) | Feeding; takes in water for breathing |
 | Swim bladder (internal) | A gas-filled sac under the backbone | Controls buoyancy, so the fish can float at any depth without effort |
 
-[IMAGE: Side view of a bony fish (Tilapia type): streamlined body covered in overlapping scales, a bony gill cover (operculum) behind the head, a terminal mouth, a large eye without eyelids, a nostril on the snout, a dotted lateral line along the side, a spiny dorsal fin on the back, a pectoral fin behind the gill cover, a pelvic fin underneath, an anal fin near the tail and a forked caudal (tail) fin. Flat textbook style, soft silver-greys and blues, white background, no text.]
+![Tilapia in side view showing mouth, nostril, eye, operculum, scales, lateral line, spiny dorsal fin, pectoral, pelvic and anal fins, and the tail fin](images/A2c-tilapia.png)
 
 #### Cartilaginous and bony fish compared
 
@@ -732,7 +732,7 @@ Amphibians ("double life") live part of their life in water and part on land. Th
 | Eggs (spawn) | Laid in long **strings** of jelly, wound around water plants | Laid in **clumps** (masses) of jelly |
 | Body shape | Broad and squat | Slender and streamlined |
 
-[IMAGE: A toad and a frog side by side for comparison: left, a squat brown toad with dry warty skin, a large parotid gland bulge behind each eye and short hind legs; right, a slender green frog with smooth moist skin, a round eardrum (tympanum) behind the eye, long powerful hind legs and fully webbed hind feet. Flat textbook style, soft browns and greens, white background, no text.]
+![Toad (dry warty skin, parotid gland, short hind legs) compared with a frog (smooth moist skin, tympanum, long hind legs, webbed hind feet)](images/A2c-toad-frog.png)
 
 #### Life history of a toad or frog
 
@@ -748,7 +748,7 @@ Amphibians ("double life") live part of their life in water and part on land. Th
 
 The whole process from egg to young adult takes several weeks to a few months, depending on the species and the temperature.
 
-[IMAGE: Circular life cycle diagram of a frog with arrows: a clump of frog spawn (black eggs in jelly) in water → a young tadpole with feathery external gills → a tadpole with a long tail and no external gills → a tadpole with small hind legs → a tadpole with all four legs and a shrinking tail → a small froglet with a stump of tail climbing out of water → an adult frog on land. Flat textbook style, soft greens and blues, white background, no text.]
+![Life cycle of a frog: frog spawn, tadpole with external gills, tadpole with internal gills, hind legs grow, front legs grow and tail shrinks, froglet leaves water, adult frog](images/A2c-frog-life-cycle.png)
 
 ### Reptilia (lizards, snakes and turtles)
 
@@ -777,7 +777,7 @@ The rainbow lizard or Agama is one of the most familiar animals in Nigeria, seen
 - The breeding male has a bright **orange-red head and tail** and a dark blue body; the female and young males are a dull brown, with spots on the sides. (Their behaviour is covered in Topic A3.)
 - **Life history:** after internal fertilisation, the female digs a hole in moist, sandy soil with her snout and lays about 5 to 7 oval, leathery-shelled eggs. She covers them and leaves them; the sun's warmth incubates them. The young hatch after several weeks and look like small, brown adults.
 
-[IMAGE: A male Agama lizard on a rock with a bright orange-red head and the front of the tail, dark blue-black body, long tail, four limbs with clawed toes and visible ear opening; beside it a smaller brown female Agama with lighter spots on the sides. Flat textbook style, warm oranges, blues and browns, white background, no text.]
+![Male Agama lizard with an orange-red head, dark blue-black body, clawed toes and long tail, beside a smaller brown spotted female](images/A2c-agama.png)
 
 **Snakes**
 
@@ -848,7 +848,7 @@ Mammals include humans, goats, cattle, dogs, rats, bats, monkeys, whales and man
 4. The young is **born alive**.
 5. The mother feeds the young on **milk** from her mammary glands and protects it until it can look after itself.
 
-[IMAGE: Two panels side by side. Left: a bird (a domestic hen) with feathers, beak, wings, scaly legs with clawed toes, and a nest with eggs beside it. Right: a mammal (a West African dwarf goat) with hair, external ears, and a mother goat suckling a kid from her udder. Flat textbook style, warm creams, browns and soft greens, white background, no text.]
+![A bird (hen with beak, feathers, wings, scaly legs and eggs in a nest) beside a mammal (goat with hair, external ears and a kid suckling milk from the udder)](images/A2c-bird-mammal.png)
 
 ### Comparing the classes of vertebrates
 
@@ -892,7 +892,7 @@ The vertebrate classes show a clear story of advancement, from life in water to 
 
 **Textbook note:** birds and mammals both evolved from reptile ancestors, along separate lines. Mammals did not evolve from birds. The order fish → amphibians → reptiles → birds/mammals reflects increasing complexity and the order in which the groups appear in the fossil record.
 
-[IMAGE: A left-to-right evolution ladder of vertebrates from water to land: a fish in water → a frog at the water's edge → a lizard on a dry rock → a bird and a goat on dry land at the top. A rising line beneath them shows water fading into dry land. Flat textbook style, soft blues, greens and browns, white background, no text.]
+![Vertebrates from water to dry land: fish, amphibian (frog), reptile (lizard), bird (hen) and mammal (goat)](images/A2c-vertebrate-evolution.png)
 
 ## Economic importance of the vertebrates
 

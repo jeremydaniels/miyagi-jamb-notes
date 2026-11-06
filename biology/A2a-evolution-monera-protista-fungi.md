@@ -63,7 +63,7 @@ The syllabus uses the **five-kingdom system** proposed by **R. H. Whittaker** in
 - Modern biologists split Monera into two groups, **Bacteria** and **Archaea**, and some books use a three-domain system (Bacteria, Archaea, Eukarya). JAMB still uses the five kingdoms.
 - Organisms like *Euglena* and *Chlamydomonas* have been placed in different kingdoms by different authors (Protista or Plantae). Unicellular green algae are sometimes grouped with plants. The JAMB syllabus places *Euglena* in Protista.
 
-[IMAGE: A simple "tree" or ladder diagram showing the five kingdoms arranged from simple to complex: Monera (a rod-shaped bacterium) at the bottom, then Protista (an Amoeba), Fungi (a mushroom), and branching at the top into Plantae (a fern and a flowering plant) and Animalia (a fish and a goat). Arrows show increasing complexity upward. Flat textbook style, soft pastel colours, white background, no text.]
+![Tree diagram of the five kingdoms from simplest to most complex: Monera (bacterium), Protista (Amoeba), Fungi (mushroom), then branching into Plantae (fern and flowering plant) and Animalia (fish and goat)](images/A2a-five-kingdoms.png)
 
 ### Prokaryotes and eukaryotes
 
@@ -111,7 +111,7 @@ Bacteria (singular: bacterium) are the smallest cellular organisms. They can onl
 | Pili (in some) | Short hair-like threads | Attach to surfaces and to other bacteria |
 | Food granules | Stores of glycogen and fat droplets | Food reserve |
 
-[IMAGE: Diagram of a rod-shaped bacterial cell cut open to show: capsule, cell wall, cell membrane, cytoplasm, circular DNA (nucleoid), small plasmid rings, ribosomes as dots, a long flagellum at one end and short pili around the surface. Flat textbook style, soft blue and lilac palette, white background.]
+![Labelled diagram of a rod-shaped bacterial cell showing pili, capsule, cell wall, cell membrane, cytoplasm, circular DNA (nucleoid), plasmids, ribosomes and a flagellum](images/A2a-bacterial-cell.png)
 
 #### Shapes of bacteria
 
@@ -124,7 +124,7 @@ Bacteria are often named and identified by their shape:
 | Spiral | **Spirillum** (plural: spirilla) | *Spirillum*; the corkscrew-shaped *Treponema pallidum* (syphilis) is a spirochaete |
 | Comma-shaped | **Vibrio** (plural: vibrios) | *Vibrio cholerae* (cholera) |
 
-[IMAGE: Four panels showing the main shapes of bacteria: round cocci in pairs, chains and grape-like clusters; rod-shaped bacilli; spiral spirilla; and comma-shaped vibrios. Each shape drawn as simple smooth cells in soft colours on white background. Flat textbook illustration, no text.]
+![The main shapes of bacteria: cocci (diplococci in pairs, streptococci in chains, staphylococci in clusters), rod-shaped bacilli, spiral spirilla and comma-shaped vibrios](images/A2a-bacteria-shapes.png)
 
 #### Nutrition in bacteria
 
@@ -149,7 +149,7 @@ When conditions become bad (very dry, hot or short of food), some bacteria, such
 
 Some bacteria can also exchange genes by **conjugation**, in which DNA (often a plasmid) passes from one cell to another through a tube.
 
-[IMAGE: Step-by-step diagram of binary fission in a rod-shaped bacterium in four stages: (1) single cell with circular DNA, (2) DNA copied into two loops, (3) cell lengthening with membrane pinching in the middle, (4) two separate identical daughter cells. Arrows between stages. Flat textbook style, soft blue palette, white background, no text.]
+![Binary fission in a bacterium in four stages: one parent cell, DNA copied, cell pinching in the middle, two identical daughter cells](images/A2a-bacteria-binary-fission.png)
 
 #### Economic importance of bacteria
 
@@ -182,7 +182,7 @@ Blue-green algae are prokaryotes that can **photosynthesise**. They are found in
 
 *Nostoc* grows as jelly-like balls or sheets on damp soil and in ponds. Inside the jelly are many twisted, bead-like threads (filaments), each made of a chain of round cells. Here and there along the filament are larger, pale, thick-walled **heterocysts**, which fix nitrogen.
 
-[IMAGE: A Nostoc colony: a jelly-like mass containing several bead-like filaments of small round blue-green cells, with occasional larger, paler, thick-walled heterocysts in the chains, and a resting spore (akinete). Magnified view. Flat textbook style, soft blue-green tones, white background, no text.]
+![A Nostoc colony of bead-like filaments in a jelly-like sheath, with an enlarged filament showing ordinary cells, a heterocyst and an akinete (resting spore)](images/A2a-nostoc.png)
 
 #### Reproduction in blue-green algae
 
@@ -251,7 +251,7 @@ The syllabus divides them into two groups:
 | Food vacuoles | Bubbles containing food and enzymes | Digestion of food |
 | Contractile vacuole | A clear vacuole that fills and empties | Removes excess water (osmoregulation) |
 
-[IMAGE: Diagram of Amoeba with an irregular outline and three or four blunt pseudopodia; showing the clear ectoplasm, granular endoplasm, nucleus, a contractile vacuole and several food vacuoles, with one pseudopodium wrapping around a small food particle. Flat textbook style, soft grey-blue and lilac palette, white background, no text.]
+![Labelled diagram of Amoeba showing pseudopodia, ectoplasm, endoplasm, nucleus, contractile vacuole, food vacuoles and a food particle being surrounded by pseudopodia](images/A2a-amoeba.png)
 
 #### Life processes in *Amoeba*
 
@@ -275,7 +275,7 @@ The syllabus divides them into two groups:
 
 **2. Encystment and multiple fission (in bad conditions):** when the pond dries up or becomes too cold or foul, *Amoeba* rounds up and forms a tough protective wall around itself, called a **cyst**. Inside the cyst, it can stay alive without feeding. In some species the nucleus divides many times (multiple fission) inside the cyst to form many tiny amoebae. When conditions improve, the cyst bursts and the young amoebae are released. Cysts can also be blown by the wind to new ponds.
 
-[IMAGE: Step-by-step diagram of binary fission in Amoeba in four stages: a rounded Amoeba with one nucleus; the nucleus dividing into two; the cytoplasm pinching in at the middle; two small separate daughter amoebae. Arrows between stages. Flat textbook style, soft grey-blue palette, white background, no text.]
+![Binary fission in Amoeba in four stages: parent amoeba, nucleus divides, cytoplasm divides, two daughter amoebae](images/A2a-amoeba-binary-fission.png)
 
 **Relative of note:** *Entamoeba histolytica*, a relative of *Amoeba*, is a parasite that causes **amoebic dysentery** when its cysts are swallowed in dirty water or food.
 
@@ -291,7 +291,7 @@ The syllabus divides them into two groups:
 - A red **eyespot** (stigma) near the gullet.
 - Many oval **chloroplasts** in the cytoplasm.
 
-[IMAGE: Labelled-style diagram of Euglena: spindle-shaped green cell with a long flagellum coming out of a flask-shaped reservoir at the front, a red eyespot beside the reservoir, a contractile vacuole, many oval chloroplasts, a central nucleus, paramylon granules and a striped pellicle. Flat textbook style, soft greens, white background, no text.]
+![Labelled diagram of Euglena showing the flagellum, reservoir (gullet), eyespot, contractile vacuole, chloroplasts, paramylon granules, nucleus and pellicle](images/A2a-euglena.png)
 
 #### Characteristics shared with plants and animals
 
@@ -327,7 +327,7 @@ No sexual reproduction has been confirmed in *Euglena*.
 - A shallow groove, the **oral groove**, runs along one side to the **cytostome** (cell mouth) and gullet.
 - Two star-shaped **contractile vacuoles**, one at each end.
 
-[IMAGE: Labelled-style diagram of Paramecium: slipper-shaped cell covered in fine cilia, an oral groove leading to a gullet, several round food vacuoles, a large bean-shaped macronucleus with a small micronucleus beside it, two star-shaped contractile vacuoles with radiating canals at each end, trichocysts under the pellicle and an anal pore. Flat textbook style, soft blue and peach palette, white background, no text.]
+![Labelled diagram of Paramecium showing cilia, oral groove, gullet, food vacuoles, macronucleus, micronucleus, contractile vacuoles with radiating canals, trichocysts and anal pore](images/A2a-paramecium.png)
 
 #### Characteristics
 
@@ -360,7 +360,7 @@ This can happen two or three times a day when food is plentiful.
 
 Conjugation does not increase numbers straight away, but it mixes genes, giving variation and making the offspring healthier and more able to survive.
 
-[IMAGE: Two Paramecium cells joined side by side at their oral grooves during conjugation, with a small bridge between them and two nuclei exchanging across the bridge. Simple, clear, flat textbook style, soft blue and peach palette, white background, no text.]
+![Two Paramecium cells joined during conjugation, with a cytoplasmic bridge between them and micronuclei crossing the bridge](images/A2a-paramecium-conjugation.png)
 
 ### Comparing *Amoeba*, *Euglena* and *Paramecium*
 
@@ -410,7 +410,7 @@ Conjugation does not increase numbers straight away, but it mixes genes, giving 
 | Columella | A dome-shaped swelling inside the sporangium | Supports the sporangium |
 | Spores | Tiny, light, dry cells in the sporangium | Dispersed by wind; each grows into a new mycelium |
 
-[IMAGE: Diagram of Rhizopus growing on a slice of bread: white hyphae forming a mycelium, an arching stolon, clusters of root-like rhizoids going into the bread, and upright sporangiophores each ending in a round black sporangium; one sporangium cut open to show the dome-shaped columella and many tiny spores. Flat textbook style, soft greys, creams and black, white background, no text.]
+![Rhizopus growing on bread showing mycelium, stolon, rhizoids, sporangiophores and sporangia, with an enlarged sporangium cut open to show the columella and spores](images/A2a-rhizopus.png)
 
 #### Nutrition in *Rhizopus*
 
@@ -440,7 +440,7 @@ Conjugation does not increase numbers straight away, but it mixes genes, giving 
 6. When conditions improve, the zygospore germinates (meiosis takes place) and produces a short hypha with a sporangium at its tip, called a **germ sporangium**.
 7. The germ sporangium releases spores, which grow into new mycelia of both + and – strains.
 
-[IMAGE: Step-by-step diagram of sexual reproduction (conjugation) in Rhizopus in four stages: two hyphae growing towards each other; their tips swelling and touching; gametangia forming and fusing; a dark, thick-walled warty zygospore between the two parent hyphae; and finally the zygospore germinating to form a germ sporangium. Arrows between stages. Flat textbook style, soft greys and browns, white background, no text.]
+![Sexual reproduction (conjugation) in Rhizopus in five stages: hyphae grow towards each other, tips swell and touch, gametangia form and fuse, a zygospore forms, and the zygospore germinates into a germ sporangium](images/A2a-rhizopus-conjugation.png)
 
 ### Mushroom
 
@@ -458,7 +458,7 @@ A mushroom is the **fruiting body** of a fungus that mostly lives as a mycelium 
 | Basidia | Club-shaped cells on the surface of the gills | Each produces four **basidiospores** |
 | Volva (in some, e.g. *Amanita*) | A cup at the base of the stalk | Remains of a covering around the young mushroom |
 
-[IMAGE: A mushroom drawn whole and cut in half lengthwise, showing the cap, gills under the cap, the ring around the stalk, the stalk, and the white thread-like mycelium in the soil below. Beside it, a magnified view of a gill surface with club-shaped basidia each bearing four basidiospores. Flat textbook style, warm creams and browns, white background, no text.]
+![A mushroom cut lengthwise showing cap, gills, ring, stalk and mycelium in the soil, with a magnified gill surface showing basidia bearing four basidiospores each](images/A2a-mushroom.png)
 
 #### Life history of a mushroom
 
@@ -471,7 +471,7 @@ A mushroom is the **fruiting body** of a fungus that mostly lives as a mycelium 
 7. **Spore formation:** on the gills, in each basidium, the two nuclei fuse (fertilisation). The fused nucleus then divides by meiosis into four nuclei, which pass into four **basidiospores** on short stalks at the tip of the basidium.
 8. The basidiospores are shot off and blown away, and the cycle starts again.
 
-[IMAGE: Circular life cycle diagram of a mushroom with arrows: spores falling from gills → spore germinating into a thin primary mycelium → two hyphae fusing → secondary mycelium in soil → small button stage just above the soil → mature mushroom with open cap and gills → back to spores. Flat textbook style, warm creams and browns, white background, no text.]
+![Life cycle of a mushroom: spores fall from the gills, a spore germinates into primary mycelium, two hyphae fuse, secondary mycelium grows in the soil, a button stage appears and grows into a mature mushroom](images/A2a-mushroom-life-cycle.png)
 
 **Edible vs poisonous mushrooms:** many mushrooms are nutritious and rich in protein, but some, such as the death cap (*Amanita phalloides*), are deadly poisonous. Poisonous and edible species can look very alike, so wild mushrooms should only be eaten when identified by an expert.
 

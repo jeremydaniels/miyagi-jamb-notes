@@ -4,19 +4,21 @@
 
 Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB syllabus. Students read them in the Miyagi Labs app.
 
-- Official syllabi live in `syllabi/` (e.g. `syllabi/biology-syllabus.md`). They are the source of truth for what must be covered.
+- Official syllabi live in `syllabi/` (e.g. `syllabi/biology-syllabus.md`, and `syllabi/biology-section-a.md` for Section A only). They are the source of truth for what must be covered. Syllabus files are typed exactly as written, mistakes included; errors are explained in a "Transcription notes" section, never silently corrected.
 - The style and depth reference is `samples/sample-living-organisms.md`. Match it.
 
 ## Workflow
 
 - Always show a plan and wait for approval before writing any content.
-- Commit to `main` after each topic is finished (one commit per topic file).
+- Always work on `main`. No other branches. Commit and push to `main` after every task (one commit per topic file, and one commit per topic's images).
+- Write all the notes for a batch first, then generate images topic by topic in the same order. Every finished topic must look complete on its own.
 - Before committing a topic, check it against the syllabus (see "Coverage check" below).
 
 ## File structure
 
 - Each subject gets its own folder: `biology/`, `chemistry/`, `physics/`, etc.
-- One Markdown file per syllabus topic, numbered in syllabus order (e.g. `biology/A1-living-organisms.md`, `biology/A2-...md`).
+- One Markdown file per syllabus topic, numbered in syllabus order (e.g. `biology/A1-living-organisms.md`, `biology/A2-...md`). A topic too big for one file is split with letter suffixes (e.g. `A2a-`, `A2b-`, `A2c-`).
+- Images live in `biology/images/` with clear names prefixed by the topic file (e.g. `A1-plant-cell.png`).
 
 ## Content rules
 
@@ -45,3 +47,16 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 2. Confirm each one has its own heading or a clearly explained section in the notes, and each "compare/differentiate/contrast" objective has a table.
 3. Confirm the four closing sections are present, the summary has 5 to 8 points, and there are exactly 10 practice questions with answers.
 4. Re-read for factual accuracy and flag any textbook variations in the text.
+
+## Image rules
+
+- The Gemini API key is in the `GEMINI_API_KEY` environment variable. Never print, log or commit it.
+- Use the cheapest current Gemini image model that gives clean, accurate illustrations. Check the available models first.
+- Style for every image: clean, flat educational illustration, white background, consistent soft colour palette, like a modern textbook. Not photorealistic.
+- Generate every image WITH NO TEXT OR LABELS. Then:
+  1. Look at the image.
+  2. Add the labels with a Python script (Pillow): clear text and thin leader lines pointing to the right parts.
+  3. Look at the labelled image again and check every label points to the right part. Fix any that don't.
+- Save final images in `biology/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
+- Budget: stay under $5 total per batch. Track the running cost, and stop and ask before going over.
+- Allowed Python packages: Pillow and the Google GenAI package (`google-genai`). Ask before adding any other dependency.

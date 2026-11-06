@@ -1,0 +1,942 @@
+{
+ "A2a-five-kingdoms": {
+  "labels": [
+   [
+    "Kingdom Plantae\n(fern, flowering plant)",
+    [
+     175,
+     215
+    ],
+    "L",
+    190
+   ],
+   [
+    "Kingdom Fungi\n(mushroom)",
+    [
+     450,
+     490
+    ],
+    "L",
+    500
+   ],
+   [
+    "Kingdom Protista\n(Amoeba)",
+    [
+     418,
+     690
+    ],
+    "L",
+    690
+   ],
+   [
+    "Kingdom Monera\n(bacterium)",
+    [
+     448,
+     870
+    ],
+    "L",
+    870
+   ],
+   [
+    "Kingdom Animalia\n(fish, goat)",
+    [
+     945,
+     215
+    ],
+    "R",
+    190
+   ]
+  ],
+  "captions": [
+   [
+    "Increasing\ncomplexity",
+    870,
+    650
+   ]
+  ],
+  "arrows": [
+   [
+    [
+     760,
+     900
+    ],
+    [
+     760,
+     470
+    ]
+   ]
+  ]
+ },
+ "A2a-bacterial-cell": {
+  "labels": [
+   [
+    "Pilus",
+    [
+     259,
+     305
+    ],
+    "L",
+    250
+   ],
+   [
+    "Capsule",
+    [
+     300,
+     343
+    ],
+    "L",
+    305
+   ],
+   [
+    "Cell wall",
+    [
+     330,
+     373
+    ],
+    "L",
+    355
+   ],
+   [
+    "Cell membrane",
+    [
+     400,
+     385
+    ],
+    "L",
+    405
+   ],
+   [
+    "Circular DNA\n(nucleoid)",
+    [
+     322,
+     482
+    ],
+    "L",
+    465
+   ],
+   [
+    "Plasmid",
+    [
+     220,
+     535
+    ],
+    "L",
+    535
+   ],
+   [
+    "Ribosomes",
+    [
+     283,
+     553
+    ],
+    "L",
+    600
+   ],
+   [
+    "Flagellum",
+    [
+     900,
+     395
+    ],
+    "R",
+    390
+   ],
+   [
+    "Plasmid",
+    [
+     684,
+     448
+    ],
+    "R",
+    450
+   ],
+   [
+    "Cytoplasm",
+    [
+     720,
+     560
+    ],
+    "R",
+    560
+   ]
+  ]
+ },
+ "A2a-bacteria-shapes": {
+  "labels": [
+   [
+    "Diplococci\n(pairs)",
+    [
+     150,
+     128
+    ],
+    "L",
+    120
+   ],
+   [
+    "Streptococci\n(chain)",
+    [
+     155,
+     288
+    ],
+    "L",
+    280
+   ],
+   [
+    "Staphylococci\n(cluster)",
+    [
+     248,
+     380
+    ],
+    "L",
+    420
+   ]
+  ],
+  "captions": [
+   [
+    "Cocci (round)",
+    270,
+    488
+   ],
+   [
+    "Bacilli (rods)",
+    745,
+    470
+   ],
+   [
+    "Spirilla (spiral)",
+    270,
+    895
+   ],
+   [
+    "Vibrios (comma-shaped)",
+    750,
+    935
+   ]
+  ]
+ },
+ "A2a-bacteria-binary-fission": {
+  "labels": [
+   [
+    "Circular DNA",
+    [
+     97,
+     495
+    ],
+    "L",
+    495
+   ]
+  ],
+  "captions": [
+   [
+    "1. One parent\ncell",
+    124,
+    570
+   ],
+   [
+    "2. DNA is\ncopied",
+    343,
+    570
+   ],
+   [
+    "3. Cell pinches\nin the middle",
+    607,
+    570
+   ],
+   [
+    "4. Two identical\ndaughter cells",
+    870,
+    570
+   ]
+  ]
+ },
+ "A2a-nostoc": {
+  "labels": [
+   [
+    "Heterocyst",
+    [
+     190,
+     250
+    ],
+    "L",
+    250
+   ],
+   [
+    "Filament of\nblue-green cells",
+    [
+     118,
+     315
+    ],
+    "L",
+    340
+   ],
+   [
+    "Jelly-like sheath\n(mucilage)",
+    [
+     90,
+     720
+    ],
+    "L",
+    720
+   ],
+   [
+    "Ordinary cell",
+    [
+     965,
+     140
+    ],
+    "R",
+    140
+   ],
+   [
+    "Heterocyst",
+    [
+     910,
+     393
+    ],
+    "R",
+    393
+   ],
+   [
+    "Akinete\n(resting spore)",
+    [
+     838,
+     655
+    ],
+    "R",
+    655
+   ]
+  ],
+  "captions": [
+   [
+    "Nostoc colony",
+    385,
+    0
+   ],
+   [
+    "One filament, enlarged",
+    860,
+    0
+   ]
+  ]
+ },
+ "A2a-amoeba": {
+  "labels": [
+   [
+    "Pseudopodium",
+    [
+     230,
+     140
+    ],
+    "L",
+    140
+   ],
+   [
+    "Food vacuole",
+    [
+     277,
+     207
+    ],
+    "L",
+    230
+   ],
+   [
+    "Nucleus",
+    [
+     372,
+     450
+    ],
+    "L",
+    380
+   ],
+   [
+    "Endoplasm",
+    [
+     200,
+     470
+    ],
+    "L",
+    470
+   ],
+   [
+    "Ectoplasm",
+    [
+     74,
+     490
+    ],
+    "L",
+    545
+   ],
+   [
+    "Contractile vacuole",
+    [
+     645,
+     405
+    ],
+    "R",
+    405
+   ],
+   [
+    "Food particle being\nsurrounded by pseudopodia",
+    [
+     818,
+     505
+    ],
+    "R",
+    505
+   ],
+   [
+    "Food vacuole",
+    [
+     603,
+     567
+    ],
+    "R",
+    610
+   ]
+  ]
+ },
+ "A2a-amoeba-binary-fission": {
+  "labels": [
+   [
+    "Nucleus",
+    [
+     112,
+     480
+    ],
+    "L",
+    488
+   ]
+  ],
+  "captions": [
+   [
+    "1. Parent\namoeba",
+    138,
+    665
+   ],
+   [
+    "2. Nucleus\ndivides",
+    410,
+    665
+   ],
+   [
+    "3. Cytoplasm\ndivides",
+    668,
+    665
+   ],
+   [
+    "4. Two daughter\namoebae",
+    905,
+    665
+   ]
+  ]
+ },
+ "A2a-euglena": {
+  "labels": [
+   [
+    "Reservoir (gullet)",
+    [
+     500,
+     175
+    ],
+    "L",
+    170
+   ],
+   [
+    "Eyespot",
+    [
+     448,
+     245
+    ],
+    "L",
+    245
+   ],
+   [
+    "Paramylon granule",
+    [
+     431,
+     316
+    ],
+    "L",
+    315
+   ],
+   [
+    "Chloroplast",
+    [
+     420,
+     375
+    ],
+    "L",
+    380
+   ],
+   [
+    "Pellicle",
+    [
+     368,
+     480
+    ],
+    "L",
+    480
+   ],
+   [
+    "Flagellum",
+    [
+     696,
+     170
+    ],
+    "R",
+    150
+   ],
+   [
+    "Contractile vacuole",
+    [
+     553,
+     240
+    ],
+    "R",
+    260
+   ],
+   [
+    "Nucleus",
+    [
+     520,
+     555
+    ],
+    "R",
+    560
+   ]
+  ]
+ },
+ "A2a-paramecium": {
+  "labels": [
+   [
+    "Contractile vacuole\nwith radiating canals",
+    [
+     463,
+     172
+    ],
+    "L",
+    170
+   ],
+   [
+    "Food vacuole",
+    [
+     400,
+     288
+    ],
+    "L",
+    260
+   ],
+   [
+    "Trichocysts",
+    [
+     352,
+     400
+    ],
+    "L",
+    390
+   ],
+   [
+    "Macronucleus",
+    [
+     420,
+     470
+    ],
+    "L",
+    470
+   ],
+   [
+    "Cilia",
+    [
+     312,
+     560
+    ],
+    "L",
+    560
+   ],
+   [
+    "Oral groove",
+    [
+     612,
+     440
+    ],
+    "R",
+    400
+   ],
+   [
+    "Micronucleus",
+    [
+     510,
+     465
+    ],
+    "R",
+    480
+   ],
+   [
+    "Gullet",
+    [
+     578,
+     600
+    ],
+    "R",
+    590
+   ],
+   [
+    "Food vacuole",
+    [
+     627,
+     650
+    ],
+    "R",
+    670
+   ],
+   [
+    "Contractile vacuole",
+    [
+     497,
+     798
+    ],
+    "R",
+    750
+   ],
+   [
+    "Anal pore",
+    [
+     632,
+     800
+    ],
+    "R",
+    830
+   ]
+  ]
+ },
+ "A2a-paramecium-conjugation": {
+  "labels": [
+   [
+    "Contractile vacuole",
+    [
+     387,
+     235
+    ],
+    "L",
+    235
+   ],
+   [
+    "Macronucleus",
+    [
+     295,
+     490
+    ],
+    "L",
+    490
+   ],
+   [
+    "Cilia",
+    [
+     175,
+     560
+    ],
+    "L",
+    570
+   ],
+   [
+    "Micronucleus crossing\nthe bridge",
+    [
+     537,
+     527
+    ],
+    "F",
+    [
+     510,
+     60
+    ]
+   ],
+   [
+    "Cytoplasmic bridge",
+    [
+     512,
+     548
+    ],
+    "F",
+    [
+     512,
+     890
+    ]
+   ]
+  ]
+ },
+ "A2a-rhizopus": {
+  "labels": [
+   [
+    "Sporangium",
+    [
+     190,
+     200
+    ],
+    "L",
+    200
+   ],
+   [
+    "Sporangiophore",
+    [
+     157,
+     350
+    ],
+    "L",
+    330
+   ],
+   [
+    "Mycelium (hyphae)",
+    [
+     100,
+     500
+    ],
+    "L",
+    490
+   ],
+   [
+    "Rhizoids",
+    [
+     185,
+     560
+    ],
+    "L",
+    560
+   ],
+   [
+    "Bread (food)",
+    [
+     60,
+     650
+    ],
+    "L",
+    640
+   ],
+   [
+    "Stolon",
+    [
+     380,
+     393
+    ],
+    "F",
+    [
+     380,
+     330
+    ]
+   ],
+   [
+    "Spores",
+    [
+     960,
+     330
+    ],
+    "R",
+    300
+   ],
+   [
+    "Columella",
+    [
+     865,
+     420
+    ],
+    "R",
+    420
+   ],
+   [
+    "Sporangiophore",
+    [
+     870,
+     650
+    ],
+    "R",
+    650
+   ]
+  ],
+  "captions": [
+   [
+    "Sporangium cut open",
+    868,
+    0
+   ]
+  ]
+ },
+ "A2a-rhizopus-conjugation": {
+  "labels": [
+   [
+    "Hypha",
+    [
+     132,
+     250
+    ],
+    "L",
+    250
+   ],
+   [
+    "Germ sporangium",
+    [
+     740,
+     540
+    ],
+    "R",
+    540
+   ],
+   [
+    "Zygospore",
+    [
+     735,
+     705
+    ],
+    "R",
+    720
+   ]
+  ],
+  "captions": [
+   [
+    "1. Two hyphae grow\ntowards each other",
+    185,
+    452
+   ],
+   [
+    "2. Tips swell\nand touch",
+    520,
+    455
+   ],
+   [
+    "3. Gametangia\nform and fuse",
+    840,
+    462
+   ],
+   [
+    "4. Zygospore forms",
+    310,
+    890
+   ],
+   [
+    "5. Zygospore germinates",
+    715,
+    895
+   ]
+  ]
+ },
+ "A2a-mushroom": {
+  "labels": [
+   [
+    "Cap (pileus)",
+    [
+     150,
+     160
+    ],
+    "L",
+    140
+   ],
+   [
+    "Gills",
+    [
+     130,
+     280
+    ],
+    "L",
+    270
+   ],
+   [
+    "Ring (annulus)",
+    [
+     222,
+     375
+    ],
+    "L",
+    370
+   ],
+   [
+    "Stalk (stipe)",
+    [
+     262,
+     480
+    ],
+    "L",
+    470
+   ],
+   [
+    "Mycelium",
+    [
+     90,
+     720
+    ],
+    "L",
+    720
+   ],
+   [
+    "Basidiospores",
+    [
+     608,
+     440
+    ],
+    "R",
+    360
+   ],
+   [
+    "Basidium",
+    [
+     640,
+     580
+    ],
+    "R",
+    600
+   ],
+   [
+    "Gill tissue",
+    [
+     900,
+     620
+    ],
+    "R",
+    700
+   ]
+  ],
+  "captions": [
+   [
+    "Mushroom cut lengthwise",
+    275,
+    0
+   ],
+   [
+    "Gill surface, magnified",
+    790,
+    0
+   ]
+  ]
+ },
+ "A2a-mushroom-life-cycle": {
+  "captions": [
+   [
+    "Spores fall\nfrom the gills",
+    510,
+    292
+   ],
+   [
+    "Spore germinates\n(primary mycelium)",
+    895,
+    195
+   ],
+   [
+    "Two hyphae fuse",
+    875,
+    800
+   ],
+   [
+    "Secondary mycelium\nin the soil",
+    510,
+    975
+   ],
+   [
+    "Button stage",
+    165,
+    780
+   ],
+   [
+    "Mature mushroom",
+    175,
+    155
+   ]
+  ]
+ }
+}

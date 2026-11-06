@@ -1,0 +1,979 @@
+{
+ "A3-countershading": {
+  "labels": [
+   [
+    "Light from above",
+    [
+     170,
+     260
+    ],
+    "F",
+    [
+     170,
+     150
+    ]
+   ],
+   [
+    "Light from above",
+    [
+     520,
+     260
+    ],
+    "F",
+    [
+     520,
+     150
+    ]
+   ],
+   [
+    "Light from above",
+    [
+     865,
+     260
+    ],
+    "F",
+    [
+     865,
+     150
+    ]
+   ],
+   [
+    "Dark back",
+    [
+     215,
+     512
+    ],
+    "F",
+    [
+     70,
+     420
+    ]
+   ],
+   [
+    "Pale belly",
+    [
+     200,
+     600
+    ],
+    "F",
+    [
+     200,
+     750
+    ]
+   ],
+   [
+    "Dark back",
+    [
+     560,
+     540
+    ],
+    "F",
+    [
+     610,
+     780
+    ]
+   ],
+   [
+    "Pale belly",
+    [
+     470,
+     610
+    ],
+    "F",
+    [
+     440,
+     780
+    ]
+   ],
+   [
+    "Dark back",
+    [
+     910,
+     560
+    ],
+    "F",
+    [
+     800,
+     780
+    ]
+   ],
+   [
+    "Pale belly",
+    [
+     960,
+     675
+    ],
+    "F",
+    [
+     960,
+     780
+    ]
+   ]
+  ],
+  "captions": [
+   [
+    "Fish",
+    185,
+    830
+   ],
+   [
+    "Toad",
+    525,
+    830
+   ],
+   [
+    "Snake",
+    855,
+    830
+   ]
+  ]
+ },
+ "A3-warning-colouration": {
+  "labels": [
+   [
+    "Bright red cap with\nwhite spots (fly agaric)",
+    [
+     300,
+     270
+    ],
+    "L",
+    270
+   ],
+   [
+    "Ring",
+    [
+     330,
+     450
+    ],
+    "L",
+    450
+   ],
+   [
+    "Bright orange\nmushroom",
+    [
+     460,
+     500
+    ],
+    "R",
+    360
+   ],
+   [
+    "Dull brown mushroom\n(no warning colours)",
+    [
+     850,
+     470
+    ],
+    "R",
+    470
+   ]
+  ],
+  "captions": [
+   [
+    "Bright colours warn: \"I am poisonous\"",
+    370,
+    860
+   ]
+  ]
+ },
+ "A3-termite-castes": {
+  "labels": [
+   [
+    "Head and thorax",
+    [
+     165,
+     150
+    ],
+    "L",
+    150
+   ],
+   [
+    "Swollen abdomen\nfull of eggs",
+    [
+     100,
+     500
+    ],
+    "L",
+    500
+   ],
+   [
+    "Large head",
+    [
+     728,
+     380
+    ],
+    "R",
+    360
+   ],
+   [
+    "Long jaws",
+    [
+     728,
+     290
+    ],
+    "R",
+    280
+   ],
+   [
+    "Two pairs of\nequal wings",
+    [
+     960,
+     600
+    ],
+    "R",
+    600
+   ]
+  ],
+  "captions": [
+   [
+    "Queen",
+    160,
+    925
+   ],
+   [
+    "King",
+    390,
+    700
+   ],
+   [
+    "Worker",
+    565,
+    660
+   ],
+   [
+    "Soldier",
+    728,
+    670
+   ],
+   [
+    "Winged\nreproductive",
+    910,
+    790
+   ]
+  ]
+ },
+ "A3-termite-mound": {
+  "labels": [
+   [
+    "Chimney",
+    [
+     505,
+     60
+    ],
+    "L",
+    60
+   ],
+   [
+    "Air channel",
+    [
+     440,
+     250
+    ],
+    "L",
+    250
+   ],
+   [
+    "Hard clay wall",
+    [
+     385,
+     320
+    ],
+    "L",
+    360
+   ],
+   [
+    "Fungus garden",
+    [
+     340,
+     665
+    ],
+    "L",
+    640
+   ],
+   [
+    "Nursery\n(eggs and young)",
+    [
+     425,
+     735
+    ],
+    "L",
+    760
+   ],
+   [
+    "Underground tunnel",
+    [
+     200,
+     880
+    ],
+    "L",
+    880
+   ],
+   [
+    "Fungus garden",
+    [
+     590,
+     455
+    ],
+    "R",
+    430
+   ],
+   [
+    "Royal chamber\nwith queen",
+    [
+     500,
+     570
+    ],
+    "R",
+    560
+   ],
+   [
+    "Workers",
+    [
+     590,
+     730
+    ],
+    "R",
+    730
+   ],
+   [
+    "Red soil",
+    [
+     880,
+     900
+    ],
+    "R",
+    900
+   ]
+  ]
+ },
+ "A3-agama-basking": {
+  "labels": [
+   [
+    "Morning sun",
+    [
+     90,
+     200
+    ],
+    "L",
+    200
+   ],
+   [
+    "Body flattened, side\nturned to the sun",
+    [
+     240,
+     540
+    ],
+    "L",
+    560
+   ],
+   [
+    "Midday sun",
+    [
+     750,
+     155
+    ],
+    "R",
+    155
+   ],
+   [
+    "Resting in the shade",
+    [
+     720,
+     600
+    ],
+    "R",
+    600
+   ]
+  ],
+  "captions": [
+   [
+    "Morning: basks to warm up",
+    255,
+    860
+   ],
+   [
+    "Midday: shelters from the heat",
+    760,
+    880
+   ]
+  ]
+ },
+ "A3-aestivation": {
+  "labels": [
+   [
+    "Dry, cracked mud",
+    [
+     150,
+     290
+    ],
+    "L",
+    290
+   ],
+   [
+    "Breathing tube",
+    [
+     275,
+     400
+    ],
+    "L",
+    400
+   ],
+   [
+    "Mucus cocoon",
+    [
+     90,
+     620
+    ],
+    "L",
+    560
+   ],
+   [
+    "Lungfish",
+    [
+     160,
+     620
+    ],
+    "L",
+    680
+   ],
+   [
+    "Snail shell",
+    [
+     680,
+     600
+    ],
+    "R",
+    500
+   ],
+   [
+    "Dried mucus membrane\nsealing the opening",
+    [
+     800,
+     650
+    ],
+    "R",
+    650
+   ],
+   [
+    "Dry soil",
+    [
+     930,
+     800
+    ],
+    "R",
+    800
+   ]
+  ],
+  "captions": [
+   [
+    "African lungfish",
+    265,
+    910
+   ],
+   [
+    "Land snail",
+    770,
+    910
+   ]
+  ]
+ },
+ "A3-bird-beaks": {
+  "capsize": 21,
+  "captions": [
+   [
+    "Weaver bird\nShort, thick, cone-shaped\n(cracks seeds)",
+    160,
+    460
+   ],
+   [
+    "Eagle\nStrong, hooked\n(tears flesh)",
+    400,
+    460
+   ],
+   [
+    "Sunbird\nLong, thin, curved\n(sucks nectar)",
+    650,
+    460
+   ],
+   [
+    "Duck\nBroad, flat\n(filters food from water)",
+    905,
+    460
+   ],
+   [
+    "Kingfisher\nLong, straight, dagger-like\n(catches fish)",
+    150,
+    775
+   ],
+   [
+    "Woodpecker\nChisel-like\n(bores into wood)",
+    410,
+    775
+   ],
+   [
+    "Hen\nShort, pointed\n(picks up grain)",
+    660,
+    775
+   ],
+   [
+    "Parrot\nLarge, hooked\n(cracks nuts)",
+    900,
+    775
+   ]
+  ],
+  "split": [
+   500,
+   60
+  ]
+ },
+ "A3-bird-feet": {
+  "captions": [
+   [
+    "Perching: 3 toes forward,\n1 back (grips twigs)",
+    180,
+    405
+   ],
+   [
+    "Raptor: long curved talons\n(grip prey)",
+    500,
+    405
+   ],
+   [
+    "Webbed (swimming)",
+    820,
+    410
+   ],
+   [
+    "Wading: long legs, spread\ntoes (walks on mud)",
+    180,
+    870
+   ],
+   [
+    "Scratching: strong, blunt\nclaws (digs for food)",
+    500,
+    870
+   ],
+   [
+    "Climbing: 2 toes forward,\n2 back (grips bark)",
+    870,
+    870
+   ]
+  ],
+  "capsize": 22
+ },
+ "A3-insect-mouthparts": {
+  "labels": [
+   [
+    "Clubbed antenna",
+    [
+     345,
+     160
+    ],
+    "F",
+    [
+     345,
+     70
+    ]
+   ],
+   [
+    "Coiled proboscis",
+    [
+     440,
+     530
+    ],
+    "F",
+    [
+     330,
+     610
+    ]
+   ],
+   [
+    "Labium (sheath)\nbends back",
+    [
+     236,
+     455
+    ],
+    "L",
+    380
+   ],
+   [
+    "Stylets pierce\nthe skin",
+    [
+     140,
+     620
+    ],
+    "L",
+    560
+   ],
+   [
+    "Skin",
+    [
+     60,
+     720
+    ],
+    "L",
+    720
+   ],
+   [
+    "Feathery antenna",
+    [
+     810,
+     190
+    ],
+    "R",
+    180
+   ],
+   [
+    "Long proboscis\nreaches nectar",
+    [
+     790,
+     600
+    ],
+    "R",
+    620
+   ]
+  ],
+  "captions": [
+   [
+    "Mosquito: piercing\nand sucking",
+    160,
+    820
+   ],
+   [
+    "Butterfly: proboscis\ncoiled at rest",
+    480,
+    690
+   ],
+   [
+    "Moth: proboscis\nuncoiled to feed",
+    810,
+    930
+   ]
+  ]
+ },
+ "A3-camouflage-defence": {
+  "labels": [
+   [
+    "Stick insect looks\nlike a twig",
+    [
+     150,
+     450
+    ],
+    "L",
+    450
+   ],
+   [
+    "Spiny front legs\nfolded",
+    [
+     400,
+     370
+    ],
+    "F",
+    [
+     500,
+     150
+    ]
+   ],
+   [
+    "Parotid gland\n(poison)",
+    [
+     825,
+     545
+    ],
+    "R",
+    470
+   ],
+   [
+    "Warty skin",
+    [
+     900,
+     640
+    ],
+    "R",
+    620
+   ]
+  ],
+  "captions": [
+   [
+    "Stick insect",
+    150,
+    925
+   ],
+   [
+    "Praying mantis",
+    450,
+    925
+   ],
+   [
+    "Toad",
+    825,
+    925
+   ]
+  ]
+ },
+ "A3-agama-display": {
+  "labels": [
+   [
+    "Male: orange-red head\nraised and bobbing",
+    [
+     270,
+     130
+    ],
+    "R",
+    120
+   ],
+   [
+    "Straightened\nfront legs",
+    [
+     290,
+     330
+    ],
+    "L",
+    330
+   ],
+   [
+    "Dark blue-black body",
+    [
+     470,
+     330
+    ],
+    "R",
+    300
+   ],
+   [
+    "Female: smaller, brown\nwith pale spots",
+    [
+     350,
+     700
+    ],
+    "L",
+    650
+   ],
+   [
+    "Orange patch",
+    [
+     325,
+     715
+    ],
+    "L",
+    760
+   ]
+  ],
+  "captions": []
+ },
+ "A3-bird-courtship": {
+  "labels": [
+   [
+    "Tail fanned out with\neyespot feathers",
+    [
+     200,
+     400
+    ],
+    "L",
+    400
+   ],
+   [
+    "Peacock (male)",
+    [
+     270,
+     560
+    ],
+    "L",
+    560
+   ],
+   [
+    "Peahen (female):\nplain brown",
+    [
+     470,
+     720
+    ],
+    "F",
+    [
+     450,
+     920
+    ]
+   ],
+   [
+    "Woven nest",
+    [
+     870,
+     420
+    ],
+    "R",
+    420
+   ],
+   [
+    "Male weaver hangs\nupside down and\nflaps his wings",
+    [
+     860,
+     730
+    ],
+    "R",
+    740
+   ]
+  ]
+ },
+ "A3-skin-section": {
+  "labels": [
+   [
+    "Hair",
+    [
+     478,
+     100
+    ],
+    "L",
+    100
+   ],
+   [
+    "Epidermis",
+    [
+     200,
+     200
+    ],
+    "L",
+    200
+   ],
+   [
+    "Capillaries",
+    [
+     230,
+     340
+    ],
+    "L",
+    340
+   ],
+   [
+    "Nerve ending",
+    [
+     300,
+     480
+    ],
+    "L",
+    480
+   ],
+   [
+    "Dermis",
+    [
+     200,
+     560
+    ],
+    "L",
+    560
+   ],
+   [
+    "Hair follicle",
+    [
+     350,
+     640
+    ],
+    "L",
+    640
+   ],
+   [
+    "Fat layer\n(subcutaneous fat)",
+    [
+     200,
+     820
+    ],
+    "L",
+    820
+   ],
+   [
+    "Sweat pore",
+    [
+     697,
+     224
+    ],
+    "R",
+    200
+   ],
+   [
+    "Sebaceous gland",
+    [
+     480,
+     465
+    ],
+    "R",
+    400
+   ],
+   [
+    "Erector muscle",
+    [
+     565,
+     440
+    ],
+    "R",
+    300
+   ],
+   [
+    "Sweat duct",
+    [
+     705,
+     450
+    ],
+    "R",
+    480
+   ],
+   [
+    "Sweat gland",
+    [
+     690,
+     640
+    ],
+    "R",
+    620
+   ],
+   [
+    "Blood vessels",
+    [
+     700,
+     735
+    ],
+    "R",
+    720
+   ]
+  ]
+ },
+ "A3-cactus-pangolin": {
+  "labels": [
+   [
+    "Spines instead\nof leaves",
+    [
+     52,
+     443
+    ],
+    "L",
+    400
+   ],
+   [
+    "Thick fleshy pad\n(stores water)",
+    [
+     250,
+     600
+    ],
+    "L",
+    600
+   ],
+   [
+    "Overlapping hard\nscales",
+    [
+     780,
+     560
+    ],
+    "R",
+    560
+   ]
+  ],
+  "captions": [
+   [
+    "Cactus",
+    220,
+    780
+   ],
+   [
+    "Pangolin",
+    720,
+    780
+   ]
+  ]
+ }
+}

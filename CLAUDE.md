@@ -59,4 +59,5 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
   3. Look at the labelled image again and check every label points to the right part. Fix any that don't.
 - Save final images in `biology/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
 - Budget: stay under $5 total per batch. Work out the real cost of each call from the token usage the API returns, keep a running total, and stop and ask before going over.
+- Use the scripts in `tools/` (see `tools/README.md`) and save each topic's prompts and label specs under `tools/specs/<subject>/`.
 - Allowed Python packages: Pillow and the OpenAI package (`openai`). Ask before adding any other dependency.

@@ -50,13 +50,13 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 
 ## Image rules
 
-- The Gemini API key is in the `GEMINI_API_KEY` environment variable. Never print, log or commit it.
-- Use the cheapest current Gemini image model that gives clean, accurate illustrations. Check the available models first.
+- Images are generated with OpenAI (no longer Gemini). The OpenAI API key is in the `OPENAI_API_KEY` environment variable. Never print, log or commit it.
+- Use OpenAI's current image model (currently `gpt-image-2`; check the available models first), size 1024x1024, quality "medium".
 - Style for every image: clean, flat educational illustration, white background, consistent soft colour palette, like a modern textbook. Not photorealistic.
 - Generate every image WITH NO TEXT OR LABELS. Then:
   1. Look at the image.
   2. Add the labels with a Python script (Pillow): clear text and thin leader lines pointing to the right parts.
   3. Look at the labelled image again and check every label points to the right part. Fix any that don't.
 - Save final images in `biology/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
-- Budget: stay under $5 total per batch. Track the running cost, and stop and ask before going over.
-- Allowed Python packages: Pillow and the Google GenAI package (`google-genai`). Ask before adding any other dependency.
+- Budget: stay under $5 total per batch. Work out the real cost of each call from the token usage the API returns, keep a running total, and stop and ask before going over.
+- Allowed Python packages: Pillow and the OpenAI package (`openai`). Ask before adding any other dependency.

@@ -674,3 +674,10 @@ These are not part of the syllabus. They flag places where the original wording 
 - C5 objective iv: "intra-specific completion" = competition.
 - C7 objective i: "drancunculiasis" = dracunculiasis (guinea worm disease).
 - E2 has no "Candidates should be able to:" line of its own; its objectives continue the numbering from E1 (iv to vi).
+- B2 objective iv: the line "determine their nutritional value" is printed as a fifth bullet inside the list of heterotrophic feeding examples. It does not belong to that list; it repeats objective xi ("determine the nutritional value of food").
+- B7 objective xi: "invitro fertilization" = *in vitro* fertilization (IVF); "regulating reproduction on e.g." has a stray "on".
+- C2: the topic is titled "Symbiotic interactions of plants and animals", but its content items are energy flow (food chains, food webs, trophic levels) and nutrient cycling. The symbiotic interactions themselves appear only in objective i.
+- C7 objective xii: "United Nations International Children Emergency Fund" is the original 1946 name (United Nations International Children's Emergency Fund); since 1953 the official name has been the United Nations Children's Fund, still abbreviated UNICEF. "International Red Cross Society (IRCS)" is not the exact name of any single body; it refers to the International Red Cross and Red Crescent Movement (the ICRC, the IFRC and national societies such as the Nigerian Red Cross Society).
+- C7 objective xv: "World Wildlife Foundation (WWF)" = World Wide Fund for Nature (called World Wildlife Fund in the USA and Canada). "Nigeria National Parks" = the National Park Service of Nigeria.
+- D: the first topic is numbered "(I)" while the others are "2." and "3.". Content item headings use a mix of "a)", "(i)" and "i)".
+- E1 content item c: "organic theory" is taken to mean the theory of organic evolution (including the modern synthesis), which matches E1 objective i.

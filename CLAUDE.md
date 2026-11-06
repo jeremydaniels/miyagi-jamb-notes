@@ -50,6 +50,7 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 
 ## Image rules
 
+- **Image generation is paused until further notice.** Do not call any image API and do not spend money on images. Only write detailed `[IMAGE: ...]` placeholders in the notes, so the images can be generated later with the `tools/` pipeline.
 - Images are generated with OpenAI (no longer Gemini). The OpenAI API key is in the `OPENAI_API_KEY` environment variable. Never print, log or commit it.
 - Use OpenAI's current image model (currently `gpt-image-2`; check the available models first), size 1024x1024, quality "medium".
 - Style for every image: clean, flat educational illustration, white background, consistent soft colour palette, like a modern textbook. Not photorealistic.

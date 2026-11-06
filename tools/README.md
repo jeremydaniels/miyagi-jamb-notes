@@ -24,6 +24,7 @@ Working files go in `.image-work/` at the repo root, which is git-ignored. To pu
 | `generate.py` | Calls OpenAI (`gpt-image-2`, 1024x1024, quality "medium"), adds the house style to each prompt, saves `raw/<name>.png` and logs the real cost from the returned token usage. It skips a call if the running total plus that call could go over `--budget` (default $5). |
 | `preview.py` | `grid` draws a pixel grid on a raw image. `zoom` enlarges a small area. `small` shrinks a finished labelled image so you can check it. |
 | `label.py` | Reads a label spec and draws the labels, leader lines, captions and arrows. Saves the final PNG to `biology/images/` (change with `--out`). |
+| `compress_images.py` | Shrinks the finished PNGs in place (256-colour palette with dithering, no visible loss; about 60% smaller). File names stay the same, so links still work. |
 | `place_images.py` | Replaces the `[IMAGE: ...]` lines in a notes file, in order, with `![alt](images/NAME.png)`. |
 | `common.py` | Shared paths and fonts. Uses Inter if it is installed, otherwise DejaVu Sans. |
 
@@ -61,7 +62,8 @@ Working files go in `.image-work/` at the repo root, which is git-ignored. To pu
    ```bash
    python tools/place_images.py chemistry/C1-....md "C1-image-a=Alt text for image a" "C1-image-b=..."
    ```
-8. Commit the notes, images and specs for that topic, then push.
+8. **Compress** the finished images: `python tools/compress_images.py chemistry/images`. Running it twice is safe; images that are already compressed are skipped.
+9. Commit the notes, images and specs for that topic, then push.
 
 ## The biology specs
 

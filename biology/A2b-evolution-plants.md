@@ -81,7 +81,7 @@ The main story of plant evolution is the change in which generation is the large
 | Vacuole | Large central vacuole | Keeps the cell firm |
 | Nucleus | Suspended in the middle of the vacuole by fine strands of cytoplasm | Controls the cell |
 
-[IMAGE: Magnified view of a short length of a Spirogyra filament, showing three or four cylindrical cells joined end to end, each with a cellulose wall, a spiral ribbon-shaped green chloroplast with small round pyrenoids along it, a large clear vacuole, and a nucleus suspended in the centre by fine cytoplasmic strands; a faint mucilage sheath around the outside. Flat textbook style, soft greens, white background, no text.]
+![Magnified Spirogyra filament showing the mucilage sheath, cell wall, cross walls, spiral chloroplasts with pyrenoids, vacuole, and a nucleus held by cytoplasmic strands](images/A2b-spirogyra.png)
 
 ### Life history of *Spirogyra*
 
@@ -101,7 +101,7 @@ The main story of plant evolution is the change in which generation is the large
 
 Less often, two neighbouring cells in the **same** filament join through a tube beside their shared wall (**lateral conjugation**).
 
-[IMAGE: Two Spirogyra filaments lying side by side joined by short conjugation tubes like the rungs of a ladder (scalariform conjugation). In the upper filament the cell contents are rounded and moving through the tubes; in the lower filament several cells each contain a dark, oval thick-walled zygospore. Flat textbook style, soft greens with dark brown zygospores, white background, no text.]
+![Scalariform conjugation in Spirogyra: two filaments joined by conjugation tubes, with the contents of upper cells moving through the tubes and zygospores in the lower filament](images/A2b-spirogyra-conjugation.png)
 
 ### Why *Spirogyra* is a simple plant
 
@@ -146,7 +146,7 @@ The **sporophyte** has three parts:
 | Seta (stalk) | Long, thin stalk | Raises the capsule high, so spores are carried further by wind |
 | Capsule | Swollen spore case at the top, covered at first by a loose cap (**calyptra**) and closed by a lid (**operculum**) | Spores form inside by meiosis. When the lid falls off, a ring of **peristome teeth** opens in dry weather and closes in wet weather, releasing spores only when it is dry and windy |
 
-[IMAGE: A moss plant: a small leafy green shoot (gametophyte) with brown rhizoids at the base, and a long thin brown stalk (seta) growing from its tip, ending in a capsule with a pointed cap (calyptra); next to it, an enlarged capsule with the lid removed showing a ring of peristome teeth. Flat textbook style, soft greens and browns, white background, no text.]
+![A moss plant showing the leafy shoot (gametophyte), rhizoids, seta, capsule and calyptra, with an enlarged capsule with its lid removed showing peristome teeth and spores](images/A2b-moss.png)
 
 #### Life history of a moss
 
@@ -159,7 +159,7 @@ The **sporophyte** has three parts:
 7. **Spore dispersal:** in dry weather the operculum falls off, the peristome teeth open, and the spores are shaken out and blown by the wind.
 8. Each spore can grow into a new protonema, and the cycle repeats.
 
-[IMAGE: Circular life cycle diagram of a moss with arrows: spores → green branched protonema thread → leafy gametophyte shoots with rhizoids → male shoot with antheridia releasing swimming sperm and female shoot with flask-shaped archegonia → zygote → sporophyte (seta and capsule) growing on the female shoot → capsule releasing spores. Flat textbook style, soft greens and browns, white background, no text.]
+![Life cycle of a moss: spores, protonema, leafy gametophytes, antheridia releasing sperm and archegonia with eggs, zygote in the archegonium, sporophyte growing on the female shoot, and the capsule releasing spores](images/A2b-moss-life-cycle.png)
 
 ### Liverwort: *Marchantia*
 
@@ -179,7 +179,7 @@ The **sporophyte** has three parts:
 
 *Marchantia* plants are either male or female (it is **dioecious**).
 
-[IMAGE: Marchantia: a flat, green, ribbon-like thallus that branches into two again and again (dichotomous branching), lying on soil, with rhizoids underneath, small round gemma cups containing tiny green discs on the upper surface; beside it a male plant with a stalked flat lobed disc (antheridiophore) and a female plant with a stalked umbrella of finger-like rays (archegoniophore). Flat textbook style, soft greens, white background, no text.]
+![Marchantia: a dichotomously branching thallus with gemma cups and rhizoids, a male plant with an antheridiophore and a female plant with an archegoniophore](images/A2b-marchantia.png)
 
 #### Life history of *Marchantia*
 
@@ -239,7 +239,7 @@ The **sporophyte** has three parts:
 | Indusium | Kidney-shaped flap of tissue covering each sorus | Protects the developing sporangia |
 | Sporangium | Small stalked capsule in the sorus, with a ring of thick-walled cells called the **annulus** | Produces spores; the annulus dries and springs back, catapulting the spores out |
 
-[IMAGE: A fern plant (Dryopteris type) showing an underground rhizome with brown scales and many thin adventitious roots, several large feathery compound fronds, and one young coiled frond (fiddlehead) unrolling; beside it, an enlarged view of the underside of a pinnule with rows of round brown sori, each partly covered by a kidney-shaped indusium; and one stalked sporangium with a ring of thick-walled annulus cells. Flat textbook style, soft greens and browns, white background, no text.]
+![A fern showing fronds, a young coiled fiddlehead, a scaly rhizome and adventitious roots, with the underside of a leaflet showing sori and indusia, and one sporangium with its annulus releasing spores](images/A2b-fern.png)
 
 ### Life history of a fern
 
@@ -252,7 +252,7 @@ The **sporophyte** has three parts:
 7. **Independence:** the young fern becomes independent; the prothallus withers and dies.
 8. The young sporophyte grows into a large, leafy fern, which in time produces sori again.
 
-[IMAGE: Circular life cycle diagram of a fern with arrows: mature fern (sporophyte) → underside of frond with sori → sporangium releasing spores → spore germinating → small heart-shaped green prothallus with rhizoids → underside of prothallus with antheridia (releasing swimming sperm) and archegonia near the notch → young fern sporophyte growing out of the prothallus → back to mature fern. Flat textbook style, soft greens and browns, white background, no text.]
+![Life cycle of a fern: mature sporophyte, sori under the frond, sporangium releasing spores, spore germinating, heart-shaped prothallus with antheridia and archegonia, and a young fern growing from the prothallus](images/A2b-fern-life-cycle.png)
 
 ## Spermatophyta: the seed plants
 
@@ -309,7 +309,7 @@ Conifers ("cone bearers") include pines, cypresses and *Araucaria*. In Nigeria, 
 6. The mature cone dries and opens its scales, and the winged seeds are blown away.
 7. A seed germinates into a seedling, which grows into a new tree.
 
-[IMAGE: Two gymnosperms side by side: on the left a cycad with a stout unbranched trunk, a crown of stiff palm-like pinnate leaves and a large upright cone at the centre; on the right a conifer (pine) branch with needle-like leaves in bundles, a cluster of small soft male cones, and a larger woody female cone, with a single winged seed beside it. Flat textbook style, soft greens and browns, white background, no text.]
+![Two gymnosperms: a cycad with pinnate leaves, a central cone and an unbranched trunk, and a pine branch with needle leaves, male cones, a female cone and a winged seed](images/A2b-gymnosperms.png)
 
 ### Angiosperms (flowering plants)
 
@@ -353,7 +353,7 @@ Waterleaf is a soft, succulent leafy vegetable grown all over southern Nigeria a
 - **Seed:** the embryo has **two cotyledons**.
 - **Propagation:** easily from stem cuttings, as well as from seeds.
 
-[IMAGE: Side-by-side comparison of a maize plant and a waterleaf plant. Left: a maize plant with a fibrous root system and prop roots, a tall unbranched stem with nodes, long narrow parallel-veined leaves, a tassel at the top and a cob with silks. Right: a waterleaf plant with a tap root, soft green fleshy branching stems, broad oval fleshy leaves with net veins, and small pink five-petalled flowers. Flat textbook style, soft greens and yellows, white background, no text.]
+![Maize (monocot) with tassel, narrow parallel-veined leaves, nodes, cob with silks, prop roots and fibrous roots, beside waterleaf (dicot) with flowers, fleshy stems, broad net-veined leaves and a tap root](images/A2b-maize-waterleaf.png)
 
 #### Monocots and dicots compared
 
@@ -381,7 +381,7 @@ Waterleaf is a soft, succulent leafy vegetable grown all over southern Nigeria a
 7. **Seed and fruit formation:** the zygote grows into the embryo, the ovule becomes the seed, and the ovary becomes the fruit.
 8. **Dispersal:** fruits and seeds are scattered by wind, water, animals or explosive mechanisms, and the cycle begins again.
 
-[IMAGE: Circular life cycle diagram of a flowering plant with arrows: seed → germinating seed with root and shoot → young seedling → mature flowering plant → close-up of a flower with a bee carrying pollen (pollination) → pollen tube growing down the style into an ovule (fertilisation) → developing fruit with seeds → back to seed. Flat textbook style, soft greens, yellows and pinks, white background, no text.]
+![Life cycle of a flowering plant: seed, germination, seedling, mature flowering plant, pollination by a bee, fertilisation (pollen tube growing to the ovule), and fruit with seeds](images/A2b-flowering-plant-life-cycle.png)
 
 ### Gymnosperms and angiosperms compared
 
@@ -421,7 +421,7 @@ Flowering plants can be grouped by **how long they take to complete their life c
 - Carrot, cabbage and onion are true biennials in cool climates. In Nigeria they are usually **harvested in their first season** (for their roots, leaves or bulbs), so farmers grow them like annuals; they flower only if left in the ground, often in cooler places such as the Jos Plateau.
 - Several crops that farmers grow as annuals are actually **perennials** by nature, because they can keep growing for years if not harvested, e.g. cassava, yam (which survives by its tuber), pepper and pawpaw. Exam questions use the typical examples above: maize (annual), carrot or cabbage (biennial), mango or oil palm (perennial).
 
-[IMAGE: Three-panel timeline comparing an annual, a biennial and a perennial plant. Panel 1 (annual): a maize seed → growing plant → flowering and seeding → dying plant, all in one year. Panel 2 (biennial): a carrot growing leaves and a swollen orange root in year 1, then a tall flowering stalk in year 2, then dying. Panel 3 (perennial): a mango tree shown flowering and fruiting across several years, getting bigger each year. Flat textbook style, soft greens, oranges and browns, white background, no text.]
+![Annual (maize grows, flowers and dies in one season), biennial (carrot stores food in its root in year 1, flowers in year 2, then dies) and perennial (mango tree grows bigger and fruits every year)](images/A2b-annual-biennial-perennial.png)
 
 ## Analysing features and increasing complexity
 
@@ -500,7 +500,7 @@ Plants are believed to have evolved from simple green algae that lived in water.
 
 **Textbook note:** the order above shows increasing complexity and the order in which the groups appear in the fossil record. It does not mean that mosses turned directly into ferns, or ferns into pines. Each group branched off from shared ancestors long ago, and all of them are still alive today.
 
-[IMAGE: A left-to-right evolution ladder of plants, rising like steps from water onto land: Spirogyra filaments in a pond → a moss clump and Marchantia on a damp rock → a fern in shady ground → a cycad and a pine tree on dry land → a maize plant and a flowering waterleaf plant. Water on the left fading to dry land on the right. Flat textbook style, soft greens, blues and browns, white background, no text.]
+![Plants rising from water onto dry land: Spirogyra in water, moss and liverwort on a damp rock, a fern, a cycad, a pine, and maize and waterleaf on dry land](images/A2b-plant-evolution.png)
 
 ## Key terms
 

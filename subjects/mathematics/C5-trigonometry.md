@@ -355,7 +355,7 @@ If the equation is written as $y = A \sin(Bx)$:
 
 ## Exam tips and common mistakes
 
-- **Radios and quadrants:** Always double-check the CAST rule before writing down an answer for an angle greater than $90^\circ$. A common mistake is to write $\cos 120^\circ = 0.5$ instead of $-0.5$.
+- **Ratios and quadrants:** Always double-check the CAST rule before writing down an answer for an angle greater than $90^\circ$. A common mistake is to write $\cos 120^\circ = 0.5$ instead of $-0.5$.
 - **Elevation and depression:** Never draw an angle of elevation or depression from a vertical line (like a tree trunk or a cliff face). It must always be attached to a horizontal line.
 - **Cosine rule trap:** After calculating the entire right side of the Cosine Rule ($a^2 + b^2 - 2ab \cos C$), many students forget to take the square root to find $c$. Don't stop at $c^2$!
 - **Bearings:** When converting between towns (e.g., A from B), draw a fresh North-South cross at every single location. Never reuse the cross from the first town.
@@ -464,7 +464,7 @@ If the equation is written as $y = A \sin(Bx)$:
 **Answer: D.**
 1. Use the Cosine Rule because you have two sides and the included angle: $r^2 = p^2 + q^2 - 2pq \cos R$.
 2. Substitute: $r^2 = 8^2 + 5^2 - 2(8)(5)\cos 120^\circ$.
-3. Note that $\cos 120^\circ = -\cos 60^\circ = -0.5$. (Forgetting this negative sign is a very common mistake that leads to option C).
+3. Note that $\cos 120^\circ = -\cos 60^\circ = -0.5$. (Forgetting this negative sign is a very common mistake: it gives $r^2 = 89 - 40 = 49$, so $r = 7$, which is option A. Option C comes from ignoring the cosine term completely and using $r^2 = 8^2 + 5^2 = 89$.)
 4. $r^2 = 64 + 25 - 80(-0.5) = 89 + 40 = 129$.
 5. $r = \sqrt{129} \text{ cm}$.
 

@@ -64,7 +64,7 @@ Magnetic materials behave differently when exposed to a magnetic field. In JAMB,
 **Objective iii: identify the various methods of making magnets and demagnetizing magnets.**
 **Content iii: methods of making magnets and demagnetization.**
 
-According to the **domain theory of magnetism**, magnetic materials consist of tiny atomic magnets called **domains**. In an unmagnetized material, these domains point in random directions, cancelling each other out. Making a magnet involves forcing these domains to line up in one direction. Demagnetizing a magnet involves scrambling them again.
+According to the **domain theory of magnetism**, magnetic materials consist of microscopic regions called **domains**, in each of which the tiny atomic magnets are lined up. In an unmagnetized material, these domains point in random directions, cancelling each other out. Making a magnet involves forcing these domains to line up in one direction. Demagnetizing a magnet involves scrambling them again.
 
 ### Methods of making magnets
 

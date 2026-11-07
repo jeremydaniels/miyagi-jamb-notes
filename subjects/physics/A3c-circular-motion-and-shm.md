@@ -326,7 +326,7 @@ Resonance can be tremendously useful, but it can also be incredibly destructive.
 ### Useful Applications of Resonance
 1. **Tuning a Radio or Television:** When you turn the dial on an FM radio, you are adjusting the natural frequency of an internal electrical circuit (an LC circuit). When the circuit's frequency exactly matches the frequency of the incoming broadcast radio wave from a station (say, 99.3 MHz), electrical resonance occurs. That specific station's signal oscillates with maximum amplitude and is heard loudly and clearly over all others.
 2. **Musical Instruments:** Almost all musical instruments rely on resonance to amplify sound. The wooden body of an acoustic guitar, or the air column in a flute, acts as a resonator. When a string is plucked, the sound forces the wood and air to vibrate. Because the design allows for resonance, the sound is greatly amplified.
-3. **Microwave Ovens:** Microwaves are emitted into the food at a frequency of about 2.45 GHz. This happens to closely match a natural vibrational frequency of water molecules. The water molecules in the food undergo resonance, absorbing massive amounts of electromagnetic energy, vibrating vigorously, and creating heat that cooks the food.
+3. **Microwave Ovens:** Microwaves are emitted into the food at a frequency of about 2.45 GHz. Water molecules are dipoles, so they rapidly flip back and forth to line up with the alternating electric field of the microwaves. This rapid motion creates molecular friction and heat that cooks the food (dielectric heating). Many school textbooks simplify this as 'resonance', but 2.45 GHz is not an exact natural frequency of water; the absorption is broad-band.
 
 ### Disadvantages and Dangers (Destructive Resonance)
 1. **Bridge Collapse:** If a company of soldiers marches in unison (in step) across a suspension bridge, and their stepping frequency happens to match the natural swaying frequency of the bridge, resonance can cause the bridge to sway violently and eventually collapse. (This is why soldiers are historically ordered to "break step" when crossing bridges).
@@ -414,18 +414,18 @@ Resonance can be tremendously useful, but it can also be incredibly destructive.
 3. New period $= 2 \times 2.0\ \text{s} = 4.0\ \text{s}$. 
 (Mistake D comes from incorrectly assuming period is directly proportional to length, multiplying the period by 4 instead of taking the square root of 4).
 
-**5. An object undergoes Simple Harmonic Motion with an amplitude of $0.05\ \text{m}$ and an angular frequency of $10\ \text{rad s}^{-1}$. Calculate its speed when it is at a displacement of $0.03\ \text{m}$ from the equilibrium position.**
-- A. $0.2\ \text{m s}^{-1}$
-- B. $0.4\ \text{m s}^{-1}$
-- C. $0.5\ \text{m s}^{-1}$
-- D. $4.0\ \text{m s}^{-1}$
+**5. An object undergoes Simple Harmonic Motion with an amplitude of $0.1\ \text{m}$ and an angular frequency of $5\ \text{rad s}^{-1}$. Calculate its speed when it is at a displacement of $0.08\ \text{m}$ from the equilibrium position.**
+- A. $0.1\ \text{m s}^{-1}$
+- B. $0.3\ \text{m s}^{-1}$
+- C. $0.4\ \text{m s}^{-1}$
+- D. $0.5\ \text{m s}^{-1}$
 
 **Answer: B.** 
 1. Use the velocity formula: $v = \omega \sqrt{A^2 - x^2}$
-2. Substitute: $v = 10 \sqrt{(0.05)^2 - (0.03)^2}$
-3. $v = 10 \sqrt{0.0025 - 0.0009}$
-4. $v = 10 \sqrt{0.0016} = 10 \times 0.04 = 0.4\ \text{m s}^{-1}$.
-(Mistake C is calculating the maximum velocity $v_{max} = \omega A = 0.5\ \text{m s}^{-1}$, rather than the velocity at the specific displacement of $0.03\ \text{m}$).
+2. Substitute: $v = 5 \sqrt{(0.1)^2 - (0.08)^2}$
+3. $v = 5 \sqrt{0.01 - 0.0064} = 5 \sqrt{0.0036}$
+4. $v = 5 \times 0.06 = 0.3\ \text{m s}^{-1}$.
+(Mistake A is using $\omega(A - x) = 5 \times 0.02 = 0.1\ \text{m s}^{-1}$. Mistake C is using $\omega x = 5 \times 0.08 = 0.4\ \text{m s}^{-1}$. Mistake D is calculating the maximum velocity $v_{max} = \omega A = 0.5\ \text{m s}^{-1}$, rather than the velocity at the specific displacement of $0.08\ \text{m}$).
 
 **6. At which point during a full cycle of Simple Harmonic Motion is the kinetic energy of an object at its maximum?**
 - A. At the maximum amplitude.

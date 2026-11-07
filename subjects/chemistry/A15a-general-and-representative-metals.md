@@ -200,7 +200,7 @@ Once purified, alumina ($\text{Al}_2\text{O}_3$) is dissolved in molten **cryoli
 ### Objective xi: describe the method of purification of bauxite
 Before extracting aluminium, its ore, **bauxite** ($\text{Al}_2\text{O}_3 \cdot 2\text{H}_2\text{O}$), must be purified by the **Bayer Process** to remove iron(III) oxide and silica impurities.
 1. **Digestion:** Crushed bauxite is heated under pressure with concentrated **sodium hydroxide solution**. The amphoteric aluminium oxide dissolves to form sodium tetrahydroxoaluminate(III), while basic iron(III) oxide impurities do not dissolve and are filtered off as "red mud".
-   $$\text{Al}_2\text{O}_3 \cdot 2\text{H}_2\text{O}_{\text{(s)}} + 2\text{NaOH}_{\text{(aq)}} \rightarrow 2\text{NaAl(OH)}_{4\text{(aq)}}$$
+   $$\text{Al}_2\text{O}_3 \cdot 2\text{H}_2\text{O}_{\text{(s)}} + 2\text{NaOH}_{\text{(aq)}} + \text{H}_2\text{O}_{\text{(l)}} \rightarrow 2\text{NaAl(OH)}_{4\text{(aq)}}$$
 2. **Precipitation:** The clear filtrate is cooled and "seeded" with pure aluminium hydroxide crystals, causing pure $\text{Al(OH)}_3$ to precipitate out.
 3. **Calcination:** The precipitate is heated strongly to leave pure anhydrous alumina ($\text{Al}_2\text{O}_3$), ready for electrolysis.
 

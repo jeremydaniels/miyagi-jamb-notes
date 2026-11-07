@@ -214,7 +214,7 @@ In Nigeria, these processes are managed by the **Bureau of Public Enterprises (B
 Students often confuse these two terms. Here is the strict difference:
 
 **Privatization** is the transfer of ownership, control, and management of a public enterprise from the government to private individuals or companies. The government sells its shares and steps away. 
-*   *Example:* The government sold NITEL and the electricity distribution companies (DisCos) to private investors. The government no longer owns them.
+*   *Example:* The government sold NITEL and majority stakes in the electricity distribution companies (DisCos) to private investors (the 2013 power sector sale). The government no longer wholly owns them.
 
 **Commercialization** is the reorganization of a public enterprise so that it operates as a profit-making commercial venture, **without changing ownership**. The government still owns the enterprise, but stops giving it subsidies. The enterprise must now charge market prices, survive on its own revenues, and aim to make a profit just like a private company.
 *   *Example:* The Nigerian Television Authority (NTA) and the Federal Radio Corporation of Nigeria (FRCN) were commercialized. The government still owns them, but they now aggressively seek paid advertisements to survive.

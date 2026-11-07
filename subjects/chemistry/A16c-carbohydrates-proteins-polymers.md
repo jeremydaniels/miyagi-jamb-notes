@@ -13,7 +13,7 @@ By the end of these notes, you should be able to:
 1. (xxxii) identify the natural sources of carbohydrates;
 2. (xxxiii) compare the various classes of carbohydrates;
 3. (xxxiv) infer the products of hydrolysis and dehydration of carbohydrates;
-4. (xxx5) determine the uses of carbohydrates;
+4. (xxxv) determine the uses of carbohydrates;
 5. (xxxvi) specify the tests for simple sugars;
 6. (xxxvii) identify the basic structure of proteins;
 7. (xxxviii) specify the methods and products of hydrolysis (of proteins);
@@ -22,8 +22,6 @@ By the end of these notes, you should be able to:
 10. (xli) differentiate between addition and condensation polymerization processes;
 11. (xlii) classify natural and commercial polymers and their uses;
 12. (xliii) distinguish between thermoplastics and thermosetting plastics.
-
-**Note on the syllabus wording:** Objective 4 is listed in the transcription notes as `xxx5` due to a numbering anomaly in the original syllabus document. It corresponds to the uses of carbohydrates.
 
 ## Carbohydrates
 
@@ -102,7 +100,7 @@ What mass of glucose is produced by the complete hydrolysis of $17.1 \text{ g}$ 
 5. **Calculate the mass of glucose:** The molar mass of glucose ($\text{C}_6\text{H}_{12}\text{O}_6$) is $(6 \times 12) + (12 \times 1) + (6 \times 16) = 180 \text{ g mol}^{-1}$. Mass of glucose = $0.1 \text{ mol} \times 180 \text{ g mol}^{-1} = 18.0 \text{ g}$.
 
 ### Uses of Carbohydrates
-**Objective xxx5: determine the uses of carbohydrates**
+**Objective xxxv: determine the uses of carbohydrates**
 
 - **Food and Energy:** They are the primary and most immediate source of energy for the human body, supplying fuel for respiration.
 - **Alcoholic Beverages:** Starch from grains or cassava is hydrolyzed into glucose, which is then fermented by yeast into **ethanol** ($\text{C}_2\text{H}_5\text{OH}$) and carbon(IV) oxide ($\text{CO}_2$). This is the basis of brewing beer, tapping palm wine, and distilling local gin (ogogoro).
@@ -162,7 +160,7 @@ To detect the presence of proteins in a food sample or solution, the following s
 ### Polymer Types and Rubbers
 **Content j: Natural and synthetic rubber, Methods of preparation, examples**
 
-- **Natural Rubber:** Extracted as a milky white liquid (latex) from the bark of the rubber tree (*Hevea brasiliensis*), commonly cultivated in Edo and Delta states in Nigeria. It is a natural addition polymer. Its repeating monomer is **isoprene**, mathematically named **2-methyl-1,3-butadiene** ($\text{C}_5\text{H}_8$).
+- **Natural Rubber:** Extracted as a milky white liquid (latex) from the bark of the rubber tree (*Hevea brasiliensis*), commonly cultivated in Edo and Delta states in Nigeria. It is a natural addition polymer. Its repeating monomer is **isoprene**, systematically named **2-methyl-1,3-butadiene** ($\text{C}_5\text{H}_8$).
 - **Synthetic Rubber:** Prepared in chemical plants by the addition polymerization of petroleum-derived monomers. Examples include **neoprene** (made from chloroprene) and **SBR** (Styrene-Butadiene Rubber). Synthetic rubbers are generally more resistant to heat, oil, and harsh chemicals than natural rubber.
 - **Vulcanization:** Pure natural rubber is too soft and sticky when hot, and brittle when cold, making it useless for tyres. To fix this, it undergoes **vulcanization**, a process where it is heated with **sulphur** ($\text{S}_8$). The sulphur atoms form strong covalent cross-links between the long polyisoprene chains. This stops the chains from sliding past each other, making the vulcanized rubber significantly harder, stronger, more durable, and highly elastic.
 

@@ -283,7 +283,7 @@ Because both give $70$, we know our math is correct. The equilibrium quantity is
 - D. ₦10
 
 **Answer: D.** At equilibrium, $Q_d = Q_s$. So, $80 - 4P = 20 + 2P$. Rearranging gives $80 - 20 = 2P + 4P$, which simplifies to $60 = 6P$. Dividing both sides by 6 gives $P = 10$. 
-*(Mistake behind option A: Subtracting the P terms incorrectly when moving them across the equals sign to get $60 = -2P$ or similar errors, leading to P = 30.)*
+*(Mistake behind option A: Moving the P terms across the equals sign incorrectly and ending up with $60 = 2P$ instead of $60 = 6P$, which gives $P = 30$.)*
 
 **4. When the government fixes the price of a commodity strictly below the equilibrium price, it creates**
 - A. a surplus of the commodity

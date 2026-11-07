@@ -98,7 +98,7 @@ This is the **spontaneous emission** of radiation by naturally unstable nuclei. 
 
 ### Artificial Radioactivity (Artificial Transmutation)
 Stable atoms can be forced to become radioactive. **Artificial radioactivity** occurs when stable nuclei are intentionally bombarded with fast-moving particles (like neutrons, protons, or alpha particles) in a laboratory or nuclear reactor. This bombardment upsets the neutron-to-proton ratio, making the stable nucleus unstable and causing it to emit radiation and change into a new, artificial isotope.
-*Note:* Artificial radioactivity was first achieved in 1919 by Ernest Rutherford, who successfully bombarded nitrogen gas with alpha particles to produce an isotope of oxygen.
+*Note:* Artificial *transmutation* was first achieved in 1919 by Ernest Rutherford, who bombarded nitrogen gas with alpha particles to produce a stable isotope of oxygen (and protons). Artificial *radioactivity* itself, the making of radioactive isotopes, was first achieved in 1934 by Irène and Frédéric Joliot-Curie.
 
 ### Comparison: Natural vs. Artificial Radioactivity
 
@@ -323,7 +323,7 @@ Despite its severe health risks, radioactivity is incredibly useful in modern so
 - **Not knowing the power of 2:** Remember the sequence of fractions remaining: 1 half-life = $1/2$; 2 half-lives = $1/4$; 3 half-lives = $1/8$; 4 half-lives = $1/16$; 5 half-lives = $1/32$.
 - **Confusing fusion and fission:** Look at the letters. F**u**sion brings things together (**u**nite). Fi**ss**ion breaks things apart (**s**plit).
 - **Gamma has NO mass and NO charge:** In balancing equations, adding a gamma ray ($^{0}_{0}\gamma$) changes absolutely nothing about the mass or atomic number of the products.
-- **Isotopes in medicine:** JAMB loves asking about specific isotopes. Memorize: **Iodine-131** for the thyroid, **Cobalt-60** for cancer therapy, and **Carbon-14** for archaeological dating.
+- **Important isotopes:** JAMB loves asking about specific isotopes. Memorize: **Iodine-131** for the thyroid, **Cobalt-60** for cancer therapy, and **Carbon-14** for archaeological dating.
 
 ---
 
@@ -352,7 +352,7 @@ Despite its severe health risks, radioactivity is incredibly useful in modern so
 2. In a nuclear reaction, the nucleus changes its number of protons ($Z$), resulting in a completely new element (e.g., $^{238}_{92}\text{U} \rightarrow ^{234}_{90}\text{Th} + ^{4}_{2}\text{He}$). 
 3. The most tempting wrong option is A, because transferring electrons accurately describes a chemical reaction, but not a nuclear one.
 
-**2. The phenomenon of artificial radioactivity was first discovered by bombarding a stable nitrogen nucleus with:**
+**2. The first artificial transmutation of an element was achieved by bombarding a stable nitrogen nucleus with:**
 - A. neutrons
 - B. beta particles
 - C. alpha particles
@@ -397,7 +397,7 @@ Despite its severe health risks, radioactivity is incredibly useful in modern so
 **Answer: A.** 
 1. Halve $32.0 \text{ g}$ successively to reach $2.0 \text{ g}$: $32.0 \rightarrow 16.0 \rightarrow 8.0 \rightarrow 4.0 \rightarrow 2.0 \text{ g}$. This requires $n = 4$ halving steps. 
 2. Calculate the half-life: $t_{1/2} = \frac{60.0 \text{ years}}{4} = 15.0 \text{ years}$. 
-3. The most tempting wrong option is C ($30.0 \text{ years}$), because a student might mistakenly divide $32.0$ by $16.0$ to get $2.0$ and wrongly assume $n = 2$, calculating $\frac{60.0 \text{ years}}{2} = 30.0 \text{ years}$.
+3. The most tempting wrong option is C ($30.0 \text{ years}$), because a student might wrongly assume that only $n = 2$ halving steps are needed, calculating $\frac{60.0 \text{ years}}{2} = 30.0 \text{ years}$.
 
 **6. In the nuclear reaction $^{238}_{92}\text{U} \rightarrow ^{234}_{90}\text{Th} + \text{X}$, the particle X is:**
 - A. a neutron
@@ -421,7 +421,7 @@ Despite its severe health risks, radioactivity is incredibly useful in modern so
 1. Calculate the total mass on the left: $9 + 4 = 13$. The right side has Carbon at $12$, so Y's mass is $13 - 12 = 1$. 
 2. Calculate the total charge on the left: $4 + 2 = 6$. The right side has Carbon at $6$, so Y's charge is $6 - 6 = 0$. 
 3. The particle with mass $1$ and charge $0$ is a neutron, $^{1}_{0}\text{n}$. 
-4. The most tempting wrong option is A (proton, $^{1}_{1}\text{p}$), because a student might quickly misadd the bottom numbers ($4+2=5$) or confuse the proton's $+1$ charge with the neutron's $0$ charge.
+4. The most tempting wrong option is A (proton, $^{1}_{1}\text{p}$), because a student might misadd the bottom numbers ($4+2=7$, so $7-6=1$) or confuse the proton's $+1$ charge with the neutron's $0$ charge.
 
 **8. Which of the following statements correctly distinguishes nuclear fusion from nuclear fission?**
 - A. Fusion splits $^{235}_{92}\text{U}$, while fission combines $^{2}_{1}\text{H}$.

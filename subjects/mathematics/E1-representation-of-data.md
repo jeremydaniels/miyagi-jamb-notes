@@ -336,7 +336,7 @@ Option B (Median) requires a cumulative frequency curve (Ogive).
 3. $6x + 90 = 360$.
 4. $6x = 360 - 90 = 270$.
 5. $x = \frac{270}{6} = 45$.
-Option A happens if the student equates the sum to $180^\circ$ instead of $360^\circ$ or fails to add the $90^\circ$.
+Option A ($30$) happens if the student equates only the unknown angles to $180^\circ$ ($6x = 180$). Option C ($60$) happens if the student forgets the $90^\circ$ ($6x = 360$).
 
 **8. The table below shows the distribution of marks scored by students:**
 

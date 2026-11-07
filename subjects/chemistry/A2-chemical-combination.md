@@ -272,7 +272,7 @@ What mass of water is produced when $4.0 \text{ g}$ of hydrogen gas reacts compl
    - Mass of $\text{H}_2\text{O} = 2.0 \text{ mol} \times 18 \text{ g mol}^{-1} = 36.0 \text{ g}$.
 
 **Worked Example 7: Mass-Volume Calculation**
-Limestone ($\text{CaCO}_3$) reacts with acid, a reaction often seen in cement processing factories like those in Obajana or Ewekoro. What volume of carbon(IV) oxide is produced at s.t.p. when $10.0 \text{ g}$ of calcium trioxocarbonate(IV) reacts completely with dilute hydrochloric acid?
+Limestone ($\text{CaCO}_3$), quarried in places like Obajana and Ewekoro for cement making, reacts with acids to give carbon(IV) oxide. What volume of carbon(IV) oxide is produced at s.t.p. when $10.0 \text{ g}$ of calcium trioxocarbonate(IV) reacts completely with dilute hydrochloric acid?
 *(Given: Ca = 40, C = 12, O = 16, Molar volume at s.t.p. = $22.4 \text{ dm}^3 \text{ mol}^{-1}$)*
 1. Write the balanced equation:
    $\text{CaCO}_3\text{(s)} + 2\text{HCl(aq)} \rightarrow \text{CaCl}_2\text{(aq)} + \text{H}_2\text{O(l)} + \text{CO}_2\text{(g)}$

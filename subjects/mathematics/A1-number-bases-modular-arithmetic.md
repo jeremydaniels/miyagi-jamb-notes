@@ -111,7 +111,7 @@ JAMB often sets equations where the base itself is an unknown variable $x$. Alwa
    $$x = 5$$
 
 > **Common mistakes in conversion:** 
-> - Reading remainders downwards instead of upwards when converting whole numbers from base 10 (wrong: $45_{10} = 100111_2$; correct: $101101_2$).
+> - Reading remainders downwards instead of upwards when converting whole numbers from base 10 (wrong: for $35_{10}$ the remainders, read downwards, give $110001_2$; correct: read upwards to get $100011_2$).
 > - Forgetting that any number to the power of $0$ is $1$, not $0$. (e.g., $4 \times 5^0$ is $4 \times 1 = 4$, not $4 \times 0 = 0$).
 
 ## Operations in different number bases
@@ -294,7 +294,7 @@ Equations in modular arithmetic are called **linear congruences**. To solve an e
 1. Expand using powers of $5$: $1 \times 5^2 + 2 \times 5^1 + 4 \times 5^0$.
 2. Substitute the values: $1(25) + 2(5) + 4(1)$.
 3. Add them together: $25 + 10 + 4 = 39_{10}$.
-*(Mistake behind D: treating $5^0$ as $0$ instead of $1$, which would give $25+10+0 = 35$, or miscalculating the powers).*
+*(Mistake behind D: leaving out the middle term $2 \times 5^1$ gives $25 + 4 = 29$. Treating $5^0$ as $0$ instead of $1$ would give $25 + 10 + 0 = 35$, which is not one of the options.)*
 
 **2. Convert $35_{10}$ to base 2.**
 
@@ -354,7 +354,7 @@ Equations in modular arithmetic are called **linear congruences**. To solve an e
 3. Next digit is now $0$. $0 - 3$: Borrow $1$ (worth $5$). $5 + 0 = 5$. $5 - 3 = 2$.
 4. Next digit is now $1$. $1 - 4$: Borrow $1$ (worth $5$). $5 + 1 = 6$. $6 - 4 = 2$.
 5. Next digit is now $0$. Result: $224_5$.
-*(Mistake behind B: borrowing 10 instead of 5, which is applying base 10 rules in base 5).*
+*(Mistake behind B: after borrowing in the units column, forgetting to reduce the next digit by $1$. This gives $234_5$ instead of $224_5$.)*
 
 **6. Evaluate $34_6 \times 25_6$.**
 

@@ -357,6 +357,8 @@ The **Sahel savanna** lies **between the Sudan savanna and the desert**. The wor
 - **Human activities:** nomadic herding, millet farming, fishing and farming around Lake Chad, irrigation, collection of gum arabic.
 - **Main problem:** **desertification**, made worse by drought, overgrazing and tree-cutting.
 
+[IMAGE: Landscape of the Sahel savanna near Lake Chad in the dry season. Very short, sparse tufts of dry grass with much bare sandy ground between them, a few low thorny Acacia shrubs, a doum palm, a small sand dune creeping over a field edge, a herd of camels and goats with a herder, and the shallow edge of Lake Chad with reeds in the distance. Labels: "short, sparse grass", "bare sandy ground", "thorny shrubs (Acacia)", "doum palm", "sand dune (desertification)", "camels and goats", "Lake Chad". Soft tans, pale yellows and pale blues. Clean flat textbook style, white background.]
+
 ## Biome d: Desert
 
 ### Where is the desert?
@@ -516,6 +518,8 @@ The table below summarises where each biome is found. Use it together with the v
 | **Desert** | Beyond Nigeria's northern border (Sahara); desert-like conditions spreading into the far north | (Niger Republic, Chad); threatened Nigerian states: Sokoto, Yobe, Borno, Jigawa, Katsina | Sand dunes in northern Yobe and Borno |
 | **Montane forests and grasslands** | Highlands | Plateau, Taraba, Cross River | Jos Plateau, Mambilla Plateau (Gembu), Obudu Plateau |
 
+[IMAGE: Outline map of Nigeria showing state boundaries, with each state lightly shaded in the colour of its main biome: dark green for mangrove and swamp forest states on the coast (Lagos coast, Delta, Bayelsa, Rivers, Akwa Ibom), green for rainforest states (Ogun, Ondo, Osun, Edo, Imo, Abia, Cross River), yellow-green for southern Guinea savanna (Kwara, Kogi, FCT, Nasarawa, Benue), yellow for northern Guinea savanna (Kaduna, Niger, Adamawa, Taraba), pale orange for Sudan savanna (Sokoto, Zamfara, Kebbi, Katsina, Kano, Jigawa, Bauchi), and light tan for the Sahel in northern Borno and Yobe. Small brown-purple triangles mark the Jos, Mambilla and Obudu Plateaus. A small colour key box in one corner with empty coloured squares. Labels: "mangrove and swamp forest", "tropical rainforest", "southern Guinea savanna", "northern Guinea savanna", "Sudan savanna", "Sahel savanna", "montane highlands", "Jos Plateau", "Mambilla Plateau", "Obudu Plateau", "Lagos", "Benin City", "Makurdi", "Kaduna", "Kano", "Sokoto", "Maiduguri". Soft natural colours. Clean flat textbook style, white background.]
+
 **Memory aid:** from the coast going north, the order is **"Many Swamps Remain Green, So Sahel Dries"**: **M**angrove, **S**wamp forest, **R**ainforest, **G**uinea savanna, **S**udan savanna, **S**ahel, **D**esert.
 
 ## Using biome features to determine the characteristics of Nigerian regions
@@ -539,6 +543,8 @@ If you know the features of each biome, you can work out the **climate, vegetati
 | **Example places** | Niger Delta, Calabar | Benin City, Akure, Okomu NP | Ilorin, Makurdi, Abuja | Kaduna, Zaria, Minna | Kano, Sokoto, Katsina | Nguru, Lake Chad area | Sahara (north of Nigeria) | Jos, Gembu (Mambilla), Obudu |
 
 ### Worked examples: identifying a region from its features
+
+[IMAGE: A simple vertical bar chart comparing the approximate annual rainfall of six Nigerian towns from south to north, with no numbers on the bars. Bars from left to right get shorter: Calabar (tallest, dark blue), Benin City, Makurdi, Kaduna, Kano, Maiduguri (shortest, pale blue). Under each bar, a small icon of its typical vegetation: mangrove or rainforest tree, rainforest tree, tall grass with trees, shorter grass with trees, baobab and Acacia, sparse thorny shrub. A horizontal arrow under the chart pointing right. Labels: "Calabar", "Benin City", "Makurdi", "Kaduna", "Kano", "Maiduguri", "annual rainfall (approximate)", "south", "north", "rainfall decreases northwards". Soft blues and greens. Clean flat textbook style, white background.]
 
 **Example 1.** A region has an annual rainfall of about 2,000 mm, a dry season of only two to three months, high humidity throughout the year, and tall trees with buttress roots and lianas. Farmers grow cocoa and oil palm. **Which biome is this, and where in Nigeria might it be?**
 

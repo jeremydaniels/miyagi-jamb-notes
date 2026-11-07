@@ -131,7 +131,7 @@ The $\text{HNO}_3$ vapour is condensed by running cold water over the receiver f
 **Action of heat on Trioxonitrate(V) salts:**
 JAMB frequently asks how different nitrates decompose on heating:
 - **Sodium and potassium:** Decompose to give the trioxonitrate(III) (nitrite) and oxygen gas. (e.g., $2\text{NaNO}_3 \rightarrow 2\text{NaNO}_2 + \text{O}_2$).
-- **Heavy metals (Ca, Mg, Zn, Pb, Cu):** Decompose to give the metal oxide, nitrogen(IV) oxide ($\text{NO}_2$), and oxygen gas.
+- **Most other metals (for example Ca, Mg, Zn, Pb, Cu):** Decompose to give the metal oxide, nitrogen(IV) oxide ($\text{NO}_2$), and oxygen gas.
 - **Silver and mercury:** Decompose completely to yield the metal, $\text{NO}_2$, and $\text{O}_2$.
 - **Ammonium trioxonitrate(V):** Decomposes to yield dinitrogen(I) oxide ($\text{N}_2\text{O}$) and water.
 
@@ -351,7 +351,7 @@ Coal is a fossil fuel formed over millions of years from the buried remains of p
 - **Oxides of Nitrogen:** Remember that $\text{N}_2\text{O}$ is neutral and supports combustion, $\text{NO}$ is neutral and turns brown in air, and $\text{NO}_2$ is acidic, brown, and poisonous.
 - **Brown Ring complex:** The formula for the brown ring is frequently asked; it is **$\text{FeSO}_4\cdot\text{NO}$**.
 - **Carbon(II) vs Carbon(IV) Oxide:** Ensure you do not confuse them. $\text{CO}$ is neutral, poisonous (binds to blood), and supports combustion in itself. $\text{CO}_2$ is acidic, not toxic (causes suffocation simply by lack of oxygen), and extinguishes fire.
-- **Action of heat on Carbonates:** Remember that Sodium ($\text{Na}_2\text{CO}_3$) and Potassium ($\text{K}_2\text{CO}_3$) trioxocarbonates(IV) **do not decompose** on heating. All other carbonates decompose to yield the metal oxide and $\text{CO}_2$.
+- **Action of heat on Carbonates:** Remember that Sodium ($\text{Na}_2\text{CO}_3$) and Potassium ($\text{K}_2\text{CO}_3$) trioxocarbonates(IV) **do not decompose** on heating. Most other common metal carbonates decompose to yield the metal oxide and $\text{CO}_2$ (silver carbonate is an exception: it gives silver metal.)
 - **Distinguishing Carbonates and Bicarbonates:** Both give off $\text{CO}_2$ with dilute acids. To distinguish them, use $\text{MgSO}_4$. Trioxocarbonates(IV) give a precipitate immediately at room temperature; hydrogen trioxocarbonates(IV) require heat.
 
 ---

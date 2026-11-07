@@ -402,7 +402,7 @@ From a straight-line position-time graph, a car passes point $(1\ \text{s}, 15\ 
 
 **Answer: C.** A string is flexible and can be laid along the exact curves of the road, and then stretched straight to be measured against a metre rule.
 
-**8. What is the distance between the points $A(-3, 2)$ and $B(5, -4)$ on a Cartesian plane?**
+**8. What is the distance between the points $A(-3, 2)$ and $B(5, -4)$ on a Cartesian plane, where the coordinates are in metres?**
 - A. $2\ \text{m}$
 - B. $8\ \text{m}$
 - C. $10\ \text{m}$

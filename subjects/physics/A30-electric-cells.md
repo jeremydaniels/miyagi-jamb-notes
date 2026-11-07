@@ -69,8 +69,8 @@ Secondary cells can be recharged and are crucial for heavy-duty or long-term ene
    Also known as the Edison accumulator. The positive plate is nickel (IV) oxide and the negative plate is iron. The electrolyte is a solution of potassium hydroxide ($KOH$). It provides an e.m.f of about $1.2\ \text{V}$.
 3. **Lithium-Ion (Li-ion) Cells:** 
    Modern, lightweight rechargeable batteries used in smartphones, laptops, and electric vehicles. They have a very high energy density (store a lot of energy for their size) and do not suffer from memory effects, but require careful electronic management to prevent overheating.
-4. **Mercury-Cadmium Cells:** 
-   Often shaped as small "button cells" used in wristwatches and hearing aids. They provide a very steady and precise voltage (about $1.35\ \text{V}$) over a long period.
+4. **Mercury cells (and cadmium cells):** 
+   The syllabus says "Mercury cadmium". Textbooks differ on what this means. The common mercury cell is a small "button cell" used in wristwatches and hearing aids; it provides a very steady voltage (about $1.35\ \text{V}$) over a long period. Cadmium appears in the nickel-cadmium rechargeable cell. (A true mercury-cadmium cell, the Weston cell, is a laboratory reference cell of about $1.018\ \text{V}$, not a button cell.)
 5. **Solar Cells:** 
    Unlike chemical cells, a solar cell (photovoltaic cell) uses semiconductor materials (like silicon) to convert light energy directly into electrical energy. When sunlight strikes the cell, it dislodges electrons, creating a current. They are highly sustainable and widely used in Nigeria to power streetlights and boreholes.
 

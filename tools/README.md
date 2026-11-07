@@ -20,15 +20,16 @@ python tools/transcribe_syllabus.py chemistry
 #    Check it against the PDF (pdftotext) and fix the "Transcription notes" if needed.
 
 # 2. Proposed file list -> subjects/chemistry/PLAN.md   (human approves / edits it)
-python tools/plan_subject.py chemistry
+python tools/plan_subject.py chemistry                # uses the cheaper Flash model
 
 # 3. Write all the notes (resumes where it stopped; never touches git)
-python tools/write_notes.py chemistry --workers 3 --budget 25
+python tools/write_notes.py chemistry                 # Batch API (about half price; takes minutes to hours)
+python tools/write_notes.py chemistry --mode sync --workers 3   # immediate, full price
 python tools/write_notes.py chemistry --status        # done / flagged / pending
-python tools/write_notes.py --cost                    # tokens and USD per file and subject
+python tools/write_notes.py chemistry --cost          # writing / verification / setup totals for the team
 
 # 4. Independent verification of every finished file (do this before committing)
-python tools/verify_notes.py chemistry --budget 10
+python tools/verify_notes.py chemistry                # Batch API by default; --mode sync for immediate
 python tools/verify_notes.py chemistry --report       # print the combined report again
 ```
 
@@ -38,7 +39,7 @@ python tools/verify_notes.py chemistry --report       # print the combined repor
 | `plan_subject.py` | Gemini proposes the topic files (syllabus order, big topics split into parts `a`, `b`, `c`) and writes `PLAN.md`. Checks that every topic, content item and objective is assigned to exactly one file. |
 | `write_notes.py` | For each file in `PLAN.md`: sends the notes rules from `CLAUDE.md`, that topic's exact syllabus text, one finished Biology file (`subjects/biology/D3-biotechnology.md`) as the style example and the subject rules in `tools/rules/<subject>.md`; saves the file only if `notes_checks.py` passes. |
 | `notes_checks.py` | The automatic checks: closing sections in order, 5 to 8 summary points, exactly 10 questions each with options A to D and an answer with explanation, a heading for every objective and content item (via a hidden coverage map), image placeholders, balanced `$` maths, no leaked narration. |
-| `verify_notes.py` | A second, independent Gemini call per file (code execution on) re-checks every worked example, every practice answer, **every explanation of the wrong options** and the formulas and facts. It never edits notes. It writes `.gemini-work/verify/<subject>/<file>.json` and a combined `VERIFY-REPORT.md` listing file, location, issue, evidence and suggested fix. It resumes where it stopped; `--redo` checks a file again after a fix; `--budget` limits what verification itself may spend (default $10, separate from the writing budget). |
+| `verify_notes.py` | A second, independent Gemini call per file (code execution on) re-checks every worked example, every practice answer, **every explanation of the wrong options** and the formulas and facts. It never edits notes. It writes `.gemini-work/verify/<subject>/<file>.json` and a combined `VERIFY-REPORT.md` listing file, location, issue, evidence and suggested fix. It resumes where it stopped; `--redo` checks a file again after a fix; it uses the Batch API by default (`--mode sync` for immediate), and has no budget flag (only the $100 safety limit). |
 | `gemini_common.py`, `syllabus_utils.py` | Shared REST client (standard library), cost log, syllabus and plan parsing. |
 
 **Subject rules.** `tools/rules/<subject>.md` holds extra rules for that subject. If its first line is `<!-- code-execution -->`, Gemini's code execution tool is switched on and the file must use it (used for Mathematics, where every calculation is verified). Add a rules file for Physics or Chemistry the same way.
@@ -47,7 +48,15 @@ python tools/verify_notes.py chemistry --report       # print the combined repor
 
 **Failures.** A file that fails the checks is re-asked with the problem list (up to 2 retries). If it still fails it is *flagged*: the attempt is kept in `.gemini-work/flagged/<subject>/` with a `.problems.json` file and nothing is written to `subjects/`. Fix by hand or run `--retry-flagged`.
 
-**Cost control.** Every call is logged to `.gemini-work/costs.jsonl` (git-ignored; tokens and USD, never the key). `write_notes.py` stops before a call that could take the subject's total spend over `--budget` (default $25). Stop and ask before raising it. Logged costs use list prices and ignore cached-token discounts, so they are an upper bound.
+**Cost control.** There are no per-run or per-subject budgets any more. Runs go to the end of the subject. The only limit is a safety limit of **$100 per subject** (writing and verification together, at list price), set as `safety_limit_usd` in `tools/gemini_pricing.json`. If a run would pass it, the tool stops and tells you; tell the user before raising it. Every call is logged to `.gemini-work/costs.jsonl` (git-ignored; tokens and USD, never the key). `write_notes.py --cost <subject>` (also printed at the end of every run) gives the writing, verification and setup totals twice: **list** (normal price, no discounts, an upper bound) and **est** (cached-token and Batch discounts applied). The discount rates (`cached_input_fraction`, `batch_factor`) are assumptions in `gemini_pricing.json` until checked against Google's price page, so quote the list figure as the safe number.
+
+**How the tools keep cost down (all tested; see the numbers in the Miyagi Labs cost notes):**
+- **Batch API** (default for writing and verification): about half price, code execution works inside batches, results arrive in minutes to hours. State is saved in `.gemini-work/batches/`, so an interrupted run resumes the same batch.
+- **Thinking level stays at the model default** for writing and verification. Tests showed low and medium thinking write shorter notes and find fewer real problems (low found 15 and medium 17 of 25 known problems), so they are not used.
+- **Flash model for planning only** (`flash_model` in `gemini_pricing.json`). Syllabus transcription stays on Pro, because Flash made small silent changes (turned a printed "x" into a multiplication sign, called an unofficial copy "official").
+- **Fewer retries**: the checks tolerate cosmetic differences (`###` marks, bracketed ids like (i), near-matching headings); a coverage-map-only failure is repaired by a tiny Flash call instead of re-writing the file; "code tool not used" is a warning, because the verifier recomputes every number independently.
+- **Caching**: the rules, style example and subject rules are sent first in every request, so Gemini's automatic prefix caching applies (visible as cached tokens in the log). Explicit caching was not adopted.
+- **Verification reruns** are needed only for files whose fix changed a number or a fact; wording-only fixes need no re-verification.
 
 ---
 

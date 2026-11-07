@@ -85,7 +85,8 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("subject")
     ap.add_argument("--title")
-    ap.add_argument("--model", default=g.default_model())
+    ap.add_argument("--model", default=g.load_pricing().get("flash_model", g.default_model()),
+                    help="default: the cheaper Flash model (tested OK for planning)")
     ap.add_argument("--max-words", type=int, default=10000, help="split topics longer than this (default 10000)")
     ap.add_argument("--hint", default="", help="extra guidance, e.g. which topics are big")
     ap.add_argument("--force", action="store_true")

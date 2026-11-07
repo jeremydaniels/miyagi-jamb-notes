@@ -113,7 +113,7 @@ A pure monopoly exists when there is only **one producer or seller** of a produc
 
 #### 2. Discriminatory Monopoly
 This is a monopoly that practices **price discrimination**, which means selling the exact same product or service to different consumers at different prices, not due to differences in cost, but based on their willingness or ability to pay. 
-For price discrimination to be possible, three conditions must be met:
+For price discrimination to be possible, the following conditions must be met:
 * The firm must have monopoly power (ability to set prices).
 * The market must be easily divided into different segments (e.g., adult vs child, business class vs economy class).
 * There must be different price elasticities of demand in each segment.

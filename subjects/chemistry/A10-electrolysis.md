@@ -209,7 +209,7 @@ Use this quick summary table to memorise the products for your exams:
 | Dilute $\text{H}_2\text{SO}_4$ | Platinum | Hydrogen | Oxygen | Becomes more concentrated |
 | Aqueous $\text{CuSO}_4$ | Platinum/Carbon | Copper | Oxygen | Becomes dilute $\text{H}_2\text{SO}_4$ |
 | Aqueous $\text{CuSO}_4$ | Copper | Copper | Anode dissolves | Unchanged |
-| Aqueous $\text{CuCl}_2$ | Carbon | Copper | Chlorine | Becomes dilute $\text{HCl}$ / water |
+| Aqueous $\text{CuCl}_2$ | Carbon | Copper | Chlorine | Becomes more dilute (Cu$^{2+}$ and Cl$^-$ are removed), eventually water |
 | Dilute $\text{NaCl}$ | Platinum | Hydrogen | Oxygen | Becomes more concentrated |
 | Concentrated $\text{NaCl}$ | Carbon | Hydrogen | Chlorine | Becomes $\text{NaOH}$ solution |
 | Fused $\text{NaCl}$ | Iron/Carbon | Sodium (liquid) | Chlorine | None left |

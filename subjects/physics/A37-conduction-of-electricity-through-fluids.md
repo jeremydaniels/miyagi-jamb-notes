@@ -207,7 +207,7 @@ As the vacuum pump gradually reduces the pressure inside the tube, a fascinating
 [IMAGE: A long cylindrical glass discharge tube connected to a high voltage induction coil. A side pipe connects downwards to a vacuum pump. Inside the tube, the pressure is very low, showing alternating dark and glowing bands (striations) in the positive column. Labels to add: "Cathode (-)", "Anode (+)", "High Voltage Source (10,000 V)", "To Vacuum Pump", "Striations", "Faraday Dark Space". Clean flat textbook illustration, white background.]
 
 #### Properties of Cathode Rays
-Cathode rays (discovered by J.J. Thomson) were later identified as streams of electrons. Their properties include:
+Cathode rays were identified by J.J. Thomson (1897) as streams of electrons. Their properties include:
 1.  They travel in straight lines (they will cast a sharp shadow of a solid object placed in their path).
 2.  They possess kinetic energy and momentum (they can turn a small, light paddle wheel placed in the tube).
 3.  They are negatively charged (they are deflected towards the positive plate of an electric field, and are deflected by magnetic fields).

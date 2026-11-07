@@ -23,7 +23,7 @@ The three most common measures are the **Mean**, the **Median**, and the **Mode*
 ### 1. The Mean (Arithmetic Mean)
 The mean is what we normally call the "average" in everyday life. It takes every single value into account. It is calculated by adding all the values together and dividing by the total number of values. 
 - **Advantage:** It uses all the data available, making it mathematically useful for further statistical calculations (like standard deviation).
-- **Disadvantage:** It is easily affected by extreme values (called outliers). For example, if five people earn ₦1,000, ₦1,200, ₦1,100, ₦900, and one person earns ₦50,000, the mean will be heavily pulled up by the ₦50,000, giving a false impression of the typical earnings.
+- **Disadvantage:** It is easily affected by extreme values (called outliers). For example, in a group of five people, four earn ₦1,000, ₦1,200, ₦1,100 and ₦900, and one earns ₦50,000, the mean will be heavily pulled up by the ₦50,000, giving a false impression of the typical earnings.
 
 ### 2. The Median
 The median is the literal middle value when the data is arranged in order of size (either from smallest to largest or largest to smallest). It cuts the dataset exactly in half.
@@ -408,7 +408,7 @@ Using the gradient (slope) method between the two points:
 **Answer: B.**
 1. Sum all the given numbers: $\sum x = 5 + 8 + 12 + 15 + 20 = 60$.
 2. Divide the sum by the total count ($N = 5$): $\bar{x} = \frac{60}{5} = 12.0$.
-3. Option C ($12.5$) is a mistake of choosing the middle value (confusing mean with median).
+3. Option C ($12.5$) is a mistake of finding the average of the lowest and highest values, $\frac{5 + 20}{2}$, instead of the mean of all the numbers.
 
 **2. What is the median of the following set of numbers: 45, 23, 67, 12, 34, 89, 56, 78?**
 

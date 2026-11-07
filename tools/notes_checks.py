@@ -103,7 +103,8 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
                 expl = re.sub(r"^\.?\*\*", "", expl).strip()
                 if len(expl) < (80 if math else 25):
                     probs.append(f"question {m.group(1)}: answer has no explanation/working")
-                if math and "$" not in expl:
+                # a worked $...$ solution is only required when the question itself is maths
+                if math and "$" in chunk.split("**Answer:")[0] and "$" not in expl:
                     probs.append(f"question {m.group(1)}: maths answer shows no worked $...$ working")
     # image placeholders
     ph = re.findall(r"(?m)^\[IMAGE:.*$", text)
@@ -130,7 +131,9 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
         est = entry.get("est_words") or 0
         if est and words < 0.4 * est:
             probs.append(f"too short: {words} words (plan estimate {est}); never shorten a topic")
-        need = [("obj", x) for x in entry.get("objectives", [])] + [("item", x) for x in entry.get("contents", [])]
+        # item ids that are prose (syllabi with unlettered content items) cannot be matched by id; skip them
+        is_id = lambda x: re.fullmatch(r"[a-z]{1,4}|\d{1,2}|[ivx]+", x.strip("().").lower()) is not None
+        need = [("obj", x) for x in entry.get("objectives", [])] + [("item", x) for x in entry.get("contents", []) if is_id(x)]
         titles = {_norm(t) for _, t in h}
         for kind, ident in need:
             key = (kind, ident.lower())

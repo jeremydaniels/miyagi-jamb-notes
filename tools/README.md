@@ -1,6 +1,6 @@
 # Image tools
 
-These scripts make the labelled diagrams in `biology/images/`. They work the same way for any subject.
+These scripts make the labelled diagrams in `subjects/<subject>/images/` (for example `subjects/biology/images/`). They work the same way for any subject.
 
 The process: generate each picture **with no text**, look at it, add the labels yourself with Pillow, look again, and fix anything wrong. The model often puts parts in slightly odd places, so never place labels without looking at the image first.
 
@@ -23,7 +23,7 @@ Working files go in `.image-work/` at the repo root, which is git-ignored. To pu
 |---|---|
 | `generate.py` | Calls OpenAI (`gpt-image-2`, 1024x1024, quality "medium"), adds the house style to each prompt, saves `raw/<name>.png` and logs the real cost from the returned token usage. It skips a call if the running total plus that call could go over `--budget` (default $5). |
 | `preview.py` | `grid` draws a pixel grid on a raw image. `zoom` enlarges a small area. `small` shrinks a finished labelled image so you can check it. |
-| `label.py` | Reads a label spec and draws the labels, leader lines, captions and arrows. Saves the final PNG to `biology/images/` (change with `--out`). |
+| `label.py` | Reads a label spec and draws the labels, leader lines, captions and arrows. Saves the final PNG to `subjects/biology/images/` by default (change with `--out`, e.g. `--out subjects/chemistry/images`). |
 | `compress_images.py` | Shrinks the finished PNGs in place (256-colour palette with dithering, no visible loss; about 60% smaller). File names stay the same, so links still work. |
 | `place_images.py` | Replaces the `[IMAGE: ...]` lines in a notes file, in order, with `![alt](images/NAME.png)`. |
 | `common.py` | Shared paths and fonts. Uses Inter if it is installed, otherwise DejaVu Sans. |
@@ -54,8 +54,8 @@ Working files go in `.image-work/` at the repo root, which is git-ignored. To pu
    ```
 6. **Render, then check the result:**
    ```bash
-   python tools/label.py tools/specs/chemistry/C1-labels.json --out chemistry/images
-   python tools/preview.py small C1-some-image   # only for images in biology/images; otherwise open the PNG directly
+   python tools/label.py tools/specs/chemistry/C1-labels.json --out subjects/chemistry/images
+   python tools/preview.py small C1-some-image   # only for images in subjects/biology/images; otherwise open the PNG directly
    ```
    Look at every labelled image. Fix any dot that misses its part, any lines that cross and any text that overlaps, then render again.
 7. **Place the images in the notes:**

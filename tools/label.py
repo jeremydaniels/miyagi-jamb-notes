@@ -1,7 +1,7 @@
 """Add text labels and thin leader lines to raw images with Pillow.
 
 Usage:
-  python tools/label.py SPEC.json [name ...] [--out biology/images]
+  python tools/label.py SPEC.json [name ...] [--out subjects/biology/images]
 
 Reads <work>/raw/<name>.png, writes <out>/<name>.png. The image is trimmed to
 its content, and label columns are added on the left and right.
@@ -182,7 +182,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("spec")
     ap.add_argument("names", nargs="*")
-    ap.add_argument("--out", default=os.path.join(REPO, "biology", "images"))
+    ap.add_argument("--out", default=os.path.join(REPO, "subjects", "biology", "images"))
     a = ap.parse_args()
     with open(a.spec) as f:
         spec = json.load(f)

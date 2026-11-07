@@ -44,7 +44,7 @@ def zoom(name, x0, y0, x1, y1, s=3.0):
     return im, f"zoom-{name}.png"
 
 
-def small(name, out_dir=os.path.join(REPO, "biology", "images")):
+def small(name, out_dir=os.path.join(REPO, "subjects", "biology", "images")):
     im = Image.open(os.path.join(out_dir, name + ".png"))
     return im.resize((int(im.width * 0.6), int(im.height * 0.6)), Image.LANCZOS), f"small-{name}.png"
 

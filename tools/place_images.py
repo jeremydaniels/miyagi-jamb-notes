@@ -1,7 +1,7 @@
 """Replace the [IMAGE: ...] placeholder lines in a notes file, in order, with images.
 
 Usage:
-  python tools/place_images.py biology/A1-living-organisms.md "NAME=alt text" "NAME=alt text" ...
+  python tools/place_images.py subjects/biology/A1-living-organisms.md "NAME=alt text" "NAME=alt text" ...
 
 Give exactly one NAME=alt pair per placeholder, in the order they appear.
 Each image must already exist in the images/ folder next to the notes file.

@@ -4,7 +4,7 @@
 
 Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB syllabus. Students read them in the Miyagi Labs app.
 
-- Official syllabi live in `syllabi/` (e.g. `syllabi/biology-syllabus.md`, and `syllabi/biology-section-a.md` for Section A only). They are the source of truth for what must be covered. Syllabus files are typed exactly as written, mistakes included; errors are explained in a "Transcription notes" section, never silently corrected.
+- Each subject's official syllabus lives in its own subject folder as `syllabus.md` (e.g. `subjects/biology/syllabus.md`, `subjects/use-of-english/syllabus.md`). It is the source of truth for what must be covered. Syllabus files are typed exactly as written, mistakes included; errors are explained in a "Transcription notes" section, never silently corrected.
 - The style and depth reference is `samples/sample-living-organisms.md`. Match it.
 
 ## Workflow
@@ -16,9 +16,9 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 
 ## File structure
 
-- Each subject gets its own folder: `biology/`, `chemistry/`, `physics/`, etc.
-- One Markdown file per syllabus topic, numbered in syllabus order (e.g. `biology/A1-living-organisms.md`, `biology/A2-...md`). A topic too big for one file is split with letter suffixes (e.g. `A2a-`, `A2b-`, `A2c-`).
-- Images live in `biology/images/` with clear names prefixed by the topic file (e.g. `A1-plant-cell.png`).
+- All subjects live under `subjects/`. Each subject gets its own folder: `subjects/biology/`, `subjects/chemistry/`, `subjects/physics/`, etc. A new subject's folder holds its `syllabus.md`, its topic files and its `images/` folder. `tools/`, `samples/` and `release/` stay at the repo root.
+- One Markdown file per syllabus topic, numbered in syllabus order (e.g. `subjects/biology/A1-living-organisms.md`, `subjects/biology/A2a-...md`). A topic too big for one file is split with letter suffixes (e.g. `A2a-`, `A2b-`, `A2c-`).
+- Images live in `subjects/<subject>/images/` (e.g. `subjects/biology/images/`) with clear names prefixed by the topic file (e.g. `A1-plant-cell.png`).
 
 ## Content rules
 
@@ -58,7 +58,7 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
   1. Look at the image.
   2. Add the labels with a Python script (Pillow): clear text and thin leader lines pointing to the right parts.
   3. Look at the labelled image again and check every label points to the right part. Fix any that don't.
-- Save final images in `biology/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
+- Save final images in `subjects/<subject>/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
 - Budget: stay under $5 total per batch. Work out the real cost of each call from the token usage the API returns, keep a running total, and stop and ask before going over.
 - Use the scripts in `tools/` (see `tools/README.md`) and save each topic's prompts and label specs under `tools/specs/<subject>/`.
 - Allowed Python packages: Pillow and the OpenAI package (`openai`). Ask before adding any other dependency.

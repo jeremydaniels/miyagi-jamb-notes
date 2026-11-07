@@ -21,7 +21,7 @@ By the end of these notes, you should be able to:
 5. Tell apart vowels that many Nigerian speakers mix up, using minimal pairs.
 6. Answer JAMB questions such as "Choose the option that has the same vowel sound as the one represented by the letter(s) in italics".
 
-> **Note on the syllabus spelling:** the syllabus prints "monothongs". The correct word is **monophthongs** (mono = one, phthong = sound). See the transcription notes in `syllabi/use-of-english-syllabus.md`.
+> **Note on the syllabus spelling:** the syllabus prints "monothongs". The correct word is **monophthongs** (mono = one, phthong = sound). See the transcription notes in `syllabus.md`.
 
 > **How italics are used in these notes:** JAMB prints the tested letters underlined. In these notes, the tested letters are shown in *italics*, for example b*ir*d.
 

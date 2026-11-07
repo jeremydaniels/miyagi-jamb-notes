@@ -669,7 +669,11 @@ These are not part of the syllabus. They flag places where the original wording 
 
 - A2, Animalia objective iv: "classify plants into animals, biennials and perennials" almost certainly means **annuals**, biennials and perennials. It matches content item d.v "Plants classified on the span of their life cycles".
 - A2: "liveworts" = liverworts; "Merchantia" = *Marchantia*; "Brachmenium" = *Brachymenium* (a moss genus).
+- A1 and A2: "euglena", "paramecium" and "mushroom" are printed in lower case in places. Genus names are normally written with a capital letter and in italics (*Euglena*, *Paramecium*). "Mushroom" is a common name, not a genus.
+- A2 objective layout: in the PDF, objectives i to iv (insects, environment, plant life spans) sit beside the Animalia content, but some apply to other groups. "Determine the economic importance of the insects studied" and "assess their values to the environment" refer to the arthropods; "classify plants into ... biennials and perennials" refers to the plants. Each objective is covered where it fits best (see `A2b-evolution-plants.md`).
 - A3 objective iv: "behavour" = behaviour.
+- A3 objective ii: "countershading in fish, toads, snakes": the word "Categorize" is used loosely. The objective asks candidates to recognise these as examples of countershading and warning colouration.
+- A3 objective iv: "Account for basking in lizards, territorial behavour of other animals under unfavourable conditions (hibernation and aestivation)" joins three ideas. Hibernation and aestivation are responses to unfavourable conditions; territorial behaviour is not. Basking, territorial behaviour, and hibernation and aestivation are covered separately in `A3-adaptations.md`.
 - B1: content items are numbered i–iii then "b."; objectives iii has an unmatched bracket. Printed as in the original.
 - C5 objective iv: "intra-specific completion" = competition.
 - C7 objective i: "drancunculiasis" = dracunculiasis (guinea worm disease).

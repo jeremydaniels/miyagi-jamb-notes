@@ -1,7 +1,7 @@
 """Shrink labelled PNGs in place with no visible quality loss.
 
 Usage:
-  python tools/compress_images.py biology/images [--min-psnr 36]
+  python tools/compress_images.py subjects/biology/images [--min-psnr 36]
 
 Converts each PNG to a 256-colour palette (median cut, Floyd-Steinberg
 dithering) and saves it optimised. File names and links stay the same. An image

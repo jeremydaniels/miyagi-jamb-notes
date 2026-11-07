@@ -176,7 +176,7 @@ When the price of a commodity falls, consumers usually buy more of it. This tota
 
 **Common Mistake:** Students often confuse "money income" with "real income". The income effect is driven by a change in *real income* (purchasing power caused by a price drop), not a change in the physical cash the consumer earns.
 
-**Giffen Goods Note:** A Giffen good is a highly inferior good where the negative income effect is so strong that it completely cancels out the substitution effect. If the price of a Giffen good falls, the consumer ends up buying *less* of it! 
+**Giffen Goods Note:** A Giffen good is a highly inferior good where the negative income effect is so strong that it outweighs the substitution effect. If the price of a Giffen good falls, the consumer ends up buying *less* of it! 
 
 ## Consumer Surplus and its Applications
 

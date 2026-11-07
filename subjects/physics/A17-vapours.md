@@ -200,7 +200,7 @@ $200\ \text{cm}^3$ of oxygen gas was collected over water at a temperature of $2
 5. Rearrange the formula to make $V_2$ the subject:
    $$ V_2 = \frac{P_1 \times V_1 \times T_2}{P_2 \times T_1} $$
 6. Substitute the values and calculate:
-   $$ V_2 = \frac{773.3 \times 200 \times 273}{760 \times 300} = \frac{422221.8}{228000} \approx 185.19\ \text{cm}^3 $$
+   $$ V_2 = \frac{773.3 \times 200 \times 273}{760 \times 300} = \frac{42222180}{228000} \approx 185.19\ \text{cm}^3 $$
 7. State the final answer: The volume of the dry oxygen gas at s.t.p. is $185.19\ \text{cm}^3$.
 
 ## Key terms

@@ -404,7 +404,7 @@ Given $A = \begin{pmatrix} 2 & 1 \\ 5 & 3 \end{pmatrix}$ and $AX = \begin{pmatri
    $$ |M| = 1(-9) - 0 + 2(5) $$
 4. Simplify the expression:
    $$ |M| = -9 + 10 = 1 $$
-5. Option B results from ignoring the sign changes on the minors.
+5. Option B ($-1$) results from calculating each $2 \times 2$ determinant backwards, as $bc - ad$ instead of $ad - bc$: $1(9) - 0 + 2(-5) = -1$.
 
 **7. What is the inverse of the matrix $\begin{pmatrix} 3 & 5 \\ 1 & 2 \end{pmatrix}$?**
 
@@ -421,7 +421,7 @@ Given $A = \begin{pmatrix} 2 & 1 \\ 5 & 3 \end{pmatrix}$ and $AX = \begin{pmatri
    $$ \text{Adjoint} = \begin{pmatrix} 2 & -5 \\ -1 & 3 \end{pmatrix} $$
 3. Multiply the adjoint by the reciprocal of the determinant $\left(\frac{1}{1}\right)$:
    $$ A^{-1} = 1 \begin{pmatrix} 2 & -5 \\ -1 & 3 \end{pmatrix} = \begin{pmatrix} 2 & -5 \\ -1 & 3 \end{pmatrix} $$
-4. Option B is incorrect because the off-diagonal elements were swapped instead of negated.
+4. Option B is incorrect because the diagonal elements were swapped but the signs of the off-diagonal elements ($5$ and $1$) were not changed.
 
 **8. The inverse of $\begin{pmatrix} 4 & -2 \\ 3 & 1 \end{pmatrix}$ is:**
 
@@ -438,7 +438,7 @@ Given $A = \begin{pmatrix} 2 & 1 \\ 5 & 3 \end{pmatrix}$ and $AX = \begin{pmatri
    $$ \text{Adjoint} = \begin{pmatrix} 1 & 2 \\ -3 & 4 \end{pmatrix} $$
 3. Multiply the adjoint by $\frac{1}{|A|}$:
    $$ A^{-1} = \frac{1}{10} \begin{pmatrix} 1 & 2 \\ -3 & 4 \end{pmatrix} $$
-4. Option C results from a sign error in the determinant calculation ($4 - 6 = -2$).
+4. Option D results from a sign error in the determinant ($4 - 6 = -2$, giving the multiplier $-\frac{1}{2}$). Option C is the same error with the sign of the multiplier dropped.
 
 **9. If $A = \begin{pmatrix} 2 & 1 \\ 5 & 3 \end{pmatrix}$ and $AX = \begin{pmatrix} 4 & -1 \\ 2 & 0 \end{pmatrix}$, find matrix $X$.**
 

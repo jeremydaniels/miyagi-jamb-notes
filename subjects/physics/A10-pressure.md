@@ -365,7 +365,7 @@ A diver is exploring a deep borehole and is currently $15\text{ m}$ below the su
 4. $P = F/A = 200 / 0.02 = 10,000 \text{ Pa}$.
 *Mistake behind option A:* Using the mass ($20$) instead of the weight ($200 \text{ N}$), resulting in $20 / 0.02 = 1000 \text{ Pa}$.
 
-**8. An open U-tube manometer containing mercury (density $13,600 \text{ kg m}^{-3}$) is connected to a gas supply. The mercury level is $10 \text{ cm}$ higher in the open limb. If atmospheric pressure is $1.0 \times 10^5 \text{ Pa}$, the absolute gas pressure is:**
+**8. An open U-tube manometer containing mercury (density $13,600 \text{ kg m}^{-3}$) is connected to a gas supply. The mercury level is $10 \text{ cm}$ higher in the open limb. If atmospheric pressure is $1.0 \times 10^5 \text{ Pa}$ and $g = 10 \text{ m s}^{-2}$, the absolute gas pressure is:**
 - A. $0.864 \times 10^5 \text{ Pa}$
 - B. $1.01 \times 10^5 \text{ Pa}$
 - C. $1.136 \times 10^5 \text{ Pa}$

@@ -88,7 +88,7 @@ In how many ways can 5 students stand in a straight line for morning assembly?
 2. The number of arrangements is $5!$.
 3. $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120 \text{ ways}$.
 
-[IMAGE: Five empty boxes (slots) in a row, labeled "1st", "2nd", "3rd", "4th", "5th". Inside the boxes are the numbers 5, 4, 3, 2, 1, representing the number of choices available for each slot when forming a 5-letter word without repetition. Clean flat textbook style, white background.]
+[IMAGE: Five empty boxes (slots) in a row, labeled "1st", "2nd", "3rd", "4th", "5th". Inside the boxes are the numbers 5, 4, 3, 2, 1, representing the number of choices available for each slot when arranging 5 students in a line, with no student repeated. Clean flat textbook style, white background.]
 
 **Case 2: Arranging $r$ objects chosen from $n$ distinct objects**
 If you have $n$ objects but you only want to choose and arrange $r$ of them, you use the Permutation formula, denoted as $^n P_r$ or $P(n, r)$:
@@ -400,7 +400,7 @@ If $^n C_2 = 15$, find the value of $n$.
 1. Forming numbers means the order matters (e.g., 123 is different from 321), making this a Permutation.
 2. We are arranging $r=3$ digits from a total of $n=5$ digits.
 3. Apply the formula: $^5 P_3 = \frac{5!}{(5-3)!} = \frac{5!}{2!}$.
-4. Expand and evaluate: $\frac{5 \times 4 \times 3 \times 2!}{2!} = 5 \times 4 \times 3 = 60$. (Option C is incorrect because it uses the combination formula).
+4. Expand and evaluate: $\frac{5 \times 4 \times 3 \times 2!}{2!} = 5 \times 4 \times 3 = 60$. (Option C ($15$) comes from multiplying $5 \times 3$. Option D ($120$) is $5!$, which forgets to stop after $3$ digits. Option A ($125$) is $5^3$, which wrongly allows repetition.)
 
 **6. Out of 7 subjects, a student must select 4 subjects. In how many ways can the student make the selection?**
 

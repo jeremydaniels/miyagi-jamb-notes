@@ -13,7 +13,7 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 - **Gemini writes, Claude manages.** From now on, Gemini reads the syllabus PDFs and writes the notes through the scripts in `tools/`; Claude builds and runs the tools, checks the results and commits. Do not write whole notes files by hand unless fixing a flagged file. See "Gemini workflow" below.
 - Always work on `main`. No other branches. Commit and push to `main` after every task (one commit per topic file, and one commit per topic's images).
 - Write all the notes for a batch first, then generate images topic by topic in the same order. Every finished topic must look complete on its own.
-- Before committing a topic, check it against the syllabus (see "Coverage check" below). For Gemini-written files, `tools/notes_checks.py` does the structural checks automatically (steps 2 and 3); steps 1 and 4 are spot-checked by Claude.
+- Before committing a topic, check it against the syllabus (see "Coverage check" below). For Gemini-written files, `tools/notes_checks.py` does the structural checks automatically (steps 2 and 3), and `tools/verify_notes.py` re-checks the maths, facts and option explanations (step 4); Claude spot-checks the rest.
 
 ## Gemini workflow (new subject)
 
@@ -22,11 +22,12 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 3. Run `python tools/plan_subject.py <subject>` and show the user the file list in `PLAN.md`. Wait for approval.
 4. Add `tools/rules/<subject>.md` if the subject needs extra rules (Mathematics has one; first line `<!-- code-execution -->` turns on Gemini's code execution for verified calculations). Give an estimate of the cost before the run.
 5. After approval, run `python tools/write_notes.py <subject>`. It resumes where it stopped, checks every file automatically and flags failures. Commit each passing file on its own (one commit per topic file) and push to `main` after each chunk. The tools never run git.
-6. Spot-check a few files (recompute any calculations with Python, compare the style with Biology), and report flagged or failed files.
+6. **Verify every file.** Run `python tools/verify_notes.py <subject>` (separate budget, default $10; tell the user the estimate first). Gemini re-checks every worked example, practice answer and explanation of the wrong options with code execution and lists problems (file, location, issue, suggested fix); it never edits. Confirm numerical problems by recomputing them in Python; use judgement on wording and factual ones and list anything unsure for the user. Fix only confirmed problems, commit each fixed file separately, and re-run `verify_notes.py --only <file> --redo` on the fixed files. Do this before telling the user the subject is finished.
+7. Spot-check a few files yourself (recompute any calculations with Python, compare the style with Biology), and report flagged or failed files, problems found and fixed, and cost.
 
 Rules for this workflow:
 - `GEMINI_API_KEY` is in the environment. Never print, log or commit it. The tools use the Gemini REST API with the Python standard library only.
-- Budget: the user sets a total for each subject (default $25 for the whole subject: transcription, plan and notes). `write_notes.py --budget` enforces it. Stop and ask before going over, and before any single run that would cost more than the user has allowed. Costs are logged in `.gemini-work/costs.jsonl` (git-ignored); prices live in `tools/gemini_pricing.json` and must be checked against Google's price page.
+- Budget: the user sets a total for each subject (default $25 for the whole subject: transcription, plan and notes) and a separate budget for verification (default $10). `write_notes.py --budget` enforces it. Stop and ask before going over, and before any single run that would cost more than the user has allowed. Costs are logged in `.gemini-work/costs.jsonl` (git-ignored); prices live in `tools/gemini_pricing.json` and must be checked against Google's price page.
 - The style example sent to Gemini is `subjects/biology/D3-biotechnology.md`.
 
 ## File structure

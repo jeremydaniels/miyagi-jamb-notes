@@ -1,0 +1,211 @@
+#!/usr/bin/env python3
+"""Independent check of finished notes with Gemini (code execution on).
+
+    python tools/verify_notes.py mathematics --budget 10
+    python tools/verify_notes.py mathematics --only D1-differentiation.md
+    python tools/verify_notes.py mathematics --report      # print the combined report again
+    python tools/verify_notes.py mathematics --status
+    python tools/verify_notes.py mathematics --dry-run
+
+For every notes file in subjects/<subject>/PLAN.md, one fresh Gemini call re-checks every
+worked example, every practice answer, every explanation of a wrong option, and the
+formulas and facts, recomputing anything numerical with the code execution tool.
+It NEVER edits notes. It writes one JSON report per file to
+.gemini-work/verify/<subject>/ and one combined VERIFY-REPORT.md there, listing
+file, location, issue, evidence and a suggested fix. Claude (or a human) then confirms
+each problem before fixing it: Gemini's checker can be wrong too.
+
+--budget counts only the money spent by this tool (task "verify") for the subject.
+"""
+import argparse
+import json
+import re
+import sys
+import threading
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import gemini_common as g
+import syllabus_utils as su
+
+SYSTEM = """You are an independent, sceptical checker of JAMB UTME {title} study notes written by someone else. Your only job is to find real mistakes. You do not edit or rewrite the notes.
+
+You MUST use the code execution tool. Recompute with Python (use `fractions`, `decimal`, `itertools`, `math`, and `sympy` if it is available) rather than trusting the notes or your own mental arithmetic. A report produced without any code-tool run is rejected.
+
+CHECK ALL OF THE FOLLOWING, one by one:
+1. Every WORKED EXAMPLE: every line of working, every intermediate number, the final answer and the units.
+2. Every PRACTICE QUESTION (there are 10): recompute the correct answer from the question alone, confirm it is the option the notes label as the answer, and confirm EXACTLY ONE option is correct (no second option equal to it, no question that is ambiguous or has no correct option). Check the working shown under the answer line by line.
+3. EVERY EXPLANATION OF A WRONG OPTION (sentences such as "Option C comes from forgetting the sign" or "Option A is the probability of ..."). For each one, work out what that stated mistake or quantity really produces and confirm it equals the value in the option named. Report any explanation that is false or does not match the option.
+4. Formulas, definitions, rules, theorems, tables, values quoted in "Exam tips", "Key terms", "Quick summary" and numbers given in the [IMAGE: ...] descriptions (coordinates, lengths, angles, labels): check they are correct and consistent with the text.
+5. Statements that contradict the syllabus limits or each other. Convention differences between textbooks are NOT errors if the notes say so.
+
+DO NOT report style, wording preferences, length, or things that are merely optional. Report only problems you are confident about; if you are not sure, give severity "low" and say "unsure". Do not invent problems: if everything is correct, return an empty list.
+
+OUTPUT: only one JSON object, no code fence, no text before or after:
+{{"file": "<file name>",
+  "checked": {{"worked_examples": <n>, "practice_questions": <n>, "distractor_explanations": <n>, "other_claims": <n>}},
+  "problems": [
+    {{"where": "<section / Example number / Question number>",
+      "type": "wrong_answer | wrong_working | wrong_distractor_explanation | multiple_correct | ambiguous_question | formula_or_fact | image_description | inconsistency | other",
+      "severity": "high | medium | low",
+      "numeric": true or false,
+      "issue": "<what is wrong, with the value you computed>",
+      "evidence": "<the computation or fact that shows it, short>",
+      "suggested_fix": "<exact replacement text or the corrected value>"}}
+  ]}}
+"""
+
+USER = """FILE: {file}
+
+SYLLABUS TOPIC THE FILE COVERS (for scope only):
+<<<SYLLABUS
+{syllabus}
+SYLLABUS>>>
+
+NOTES TO CHECK (the whole file):
+<<<NOTES
+{notes}
+NOTES>>>
+"""
+
+_stop = threading.Event()
+VERIFY_DIR = lambda subject: g.WORK / "verify" / subject
+
+
+def verify_spend(subject):
+    return sum(r["cost_usd"] for r in g.read_costs(subject) if r["task"].startswith("verify"))
+
+
+def parse_json(text):
+    i, j = text.find("{"), text.rfind("}")
+    if i < 0 or j < 0:
+        raise ValueError("no JSON object in reply")
+    return json.loads(text[i:j + 1])
+
+
+def est_cost(subject):
+    rows = [r["cost_usd"] for r in g.read_costs(subject) if r["task"].startswith("verify")]
+    return max(0.6, 1.5 * sum(rows) / len(rows)) if rows else 1.0
+
+
+def verify_one(subject, title, entry, notes_path, syllabus, args, lock):
+    f = entry["file"]
+    _, block = su.find_topic(syllabus, entry["topic_heading"])
+    user = USER.format(file=f, syllabus=block or "", notes=notes_path.read_text())
+    system = SYSTEM.format(title=title)
+    for attempt in range(3):
+        if _stop.is_set():
+            return None
+        with lock:
+            spent = verify_spend(subject)
+            if spent + est_cost(subject) > args.budget:
+                _stop.set()
+                print(f"BUDGET: verification spent ${spent:.2f} of ${args.budget:.2f}. Stopping; ask before raising it.", flush=True)
+                return None
+        note = "" if attempt == 0 else "\n\nYour previous reply was rejected (it was not valid JSON or you did not run code). Run the code tool and reply with ONLY the JSON object."
+        print(f"[{f}] verify attempt {attempt + 1} ...", flush=True)
+        try:
+            r = g.call_gemini([{"text": user + note}], system=system, model=args.model, code_execution=True,
+                              subject=subject, file=f, task="verify" if attempt == 0 else f"verify-retry{attempt}")
+        except Exception as e:
+            print(f"[{f}] API error: {g.scrub(str(e))[:300]}", flush=True)
+            return None
+        try:
+            rep = parse_json(r["text"])
+            rep.setdefault("problems", [])
+        except Exception as e:
+            print(f"[{f}] bad JSON ({e})", flush=True)
+            continue
+        if r["code_runs"] == 0:
+            print(f"[{f}] no code run; retrying", flush=True)
+            continue
+        rep["file"] = f
+        rep["code_runs"] = r["code_runs"]
+        rep["cost_usd"] = round(r["cost"], 4)
+        d = VERIFY_DIR(subject)
+        d.mkdir(parents=True, exist_ok=True)
+        (d / (f + ".json")).write_text(json.dumps(rep, indent=1, ensure_ascii=False))
+        n = len(rep["problems"])
+        print(f"[{f}] {n} problem(s), code runs {r['code_runs']}, ${r['cost']:.2f}", flush=True)
+        return rep
+    print(f"[{f}] verification FAILED to produce a report", flush=True)
+    return None
+
+
+def build_report(subject, plan):
+    d = VERIFY_DIR(subject)
+    out = [f"# Verification report: {subject}", ""]
+    total, missing = 0, []
+    rows = []
+    for e in plan:
+        p = d / (e["file"] + ".json")
+        if not p.exists():
+            missing.append(e["file"])
+            continue
+        rep = json.loads(p.read_text())
+        probs = rep.get("problems", [])
+        total += len(probs)
+        c = rep.get("checked", {})
+        out_head = (f"## {e['file']}: {len(probs)} problem(s) "
+                    f"(checked {c.get('worked_examples','?')} examples, {c.get('practice_questions','?')} questions, "
+                    f"{c.get('distractor_explanations','?')} option explanations; code runs {rep.get('code_runs','?')})")
+        rows.append(out_head)
+        for i, q in enumerate(probs, 1):
+            rows.append(f"{i}. **{q.get('where','?')}** [{q.get('severity','?')}, {q.get('type','?')}, "
+                        f"{'numeric' if q.get('numeric') else 'non-numeric'}]  \n"
+                        f"   Issue: {q.get('issue','')}  \n   Evidence: {q.get('evidence','')}  \n"
+                        f"   Suggested fix: {q.get('suggested_fix','')}")
+        rows.append("")
+    out += [f"**{total} problem(s) reported in {len(plan) - len(missing)} file(s).**"]
+    if missing:
+        out.append(f"Not yet verified: {', '.join(missing)}")
+    out += [""] + rows
+    text = "\n".join(out)
+    (d / "VERIFY-REPORT.md").write_text(text)
+    return text
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("subject")
+    ap.add_argument("--only", nargs="+", metavar="FILE")
+    ap.add_argument("--model", default=g.default_model())
+    ap.add_argument("--budget", type=float, default=10.0,
+                    help="USD this tool may spend on this subject (verify calls only; default 10)")
+    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--redo", action="store_true", help="verify again even if a report exists")
+    ap.add_argument("--report", action="store_true", help="print the combined report and exit")
+    ap.add_argument("--status", action="store_true")
+    ap.add_argument("--dry-run", action="store_true")
+    a = ap.parse_args()
+
+    sdir = g.ROOT / "subjects" / a.subject
+    plan = su.parse_plan((sdir / "PLAN.md").read_text())
+    syllabus = (sdir / "syllabus.md").read_text()
+    title = g.subject_title(a.subject)
+    if a.report:
+        print(build_report(a.subject, plan))
+        return
+    todo = [e for e in plan if (not a.only or e["file"] in a.only) and (sdir / e["file"]).exists()]
+    d = VERIFY_DIR(a.subject)
+    if a.status:
+        for e in plan:
+            s = "verified" if (d / (e["file"] + ".json")).exists() else ("pending" if (sdir / e["file"]).exists() else "no notes")
+            print(f"{s:<10}{e['file']}")
+        print(f"verification spend so far: ${verify_spend(a.subject):.2f}")
+        return
+    pending = [e for e in todo if a.redo or not (d / (e["file"] + ".json")).exists()]
+    print(f"{len(pending)} file(s) to verify. Verification spend so far ${verify_spend(a.subject):.2f} of ${a.budget:.2f}.")
+    if a.dry_run or not pending:
+        return
+    lock = threading.Lock()
+    with ThreadPoolExecutor(max_workers=max(1, a.workers)) as ex:
+        list(ex.map(lambda e: verify_one(a.subject, title, e, sdir / e["file"], syllabus, a, lock), pending))
+    print()
+    print(build_report(a.subject, plan))
+    print(f"\nVerification spend: ${verify_spend(a.subject):.2f}. Report saved to {d / 'VERIFY-REPORT.md'}")
+
+
+if __name__ == "__main__":
+    main()

@@ -26,6 +26,10 @@ python tools/plan_subject.py chemistry
 python tools/write_notes.py chemistry --workers 3 --budget 25
 python tools/write_notes.py chemistry --status        # done / flagged / pending
 python tools/write_notes.py --cost                    # tokens and USD per file and subject
+
+# 4. Independent verification of every finished file (do this before committing)
+python tools/verify_notes.py chemistry --budget 10
+python tools/verify_notes.py chemistry --report       # print the combined report again
 ```
 
 | Tool | What it does |
@@ -34,9 +38,12 @@ python tools/write_notes.py --cost                    # tokens and USD per file 
 | `plan_subject.py` | Gemini proposes the topic files (syllabus order, big topics split into parts `a`, `b`, `c`) and writes `PLAN.md`. Checks that every topic, content item and objective is assigned to exactly one file. |
 | `write_notes.py` | For each file in `PLAN.md`: sends the notes rules from `CLAUDE.md`, that topic's exact syllabus text, one finished Biology file (`subjects/biology/D3-biotechnology.md`) as the style example and the subject rules in `tools/rules/<subject>.md`; saves the file only if `notes_checks.py` passes. |
 | `notes_checks.py` | The automatic checks: closing sections in order, 5 to 8 summary points, exactly 10 questions each with options A to D and an answer with explanation, a heading for every objective and content item (via a hidden coverage map), image placeholders, balanced `$` maths, no leaked narration. |
+| `verify_notes.py` | A second, independent Gemini call per file (code execution on) re-checks every worked example, every practice answer, **every explanation of the wrong options** and the formulas and facts. It never edits notes. It writes `.gemini-work/verify/<subject>/<file>.json` and a combined `VERIFY-REPORT.md` listing file, location, issue, evidence and suggested fix. It resumes where it stopped; `--redo` checks a file again after a fix; `--budget` limits what verification itself may spend (default $10, separate from the writing budget). |
 | `gemini_common.py`, `syllabus_utils.py` | Shared REST client (standard library), cost log, syllabus and plan parsing. |
 
 **Subject rules.** `tools/rules/<subject>.md` holds extra rules for that subject. If its first line is `<!-- code-execution -->`, Gemini's code execution tool is switched on and the file must use it (used for Mathematics, where every calculation is verified). Add a rules file for Physics or Chemistry the same way.
+
+**Verification.** `write_notes.py` only checks structure. Run `verify_notes.py` on every subject after writing. Then review the report: confirm every numerical problem by recomputing it in Python, judge wording and factual problems, fix only what is confirmed (by hand, in the notes file), commit each fixed file separately, and re-run `verify_notes.py --only <file> --redo` on the fixed files. Report anything you are unsure about to the user. Gemini's checker can be wrong too, so never apply its suggested fixes blindly.
 
 **Failures.** A file that fails the checks is re-asked with the problem list (up to 2 retries). If it still fails it is *flagged*: the attempt is kept in `.gemini-work/flagged/<subject>/` with a `.problems.json` file and nothing is written to `subjects/`. Fix by hand or run `--retry-flagged`.
 

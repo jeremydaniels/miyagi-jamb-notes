@@ -16,7 +16,7 @@ def split_coverage(text):
         for line in m.group(1).splitlines():
             mm = re.match(r"^\s*(obj|item)\s+(\S+)\s*\|\s*(.+?)\s*$", line)
             if mm:
-                cov[(mm.group(1), mm.group(2).strip(".)").lower())] = re.sub(r"^#+\s*", "", mm.group(3))
+                cov[(mm.group(1), re.sub(r"[().\s]", "", mm.group(2)).lower())] = re.sub(r"^#+\s*", "", mm.group(3))
         text = (text[:m.start()] + text[m.end():]).rstrip() + "\n"
     return text, cov
 
@@ -136,7 +136,7 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
         need = [("obj", x) for x in entry.get("objectives", [])] + [("item", x) for x in entry.get("contents", []) if is_id(x)]
         titles = {_norm(t) for _, t in h}
         for kind, ident in need:
-            key = (kind, ident.lower())
+            key = (kind, re.sub(r"[().\s]", "", ident).lower())
             if key not in cov:
                 probs.append(f"COVERAGE map is missing '{kind} {ident}'")
             elif _norm(cov[key]) not in titles:

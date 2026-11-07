@@ -292,7 +292,7 @@ Option D is incorrect because it stops at $100$ and forgets to take the square r
 3. Solve for $x$: multiply by $2$ to get $x - 2 = 4$, so $x = 6$.
 4. Equate the $y$-coordinates: $\frac{5 + y}{2} = 1$.
 5. Solve for $y$: multiply by $2$ to get $5 + y = 2$, so $y = -3$.
-Option B is the result of carelessly adding the coordinates ($x - 2 = 2 \implies x = 4$) without remembering to divide by $2$ in the formula.
+Option B is the result of forgetting to multiply by $2$ when solving for $x$ ($x - 2 = 2 \implies x = 4$, instead of $x - 2 = 4$).
 
 **3. Find the gradient of the line passing through the points $(-1, 4)$ and $(2, -5)$.**
 
@@ -307,7 +307,7 @@ Option B is the result of carelessly adding the coordinates ($x - 2 = 2 \implies
 3. Substitute the values: $m = \frac{-5 - 4}{2 - (-1)}$.
 4. Simplify the numerator and denominator: $m = \frac{-9}{3}$.
 5. Divide to get the final gradient: $m = -3$.
-Option D is the result of getting the subtraction signs wrong and adding the terms instead.
+Option D has the right size but the wrong sign. It comes from subtracting in the wrong order: $\frac{y_1 - y_2}{x_2 - x_1} = \frac{9}{3} = 3$.
 
 **4. Find the equation of the line passing through $(2, -3)$ and parallel to the line $3x + y - 5 = 0$.**
 
@@ -383,7 +383,7 @@ Option B results from carelessly adding the original coordinates together to get
 3. Move $-3y$ to the right side to make it positive: $3y = 4x + 12$.
 4. Divide every term by $3$: $y = \frac{4}{3}x + 4$.
 5. Compare to $y = mx + c$: the gradient $m = \frac{4}{3}$ and the $y$-intercept $c = 4$.
-Option A is a common error caused by moving $4x$ over to the right as $-4x$ and forgetting to divide by the $-3$ correctly, messing up the sign.
+Option A has the correct intercept but the wrong sign on the gradient. It comes from using $m = -\frac{A}{B}$ with $B = 3$ instead of $B = -3$, which gives $-\frac{4}{3}$ instead of $\frac{4}{3}$.
 
 **9. The points $P(1, 2)$, $Q(3, y)$, and $R(4, 11)$ are collinear. Find the value of $y$.**
 

@@ -9,13 +9,29 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 
 ## Workflow
 
-- Always show a plan and wait for approval before writing any content.
+- Always show a plan and wait for approval before writing any content. For a new subject the plan is `subjects/<subject>/PLAN.md` (the file list) plus a cost estimate.
+- **Gemini writes, Claude manages.** From now on, Gemini reads the syllabus PDFs and writes the notes through the scripts in `tools/`; Claude builds and runs the tools, checks the results and commits. Do not write whole notes files by hand unless fixing a flagged file. See "Gemini workflow" below.
 - Always work on `main`. No other branches. Commit and push to `main` after every task (one commit per topic file, and one commit per topic's images).
 - Write all the notes for a batch first, then generate images topic by topic in the same order. Every finished topic must look complete on its own.
-- Before committing a topic, check it against the syllabus (see "Coverage check" below).
+- Before committing a topic, check it against the syllabus (see "Coverage check" below). For Gemini-written files, `tools/notes_checks.py` does the structural checks automatically (steps 2 and 3); steps 1 and 4 are spot-checked by Claude.
+
+## Gemini workflow (new subject)
+
+1. The user adds `inbox/<subject>.pdf` (the folder name is the subject name, e.g. `inbox/chemistry.pdf`).
+2. Run `python tools/transcribe_syllabus.py <subject>` and check `subjects/<subject>/syllabus.md` against the PDF (`pdftotext`). Fix the "Transcription notes" by hand if they are wrong or incomplete; never edit the syllabus text itself. Flag in the notes anything that looks unofficial or out of date, and tell the user.
+3. Run `python tools/plan_subject.py <subject>` and show the user the file list in `PLAN.md`. Wait for approval.
+4. Add `tools/rules/<subject>.md` if the subject needs extra rules (Mathematics has one; first line `<!-- code-execution -->` turns on Gemini's code execution for verified calculations). Give an estimate of the cost before the run.
+5. After approval, run `python tools/write_notes.py <subject>`. It resumes where it stopped, checks every file automatically and flags failures. Commit each passing file on its own (one commit per topic file) and push to `main` after each chunk. The tools never run git.
+6. Spot-check a few files (recompute any calculations with Python, compare the style with Biology), and report flagged or failed files.
+
+Rules for this workflow:
+- `GEMINI_API_KEY` is in the environment. Never print, log or commit it. The tools use the Gemini REST API with the Python standard library only.
+- Budget: the user sets a total for each subject (default $25 for the whole subject: transcription, plan and notes). `write_notes.py --budget` enforces it. Stop and ask before going over, and before any single run that would cost more than the user has allowed. Costs are logged in `.gemini-work/costs.jsonl` (git-ignored); prices live in `tools/gemini_pricing.json` and must be checked against Google's price page.
+- The style example sent to Gemini is `subjects/biology/D3-biotechnology.md`.
 
 ## File structure
 
+- `inbox/` holds the source PDFs (`inbox/<subject>.pdf`). `subjects/<subject>/PLAN.md` is the approved file list for a subject.
 - All subjects live under `subjects/`. Each subject gets its own folder: `subjects/biology/`, `subjects/chemistry/`, `subjects/physics/`, etc. A new subject's folder holds its `syllabus.md`, its topic files and its `images/` folder. `tools/`, `samples/` and `release/` stay at the repo root.
 - One Markdown file per syllabus topic, numbered in syllabus order (e.g. `subjects/biology/A1-living-organisms.md`, `subjects/biology/A2a-...md`). A topic too big for one file is split with letter suffixes (e.g. `A2a-`, `A2b-`, `A2c-`).
 - Images live in `subjects/<subject>/images/` (e.g. `subjects/biology/images/`) with clear names prefixed by the topic file (e.g. `A1-plant-cell.png`).
@@ -50,7 +66,7 @@ Detailed JAMB UTME study notes for Miyagi Labs, written from the official JAMB s
 
 ## Image rules
 
-- **Image generation is paused until further notice.** Do not call any image API and do not spend money on images. Only write detailed `[IMAGE: ...]` placeholders in the notes, so the images can be generated later with the `tools/` pipeline.
+- **Image generation is paused until further notice** (this applies to every subject, including those written with Gemini). Do not call any image API and do not spend money on images. Only write detailed `[IMAGE: ...]` placeholders in the notes, so the images can be generated later with the `tools/` pipeline.
 - Images are generated with OpenAI (no longer Gemini). The OpenAI API key is in the `OPENAI_API_KEY` environment variable. Never print, log or commit it.
 - Use OpenAI's current image model (currently `gpt-image-2`; check the available models first), size 1024x1024, quality "medium".
 - Style for every image: clean, flat educational illustration, white background, consistent soft colour palette, like a modern textbook. Not photorealistic.

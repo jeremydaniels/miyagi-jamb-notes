@@ -108,13 +108,16 @@ def call_gemini(parts, *, system=None, model=None, code_execution=False,
     text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", [])
                    if not p.get("thought"))
     cost = cost_of(model, usage)
+    parts_out = cand.get("content", {}).get("parts", [])
+    code_runs = sum(1 for p in parts_out if "executableCode" in p)
+    code_errors = sum(1 for p in parts_out if p.get("codeExecutionResult", {}).get("outcome", "OUTCOME_OK") != "OUTCOME_OK")
     log_cost(subject=subject, file=file, task=task, model=model, usage=usage, cost=cost,
-             finish=cand.get("finishReason", ""))
+             finish=cand.get("finishReason", ""), code_runs=code_runs)
     return {"text": text, "usage": usage, "cost": cost, "model": model,
-            "finish": cand.get("finishReason", "")}
+            "finish": cand.get("finishReason", ""), "code_runs": code_runs, "code_errors": code_errors}
 
 
-def log_cost(*, subject, file, task, model, usage, cost, finish=""):
+def log_cost(*, subject, file, task, model, usage, cost, finish="", code_runs=0):
     WORK.mkdir(parents=True, exist_ok=True)
     rec = {"ts": datetime.now(timezone.utc).isoformat(timespec="seconds"),
            "subject": subject, "file": file, "task": task, "model": model,
@@ -123,7 +126,7 @@ def log_cost(*, subject, file, task, model, usage, cost, finish=""):
            "output_tokens": usage.get("candidatesTokenCount", 0),
            "thinking_tokens": usage.get("thoughtsTokenCount", 0),
            "cached_tokens": usage.get("cachedContentTokenCount", 0),
-           "cost_usd": round(cost, 5), "finish": finish}
+           "cost_usd": round(cost, 5), "finish": finish, "code_runs": code_runs}
     with _lock, COST_LOG.open("a") as f:
         f.write(json.dumps(rec) + "\n")
 

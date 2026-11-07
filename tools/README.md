@@ -1,4 +1,50 @@
-# Image tools
+# Tools
+
+Two toolkits live here:
+
+1. **Gemini text tools** (this section): turn a subject's syllabus PDF into finished notes.
+2. **Image tools** (second half of this file): labelled diagrams. **Image generation is paused**, so notes only carry `[IMAGE: ...]` placeholders for now.
+
+## Gemini workflow: adding a new subject
+
+Gemini does the heavy work (reading the PDF, planning, writing). Claude acts as manager: runs the tools, checks the results and commits.
+
+Setup: `export GEMINI_API_KEY=...` (never print, log or commit it). Python standard library only; no packages to install. Prices are in `gemini_pricing.json` (currently marked unverified: check them against the Google pricing page).
+
+```bash
+# 0. Put the official PDF in inbox/ named after the subject folder
+#    inbox/chemistry.pdf
+
+# 1. Exact text copy of the syllabus -> subjects/chemistry/syllabus.md
+python tools/transcribe_syllabus.py chemistry
+#    Check it against the PDF (pdftotext) and fix the "Transcription notes" if needed.
+
+# 2. Proposed file list -> subjects/chemistry/PLAN.md   (human approves / edits it)
+python tools/plan_subject.py chemistry
+
+# 3. Write all the notes (resumes where it stopped; never touches git)
+python tools/write_notes.py chemistry --workers 3 --budget 25
+python tools/write_notes.py chemistry --status        # done / flagged / pending
+python tools/write_notes.py --cost                    # tokens and USD per file and subject
+```
+
+| Tool | What it does |
+|---|---|
+| `transcribe_syllabus.py` | Sends `inbox/<subject>.pdf` to Gemini; saves `subjects/<subject>/syllabus.md` as a word-for-word copy (mistakes kept) with a "Transcription notes" section for typing errors and anything that looks unofficial or out of date. |
+| `plan_subject.py` | Gemini proposes the topic files (syllabus order, big topics split into parts `a`, `b`, `c`) and writes `PLAN.md`. Checks that every topic, content item and objective is assigned to exactly one file. |
+| `write_notes.py` | For each file in `PLAN.md`: sends the notes rules from `CLAUDE.md`, that topic's exact syllabus text, one finished Biology file (`subjects/biology/D3-biotechnology.md`) as the style example and the subject rules in `tools/rules/<subject>.md`; saves the file only if `notes_checks.py` passes. |
+| `notes_checks.py` | The automatic checks: closing sections in order, 5 to 8 summary points, exactly 10 questions each with options A to D and an answer with explanation, a heading for every objective and content item (via a hidden coverage map), image placeholders, balanced `$` maths, no leaked narration. |
+| `gemini_common.py`, `syllabus_utils.py` | Shared REST client (standard library), cost log, syllabus and plan parsing. |
+
+**Subject rules.** `tools/rules/<subject>.md` holds extra rules for that subject. If its first line is `<!-- code-execution -->`, Gemini's code execution tool is switched on and the file must use it (used for Mathematics, where every calculation is verified). Add a rules file for Physics or Chemistry the same way.
+
+**Failures.** A file that fails the checks is re-asked with the problem list (up to 2 retries). If it still fails it is *flagged*: the attempt is kept in `.gemini-work/flagged/<subject>/` with a `.problems.json` file and nothing is written to `subjects/`. Fix by hand or run `--retry-flagged`.
+
+**Cost control.** Every call is logged to `.gemini-work/costs.jsonl` (git-ignored; tokens and USD, never the key). `write_notes.py` stops before a call that could take the subject's total spend over `--budget` (default $25). Stop and ask before raising it. Logged costs use list prices and ignore cached-token discounts, so they are an upper bound.
+
+---
+
+# Image tools (paused)
 
 These scripts make the labelled diagrams in `subjects/<subject>/images/` (for example `subjects/biology/images/`). They work the same way for any subject.
 

@@ -160,7 +160,7 @@ Before looking at tax incidence, we must understand how taxes are classified. Ta
 ### Tax Structures (Based on Rate)
 
 1. **Progressive Tax:** The tax rate (percentage) increases as income increases. It takes a larger percentage from high-income earners.
-   * *Calculation Example:* 10% on the first ₦100,000, 20% on the next ₦100,000. If someone earns ₦250,000, they pay ₦10,000 (first block) + ₦20,000 (second block) + ₦15,000 (30% of the remaining ₦50,000) = ₦45,000 total tax.
+   * *Calculation Example:* 10% on the first ₦100,000, 20% on the next ₦100,000, and 30% on anything above ₦200,000. If someone earns ₦250,000, they pay ₦10,000 (first block) + ₦20,000 (second block) + ₦15,000 (30% of the remaining ₦50,000) = ₦45,000 total tax.
 2. **Proportional Tax:** The tax rate remains the same (constant) regardless of the income level. If the rate is 10%, a person earning ₦10,000 pays ₦1,000, and a person earning ₦100,000 pays ₦10,000.
 3. **Regressive Tax:** The tax rate decreases as income increases. Indirect taxes like VAT are effectively regressive because a fixed amount of tax takes up a larger percentage of a poor person's income compared to a rich person's income.
 

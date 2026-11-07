@@ -315,7 +315,7 @@ The mistake behind the most tempting wrong option (B) is confusing the applicati
 3. Convert the base current to matching units: $I_B = 40\ \mu\text{A} = 0.04\ \text{mA}$.
 4. Substitute the values with units: $I_C = 1.54\ \text{mA} - 0.04\ \text{mA}$.
 5. Calculate the result: $I_C = 1.50\ \text{mA}$.
-The mistake behind the most tempting wrong option (C) is subtracting $0.4\ \text{mA}$ instead of $0.04\ \text{mA}$ due to a wrong unit conversion from $40\ \mu\text{A}$ to $\text{mA}$. Option A comes from wrongly adding the values instead of subtracting.
+The mistake behind the most tempting wrong option (C) is subtracting $0.4\ \text{mA}$ instead of $0.04\ \text{mA}$ due to a wrong unit conversion from $40\ \mu\text{A}$ to $\text{mA}$. Option D ($1.58\ \text{mA}$) comes from wrongly adding the values ($1.54 + 0.04$) instead of subtracting, and option A ($1.94\ \text{mA}$) from adding with the wrong unit conversion ($1.54 + 0.40$).
 
 **7. The common-base current gain ($\alpha$) of a transistor is $0.98$. What is its common-emitter current gain ($\beta$)?**
 - A. $0.02$

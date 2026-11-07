@@ -62,7 +62,7 @@ Why does a consumer decide to buy 5 mudus of rice instead of 2? Several variable
 6.  **Weather and seasons:** Demand fluctuates with seasons. The demand for umbrellas, raincoats, and sweaters is very high during the rainy and cold seasons but very low during the dry season.
 7.  **Government policy (Taxation and Subsidies):** 
     *   An increase in personal income tax reduces a consumer's **disposable income** (take-home pay), which reduces their overall demand for goods.
-    *   Subsidies can lower the price of goods, increasing their demand.
+    *   Subsidies can lower the price of goods, increasing the quantity demanded (a movement along the demand curve).
 8.  **Credit facilities:** If banks offer easy loans or credit cards to consumers, their ability to pay increases, raising the demand for expensive goods like cars and houses.
 
 ### Interpreting demand curves from demand schedules

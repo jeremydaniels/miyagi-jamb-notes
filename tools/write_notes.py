@@ -3,7 +3,7 @@
 
     python tools/write_notes.py mathematics                 # whole subject (resumes where it stopped)
     python tools/write_notes.py mathematics --only C3-loci.md B3-inequalities.md
-    python tools/write_notes.py mathematics --workers 3 --budget 25
+    python tools/write_notes.py mathematics --mode sync --workers 3   # immediate (full price) instead of Batch
     python tools/write_notes.py mathematics --status        # done / flagged / pending
     python tools/write_notes.py mathematics --dry-run       # prompt size and cost estimate, no API call
     python tools/write_notes.py --cost                      # tokens and USD per file and subject
@@ -118,7 +118,7 @@ def subject_rules(subject):
         return "", False, False
     t = p.read_text()
     first = t.splitlines()[0]
-    required = "<!-- code-execution -->" in first          # tool must be used; maths-style checks on
+    required = "<!-- code-execution -->" in first          # tool on; maths-style checks on
     optional = "<!-- code-execution:optional -->" in first  # tool on, but a file may have nothing to calculate
     body = t.replace("<!-- code-execution -->", "").replace("<!-- code-execution:optional -->", "").strip()
     return "======== SUBJECT-SPECIFIC RULES ========\n" + body, (required or optional), required
@@ -129,11 +129,6 @@ def transcription_notes(syllabus):
     return m.group(1).strip() if m else "(none)"
 
 
-def est_call_cost(subject):
-    rows = [r["cost_usd"] for r in g.read_costs(subject) if r["task"].startswith("notes")]
-    return max(0.75, 1.5 * (sum(rows) / len(rows))) if rows else 1.5
-
-
 def status_of(subject, entry, outdir, wdir):
     if (outdir / entry["file"]).exists():
         return "done"
@@ -142,70 +137,154 @@ def status_of(subject, entry, outdir, wdir):
     return "pending"
 
 
-def process(subject, title, entry, ctx, args):
-    f = entry["file"]
-    outdir, wdir = ctx["outdir"], ctx["wdir"]
+COVERAGE_REPAIR = """Below are the headings of a finished notes file and a list of syllabus ids it must cover. For each id, choose the ONE heading (copied exactly from the list) under which that objective or content item is explained. Reply with one line per id in exactly this format and nothing else:
+obj <id> | <heading text>
+item <id> | <heading text>
+Use "obj" for objectives and "item" for content items. Two objectives must not share one heading unless the file really explains them together.
+
+IDS TO MAP:
+{ids}
+
+SYLLABUS TEXT:
+{syllabus}
+
+HEADINGS IN THE FILE:
+{headings}
+"""
+
+
+def build_parts(entry, ctx, prev=None):
     sec, block = su.find_topic(ctx["syllabus"], entry["topic_heading"])
-    if block is None:
-        print(f"[{f}] topic heading not found in syllabus.md: {entry['topic_heading']!r}", flush=True)
-        return "error"
-    sib = "\n".join(f"- `{e['file']}`: {e.get('title','')}" for e in ctx["plan"] if e["file"] != f)
+    sib = "\n".join(f"- `{e['file']}`: {e.get('title','')}" for e in ctx["plan"] if e["file"] != entry["file"])
     split = f"- Split topic: {entry['split']}\n" if entry.get("split") else ""
-    user = [{"text": USER_EXAMPLE.format(example=ctx["example"])},
-            {"text": USER_TOPIC.format(
-                file=f, title=entry.get("title", ""), section=entry.get("section", sec), scope=entry.get("scope", ""),
-                contents=", ".join(entry["contents"]) or "(none)", objectives=", ".join(entry["objectives"]) or "(none)",
-                split=split, est_words=entry.get("est_words", 6000), siblings=sib,
-                syllabus_block=block, transcription_notes=ctx["notes"])}]
-    system = SYSTEM.format(title=title, claude_rules=ctx["rules"], subject_rules=ctx["srules"])
-    problems, prev, last_text = [], None, ""
-    for attempt in range(args.retries + 1):
-        if _stop.is_set():
-            return "stopped"
-        with ctx["lock"]:
-            spent = g.subject_spend(subject)
-            if spent + est_call_cost(subject) > args.budget:
-                _stop.set()
-                print(f"BUDGET: spent ${spent:.2f}, next call could exceed ${args.budget:.2f}. Stopping. "
-                      f"Ask before raising --budget.", flush=True)
-                return "stopped"
-        parts = list(user)
-        if prev is not None:
-            parts.append({"text": USER_RETRY.format(problems="\n".join(f"- {p}" for p in problems), previous=prev)})
-        print(f"[{f}] attempt {attempt + 1} ...", flush=True)
-        try:
-            r = g.call_gemini(parts, system=system, model=args.model, code_execution=ctx["code"],
-                              subject=subject, file=f, task=f"notes{'' if attempt == 0 else '-retry%d' % attempt}")
-        except Exception as e:
-            print(f"[{f}] API error: {g.scrub(str(e))[:300]}", flush=True)
-            return "error"
-        text = r["text"]
-        i = text.find("# JAMB ")
-        if i > 0:
-            text = text[i:]
-        text = g.strip_fence(text)
-        last_text = text
-        clean, problems = nc.check_notes(text, entry, math=ctx["code_required"], code_runs=r["code_runs"])
-        if r["finish"] != "STOP":
-            problems.insert(0, f"output stopped early ({r['finish']}); the file is truncated or too long. Be complete but efficient.")
-        words = len(clean.split())
-        print(f"[{f}] {words} words, ${r['cost']:.2f}, code runs {r['code_runs']}, "
+    parts = [{"text": USER_EXAMPLE.format(example=ctx["example"])},
+             {"text": USER_TOPIC.format(
+                 file=entry["file"], title=entry.get("title", ""), section=entry.get("section", sec),
+                 scope=entry.get("scope", ""), contents=", ".join(entry["contents"]) or "(none)",
+                 objectives=", ".join(entry["objectives"]) or "(none)", split=split,
+                 est_words=entry.get("est_words", 6000), siblings=sib, syllabus_block=block,
+                 transcription_notes=ctx["notes"])}]
+    if prev:
+        parts.append({"text": USER_RETRY.format(problems="\n".join(f"- {p}" for p in prev["problems"]),
+                                                previous=prev["text"])})
+    return parts
+
+
+def make_body(entry, ctx, args, prev=None):
+    system = SYSTEM.format(title=ctx["title"], claude_rules=ctx["rules"], subject_rules=ctx["srules"])
+    return g.build_body(build_parts(entry, ctx, prev), system=system, code_execution=ctx["code"],
+                        thinking=args.thinking)
+
+
+def repair_coverage(subject, entry, text, ctx, args):
+    """Cheap fix for coverage-map-only failures: ask a Flash model to map ids to the file's headings."""
+    clean, cov = nc.split_coverage(text)
+    heads = [t for lvl, t in nc.headings(clean) if lvl in (2, 3, 4)]
+    ids = [f"obj {x}" for x in entry.get("objectives", [])] + [f"item {x}" for x in entry.get("contents", [])]
+    _, block = su.find_topic(ctx["syllabus"], entry["topic_heading"])
+    try:
+        r = g.call_gemini([{"text": COVERAGE_REPAIR.format(ids="\n".join(ids), syllabus=block,
+                                                             headings="\n".join(heads))}],
+                          model=g.load_pricing().get("flash_model"), thinking="low", subject=subject,
+                          file=entry["file"], task="coverage-repair")
+    except Exception:
+        return None
+    block_txt = "<!-- COVERAGE\n" + r["text"].strip().strip("`") + "\n-->"
+    return clean.rstrip() + "\n\n" + block_txt + "\n"
+
+
+def evaluate(subject, entry, raw, finish, code_runs, ctx, args):
+    """-> (clean_text | None, problems, warnings). Tries a cheap coverage repair before asking for a rewrite."""
+    text = raw
+    i = text.find("# JAMB ")
+    if i > 0:
+        text = text[i:]
+    text = g.strip_fence(text)
+    clean, problems = nc.check_notes(text, entry, math=ctx["code_required"], code_runs=None)
+    warnings = []
+    if ctx["code_required"] and code_runs == 0:
+        warnings.append("no code execution run (the independent verifier will recompute the numbers)")
+    if finish != "STOP":
+        problems.insert(0, f"output stopped early ({finish}); the file is truncated or too long. Be complete but efficient.")
+    if problems and all(p.startswith("COVERAGE map") for p in problems):
+        fixed = repair_coverage(subject, entry, text, ctx, args)
+        if fixed:
+            clean2, problems2 = nc.check_notes(fixed, entry, math=ctx["code_required"], code_runs=None)
+            if not problems2:
+                return clean2, [], warnings + ["coverage map repaired by a cheap Flash call"]
+    return text, problems, warnings
+
+
+def save_ok(entry, clean, ctx):
+    ctx["outdir"].mkdir(parents=True, exist_ok=True)
+    tmp = ctx["outdir"] / (entry["file"] + ".tmp")
+    tmp.write_text(clean)
+    tmp.replace(ctx["outdir"] / entry["file"])
+
+
+def save_flagged(subject, entry, text, problems):
+    fdir = g.WORK / "flagged" / subject
+    fdir.mkdir(parents=True, exist_ok=True)
+    (fdir / entry["file"]).write_text(text)
+    (fdir / (entry["file"] + ".problems.json")).write_text(json.dumps(problems, indent=1))
+
+
+def run_sync(subject, pending, ctx, args):
+    results = {}
+    def one(entry):
+        f = entry["file"]
+        prev = None
+        for attempt in range(args.retries + 1):
+            if _stop.is_set():
+                results[f] = "stopped"; return
+            with ctx["lock"]:
+                try:
+                    g.check_safety(subject, 1.5)
+                except SystemExit as e:
+                    _stop.set(); print(e, flush=True); results[f] = "stopped"; return
+            print(f"[{f}] attempt {attempt + 1} ...", flush=True)
+            try:
+                r = g.call_gemini(build_parts(entry, ctx, prev), system=SYSTEM.format(title=ctx["title"], claude_rules=ctx["rules"], subject_rules=ctx["srules"]),
+                                  model=args.model, code_execution=ctx["code"], thinking=args.thinking, subject=subject, file=f,
+                                  task="notes" if attempt == 0 else f"notes-retry{attempt}")
+            except Exception as e:
+                print(f"[{f}] API error: {g.scrub(str(e))[:300]}", flush=True); results[f] = "error"; return
+            text, problems, warns = evaluate(subject, entry, r["text"], r["finish"], r["code_runs"], ctx, args)
+            print(f"[{f}] {len(text.split())} words, ${r['cost']:.2f}, code runs {r['code_runs']}, "
+                  f"{'OK' if not problems else str(len(problems)) + ' problem(s)'}", flush=True)
+            if not problems:
+                save_ok(entry, text, ctx); results[f] = "done"; return
+            prev = {"text": text, "problems": problems}
+        save_flagged(subject, entry, prev["text"], prev["problems"]); results[f] = "flagged"
+        print(f"[{f}] FLAGGED: {prev['problems'][:3]}", flush=True)
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as ex:
+        list(ex.map(one, pending))
+    return results
+
+
+def run_batch(subject, pending, ctx, args):
+    by_file = {e["file"]: e for e in pending}
+    last = {}
+    def mk(key, attempt, prev):
+        return make_body(by_file[key], ctx, args, prev)
+    def handle(key, result, error, attempt):
+        entry = by_file[key]
+        if result is None:
+            print(f"[{key}] request error: {(error or {}).get('message','?')[:200]}", flush=True)
+            return "retry", last.get(key)
+        text, problems, warns = evaluate(subject, entry, result["text"], result["finish"], result["code_runs"], ctx, args)
+        print(f"[{key}] {len(text.split())} words, ${result['cost']:.2f} (list), code runs {result['code_runs']}, "
               f"{'OK' if not problems else str(len(problems)) + ' problem(s)'}", flush=True)
         if not problems:
-            outdir.mkdir(parents=True, exist_ok=True)
-            tmp = outdir / (f + ".tmp")
-            tmp.write_text(clean)
-            tmp.replace(outdir / f)
-            return "done"
-        prev = text
-    fdir = wdir / "flagged" / subject
-    fdir.mkdir(parents=True, exist_ok=True)
-    (fdir / f).write_text(last_text)
-    (fdir / (f + ".problems.json")).write_text(json.dumps(problems, indent=1))
-    print(f"[{f}] FLAGGED after {args.retries + 1} attempts:", flush=True)
-    for p in problems[:8]:
-        print(f"     - {p}", flush=True)
-    return "flagged"
+            save_ok(entry, text, ctx)
+            return "done", None
+        last[key] = {"text": text, "problems": problems}
+        if attempt >= args.retries:
+            save_flagged(subject, entry, text, problems)
+            print(f"[{key}] FLAGGED: {problems[:3]}", flush=True)
+            return "fail", None
+        return "retry", last[key]
+    return g.run_batch_rounds(subject, "notes", list(by_file), mk, handle, args.retries, args.model, poll=args.poll)
 
 
 def main():
@@ -214,21 +293,27 @@ def main():
     ap.add_argument("--only", nargs="+", metavar="FILE", help="only these plan files")
     ap.add_argument("--limit", type=int, help="stop after this many files")
     ap.add_argument("--model", default=g.default_model())
-    ap.add_argument("--budget", type=float, default=25.0,
-                    help="stop before total spend on this subject (all tasks) would pass this many USD (default 25)")
+    ap.add_argument("--mode", choices=["batch", "sync"], default="batch",
+                    help="batch = Batch API (about half price, slower, default); sync = immediate calls at full price")
+    ap.add_argument("--thinking", choices=["low", "medium", "high"], default=None,
+                    help="Gemini thinking level (default: the model default)")
     ap.add_argument("--retries", type=int, default=2)
-    ap.add_argument("--workers", type=int, default=1, help="files written in parallel (default 1)")
+    ap.add_argument("--workers", type=int, default=3, help="files written in parallel in sync mode (default 3)")
+    ap.add_argument("--poll", type=int, default=60, help="seconds between Batch status checks")
     ap.add_argument("--example", default="subjects/biology/D3-biotechnology.md", help="style example file")
     ap.add_argument("--plan", help="PLAN.md path (default subjects/<subject>/PLAN.md)")
     ap.add_argument("--out-dir", help="write here instead of subjects/<subject>/ (for tests)")
     ap.add_argument("--retry-flagged", action="store_true", help="try flagged files again")
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
-    ap.add_argument("--cost", action="store_true", help="print the cost log and exit")
+    ap.add_argument("--cost", action="store_true", help="print the cost report and exit")
     a = ap.parse_args()
 
     if a.cost:
-        g.print_costs(a.subject)
+        if a.subject:
+            g.cost_report(a.subject)
+        else:
+            g.print_costs()
         return
     if not a.subject:
         ap.error("subject is required")
@@ -240,7 +325,7 @@ def main():
     syllabus = (sdir / "syllabus.md").read_text()
     outdir = Path(a.out_dir) if a.out_dir else sdir
     ctx = {"plan": plan, "syllabus": syllabus, "notes": transcription_notes(syllabus), "outdir": outdir,
-           "wdir": g.WORK, "lock": threading.Lock(), "rules": claude_rules(),
+           "wdir": g.WORK, "lock": threading.Lock(), "rules": claude_rules(), "title": title,
            "example": (g.ROOT / a.example).read_text()}
     ctx["srules"], ctx["code"], ctx["code_required"] = subject_rules(subject)
 
@@ -261,7 +346,7 @@ def main():
             s = status_of(subject, e, outdir, g.WORK)
             w = len((outdir / e["file"]).read_text().split()) if s == "done" else ""
             print(f"{s:<8}{e['file']:<62}{w}")
-        print(f"spent so far on {subject}: ${g.subject_spend(subject):.2f}")
+        print(f"spent so far on {subject}: ${g.subject_spend(subject):.2f} (list price)")
         return
 
     pending = [e for e in todo if status_of(subject, e, outdir, g.WORK) == "pending"
@@ -270,28 +355,24 @@ def main():
         pending = pending[:a.limit]
     in_tokens = len((ctx["example"] + ctx["rules"] + ctx["srules"] + syllabus).split()) * 1.5
     print(f"{len(pending)} file(s) to write, {len(todo) - len(pending)} already done or flagged. "
-          f"Model {a.model}; code execution {('required' if ctx['code_required'] else 'optional') if ctx['code'] else 'off'}.")
-    print(f"Spent so far on {subject}: ${g.subject_spend(subject):.2f} of ${a.budget:.2f} budget.")
+          f"Model {a.model}; mode {a.mode}; thinking {a.thinking or 'default'}; "
+          f"code execution {('required' if ctx['code_required'] else 'optional') if ctx['code'] else 'off'}.")
+    print(f"Spent so far on {subject}: ${g.subject_spend(subject):.2f} (list price). Safety limit ${g.safety_limit():.0f} per subject.")
     if a.dry_run:
         words = sum(e.get("est_words", 6000) for e in pending)
-        print(f"Dry run. About {in_tokens:,.0f} input tokens per call. Planned output {words:,} words "
-              f"(about {int(words * 1.8):,} tokens plus thinking). No API call made.")
+        print(f"Dry run. About {in_tokens:,.0f} input tokens per call. Planned output {words:,} words. No API call made.")
         return
     if not pending:
         return
 
-    results = {}
-    def run(e):
-        results[e["file"]] = process(subject, title, e, ctx, a)
-    with ThreadPoolExecutor(max_workers=max(1, a.workers)) as ex:
-        list(ex.map(run, pending))
+    results = run_batch(subject, pending, ctx, a) if a.mode == "batch" else run_sync(subject, pending, ctx, a)
     done = [k for k, v in results.items() if v == "done"]
-    flagged = [k for k, v in results.items() if v == "flagged"]
-    other = {k: v for k, v in results.items() if v not in ("done", "flagged")}
+    flagged = [k for k, v in results.items() if v in ("flagged", "fail")]
+    other = {k: v for k, v in results.items() if v not in ("done", "flagged", "fail")}
     print(f"\nFinished: {len(done)} written, {len(flagged)} flagged, {len(other)} not completed {sorted(set(other.values())) if other else ''}.")
-    print(f"Total spent on {subject}: ${g.subject_spend(subject):.2f}")
     if flagged:
         print("Flagged:", ", ".join(flagged), f"(see {g.WORK}/flagged/{subject}/)")
+    g.cost_report(subject)
 
 
 if __name__ == "__main__":

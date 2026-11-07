@@ -89,10 +89,11 @@ def main():
     ap.add_argument("--max-words", type=int, default=10000, help="split topics longer than this (default 10000)")
     ap.add_argument("--hint", default="", help="extra guidance, e.g. which topics are big")
     ap.add_argument("--force", action="store_true")
+    ap.add_argument("--out", help="write here instead of subjects/<subject>/PLAN.md (for tests)")
     a = ap.parse_args()
     sdir = g.ROOT / "subjects" / a.subject
     syl = sdir / "syllabus.md"
-    out = sdir / "PLAN.md"
+    out = Path(a.out) if a.out else sdir / "PLAN.md"
     if not syl.exists():
         sys.exit(f"Missing {syl}. Run transcribe_syllabus.py first.")
     if out.exists() and not a.force:
@@ -113,7 +114,7 @@ def main():
     problems = su.check_plan(files, syl.read_text())
     warns = su.check_plan_items(files, syl.read_text())
     out.write_text(render(a.subject, title, files))
-    print(f"Saved {out.relative_to(g.ROOT)}: {len(files)} files. Cost ${r['cost']:.3f}")
+    print(f"Saved {out}: {len(files)} files. Cost ${r['cost']:.3f}")
     if problems:
         print("PLAN PROBLEMS (fix by hand or re-run):")
         for p in problems:

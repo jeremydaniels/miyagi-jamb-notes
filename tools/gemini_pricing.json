@@ -1,10 +1,39 @@
 {
-  "_note": "USD per 1M tokens. UNVERIFIED: ai.google.dev could not be reached when this file was written, so these are best-known list prices (standard tier, text). Check them against https://ai.google.dev/gemini-api/docs/pricing and edit here. Thinking tokens are billed as output. Cached-token discounts are ignored, so logged costs are an upper bound. Unknown models are charged at the most expensive entry.",
+  "_note": "USD per 1M tokens. UNVERIFIED: ai.google.dev could not be reached when this file was written, so these are best-known list prices (standard tier, text). Check them against https://ai.google.dev/gemini-api/docs/pricing and edit here. Thinking tokens are billed as output. Cached-token discounts are ignored, so logged costs are an upper bound. Unknown models are charged at the most expensive entry. cached_input_fraction and batch_factor are ASSUMED (unverified): cached tokens are charged at that fraction of the input price; Batch API jobs at batch_factor of the normal price. flash_model is used for cheap jobs (coverage repair, planning if tested OK).",
   "verified": false,
   "default_model": "gemini-3.1-pro-preview",
   "models": {
-    "gemini-3.1-pro-preview": {"input": 2.0, "output": 12.0, "long_threshold": 200000, "input_long": 4.0, "output_long": 18.0},
-    "gemini-pro-latest":      {"input": 2.0, "output": 12.0, "long_threshold": 200000, "input_long": 4.0, "output_long": 18.0},
-    "gemini-2.5-pro":         {"input": 1.25, "output": 10.0, "long_threshold": 200000, "input_long": 2.5, "output_long": 15.0}
-  }
+    "gemini-3.1-pro-preview": {
+      "input": 2.0,
+      "output": 12.0,
+      "long_threshold": 200000,
+      "input_long": 4.0,
+      "output_long": 18.0
+    },
+    "gemini-pro-latest": {
+      "input": 2.0,
+      "output": 12.0,
+      "long_threshold": 200000,
+      "input_long": 4.0,
+      "output_long": 18.0
+    },
+    "gemini-2.5-pro": {
+      "input": 1.25,
+      "output": 10.0,
+      "long_threshold": 200000,
+      "input_long": 2.5,
+      "output_long": 15.0
+    },
+    "gemini-3.8-flash": {
+      "input": 0.5,
+      "output": 3.0,
+      "long_threshold": 200000,
+      "input_long": 1.0,
+      "output_long": 4.5
+    }
+  },
+  "safety_limit_usd": 100,
+  "cached_input_fraction": 0.25,
+  "batch_factor": 0.5,
+  "flash_model": "gemini-3.8-flash"
 }

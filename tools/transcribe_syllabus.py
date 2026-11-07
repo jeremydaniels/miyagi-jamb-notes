@@ -48,10 +48,11 @@ def main():
     ap.add_argument("--title", help="subject title used in headings (default from folder name)")
     ap.add_argument("--model", default=g.default_model())
     ap.add_argument("--force", action="store_true", help="overwrite an existing syllabus.md")
+    ap.add_argument("--out", help="write here instead of subjects/<subject>/syllabus.md (for tests)")
     a = ap.parse_args()
 
     pdf = Path(a.pdf) if a.pdf else g.ROOT / "inbox" / f"{a.subject}.pdf"
-    out = g.ROOT / "subjects" / a.subject / "syllabus.md"
+    out = Path(a.out) if a.out else g.ROOT / "subjects" / a.subject / "syllabus.md"
     if not pdf.exists():
         sys.exit(f"Missing {pdf}")
     if out.exists() and not a.force:
@@ -66,7 +67,7 @@ def main():
     text = g.strip_fence(r["text"])
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(text)
-    print(f"Saved {out.relative_to(g.ROOT)} ({len(text.split())} words). Cost ${r['cost']:.3f} "
+    print(f"Saved {out} ({len(text.split())} words). Cost ${r['cost']:.3f} "
           f"({r['usage'].get('promptTokenCount',0)} in / "
           f"{r['usage'].get('candidatesTokenCount',0)+r['usage'].get('thoughtsTokenCount',0)} out tokens)")
 

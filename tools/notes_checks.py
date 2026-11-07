@@ -26,6 +26,17 @@ def _norm(s):
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
+def _heading_found(name, titles):
+    """Exact match after normalisation, or a close match (one contains the other, ignoring quotes
+    and trailing punctuation). Avoids re-writing a whole file over a cosmetic mismatch."""
+    n = re.sub(r"[\"'\u2018\u2019\u201c\u201d:.;,]", "", _norm(name))
+    for t in titles:
+        tt = re.sub(r"[\"'\u2018\u2019\u201c\u201d:.;,]", "", t)
+        if n == tt or (len(n) >= 12 and len(tt) >= 12 and (n in tt or tt in n)):
+            return True
+    return False
+
+
 def headings(text):
     return [(len(m.group(1)), m.group(2)) for m in re.finditer(r"(?m)^(#{1,6}) (.+?)\s*$", _strip_fences(text))]
 
@@ -139,7 +150,7 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
             key = (kind, re.sub(r"[().\s]", "", ident).lower())
             if key not in cov:
                 probs.append(f"COVERAGE map is missing '{kind} {ident}'")
-            elif _norm(cov[key]) not in titles:
+            elif not _heading_found(cov[key], titles):
                 probs.append(f"COVERAGE map: heading for '{kind} {ident}' not found in the file: {cov[key]!r}")
         if need:
             objs_h = {_norm(cov[k]) for k in cov if k[0] == "obj"}

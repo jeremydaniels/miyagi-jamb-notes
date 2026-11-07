@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Independent check of finished notes with Gemini (code execution on).
 
-    python tools/verify_notes.py mathematics --budget 10
-    python tools/verify_notes.py mathematics --only D1-differentiation.md
+    python tools/verify_notes.py mathematics               # Batch API (about half price, slower), default
+    python tools/verify_notes.py mathematics --mode sync   # immediate calls at full price
+    python tools/verify_notes.py mathematics --only D1-differentiation.md --redo
     python tools/verify_notes.py mathematics --report      # print the combined report again
     python tools/verify_notes.py mathematics --status
     python tools/verify_notes.py mathematics --dry-run
@@ -15,7 +16,8 @@ It NEVER edits notes. It writes one JSON report per file to
 file, location, issue, evidence and a suggested fix. Claude (or a human) then confirms
 each problem before fixing it: Gemini's checker can be wrong too.
 
---budget counts only the money spent by this tool (task "verify") for the subject.
+There is no per-run budget. Only the safety limit in tools/gemini_pricing.json (default $100 per
+subject, writing and verification together) can stop a run.
 """
 import argparse
 import json
@@ -85,53 +87,75 @@ def parse_json(text):
     return json.loads(text[i:j + 1])
 
 
-def est_cost(subject):
-    rows = [r["cost_usd"] for r in g.read_costs(subject) if r["task"].startswith("verify")]
-    return max(0.6, 1.5 * sum(rows) / len(rows)) if rows else 1.0
-
-
-def verify_one(subject, title, entry, notes_path, syllabus, args, lock):
-    f = entry["file"]
+def make_body(entry, notes_path, syllabus, title, args, note=""):
     _, block = su.find_topic(syllabus, entry["topic_heading"])
-    user = USER.format(file=f, syllabus=block or "", notes=notes_path.read_text())
-    system = SYSTEM.format(title=title)
-    for attempt in range(3):
-        if _stop.is_set():
-            return None
-        with lock:
-            spent = verify_spend(subject)
-            if spent + est_cost(subject) > args.budget:
-                _stop.set()
-                print(f"BUDGET: verification spent ${spent:.2f} of ${args.budget:.2f}. Stopping; ask before raising it.", flush=True)
-                return None
-        note = "" if attempt == 0 else "\n\nYour previous reply was rejected (it was not valid JSON or you did not run code). Run the code tool and reply with ONLY the JSON object."
-        print(f"[{f}] verify attempt {attempt + 1} ...", flush=True)
-        try:
-            r = g.call_gemini([{"text": user + note}], system=system, model=args.model, code_execution=True,
-                              subject=subject, file=f, task="verify" if attempt == 0 else f"verify-retry{attempt}")
-        except Exception as e:
-            print(f"[{f}] API error: {g.scrub(str(e))[:300]}", flush=True)
-            return None
-        try:
-            rep = parse_json(r["text"])
-            rep.setdefault("problems", [])
-        except Exception as e:
-            print(f"[{f}] bad JSON ({e})", flush=True)
-            continue
-        if r["code_runs"] == 0:
-            print(f"[{f}] no code run; retrying", flush=True)
-            continue
-        rep["file"] = f
-        rep["code_runs"] = r["code_runs"]
-        rep["cost_usd"] = round(r["cost"], 4)
-        d = VERIFY_DIR(subject)
-        d.mkdir(parents=True, exist_ok=True)
-        (d / (f + ".json")).write_text(json.dumps(rep, indent=1, ensure_ascii=False))
-        n = len(rep["problems"])
-        print(f"[{f}] {n} problem(s), code runs {r['code_runs']}, ${r['cost']:.2f}", flush=True)
-        return rep
-    print(f"[{f}] verification FAILED to produce a report", flush=True)
-    return None
+    user = USER.format(file=entry["file"], syllabus=block or "", notes=notes_path.read_text())
+    return g.build_body([{"text": user + note}], system=SYSTEM.format(title=title), code_execution=True,
+                        thinking=args.thinking)
+
+
+RETRY_NOTE = "\n\nYour previous reply was rejected (it was not valid JSON or you did not run code). Run the code tool and reply with ONLY the JSON object."
+
+
+def accept(subject, f, r):
+    """Parse a verification result; return the report dict or None if it must be redone."""
+    try:
+        rep = parse_json(r["text"])
+        rep.setdefault("problems", [])
+    except Exception as e:
+        print(f"[{f}] bad JSON ({e})", flush=True)
+        return None
+    if r["code_runs"] == 0:
+        print(f"[{f}] no code run; will retry", flush=True)
+        return None
+    rep["file"] = f
+    rep["code_runs"] = r["code_runs"]
+    rep["cost_usd"] = round(r["cost"], 4)
+    d = VERIFY_DIR(subject)
+    d.mkdir(parents=True, exist_ok=True)
+    (d / (f + ".json")).write_text(json.dumps(rep, indent=1, ensure_ascii=False))
+    print(f"[{f}] {len(rep['problems'])} problem(s), code runs {r['code_runs']}, ${r['cost']:.2f}", flush=True)
+    return rep
+
+
+def run_sync(subject, title, pending, ndir, syllabus, args):
+    lock = threading.Lock()
+    def one(entry):
+        f = entry["file"]
+        for attempt in range(3):
+            if _stop.is_set():
+                return
+            with lock:
+                try:
+                    g.check_safety(subject, 1.0)
+                except SystemExit as e:
+                    _stop.set(); print(e, flush=True); return
+            print(f"[{f}] verify attempt {attempt + 1} ...", flush=True)
+            try:
+                body = make_body(entry, ndir / f, syllabus, title, args, "" if attempt == 0 else RETRY_NOTE)
+                resp = g._http("POST", f"{g.API}/models/{args.model}:generateContent", body)
+                r = g.parse_response(resp, args.model, subject=subject, file=f,
+                                     task="verify" if attempt == 0 else f"verify-retry{attempt}")
+            except Exception as e:
+                print(f"[{f}] API error: {g.scrub(str(e))[:300]}", flush=True)
+                return
+            if accept(subject, f, r):
+                return
+        print(f"[{f}] verification FAILED to produce a report", flush=True)
+    with ThreadPoolExecutor(max_workers=max(1, args.workers)) as ex:
+        list(ex.map(one, pending))
+
+
+def run_batch(subject, title, pending, ndir, syllabus, args):
+    by = {e["file"]: e for e in pending}
+    def mk(key, attempt, prev):
+        return make_body(by[key], ndir / key, syllabus, title, args, "" if attempt == 0 else RETRY_NOTE)
+    def handle(key, result, error, attempt):
+        if result is None:
+            print(f"[{key}] request error: {(error or {}).get('message','?')[:200]}", flush=True)
+            return "retry", None
+        return ("done", None) if accept(subject, key, result) else ("retry", None)
+    g.run_batch_rounds(subject, "verify", list(by), mk, handle, 2, args.model, poll=args.poll)
 
 
 def build_report(subject, plan):
@@ -172,9 +196,13 @@ def main():
     ap.add_argument("subject")
     ap.add_argument("--only", nargs="+", metavar="FILE")
     ap.add_argument("--model", default=g.default_model())
-    ap.add_argument("--budget", type=float, default=10.0,
-                    help="USD this tool may spend on this subject (verify calls only; default 10)")
-    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--mode", choices=["batch", "sync"], default="batch",
+                    help="batch = Batch API (about half price, slower, default); sync = immediate calls at full price")
+    ap.add_argument("--poll", type=int, default=60, help="seconds between Batch status checks")
+    ap.add_argument("--workers", type=int, default=3, help="parallel calls in sync mode")
+    ap.add_argument("--thinking", choices=["low", "medium", "high"], default=None,
+                    help="Gemini thinking level (default: the model default)")
+    ap.add_argument("--notes-dir", help="read notes from this folder instead of subjects/<subject> (for tests)")
     ap.add_argument("--redo", action="store_true", help="verify again even if a report exists")
     ap.add_argument("--report", action="store_true", help="print the combined report and exit")
     ap.add_argument("--status", action="store_true")
@@ -184,28 +212,32 @@ def main():
     sdir = g.ROOT / "subjects" / a.subject
     plan = su.parse_plan((sdir / "PLAN.md").read_text())
     syllabus = (sdir / "syllabus.md").read_text()
+    ndir = Path(a.notes_dir) if a.notes_dir else sdir
     title = g.subject_title(a.subject)
     if a.report:
         print(build_report(a.subject, plan))
         return
-    todo = [e for e in plan if (not a.only or e["file"] in a.only) and (sdir / e["file"]).exists()]
+    todo = [e for e in plan if (not a.only or e["file"] in a.only) and (ndir / e["file"]).exists()]
     d = VERIFY_DIR(a.subject)
     if a.status:
         for e in plan:
             s = "verified" if (d / (e["file"] + ".json")).exists() else ("pending" if (sdir / e["file"]).exists() else "no notes")
             print(f"{s:<10}{e['file']}")
-        print(f"verification spend so far: ${verify_spend(a.subject):.2f}")
+        print(f"verification spend so far: ${verify_spend(a.subject):.2f} (list price)")
         return
     pending = [e for e in todo if a.redo or not (d / (e["file"] + ".json")).exists()]
-    print(f"{len(pending)} file(s) to verify. Verification spend so far ${verify_spend(a.subject):.2f} of ${a.budget:.2f}.")
+    print(f"{len(pending)} file(s) to verify (mode {a.mode}; thinking {a.thinking or 'default'}). "
+          f"Spent so far on {a.subject}: ${g.subject_spend(a.subject):.2f} (list price); safety limit ${g.safety_limit():.0f}.")
     if a.dry_run or not pending:
         return
-    lock = threading.Lock()
-    with ThreadPoolExecutor(max_workers=max(1, a.workers)) as ex:
-        list(ex.map(lambda e: verify_one(a.subject, title, e, sdir / e["file"], syllabus, a, lock), pending))
+    if a.mode == "batch":
+        run_batch(a.subject, title, pending, ndir, syllabus, a)
+    else:
+        run_sync(a.subject, title, pending, ndir, syllabus, a)
     print()
     print(build_report(a.subject, plan))
-    print(f"\nVerification spend: ${verify_spend(a.subject):.2f}. Report saved to {d / 'VERIFY-REPORT.md'}")
+    g.cost_report(a.subject)
+    print(f"\nReport saved to {d / 'VERIFY-REPORT.md'}")
 
 
 if __name__ == "__main__":

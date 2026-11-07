@@ -230,9 +230,9 @@ $$V = I Z$$
 **3. An a.c. circuit consists of a $40\ \Omega$ resistor, a $0.1\ \text{H}$ inductor, and a $250\ \mu\text{F}$ capacitor in series, connected to a $\frac{50}{\pi}\ \text{Hz}$ supply. Calculate the total impedance.**
 1. Identify values: $R = 40\ \Omega$, $L = 0.1\ \text{H}$, $C = 250 \times 10^{-6}\ \text{F}$, $f = \frac{50}{\pi}\ \text{Hz}$.
 2. Calculate inductive reactance: $X_L = 2\pi f L = 2\pi \times \frac{50}{\pi} \times 0.1 = 100 \times 0.1 = 10\ \Omega$.
-3. Calculate capacitive reactance: $X_C = \frac{1}{2\pi f C} = \frac{1}{2\pi \times \frac{50}{\pi} \times 250 \times 10^{-6}} = \frac{1}{100 \times 250 \times 10^{-6}} = \frac{1}{0.02} = 50\ \Omega$.
-4. Use the impedance formula: $Z = \sqrt{R^2 + (X_L - X_C)^2} = \sqrt{40^2 + (10 - 50)^2}$.
-5. Simplify: $Z = \sqrt{1600 + (-40)^2} = \sqrt{1600 + 1600} = \sqrt{3200} = 40\sqrt{2} \approx 56.57\ \Omega$.
+3. Calculate capacitive reactance: $X_C = \frac{1}{2\pi f C} = \frac{1}{2\pi \times \frac{50}{\pi} \times 250 \times 10^{-6}} = \frac{1}{100 \times 250 \times 10^{-6}} = \frac{1}{0.025} = 40\ \Omega$.
+4. Use the impedance formula: $Z = \sqrt{R^2 + (X_L - X_C)^2} = \sqrt{40^2 + (10 - 40)^2}$.
+5. Simplify: $Z = \sqrt{1600 + (-30)^2} = \sqrt{1600 + 900} = \sqrt{2500} = 50\ \Omega$.
 
 **Common Mistake:** When given the voltages $V_R = 30\ \text{V}$, $V_L = 90\ \text{V}$, $V_C = 50\ \text{V}$, students often just add them up: $30 + 90 + 50 = 170\ \text{V}$. This is **wrong** because they do not reach their peaks at the same time. You must use the vector formula.
 
@@ -444,7 +444,7 @@ At resonance ($X_L = X_C$), several very important conditions occur in the circu
 - C. The current in the circuit is maximum.
 - D. The phase angle between voltage and current is zero.
 
-**Answer: B.** 1. At resonance, the opposing reactances cancel each other out ($X_L = X_C$). 2. Because they cancel, the total impedance formula $Z = \sqrt{R^2 + (X_L - X_C)^2}$ reduces to $Z = R$. 3. This means the impedance is at its **minimum**, not maximum, allowing the maximum current to flow. The most tempting wrong option is B, which comes from the mistaken assumption that "resonance" implies the highest level of opposition, when it actually means the exact opposite.
+**Answer: B.** 1. At resonance, the opposing reactances cancel each other out ($X_L = X_C$). 2. Because they cancel, the total impedance formula $Z = \sqrt{R^2 + (X_L - X_C)^2}$ reduces to $Z = R$. 3. This means the impedance is at its **minimum**, not maximum, allowing the maximum current to flow. The most tempting wrong option is C: a student who wrongly thinks that "resonance" means the highest opposition would believe the current is smallest at resonance, when in fact the current is at its maximum.
 
 **8. In an a.c. circuit, the impedance is $50\ \Omega$ and the resistance is $40\ \Omega$. What is the power factor of the circuit?**
 

@@ -369,7 +369,7 @@ A common mistake is forgetting to multiply mass by $g$ to find $R$, which leads 
 1. Formula: $F = 6\pi \eta r v$. 
 2. Substitute: $F = 6 \times \pi \times 0.4 \times (2.0 \times 10^{-3}) \times 0.05$. 
 3. Calculate: $0.4 \times 0.05 = 0.02$. 
-4. $6 \times 2.0 \times 10^{-3} \times 0.02 = 0.024 \times 10^{-2} = 2.4 \times 10^{-4}$. 
+4. $6 \times 2.0 \times 10^{-3} \times 0.02 = 0.24 \times 10^{-3} = 2.4 \times 10^{-4}$. 
 5. The answer is $2.4\pi \times 10^{-4}\ \text{N}$.
 
 **8. When the temperature of a liquid increases, its viscosity:**

@@ -180,7 +180,7 @@ In the long run, a monopolistically competitive firm only makes **normal profit*
 | **Number of sellers** | Very many | Many | One |
 | **Type of product** | Homogeneous | Differentiated | Unique (no close substitutes) |
 | **Control over price** | None (Price taker) | Some control | High (Price maker) |
-| **Demand curve (AR)** | Perfectly horizontal | Downward sloping (elastic) | Downward sloping (inelastic) |
+| **Demand curve (AR)** | Perfectly horizontal | Downward sloping (elastic) | Downward sloping (relatively inelastic) |
 | **Barriers to entry** | None | None | High |
 | **Long-run profit** | Normal profit only | Normal profit only | Supernormal profit |
 
@@ -210,10 +210,10 @@ However, if the price falls so low that it cannot even cover the day-to-day runn
 * **Condition for shut down:** $Price (AR) \leq AVC$
 
 **Example scenario (A Nigerian Pure Water Factory):**
-Suppose a factory's Average Total Cost ($ATC$) to produce a bag of pure water is ₦50. This is made up of ₦20 fixed cost (factory rent) and ₦30 variable cost (nylon, water treatment, daily labour).
+Suppose a factory's Average Total Cost ($ATC$) to produce a bag of pure water is ₦50. This is made up of ₦20 average fixed cost per bag (factory rent shared over the bags produced) and ₦30 average variable cost per bag (nylon, water treatment, daily labour).
 * If the market price is **₦50**, it is at the **break-even point**.
-* If the price falls to **₦40**, the factory makes a loss of ₦10 per bag. However, it should **continue producing in the short run** because the ₦40 covers the ₦30 variable cost, and leaves ₦10 to help pay the rent. If they close, they still have to pay the full ₦20 rent from their pocket.
-* If the price falls to **₦25**, it does not even cover the ₦30 variable cost. For every bag produced, they are losing an extra ₦5 on top of their rent. At this price, they must **shut down**.
+* If the price falls to **₦40**, the factory makes a loss of ₦10 per bag. However, it should **continue producing in the short run** because the ₦40 covers the ₦30 variable cost, and leaves ₦10 per bag to help pay the fixed costs. If they close, they still have to pay all their fixed costs (the rent) from their pocket.
+* If the price falls to **₦25**, it does not even cover the ₦30 variable cost. For every bag produced, they are losing an extra ₦5 per bag on top of their fixed costs. At this price, they must **shut down**.
 
 [IMAGE: A graph showing the Short-Run Average Total Cost (ATC), Average Variable Cost (AVC), and Marginal Cost (MC) curves. The MC curve cuts through the lowest points of both AVC and ATC. A horizontal line drawn at the minimum of ATC is labelled "Break-even point". A horizontal line drawn at the minimum of AVC is labelled "Shut-down point". Clean flat textbook illustration, white background.]
 

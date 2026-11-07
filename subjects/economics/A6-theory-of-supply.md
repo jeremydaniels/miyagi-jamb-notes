@@ -151,7 +151,7 @@ The coefficient we just calculated determines the **nature of elasticity**:
 *   **Time:** This is the most crucial determinant. 
     *   *Short run:* Supply is **inelastic** because producers cannot quickly acquire new land, machinery, or factories to expand production.
     *   *Long run:* Supply becomes **elastic** because producers have enough time to adjust all factors of production.
-*   **Nature of the product (Perishability):** Agricultural products (like tomatoes or yams) take time to grow, making their supply **inelastic** in the short run. Manufactured goods (like bottled water or cement) can be produced rapidly by running machines overnight, making their supply **elastic**.
+*   **Nature of the product (production time):** Agricultural products (like tomatoes or yams) take time to grow, making their supply **inelastic** in the short run. Manufactured goods (like bottled water or cement) can be produced rapidly by running machines overnight, making their supply **elastic**.
 *   **Availability of spare capacity:** If a factory is only running at 50% capacity, it can easily hire more workers and increase output if the price rises. Supply is highly **elastic**. If it is already at 100% full capacity, supply is **inelastic**.
 *   **Mobility of factors of production:** If resources (labour and capital) can be easily shifted from producing one good to another, the supply of that good will be elastic.
 

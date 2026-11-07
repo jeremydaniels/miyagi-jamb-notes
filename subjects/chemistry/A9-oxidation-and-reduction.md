@@ -67,7 +67,8 @@ A popular and helpful memory aid for this is the mnemonic **OILRIG**: **O**xidat
 [IMAGE: A conceptual diagram illustrating the OILRIG mnemonic. On the left side, a blue circle labelled 'Atom A' with an arrow pointing outward, tossing a small yellow sphere labelled 'e⁻' (electron) to the right. Text above reads "Oxidation Is Loss (OIL)". On the right side, a red circle labelled 'Atom B' catching the 'e⁻'. Text above reads "Reduction Is Gain (RIG)". Clean flat textbook illustration style, white background.]
 
 For example, when sodium reacts with chlorine to form table salt:
-$$2\text{Na(s)} + \text{Cl}_2\text{(g)} \rightarrow 2\text{Na}^+\text{(aq)} + 2\text{Cl}^-\text{(aq)}$$
+$$2\text{Na(s)} + \text{Cl}_2\text{(g)} \rightarrow 2\text{NaCl(s)}$$
+The sodium chloride formed is a solid made of $\text{Na}^+$ and $\text{Cl}^-$ ions.
 - Sodium atoms lose electrons: $\text{Na} \rightarrow \text{Na}^+ + \text{e}^-$ (Oxidation)
 - Chlorine molecules gain electrons: $\text{Cl}_2 + 2\text{e}^- \rightarrow 2\text{Cl}^-$ (Reduction)
 
@@ -150,9 +151,9 @@ Calculate the number of moles of electrons transferred when one mole of heptaoxo
 1. Write the core change, balancing the main atoms first: $\text{Cr}_2\text{O}_7^{2-} \rightarrow 2\text{Cr}^{3+}$.
 2. Calculate the oxidation number of Cr in the reactant: We previously found it is $+6$.
 3. Calculate the oxidation number of Cr in the product: A simple ion's state is its charge, which is $+3$.
-4. Find the difference per Cr atom: A change from $+6$ to $+3$ means $3 \text{ mol}$ of electrons are gained per atom.
-5. Multiply by the number of atoms involved: The formula $\text{Cr}_2\text{O}_7^{2-}$ contains $2$ Cr atoms.
-6. Final calculation: $2 \text{ atoms} \times 3 \text{ mol} = 6 \text{ mol}$ of electrons.
+4. Find the difference per Cr atom: A change from $+6$ to $+3$ means each Cr atom gains $3$ electrons (so $3 \text{ mol}$ of electrons per mole of Cr atoms).
+5. Multiply by the number of Cr atoms in the formula: $\text{Cr}_2\text{O}_7^{2-}$ contains $2$ Cr atoms, so $1 \text{ mol}$ of $\text{Cr}_2\text{O}_7^{2-}$ contains $2 \text{ mol}$ of Cr atoms.
+6. Final calculation: $2 \text{ mol of Cr atoms} \times 3 \text{ mol of electrons per mol of Cr atoms} = 6 \text{ mol}$ of electrons.
 7. State the final answer: $6 \text{ mol}$ of electrons are transferred.
 
 ## Distinguish between oxidizing and reducing agents in redox reactions
@@ -206,7 +207,7 @@ In practical chemistry, you can identify unknown gases or solutions by observing
 | **Iron(II) chloride ($\text{FeCl}_2$)** (pale green solution) | **Oxidizing agents** | **Pale green to yellow-brown** | Pale green $\text{Fe}^{2+}$ is oxidized to yellow-brown $\text{Fe}^{3+}$ |
 | **Hydrogen sulphide ($\text{H}_2\text{S}$)** gas | **Oxidizing agents** | **Deposits a yellow solid** | $\text{H}_2\text{S}$ is oxidized to free yellow sulphur ($\text{S}$) |
 
-[IMAGE: A laboratory setup for testing a reducing agent. A test tube held securely by a clamp contains a green solution. Above it, a dropping pipette is adding drops of a purple acidified potassium tetraoxomanganate(VII) solution. An arrow points from the purple drops falling into the green solution with a text label reading: "Purple KMnO4 turns colourless as it is reduced by the reducing agent". Clean flat textbook illustration style, white background.]
+[IMAGE: A laboratory setup for testing a reducing agent. A test tube held securely by a clamp contains a colourless solution of sulphur(IV) oxide in water (a reducing agent). Above it, a dropping pipette is adding drops of a purple acidified potassium tetraoxomanganate(VII) solution. An arrow points from the purple drops falling into the colourless solution with a text label reading: "Purple KMnO4 turns colourless as it is reduced by the reducing agent". Clean flat textbook illustration style, white background.]
 
 ## Apply oxidation number in naming inorganic compounds
 
@@ -354,9 +355,9 @@ The mistake in option C ($+7$) is confusing the oxidation state of Cr with the $
 1. Write the core reduction half-equation: $\text{Cr}_2\text{O}_7^{2-} \rightarrow 2\text{Cr}^{3+}$.
 2. Determine the oxidation state of Cr in the reactant: $2\text{Cr} + 7(-2) = -2 \implies \text{Cr} = +6$.
 3. Determine the oxidation state of Cr in the product: It is the charge on the simple ion, which is $+3$.
-4. Calculate the difference per Cr atom: $+6 - (+3) = 3 \text{ mol}$ of electrons gained per atom.
-5. Multiply by the number of Cr atoms present ($2$): $3 \text{ mol} \times 2 = 6 \text{ mol}$ of electrons in total.
-The mistake in option A ($3 \text{ mol}$) is forgetting to multiply the per-atom electron transfer by the $2$ chromium atoms in the formula.
+4. Calculate the difference per Cr atom: $+6 - (+3) = 3$ electrons gained by each Cr atom, that is $3 \text{ mol}$ of electrons per mole of Cr atoms.
+5. Multiply by the moles of Cr atoms in $1 \text{ mol}$ of $\text{Cr}_2\text{O}_7^{2-}$ ($2 \text{ mol}$): $3 \text{ mol} \times 2 = 6 \text{ mol}$ of electrons in total.
+The mistake in option A ($3 \text{ mol}$) is forgetting to multiply the electron transfer for one Cr atom by the $2$ chromium atoms in the formula.
 
 **3. In the reaction $3\text{CuO(s)} + 2\text{NH}_3\text{(g)} \rightarrow 3\text{Cu(s)} + \text{N}_2\text{(g)} + 3\text{H}_2\text{O(l)}$, which substance acts as the reducing agent?**
 

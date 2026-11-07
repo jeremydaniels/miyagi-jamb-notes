@@ -342,22 +342,22 @@ Mistake behind option C ($15$): Swapping the direct and inverse parts, calculati
 7. Find $C$ for $N = 90$: $C = 2000 + 250(90) = 2000 + 22500 = 24500$.
 Mistake behind option D (₦27,000): Treating it as purely direct variation from the first data point ($12000 \div 40 = 300$, then $300 \times 90 = 27000$).
 
-**5. If $y$ varies directly as the square of $x$. If $x$ is increased by $50\%$, find the percentage increase in $y$.**
+**5. $y$ varies directly as the square of $x$. If $x$ is increased by $40\%$, find the percentage increase in $y$.**
 
-- A. $50\%$
-- B. $100\%$
-- C. $125\%$
-- D. $225\%$
+- A. $40\%$
+- B. $80\%$
+- C. $96\%$
+- D. $196\%$
 
 **Answer: C.**
 1. Equation: $y_1 = kx_1^2$.
-2. Factor for a $50\%$ increase in $x$: $x_2 = 1.5x_1$.
-3. Substitute: $y_2 = k(1.5x_1)^2$.
-4. Square the factor: $1.5^2 = 2.25$.
-5. The new $y_2 = 2.25 y_1$.
-6. A factor of $2.25$ means the new value is $225\%$ of the original. 
-7. The increase is $225\% - 100\% = 125\%$.
-Mistake behind option D ($225\%$): Gives the final percentage value of $y$ instead of the percentage *increase*.
+2. Factor for a $40\%$ increase in $x$: $x_2 = 1.4x_1$.
+3. Substitute: $y_2 = k(1.4x_1)^2$.
+4. Square the factor: $1.4^2 = 1.96$.
+5. The new $y_2 = 1.96\,y_1$.
+6. A factor of $1.96$ means the new value is $196\%$ of the original.
+7. The increase is $196\% - 100\% = 96\%$.
+Mistakes behind the other options: A ($40\%$) assumes $y$ changes by the same percentage as $x$; B ($80\%$) doubles $40\%$ instead of squaring $1.4$; D ($196\%$) gives the final percentage of $y$ instead of the percentage *increase*.
 
 **6. If $F$ varies inversely as the square of $d$. If $d$ is increased by $25\%$, find the percentage decrease in $F$.**
 
@@ -423,21 +423,21 @@ Mistake behind option A ($2$): Forgetting the square on $x$ when setting up the 
 4. The exact equation is $E = \frac{1}{5}F$.
 5. Substitute the new extension $E = 10$: $10 = \frac{1}{5}F$.
 6. Solve for $F$: $F = 10 \times 5 = 50\text{ N}$.
-Mistake behind option A ($16\text{ N}$): Accidentally interpreting the problem as inverse variation ($E = \frac{k}{F} \implies k = 80$, then $10 = \frac{80}{F} \implies F=8$, then somehow doubling it to 16, or just dividing backwards).
+Mistake behind option A ($16\text{ N}$): Accidentally interpreting the problem as inverse variation ($E = \frac{k}{F} \implies k = 80$, then $10 = \frac{80}{F} \implies F=8$, which is not an option either). Option A ($16\text{ N}$) comes from just subtracting the given numbers ($20 - 4 = 16$) instead of setting up a variation equation.
 
-**10. $Z$ varies directly as the square of $X$ and inversely as $Y$. If $X$ is decreased by $10\%$ and $Y$ is increased by $20\%$, what is the percentage change in $Z$?**
+**10. $Z$ varies directly as the square of $X$ and inversely as $Y$. If $X$ is increased by $20\%$ and $Y$ is decreased by $20\%$, what is the percentage change in $Z$?**
 
-- A. $10\%$ decrease
-- B. $25\%$ decrease
-- C. $32.5\%$ decrease
-- D. $40\%$ decrease
+- A. No change ($0\%$)
+- B. $44\%$ increase
+- C. $80\%$ increase
+- D. $180\%$ increase
 
 **Answer: C.**
 1. Equation: $Z_1 = \frac{kX_1^2}{Y_1}$.
-2. Factors: $X_2 = 0.9X_1$ and $Y_2 = 1.2Y_1$.
-3. Substitute: $Z_2 = \frac{k(0.9X_1)^2}{1.2Y_1}$.
-4. Evaluate the square: $0.9^2 = 0.81$.
-5. Find the combined factor: $\frac{0.81}{1.2} = 0.675$.
-6. $Z_2 = 0.675 Z_1$.
-7. The decrease is $100\% - 67.5\% = 32.5\%$.
-Mistake behind option D ($40\%$ decrease): Incorrectly guessing the change by doubling the $10\%$ decrease (because of the square) and then linearly adding the $20\%$ inverse increase ($-20 - 20 = -40$).
+2. Factors: $X_2 = 1.2X_1$ and $Y_2 = 0.8Y_1$.
+3. Substitute: $Z_2 = \frac{k(1.2X_1)^2}{0.8Y_1}$.
+4. Evaluate the square: $1.2^2 = 1.44$.
+5. Find the combined factor: $\frac{1.44}{0.8} = 1.8$.
+6. $Z_2 = 1.8\,Z_1$, which is $180\%$ of the original.
+7. The increase is $180\% - 100\% = 80\%$.
+Mistakes behind the other options: A assumes $+20\%$ and $-20\%$ cancel out; B ($44\%$) forgets the effect of $Y$ ($1.44 - 1$); D ($180\%$) gives the final percentage of $Z$ instead of the percentage *increase*.

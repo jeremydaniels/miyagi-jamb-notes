@@ -224,7 +224,7 @@ Find the displacement of a particle that moves from the origin to a point with c
 5. Calculate the final root: $d = \sqrt{100} = 10\ \text{m}$.
 6. State the answer: **$10\ \text{m}$**.
 
-**Example 8: Distance between two positive coordinates**
+**Example 8: Distance between two points**
 Find the distance between point $A(2, -1)$ and point $B(5, 3)$ on a Cartesian plane, where coordinates are in metres.
 1. Identify the coordinates: $(x_1, y_1) = (2, -1)$ and $(x_2, y_2) = (5, 3)$.
 2. Write the formula: $d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$.

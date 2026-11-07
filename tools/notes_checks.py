@@ -16,7 +16,7 @@ def split_coverage(text):
         for line in m.group(1).splitlines():
             mm = re.match(r"^\s*(obj|item)\s+(\S+)\s*\|\s*(.+?)\s*$", line)
             if mm:
-                cov[(mm.group(1), mm.group(2).strip(".)").lower())] = mm.group(3)
+                cov[(mm.group(1), mm.group(2).strip(".)").lower())] = re.sub(r"^#+\s*", "", mm.group(3))
         text = (text[:m.start()] + text[m.end():]).rstrip() + "\n"
     return text, cov
 

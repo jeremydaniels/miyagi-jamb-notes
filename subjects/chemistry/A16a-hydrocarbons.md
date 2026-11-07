@@ -315,7 +315,7 @@ Natural rubber (from rubber trees) is soft, sticky when hot, and brittle when co
 
 Alkenes are unsaturated and readily undergo addition. Two common tests can distinguish an alkene from an alkane:
 1. **Bromine Water Test:** When reddish-brown bromine water is shaken with an alkene, it turns **colourless** immediately. (An alkane produces no change in the dark).
-2. **Baeyer's Reagent Test:** When an alkene is bubbled through acidified potassium tetraoxomanganate(VII) ($\text{KMnO}_4$) solution, the **purple colour turns colourless**. (If the $\text{KMnO}_4$ is alkaline, it turns green and forms a brown precipitate of $\text{MnO}_2$).
+2. **Baeyer's Reagent Test:** When an alkene is bubbled through potassium tetraoxomanganate(VII) ($\text{KMnO}_4$) solution, the **purple colour turns colourless** if the solution is acidified. (Textbooks differ on the name: strictly, *Baeyer's reagent* is cold, dilute, **alkaline** $\text{KMnO}_4$, in which the purple turns green and then forms a brown precipitate of $\text{MnO}_2$. Many Nigerian textbooks use the acidified form, so know both results.)
 
 ### Chemical tests for terminal alkynes
 

@@ -285,7 +285,7 @@ A refrigerator is priced at ₦150,000 exclusive of a 7.5% VAT. Calculate the to
 - C. 10
 - D. 14
 
-**Answer: C.** The mistake behind the most tempting wrong option is failing to invert the denominator fraction when dividing.
+**Answer: C.** The mistake behind the most tempting wrong option ($14$) is a subtraction slip in the denominator: $\frac{5}{4} - \frac{2}{3} = \frac{5}{12}$ instead of $\frac{7}{12}$. Option A ($5$) comes from dividing $35$ by $7$ and ignoring the denominators $6$ and $12$.
 
 1. Evaluate numerator: $3\frac{1}{2} + 2\frac{1}{3} = \frac{7}{2} + \frac{7}{3} = \frac{21 + 14}{6} = \frac{35}{6}$
 2. Evaluate denominator: $1\frac{1}{4} - \frac{2}{3} = \frac{5}{4} - \frac{2}{3} = \frac{15 - 8}{12} = \frac{7}{12}$
@@ -341,7 +341,7 @@ A refrigerator is priced at ₦150,000 exclusive of a 7.5% VAT. Calculate the to
 - C. ₦35,000
 - D. ₦25,000
 
-**Answer: A.** The mistake behind the most tempting wrong option is confusing the formula or failing to rearrange $I = \frac{PRT}{100}$ correctly for Principal.
+**Answer: A.** Check by substituting back: $I = \frac{30000 \times 3 \times 5}{100} = 4500$. The other options are nearby values that fail this check.
 
 1. Use the rearranged formula: $P = \frac{100 \times I}{R \times T}$.
 2. Substitute the values: $P = \frac{100 \times 4500}{3 \times 5}$.
@@ -369,7 +369,7 @@ A refrigerator is priced at ₦150,000 exclusive of a 7.5% VAT. Calculate the to
 - C. ₦2,400
 - D. ₦6,000
 
-**Answer: B.** The mistake behind the most tempting wrong option is assuming ₦1,200 is the total sum or finding only Chukwu's share.
+**Answer: B.** The mistake behind option A (₦4,800) is giving Bola $3$ parts instead of $4$ ($\frac{1200}{3} \times 12$). Option C (₦2,400) is the sum of the other two boys' shares ($900 + 1500$).
 
 1. Find the total number of parts in the ratio: $3 + 4 + 5 = 12$ parts.
 2. Bola's share corresponds to 4 parts. So, 4 parts = ₦1,200.
@@ -383,7 +383,7 @@ A refrigerator is priced at ₦150,000 exclusive of a 7.5% VAT. Calculate the to
 - C. 15
 - D. 20
 
-**Answer: B.** The mistake behind the most tempting wrong option is treating it as direct proportion instead of inverse proportion (more men take less time).
+**Answer: B.** Remember that this is inverse proportion: more men take fewer days, so fewer days need MORE men. Treating it as direct proportion would wrongly give $\frac{8 \times 10}{15} \approx 5.3$ men.
 
 1. Find the total man-days required for the job: $8 \text{ men} \times 15 \text{ days} = 120 \text{ man-days}$.
 2. Set up the inverse proportion for the new scenario: Let $x$ be the number of men.

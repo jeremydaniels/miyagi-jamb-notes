@@ -193,7 +193,7 @@ $$v^2 = u^2 + 2as \quad \text{--- (Equation 4)}$$
 
 ### Worked Examples
 
-**Example 1: Finding final velocity**
+**Example 4: Finding final velocity**
 A motorcyclist (okada rider) starts with an initial velocity of $15\ \text{m s}^{-1}$ and accelerates uniformly at $2\ \text{m s}^{-2}$ for $10\ \text{s}$. Calculate his final velocity.
 
 1.  **Identify givens:** $u = 15\ \text{m s}^{-1}$, $a = 2\ \text{m s}^{-2}$, $t = 10\ \text{s}$.
@@ -202,7 +202,7 @@ A motorcyclist (okada rider) starts with an initial velocity of $15\ \text{m s}^
 4.  **Substitute:** $v = 15 + (2 \times 10)$.
 5.  **Calculate:** $v = 15 + 20 = 35\ \text{m s}^{-1}$.
 
-**Example 2: Finding displacement from rest**
+**Example 5: Finding displacement from rest**
 A car starts from rest and accelerates uniformly at $4\ \text{m s}^{-2}$. Find the distance it covers in $5\ \text{s}$.
 
 1.  **Identify givens:** $u = 0\ \text{m s}^{-1}$ (started from rest), $a = 4\ \text{m s}^{-2}$, $t = 5\ \text{s}$.
@@ -211,7 +211,7 @@ A car starts from rest and accelerates uniformly at $4\ \text{m s}^{-2}$. Find t
 4.  **Substitute:** $s = (0 \times 5) + \frac{1}{2}(4)(5^2)$.
 5.  **Calculate:** $s = 0 + \frac{1}{2}(4)(25) = 2 \times 25 = 50.0\ \text{m}$.
 
-**Example 3: Finding displacement without time**
+**Example 6: Finding displacement without time**
 A train increases its velocity from $10\ \text{m s}^{-1}$ to $30\ \text{m s}^{-1}$ with a uniform acceleration of $2\ \text{m s}^{-2}$. Calculate the distance covered during this acceleration.
 
 1.  **Identify givens:** $u = 10\ \text{m s}^{-1}$, $v = 30\ \text{m s}^{-1}$, $a = 2\ \text{m s}^{-2}$.
@@ -241,7 +241,7 @@ Gravity always pulls downwards. Therefore:
 
 ### Worked Examples
 
-**Example 4: Object dropped from a height**
+**Example 7: Object dropped from a height**
 A mango falls from a tree branch and takes $4\ \text{s}$ to hit the ground. Calculate the height of the branch and the velocity just before it hits the ground. ($g = 10\ \text{m s}^{-2}$)
 
 1.  **Identify givens:** $u = 0\ \text{m s}^{-1}$ (dropped), $t = 4\ \text{s}$, $a = 10\ \text{m s}^{-2}$ (moving down, so positive).
@@ -251,7 +251,7 @@ A mango falls from a tree branch and takes $4\ \text{s}$ to hit the ground. Calc
 3.  **Find final velocity ($v$):** Use $v = u + gt$.
     *   $v = 0 + (10 \times 4) = 40\ \text{m s}^{-1}$.
 
-**Example 5: Object thrown vertically upwards**
+**Example 8: Object thrown vertically upwards**
 A stone is thrown vertically upwards with an initial velocity of $40\ \text{m s}^{-1}$. Calculate the time taken to reach its maximum height, and the maximum height reached. ($g = 10\ \text{m s}^{-2}$)
 
 1.  **Identify givens:** $u = 40\ \text{m s}^{-1}$, $v = 0\ \text{m s}^{-1}$ (it stops momentarily at the peak), $a = -10\ \text{m s}^{-2}$ (moving up against gravity).
@@ -263,7 +263,7 @@ A stone is thrown vertically upwards with an initial velocity of $40\ \text{m s}
     *   $0 = 1600 - 20h$
     *   $20h = 1600 \implies h = \frac{1600}{20} = 80.0\ \text{m}$.
 
-**Example 6: Total time of flight**
+**Example 9: Total time of flight**
 A ball is thrown vertically upwards with a speed of $25\ \text{m s}^{-1}$. What is the total time it takes to return to the thrower's hand? ($g = 10\ \text{m s}^{-2}$)
 
 1.  **Concept:** Time to go up equals time to come down (in a vacuum). Total time $T = 2 \times t_{\text{up}}$.

@@ -72,7 +72,7 @@ There are two completely different sets of rules for mixing colours. One applies
 **Objective i: identify primary colours and obtain secondary colours by mixing.**
 
 **1. Mixing Coloured Light (Addition)**
-When you shine different coloured lights onto a white screen, their wavelengths add together.
+When you shine different coloured lights onto a white screen, their lights mix together on the screen.
 - **Primary colours of light**: **Red, Green, and Blue**. They are called primary because they cannot be produced by mixing any other colours of light, but they can be mixed to produce almost any other colour.
 - **Secondary colours of light**: Produced by mixing two primary colours in equal amounts.
   - Red + Green = **Yellow**

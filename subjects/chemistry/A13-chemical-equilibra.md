@@ -151,7 +151,8 @@ $$\text{N}_2\text{(g)} + 3\text{H}_2\text{(g)} \rightleftharpoons 2\text{NH}_3\t
 Tetraoxosulphate (VI) acid ($\text{H}_2\text{SO}_4$), commonly known as sulfuric acid, is a heavily manufactured chemical. The critical reversible step in its manufacture is the oxidation of sulphur (IV) oxide to sulphur (VI) oxide.
 
 **Equation:**
-$$2\text{SO}_2\text{(g)} + \text{O}_2\text{(g)} \rightleftharpoons 2\text{SO}_3\text{(g)} \quad \Delta H = -395 \text{ kJ mol}^{-1}$$
+$$2\text{SO}_2\text{(g)} + \text{O}_2\text{(g)} \rightleftharpoons 2\text{SO}_3\text{(g)} \quad \Delta H = -197 \text{ kJ mol}^{-1}$$
+(Textbooks quote values from about $-196$ to $-198\text{ kJ mol}^{-1}$ for the reaction as written, that is, per $2$ mol of $\text{SO}_3$ formed. The key point for JAMB is that the reaction is exothermic.)
 
 **Applying Le Chatelier's Principle:**
 - **Temperature:** The forward reaction is highly exothermic. A **low temperature** would favour a high yield of $\text{SO}_3$, but makes the reaction too slow.

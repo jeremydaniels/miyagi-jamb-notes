@@ -66,7 +66,7 @@ A **supply schedule** is a table showing the different quantities of a commodity
 
 A **supply curve** is the graphical representation of the supply schedule. Because price and quantity supplied move in the same direction, the normal supply curve slopes **upward from left to right**. 
 
-[IMAGE: A graph showing a standard supply curve. The vertical axis (Y-axis) is labeled "Price (₦)" and the horizontal axis (X-axis) is labeled "Quantity Supplied (Bags)". The points from the table above (10000,20), (15000,40), (20000,60), (25000,80), and (30000,100) are plotted and connected by a straight line sloping upwards from left to right. The line is labeled "S". Clean flat textbook illustration, white background.]
+[IMAGE: A graph showing a standard supply curve. The vertical axis (Y-axis) is labeled "Price (₦)" and the horizontal axis (X-axis) is labeled "Quantity Supplied (Bags)". The points from the table above, written as (quantity, price): (20, 10000), (40, 15000), (60, 20000), (80, 25000) and (100, 30000), are plotted and connected by a straight line sloping upwards from left to right. The line is labeled "S". Clean flat textbook illustration, white background.]
 
 ## Change in Quantity Supplied vs. Change in Supply
 

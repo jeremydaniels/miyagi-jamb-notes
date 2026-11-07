@@ -33,55 +33,75 @@ def find_topic(syllabus, heading):
     return None, None
 
 
+def norm_id(x):
+    return re.sub(r"[().\s]", "", x).lower()
+
+
 def item_ids(block):
-    """Content item ids and objective ids printed in a topic block (best effort)."""
-    contents, objectives, mode = [], [], "c"
+    """Top-level content item ids and objective ids printed in a topic block (best effort).
+    Nested sub-items (indented deeper than the top level, e.g. i, ii under (a)) are ignored."""
+    found = {"c": [], "o": []}
+    mode = "c"
     for l in block.splitlines():
         s = l.strip()
         if re.search(r"candidates should be able to", s, re.I):
             mode = "o"
             continue
         # a doubled marker such as "iv. iii. text" (a numbering slip) is read as the second one
-        m = re.match(r"^[*\-]\s+\(?(?:[a-z]{1,4}[.)]\s+)?([a-z]{1,4})[.)]\s", s)
+        m = re.match(r"^[*\-]\s+\(?(?:[a-z]{1,4}[.)]\s+)?([a-z]{1,4})[.)]", s)
         if m:
-            (contents if mode == "c" else objectives).append(m.group(1))
-    return contents, objectives
+            found[mode].append((len(l) - len(l.lstrip()), m.group(1)))
+    out = []
+    for mode in ("c", "o"):
+        items = found[mode]
+        top = min((i for i, _ in items), default=0)
+        out.append([x for i, x in items if i == top])
+    return out[0], out[1]
 
 
 def check_plan(files, syllabus):
+    """Structural errors only (file names, topic headings, topics not covered)."""
     problems = []
     names = [f["file"] for f in files]
     if len(set(names)) != len(names):
         problems.append("duplicate file names")
-    blocks = topic_blocks(syllabus)
-    headings = [h for _, h, _ in blocks]
-    used = {}
+    headings = [h for _, h, _ in topic_blocks(syllabus)]
+    used = set()
     for f in files:
+        f["topic_heading"] = f["topic_heading"].strip()
         if not re.match(r"^[A-Z]\d+[a-z]?-[a-z0-9-]+\.md$", f["file"]):
             problems.append(f"bad file name: {f['file']}")
         if f["topic_heading"] not in headings:
             problems.append(f"{f['file']}: topic_heading not found in syllabus: {f['topic_heading']!r}")
-        used.setdefault(f["topic_heading"], []).append(f)
+        used.add(f["topic_heading"])
     for h in headings:
         if h not in used:
             problems.append(f"syllabus topic not covered by any file: {h!r}")
-    for sec, h, text in blocks:
+    return problems
+
+
+def check_plan_items(files, syllabus):
+    """Warnings about content items / objectives that look unassigned or assigned twice.
+    Only warnings: some syllabi have irregular numbering."""
+    warns = []
+    used = {}
+    for f in files:
+        used.setdefault(f["topic_heading"].strip(), []).append(f)
+    for sec, h, text in topic_blocks(syllabus):
         if h not in used:
             continue
         c, o = item_ids(text)
-        got_c = [x for f in used[h] for x in f["contents"]]
-        got_o = [x for f in used[h] for x in f["objectives"]]
-        for x in c:
-            if x not in got_c:
-                problems.append(f"{h}: content item {x} not assigned to any file")
-        for x in o:
-            if x not in got_o and "only" not in got_o:
-                problems.append(f"{h}: objective {x} not assigned to any file")
-        for lst, name in ((got_c, "content item"), (got_o, "objective")):
-            dup = {x for x in lst if lst.count(x) > 1}
-            if dup:
-                problems.append(f"{h}: {name}(s) {sorted(dup)} assigned to more than one file")
-    return problems
+        got_c = [norm_id(x) for f in used[h] for x in f["contents"]]
+        got_o = [norm_id(x) for f in used[h] for x in f["objectives"]]
+        for ids, got, name in ((c, got_c, "content item"), (o, got_o, "objective")):
+            for x in ids:
+                if norm_id(x) not in got and "only" not in got and len(got) < len(ids):
+                    warns.append(f"{h}: {name} {x} may not be assigned to any file")
+            if len(set(ids)) == len(ids):   # only meaningful when the syllabus ids are unique
+                dup = {x for x in got if got.count(x) > 1}
+                if dup:
+                    warns.append(f"{h}: {name}(s) {sorted(dup)} assigned to more than one file")
+    return warns
 
 
 def parse_plan(text):

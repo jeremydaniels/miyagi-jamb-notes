@@ -115,10 +115,13 @@ def claude_rules():
 def subject_rules(subject):
     p = g.ROOT / "tools" / "rules" / f"{subject}.md"
     if not p.exists():
-        return "", False
+        return "", False, False
     t = p.read_text()
-    code = "<!-- code-execution -->" in t.splitlines()[0]
-    return "======== SUBJECT-SPECIFIC RULES ========\n" + t.replace("<!-- code-execution -->", "").strip(), code
+    first = t.splitlines()[0]
+    required = "<!-- code-execution -->" in first          # tool must be used; maths-style checks on
+    optional = "<!-- code-execution:optional -->" in first  # tool on, but a file may have nothing to calculate
+    body = t.replace("<!-- code-execution -->", "").replace("<!-- code-execution:optional -->", "").strip()
+    return "======== SUBJECT-SPECIFIC RULES ========\n" + body, (required or optional), required
 
 
 def transcription_notes(syllabus):
@@ -182,7 +185,7 @@ def process(subject, title, entry, ctx, args):
             text = text[i:]
         text = g.strip_fence(text)
         last_text = text
-        clean, problems = nc.check_notes(text, entry, math=ctx["code"], code_runs=r["code_runs"])
+        clean, problems = nc.check_notes(text, entry, math=ctx["code_required"], code_runs=r["code_runs"])
         if r["finish"] != "STOP":
             problems.insert(0, f"output stopped early ({r['finish']}); the file is truncated or too long. Be complete but efficient.")
         words = len(clean.split())
@@ -239,11 +242,14 @@ def main():
     ctx = {"plan": plan, "syllabus": syllabus, "notes": transcription_notes(syllabus), "outdir": outdir,
            "wdir": g.WORK, "lock": threading.Lock(), "rules": claude_rules(),
            "example": (g.ROOT / a.example).read_text()}
-    ctx["srules"], ctx["code"] = subject_rules(subject)
+    ctx["srules"], ctx["code"], ctx["code_required"] = subject_rules(subject)
 
     probs = su.check_plan(plan, syllabus)
     if probs:
         sys.exit("PLAN.md does not match syllabus.md:\n - " + "\n - ".join(probs))
+    warns = su.check_plan_items(plan, syllabus)
+    if warns:
+        print(f"Note: {len(warns)} numbering warning(s) in PLAN.md (not fatal), e.g. {warns[0]}")
     todo = [e for e in plan if (not a.only or e["file"] in a.only)]
     if a.only:
         missing = set(a.only) - {e["file"] for e in plan}
@@ -264,7 +270,7 @@ def main():
         pending = pending[:a.limit]
     in_tokens = len((ctx["example"] + ctx["rules"] + ctx["srules"] + syllabus).split()) * 1.5
     print(f"{len(pending)} file(s) to write, {len(todo) - len(pending)} already done or flagged. "
-          f"Model {a.model}; code execution {'on' if ctx['code'] else 'off'}.")
+          f"Model {a.model}; code execution {('required' if ctx['code_required'] else 'optional') if ctx['code'] else 'off'}.")
     print(f"Spent so far on {subject}: ${g.subject_spend(subject):.2f} of ${a.budget:.2f} budget.")
     if a.dry_run:
         words = sum(e.get("est_words", 6000) for e in pending)

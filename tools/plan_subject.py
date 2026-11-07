@@ -111,6 +111,7 @@ def main():
     import json
     files = json.loads(r["text"])["files"]
     problems = su.check_plan(files, syl.read_text())
+    warns = su.check_plan_items(files, syl.read_text())
     out.write_text(render(a.subject, title, files))
     print(f"Saved {out.relative_to(g.ROOT)}: {len(files)} files. Cost ${r['cost']:.3f}")
     if problems:
@@ -118,7 +119,11 @@ def main():
         for p in problems:
             print(" -", p)
     else:
-        print("Plan check passed: every syllabus topic, content item and objective is covered exactly once.")
+        print("Plan check passed: every syllabus topic is covered and every file name and heading is valid.")
+    if warns:
+        print(f"{len(warns)} numbering warning(s) (syllabus numbering is irregular; review PLAN.md):")
+        for w in warns[:12]:
+            print(" -", w)
 
 
 if __name__ == "__main__":

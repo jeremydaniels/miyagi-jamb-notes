@@ -119,8 +119,9 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
         probs.append("narration such as 'Let me verify...' leaked into the file")
     if re.search(r"(?i)code execution|python script|```python", text):
         probs.append("mentions code execution or Python code; remove it")
-    if math:
+    if math or "$" in text:
         probs += check_math_delimiters(text)
+    if math:
         if code_runs == 0:
             probs.append("code execution tool was never used, so nothing was verified")
     # length and coverage map

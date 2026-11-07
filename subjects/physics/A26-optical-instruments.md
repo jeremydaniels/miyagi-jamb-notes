@@ -301,7 +301,7 @@ A woman has a near point of $100\ \text{cm}$. Calculate the focal length of the 
 1. Formula: $P = \frac{1}{f\ \text{(in metres)}}$.
 2. $f = 10\ \text{cm} = 0.1\ \text{m}$.
 3. $P = \frac{1}{0.1} = +10.0\ \text{D}$.
-(Option A comes from failing to convert centimetres to metres, and option D comes from converting incorrectly as $100/1000$ or similar math errors).
+(Option D ($+0.1\ \text{D}$) comes from failing to convert centimetres to metres: $\frac{1}{10} = 0.1$. Option A ($+1.0\ \text{D}$) comes from converting $10\ \text{cm}$ to $1.0\ \text{m}$ by mistake.)
 
 **2. An astronomical telescope has an objective lens of focal length $100\ \text{cm}$ and an eyepiece of focal length $5\ \text{cm}$. In normal adjustment, what is its angular magnification?**
 - A. $105$
@@ -389,4 +389,4 @@ A woman has a near point of $100\ \text{cm}$. Calculate the focal length of the 
 1. $P_1 = \frac{1}{0.2\ \text{m}} = +5.0\ \text{D}$.
 2. $P_2 = \frac{1}{-0.1\ \text{m}} = -10.0\ \text{D}$.
 3. Total Power $P = P_1 + P_2 = +5.0 + (-10.0) = -5.0\ \text{D}$.
-(Option B is the mistake of subtracting the negative power instead of adding it, or dropping the negative sign of the second lens entirely).
+(Option D ($+15.0\ \text{D}$) is the mistake of subtracting the negative power ($+5.0 - (-10.0)$) or dropping the negative sign of the second lens. Option B ($+5.0\ \text{D}$) is the mistake of dropping the negative sign from the final answer.)

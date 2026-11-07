@@ -79,14 +79,17 @@ Evaluate $\lim_{x \to -1} \frac{x^3 + 1}{x + 1}$.
 
 **Answer:** The limit is $3$.
 
-### JAMB Shortcut: L'Hôpital's Rule
-If direct substitution gives $\frac{0}{0}$, you can find the limit much faster using **L'Hôpital's Rule**. To use it, simply differentiate the numerator, differentiate the denominator, and then substitute the value of $x$. (You will learn differentiation in the next section; once you master it, use this shortcut in the exam to save time).
+### Optional, beyond the JAMB syllabus: L'Hôpital's Rule
 
-Let us solve Example 3 again using this shortcut: $\lim_{x \to 2} \frac{2x^2 - x - 6}{x - 2}$.
+> **This section is optional and is not part of the JAMB syllabus.** JAMB expects you to find limits by substitution and factorisation, as shown above. L'Hôpital's Rule is normally taught after secondary school. It is included only for curious students and for checking answers. Do not rely on it, and do not use it unless you have already learnt differentiation (next section).
+
+If direct substitution gives $\frac{0}{0}$, **L'Hôpital's Rule** says: differentiate the numerator, differentiate the denominator, and then substitute the value of $x$.
+
+As a check, let us solve Example 3 again: $\lim_{x \to 2} \frac{2x^2 - x - 6}{x - 2}$.
 1. Differentiate the numerator $2x^2 - x - 6$ to get $4x - 1$.
 2. Differentiate the denominator $x - 2$ to get $1$.
 3. Divide them: $\frac{4x - 1}{1} = 4x - 1$.
-4. Substitute $x = 2$: $4(2) - 1 = 8 - 1 = 7$. (Notice how much faster this is!)
+4. Substitute $x = 2$: $4(2) - 1 = 8 - 1 = 7$, the same answer as the factorisation method.
 
 > **Common Mistake:** When using L'Hôpital's Rule, do **not** use the quotient rule. Just differentiate the top on its own, and the bottom on its own. Also, remember you can only use this rule if substitution gives $\frac{0}{0}$.
 
@@ -252,7 +255,7 @@ Find $\frac{dy}{dx}$ if $y = x \cos x$.
 | Term | Meaning |
 | --- | --- |
 | **Limit** | The value a function approaches as the input gets closer to a specific number. |
-| **Indeterminate form** | A result like $\frac{0}{0}$ that requires further work (factorisation or L'Hôpital's Rule) to solve. |
+| **Indeterminate form** | A result like $\frac{0}{0}$ that requires further work (factorisation) to solve. |
 | **Differentiation** | The mathematical process of finding the derivative (rate of change) of a function. |
 | **Derivative** | An expression that gives the gradient or rate of change of a curve at any point. Written as $\frac{dy}{dx}$ or $f'(x)$. |
 | **Chain rule** | A formula for differentiating composite functions (a function inside another function). |
@@ -261,8 +264,7 @@ Find $\frac{dy}{dx}$ if $y = x \cos x$.
 
 ## Exam tips and common mistakes
 
-- **Don't leave a limit as $\frac{0}{0}$:** If you substitute your value and get zero divided by zero, factorise the top and bottom or use L'Hôpital's rule. 
-- **L'Hôpital's rule is a lifesaver:** For a tricky limit giving $\frac{0}{0}$, just differentiate the top, differentiate the bottom, and substitute the value.
+- **Don't leave a limit as $\frac{0}{0}$:** If you substitute your value and get zero divided by zero, factorise the top and bottom, cancel the common factor, and substitute again. (L'Hôpital's rule also works, but it is optional and not in the JAMB syllabus.)
 - **Convert roots and fractions first:** Before you use the power rule, always rewrite roots as fractional powers (e.g., $\sqrt{x} = x^{1/2}$) and denominators as negative powers (e.g., $\frac{1}{x^3} = x^{-3}$).
 - **The derivative of a constant is 0:** Many students accidentally leave a constant the same when differentiating. If $y = 3x^2 + 7$, $\frac{dy}{dx}$ is just $6x$. The $+ 7$ becomes zero.
 - **Watch the minus sign for Cosine:** The derivative of $\sin x$ is $\cos x$, but the derivative of $\cos x$ is **$-\sin x$**. Forgetting this minus sign is the most common trig mistake in JAMB.
@@ -271,7 +273,7 @@ Find $\frac{dy}{dx}$ if $y = x \cos x$.
 ## Quick summary
 
 1. The limit of a function is evaluated by direct substitution. If the result is a normal number, that is your answer.
-2. If direct substitution results in the indeterminate form $\frac{0}{0}$, you must factorise and cancel common terms, or use L'Hôpital's rule to find the true limit.
+2. If direct substitution results in the indeterminate form $\frac{0}{0}$, you must factorise and cancel common terms to find the true limit.
 3. Differentiation finds the derivative, which represents the gradient of a curve or the rate of change. 
 4. The Power Rule states that if $y = ax^n$, then $\frac{dy}{dx} = anx^{n-1}$.
 5. The Chain Rule ($\frac{dy}{dx} = \frac{dy}{du} \times \frac{du}{dx}$) is used for differentiating a function of a function, such as an expression in a bracket raised to a power.
@@ -316,10 +318,10 @@ Find $\frac{dy}{dx}$ if $y = x \cos x$.
 - D. $0$
 
 **Answer: B.**
-1. Direct substitution gives $\frac{2(-3)^2 + 5(-3) - 3}{-3 + 3} = \frac{18 - 15 - 3}{0} = \frac{0}{0}$.
-2. Using L'Hôpital's rule as a shortcut, differentiate the numerator: $\frac{d}{dx}(2x^2 + 5x - 3) = 4x + 5$.
-3. Differentiate the denominator: $\frac{d}{dx}(x + 3) = 1$.
-4. Evaluate $\frac{4x + 5}{1}$ at $x = -3$: $4(-3) + 5 = -12 + 5 = -7$.
+1. Direct substitution gives $\frac{2(-3)^2 + 5(-3) - 3}{-3 + 3} = \frac{18 - 15 - 3}{0} = \frac{0}{0}$, so we must factorise.
+2. Factorise the numerator: we need two numbers that multiply to $2 \times -3 = -6$ and add to $5$. They are $6$ and $-1$. So $2x^2 + 5x - 3 = 2x^2 + 6x - x - 3 = 2x(x + 3) - 1(x + 3) = (2x - 1)(x + 3)$.
+3. Rewrite the limit: $\lim_{x \to -3} \frac{(2x - 1)(x + 3)}{x + 3}$, then cancel $(x + 3)$ to get $\lim_{x \to -3} (2x - 1)$.
+4. Substitute $x = -3$: $2(-3) - 1 = -6 - 1 = -7$. Option A ($7$) comes from a sign error when substituting.
 
 **4. Find the derivative of $y = 3x^4 - 2x^3 + 5x - 7$.**
 

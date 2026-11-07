@@ -89,7 +89,7 @@ Two parallel lines are cut by a transversal. Two co-interior angles are $(3y - 1
 5.  Solve for $y$: $y = \frac{150}{5} = 30$.
 
 **Example 3 (The Zigzag parallel line problem):**
-Line $AB$ is parallel to line $CD$. A transversal from $AB$ ends at a point $P$ between the parallel lines, and another transversal from $CD$ ends at the same point $P$. Angle $BAP$ is $45^\circ$ and angle $DCP$ is $35^\circ$. Find the obtuse angle $APC$.
+Line $AB$ is parallel to line $CD$. A transversal from $AB$ ends at a point $P$ between the parallel lines, and another transversal from $CD$ ends at the same point $P$. Angle $BAP$ is $45^\circ$ and angle $DCP$ is $35^\circ$. Find angle $APC$.
 
 **Working:**
 

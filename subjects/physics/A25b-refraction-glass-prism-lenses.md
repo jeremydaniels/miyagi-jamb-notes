@@ -171,7 +171,7 @@ where:
 2. Write the formula: $\frac{1}{f} = \frac{1}{u} + \frac{1}{v}$.
 3. Substitute values: $\frac{1}{15\text{ cm}} = \frac{1}{20\text{ cm}} + \frac{1}{v}$.
 4. Rearrange for $v$: $\frac{1}{v} = \frac{1}{15} - \frac{1}{20}$.
-5. Find a common denominator ($60$): $\frac{1}{v} = \frac{4}{60} - \frac{3}{60} = \frac{1}{60\text{ cm}^{-1}}$.
+5. Find a common denominator ($60$): $\frac{1}{v} = \frac{4}{60} - \frac{3}{60} = \frac{1}{60}\text{ cm}^{-1}$.
 6. Invert both sides: $v = +60\text{ cm}$.
 **Answer:** The image is $60\text{ cm}$ from the lens. Because $v$ is positive, it is a **real and inverted** image.
 
@@ -192,8 +192,8 @@ where:
 1. Identify knowns: Concave lens means $f$ MUST be negative. $f = -15\text{ cm}$. $u = +30\text{ cm}$.
 2. Write the formula: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u}$.
 3. Substitute values: $\frac{1}{v} = \frac{1}{-15\text{ cm}} - \frac{1}{30\text{ cm}}$.
-4. Find a common denominator ($30$): $\frac{1}{v} = \frac{-2}{30} - \frac{1}{30} = \frac{-3}{30\text{ cm}^{-1}}$.
-5. Simplify: $\frac{1}{v} = \frac{-1}{10\text{ cm}^{-1}}$.
+4. Find a common denominator ($30$): $\frac{1}{v} = \frac{-2}{30} - \frac{1}{30} = \frac{-3}{30}\text{ cm}^{-1}$.
+5. Simplify: $\frac{1}{v} = \frac{-1}{10}\text{ cm}^{-1}$.
 6. Invert both sides: $v = -10\text{ cm}$.
 **Answer:** The image distance is $10\text{ cm}$. The negative sign means it is a **virtual** image, formed on the same side as the object.
 
@@ -229,7 +229,7 @@ Let's solve standard optical problems applying magnification rules.
 **Question:** A concave lens with a focal length of $10\text{ cm}$ forms an image of a pin which is placed $15\text{ cm}$ away. If the pin is $5\text{ cm}$ tall, determine the height of the image.
 **Working:**
 1. Find $v$ first. Concave lens means $f = -10\text{ cm}$. $u = +15\text{ cm}$.
-2. Formula: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u} = \frac{1}{-10} - \frac{1}{15} = \frac{-3}{30} - \frac{2}{30} = \frac{-5}{30\text{ cm}^{-1}} = \frac{-1}{6\text{ cm}^{-1}}$.
+2. Formula: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u} = \frac{1}{-10} - \frac{1}{15} = \frac{-3}{30} - \frac{2}{30} = \frac{-5}{30}\text{ cm}^{-1} = \frac{-1}{6}\text{ cm}^{-1}$.
 3. Invert to find $v$: $v = -6\text{ cm}$.
 4. Find magnification (using absolute values for distance): $m = \frac{|v|}{u} = \frac{6\text{ cm}}{15\text{ cm}} = 0.4$.
 5. Use magnification to find image height: $m = \frac{h_i}{h_o} \implies 0.4 = \frac{h_i}{5\text{ cm}}$.
@@ -240,7 +240,7 @@ Let's solve standard optical problems applying magnification rules.
 **Question:** A convex lens has a focal length of $10\text{ cm}$. An object is placed $5\text{ cm}$ from it. Find the magnification of the image.
 **Working:**
 1. Identify knowns: Convex lens $f = +10\text{ cm}$, $u = +5\text{ cm}$.
-2. Find $v$: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u} = \frac{1}{10} - \frac{1}{5} = \frac{1}{10} - \frac{2}{10} = \frac{-1}{10\text{ cm}^{-1}}$.
+2. Find $v$: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u} = \frac{1}{10} - \frac{1}{5} = \frac{1}{10} - \frac{2}{10} = \frac{-1}{10}\text{ cm}^{-1}$.
 3. Invert for $v$: $v = -10\text{ cm}$. The image is virtual.
 4. Calculate magnification: $m = \frac{|v|}{u} = \frac{10\text{ cm}}{5\text{ cm}} = 2$.
 **Answer:** The magnification is $2$.
@@ -305,7 +305,7 @@ The most tempting wrong option is C ($1.50$), which comes from the mistake of ig
 1. State the knowns: Convex lens means $f = +15\text{ cm}$. Object distance $u = +10\text{ cm}$.
 2. Write the lens formula rearranged for $v$: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u}$.
 3. Substitute the values: $\frac{1}{v} = \frac{1}{15} - \frac{1}{10}$.
-4. Find a common denominator ($30$): $\frac{1}{v} = \frac{2}{30} - \frac{3}{30} = \frac{-1}{30\text{ cm}^{-1}}$.
+4. Find a common denominator ($30$): $\frac{1}{v} = \frac{2}{30} - \frac{3}{30} = \frac{-1}{30}\text{ cm}^{-1}$.
 5. Invert to find $v$: $v = -30\text{ cm}$.
 The most tempting wrong option is A ($30\text{ cm}$), which comes from ignoring the negative sign, incorrectly assuming the image is real when an object placed closer than the focal length of a convex lens produces a virtual image.
 
@@ -347,7 +347,7 @@ The most tempting wrong option is A ($10\text{ cm}$), which comes from the mista
 **Answer: A.**
 1. State the knowns: Concave lens means $f = -20\text{ cm}$. Object distance $u = +20\text{ cm}$.
 2. Use the lens formula to find $v$: $\frac{1}{v} = \frac{1}{f} - \frac{1}{u} = \frac{1}{-20} - \frac{1}{20}$.
-3. Add the fractions: $\frac{1}{v} = \frac{-2}{20} = \frac{-1}{10\text{ cm}^{-1}}$.
+3. Add the fractions: $\frac{1}{v} = \frac{-2}{20} = \frac{-1}{10}\text{ cm}^{-1}$.
 4. Invert to find $v$: $v = -10\text{ cm}$.
 5. Calculate magnification: $m = \frac{|v|}{u} = \frac{10}{20} = 0.5$.
 The most tempting wrong option is D (Infinity), which comes from the mistake of forgetting the negative sign for the concave lens focal length, giving $\frac{1}{v} = \frac{1}{20} - \frac{1}{20} = 0$, causing $v$ to equal infinity.
@@ -389,11 +389,11 @@ The most tempting wrong option is D ($6.0^\circ$), which comes from the mistake 
 **Answer: A.**
 1. State the knowns: Concave lens $f = -10\text{ cm}$, $u = 15\text{ cm}$, $h_o = 5\text{ cm}$.
 2. Find $v$ using the lens formula: $\frac{1}{v} = \frac{1}{-10} - \frac{1}{15}$.
-3. Find a common denominator ($30$): $\frac{1}{v} = \frac{-3}{30} - \frac{2}{30} = \frac{-5}{30\text{ cm}^{-1}}$.
+3. Find a common denominator ($30$): $\frac{1}{v} = \frac{-3}{30} - \frac{2}{30} = \frac{-5}{30}\text{ cm}^{-1}$.
 4. Invert to find $v$: $v = \frac{-30}{5} = -6\text{ cm}$.
 5. Find the linear magnification: $m = \frac{|v|}{u} = \frac{6}{15} = 0.4$.
 6. Calculate image height: $h_i = m \times h_o = 0.4 \times 5\text{ cm} = 2.0\text{ cm}$.
-The most tempting wrong option is C ($7.5\text{ cm}$), which comes from incorrectly using a positive focal length ($f = +10\text{ cm}$), which would give $v = 30\text{ cm}$, $m = 2$, and $h_i = 10\text{ cm}$, or a similar sign error leading to a magnified result.
+The most tempting wrong option is D ($10.0\text{ cm}$), which comes from incorrectly using a positive focal length ($f = +10\text{ cm}$), which would give $v = 30\text{ cm}$, $m = 2$, and $h_i = 10\text{ cm}$.
 
 **9. At the position of minimum deviation in a triangular glass prism, the light ray passes symmetrically. Which of the following conditions is mathematically true?**
 - A. $i = A$

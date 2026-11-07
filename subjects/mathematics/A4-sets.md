@@ -379,7 +379,7 @@ A class has $50$ students. $25$ offer Economics ($E$), $22$ offer Government ($G
 2. List the elements of $Q$ (odd numbers in $U$): $Q = \{1, 3, 5, 7, 9\}$.
 3. Find the intersection $P \cap Q$ (elements in both $P$ and $Q$): $\{3, 5, 7\}$.
 4. Find the complement $(P \cap Q)'$, which is everything in $U$ except $\{3, 5, 7\}$. The result is $\{1, 2, 4, 6, 8, 9, 10\}$.
-5. Option B is a distractor based on a common mistake: assuming $1$ is a prime number and including it in $P \cap Q$, which would incorrectly remove it from the final complement.
+5. Option D is a distractor based on a common mistake: assuming $1$ is a prime number, so $1$ is wrongly included in $P \cap Q$ and removed from the final complement, giving $\{2, 4, 6, 8, 9, 10\}$.
 
 **4. If $A$ and $B$ are disjoint sets, which of the following is true regarding their cardinality?**
 

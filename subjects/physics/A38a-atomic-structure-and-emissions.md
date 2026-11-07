@@ -151,7 +151,7 @@ Energy can be supplied to these electrons in different ways.
 | **Source of Energy** | **Heat energy** (thermal energy). | **Light energy** (electromagnetic radiation/photons). |
 | **Mechanism** | A metal filament is heated, giving electrons enough kinetic energy to vibrate forcefully and escape the surface. | Photons of light strike the metal surface, transferring their energy to the electrons to knock them out. |
 | **Key Requirement** | The temperature must be high enough to provide energy greater than the work function. | The frequency of the light must be greater than the metal's **threshold frequency ($f_0$)**. |
-| **Typical Metal Used** | Tungsten (because of its high melting point) often coated with barium oxide to lower the work function. | Alkali metals like zinc, sodium, or potassium (because they naturally have low work functions). |
+| **Typical Metal Used** | Tungsten (because of its high melting point) often coated with barium oxide to lower the work function. | Metals with low work functions, such as the alkali metals sodium and potassium (zinc also works, but needs ultraviolet light). |
 | **Emission Rate depends on** | The temperature of the filament. | The intensity (brightness) of the incident light. |
 
 ## 5. Photoelectric Physics
@@ -388,7 +388,7 @@ When an unstable nucleus decays, it emits one or more of these radiations:
 1. Energy difference $\Delta E = 4.8 - 1.5 = 3.3\ \text{eV}$.
 2. Convert to Joules: $3.3 \times 1.6 \times 10^{-19} = 5.28 \times 10^{-19}\ \text{J}$.
 3. Calculate frequency: $f = \frac{\Delta E}{h} = \frac{5.28 \times 10^{-19}}{6.6 \times 10^{-34}} = 8.0 \times 10^{14}\ \text{Hz}$.
-(A common mistake is failing to convert eV to Joules before dividing by $h$).
+(Option C ($8.0 \times 10^{15}\ \text{Hz}$) comes from a power-of-ten slip in the conversion, using $10^{-18}\ \text{J}$ instead of $10^{-19}\ \text{J}$ for each eV.)
 
 **3. Which of the following statements differentiates thermionic emission from photoelectric emission?**
 - A. Thermionic emission releases protons, while photoelectric emission releases electrons.
@@ -429,7 +429,7 @@ When an unstable nucleus decays, it emits one or more of these radiations:
 **Answer: B.**
 1. Max energy $E_{\text{max}} = eV = (1.6 \times 10^{-19}) \times 33,000 = 5.28 \times 10^{-15}\ \text{J}$.
 2. Maximum frequency $f_{\text{max}} = \frac{E_{\text{max}}}{h} = \frac{5.28 \times 10^{-15}}{6.6 \times 10^{-34}} = 8.0 \times 10^{18}\ \text{Hz}$.
-(A common mistake is omitting $h$ entirely when calculating the answer).
+(Option D ($8.0 \times 10^{19}\ \text{Hz}$) comes from a power-of-ten slip in $E = eV$, for example using $330,000\ \text{V}$ instead of $33,000\ \text{V}$.)
 
 **7. The hardness of X-rays produced in a Coolidge tube is controlled by varying the**
 - A. heating current of the filament.

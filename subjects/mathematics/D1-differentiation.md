@@ -321,7 +321,7 @@ Find $\frac{dy}{dx}$ if $y = x \cos x$.
 1. Direct substitution gives $\frac{2(-3)^2 + 5(-3) - 3}{-3 + 3} = \frac{18 - 15 - 3}{0} = \frac{0}{0}$, so we must factorise.
 2. Factorise the numerator: we need two numbers that multiply to $2 \times -3 = -6$ and add to $5$. They are $6$ and $-1$. So $2x^2 + 5x - 3 = 2x^2 + 6x - x - 3 = 2x(x + 3) - 1(x + 3) = (2x - 1)(x + 3)$.
 3. Rewrite the limit: $\lim_{x \to -3} \frac{(2x - 1)(x + 3)}{x + 3}$, then cancel $(x + 3)$ to get $\lim_{x \to -3} (2x - 1)$.
-4. Substitute $x = -3$: $2(-3) - 1 = -6 - 1 = -7$. Option A ($7$) comes from a sign error when substituting.
+4. Substitute $x = -3$: $2(-3) - 1 = -6 - 1 = -7$. Option A ($7$) comes from ignoring the negative sign in the final answer.
 
 **4. Find the derivative of $y = 3x^4 - 2x^3 + 5x - 7$.**
 

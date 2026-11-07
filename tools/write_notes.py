@@ -206,7 +206,8 @@ def evaluate(subject, entry, raw, finish, code_runs, ctx, args):
         warnings.append("no code execution run (the independent verifier will recompute the numbers)")
     if finish != "STOP":
         problems.insert(0, f"output stopped early ({finish}); the file is truncated or too long. Be complete but efficient.")
-    if problems and all(p.startswith("COVERAGE map") for p in problems):
+    is_cov = lambda p: p.startswith("COVERAGE map") or p.startswith("every objective needs its OWN heading")
+    if problems and all(is_cov(p) for p in problems):
         fixed = repair_coverage(subject, entry, text, ctx, args)
         if fixed:
             clean2, problems2 = nc.check_notes(fixed, entry, math=ctx["code_required"], code_runs=None)

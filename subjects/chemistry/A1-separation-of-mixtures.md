@@ -74,7 +74,7 @@ A **chemical change** is a change in which **one or more entirely new substances
 - **Examples:** 
   - Rusting of iron roofs (iron reacts with oxygen and moisture to form hydrated iron(III) oxide).
   - Burning of firewood.
-  - Souring of palm wine (bacteria ferment sugars into acetic acid, a new substance).
+  - Souring of palm wine (bacteria oxidise the ethanol in the wine to ethanoic (acetic) acid, a new substance).
   - Digestion of food.
 
 | Feature | Physical Change | Chemical Change |
@@ -130,7 +130,7 @@ The most reliable criteria for testing the purity of a substance are its melting
 #### Worked Examples on Purity Criteria
 
 **1. Interpreting Melting Point Data**
-**Question:** A student tests three samples of solid sulfur. Sample X melts sharply at exactly $115.2\ ^\circ\text{C}$. Sample Y melts between $110.0\ ^\circ\text{C}$ and $114.5\ ^\circ\text{C}$. Which sample is pure and why?
+**Question:** A student tests two samples of solid sulfur. Sample X melts sharply at exactly $115.2\ ^\circ\text{C}$. Sample Y melts between $110.0\ ^\circ\text{C}$ and $114.5\ ^\circ\text{C}$. Which sample is pure and why?
 **Working:**
 1. State the rule for purity: A pure solid has a sharp, constant melting point. An impure solid melts over a broad temperature range and at a lower temperature.
 2. Calculate the temperature range for Sample X: $\Delta T = 115.2\ ^\circ\text{C} - 115.2\ ^\circ\text{C} = 0.0\ ^\circ\text{C}$ (Sharp).
@@ -306,7 +306,7 @@ Below is a detailed step-by-step breakdown of the 13 separation processes named 
 4. Calculate the percentage of iron: $\frac{25.0\text{ g}}{40.0\text{ g}} \times 100\% = 62.5\%$.
 The most tempting wrong option is A. This mistake happens if you incorrectly calculate the percentage of the remaining sulfur ($15.0\text{ g}$) instead of the extracted iron.
 
-**2. The melting of ice into water is a physical change where total mass is conserved. If a $25.0\text{ cm}^3$ block of ice melts completely into liquid water (density $= 1.00\text{ g cm}^{-3}$) and the liquid water formed has a mass of $25.0\text{ g}$, what was the original mass of the ice block?**
+**2. The melting of ice into water is a physical change where total mass is conserved. If a block of ice melts completely into liquid water and the liquid water formed has a mass of $25.0\text{ g}$, what was the original mass of the ice block?**
 
 - A. $27.2\text{ g}$
 - B. $25.0\text{ g}$
@@ -317,7 +317,7 @@ The most tempting wrong option is A. This mistake happens if you incorrectly cal
 1. Recall the law of conservation of mass for a physical change: mass of reactants = mass of products.
 2. The mass of the liquid water product formed is directly given as $25.0\text{ g}$.
 3. Therefore, the original mass of the solid ice block must exactly equal the mass of the liquid water: $25.0\text{ g}$.
-The most tempting wrong option is A. This mistake happens if you mistakenly divide the original volume ($25.0\text{ cm}^3$) by the density of ice (approx $0.92\text{ g cm}^{-3}$) instead of recognizing that mass is directly conserved and already provided.
+The most tempting wrong option is A. This mistake happens if you divide the mass of the water ($25.0\text{ g}$) by the density of ice (approximately $0.92\text{ g cm}^{-3}$), which gives $27.2$, instead of recognising that mass is conserved in a physical change.
 
 **3. A student tests a $10.0\text{ g}$ sample of a solid substance to check its purity. The substance begins to melt at $112.0\ ^\circ\text{C}$ and completely melts at $117.0\ ^\circ\text{C}$. What is the melting temperature range ($\Delta T$) that indicates this is an impure mixture?**
 

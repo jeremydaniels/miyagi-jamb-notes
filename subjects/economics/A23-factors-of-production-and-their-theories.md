@@ -27,7 +27,7 @@ By the end of these notes, you should be able to:
 
 Production is the process of creating goods and services to satisfy human wants. For production to take place, certain resources must be combined. These resources are called the **factors of production**.
 
-In classical Economics, there are four factors of production: **Land, Labour, Capital, and the Entrepreneur (Enterprise)**. Each factor has unique features and receives a specific reward for its contribution to production.
+In most modern textbooks there are four factors of production (some classical economists, such as Adam Smith and David Ricardo, listed only three: land, labour and capital): **Land, Labour, Capital, and the Entrepreneur (Enterprise)**. Each factor has unique features and receives a specific reward for its contribution to production.
 
 ### 1. Land
 In Economics, "land" does not just mean the ground we walk on or build houses on. It refers to all **free gifts of nature** used in production. This includes agricultural soil, mineral resources (like crude oil in the Niger Delta, tin in Jos, limestone in Ogun State), forests, water bodies, and the climate.

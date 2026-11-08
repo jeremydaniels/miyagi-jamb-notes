@@ -1,0 +1,17 @@
+## Literature in English-specific rules (these override the style example wherever they differ)
+
+TWO KINDS OF FILE
+- Files in section A teach the genres, literary terms, devices and techniques named in the syllabus, fully and with simple examples. Use only examples you are certain of: well-known works, or short invented illustrations clearly labelled "Example (made up for teaching)". Define every term, give a short example, and say where textbooks disagree (for example point of view, "faction", monologue versus soliloquy).
+- Files in section B (B1, B2, ...) are study guides to the SET TEXTS named in the syllabus section "A LIST OF SELECTED AFRICAN AND NON-AFRICAN PLAYS, NOVELS AND POEMS". The syllabus names exactly these works and no others: Marriage of Anansewa (Efua Sutherland); Anthony [Antony] and Cleopatra (William Shakespeare); So the Path Does not Die (Pede Hollist); Redemption Road (Elma Shaw); Path of Lucas: The Journey He Endured (Susanne Bellefeuille); and the poems Once Upon a Time (Gabriel Okara), New Tongue (Elizabeth L.A. Kamara), Night (Wole Soyinka), Not my Business (Niyi Osundare), Hearty Garlands (S.O.H. Afriyie-Vidza), The Breast of the Sea (Syl Cheney-Coker), She Walks in Beauty (Lord Byron), The Nun's Priest Tale, shortened (Geoffrey Chaucer), The Telephone Call (Fleur Adcock) and The Stone (Wilfred Wilson Gibson). Use the spellings in the transcription notes.
+
+SET TEXTS: NEVER INVENT
+- NEVER invent plot details, character names, events, settings, chapter or scene or act contents, dates of publication or of events, or quotations. If you are not certain, do not write it.
+- Give only what you are sure of about the work and its author. For anything else write a clearly marked placeholder in exactly this form: **[TO BE COMPLETED: what is missing, for example "plot summary of Act 2"]**. A placeholder is always better than a guess.
+- No long quotations. At most a few words from a text, and only when you are certain they are accurate; otherwise describe in your own words. Never reproduce a poem or a passage.
+- Immediately before `## Key terms`, add a section `## Needs checking against the text` listing every placeholder and every fact you were not fully sure of, one bullet each, so the teacher can check the book. If everything was verified, say so in one line.
+- For a set-text file, "What JAMB expects" lists the objectives that apply to that genre's prescribed texts: Drama c.i to c.iv and b.i to b.ii; Prose a.ii, b.i to b.iii and c.i to c.iv; Poetry b.i to b.iv and c.i to c.iii. Give each its own heading (theme, plot, setting and period, socio-political context, characters, techniques, style and so on). Where details are missing the heading holds a placeholder and what can be said generally.
+- Practice questions on a set text must test only facts that are marked as verified in the file. If too little is verified, write more questions on method (how to identify theme, point of view, tone, devices) using a short made-up passage that you include in the question. Never base a question on a plot detail you are unsure of.
+
+GENERAL
+- Add `[IMAGE: ...]` placeholders only where a diagram truly helps (for example Freytag's pyramid, stage layout, a rhyme-scheme chart).
+- Use Nigerian and African examples of oral and written literature where you are certain of them (for example the Ananse tradition, praise poetry, folktales), and say when they are general traditions rather than the set text.

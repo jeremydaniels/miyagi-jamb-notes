@@ -25,11 +25,39 @@ def topic_blocks(syllabus):
     return out
 
 
+_SKIP_SECTIONS = ("general objectives", "detailed syllabus", "recommended texts", "transcription notes")
+
+
+def extra_blocks(syllabus):
+    """`##` sections that have no `###` topics inside (for example Literature's list of selected
+    texts). A plan entry may name one of these as its topic_heading. Returns (heading, text)."""
+    lines = syllabus.splitlines()
+    out, i = [], 0
+    while i < len(lines):
+        m = H.match(lines[i])
+        if m and m.group(1) == "##":
+            j = i + 1
+            while j < len(lines) and not (H.match(lines[j]) and H.match(lines[j]).group(1) == "##"):
+                j += 1
+            body = lines[i:j]
+            has_topics = any(H.match(l) and H.match(l).group(1) == "###" for l in body)
+            name = m.group(2).strip()
+            if not has_topics and not name.lower().startswith(_SKIP_SECTIONS):
+                out.append((name, "\n".join(l for l in body if l.strip() != "---").strip()))
+            i = j
+            continue
+        i += 1
+    return out
+
+
 def find_topic(syllabus, heading):
     heading = heading.strip()
     for sec, h, text in topic_blocks(syllabus):
         if h == heading:
             return sec, text
+    for h, text in extra_blocks(syllabus):
+        if h == heading:
+            return h, text
     return None, None
 
 
@@ -71,7 +99,7 @@ def check_plan(files, syllabus):
         f["topic_heading"] = f["topic_heading"].strip()
         if not re.match(r"^[A-Z]\d+[a-z]?-[a-z0-9-]+\.md$", f["file"]):
             problems.append(f"bad file name: {f['file']}")
-        if f["topic_heading"] not in headings:
+        if f["topic_heading"] not in headings and f["topic_heading"] not in [h for h, _ in extra_blocks(syllabus)]:
             problems.append(f"{f['file']}: topic_heading not found in syllabus: {f['topic_heading']!r}")
         used.add(f["topic_heading"])
     for h in headings:

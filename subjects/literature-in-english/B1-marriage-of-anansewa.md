@@ -16,215 +16,209 @@ By the end of these notes, you should understand the storyline, the characters, 
 
 ## About the Author
 
-**Efua Theodora Sutherland** (1924–1996) was a famous Ghanaian playwright, director, and cultural activist. She was a pioneer of modern African theatre and the founder of the Ghana Drama Studio. She worked hard to create a type of theatre that was truly African, mixing Western stage drama with traditional African storytelling, music, and dance. *The Marriage of Anansewa* is her most famous play.
+**Efua Theodora Sutherland** (born 27 June 1924 in Cape Coast, died 21 January 1996 in Accra; one source gives a different day in January, so quote only the year if unsure) was a Ghanaian playwright, director and cultural activist. She founded the Ghana Experimental Theatre in 1958, which became the Ghana Drama Studio. She worked to build a theatre that was truly African, drawing on traditional storytelling, music and performance. *The Marriage of Anansewa* (1975) is a comedy and is regarded as one of her most important contributions to Ghanaian drama.
 
 ## Techniques and Style (Drama objective c.iv)
 
-The style of this play is its most important feature. Efua Sutherland did not write a standard Western play; she invented a new theatrical form called **Anansegoro**.
+The style of this play is its most important feature. Sutherland described her form as **Anansegoro**.
 
 ### Anansegoro and Anansesem
-In traditional Akan (Ghanaian) culture, **Anansesem** means "spider tales." These are folktales about Kweku Ananse, the cunning trickster spider who uses his brain to outwit bigger animals. 
-
-Sutherland adapted this tradition for the modern stage, calling the new form **Anansegoro** (spider play). In Anansegoro, the play is presented as a community storytelling event.
+**Anansesem** are the traditional Akan stories about Ananse, the spider-man trickster. **Anansegoro** is the dramatic form that turns those stories into stage plays. The play is presented like a storytelling event, with a Storyteller who tells the tale to an audience.
 
 ### Key Dramatic Techniques
-- **The Storyteller:** The play is guided by a narrator called the Storyteller. He introduces the play, comments on the actions of the characters, and bridges the gap between the actors and the audience. He often breaks the "fourth wall" (speaking directly to the audience).
-- **The Property Man:** He sits on stage and hands props to the actors as they need them. This reminds the audience that they are watching a performance, not real life.
-- **Mboguo (Musical Interludes):** The play is interrupted by *Mboguo*—songs and dances performed by a musical group on stage. The songs comment on the plot, give the actors time to change costumes, and involve the audience. Sometimes, a character will call for an *Mboguo* to express their feelings.
-- **Mime:** Actors sometimes use mime (acting without speaking, using only body movements) to show actions, such as Ananse typing his letters or making his plans.
-- **Play-within-a-play:** Because the characters know they are in a story (especially Ananse, who "spins his web" like a director), the play feels like a performance within a performance.
+- **The Storyteller:** He comments on the action, speaks to the audience and moves between speech and song.
+- **The Players and the Property Man:** The Players act out the story. The Property Man is a reminder that this is a story being performed, not real life. This supports the Anansegoro style.
+- **Mboguo (music and songs):** In Anansegoro, *mboguo* is the music sung or played during the storytelling to arouse and keep the audience's interest. In the play it is used often as interludes and sometimes helps move the plot along, giving the play the feel of a music drama. One scholarly article says the play opens with *mboguo* as the cast is ushered in.
+- **Audience involvement:** Because of the storytelling frame, the audience is treated as part of the event.
+- **Comedy and satire:** The play is a comedy with a happy ending, not a tragedy.
 
-[IMAGE: A stage layout for an Anansegoro performance. In the center, two actors are performing a scene. On the far left, a Storyteller stands facing the audience with an expressive gesture. On the right, a seated Property Man is casually handing a prop (like a hat or a walking stick) to one of the actors. In the background, a small group of musicians is playing traditional Ghanaian drums and singing (performing Mboguo). Labels to add later: "Storyteller (narrates and comments)", "Main Actors", "Property Man (hands out props)", "Musicians performing Mboguo". Clean flat textbook style, white background.]
+**[TO BE COMPLETED: exact stage directions for how the Property Man is used, and the exact role of the Players, from the prescribed edition]**
+
+[IMAGE: A simple stage layout for an Anansegoro storytelling performance. A Storyteller stands at the front facing the audience. Players act a scene in the middle. A Property Man sits at the side with a few props. A small group of musicians sings and plays drums. Clean flat textbook style, white background, no text or labels.]
 
 ## Plot Summary (Drama objective b.i)
 
-The plot follows a classic trickster structure: the scheme, the crisis, and the clever escape.
+### Verified plot points (agreed by several study guides)
+- Ananse is a schemer who wants to use his daughter Anansewa's beauty to improve his own fortunes while also securing a good marriage for her.
+- He sends a photograph of Anansewa to four wealthy chiefs and invites each to ask formally for her hand, without telling any of them about the other three.
+- Each chief sends gifts and support, and one summary says Chief-Who-Is-Chief pays Anansewa's school fees.
+- Each chief fixes a date for the customary head-drink ceremony, which establishes the marriage, and all four choose the same day. This creates a crisis for Ananse.
+- Ananse solves it by getting Anansewa to pretend to be dead. She plays the corpse convincingly.
+- Christie, who is in charge of receiving the chiefs' messengers, helps with the mock funeral.
+- The messengers of the chiefs arrive for the funeral. The Chief of the Mines and Chief Sapaase's messengers show that they do not care deeply for her. Togbe Klu IV's messengers show that their chief truly loved her and is grieved. Chief-Who-Is-Chief's messengers come last and say their chief accepts full responsibility for her funeral. One source says they bring a wedding ring, showing he meant to marry her even in death.
+- Anansewa then "wakes", saying she heard Chief-Who-Is-Chief calling her, and she marries him.
 
-### The Scheme (The Web)
-George Kweku Ananse is a poor man. It is raining, and his roof is leaking. His beautiful daughter, Anansewa, is about to be sent home from her secretarial school because her school fees are unpaid. **[TO BE COMPLETED: exact name of Anansewa's secretarial school]**. 
+**[TO BE COMPLETED: the order of events act by act (the play has act summaries online for Acts 1 to 4, but the act and scene breakdown has not been confirmed against the printed text)]**
 
-To escape poverty and pay the fees, Ananse hatches a brilliant but deceitful plan. He takes beautiful photographs of Anansewa and sends them, through messengers, to four wealthy chiefs: the Chief of Sapa, the Chief of Akate, the Chief of Sanya, and the Chief of the Mines. **[TO BE COMPLETED: verify exact spelling of the chiefs' names in the prescribed edition]**.
+**[TO BE COMPLETED: exact reactions of each set of messengers and the exact gifts they bring, from the prescribed edition]**
 
-Without directly promising her to any of them, Ananse uses sweet words and traditions to make each chief believe Anansewa will become his wife. In return, the chiefs send "maintenance" (gifts and money) to support their future bride. 
-
-Ananse becomes rich. He buys new clothes, fixes his house, pays Anansewa's school fees, and hires helpers, including his fashionable friend Christie.
-
-### The Crisis
-Anansewa is initially angry that her father is "selling" her like an item in a market. Ananse calms her down by explaining it is a trick to find her the best possible husband, and she eventually agrees to cooperate.
-
-The scheme works too well. All four chiefs are so impressed by Anansewa's beauty and Ananse's letters that they all decide to come to Ananse's house to perform the final marriage rites (the head-drink ceremony) on the exact same day. Ananse is trapped. If all four chiefs arrive at once, his trick will be exposed, and he will be disgraced and ruined.
-
-### The Solution (Faking Death)
-Ananse spins his final web. He convinces Anansewa to pretend to be dead. He spreads the tragic news that Anansewa has died suddenly of a mysterious illness. 
-
-When the messengers from the four chiefs arrive for the "funeral," Ananse tests their true intentions:
-- The messengers of three of the chiefs show no real sympathy. They are only concerned about the money their chiefs spent and demand it back, proving they did not truly love Anansewa.
-- The messengers from the Chief of Sapa (also called Chief-Who-Is-Chief), however, show genuine grief. They bring generous funeral gifts and express that their chief considered Anansewa his wife, even in death. **[TO BE COMPLETED: exact gifts brought by the Chief of Sapa's messengers during the funeral scene]**.
-
-Seeing that the Chief of Sapa is generous, wealthy, and truly cares, Ananse declares him the winner. Ananse then performs a fake, dramatic ritual. He pours libation and calls on the ancestors to "wake Anansewa up" to reward the Chief of Sapa for his true love. Anansewa "resurrects," and Ananse proudly gives her to the Chief of Sapa, having successfully outwitted the other three chiefs and secured a bright future for his daughter.
+**[TO BE COMPLETED: how and why Anansewa agrees to the scheme, and how the other chiefs' claims are settled at the end]**
 
 ## Characters (Drama objective b.ii)
 
-### George Kweku Ananse
-He is the protagonist of the play, based on the traditional spider trickster of Akan folklore. He is cunning, manipulative, and highly intelligent. Although he deceives the chiefs and exploits traditional marriage customs for financial gain, he is not truly evil. He is a loving father who is desperately trying to secure a good future for his daughter and escape the miseries of poverty. He is a master of language and persuasion.
+### Ananse
+The protagonist, based on the trickster Ananse of Akan folk tales. He is very cunning. He has two aims that sometimes conflict: to find a husband for his daughter and to improve his own money and social position. One guide describes him as a widower.
 
 ### Anansewa
-She is Ananse’s beautiful, educated daughter. She represents the modern African girl who goes to school (learning typing and shorthand) but is still tied to traditional expectations. At first, she rebels against being treated like an object for sale. However, once she understands her father's larger plan to find her a worthy husband, she becomes a willing participant, playing the role of a dead girl perfectly.
+Ananse's daughter and the title character. One guide calls her the heroine although her role is largely passive. She is obedient, but she understands the family's money problems and resists being used. She agrees to pretend to be dead and acts the part well.
 
-### Christie
-She is a fashionable, sophisticated woman and a close friend of Ananse. She acts as his hostess, accomplice, and hype-woman. She helps manage the messengers when they arrive and supports Ananse's lies. She is secretly hoping that by helping Ananse become wealthy, she will become his wife.
+### Christie (Christina Yamoah)
+She runs an institute for prospective brides, and Ananse hires her to prepare Anansewa for marriage. She is devoted to Ananse and is essential in the mock funeral, where she receives the chiefs' messengers. She is not Anansewa's mother.
 
-### The Storyteller
-He is the voice of the community and the narrator. He watches Ananse's tricks, sometimes laughing at him and sometimes judging him. He manages the audience's reactions and controls the flow of the play, frequently calling for *Mboguo* (songs) to set the mood.
+### Aya and Ekuwa
+One guide names Aya as Ananse's mother and Ekuwa as his aunt. Aya is wary of Christie and thinks Christie's interest in helping is because of Ananse himself. Ekuwa is described as accommodating.
+
+### The Storyteller, the Players and the Property Man
+The Storyteller narrates and comments on the action. The Players act the story. The Property Man reminds the audience that it is a performance.
 
 ### The Four Chiefs
-They never appear on stage themselves; they act through their messengers.
-- **The Chief of Sapa (Chief-Who-Is-Chief):** The ideal husband. He represents true nobility, generosity, and genuine affection, passing Ananse's final test.
-- **The Chief of the Mines, Chief of Akate, Chief of Sanya:** They represent ostentatious (showy) wealth without true care. They see Anansewa merely as an object they have paid for.
+They are known through their messengers. Study guides name them as Chief-Who-Is-Chief (the eventual husband), Chief Sapaase, Togbe Klu IV (identified as Chief of Akate by one source), and the Chief of the Mines. Spellings vary between sources.
+
+**[TO BE COMPLETED: confirm the exact names and spellings of the four chiefs and the names of their messengers in the prescribed edition]**
 
 ## Theme (Drama objective c.i)
 
-### 1. The Commercialization of Marriage
-The most prominent theme is how traditional marriage customs (like the bride price and maintenance) can be corrupted by greed. Ananse uses the sacred tradition of engagement as a business scheme to make money. The play satirizes (makes fun of) how parents sometimes view their daughters as investments to be sold to the highest bidder.
-
-### 2. Cunning, Wit, and Survival
-Like the spider in the folktales, Ananse uses his brain to survive. The theme of cunning shows that in a difficult economic environment, intelligence and manipulation are tools for survival. Ananse is physically weak and poor, but he outwits powerful, wealthy chiefs using only photographs and clever words.
-
-### 3. Love and Parental Responsibility
-Despite his greed, Ananse genuinely loves his daughter. His ultimate goal is to pay her school fees and find her a husband who will treat her well. The play explores the tension between a parent's duty to protect their child and the temptation to use them for financial gain.
-
-### 4. Tradition versus Modernity
-The play blends traditional African values with modern ambitions. Anansewa is a modern girl getting a Western education, but she is still subject to traditional matchmaking. Ananse uses a modern tool (a camera/photographs) to manipulate an ancient tradition.
+Study guides agree on these themes. Check the examples against your own text.
+- **Marriage and greed:** Marriage customs are used for money and social gain. The play satirises this.
+- **Cunning and survival:** Ananse uses wit instead of strength, like the spider of the folktales.
+- **Tradition and modernity:** Ananse uses a modern tool, the photograph, and the head-drink custom, while his daughter is educated.
+- **True love and genuine care versus show:** The chief who accepts responsibility for the funeral is the one who wins.
+- **Parental responsibility:** Ananse wants both his own gain and a good husband for his daughter.
 
 ## Setting and Period (Drama objective c.ii)
 
-- **Physical Setting:** The action takes place in Ananse's home in Ghana. Initially, the home is dilapidated (the roof leaks), but as the chiefs' money comes in, the setting transforms into a wealthy, well-furnished home.
-- **Time Period:** The play is set in post-independence Ghana (around the 1960s or 1970s). This was a period when modern education, cash economies, and new professions (like secretaries) were clashing with traditional ways of life.
+- **Place:** Ghana. The play is an Akan-based story set in a Ghanaian community.
+- **Period:** The play was published in 1975 and is set in a modern Ghana in which traditional customs exist alongside schooling and modern services.
+
+**[TO BE COMPLETED: exact location of the action and the stage description of Ananse's house from the prescribed edition]**
 
 ## Socio-political Context (Drama objective c.iii)
 
-*The Marriage of Anansewa* was written during a time of rapid social change in West Africa. 
-- **Economic hardship:** The gap between the very rich (the chiefs) and the struggling masses (Ananse) was widening. People were desperate to find ways to move up in society.
-- **Changing roles of women:** Women were beginning to enter the modern workforce (typists, secretaries), yet traditional patriarchal systems still dictated that their ultimate success depended on marrying a wealthy man.
-- **Cultural nationalism:** Politically, African writers like Efua Sutherland were trying to decolonize literature. Instead of writing plays that copied Shakespeare or Ibsen, Sutherland created Anansegoro to show that African oral traditions could be adapted into modern, world-class theatre.
+- Sutherland worked to build a theatre rooted in African storytelling, which was part of a wider cultural movement in newly independent Ghana.
+- The play shows the pressure of money on marriage customs and the changing position of educated young women.
+
+**[TO BE COMPLETED: any specific political reading (for example, allegorical readings that link Ananse to a national leader) must be confirmed; one source gives such a reading but it is not agreed by others]**
 
 ## Needs checking against the text
-*The facts below are highly likely but must be verified against the exact prescribed edition of the book before the exam to ensure absolute accuracy in minor details.*
-- **[TO BE COMPLETED: exact name of Anansewa's secretarial school]**
-- **[TO BE COMPLETED: verify exact spelling of the chiefs' names in the prescribed edition, e.g., Sapa, Sanya, Akate, Mines]**
-- **[TO BE COMPLETED: exact gifts brought by the Chief of Sapa's messengers during the funeral scene]**
+*The facts below could not be confirmed from the sources available and must be checked against the prescribed edition before the exam.*
+- **[TO BE COMPLETED: act and scene order of events]**
+- **[TO BE COMPLETED: exact names and spellings of the four chiefs and their messengers]**
+- **[TO BE COMPLETED: reactions and gifts of each set of messengers]**
+- **[TO BE COMPLETED: how Anansewa agrees to the scheme, and the ending's treatment of the other chiefs]**
+- **[TO BE COMPLETED: stage directions for the Property Man and the exact role of the Players]**
+- **[TO BE COMPLETED: exact location of the action and house description]**
+- **[TO BE COMPLETED: any political reading of the play]**
 
 ## Key terms
 
 | Term | Meaning |
 | --- | --- |
-| Anansegoro | A dramatic form created by Efua Sutherland, based on the African storytelling tradition of the spider trickster. |
-| Anansesem | Traditional Akan spider tales. |
-| Mboguo | Musical interludes (songs and dances) used in the play to comment on the action or break up scenes. |
-| Storyteller | A narrator character who guides the play, talks to the audience, and links the scenes. |
-| Property Man | A stagehand who sits on stage and hands props to actors, emphasizing that the play is a performance. |
-| Bride price / Head-drink | Traditional gifts or money given by a groom to the bride's family to formalize a marriage. |
+| Anansegoro | Sutherland's dramatic form that turns Ananse stories into stage plays. |
+| Anansesem | The traditional Akan stories about Ananse the spider-man. |
+| Mboguo | Music and songs performed during the storytelling, used often as interludes. |
+| Storyteller | The figure who tells and comments on the story and speaks to the audience. |
+| Property Man | A figure who reminds the audience that the story is being performed. |
+| Head-drink | The customary ceremony that establishes a marriage. |
 
 ## Exam tips and common mistakes
 
-- **Do not confuse Anansegoro with Anansesem:** *Anansesem* refers to the traditional folktales themselves. *Anansegoro* is the modern theatrical stage style Efua Sutherland created based on those tales.
-- **The play is not a tragedy:** Although Ananse fakes his daughter's death and there is a "funeral," the play is a comedy/satire with a happy ending.
-- **Understand the role of the Storyteller:** If an exam asks who bridges the gap between the audience and the play, it is the Storyteller.
-- **Remember the test of true love:** The Chief of Sapa wins Anansewa not just because he is wealthy, but because his messengers show genuine sympathy and bring generous funeral gifts when they believe she is dead, proving he valued her as a person.
-- **Christie is an accomplice, not the mother:** Do not confuse Christie for Anansewa's mother. Christie is Ananse's friend who hopes to marry him.
+- **Do not confuse Anansegoro with Anansesem:** Anansesem is the traditional tale; Anansegoro is the dramatic form.
+- **The play is a comedy:** Although a funeral is staged, it is a fake one and the ending is happy.
+- **The winner is Chief-Who-Is-Chief:** His messengers accept full responsibility for the funeral.
+- **Christie is not Anansewa's mother:** She runs a bridal institute and helps Ananse.
+- **Check names against your own edition:** Spellings of the chiefs' names vary between sources.
 
 ## Quick summary
 
-1. *The Marriage of Anansewa* is a play by Ghanaian playwright Efua Sutherland.
-2. It uses a unique storytelling style called *Anansegoro*, featuring a Storyteller, a Property Man, and musical interludes called *Mboguo*.
-3. George Kweku Ananse uses photographs of his daughter, Anansewa, to collect money from four wealthy chiefs, secretly implying she will marry all of them.
-4. He uses the money to pay her school fees and upgrade his lifestyle.
-5. When all four chiefs plan to arrive on the same day to claim their bride, Ananse fakes Anansewa's death to escape the crisis.
-6. The Chief of Sapa's messengers show genuine grief and bring funeral gifts, while the others just want their money back.
-7. Ananse performs a fake ritual to "resurrect" Anansewa and awards her to the Chief of Sapa, achieving his goal of wealth and a good marriage for his daughter.
-8. The play explores themes of the commercialization of marriage, cunning, parental responsibility, and the clash between tradition and modernity.
+1. *The Marriage of Anansewa* is a 1975 comedy by Ghanaian playwright Efua Sutherland.
+2. It is written in her Anansegoro form, which dramatises Ananse stories with a Storyteller and music.
+3. Ananse sends a photograph of his daughter Anansewa to four wealthy chiefs without telling any of them about the others.
+4. All four chiefs choose the same day for the head-drink ceremony.
+5. Ananse gets Anansewa to pretend to be dead.
+6. Christie helps receive the messengers at the mock funeral.
+7. Chief-Who-Is-Chief's messengers accept full responsibility for the funeral, and Anansewa marries him.
 
 ## Practice questions
 
-**1. The unique theatrical style Efua Sutherland uses in *The Marriage of Anansewa* is known as**
-- A. Tragedy
-- B. Anansesem
-- C. Anansegoro
-- D. Mboguo
+**1. The dramatic form Efua Sutherland created from Ananse stories is called**
+- A. Anansesem
+- B. Anansegoro
+- C. Mboguo
+- D. Head-drink
 
-**Answer: C.** Anansegoro is the theatrical form (spider play) created by Sutherland. Anansesem refers to the traditional folktales, and Mboguo refers to the musical interludes.
+**Answer: B.** Anansegoro is the dramatic form. Anansesem is the traditional story, and mboguo is the music.
 
-**2. Why does Ananse initiate his scheme with the four chiefs?**
-- A. He wants to buy a new car.
-- B. He wants to pay Anansewa's school fees and escape poverty.
-- C. He hates the chiefs and wants to embarrass them.
-- D. Anansewa asked him to find her four husbands.
+**2. Which chief eventually marries Anansewa?**
+- A. Chief-Who-Is-Chief
+- B. The Chief of the Mines
+- C. Chief Sapaase
+- D. Togbe Klu IV
 
-**Answer: B.** Ananse is broke, his roof is leaking, and he needs money to pay for Anansewa's secretarial school fees to secure their future.
+**Answer: A.** His messengers accept full responsibility for the funeral, and Anansewa marries him.
 
-**3. The character who acts as a link between the actors and the audience is the**
-- A. Property Man
-- B. Storyteller
-- C. Chief of Sapa
-- D. Christie
+**3. What is *mboguo* in Anansegoro?**
+- A. The photograph of Anansewa
+- B. The music and songs performed during the telling
+- C. A kind of marriage payment
+- D. A chief's messenger
 
-**Answer: B.** The Storyteller guides the narrative, comments on the action, and frequently breaks the fourth wall to talk to the audience.
+**Answer: B.** Mboguo is the music sung or played to arouse and keep the audience's interest.
 
-**4. How does Ananse resolve the crisis of all four chiefs arriving on the same day?**
-- A. He runs away to another village.
-- B. He bribes the messengers.
-- C. He convinces Anansewa to pretend to be dead.
-- D. He tells the chiefs the truth and begs for mercy.
+**4. What problem do the four chiefs cause for Ananse?**
+- A. They all choose the same day for the head-drink ceremony.
+- B. They refuse to pay school fees.
+- C. They all reject Anansewa.
+- D. They take Anansewa away.
 
-**Answer: C.** Ananse "spins his web" by faking Anansewa's death so he can cancel the marriage ceremonies and test the chiefs' true intentions.
+**Answer: A.** Ananse cannot satisfy four chiefs at once, so he stages Anansewa's pretend death.
 
-**5. What are *Mboguo* in the context of the play?**
-- A. Traditional African drums
-- B. Musical interludes and songs that comment on the action
-- C. The photographs Ananse sends to the chiefs
-- D. The messengers sent by the chiefs
+**5. Ananse solves his problem by**
+- A. running away
+- B. having Anansewa pretend to be dead
+- C. paying the chiefs back
+- D. sending Anansewa abroad
 
-**Answer: B.** Mboguo are the songs, dances, and musical interludes performed during the play to reflect on the plot and engage the audience.
+**Answer: B.** Anansewa acts as a corpse so that the chiefs' sincerity can be seen.
 
-**6. Which of the chiefs ultimately wins Anansewa's hand in marriage?**
-- A. The Chief of the Mines
-- B. The Chief of Akate
-- C. The Chief of Sanya
-- D. The Chief of Sapa
+**6. Which of these is a feature of Anansegoro?**
+- A. A Storyteller who speaks to the audience
+- B. No music at all
+- C. A tragic ending
+- D. Only one actor
 
-**Answer: D.** The Chief of Sapa (Chief-Who-Is-Chief) wins because his messengers show true sympathy and bring gifts for her "funeral," proving his genuine care.
+**Answer: A.** The Storyteller comments on the action and speaks to the audience.
 
-**7. Anansewa’s attitude toward her father's scheme at the very beginning of the play is best described as**
-- A. enthusiastic and greedy.
-- B. angry and rebellious.
-- C. confused and indifferent.
-- D. joyful and supportive.
+**7. Who is Christie in the play?**
+- A. Anansewa's mother
+- B. A chief
+- C. A woman who runs a bridal institute and helps Ananse
+- D. The Storyteller
 
-**Answer: B.** Initially, Anansewa is angry that her father is treating her like an object for sale, but she agrees to help once she understands his ultimate goal.
+**Answer: C.** Christie prepares Anansewa for marriage and helps with the mock funeral.
 
-**8. Who is Christie in the play?**
-- A. Anansewa's strict school teacher
-- B. One of the chiefs' messengers
-- C. Ananse's sophisticated friend and accomplice
-- D. Ananse's deceased wife
+**8. The play is best described as a**
+- A. tragedy
+- B. comedy
+- C. epic poem
+- D. historical chronicle
 
-**Answer: C.** Christie is Ananse's fashionable female friend who helps him execute his plans, hoping to eventually marry him.
+**Answer: B.** It is a comedy with a happy ending, even though a funeral is staged.
 
-**9. The play heavily criticizes which aspect of society?**
-- A. The importance of female education
-- B. The commercialization of traditional marriage customs
-- C. The use of traditional medicine
-- D. The building of modern secretarial schools
+**9. In the following passage, what technique is shown? "The Storyteller turns to the audience and says, 'Now, listen carefully to what Ananse does next.'"**
+- A. Direct address to the audience
+- B. Soliloquy
+- C. Flashback
+- D. Dramatic irony
 
-**Answer: B.** The play is a satire on how greed has corrupted traditional marriage practices, turning the bride price into a business transaction.
+**Answer: A.** The speaker talks straight to the audience, which is typical of a storyteller frame.
 
-**10. What role does the Property Man play in the performance?**
-- A. He narrates the story to the audience.
-- B. He plays the drums during the Mboguo.
-- C. He remains on stage to hand props to the actors.
-- D. He acts as the messenger for the Chief of Sapa.
+**10. What is the role of the Property Man?**
+- A. To remind the audience that the story is being performed
+- B. To play Ananse
+- C. To pay the chiefs
+- D. To marry Anansewa
 
-**Answer: C.** The Property Man sits on stage and openly hands out props to the actors, a technique that reminds the audience they are watching a theatrical performance.
+**Answer: A.** The Property Man and the Players remind the audience that this is a story being performed.
 
 <!-- COVERAGE
 obj b.i | Plot Summary (Drama objective b.i)

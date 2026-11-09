@@ -41,7 +41,7 @@ Soils are classified and understood through their physical and chemical properti
 * **Soil temperature:** Determines the rate of seed germination and the activity of soil microorganisms. Dark soils absorb more heat than light-coloured soils.
 
 **2. Chemical properties**
-* **Soil pH:** This is a measure of the acidity or alkalinity of the soil, measured on a scale from 1 to 14. A pH of 7 is neutral. Less than 7 is acidic, and more than 7 is alkaline. High rainfall areas often have acidic soils because soluble nutrients are washed away, while dry areas often have alkaline soils. Most crops thrive in slightly acidic to neutral soils (pH 6.0 to 7.5).
+* **Soil pH:** This is a measure of the acidity or alkalinity of the soil, measured on a scale from 0 to 14. A pH of 7 is neutral. Less than 7 is acidic, and more than 7 is alkaline. High rainfall areas often have acidic soils because soluble nutrients are washed away, while dry areas often have alkaline soils. Most crops thrive in slightly acidic to neutral soils (pH 6.0 to 7.5).
 * **Nutrient content:** The presence of essential chemical elements such as Nitrogen (N), Phosphorus (P), and Potassium (K), which plants need to grow.
 
 **Classification based on texture**

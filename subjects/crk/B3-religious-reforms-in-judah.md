@@ -25,7 +25,7 @@ Josiah was only **eight years old** when he began to reign, but unlike his fathe
 
 **Content a: Cleansing of the Temple (II Kings 22)**
 
-In the eighteenth year of his reign (when he was 26 years old), King Josiah decided to repair and restore the Temple in Jerusalem, which had fallen into ruin during the reigns of the wicked kings before him. 
+In the eighteenth year of his reign (when he was about 25 or 26 years old, depending on how the years are counted; he began to reign at eight), King Josiah decided to repair and restore the Temple in Jerusalem, which had fallen into ruin during the reigns of the wicked kings before him. 
 
 ### 1. Funding the Temple repairs
 Josiah sent his secretary (scribe), **Shaphan**, to the Temple. He instructed Shaphan to tell **Hilkiah the high priest** to count the money that the doorkeepers had collected from the people. This money was to be given to the workmen—carpenters, builders, and masons—to buy timber and quarried stone to repair the Temple. The Bible notes that the workmen were so honest that no accounting was required of them.

@@ -90,7 +90,7 @@ We can classify the major agricultural products (crops and livestock) according 
 - **Livestock:** This is a major hub for livestock production in West Africa. The vast grasslands, absence of tse-tse flies, and suitable climate support large herds of cattle (e.g., Sokoto Gudali, White Fulani), sheep (e.g., Balami, Uda), and goats (e.g., Red Sokoto).
 
 #### 6. Sahel Savanna
-- **Crops:** Only drought-resistant, fast-maturing crops can survive the short rainy season. Millet, acha (hungry rice), and some fast-maturing varieties of cowpea are grown. 
+- **Crops:** Only drought-resistant, fast-maturing crops can survive the short rainy season. Millet and some fast-maturing varieties of cowpea are grown. (Acha, or hungry rice, is a crop of northern Nigeria, grown especially on the Jos Plateau, rather than a typical Sahel crop.) 
 - **Livestock:** Dominated by **nomadic pastoralism** (moving with animals in search of pasture and water). Livestock includes cattle, sheep, goats, camels, and donkeys.
 
 ## Environmental factors and their effects on crop and livestock production

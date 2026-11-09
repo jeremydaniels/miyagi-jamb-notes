@@ -94,7 +94,7 @@ While the northern parts of the Nigeria area were looking across the Sahara, the
 In the late 15th century, European explorers and merchants began arriving on the coast of West Africa. They were looking for a sea route to India and new sources of wealth.
 
 - **The Portuguese:** The Portuguese were the first Europeans to reach the Nigerian coast. In **1472**, the Portuguese explorer **Ruy de Sequeira** reached the Bight of Benin. Shortly after, the Portuguese visited the Oba of Benin.
-- **Legitimate Trade:** At first, the trade was "legitimate" (not involving human beings). The Portuguese were primarily interested in **pepper, ivory, gold, and coral beads**. 
+- **Legitimate Trade:** At first, the trade was "legitimate" (not involving human beings). The Portuguese were primarily interested in **pepper, ivory, gold, and cloth** (the Portuguese brought brass manillas, cloth and coral beads *to* Benin in exchange). 
 - **The Exchange:** In return for African goods, the Europeans brought manufactured items such as **copper, brass, textiles (cloth), cowrie shells, beads, umbrellas, mirrors, and later, firearms and alcohol**.
 - The trade soon expanded to other coastal communities, including Warri, Calabar, Bonny, and Brass. By the 17th century, other European nations—such as the Dutch, British, and French—had joined the trade, breaking the Portuguese monopoly.
 
@@ -162,7 +162,7 @@ The impact of this trade on the Nigeria area was devastating and long-lasting:
 **Content b(iii): impact of early missionary activities in the coastal areas.**
 **Objective iv: outline the impact of the early Christian missionary activities in the coastal areas.**
 
-*Exam Tip: The syllabus covers the history "Up to 1800". Therefore, "early Christian missionary activities" here strictly refers to the pioneering efforts by the Portuguese in the 15th, 16th, and 17th centuries, mainly in Benin and Warri. Most textbooks focus heavily on the later 19th-century wave (starting in Badagry in 1842 with Thomas Birch Freeman and Ajayi Crowther). We will outline the early Portuguese impact, but also summarize the general impact of missionaries in case JAMB tests the wider effects of Christianity under this objective.*
+*Exam Tip: The syllabus covers the history "Up to 1800". Therefore, "early Christian missionary activities" here strictly refers to the pioneering efforts by the Portuguese in the 15th, 16th, and 17th centuries, mainly in Benin and Warri. Most textbooks focus heavily on the later 19th-century wave (starting in Badagry in 1842 with Thomas Birch Freeman (Methodist) and Henry Townsend (CMS); Ajayi Crowther came in 1845). We will outline the early Portuguese impact, but also summarize the general impact of missionaries in case JAMB tests the wider effects of Christianity under this objective.*
 
 ### Early Missionary Activities (Up to 1800)
 
@@ -293,7 +293,7 @@ Whether looking at the early Portuguese attempts or the very beginning of the 19
 
 **Answer: B.** The trade removed millions of young, productive people (demographic drain) and fueled constant warfare as states fought to capture slaves in exchange for European guns.
 
-**9. In the 15th and 16th centuries, which Nigerian ruler sent his son to Portugal for education during early missionary contacts?**
+**9. In the late 16th or early 17th century, which Nigerian ruler sent his son to Portugal for education during early missionary contacts?**
 - A. The Oba of Benin
 - B. The Sultan of Sokoto
 - C. The Olu of Warri

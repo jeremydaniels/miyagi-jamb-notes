@@ -130,7 +130,7 @@ In colonial Nigerian cities, the level of social integration was **mixed**. Ther
 
 **Factors preventing social integration (Segregation):**
 * **Colonial Segregation Policies:** The British practiced residential segregation. They created the **GRA (Government Reserved Area)** for white officials, keeping them completely separate from Africans.
-* **The Sabon Gari System:** In Northern cities (like Kano and Zaria), the colonial government created the **Sabon Gari** (meaning "strangers' quarters" in Hausa). Southern immigrants, who were mostly Christians, were forced to live in these segregated areas, away from the indigenous Muslim population. This prevented deep social mixing and bred suspicion.
+* **The Sabon Gari System:** In Northern cities (like Kano and Zaria), the colonial government created the **Sabon Gari** (meaning "new town" in Hausa; it served as the quarter for strangers, mainly southern migrants). Southern immigrants, who were mostly Christians, were forced to live in these segregated areas, away from the indigenous Muslim population. This prevented deep social mixing and bred suspicion.
 * **Ethnic clustering:** Even in southern cities, people from the same ethnic group tended to live in the same neighbourhoods to feel safe, which limited cross-cultural interaction.
 
 ## Ethnic improvement unions
@@ -164,7 +164,7 @@ These were socio-cultural associations formed by migrants living in urban centre
 | **Urbanization** | The rapid migration of people from rural areas to towns, and the physical expansion of those towns into cities. |
 | **Social integration** | The process by which different ethnic, religious, and social groups mix and interact to form a unified society. |
 | **GRA** | Government Reserved Area; high-quality residential areas built by the colonial government exclusively for European officials. |
-| **Sabon Gari** | "Strangers' quarters" in Northern Nigerian cities, designated by the colonial government for immigrants from the South. |
+| **Sabon Gari** | Hausa for "new town"; the strangers' quarter in Northern Nigerian cities, designated by the colonial government for immigrants from the South. |
 | **Improvement Unions** | Associations formed by city dwellers to support their members in the city and promote the development (especially schools) of their hometowns. |
 | **Evangelism** | The spreading of the Christian gospel; the primary reason missionaries built schools. |
 
@@ -218,7 +218,7 @@ These were socio-cultural associations formed by migrants living in urban centre
 - C. Government Reserved Area (GRA) policy
 - D. Assimilation policy
 
-**Answer: B.** The Sabon Gari ("strangers' quarters") system segregated southern, largely Christian immigrants from the indigenous Muslim population, preventing deep social integration.
+**Answer: B.** The Sabon Gari ("new town"; the strangers' quarter) system segregated southern, largely Christian immigrants from the indigenous Muslim population, preventing deep social integration.
 
 **5. What was the main reason the colonial government constructed railway lines in Nigeria?**
 - A. To promote social integration among different ethnic groups

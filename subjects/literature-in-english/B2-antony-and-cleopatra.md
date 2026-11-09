@@ -133,7 +133,7 @@ Caesar arrives and finds all three dead. He admires her courage and orders that 
 | Philo and Demetrius | Roman soldiers who open the play by criticising Antony |
 | Eros | Antony's servant who kills himself rather than kill Antony |
 | Agrippa and Maecenas | Caesar's officers; Agrippa suggests the Octavia marriage |
-| Menas (Menecrates) | Pompey's officer who offers to cut the cable at the feast |
+| Menas | Pompey's follower (a pirate) who offers to cut the cable at the feast |
 | Soothsayer | Predicts the future; warns Antony to avoid Caesar |
 | Mardian | Cleopatra's eunuch who carries the false message of her death |
 | Diomedes | Cleopatra's secretary who tells Antony she is alive |

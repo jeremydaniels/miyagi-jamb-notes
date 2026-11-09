@@ -2,7 +2,7 @@
 
 ## What JAMB expects
 
-This file covers two of the Non-African prescribed poems in the JAMB Literature in English syllabus: **_She Walks in Beauty_** by Lord Byron, and **_The Nun's Priest's Tale_** by Geoffrey Chaucer. 
+This file covers two of the Non-African prescribed poems in the JAMB Literature in English syllabus: **_She Walks in Beauty_** by Lord Byron, and **_The Nun's Priest's Tale_** by Geoffrey Chaucer.
 
 By the end of these notes, applying to both prescribed poems, you should be able to:
 1. Recognise the various types of poetry and their features.
@@ -13,97 +13,138 @@ By the end of these notes, applying to both prescribed poems, you should be able
 6. Identify the tone, mood, and persona.
 7. Appreciate the setting and socio-political context.
 
-**Note on the syllabus wording:** The JAMB syllabus contains two spelling errors for the second poem. It prints the poet's name as "Geoffery Chaucer" instead of Geoffrey Chaucer, and the title as "The Nun’s Priest Tale" instead of *The Nun's Priest's Tale*. You will see the correct spellings used throughout these notes. The syllabus also notes that the version of Chaucer's tale is "(shortened)". Chaucer's original poem contains long philosophical debates; the shortened versions typically focus on the core story of the rooster, the hen, and the fox, and the moral lessons involved. 
+**Note on the syllabus wording:** The JAMB syllabus contains two spelling errors for the second poem. It prints the poet's name as "Geoffery Chaucer" instead of Geoffrey Chaucer, and the title as "The Nun’s Priest Tale" instead of *The Nun's Priest's Tale*. The correct spellings are used throughout these notes.
+
+**Note on "(shortened)":** The syllabus says the version of Chaucer's tale is "(shortened)". The notes cannot tell which abridged edition your school uses, but an abridged version keeps the same story, characters and moral as the full tale: Chauntecleer's dream, the quarrel with Pertelote, the fox's flattery, the capture, the chase and the escape. What shorter editions normally cut or reduce are the long digressions (lists of authorities and examples about dreams, the learned asides on fate and free will, and the mock-heroic laments). So you can use these notes for the plot, and check your own text for which digressions are included.
 
 ---
 
 ## Poem 1: She Walks in Beauty by Lord Byron
 
-### Setting and Period
-**_She Walks in Beauty_** was written in 1814 during the **Romantic Period** of English literature. Romanticism was a movement that focused heavily on deep individual emotion, nature, and the sublime, moving away from the strict logic and rules of the preceding century. 
+### The poem
+George Gordon Byron, Lord Byron (1788 to 1824), wrote *She Walks in Beauty* in 1814. It was published in 1815 in his collection ***Hebrew Melodies***, a set of poems written to be sung to Jewish melodies arranged by the composer Isaac Nathan. The poem has three stanzas. The text below follows common modern editions; spelling and punctuation vary slightly between editions (for example "mellowed" or "mellow'd").
 
-The poem has no specific physical setting like a town or a room; rather, the "setting" is the poet's immediate observation of a beautiful woman at a social gathering in high-society London.
+> She walks in beauty, like the night
+> Of cloudless climes and starry skies;
+> And all that's best of dark and bright
+> Meet in her aspect and her eyes;
+> Thus mellowed to that tender light
+> Which heaven to gaudy day denies.
+>
+> One shade the more, one ray the less,
+> Had half impaired the nameless grace
+> Which waves in every raven tress,
+> Or softly lightens o'er her face;
+> Where thoughts serenely sweet express
+> How pure, how dear their dwelling-place.
+>
+> And on that cheek, and o'er that brow,
+> So soft, so calm, yet eloquent,
+> The smiles that win, the tints that glow,
+> But tell of days in goodness spent,
+> A mind at peace with all below,
+> A heart whose love is innocent!
+
+### Setting and Period
+The poem was written in 1814, in the **Romantic Period** of English literature. Romanticism was a movement that valued deep individual emotion, nature and imagination, moving away from the strict rules and reason of the previous century (the 18th century).
+
+The poem has no physical setting like a town or room. The "setting" is the speaker's moment of watching a beautiful woman, which the poet's own experience places at a party in London high society.
 
 ### Socio-political Context
-The poem was inspired by a real event. Lord Byron attended a party where he saw his cousin by marriage, Mrs Anne Beatrix Wilmot. She was wearing a black mourning dress covered in spangles (small shiny pieces) because she was mourning the death of a relative. In 19th-century British high society, strict rules governed "mourning dress"—widows and grieving relatives had to wear dark colours (mostly black) for a set period. Byron was struck by how the dark dress contrasted with her bright, beautiful face, leading him to write this poem about the harmony of light and dark.
+The poem was inspired by a real event. In 1814 Byron attended a party where he saw **Mrs Anne Beatrix Wilmot**, the wife of his cousin (Robert John Wilmot, later Wilmot-Horton). She was wearing a **black mourning dress decorated with spangles** (small shiny pieces), because she was in mourning for a relative. In the strict customs of 19th-century British upper-class society, mourners had to wear black or dark colours. Byron was struck by the contrast between the dark dress and her bright, beautiful face, and wrote the poem soon afterwards.
+
+At that time Byron was a famous, fashionable and sometimes scandalous poet. The poem is a gentle tribute to a woman's beauty and goodness, not a political poem. It reflects the social world of Regency aristocratic society and the Romantic belief that outer beauty can reflect an inner moral state.
 
 ### Persona, Tone, and Mood
-- **Persona:** The persona (speaker) is an anonymous, admiring observer. Though we know the poet is Byron, the persona in the poem simply speaks as someone deeply moved by a woman's appearance. 
-- **Tone:** The tone is **reverent**, **admiring**, and **gentle**. There is no lust or wild passion; instead, the speaker feels a deep, almost religious respect for her perfect balance and purity.
-- **Mood:** The mood created for the reader is **calm**, **peaceful**, and **serene**, reflecting the quiet beauty being described.
+- **Persona:** The speaker is an admiring observer, who describes a woman without naming her. (Do not just identify the speaker as Byron; in exams call him "the persona" or "the poet's voice".)
+- **Tone:** **admiring**, **reverent** and **gentle**. It is not about lust or wild passion; the respect is almost religious (note words such as "heaven", "pure" and "innocent").
+- **Mood:** **calm**, **peaceful** and **serene**.
 
 ### Theme: The Harmony of Inner and Outer Beauty
-The central theme of the poem is that true beauty is a perfect balance.
-1. **The Balance of Opposites (Light and Dark):** The persona argues that the woman's beauty comes from the perfect mixture of "dark and bright". She is not just bright like the daytime (which the speaker calls "gaudy" or too harsh); she has the soft, tender light of a clear, starry night. 
-2. **Physical Beauty reflects Inner Goodness:** In the final stanza, the poem moves from her physical face to her mind and heart. The speaker concludes that her calm, sweet facial expressions ("smiles that win", "tints that glow") are proof of her inner moral goodness—a "mind at peace" and an "innocent" heart. 
+1. **The balance of opposites (light and dark):** Her beauty comes from the perfect mixture of "dark and bright". She is not like the bright, "gaudy" (too showy) day, but like the soft, "tender light" of a clear, starry night. Her dark hair ("raven tress") and bright face show the same balance.
+2. **Fragile perfection:** "One shade the more, one ray the less, / Had half impaired the nameless grace." Her beauty is so perfectly balanced that a small change would spoil it.
+3. **Physical beauty reflects inner goodness:** In the last stanza the poem moves from face to character. Her calm, sweet expression shows "days in goodness spent", "a mind at peace with all below" and "a heart whose love is innocent".
 
-[IMAGE: A split conceptual illustration. On the left side, a harsh, overly bright sun (representing "gaudy day"). On the right side, a serene, cloudless night sky filled with bright stars (representing the balance of "dark and bright"). In the centre, the elegant silhouette of a 19th-century woman in a dark dress holding a delicate balance scale. Labels to add: "Gaudy day (rejected by poet)", "Cloudless, starry night (perfect balance)", "Harmony of light and dark". Clean flat textbook style, white background.]
+[IMAGE: A split conceptual illustration. On the left side, a harsh, overly bright sun (representing "gaudy day"). On the right side, a serene, cloudless night sky filled with bright stars (representing the balance of "dark and bright"). In the centre, the elegant silhouette of a woman in a long dark gown in early 19th-century style, with a soft glow around her face. Labels to add: "Gaudy day (rejected by poet)", "Cloudless, starry night (perfect balance)", "Harmony of light and dark". Clean flat textbook style, white background.]
 
 ### Poetic Techniques and Devices
-Byron uses several devices to emphasize the woman's perfection:
-- **Simile:** The poem opens with a famous simile: *"She walks in beauty, like the night / Of cloudless climes and starry skies"*. He compares her overall beauty to a clear, star-filled night.
-- **Alliteration:** The repetition of consonant sounds creates a musical effect. For example, *"**c**loudless **c**limes and **s**tarry **s**kies"*, and *"**d**ay **d**enies"*.
-- **Antithesis (Contrast):** Byron constantly places opposite words next to each other to show balance: *"dark and bright"*, *"One shade the more, one ray the less"*.
-- **Metaphor:** Her mind is described as the *"dwelling-place"* of her sweet thoughts. 
-- **Personification:** Her facial features are given human actions: her thoughts *"express"* themselves on her face, and her cheek is *"eloquent"* (able to speak clearly without words).
-- **Enjambment:** Several lines run into the next without a punctuation mark at the end (e.g., *"grace / Which waves in every raven tress"*). This creates a flowing, continuous sense of movement, mirroring how smoothly she walks.
+- **Simile:** The poem opens with a simile: *"She walks in beauty, like the night / Of cloudless climes and starry skies"*. Her beauty is compared to a clear, star-filled night.
+- **Alliteration:** *"cloudless climes"*, *"starry skies"*, *"gaudy day"* and *"heaven ... denies"* (the last two lines use the d sound).
+- **Antithesis and contrast:** Opposites are set side by side: *"dark and bright"*, *"shade ... ray"*, *"night"* against *"gaudy day"*.
+- **Metaphor/personification:** Her thoughts are said to have a *"dwelling-place"* (her face and mind), and *"thoughts serenely sweet express"* how pure that place is. Her cheek and brow are described as *"eloquent"*, as though able to speak.
+- **Imagery:** Visual images of light and darkness (night, stars, ray, shade, tints that glow, raven tress) dominate the poem.
+- **Enjambment:** Several sentences run from one line to the next without a pause, for example *"Had half impaired the nameless grace / Which waves in every raven tress"*. This gives a smooth, flowing movement.
+- **Diction:** The words are simple and gentle ("tender", "soft", "calm", "pure", "innocent"), which supports the quiet mood.
 
 ### Form, Metre, and Style
-- **Type of Poem:** It is a **lyric poem** (a short, musical poem expressing deep personal emotion).
-- **Structure:** It consists of three stanzas, each containing six lines (called **sestets**). Total: 18 lines.
-- **Rhyme Scheme:** The rhyme scheme is highly regular: **ABABAB, CDCDCD, EFEFEF**. This perfect, unbroken pattern reflects the perfect harmony and balance of the woman being described.
-- **Metre:** The poem is written in **iambic tetrameter**. This means there are four "iambs" (a heartbeat-like rhythm of one unstressed syllable followed by a stressed syllable: da-DUM) per line. Example: *She WALKS / in BEAU / ty, LIKE / the NIGHT.*
+- **Type of poem:** a **lyric poem** (short, musical, expressing personal feeling).
+- **Structure:** **three stanzas of six lines each (sestets)**, 18 lines in all.
+- **Rhyme scheme:** **ABABAB** in every stanza, with new rhymes each time (night/bright/light and skies/eyes/denies; less/tress/express and grace/face/place; brow/glow/below and eloquent/spent/innocent). So the whole poem is ABABAB CDCDCD EFEFEF.
+- **Metre:** **iambic tetrameter**: four iambs (unstressed + stressed) per line, so eight syllables. Example: *she WALKS / in BEAU / ty, LIKE / the NIGHT.*
 
 ---
 
 ## Poem 2: The Nun's Priest's Tale by Geoffrey Chaucer
 
-### Setting and Period
-Geoffrey Chaucer (often called the "Father of English Literature") wrote *The Canterbury Tales* in the late 14th century (during the **Middle Ages** or Medieval Period). He wrote in **Middle English**, an older form of the English language, though secondary school students usually study a modern English translation. 
+### The author and the frame
+Geoffrey Chaucer (about 1343 to 1400) is often called the "Father of English poetry" or "Father of English literature". He wrote *The Canterbury Tales* in **Middle English** in the late 14th century (begun about 1387, and left unfinished at his death). He is the first poet buried in Poets' Corner in Westminster Abbey.
 
-The story is a "tale within a tale". A group of pilgrims are travelling to Canterbury, and to pass the time, they tell each other stories. The **Nun's Priest** (a priest travelling with a nun) tells this particular story. 
-The immediate setting of the tale is a humble, dusty **farmyard** belonging to a poor, hardworking widow.
+The *Canterbury Tales* has a **frame story**. A group of pilgrims who meet at the Tabard Inn in Southwark (London) travel to the shrine of St Thomas Becket at **Canterbury**. The innkeeper, the **Host (Harry Bailly)**, suggests that each pilgrim tell stories to pass the time, and promises a free supper to the best storyteller.
+
+### Setting and Period
+The Nun's Priest's Tale is the tale of one of the three priests who travel with the **Prioress**. It comes just after the **Monk's Tale**, which is a long list of tragedies of famous people who fell from high position. The **Knight** interrupts the Monk, saying that such sad stories have gone on long enough and that he prefers to hear of people rising in fortune. The Host agrees, says the Monk's tale is dull, and when the Monk will not tell another, the Host turns to the Nun's Priest ("Sir John") and asks him for something cheerful. The Nun's Priest agrees and tells the story of the cock and the fox.
+
+The tale itself is set in a humble **farmyard** next to a small cottage, belonging to a **poor widow** who lives with her two daughters.
+
+The tale is written in **rhyming couplets of iambic pentameter** (ten-syllable lines in pairs: aa, bb, cc), the verse form used for most of the *Canterbury Tales*. Exact line counts depend on the edition, so do not quote a number in an essay.
 
 ### Socio-political Context
-During the Middle Ages, society was heavily divided by class (the feudal system), and the Church held massive power. Education involved long philosophical debates about God, fate, and medicine. 
-Chaucer uses this poem to poke fun at the high-class nobility. He takes all the grand, boastful behaviour of knights and kings, and all the complicated debates of university scholars, and puts them into the mouths of **chickens**. By showing a rooster and a hen acting like a King and Queen debating high philosophy, Chaucer creates a brilliant satire of human vanity.
+In the Middle Ages society was divided into classes (the feudal system) and the Church was very powerful. Learned people debated fate, God's foreknowledge, free will, dreams and medicine. Chaucer uses the tale to poke fun at high-class pride and at learned show-offs, by giving the grand language and arguments of kings, lovers and scholars to **chickens**. The chase in the story is compared to the English **Peasants' Revolt of 1381** (the rebel Jack Straw and his followers are mentioned), which shows that Chaucer's audience knew real social turmoil. The tale also teases certain medieval attitudes to women and to Church writings.
 
 ### Plot Summary
-The tale revolves around a magnificent, proud rooster named **Chauntecleer** (meaning "clear singer"). He lives in the poor widow's yard with his seven hen-wives. His favourite wife is the beautiful and polite **Pertelote**.
+The tale begins with a **poor widow**, rather old, who lives simply in a small cottage near a grove with her two daughters, a few animals (three sows, three cows and a sheep called Malle) and some chickens. Her plain, healthy diet is described, and she is far from the rich and elaborate way of life the chickens will imitate.
 
-1. **The Dream:** One night, Chauntecleer wakes up terrified. He tells Pertelote he had a nightmare about a fearsome, reddish-yellow beast (a fox) trying to kill him. 
-2. **The Debate:** Pertelote scolds him, calling him a coward. She claims dreams mean nothing and are just caused by indigestion (eating bad food). She tells him to take a laxative. Chauntecleer argues back, quoting many historical and biblical stories to prove that dreams are prophetic warnings from God. However, because he is attracted to her beauty, he foolishly decides to ignore his own warning just to please her.
-3. **The Flattery:** Later, a cunning fox named **Daun Russell** (or Sir Russell) sneaks into the yard. When Chauntecleer spots him, the fox uses flattery. He praises Chauntecleer's beautiful voice, saying he only came to hear him sing, just as Chauntecleer's father used to sing—by closing his eyes and stretching his neck.
-4. **The Capture:** Blinded by pride and vanity, Chauntecleer closes his eyes and crows loudly. Immediately, the fox grabs him by the neck and runs toward the woods.
-5. **The Chase:** The widow, her daughters, and all the farm animals realize what has happened and chase the fox in a massive, noisy uproar.
-6. **The Trick:** Chauntecleer, though in the fox's mouth, uses his brain. He tells the fox, "If I were you, I would turn around and shout insults at them, telling them they can never catch me!" The fox, feeling proud, opens his mouth to speak. 
-7. **The Escape:** As soon as the fox opens his mouth, Chauntecleer breaks free and flies high up into a tree. The fox tries to flatter him a second time to come down, but Chauntecleer refuses, saying he will never be fooled into closing his eyes again.
+The proud rooster **Chauntecleer** (meaning "clear singer") is the lord of the yard. His crow is more beautiful than the church organ and keeps time better than a clock. He has a red comb, black bill and golden feathers. He has **seven hens**, and his favourite is the beautiful **Pertelote** ("Dame Pertelote").
+
+1. **The Dream:** One night, perched beside Pertelote, Chauntecleer groans in his sleep. He tells her of a terrible dream in which a strange beast like a hound, reddish-yellow, with black-tipped ears and tail, tried to seize and kill him.
+2. **The Debate:** Pertelote scolds him as a coward who is not a real man. She says dreams come from the body's "humours" and bad digestion, and advises him to take laxatives and herbs. Chauntecleer replies with learned authorities and stories (including Cato, the dream of Scipio explained by Macrobius, and examples from the Bible and history such as Daniel and Joseph, and the story of two travellers where a murdered man appears in a dream) to prove that dreams are warnings. He also makes a joke in Latin about women (*Mulier est hominis confusio*), translating it flatteringly as "Woman is man's joy and bliss". Finally he ignores his own warning, since he loves her beauty and is cheered by it, and flies down from the beam.
+3. **The Flattery:** On a spring day (3 May in the text) the **fox**, named **Daun Russell** (Sir Russell, because of his reddish coat), who has been hiding in the cabbage bed, creeps up. Chauntecleer sees him and wants to run, but the fox flatters him: he says that he has come only to hear Chauntecleer sing, because Chauntecleer's father sang so well, with his eyes shut and standing on tiptoe. He asks if the son can match his father.
+4. **The Capture:** Chauntecleer, proud, stretches his neck and closes his eyes to crow loudly. The fox seizes him by the throat and runs off towards the wood.
+5. **The Chase:** The hens cry out, and the widow, her daughters and the farm animals (including dogs, cows and pigs) run after the fox in a huge, noisy uproar, compared to the noise of Jack Straw's rebels. The narrator laments Chauntecleer's fate in grand, mock-epic style (comparing it with the fall of Troy and with the ruin of famous kings).
+6. **The Trick:** In the fox's mouth, Chauntecleer uses his wits. He tells the fox to shout back at his pursuers, telling them to turn back, that he has reached the wood and will now eat the cock in spite of them. The vain fox opens his mouth to speak.
+7. **The Escape:** Chauntecleer breaks free and flies up into a tree. The fox tries to coax him down with new flattery and apology, but Chauntecleer refuses, saying that he will never again close his eyes to sing at a flatterer's request. The fox replies that he who talks when he should be quiet deserves bad luck.
+
+The narrator ends by saying that all stories are to teach us: "take the fruit and let the chaff lie". The moral is to avoid flattery and keep quiet when it is wise.
 
 ### Characters
-- **Chauntecleer:** The rooster. He is extraordinarily vain, proud of his singing voice and his looks, and loves to show off his learning. He represents human vanity and the foolishness of ignoring one's instincts for the sake of a woman's approval or an enemy's flattery.
-- **Pertelote:** The head hen. She is practical, bossy, and completely misses the spiritual warning of the dream. She represents the medieval stereotype of the "nagging wife" who gives bad advice.
-- **Daun Russell (The Fox):** The villain. He is cunning, deceptive, and fully understands how to use a person's pride against them. 
-- **The Poor Widow:** She lives a simple, temperate, and healthy life. She is placed in the story to contrast with the rich, greedy, and overly complicated "courtly" lifestyle of her own chickens. 
+- **Chauntecleer:** The rooster, vain and proud of his voice and learning. He stands for human vanity and the foolishness of ignoring wise warnings for flattery, but he is also clever enough to save himself.
+- **Pertelote:** The favourite hen, practical, bossy and well-informed about herbs and medicine. She ignores the spiritual meaning of dreams. She represents the medieval stereotype of the practical wife who gives bad advice.
+- **Daun Russell (the fox):** The villain; cunning, deceptive, and expert at using vanity against others. He too is caught by his own pride.
+- **The poor widow:** Humble, simple and temperate. Her plain way of life contrasts with the chickens' false, grand behaviour.
+- **The Nun's Priest (narrator):** Gentle, humorous and ironic; he comments on the story, and teases Chauntecleer and the audience.
 
-[IMAGE: A cartoon-style illustration showing the climax of the tale. A reddish-orange fox is standing at the base of a large tree, looking up with a sly, frustrated expression. High up on a branch sits a brightly coloured, magnificent rooster (Chauntecleer), looking down triumphantly. In the background, a small peasant cottage and an angry widow holding a broom, chasing them. Labels to add: "Chauntecleer escapes to the tree", "The fox tricked into opening his mouth", "The Poor Widow's farm". Clean flat textbook style, white background.]
+[IMAGE: A cartoon-style illustration showing the climax of the tale. A reddish-orange fox stands at the base of a large tree, looking up with a sly, frustrated expression. High up on a branch sits a magnificent golden rooster (Chauntecleer), looking down triumphantly. In the background, a small cottage and a widow with a distaff (spinning stick) and her daughters running after them. Labels to add: "Chauntecleer escapes to the tree", "The fox tricked into opening his mouth", "The poor widow's farm". Clean flat textbook style, white background.]
 
 ### Themes
-1. **The Danger of Flattery and Pride:** This is the core moral of the tale. Chauntecleer almost loses his life because he loves hearing himself praised. The fox loses his meal because he also wants to boast. The lesson is clear: do not trust flatterers, and do not let vanity cloud your judgement.
-2. **Dreams, Fate, and Free Will:** The poem explores whether dreams are meaningless physical events (Pertelote's view) or warnings of fate (Chauntecleer's view). It also touches on the medieval debate of predestination—if God foresaw the fox attacking, could Chauntecleer have avoided it?
-3. **Appearance vs. Reality:** The farmyard seems safe but hides a deadly predator. The fox seems friendly and admiring but is actually a killer. 
-4. **Mockery of Courtly Love and Human Folly:** By making chickens act like high-born lovers, Chaucer points out how silly human beings look when they take themselves too seriously.
+1. **The danger of flattery and pride:** The core moral. Chauntecleer almost dies because he loves being praised, and the fox loses his meal because he, too, cannot resist boasting.
+2. **Dreams, fate and free will:** Pertelote says dreams are only caused by the body; Chauntecleer says they are warnings. The tale also touches on the medieval debate on whether the future is fixed by God or can be changed by people.
+3. **Appearance and reality:** The fox seems friendly but is a killer; the dream warned of what looked safe.
+4. **Mockery of courtly love and human folly:** By making chickens act like noble lovers and scholars, Chaucer shows how silly people look when they take themselves too seriously.
+5. **Wit over force:** Chauntecleer escapes by cleverness, not strength.
 
 ### Genre, Techniques, and Style
-- **Genre: Beast Fable.** A beast fable is a short story in which animals are given human characteristics (anthropomorphism) to teach a moral lesson. 
-- **Style: Mock-Heroic (Mock-Epic).** A mock-heroic poem takes a trivial, unimportant subject (like a fox catching a chicken in a backyard) and treats it using the grand, elevated language of an epic poem (like the fall of Troy or a great war). This mismatch between the high language and the low subject creates comedy.
-- **Allusion:** Chauntecleer constantly alludes to (references) ancient history, Greek mythology, and the Bible to prove his points about dreams, which is highly ironic for a chicken.
-- **Satire:** The poem ridicules human weaknesses, especially the vanity of the nobility and the empty debates of scholars.
-- **Tone:** The tone of the narrator is deeply **humorous**, **ironic**, and **didactic** (meaning it intends to teach a lesson). 
+- **Genre: Beast fable.** A short story in which animals behave like humans to teach a moral. (This tale is an example of the type, and fox-and-cock stories were popular in medieval Europe.)
+- **Style: Mock-heroic (mock-epic).** A trivial event (a fox catching a hen) is described in the grand language of epic and tragedy. The mismatch makes it funny.
+- **Allusion:** Many references to the Bible, history and classical stories, which is comic in the mouth of a rooster.
+- **Satire:** It mocks vanity, learned pride, and flatterers.
+- **Irony and humour:** The Nun's Priest says one thing with a serious face while making fun, and the poem is full of comic contrasts.
+- **Frame narrative:** It is a tale told by one pilgrim inside a larger story.
+- **Tone:** **humorous, ironic and didactic** (intended to teach a lesson).
 
 ---
 
 ## Needs checking against the text
-*Note to teachers: As Lord Byron's and Geoffrey Chaucer's works are in the public domain and thoroughly documented in literary scholarship, no placeholders were required for these notes. All facts, character names, devices, and textual summaries provided above are fully verified against the original texts.*
+*The facts above were checked against published summaries and study guides (encyclopaedia-type and study-guide sources on Byron's poem and on the Canterbury Tales). The full primary texts could not be opened in this session, so these points should be checked once against the printed text your students use: the exact wording and punctuation of Byron's poem (editions differ in small ways), which examples of dreams Chauntecleer gives, the exact words of the trick and the fox's reply, and which digressions are removed in the "shortened" version that JAMB prescribes. The date of the party (1814) and Mrs Wilmot's name are from standard accounts.*
 
 ---
 
@@ -111,122 +152,135 @@ The tale revolves around a magnificent, proud rooster named **Chauntecleer** (me
 
 | Term | Meaning |
 | --- | --- |
-| **Romanticism** | A literary movement (late 18th to mid-19th century) focusing on emotion, nature, individualism, and the sublime, seen in Byron's work. |
-| **Lyric poetry** | A short, highly musical poem that expresses personal feelings or emotions (e.g., *She Walks in Beauty*). |
-| **Sestet** | A stanza consisting of exactly six lines. |
-| **Iambic tetrameter** | A poetic metre with four iambs (beats of unstressed/stressed syllables) per line. |
-| **Enjambment** | When a sentence or thought in a poem runs over from one line into the next without any punctuation at the end of the line. |
-| **Beast Fable** | A story in which animal characters behave like humans to deliver a moral lesson. |
-| **Mock-heroic / Mock-epic** | A satirical style that uses the grand, elevated language of epic poetry to describe a trivial or silly event, creating a comic effect. |
-| **Satire** | The use of humour, irony, or exaggeration to expose and criticize people's stupidity or vices. |
-| **Flattery** | Excessive or insincere praise, used to manipulate someone (as the fox manipulates the rooster). |
+| **Romanticism** | A literary movement (late 18th to mid-19th century) focusing on emotion, nature, individualism and imagination, seen in Byron's work. |
+| **Lyric poetry** | A short, musical poem expressing personal feelings (e.g. *She Walks in Beauty*). |
+| **Sestet** | A stanza of exactly six lines. |
+| **Iambic tetrameter** | A metre with four iambs (unstressed + stressed) per line. |
+| **Rhyming couplet** | Two successive lines that rhyme; Chaucer's tale is in iambic pentameter couplets. |
+| **Enjambment** | When a sentence runs on from one line to the next without a pause. |
+| **Frame story** | A story that contains other stories (the pilgrimage to Canterbury). |
+| **Beast fable** | A story in which animals behave like humans to teach a moral. |
+| **Mock-heroic / Mock-epic** | A style that uses grand epic language to describe a trivial event, for comic effect. |
+| **Satire** | The use of humour, irony or exaggeration to criticise people's vices or follies. |
+| **Flattery** | Excessive or insincere praise, used to manipulate someone. |
 
 ---
 
 ## Exam tips and common mistakes
 
-- **Don't mix up the tricks in Chaucer's tale:** The fox tricks the rooster by flattering his **singing** (making him close his eyes). The rooster tricks the fox by flattering his **pride** (making him open his mouth to boast).
-- **Remember the contrasting views on dreams:** Pertelote thinks dreams are physical (indigestion). Chauntecleer thinks they are spiritual/prophetic (warnings from God).
-- **Byron's theme is balance, not just brightness:** A common mistake is thinking Byron only praises the woman's brightness. He actually praises the *mixture* of "dark and bright"—the fact that she is not overwhelmingly bright like the daytime.
-- **Understand the Mock-heroic style:** If JAMB asks for the style of *The Nun's Priest's Tale*, look for "Mock-heroic", "Mock-epic", or "Satire". It is funny specifically because chickens are acting like kings and philosophers.
-- **Know the exact rhyme scheme of Byron's poem:** It is ABABAB CDCDCD EFEFEF. 
+- **Don't mix up the tricks in Chaucer's tale:** The fox tricks the rooster by flattering his **singing** (making him close his eyes). The rooster tricks the fox by appealing to his **pride** (making him open his mouth to shout at the chasers).
+- **Remember the contrasting views on dreams:** Pertelote thinks dreams come from the body (indigestion, "humours"). Chauntecleer thinks they are warnings.
+- **Byron's theme is balance, not just brightness:** He praises the *mixture* of "dark and bright", not the brightness of day, which he calls "gaudy".
+- **Understand the mock-heroic style:** If JAMB asks for the style of *The Nun's Priest's Tale*, look for "mock-heroic", "mock-epic", "beast fable" or "satire".
+- **Know Byron's form:** three stanzas of six lines, ABABAB CDCDCD EFEFEF, iambic tetrameter. Do not confuse it with a sonnet (14 lines).
+- **Know where the tale comes from:** it is told by the Nun's Priest in the *Canterbury Tales*, after the Knight stops the Monk's long tale of tragedies.
 
 ---
 
 ## Quick summary
 
-1. **She Walks in Beauty** by Lord Byron is a Romantic lyric poem praising the physical and moral perfection of a woman in a mourning dress.
-2. Byron uses the contrast of "light and dark" to show that true beauty is a harmonious balance, and that her physical beauty reflects her pure, innocent inner self.
-3. The poem is written in three six-line stanzas (sestets) in iambic tetrameter, with a strict ABABAB rhyme scheme, utilizing similes, alliteration, and enjambment.
-4. **The Nun's Priest's Tale** by Geoffrey Chaucer is a Medieval "beast fable" and "mock-heroic" poem about farmyard animals acting like high-class humans.
-5. Chauntecleer the rooster has a prophetic dream of a fox, which his practical wife Pertelote tells him to ignore as mere indigestion.
-6. Daun Russell the fox captures Chauntecleer by flattering his singing voice, causing the proud rooster to close his eyes.
-7. Chauntecleer escapes by tricking the proud fox into opening his mouth to shout at the people chasing him.
-8. The tale serves as a humorous satire on human pride, vanity, and the dangers of listening to flatterers.
+1. **She Walks in Beauty** by Lord Byron (1814, published in *Hebrew Melodies*, 1815) is a Romantic lyric praising the beauty and goodness of a woman seen in a black mourning dress.
+2. Byron uses light and dark to show that true beauty is a harmonious balance, and that her outward beauty reflects a pure, innocent mind.
+3. The poem has three six-line stanzas in iambic tetrameter, rhyming ABABAB in each, with simile, alliteration, antithesis and enjambment.
+4. **The Nun's Priest's Tale** by Geoffrey Chaucer is told in the *Canterbury Tales* after the Knight interrupts the Monk, and is a beast fable and mock-heroic poem in rhyming couplets.
+5. Chauntecleer the rooster dreams of a beast, but his wife Pertelote tells him to ignore it as a result of bad digestion.
+6. Daun Russell the fox flatters Chauntecleer's singing so that he closes his eyes, then seizes him and runs.
+7. Chauntecleer tricks the fox into opening his mouth to taunt the chasers, and escapes into a tree.
+8. The tale satirises vanity and warns against flatterers; the shortened version keeps this same plot.
 
 ---
 
 ## Practice questions
 
 **1. The primary theme of Lord Byron's *She Walks in Beauty* is the:**
+
 - A. dangers of mourning for too long
 - B. superiority of day over night
 - C. harmony of physical beauty and inner goodness
 - D. tragedy of lost love
 
-**Answer: C.** The poem emphasizes how her perfectly balanced physical appearance reflects a pure, peaceful, and innocent mind.
+**Answer: C.** The poem shows a perfectly balanced physical beauty reflecting a pure, peaceful and innocent mind.
 
-**2. Which literary device is dominantly used in the lines "Of cloudless climes and starry skies"?**
-- A. Metaphor
-- B. Alliteration
-- C. Onomatopoeia
-- D. Personification
+**2. Which literary device is used in the opening lines "She walks in beauty, like the night / Of cloudless climes and starry skies"?**
 
-**Answer: B.** The repetition of the "c" sound (cloudless climes) and "s" sound (starry skies) is alliteration.
+- A. Simile
+- B. Onomatopoeia
+- C. Irony
+- D. Hyperbole
 
-**3. In *She Walks in Beauty*, the persona compares the woman's beauty to:**
-- A. a bright, sunny afternoon
-- B. a cloudless and starry night
-- C. a blooming red rose
-- D. an elegant raven
+**Answer: A.** The woman is compared to the night using the word "like", which is a simile.
 
-**Answer: B.** The poem opens with the simile comparing her to the night of cloudless climes and starry skies. He specifically rejects the "gaudy day" (sunny afternoon).
+**3. In *The Canterbury Tales*, which pilgrim stops the Monk's long tale of tragedies, so that the Nun's Priest is asked to tell a cheerful story?**
 
-**4. The poetic form of *The Nun's Priest's Tale* is best described as a:**
+- A. The Knight
+- B. The Miller
+- C. The Pardoner
+- D. The Squire
+
+**Answer: A.** The Knight interrupts the Monk, saying that enough sad stories have been told, and the Host agrees and calls on the Nun's Priest.
+
+**4. The form of *The Nun's Priest's Tale* is best described as a:**
+
 - A. tragic drama
-- B. romantic sonnet
-- C. beast fable and mock-heroic
+- B. sonnet
+- C. beast fable in the mock-heroic style
 - D. historical biography
 
-**Answer: C.** It is a beast fable (animals teaching a moral) written in a mock-heroic style (treating silly farmyard events like an epic battle).
+**Answer: C.** It is a beast fable (animals teaching a moral) in a mock-heroic style (treating a farmyard event as if it were an epic). It is written in rhyming couplets.
 
 **5. In Chaucer's tale, how does Pertelote explain Chauntecleer's terrifying dream?**
+
 - A. As a warning sent directly from God
 - B. As a sign of bad weather approaching
-- C. As a result of physical indigestion
+- C. As a result of indigestion and an imbalance in his body
 - D. As a curse from a neighbouring farm
 
-**Answer: C.** Pertelote dismisses the dream, claiming it is just caused by an imbalance in his physical body (indigestion) and advises him to take laxatives.
+**Answer: C.** Pertelote says the dream comes from the body's humours and bad digestion, and advises laxatives and herbs.
 
 **6. The fox manages to capture Chauntecleer by appealing to the rooster's:**
+
 - A. greed for food
 - B. pride in his singing voice
 - C. love for Pertelote
 - D. desire for freedom
 
-**Answer: B.** The fox flatters Chauntecleer, telling him he wants to hear him sing with his eyes closed, just like his father did. Chauntecleer's vanity makes him comply.
+**Answer: B.** The fox flatters Chauntecleer's voice and says that his father sang with closed eyes. Chauntecleer's vanity makes him do the same.
 
-**7. How does Chauntecleer eventually escape from the fox's mouth?**
+**7. How does Chauntecleer escape from the fox's mouth?**
+
 - A. He pecks the fox in the eyes
 - B. Pertelote attacks the fox from behind
-- C. He tricks the fox into opening his mouth to taunt his pursuers
-- D. The poor widow hits the fox with a broom
+- C. He tricks the fox into opening his mouth to shout at his pursuers
+- D. The poor widow hits the fox with a stick
 
-**Answer: C.** Chauntecleer uses his wits to flatter the fox's pride, suggesting the fox should shout insults at the mob. When the fox opens his mouth to speak, the rooster flies away.
+**Answer: C.** Chauntecleer persuades the fox to taunt the people chasing him. When the fox opens his mouth to speak, the rooster flies up into a tree.
 
 **8. The rhyme scheme of the first stanza of *She Walks in Beauty* is:**
+
 - A. AABBCC
 - B. ABABCD
 - C. ABABAB
 - D. ABCABC
 
-**Answer: C.** The rhyme scheme is perfectly alternating: night (A), skies (B), bright (A), eyes (B), light (A), denies (B).
+**Answer: C.** The words at the line-ends are: night (A), skies (B), bright (A), eyes (B), light (A), denies (B).
 
-**9. In *The Nun's Priest's Tale*, the character of the poor widow is used primarily to:**
+**9. In *The Nun's Priest's Tale*, the poor widow is used mainly to:**
+
 - A. show how cruel humans are to animals
-- B. contrast her simple, healthy life with the vain, complicated lives of the chickens
+- B. contrast her simple, healthy life with the vain, grand behaviour of the chickens
 - C. represent the corrupt medieval church
 - D. act as the villain of the story
 
-**Answer: B.** The widow lives a simple, honest, and temperate life, which highlights how ridiculous and overly complicated the "royal" chickens are acting.
+**Answer: B.** The widow lives plainly and temperately, which highlights how comic the chickens' show of grandeur is.
 
 **10. What is the central moral lesson of *The Nun's Priest's Tale*?**
+
 - A. Never trust your wife's advice
-- B. Do not succumb to flattery and keep your mouth shut when necessary
+- B. Do not give in to flattery, and keep quiet when you should
 - C. Dreams are completely meaningless
 - D. Foxes are the most dangerous animals
 
-**Answer: B.** The tale teaches the danger of vanity. Both the rooster and the fox lose out because they fall for flattery and fail to keep their eyes/mouths shut at the right time.
+**Answer: B.** Chauntecleer is nearly killed because he is flattered into closing his eyes, and the fox loses his meal because he is tempted into talking. The moral is to beware of flatterers and to know when to be silent.
 
 <!-- COVERAGE
 poetry b.i | Form, Metre, and Style

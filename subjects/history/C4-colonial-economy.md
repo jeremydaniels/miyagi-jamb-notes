@@ -65,7 +65,7 @@ The British built infrastructure not to connect Nigerian communities to one anot
 
 ### Transportation
 - **Railways:** This was the most important transport investment. 
-  - The Western line started from **Lagos in 1898**, reached Ibadan in 1901, and got to **Kano around 1911/1912**. It was used to export cocoa, cotton, and groundnuts.
+  - The Western line started from **Lagos in 1896**, reached Ibadan in 1901, and got to **Kano around 1911/1912**. It was used to export cocoa, cotton, and groundnuts.
   - The Eastern line started from **Port Harcourt in 1913** and reached **Enugu in 1916**. Its primary purpose was to transport newly discovered coal from Enugu to the coast.
 - **Roads:** The government built "feeder roads." These were dirt or laterite roads designed to connect agricultural villages to the nearest railway stations. 
 - **Harbours (Ports):** Deep-water ports were developed at **Lagos (Apapa)** and **Port Harcourt** so that large European steamships could dock and load raw materials. Port Harcourt was completely built from scratch by the British specifically for exporting coal.
@@ -143,7 +143,7 @@ The first successful bank was the **Bank of British West Africa (BBWA)**, establ
 Frustrated by this discrimination, wealthy Nigerians began establishing their own banks to support local businesses. 
 - In 1933, the **National Bank of Nigeria** was founded.
 - In 1945, **Agbonmagbe Bank** was established.
-- In 1947, Nnamdi Azikiwe founded the **African Continental Bank (ACB)** to help Nigerian entrepreneurs who were being ignored by the British banks. 
+- Azikiwe's bank, which became the **African Continental Bank (ACB)** in the 1940s, was set up to help Nigerian entrepreneurs who were being ignored by the British banks. 
 - While many early indigenous banks failed due to lack of capital and experience, they represented a strong push for Nigerian economic independence.
 
 ## Key terms

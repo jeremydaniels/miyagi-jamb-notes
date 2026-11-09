@@ -187,7 +187,7 @@ Nigeria's vast size means the North and South have different climates, producing
 **2. Regional Trade (within ECOWAS):**
 Nigeria trades with its West African neighbours. 
 - **Exports to ECOWAS:** Crude oil, refined petroleum, manufactured plastics, and agricultural produce.
-- **Imports from ECOWAS:** Livestock from Niger and Chad, specific manufactured items.
+- **Imports from ECOWAS:** Livestock from Niger and Mali (Chad, a neighbour outside ECOWAS, also supplies livestock), specific manufactured items.
 
 **3. International (External) Trade:**
 This is trade between Nigeria and the rest of the world (e.g., USA, China, Europe).

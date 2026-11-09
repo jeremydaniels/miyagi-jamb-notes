@@ -194,7 +194,7 @@ Following Rabeh's death, the European powers (Britain, France, and Germany) part
 - C. 1893
 - D. 1914
 
-**Answer: B.** The dynasty ended in 1846 when Shehu Umar executed Mai Ibrahim and his heir after Ibrahim attempted a rebellion with the help of the Wadai Empire. 
+**Answer: B.** The dynasty ended in 1846 when Shehu Umar executed Mai Ibrahim after Ibrahim attempted a rebellion with the help of the Wadai Empire. Ibrahim's young son and heir, Ali, was killed in battle soon after. 
 
 **5. Which title was officially adopted by the rulers of the al-Kanemi dynasty after the fall of the Saifawa?**
 - A. Mai

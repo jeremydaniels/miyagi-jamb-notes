@@ -3,6 +3,7 @@
   python tools/preview.py grid NAME [NAME ...]       raw image with a coordinate grid
   python tools/preview.py zoom NAME X0 Y0 X1 Y1 [S]  enlarged crop (scale S, default 3) with a fine grid
   python tools/preview.py small NAME [NAME ...]      smaller copy of the FINAL labelled image
+  python tools/preview.py sheet NAME [NAME ...]      contact sheet of raw images (3 per row, names underneath)
 
 Output goes to <work>/preview/. Grid numbers are raw-image pixel coordinates,
 which is what label specs use.
@@ -49,9 +50,22 @@ def small(name, out_dir=os.path.join(REPO, "subjects", "biology", "images")):
     return im.resize((int(im.width * 0.6), int(im.height * 0.6)), Image.LANCZOS), f"small-{name}.png"
 
 
+def sheet(names, cols=3, cell=500):
+    rows = (len(names) + cols - 1) // cols
+    f = font("medium", 16)
+    out = Image.new("RGB", (cols * cell, rows * (cell + 24)), "white")
+    d = ImageDraw.Draw(out)
+    for k, n in enumerate(names):
+        im = Image.open(os.path.join(RAW, n + ".png")).convert("RGB").resize((cell, cell), Image.LANCZOS)
+        x, y = (k % cols) * cell, (k // cols) * (cell + 24)
+        out.paste(im, (x, y))
+        d.text((x + 4, y + cell + 3), n[:60], fill=(40, 44, 52), font=f)
+    return out, "sheet-" + names[0] + ".png"
+
+
 if __name__ == "__main__":
     cmd, args = sys.argv[1], sys.argv[2:]
-    jobs = [zoom(*args)] if cmd == "zoom" else [{"grid": grid, "small": small}[cmd](n) for n in args]
+    jobs = [zoom(*args)] if cmd == "zoom" else [sheet(args)] if cmd == "sheet" else [{"grid": grid, "small": small}[cmd](n) for n in args]
     for im, fname in jobs:
         im.save(os.path.join(PREVIEW, fname))
         print(os.path.join(PREVIEW, fname))

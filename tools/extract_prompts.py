@@ -83,6 +83,8 @@ def main():
             if m:
                 labels = split_labels(m.group(1))
                 body = (body[:m.start()] + body[m.end():]).strip()
+            body = re.sub(r"\s*\((?:labelled|labeled|label)[^)]*\)", "", body)          # inline (labelled \"...\") remarks
+            body = re.sub(r"\s*(?:labelled|labeled)\s+\"[^\"]*\"", "", body)
             body = re.sub(r"\s*Clean flat textbook style,? white background,?[^.]*\.?", "", body).strip()
             body = re.sub(r"\s+", " ", body)
             name = f"{prefix}-{slot_no:02d}-{slug(classes.get(ph_no, {}).get('kind') or body)}"

@@ -32,7 +32,7 @@ EST_PER_IMAGE = 0.15   # reserved per in-flight call when checking the budget (c
 STYLE = ("Clean, flat educational illustration like a modern {subject} textbook. Pure white background. "
          "Consistent soft colour palette (soft greens, blues, pinks, lavender, warm creams). Smooth outlines, "
          "no photorealism, no shadows or gradients beyond gentle shading. Leave clear white space around the subject "
-         "so labels can be added later. ABSOLUTELY NO TEXT, NO LETTERS, NO NUMBERS, NO LABELS, NO ARROWS, NO LEADER LINES anywhere in the image. "
+         "so labels can be added later. ABSOLUTELY NO TEXT, NO LETTERS, NO NUMBERS, NO LABELS, NO CAPTIONS, NO ARROWS, NO LEADER LINES anywhere in the image: even where the description names a part, draw the part but do not write its name. "
          "Square image.")
 
 _lock = threading.Lock()
@@ -105,6 +105,7 @@ def main():
     ap.add_argument("--budget", type=float, default=5.00, help="stop before the running total passes this (USD)")
     ap.add_argument("--workers", type=int, default=4)
     ap.add_argument("--subject", default="biology", help='fills "like a modern ___ textbook" in the style text')
+    ap.add_argument("--suffix", default="", help="added to every output name (for example -pro, to compare models)")
     ap.add_argument("--total", action="store_true", help="print the running cost and exit")
     ap.add_argument("--models", action="store_true", help="list image models available to this key and exit")
     a = ap.parse_args()
@@ -120,7 +121,7 @@ def main():
     with open(a.prompts) as f:
         jobs = [j for j in json.load(f) if not a.names or j[0] in a.names]
     with ThreadPoolExecutor(a.workers) as ex:
-        for line in ex.map(lambda j: generate(a.model, j[0], j[1], a.budget, a.subject), jobs):
+        for line in ex.map(lambda j: generate(a.model, j[0] + a.suffix, j[1], a.budget, a.subject), jobs):
             print(line, flush=True)
 
 

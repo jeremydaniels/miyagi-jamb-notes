@@ -1,0 +1,31 @@
+{
+ "B6b-02-bone-structure-osteon": [
+  "articular cartilage",
+  "epiphysis",
+  "spongy bone",
+  "red marrow",
+  "growth plate",
+  "diaphysis",
+  "compact bone",
+  "marrow cavity",
+  "yellow marrow",
+  "periosteum",
+  "blood vessel",
+  "Haversian canal",
+  "lamellae",
+  "lacuna",
+  "osteocyte",
+  "canaliculi"
+ ],
+ "B6b-10-synovial-joint-cross-section": [
+  "bone",
+  "articular cartilage",
+  "synovial membrane",
+  "synovial fluid",
+  "synovial cavity",
+  "joint capsule",
+  "ligament",
+  "muscle",
+  "tendon"
+ ]
+}

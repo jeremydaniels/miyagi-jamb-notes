@@ -147,7 +147,7 @@ Agricultural extension in West Africa has immense potential, but the system is h
 
 1. **Inadequate funding:** Government budgets for agricultural extension are often too small. This leads to a lack of basic equipment, poor facilities, and unpaid allowances.
 2. **Poor transportation and infrastructure:** Many rural farming communities lack motorable feeder roads. Extension agents struggle to reach these areas, especially during the rainy season.
-3. **High extension agent-to-farmer ratio (Inadequate personnel):** There are too few trained extension workers for the millions of farmers. In Nigeria, one agent might be responsible for over 3,000 farmers, making it impossible to visit them all regularly.
+3. **High farmer-to-extension agent ratio (Inadequate personnel):** There are too few trained extension workers for the millions of farmers. In Nigeria, one agent might be responsible for over 3,000 farmers, making it impossible to visit them all regularly.
 4. **High level of illiteracy:** Many traditional farmers cannot read or write. This makes it difficult to use mass media like newspapers or pamphlets, and slows down the adoption of modern, complex techniques.
 5. **Conservatism of farmers:** Many older farmers are strictly bound by culture and tradition. They are highly suspicious of new ideas and refuse to change their old farming habits.
 6. **Language barriers:** Extension agents sometimes do not speak the local dialect of the community they are posted to, leading to a total breakdown in communication.
@@ -162,7 +162,7 @@ To solve the problems listed above and improve extension delivery, the following
 
 1. **Adequate and timely funding:** The government and NGOs must allocate sufficient funds to agriculture and ensure they are released on time to buy inputs and run extension programmes.
 2. **Provision of mobility:** Extension workers must be provided with durable motorcycles, bicycles, or four-wheel-drive vehicles, along with adequate transport allowances, so they can reach remote villages.
-3. **Training and employing more staff:** Universities and colleges of agriculture need to train more extension personnel, and governments must employ them to reduce the agent-to-farmer ratio to an acceptable level.
+3. **Training and employing more staff:** Universities and colleges of agriculture need to train more extension personnel, and governments must employ them to reduce the farmer-to-agent ratio to an acceptable level.
 4. **Adult literacy programmes:** The government should provide adult education for rural farmers to teach them basic reading and writing, making extension work easier.
 5. **Use of local languages:** Extension broadcasts on radio should be done in local languages (e.g., Hausa, Igbo, Yoruba, Pidgin), and agents should be posted to areas where they understand the local dialect.
 6. **Better motivation and incentives:** Extension workers should be given attractive salaries, prompt promotions, and rural-posting allowances to keep them motivated.
@@ -192,7 +192,7 @@ To solve the problems listed above and improve extension delivery, the following
   * *Method* = How to do it (for example, how to graft a plant).
   * *Result* = What happens when you do it (for example, comparing yields of two maize varieties).
 * **The best method for illiterate and dispersed farmers:** Radio is the most effective mass method in West Africa because it crosses the literacy barrier and reaches remote areas quickly.
-* **Agent-to-farmer ratio:** Understand that a *high* extension agent-to-farmer ratio means one agent is managing too many farmers (for example, 1 to 3,000), which is a major problem, not a sign of efficiency.
+* **Farmer-to-agent ratio:** Understand that a *high* farmer-to-extension agent ratio means one agent is managing too many farmers (for example, 3,000 farmers to 1 agent), which is a major problem, not a sign of efficiency.
 
 ## Quick summary
 
@@ -247,12 +247,12 @@ To solve the problems listed above and improve extension delivery, the following
 **Answer: C.** Research institutes (like IITA, CRIN, NIFOR) are responsible for breeding new varieties and developing new technologies, which are then passed to extension agents.
 
 **6. A major problem facing agricultural extension in West Africa is**
-- A. a low extension agent-to-farmer ratio.
-- B. a high extension agent-to-farmer ratio.
+- A. a low farmer-to-extension agent ratio.
+- B. a high farmer-to-extension agent ratio.
 - C. over-funding of the agricultural sector.
 - D. farmers being too eager to adopt new technologies.
 
-**Answer: B.** A high agent-to-farmer ratio (for example, 1 agent to 3,000 farmers) means there are too few agents to adequately cover all the farmers. It is a major bottleneck.
+**Answer: B.** A high farmer-to-agent ratio (for example, 3,000 farmers to 1 agent) means there are too few agents to adequately cover all the farmers. It is a major bottleneck.
 
 **7. Which of the following is an individual extension method?**
 - A. Agricultural show

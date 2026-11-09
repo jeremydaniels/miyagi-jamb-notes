@@ -313,7 +313,7 @@ The American political scientists **Gabriel Almond** and **Sidney Verba** identi
 
 **Answer: B.** A frequent JAMB trap. The State remains intact continuously (permanent), while governments change regularly through elections or coups (temporary). Option C is wrong because the State possesses original sovereignty.
 
-**6. A country made up of different ethnic groups sharing a common cultural identity in various regions but united under one sovereign political entity is best described as a**
+**6. A country made up of different ethnic groups, each with its own distinct culture, but united under one sovereign political entity is best described as a**
 
 - A. pure nation-state
 - B. stateless nation

@@ -141,7 +141,7 @@ This account checks if any goods are missing (a shortage).
 | | | | | Branch Debtors (Credit Sales)| 220,000 |
 | | | | | Goods Sent to Branch (Returns)| 10,000 |
 | | | | | Balance c/d (Closing Stock) | 15,000 |
-| | | | | **Branch Adjustment (Shortage)** | **5,000** |
+| | | | | **Stock Shortage (at invoice price)** | **5,000** |
 | | **Total** | **500,000** | | **Total** | **500,000** |
 
 **Step 3: Prepare the Branch Adjustment Account to find Gross Profit.**

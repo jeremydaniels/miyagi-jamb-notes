@@ -157,7 +157,7 @@ World War II was arguably the most significant external catalyst for decolonizat
 ### 2. Pan-Africanism
 **Pan-Africanism** is the belief that all people of African descent share a common bond and should unite to fight for their freedom and dignity.
 *   Leaders like **W.E.B. Du Bois** organized Pan-African Congresses globally.
-*   **The 5th Pan-African Congress in Manchester (1945)** was a turning point. It was attended by African leaders like Kwame Nkrumah (Ghana), Jomo Kenyatta (Kenya), and Nnamdi Azikiwe (Nigeria). At this congress, the strategy changed from politely asking for colonial reforms to aggressively demanding immediate, absolute independence, sometimes using the threat of strikes and boycotts.
+*   **The 5th Pan-African Congress in Manchester (1945)** was a turning point. It was attended by African leaders like Kwame Nkrumah (Ghana) and Jomo Kenyatta (Kenya). At this congress, the strategy changed from politely asking for colonial reforms to aggressively demanding immediate, absolute independence, sometimes using the threat of strikes and boycotts.
 
 ### 3. Back-to-Africa Movements (Garveyism)
 Led by the Jamaican-born **Marcus Garvey**, who founded the Universal Negro Improvement Association (UNIA) in the USA. He promoted the idea of "Africa for Africans" and racial pride. His militant newspaper, *The Negro World*, was smuggled into West Africa and deeply inspired early nationalists like Nnamdi Azikiwe to believe in black dignity and self-reliance.
@@ -265,7 +265,7 @@ In 1945, the Labour Party won the elections in Britain, replacing Winston Church
 - C. Manchester
 - D. New York
 
-**Answer: C.** The crucial 5th Pan-African Congress, attended by Azikiwe, Nkrumah, and Kenyatta, was held in Manchester, UK, in 1945.
+**Answer: C.** The crucial 5th Pan-African Congress, attended by leaders such as Nkrumah and Kenyatta, was held in Manchester, UK, in 1945.
 
 **8. Which of the following parties was formed specifically to advocate for the rights of minority ethnic groups in the Northern Region?**
 - A. Northern People's Congress (NPC)

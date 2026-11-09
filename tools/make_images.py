@@ -80,7 +80,7 @@ def load_jobs(subject, prefixes):
         for slot, idx in enumerate(ex.slots(lines), 1):
             if not lines[idx].startswith("[IMAGE:"):
                 continue
-            ph += 1
+            ph = slot          # in files without earlier images every slot was a placeholder, so slot == original placeholder number
             c = cls.get(ph, {}); grp = c.get("group", "AI")
             body, labels = ex.parse_placeholder(lines[idx])
             full = " ".join(lines[idx][7:].rstrip().rstrip("]").split())
@@ -148,7 +148,8 @@ def check_raw(job, path):
     pr = ("You are checking an UNLABELLED textbook illustration against the description it must match.\n"
           f"DESCRIPTION: {job['prompt']}\n"
           + (f"PARTS THAT WILL BE LABELLED LATER (each must be visible and distinguishable): {', '.join(job['labels'])}\n" if job["labels"] else "")
-          + "Rules: the picture must contain NO text, letters, numbers, labels or captions. Check (1) every part and panel named in the description is present, "
+          + "Arrows, step numbers, captions and label text named in the description will be added LATER in code: do not require them, and do not fail the picture because they are absent or because simple arrows are drawn. "
+          "Rules: the picture must contain NO text, letters, numbers, labels or captions. Check (1) every part and panel named in the description is present, "
           "correctly drawn, in the stated positions, counts, relative sizes and colours; (2) nothing extra or contradictory (for example organs shown when only the outside was asked); "
           "(3) the biology or science drawn is accurate. Judge it as a teacher choosing a textbook figure: set ok=true if it is accurate and usable for teaching, even if it is not perfect. "
           "Do NOT fail the picture for colour differences from the description (colours are soft guidance), artistic style, small differences of proportion, small differences in the number of minor repeated details (for example the exact number of cilia or gill filaments), or for things you cannot see clearly. "
@@ -191,11 +192,11 @@ def gen_standard(job, model, prompt):
     return cost
 
 
-def batch_generate(jobs, model, label="imgs", poll=30):
+def batch_generate(jobs, model, label="imgs", poll=30, prompts=None):
     """Generate with the Batch API; returns {name: ok}. Cost assumed half of standard (unverified)."""
     reqs = {}
     for j in jobs:
-        prompt = j["prompt"] + "\n\nStyle: " + gen.STYLE.format(subject="biology")
+        prompt = (prompts or {}).get(j["name"], j["prompt"]) + "\n\nStyle: " + gen.STYLE.format(subject="biology")
         reqs[j["name"]] = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                            "generationConfig": {"responseModalities": ["TEXT", "IMAGE"], "imageConfig": {"aspectRatio": "1:1"}}}
     name, _ = g.submit_batch(reqs, model, f"{SUBJ}-{label}")
@@ -230,40 +231,28 @@ def batch_generate(jobs, model, label="imgs", poll=30):
     return ok
 
 
-# ---------------------------------------------------------------- AI image processing
+# ---------------------------------------------------------------- AI image processing (rounds)
 
-def process_ai(job, pre_generated=False):
-    st = load_state(job)
-    if st["status"] in ("passed", "failed"):
-        return st
-    name = job["name"]; raw = os.path.join(RAW, name + ".png")
-    prompt = job["prompt"]; st.setdefault("log", []); st["status"] = "working"
-    model = job["model"]; ok = False; chk = None
-    for attempt in range(3):
-        if attempt == 0 and (pre_generated or os.path.exists(raw)):
-            pass
-        else:
-            m = PRO_IMG if attempt > 0 else model
-            fb = "" if not chk else " IMPORTANT corrections from the previous attempt: " + "; ".join(chk["problems"][:6])
-            gen_standard(job, m, prompt + fb)
-        chk = check_raw(job, raw)
-        st["log"].append({"attempt": attempt, "ok": chk["ok"], "problems": chk["problems"], "stray": chk["stray_text"]})
-        if name in ACCEPT and chk["stray_text"] != "significant":
-            chk["ok"] = True; st["log"].append({"accepted_by_reviewer": True})
-        if chk["ok"] and chk["stray_text"] != "significant":
-            ok = True; break
-        if os.path.exists(raw) and attempt < 2:
-            os.replace(raw, os.path.join(FAIL_DIR, f"{name}-try{attempt}.png"))
-    if not ok:
-        st["status"] = "failed"; st["reason"] = "raw check: " + "; ".join(chk["problems"][:4]); save_state(job, st); return st
+def clean_prompt(s):
+    s = re.sub(r"\bnumbered\b", "", s)
+    s = re.sub(r"\bnumber(?:s|ing)? (?:1|one) to \w+\b", "", s)
+    return re.sub(r"\s+", " ", s)
+
+
+def raw_path(job):
+    return os.path.join(RAW, job["name"] + ".png")
+
+
+def label_stage(job, st, chk):
+    """Place and check labels for a job whose raw image passed. Sets st['status'] to passed or failed."""
+    name = job["name"]; raw = raw_path(job)
     spec = {}
     if chk["stray_text"] == "tiny" and chk.get("tiny_boxes"):
         spec["whiten"] = [[max(0, int(b[0] * 1.024) - 8), max(0, int(b[1] * 1.024) - 8), min(1024, int(b[2] * 1.024) + 8), min(1024, int(b[3] * 1.024) + 8)] for b in chk["tiny_boxes"] if len(b) == 4]
-    alt = re.sub(r"[\[\]\"\n]", " ", chk["alt"]).strip()
-    st["alt"] = alt
+    st["alt"] = re.sub(r"[\[\]\"\n]", " ", chk["alt"]).strip()
     out = os.path.join(REPO, "subjects", job["subject"], "images")
     if not job["labels"]:
-        lab.render(name, spec, out); st["spec"] = spec; st["status"] = "passed"; save_state(job, st); return st
+        lab.render(name, spec, out); st["spec"] = spec; st["status"] = "passed"; save_state(job, st); return
     labels = job["labels"]; pts = {}; feedback = ""; todo = list(labels); bad = []
     for attempt in range(3):
         newp = place_points(job, raw, todo, feedback)
@@ -279,7 +268,7 @@ def process_ai(job, pre_generated=False):
         bad = [r for r in res["labels"] if not r["ok"]]
         st["log"].append({"label_attempt": attempt, "bad": [(b["label"], b.get("issue", "")) for b in bad], "overlap": res["overlap"], "unreadable": res["unreadable"]})
         if not bad and not res["unreadable"]:
-            st["spec"] = spec2; st["status"] = "passed"; st["overlap_flag"] = bool(res["overlap"]); save_state(job, st); return st
+            st["spec"] = spec2; st["status"] = "passed"; st["overlap_flag"] = bool(res["overlap"]); save_state(job, st); return
         todo = [b["label"] for b in bad] or labels
         feedback = "; ".join(f"{b['label']}: {b.get('issue','wrong part')}" for b in bad)
     st["status"] = "failed"; st["reason"] = "labels still wrong after 3 placements: " + "; ".join(b["label"] for b in bad)
@@ -287,7 +276,89 @@ def process_ai(job, pre_generated=False):
         os.replace(os.path.join(out, name + ".png"), os.path.join(FAIL_DIR, name + "-labelled.png"))
     except OSError:
         pass
-    save_state(job, st); return st
+    save_state(job, st)
+
+
+def run_ai(jobs, workers, use_batch=True, pre_generated=()):
+    """Generate -> check (rounds 0..2, retries on Pro with the problems fed back) -> label. Returns nothing; state in job files."""
+    jobs = [j for j in jobs if not j["code"] and load_state(j)["status"] not in ("passed", "failed")]
+    if not jobs:
+        return
+    states = {j["name"]: load_state(j) for j in jobs}
+    for s in states.values():
+        s.setdefault("log", []); s["status"] = "working"
+    fb = {}; chks = {}; active = list(jobs); passed = []
+    def prompt_of(j):
+        return clean_prompt(j["prompt"]) + ("" if j["name"] not in fb else " IMPORTANT corrections from the previous attempt (fix these): " + fb[j["name"]])
+    for rnd in range(3):
+        if not active or STOP.is_set():
+            break
+        need = [j for j in active if not os.path.exists(raw_path(j))]
+        pro_round = rnd > 0
+        for model in (FLASH_IMG, PRO_IMG):
+            grp = [j for j in need if (PRO_IMG if pro_round else j["model"]) == model]
+            if not grp:
+                continue
+            ok = {}
+            try:
+                if use_batch:
+                    check_cap(0.04 * len(grp))
+                    ok = batch_generate(grp, model, label=f"r{rnd}-{model[-9:]}", prompts={j["name"]: prompt_of(j) for j in grp})
+            except Capped:
+                break
+            def one(j, model=model):
+                if ok.get(j["name"]):
+                    return
+                try:
+                    gen_standard(j, model, prompt_of(j))
+                except Capped:
+                    pass
+                except Exception as e:
+                    print(f"[gen-error] {j['name']}: {g.scrub(str(e))[:200]}", flush=True)
+            with ThreadPoolExecutor(workers) as ex_:
+                list(ex_.map(one, grp))
+        def chk_one(j):
+            if not os.path.exists(raw_path(j)):
+                return j, None
+            try:
+                c = check_raw(j, raw_path(j))
+            except Capped:
+                return j, None
+            except Exception as e:
+                print(f"[check-error] {j['name']}: {g.scrub(str(e))[:200]}", flush=True); return j, None
+            if j["name"] in ACCEPT and c["stray_text"] != "significant":
+                c["ok"] = True
+            return j, c
+        with ThreadPoolExecutor(workers) as ex_:
+            results = list(ex_.map(chk_one, active))
+        nxt = []
+        for j, c in results:
+            s = states[j["name"]]
+            if c is None:
+                continue
+            s["log"].append({"round": rnd, "ok": c["ok"], "problems": c["problems"], "stray": c["stray_text"]})
+            if c["ok"] and c["stray_text"] != "significant":
+                chks[j["name"]] = c; passed.append(j)
+            else:
+                fb[j["name"]] = "; ".join(c["problems"][:5]) or "the picture must contain no text, letters or numbers"
+                s["reason"] = "raw check: " + fb[j["name"]]
+                os.replace(raw_path(j), os.path.join(FAIL_DIR, f"{j['name']}-try{rnd}.png"))
+                nxt.append(j)
+        active = nxt
+        print(f"[round {rnd}] passed so far {len(passed)}, still to fix {len(active)}, spend ${spent():.2f}", flush=True)
+    for j in active:
+        s = states[j["name"]]; s["status"] = "failed"; save_state(j, s)
+    def lab_one(j):
+        s = states[j["name"]]
+        try:
+            label_stage(j, s, chks[j["name"]])
+        except Capped:
+            s["status"] = "pending"; save_state(j, s)
+        except Exception as e:
+            print(f"[label-error] {j['name']}: {g.scrub(str(e))[:200]}", flush=True)
+            s["status"] = "failed"; s["reason"] = "label error: " + g.scrub(str(e))[:150]; save_state(j, s)
+    with ThreadPoolExecutor(workers) as ex_:
+        list(ex_.map(lab_one, passed))
 
 
 # ---------------------------------------------------------------- code-drawn images
@@ -421,28 +492,35 @@ def finalize_file(topic, jobs, push=False):
 
 # ---------------------------------------------------------------- main
 
-def run(jobs, workers, batch_names=None, push_every=3):
+def run(jobs, workers, use_batch=True, chunk=45, push_every=2):
+    """Process jobs in chunks of whole notes files: AI images by rounds, code images in parallel, then place and commit each file."""
     by_file = {}
     for j in jobs: by_file.setdefault(j["topic"], []).append(j)
-    remaining = {t: len(v) for t, v in by_file.items()}; counter = {"n": 0}
-    pre = batch_names or set()
-
-    def work(job):
-        try:
-            if STOP.is_set(): raise Capped("stopped")
-            st = process_code(job) if job["code"] else process_ai(job, pre_generated=job["name"] in pre)
-        except Capped as e:
-            st = None; print(f"[stop] {job['name']}: {e}", flush=True)
-        except Exception as e:
-            print(f"[error] {job['name']}: {type(e).__name__}: {g.scrub(str(e))[:300]}", flush=True)
-            s = load_state(job); s["status"] = "failed"; s["reason"] = "error: " + g.scrub(str(e))[:200]; save_state(job, s)
-        with LOCK:
-            remaining[job["topic"]] -= 1; last = remaining[job["topic"]] == 0
-        if last:
-            counter["n"] += 1
-            finalize_file(job["topic"], by_file[job["topic"]], push=(counter["n"] % push_every == 0))
-    with ThreadPoolExecutor(workers) as ex_:
-        list(ex_.map(work, jobs))
+    chunks, cur, n = [], [], 0
+    for topic, js in by_file.items():
+        cur.append(topic); n += len(js)
+        if n >= chunk: chunks.append(cur); cur, n = [], 0
+    if cur: chunks.append(cur)
+    done_files = 0
+    for ch in chunks:
+        if STOP.is_set(): break
+        cj = [j for t_ in ch for j in by_file[t_]]
+        print(f"[chunk] {len(cj)} images in {', '.join(ch)}", flush=True)
+        run_ai(cj, workers, use_batch)
+        def cwork(j):
+            try:
+                if STOP.is_set(): return
+                process_code(j)
+            except Capped as e:
+                print(f"[stop] {j['name']}: {e}", flush=True)
+            except Exception as e:
+                print(f"[error] {j['name']}: {type(e).__name__}: {g.scrub(str(e))[:300]}", flush=True)
+                s = load_state(j); s["status"] = "failed"; s["reason"] = "error: " + g.scrub(str(e))[:200]; save_state(j, s)
+        with ThreadPoolExecutor(workers) as ex_:
+            list(ex_.map(cwork, [j for j in cj if j["code"] and load_state(j)["status"] not in ("passed", "failed")]))
+        for t_ in ch:
+            done_files += 1
+            finalize_file(t_, by_file[t_], push=(done_files % push_every == 0))
     subprocess.run(["git", "push", "-q", "origin", "main"], cwd=REPO, capture_output=True)
 
 
@@ -451,8 +529,8 @@ def main():
     ap.add_argument("--subject", default="biology"); ap.add_argument("--files", nargs="*", default=[])
     ap.add_argument("--run", action="store_true"); ap.add_argument("--status", action="store_true")
     ap.add_argument("--workers", type=int, default=6); ap.add_argument("--limit", type=int)
-    ap.add_argument("--batch-test", type=int, help="generate this many Flash images through the Batch API first")
-    ap.add_argument("--batch", action="store_true", help="first generations of Flash and Pro jobs through the Batch API")
+    ap.add_argument("--no-batch", action="store_true", help="use standard calls instead of the Batch API")
+    ap.add_argument("--chunk", type=int, default=45, help="images per chunk (whole notes files)")
     ap.add_argument("--only", nargs="*", help="only these image names")
     ap.add_argument("--accept", nargs="*", default=[], help="names of raw images accepted after I looked at them")
     ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
@@ -467,18 +545,9 @@ def main():
         c = {}
         for j in jobs: c[load_state(j)["status"]] = c.get(load_state(j)["status"], 0) + 1
         print(len(jobs), "jobs", c, f"spend ${spent():.2f}"); return
-    pre = set()
     todo = [j for j in jobs if load_state(j)["status"] not in ("passed", "failed")]
-    if a.batch_test or a.batch:
-        cand = [j for j in todo if not j["code"] and not os.path.exists(os.path.join(RAW, j["name"] + ".png"))]
-        sel = [j for j in cand if j["model"] == FLASH_IMG][: a.batch_test] if a.batch_test else cand
-        for model in (FLASH_IMG, PRO_IMG):
-            grp = [j for j in sel if j["model"] == model]
-            if grp:
-                okm = batch_generate(grp, model, label=f"{model[-12:]}")
-                pre |= {n for n, v in okm.items() if v}
     if a.run:
-        run(todo, a.workers, pre)
+        run(todo, a.workers, use_batch=not a.no_batch, chunk=a.chunk)
     print(f"spend ${spent():.2f}")
 
 

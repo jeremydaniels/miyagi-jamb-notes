@@ -89,7 +89,7 @@ def main():
             line = lines[idx]
             if not line.startswith("[IMAGE:"):
                 continue
-            ph_no += 1
+            ph_no = slot_no          # slot == original placeholder number in files without earlier images
             if a.only and slot_no not in a.only:
                 continue
             grp = classes.get(ph_no, {}).get("group", "AI")

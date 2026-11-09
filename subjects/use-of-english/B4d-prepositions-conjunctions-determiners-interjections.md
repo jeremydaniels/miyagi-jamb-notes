@@ -711,7 +711,7 @@ Interjections are rarely tested on their own in JAMB, but they can appear in com
 - C. is
 - D. has been
 
-**How to think:** with "neither … nor", the verb agrees with the nearer subject, "the players" (plural). "Is" and "has been" are singular, and the sentence is in the past. **Answer: B.**
+**How to think:** with "neither … nor", the verb agrees with the nearer subject, "the players" (plural). "Was", "is" and "has been" are all singular, so only the plural "were" fits. **Answer: B.**
 
 **Example 4 (interpretation).** *Few candidates answered the last question.* This means
 

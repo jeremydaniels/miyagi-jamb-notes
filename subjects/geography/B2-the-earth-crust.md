@@ -27,7 +27,7 @@ The inside of the Earth consists of three main concentric layers (like the layer
    - **Inner Core:** Solid, despite the extreme heat (up to 5,500 °C), because of the immense pressure from the layers above it.
    - **Outer Core:** Liquid molten rock and metal.
 2. **The Mantle (Mesosphere):** The middle layer, about 2,900 km thick. It lies between the core and the crust. It consists of very hot, dense, semi-solid rocks (rich in iron and magnesium). The upper part of the mantle is called the **asthenosphere**, which is soft and plastic-like, allowing tectonic plates to slide over it.
-3. **The Crust (Lithosphere):** The outermost solid shell of the Earth. It is the thinnest layer (about 5 to 50 km thick). It is divided into two parts:
+3. **The Crust:** The outermost solid shell of the Earth. It is the thinnest layer (about 5 to 50 km thick). It is divided into two parts:
    - **Continental Crust (Sial):** The upper layer forming the continents. It is made mostly of granite rocks which are rich in **Si**lica and **Al**uminium (SIAL). It is lighter and thicker.
    - **Oceanic Crust (Sima):** The lower layer forming the ocean floors. It is made mostly of heavier basaltic rocks rich in **Si**lica and **Ma**gnesium (SIMA).
 

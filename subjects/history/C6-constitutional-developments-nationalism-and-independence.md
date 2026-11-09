@@ -140,7 +140,7 @@ Despite the wide consultation, the Macpherson constitution broke down within two
 
 1.  **The Eastern Region Crisis (1953):** A severe internal conflict within the NCNC led to a breakdown of government in the Eastern Region, showing that the constitutional machinery was fragile.
 2.  **The 1953 Motion for Self-Government:** In the central House of Representatives, Chief Anthony Enahoro (of the Action Group) moved a motion demanding self-government for Nigeria in 1956. The Northern delegates, feeling the North was not yet ready, opposed it and amended the motion to "as soon as practicable". 
-3.  **The Kano Riots (1953):** Following the bitter debate over Enahoro's motion, Southern politicians were booed in the North, and the Action Group sent a delegation to Kano to campaign. This sparked violent clashes between Northerners and Southerners in Kano in May 1953, leaving many dead.
+3.  **The Kano Riots (1953):** Following the bitter debate over Enahoro's motion, Northern delegates were jeered by hostile crowds in Lagos, and an Action Group-led delegation then toured the North to campaign for self-government. This sparked violent clashes between Northerners and Southerners in Kano in May 1953, leaving many dead.
 4.  **Flaws of Quasi-Federalism:** Regional ministers felt they owed loyalty to their regional party leaders rather than the central government. The system was unworkable.
 
 ## The Lyttelton Constitution of 1954

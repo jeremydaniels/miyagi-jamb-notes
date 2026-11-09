@@ -30,20 +30,8 @@ George Gordon Byron, Lord Byron (1788 to 1824), wrote *She Walks in Beauty* in 1
 > Meet in her aspect and her eyes;
 > Thus mellowed to that tender light
 > Which heaven to gaudy day denies.
->
-> One shade the more, one ray the less,
-> Had half impaired the nameless grace
-> Which waves in every raven tress,
-> Or softly lightens o'er her face;
-> Where thoughts serenely sweet express
-> How pure, how dear their dwelling-place.
->
-> And on that cheek, and o'er that brow,
-> So soft, so calm, yet eloquent,
-> The smiles that win, the tints that glow,
-> But tell of days in goodness spent,
-> A mind at peace with all below,
-> A heart whose love is innocent!
+
+*(Only the first stanza is quoted here. Read stanzas 2 and 3 in your textbook; they are discussed below.)*
 
 ### Setting and Period
 The poem was written in 1814, in the **Romantic Period** of English literature. Romanticism was a movement that valued deep individual emotion, nature and imagination, moving away from the strict rules and reason of the previous century (the 18th century).

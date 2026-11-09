@@ -123,12 +123,12 @@ This happens when two or more firms in the **same industry** but at **different 
 - **Forward Vertical Integration:** A company merges with another company that serves as its distributor or retailer. It is moving "forward" towards the final consumer.
   - *Example:* A shoe factory buying a chain of retail shoe shops to guarantee an outlet for its manufactured shoes.
 
-#### 3. Conglomerate Combination (Lateral Merger / Amalgamation)
+#### 3. Conglomerate Combination
 This occurs when firms engaged in completely **different, unrelated industries** combine. 
 - **Main goal:** **Diversification**. If one industry suffers an economic downturn, the company can rely on profits from its other, unrelated industries.
 - **Nigerian Example:** The Dangote Group, which operates in cement manufacturing, sugar refining, salt processing, and petroleum refining. If the price of sugar falls, the company still makes money from cement.
 
-[IMAGE: A block diagram showing the types of business combinations using a footwear industry supply chain. Top to bottom: Cattle Ranch -> Leather Tannery -> Shoe Factory -> Shoe Retail Shop. Vertical arrows point up for 'Backward Vertical Integration' (from Shoe Factory to Leather Tannery) and down for 'Forward Vertical Integration' (from Shoe Factory to Shoe Retail Shop). Next to the 'Shoe Factory' block is another block named 'Rival Shoe Factory' with a horizontal arrow connecting them labelled 'Horizontal Integration'. Far off to the side is a block named 'Soft Drink Factory' with a dashed arrow connecting to the 'Shoe Factory' labelled 'Conglomerate (Lateral) Integration'. Clean flat textbook illustration, white background.]
+[IMAGE: A block diagram showing the types of business combinations using a footwear industry supply chain. Top to bottom: Cattle Ranch -> Leather Tannery -> Shoe Factory -> Shoe Retail Shop. Vertical arrows point up for 'Backward Vertical Integration' (from Shoe Factory to Leather Tannery) and down for 'Forward Vertical Integration' (from Shoe Factory to Shoe Retail Shop). Next to the 'Shoe Factory' block is another block named 'Rival Shoe Factory' with a horizontal arrow connecting them labelled 'Horizontal Integration'. Far off to the side is a block named 'Soft Drink Factory' with a dashed arrow connecting to the 'Shoe Factory' labelled 'Conglomerate Integration'. Clean flat textbook illustration, white background.]
 
 ### Other Important Forms of Business Combination
 

@@ -305,7 +305,7 @@ Each human kidney contains about **one million nephrons** (textbooks give figure
 8. **Collecting duct:** many distal tubules empty into one collecting duct, which runs down through the medulla (pyramid) and opens into the **pelvis**.
 9. **Blood capillaries** from the efferent arteriole surround the tubules and the loop of Henle and later join to form a branch of the **renal vein**.
 
-[IMAGE: Detailed diagram of a single nephron with its blood supply, arranged vertically with a dashed line marking the boundary between cortex (top) and medulla (bottom). Show the cup-shaped Bowman's capsule enclosing a red glomerulus; a wide afferent arteriole entering and a narrower efferent arteriole leaving; the proximal convoluted tubule coiling in the cortex; the loop of Henle dipping into the medulla with descending and ascending limbs; the distal convoluted tubule back in the cortex; and the collecting duct running down into the medulla towards the pelvis. A network of capillaries surrounds the tubules and joins into a blue branch of the renal vein. Labels: cortex, medulla, branch of renal artery, afferent arteriole, efferent arteriole, glomerulus, Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, collecting duct, capillary network, branch of renal vein, to pelvis. Red for oxygenated blood, blue for venous blood, tubules pale yellow. Clean flat textbook style, white background.]
+![Diagram of a kidney nephron with blood vessels and collecting duct separated by a dashed boundary line representing cortex and medulla.](images/B5-08-nephron-structure-detailed.png)
 
 ### How urine is formed: step by step
 

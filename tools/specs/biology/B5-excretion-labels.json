@@ -1,0 +1,118 @@
+{
+ "B5-08-nephron-structure-detailed": {
+  "labels": [
+   [
+    "cortex",
+    [
+     102,
+     307
+    ],
+    "L"
+   ],
+   [
+    "medulla",
+    [
+     102,
+     614
+    ],
+    "L"
+   ],
+   [
+    "branch of renal artery",
+    [
+     199,
+     276
+    ],
+    "L"
+   ],
+   [
+    "afferent arteriole",
+    [
+     307,
+     71
+    ],
+    "L"
+   ],
+   [
+    "efferent arteriole",
+    [
+     604,
+     143
+    ],
+    "R"
+   ],
+   [
+    "glomerulus",
+    [
+     440,
+     143
+    ],
+    "L"
+   ],
+   [
+    "Bowman's capsule",
+    [
+     440,
+     56
+    ],
+    "L"
+   ],
+   [
+    "proximal convoluted tubule",
+    [
+     368,
+     327
+    ],
+    "L"
+   ],
+   [
+    "loop of Henle",
+    [
+     486,
+     896
+    ],
+    "L"
+   ],
+   [
+    "distal convoluted tubule",
+    [
+     578,
+     317
+    ],
+    "R"
+   ],
+   [
+    "collecting duct",
+    [
+     693,
+     512
+    ],
+    "R"
+   ],
+   [
+    "capillary network",
+    [
+     588,
+     563
+    ],
+    "R"
+   ],
+   [
+    "branch of renal vein",
+    [
+     778,
+     747
+    ],
+    "R"
+   ],
+   [
+    "to pelvis",
+    [
+     691,
+     967
+    ],
+    "R"
+   ]
+  ]
+ }
+}

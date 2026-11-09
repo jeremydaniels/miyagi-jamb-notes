@@ -77,7 +77,7 @@ Ahmadu's forces defeated the Bambara and their Fulani allies at the **Battle of 
 3. **Economic and Social Reforms:** He ordered the sedentarization (settling down) of the nomadic Fulani cattle herders to ensure they attended mosques, received Islamic education, and paid taxes. He standardized weights and measures in the markets and established a strong economy based on agriculture and trade.
 4. **Promotion of Education:** He made Islamic education compulsory and built hundreds of Qur'anic schools. He banned alcohol, tobacco, and un-Islamic music and dancing.
 
-Seku Ahmadu died in 1845 and was succeeded by his son (Ahmadu Seku) and later his grandson (Ahmadu Ahmadu). The empire remained stable until it was conquered by Al-Hajj Umar in 1862.
+Seku Ahmadu died in 1845 and was succeeded by his son (Amadu II) and later his grandson (Amadu III). The empire remained stable until it was conquered by Al-Hajj Umar in 1862.
 
 ### The Jihad of Al-Hajj Umar (The Tukolor/Tijaniyya Empire)
 

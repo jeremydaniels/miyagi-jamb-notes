@@ -48,7 +48,7 @@ The most heavily tested area in JAMB for this topic is knowing the correct **bas
 
 **Table: Common Bases of Apportionment**
 
-| Expense | Best Basis of Apportionment | Reason |
+| Expense / Income | Best Basis of Apportionment | Reason |
 | :--- | :--- | :--- |
 | **Rent, Rates, and Building Insurance** | Floor area (square meters) | A department taking up more space in the building should pay a larger share of the rent. |
 | **Electricity / Lighting** | Number of light points OR Floor area | The more light bulbs or space a department has, the more electricity it uses. |

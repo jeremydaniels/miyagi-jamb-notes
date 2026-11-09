@@ -88,7 +88,7 @@ def parse_json(text):
 
 
 def make_body(entry, notes_path, syllabus, title, args, note=""):
-    _, block = su.find_topic(syllabus, entry["topic_heading"])
+    _, block = su.find_topic(syllabus, entry["topic_heading"]) if entry.get("topic_heading") else (None, syllabus)
     user = USER.format(file=entry["file"], syllabus=block or "", notes=notes_path.read_text())
     return g.build_body([{"text": user + note}], system=SYSTEM.format(title=title), code_execution=True,
                         thinking=args.thinking)
@@ -210,7 +210,11 @@ def main():
     a = ap.parse_args()
 
     sdir = g.ROOT / "subjects" / a.subject
-    plan = su.parse_plan((sdir / "PLAN.md").read_text())
+    if (sdir / "PLAN.md").exists():
+        plan = su.parse_plan((sdir / "PLAN.md").read_text())
+    else:   # subjects written before PLAN.md existed (Biology, Use of English): verify every note file
+        plan = [{"file": p.name, "topic_heading": "", "contents": [], "objectives": []}
+                for p in sorted(sdir.glob("*.md")) if re.match(r"[A-Z]\d", p.name)]
     syllabus = (sdir / "syllabus.md").read_text()
     ndir = Path(a.notes_dir) if a.notes_dir else sdir
     title = g.subject_title(a.subject)

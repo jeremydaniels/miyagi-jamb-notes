@@ -111,7 +111,7 @@ The urinary system removes toxic metabolic waste from the body.
 - **Urinary Bladder:** A sac that temporarily stores urine (note: birds do not have a bladder).
 - **Urethra:** A tube through which urine leaves the body. 
 
-**Avian difference:** Poultry do not produce liquid urine. Their kidneys convert waste into a thick, white paste called **uric acid** to conserve water. This goes straight into the cloaca and coats the faeces.
+**Avian difference:** Poultry do not produce liquid urine. Birds excrete nitrogenous waste mainly as a thick, white paste called **uric acid** to conserve water. This goes straight into the cloaca and coats the faeces.
 
 ### The Nervous System
 The nervous system detects changes in the environment and coordinates the animal's responses. 
@@ -202,7 +202,7 @@ True **climate change** refers to the long-term, global shift in these weather p
 - **Rumen vs. Abomasum:** A very common mistake is mixing up the ruminant stomach compartments. Remember: the **rumen** is the fermentation vat (contains microbes); the **abomasum** is the true, glandular stomach (produces acids and enzymes like a human stomach).
 - **Hardware stomach:** The **reticulum** is called the hardware stomach because heavy objects like nails or stones drop into it.
 - **Poultry digestion sequence:** Birds do not chew in their mouth. Remember the exact sequence: Crop (stores/softens) $\rightarrow$ Proventriculus (enzymes/acids) $\rightarrow$ Gizzard (grinds).
-- **Excretion in birds:** Birds excrete a mixture of faeces and urine (uric acid) through the **cloaca**. Do not choose options that say birds have a bladder or produce liquid urea.
+- **Excretion in birds:** Birds excrete a mixture of faeces and urine (uric acid) through the **cloaca**. Do not choose options that say birds have a bladder or produce liquid urine.
 - **Climate elements vs. Climate change:** Temperature, light, and humidity are *elements of climate*. *Climate change* is the long-term shift causing droughts, floods, and disease spread. JAMB tests both concepts under this topic.
 - **Veins vs. Arteries:** Arteries carry blood *away* from the heart. Veins carry blood *to* the heart. The common mistake is thinking all arteries carry oxygenated blood; remember the pulmonary artery carries deoxygenated blood to the lungs.
 
@@ -212,7 +212,7 @@ True **climate change** refers to the long-term, global shift in these weather p
 2. The digestive system of non-ruminants (pigs) has a single stomach. Poultry use a modified system: crop for storage, proventriculus for enzymes, and gizzard for grinding.
 3. Ruminants (cattle, sheep, goats) have a four-chambered stomach (rumen, reticulum, omasum, abomasum). They chew the cud and use microbes in the rumen to ferment plant fibre.
 4. Each body system has a distinct role: the circulatory system transports, the respiratory system exchanges gases, the urinary system filters waste, and the nervous system coordinates responses.
-5. Mammals excrete liquid urea from the kidneys via the bladder. Birds excrete semi-solid uric acid directly into the cloaca to conserve water.
+5. Mammals excrete liquid urine (containing urea) from the kidneys via the bladder. Birds excrete semi-solid uric acid directly into the cloaca to conserve water.
 6. Daily climate elements directly affect physiology. High temperatures cause heat stress, reducing feed intake and productivity. Light duration strictly controls egg production in poultry.
 7. Long-term climate change leads to severe droughts, heatwaves, and flooding, which destroy pasture, reduce water availability, and spread disease vectors to new areas.
 

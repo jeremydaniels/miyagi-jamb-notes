@@ -53,7 +53,7 @@ Production is the creation of goods and services to satisfy human wants (adding 
 
 | Feature | Commerce | Production |
 | --- | --- | --- |
-| **Stage** | The secondary and tertiary stage; deals with distributing what has already been created. | The primary and secondary stages; deals with creating or extracting the goods. |
+| **Stage** | The tertiary stage (the commercial stage); deals with distributing what has already been created. | The primary and secondary stages; deals with creating or extracting the goods. |
 | **Utility created** | Creates **place**, **time**, and **possession** utility (moving goods to where and when they are needed). | Creates **form** utility (e.g., turning timber into a table). |
 
 ### Commerce vs. Accounting
@@ -178,7 +178,7 @@ E-commerce and e-business perform many of the same functions as traditional comm
 - C. Manufacturing
 - D. Insurance
 
-**Answer: C.** Manufacturing is a direct production activity that creates form utility. Aids to trade (like warehousing, transport, and insurance) facilitate the distribution of already manufactured goods.
+**Answer: C.** Manufacturing is a secondary production activity (it changes the form of materials) that creates form utility. Aids to trade (like warehousing, transport, and insurance) facilitate the distribution of already manufactured goods.
 
 **3. In comparing Commerce and Economics, which of the following statements is true?**
 - A. Commerce is broader in scope than Economics.

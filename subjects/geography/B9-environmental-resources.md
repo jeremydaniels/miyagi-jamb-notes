@@ -206,7 +206,7 @@ The table below differentiates between the two concepts as required by JAMB.
 
 ## Practice questions
 
-**1. The total surroundings of an organism, including physical and natural elements that can be used to create wealth, is best described as:**
+**1. Useful materials and elements found in the natural environment that can be used to create wealth are best described as:**
 - A. The atmosphere
 - B. An environmental resource
 - C. The biosphere

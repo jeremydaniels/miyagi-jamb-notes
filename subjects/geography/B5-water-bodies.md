@@ -151,10 +151,10 @@ When the earth's crust fractures and sinks, it forms deep, long, and narrow depr
 
 #### 2. Lakes formed by Volcanic Activity
 - **Crater and Caldera Lakes:** When a volcano becomes dormant, its crater (or the larger caldera formed if the top collapses) can fill with rain water.
-- **Examples:** Lake Bosumtwi in Ghana, Lake Nyos in Cameroon, and Lake Toba in Indonesia.
+- **Examples:** Lake Nyos in Cameroon and Lake Toba in Indonesia. (Some older textbooks also list Lake Bosumtwi in Ghana as a volcanic crater lake; it is now generally regarded as a meteorite impact crater lake.)
 
 #### 3. Lakes formed by Erosion
-- **Glacial Lakes:** Moving ice (glaciers) scoops out hollows in the rock in mountainous areas. When the ice melts, water fills the hollows to form lakes called **tarns** or **corrie lakes**. Examples include the Great Lakes of North America.
+- **Glacial Lakes:** Moving ice (glaciers) scoops out hollows in the rock in mountainous areas. When the ice melts, water fills the hollows to form lakes called **tarns** or **corrie lakes**. Larger lakes scoured by continental ice sheets, such as the Great Lakes of North America, are formed in a similar way but on a much bigger scale.
 - **Wind-deflated Lakes:** In deserts, winds can blow away loose sand to create hollows that reach the water table, forming **oases**.
 
 #### 4. Lakes formed by Deposition
@@ -228,7 +228,7 @@ A typical river flows from its source (high up in the mountains) down to its mou
 | Stage | Main Process | Characteristics | Major Landforms |
 | --- | --- | --- | --- |
 | **1. Upper (Youthful) Course** | Vertical Erosion | Steep slope, fast-flowing water, small volume of water, large heavy load. | V-shaped valleys, interlocking spurs, gorges, waterfalls, rapids, plunge pools, cataracts. |
-| **2. Middle (Mature) Course** | Lateral Erosion and Transportation | Gentler slope, wider channel, increased water volume (joined by tributaries), valley widens. | U-shaped valleys, river cliffs, slip-off slopes, meanders. |
+| **2. Middle (Mature) Course** | Lateral Erosion and Transportation | Gentler slope, wider channel, increased water volume (joined by tributaries), valley widens. | Wide, flat-bottomed valleys (U-shaped valleys are glacial, not river, features), river cliffs, slip-off slopes, meanders. |
 | **3. Lower (Old Age) Course** | Deposition | Flat gradient, sluggish flow, huge volume of water, heavy load of fine sediment. | Floodplains, ox-bow lakes, levees, braided channels, deltas. |
 
 #### Landforms of the Upper Course
@@ -333,7 +333,7 @@ A typical river flows from its source (high up in the mountains) down to its mou
 - C. Lake Tanganyika
 - D. Lake Chad
 
-**Answer: C.** Lake Tanganyika lies in the East African Rift Valley, which was formed by faulting (tectonic earth movements). Bosumtwi is a volcanic crater lake, Kainji is man-made, and Chad is a shallow depression/inland drainage lake.
+**Answer: C.** Lake Tanganyika lies in the East African Rift Valley, which was formed by faulting (tectonic earth movements). Bosumtwi is a crater lake (now generally regarded as a meteorite impact crater), Kainji is man-made, and Chad is a shallow depression/inland drainage lake.
 
 **6. The process by which a river breaks down large rocks into smaller, rounder, and smoother pebbles by knocking them against one another is known as**
 - A. corrasion

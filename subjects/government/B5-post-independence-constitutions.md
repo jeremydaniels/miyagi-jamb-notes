@@ -58,7 +58,6 @@ The 1989 Constitution was drafted during the military regime of General Ibrahim 
 *   **Two-Party System:** The most unique feature was that it strictly limited the country to only two political parties: the Social Democratic Party (SDP) and the National Republican Convention (NRC).
 *   **Presidential System:** It retained the presidential system from 1979.
 *   **Local Government Autonomy:** It recognized local governments as a distinct and independent third tier of government.
-*   **Federal Capital Territory:** It formally recognized Abuja as the new Federal Capital Territory.
 
 **How it worked in practice (The Workings):**
 This constitution is often called a "stillborn" or "aborted" constitution because it never fully came into operation. While elections were held for local governments, state governors, and the National Assembly, the transition was abruptly halted when General Babangida annulled the June 12, 1993 presidential election (widely believed to have been won by Chief M.K.O. Abiola). The Third Republic collapsed before it truly began, and General Sani Abacha eventually seized power.
@@ -196,13 +195,13 @@ When examining how well these constitutions served the nation, we must look at t
 
 **Answer: C.** Critics argue that the 1999 Constitution begins with a lie ("We the people...") because it was imposed by the military regime of Abdulsalami Abubakar without a national referendum.
 
-**6. In the 1963 Constitution, the executive power of the state was vested in the**
+**6. Under the 1963 Constitution, the real executive power of the government was exercised by the**
 - A. Ceremonial President
 - B. Queen of England
 - C. Prime Minister
 - D. Chief Justice
 
-**Answer: C.** Under the 1963 parliamentary system, the Prime Minister was the Head of Government holding executive power, while the President was merely a ceremonial Head of State.
+**Answer: C.** Under the 1963 parliamentary system, the Prime Minister was the Head of Government and exercised real executive power, while the President was mainly a ceremonial Head of State.
 
 **7. Which of the following is a prominent demerit of the presidential system under the 1979 and 1999 Constitutions?**
 - A. Fusion of powers

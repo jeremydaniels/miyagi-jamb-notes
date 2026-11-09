@@ -40,7 +40,7 @@ A **consonant cluster** is a sequence of **two or more consonant sounds** with *
 
 This is where most mistakes happen. A cluster is counted in **sounds**, so you must ignore how the word is spelt.
 
-**1. Two letters can make one sound (a digraph).** These are **not** clusters:
+**1. Two or three letters can make one sound (a digraph or trigraph).** These are **not** clusters:
 
 | Word | Letters | Sound | Cluster? |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ This is where most mistakes happen. A cluster is counted in **sounds**, so you m
 | listen | st | /s/ (t silent) | No |
 | gnaw | gn | /n/ | No |
 
-**3. One letter can make two sounds**, so a word can have a cluster even if you see only one consonant letter:
+**3. One letter (or the pair qu) can make two sounds**, so a word can have a cluster even if you see only one consonant letter:
 
 | Word | Letter | Sounds | Cluster |
 | --- | --- | --- | --- |
@@ -110,8 +110,9 @@ This is often written as **(C)(C)(C)V(C)(C)(C)(C)**, where C = consonant and V =
 | CCVCC | trust | /trʌst/ |
 | CCCVCC | strict | /strɪkt/ |
 | CVCCC | next | /nekst/ |
-| CCVCCC | glimpsed | /ɡlɪmpst/ |
+| CCVCCC | trusts | /trʌsts/ |
 | CVCCCC | texts | /teksts/ |
+| CCVCCCC | glimpsed | /ɡlɪmpst/ |
 | CCCVCCC | strengths | /streŋθs/ (also /streŋkθs/) |
 
 ### Comparing English with Nigerian languages

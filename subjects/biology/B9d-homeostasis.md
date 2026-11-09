@@ -288,7 +288,7 @@ Every day, the body gains and loses water. To keep its water content constant, t
 | --- | --- | --- | --- |
 | Drinks | About 1.5 litres | Urine | About 1.5 litres |
 | Water in food | About 0.75 litres | Sweat and evaporation from the skin | About 0.5 litres |
-| **Metabolic water** (made by respiration) | About 0.3 litres | Water vapour in exhaled air | About 0.35 litres |
+| **Metabolic water** (made by respiration) | About 0.25 litres | Water vapour in exhaled air | About 0.35 litres |
 | | | Faeces | About 0.15 litres |
 | **Total** | **About 2.5 litres** | **Total** | **About 2.5 litres** |
 

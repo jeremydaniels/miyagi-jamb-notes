@@ -149,7 +149,7 @@ To analyse the solid mineral components of a soil visually and roughly determine
 
 1. Place a handful of the soil sample in a tall glass measuring cylinder.
 2. Add water until the cylinder is almost full.
-3. Add a flocculating chemical like sodium hexametaphosphate (Calgon) to help separate sticky clay particles, cover the cylinder, and shake vigorously.
+3. Add a deflocculating (dispersing) chemical like sodium hexametaphosphate (Calgon) to help separate sticky clay particles, cover the cylinder, and shake vigorously.
 4. Leave it on a bench to settle for several hours or days.
 
 **Observation:**

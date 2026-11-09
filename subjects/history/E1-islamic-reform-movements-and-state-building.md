@@ -148,7 +148,7 @@ Samori Toure is most famous for his legendary, long-running resistance against F
 - **Diplomacy and Warfare:** When the French advanced into his territory in 1882, Samori initially fought them, but realizing their artillery was too strong, he used diplomacy. He signed the **Treaty of Bissandugu (1886)** with the French, agreeing to a border to buy time to reorganize his army.
 - **The British Refusal:** He tried to play the British and French against each other, even offering his empire to the British for protection. The British, having agreed to spheres of influence with the French, refused to help him and stopped selling him weapons.
 - **Scorched-Earth Policy and Moving the Empire:** When full-scale war resumed in 1891, Samori used brilliant guerrilla tactics. He realized he could not defeat the French artillery in open battle. He adopted a **scorched-earth policy**: as he retreated eastward, his army destroyed crops, burned villages, and poisoned wells, leaving nothing for the advancing French army to eat or use. 
-- Amazingly, he organized the mass migration of his entire population and army eastwards, conquering new lands (such as Kong and Sikasso) and rebuilding his empire in a completely new location (modern Ivory Coast/Ghana borders) while fighting off the French.
+- Amazingly, he organized the mass migration of his entire population and army eastwards, conquering new lands (such as Kong; his long siege of Sikasso in 1887–1888 failed) and rebuilding his empire in a completely new location (modern Ivory Coast/Ghana borders) while fighting off the French.
 
 ### Fall and Exile
 

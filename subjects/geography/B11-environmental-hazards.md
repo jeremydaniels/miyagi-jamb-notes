@@ -222,7 +222,7 @@ While natural tectonic events cannot be prevented, their impact can be controlle
 - C. The melting of glaciers and snow
 - D. The occurrence of high tides from the Atlantic Ocean
 
-**Answer: B.** While rainfall and high tides (options A, C, and D) are natural causes, blocking drainage channels with solid waste is a human action that prevents water from escaping, causing urban flooding.
+**Answer: B.** While rainfall, the melting of glaciers and snow, and high tides (options A, C and D) are natural causes, blocking drainage channels with solid waste is a human action that prevents water from escaping, causing urban flooding.
 
 **3. The continuous removal of fertile topsoil by the action of wind and water is known as:**
 - A. desertification

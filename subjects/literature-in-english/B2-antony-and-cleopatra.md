@@ -11,190 +11,212 @@ This file is a study guide for the JAMB prescribed non-African play, William Sha
 5. Characters (characterisation)
 6. Techniques and style
 
-**Note on the syllabus wording:** The JAMB syllabus spells the title of this play as ***Anthony and Cleopatra***. However, the standard English spelling used in almost all published editions of Shakespeare's play is ***Antony and Cleopatra***. These notes will use the standard spelling, but you should remember they refer to the same prescribed text. 
+**Note on the syllabus wording:** The JAMB syllabus spells the title of this play as ***Anthony and Cleopatra***. However, the standard English spelling used in almost all published editions of Shakespeare's play is ***Antony and Cleopatra***. These notes use the standard spelling, but they refer to the same prescribed text.
 
 ## Background and Sources
 
-William Shakespeare wrote *Antony and Cleopatra* around 1606. The play is a **tragedy**, but it also shares features with his Roman history plays. 
+William Shakespeare wrote *Antony and Cleopatra* around 1606 to 1607. It was first printed in the **First Folio** (the 1623 collected edition of his plays). The play is a **tragedy**, and it is also one of his **Roman plays** (with *Julius Caesar* and *Coriolanus*).
 
-Shakespeare did not invent the story. He based it on real historical events that took place in the Roman Empire. His main source for the plot was **Plutarch's *Lives of the Noble Grecians and Romans***, a historical biography book translated into English by Sir Thomas North in 1579. Shakespeare followed Plutarch's history very closely, sometimes even turning North's prose directly into beautiful poetry, such as in the famous description of Cleopatra's royal barge.
+Shakespeare did not invent the story. It is based on real events. His main source was **Plutarch's *Lives of the Noble Grecians and Romans*** (the "Life of Marcus Antonius"), in **Sir Thomas North's English translation** (first published in 1579, translated from a French version). Shakespeare followed Plutarch closely and sometimes turned North's prose almost directly into verse. The best-known example is Enobarbus's description of Cleopatra on her barge (Act 2, Scene 2).
 
 ## Setting and Period
 
-The play is set in the **1st Century BC** (specifically between 40 BC and 30 BC). This was a time of massive political upheaval when the Roman Republic was dying and the Roman Empire was being born.
+The action covers roughly ten years of the **1st Century BC**, from about 40 BC to 30 BC. This was the time when the Roman Republic was ending and the Roman Empire was being born.
 
-The physical setting of the play is incredibly vast, moving rapidly across the Mediterranean world. The action shifts between:
-- **Egypt (primarily Alexandria):** The magnificent court of Queen Cleopatra.
-- **Rome:** The centre of the Roman Empire and political power.
-- **Other locations:** Athens (in Greece), Actium (site of the great naval battle), Misenum, and Syria.
+The play moves rapidly across the Mediterranean world, in more than forty short scenes. Locations include:
+- **Egypt (mainly Alexandria):** the court of Queen Cleopatra.
+- **Rome:** the centre of political power.
+- **Other places:** Messina (Sicily), Misenum (near Naples, where the treaty with Pompey is made), Athens, Syria and Parthia (mentioned in the news), and **Actium** (the sea battle, 31 BC, off the west coast of Greece).
 
 ### The Contrast: Rome vs. Egypt
 
-One of the most important structural settings in the play is the deep contrast between Rome and Egypt. They represent two completely different ways of living, which pull Mark Antony in opposite directions.
+The deep contrast between Rome and Egypt is one of the play's most important structures. They represent two ways of life that pull Antony in opposite directions. (This is how critics read the play; the characters themselves often use "Rome" and "Egypt" as names for Caesar and Cleopatra.)
 
 | Feature | Rome | Egypt |
 | --- | --- | --- |
-| **Values** | Duty, honour, military strength, politics, discipline | Love, pleasure, passion, leisure, entertainment, emotion |
-| **Atmosphere** | Cold, strict, rational, highly regulated | Warm, fertile, luxurious, mysterious, exotic |
-| **Symbolism** | Land, solid ground, swords, armour | Water, the overflowing River Nile, serpents (snakes) |
-| **Gender association**| Masculine (dominated by men like Caesar) | Feminine (ruled by a powerful woman, Cleopatra) |
-| **View of the other** | Romans see Egypt as a place of shameful lust and magic that makes men weak. | Egyptians see Rome as boring, calculating, and lacking true joy. |
+| **Values** | Duty, honour, military strength, politics, discipline | Love, pleasure, passion, leisure, feasting, emotion |
+| **Atmosphere** | Cold, strict, rational, regulated | Warm, fertile, luxurious, mysterious, exotic |
+| **Symbolism** | Land, soldiers, swords, calculation | The River Nile, water, serpents, fertility |
+| **Gender association** | Masculine (Caesar and the soldiers) | Feminine (ruled by Cleopatra) |
+| **View of the other** | Romans see Egypt as a place of shameful lust that makes men weak. | Egyptians see Rome as cold and calculating. |
 
-[IMAGE: A conceptual map of the Mediterranean Sea. On the left (West) is Rome, marked with a stern Roman eagle, swords, and cold marble columns. On the right (East) is Alexandria, Egypt, marked with golden pyramids, the winding River Nile, a lotus flower, and a snake. A dotted line with arrows goes back and forth across the sea, showing Antony's divided loyalties. Labels: "Rome: Duty, Power, Reason", "Egypt: Passion, Pleasure, Fertility", "Mediterranean Sea". Clean flat textbook style, white background.]
+[IMAGE: A conceptual map of the Mediterranean Sea. On the left (West) is Rome, marked with a Roman eagle, swords and marble columns. On the right (East) is Alexandria, Egypt, marked with pyramids, the winding River Nile, a lotus flower and a snake. A dotted line with arrows goes back and forth across the sea, showing Antony's divided loyalties. Labels: "Rome: Duty, Power, Reason", "Egypt: Passion, Pleasure, Fertility", "Mediterranean Sea". Clean flat textbook style, white background.]
 
 ## Socio-Political Context
 
-To understand the play, you must understand the political situation in Rome.
+To understand the play you must understand the political situation in Rome.
 
-Years earlier, **Julius Caesar** was assassinated. After his death, three men joined together to rule the vast Roman Empire. This three-man ruling alliance was called the **Second Triumvirate**. Its members were:
-1. **Mark Antony:** A brilliant, older, and highly respected general who had been Julius Caesar's loyal friend.
-2. **Octavius Caesar:** The young, cold, and calculating adopted son of Julius Caesar (he later becomes Augustus, the first Roman Emperor).
-3. **Lepidus:** A weaker, older man who is eventually pushed out by Octavius.
+**Julius Caesar** was assassinated in 44 BC. Afterwards, three men joined to rule the Roman world. This three-man alliance was the **Second Triumvirate** (formed 43 BC). Its members were:
+1. **Mark Antony:** a famous soldier and Julius Caesar's loyal supporter, who rules the eastern provinces.
+2. **Octavius Caesar:** Julius Caesar's young adopted heir, cold and calculating. He later becomes **Augustus**, the first Roman Emperor.
+3. **Lepidus:** the weakest of the three, who is eventually pushed out by Octavius.
 
-When the play opens, the Triumvirate is unstable. The Roman Empire is divided among them, but Octavius Caesar and Mark Antony do not like or trust each other. Meanwhile, rebellions are brewing, led by **Sextus Pompey** (son of Pompey the Great), who controls the seas and threatens Rome's food supply.
+When the play opens, the Triumvirate is uneasy. Octavius and Antony distrust each other. Antony's wife **Fulvia** and his brother have fought a war against Octavius in Italy, and **Sextus Pompey** (son of Pompey the Great, the rival of Julius Caesar) commands the seas with a fleet and threatens Rome's food supply. In the east, the Parthians are also invading Roman lands, which Antony is neglecting.
+
+Cleopatra VII was the Macedonian-Greek queen of Egypt (the Ptolemy family). She had earlier been the lover of Julius Caesar. The play shows how love and politics mix: Cleopatra rules a rich kingdom whose grain and wealth Rome needs, and Antony's relationship with her has political consequences.
 
 ## Plot Summary (Act by Act)
 
 ### Act 1: The Pull of Egypt and the Call of Rome
-The play opens in Alexandria, Egypt. Mark Antony, one of the three rulers of the Roman Empire, is ignoring his political duties. He has fallen deeply in love with Cleopatra, the beautiful and manipulative Queen of Egypt. Antony's soldiers grumble that he has been transformed from a great warrior into a "strumpet's fool" (a lover to a prostitute).
+The play opens in Alexandria. Philo, a Roman soldier, complains that Antony, "the triple pillar of the world", has been "transformed / Into a strumpet's fool" (a fool for a prostitute, in Roman eyes). Antony and Cleopatra enter, and Antony declares "Let Rome in Tiber melt", saying that real life is "to do thus" (to embrace her).
 
-A messenger arrives from Rome with bad news: Antony's wife, Fulvia, has died after starting an unsuccessful rebellion against Octavius Caesar. Also, Sextus Pompey is gathering a rebel army against the Triumvirate. Antony realises he must break away from Cleopatra's intoxicating spell and return to Rome to do his duty. Cleopatra begs, teases, and fakes illnesses to make him stay, but Antony departs.
+Messengers bring bad news: Antony's wife Fulvia and his brother have fought against Octavius, the Parthians have invaded, and Pompey is strong at sea. A Soothsayer predicts fortunes for Cleopatra's women. Antony then learns that **Fulvia is dead**. He decides to leave Egypt: "These strong Egyptian fetters I must break." Cleopatra tries to keep him by tricks and moods (Charmian advises her to give way to him; Cleopatra's reply is to do the opposite). He leaves, and in Rome Caesar complains about Antony's idleness. Back in Alexandria Cleopatra, in longing, remembers Antony constantly.
 
 ### Act 2: The Political Marriage
-In Rome, Octavius Caesar is angry at Antony for neglecting his duties. When Antony arrives, the two leaders clash but agree to a political compromise to avoid a civil war. To seal their renewed alliance, Antony agrees to marry Caesar’s mild and loyal sister, **Octavia** (since he is now a widower). 
+Pompey boasts of his sea power. In Rome, Antony and Caesar quarrel but are reconciled. **Agrippa** suggests that Antony, now a widower, should marry Caesar's sister **Octavia** to bind the two men. Antony agrees. Enobarbus describes Antony's first meeting with Cleopatra on the River Cydnus: "The barge she sat in, like a burnished throne, / Burned on the water". Enobarbus also says of her: "Age cannot wither her, nor custom stale / Her infinite variety."
 
-When Cleopatra hears in Egypt that Antony has married Octavia, she flies into a violent rage, striking the messenger and drawing a knife on him.
+Antony says goodbye to Octavia, and the **Soothsayer** warns him to keep away from Caesar because his guardian spirit (his "demon") is overpowered by Caesar's. In Egypt, Cleopatra hears from a messenger that Antony has married Octavia. She **strikes the messenger, hauls him by the hair and draws a knife**, then later calls him back and questions him about Octavia's looks, and is relieved to hear that Octavia is dull and plain.
 
-Meanwhile, the Triumvirate meets with the rebel Pompey. They agree to a truce, which they celebrate with a drunken feast on Pompey's ship. During the feast, one of Pompey's men offers to cut the ship's cables and murder the three Triumvirs so Pompey can rule the world, but Pompey refuses, saying it would ruin his honour.
+At **Misenum** the Triumvirs make a treaty with Pompey, and the leaders celebrate with a drunken feast on Pompey's galley. **Menas**, Pompey's officer, offers to cut the ship's cable and kill the three Triumvirs so Pompey can be master of the world. Pompey refuses, saying that it would have been acceptable if Menas had done it without telling him, but that his honour will not allow him to order it. The chance is lost.
 
 ### Act 3: The Broken Alliance and the Battle of Actium
-Antony and Octavia move to Athens. Soon, Caesar breaks the truce, attacks and defeats Pompey, and imprisons the third Triumvir, Lepidus. Caesar also begins speaking poorly of Antony in Rome. Angry, Antony sends Octavia back to Rome to act as a peacemaker, but as soon as she leaves, he immediately returns to Egypt and to Cleopatra. 
+Antony's general Ventidius defeats the Parthians. Antony and Octavia go to **Athens**. Meanwhile Caesar has defeated Pompey (Pompey is later killed) and then turned on Lepidus, accusing him of treason and **imprisoning him**. Caesar has also spoken against Antony in public. Antony is angry. Octavia asks to go to Rome as a peacemaker between her husband and brother, and Antony allows her to go. But Antony prepares for war and returns to Cleopatra in Egypt.
 
-Caesar uses Antony's return to Cleopatra—and his crowning of Cleopatra and her children as rulers of eastern kingdoms—as an excuse to declare war. 
+In Rome Caesar complains that Antony and Cleopatra have crowned themselves and their children as rulers in the east (the "Donations of Alexandria", with Cleopatra as queen of Egypt and other lands). Octavia arrives, and Caesar is furious that she has been abandoned. War is declared.
 
-The two massive forces meet at **Actium**. Despite having a stronger land army, Antony foolishly agrees to fight Caesar at sea. During the fierce naval battle, Cleopatra suddenly turns her ships around and flees. Unbelievably, Antony abandons his fighting men and sails after her. Because of his flight, his navy loses the battle. Antony is deeply ashamed but forgives Cleopatra because he loves her too much.
+At **Actium**, Antony ignores the advice of Enobarbus and his soldiers (who want to fight on land, where Antony is strongest) and, at Cleopatra's insistence, fights at **sea**. During the battle, Cleopatra's ships suddenly **turn and flee**. Antony abandons the fight and follows her. His fleet is lost. Antony is ashamed and lies in despair, but he forgives Cleopatra: "Fall not a tear, I say; one of them rates / All that is won and lost." Caesar sends Thidias to win Cleopatra away from Antony. Antony finds Thidias kissing her hand, has him whipped, and challenges Caesar to single combat. Enobarbus begins to think of leaving.
 
 ### Act 4: Betrayal and the Death of Antony
-Antony's men begin to lose faith in him. Even **Enobarbus**, his most loyal friend and closest officer, deserts him and goes over to Caesar's side. When Antony finds out, instead of punishing Enobarbus, he sends Enobarbus his treasure. Heartbroken by his own disloyalty and Antony's generosity, Enobarbus dies of guilt.
+Caesar laughs at Antony's challenge. Antony holds a farewell feast and the soldiers hear strange music in the air, which they say is the god Hercules (Antony's protector) leaving him. **Enobarbus deserts** to Caesar. Antony does not punish him but sends his treasure after him. Enobarbus is overcome by shame and dies of a broken heart.
 
-Antony fights a battle on land and wins a surprising victory. However, the next day at sea, the Egyptian fleet surrenders to Caesar without a fight. Antony believes Cleopatra has sold him out to Caesar. He flies into a murderous rage, threatening to kill her. 
+Antony wins a land battle outside Alexandria, and Cleopatra welcomes him. But the next day at sea the **Egyptian fleet gives in to Caesar** without fighting. Antony thinks Cleopatra has betrayed him and rages, threatening to kill her ("The witch shall die"). Cleopatra hides in her **monument** (a tomb-like fortress) and sends her servant **Mardian** to say she has killed herself, with her last word being "Antony".
 
-Terrified, Cleopatra hides in her heavily fortified monument and sends false word to Antony that she has killed herself, hoping to calm his anger. The trick backfires terribly. Upon hearing she is dead, Antony decides his life is over. He asks his servant, Eros, to kill him. Eros refuses and kills himself instead. Antony then falls on his own sword but only wounds himself terribly. 
-
-Dying, Antony learns Cleopatra is actually alive. He is carried to her monument, hoisted up into the building, and dies in her arms, telling her not to trust anyone around Caesar except Proculeius.
+Believing it, Antony resolves to die. He asks his servant **Eros** to kill him. Eros instead kills himself. Antony then falls on his own sword, but fails to die at once. Cleopatra's secretary **Diomedes** arrives and tells him she is alive. Antony is carried to the monument and **hoisted up** to Cleopatra, who cannot open the doors for fear of capture. In her arms he says "I am dying, Egypt, dying", advises her to trust only **Proculeius** among Caesar's men, and dies.
 
 ### Act 5: The Death of Cleopatra
-Caesar takes over Alexandria. He plans to take Cleopatra back to Rome to parade her through the streets as a captive trophy in his victory parade. Cleopatra, proud and determined to remain a queen, refuses to be humiliated. 
+Caesar hears of Antony's death and mourns him as a great man. He sends Proculeius to Cleopatra with comforting words, but Proculeius and soldiers **seize her** in the monument. She tries to stab herself but is stopped. Another Roman, **Dolabella**, secretly tells her that Caesar plans to take her to Rome in his triumph. Cleopatra describes her dream of Antony ("His legs bestrid the ocean") and later speaks to Caesar. Her treasurer Seleucus betrays that she has hidden part of her wealth.
 
-She secretly arranges for a farmer to bring her a basket of figs, which has poisonous snakes (**asps**) hidden inside. Dressed in her finest royal robes and crown, she applies the poisonous snakes to her breast and arm. She dies peacefully, followed by her loyal attendants, Charmian and Iras. 
+Cleopatra plans her death. A **Clown** (a countryman) brings her a basket of **figs with asps hidden under the leaves**. She dresses in her robe and crown ("Give me my robe, put on my crown; I have / Immortal longings in me"), says farewell to Charmian and Iras, and calls out "Husband, I come". **Iras dies first.** Cleopatra then applies the asps (to her breast, and a second to her arm) and dies. **Charmian** straightens her crown and then applies an asp to herself and dies as the guards break in.
 
-Caesar arrives to find them dead. Although frustrated that he cannot parade her in Rome, he is moved by her courage and orders that she and Antony be buried together in a single royal grave.
+Caesar arrives and finds all three dead. He admires her courage and orders that she be **buried beside Antony**, with a state funeral, saying no grave will hold "a pair so famous".
 
 ## Characters
 
 ### Mark Antony
-- **Role:** Tragic hero; Roman General and member of the Second Triumvirate.
-- **Traits:** He is deeply divided. In his youth, he was the greatest soldier in the world, known for his endurance and courage. Now in middle age, he is driven by his intense, overwhelming passion for Cleopatra. 
-- **Tragic Flaw:** His inability to separate his political duties from his personal passions. He makes terrible military decisions (like fighting at sea at Actium) purely to please Cleopatra.
+- **Role:** Tragic hero; Roman general and member of the Second Triumvirate.
+- **Traits:** He is divided and middle-aged. Once the great soldier known for endurance and courage, he is now ruled by his love for Cleopatra. He is also generous (he forgives Enobarbus) and quick to anger and shame.
+- **Tragic flaw:** He cannot balance his duty to Rome with his passion for Cleopatra, and makes poor military decisions to please her (the sea battle at Actium).
 
 ### Cleopatra
-- **Role:** Queen of Egypt, Antony’s lover.
-- **Traits:** She is beautiful, fiercely intelligent, highly theatrical, manipulative, and deeply emotional. She is a master of changing her moods to keep Antony off balance. Shakespeare portrays her as larger than life—she is completely unpredictable but completely captivating. 
-- **Significance:** She represents the allure, luxury, and danger of the East (Egypt). At the end of the play, she achieves tragic grandeur by choosing death over humiliation in Rome.
+- **Role:** Queen of Egypt, Antony's lover.
+- **Traits:** She is beautiful, clever, theatrical, manipulative and emotional; she changes moods to keep Antony in suspense. She can be cruel (she beats the messenger) and fearful, but at the end she is courageous.
+- **Significance:** She stands for the attraction and danger of the East. In Act 5 she chooses death over being displayed in Rome and gains tragic grandeur.
 
 ### Octavius Caesar (later Augustus)
-- **Role:** Member of the Triumvirate, Julius Caesar’s adopted son and Antony's rival.
-- **Traits:** Cold, rational, practical, and highly political. He feels no great passions. Every move he makes is calculated to gain power. He represents the strict, disciplined, and emotionless values of Rome.
+- **Role:** Member of the Triumvirate, Julius Caesar's adopted son and Antony's rival.
+- **Traits:** Cold, calculating and disciplined; a politician who always keeps control. He represents the Roman values of order and power. He does feel some respect for Antony after his death.
 
 ### Enobarbus (Domitius Enobarbus)
-- **Role:** Antony’s most loyal supporter and closest friend.
-- **Traits:** Cynical, realistic, and plain-speaking. He acts as the **chorus** of the play, offering the audience a clear, unbiased view of the events. 
-- **Significance:** He understands Cleopatra's power over Antony but stays with Antony out of love. When he finally deserts Antony, it signals that Antony's cause is completely doomed. He dies of a broken heart from his own guilt. He speaks the most famous lines in the play, describing Cleopatra on her barge.
+- **Role:** Antony's closest officer and friend.
+- **Traits:** Blunt, witty, realistic. He is often seen as a **chorus-like** commentator who speaks plainly about Antony's and Cleopatra's behaviour (often in asides) and gives the famous barge speech.
+- **Significance:** He leaves Antony for Caesar's side, and then dies of shame when Antony sends his treasure after him. His desertion shows that Antony's cause is failing.
 
 ### Octavia
-- **Role:** Caesar’s sister, Antony’s Roman wife.
-- **Traits:** Mild, quiet, obedient, and morally pure. She is the complete opposite of Cleopatra. Antony marries her for political reasons but soon abandons her, which gives Caesar the perfect excuse to go to war.
+- **Role:** Caesar's sister; Antony's Roman wife.
+- **Traits:** Quiet, modest, obedient and virtuous. She is the opposite of Cleopatra. She is used as a political tool and is badly hurt by Antony's abandonment.
 
 ### Sextus Pompey
-- **Role:** The leader of the rebellion against the Triumvirate.
-- **Traits:** Popular and honourable. He refuses to murder his guests at the feast, which costs him the empire.
+- **Role:** Leader of the sea-power opposition to the Triumvirate.
+- **Traits:** Honourable and sincere. He refuses to murder his guests at the feast, which costs him his chance.
 
 ### Lepidus
-- **Role:** The third and weakest member of the Triumvirate. 
-- **Traits:** He constantly tries to keep the peace between Caesar and Antony but is easily bullied and eventually removed from power by Caesar.
+- **Role:** The third and weakest Triumvir.
+- **Traits:** He tries to keep peace between Caesar and Antony, gets drunk at the feast, and is imprisoned by Caesar.
 
 ### Charmian and Iras
-- **Role:** Cleopatra’s loyal maids and attendants. 
-- **Traits:** They share her playful spirit and remain completely loyal to her, choosing to die with her at the end rather than outlive her as Roman slaves.
+- **Role:** Cleopatra's attendants.
+- **Traits:** Playful and loyal. They die with her.
+
+### Other characters
+| Character | Role in the play |
+| --- | --- |
+| Philo and Demetrius | Roman soldiers who open the play by criticising Antony |
+| Eros | Antony's servant who kills himself rather than kill Antony |
+| Agrippa and Maecenas | Caesar's officers; Agrippa suggests the Octavia marriage |
+| Menas (Menecrates) | Pompey's officer who offers to cut the cable at the feast |
+| Soothsayer | Predicts the future; warns Antony to avoid Caesar |
+| Mardian | Cleopatra's eunuch who carries the false message of her death |
+| Diomedes | Cleopatra's secretary who tells Antony she is alive |
+| Proculeius and Dolabella | Caesar's officers in Act 5 |
+| Clown (countryman) | Brings the asps to Cleopatra in a basket of figs |
+| Canidius and Ventidius | Antony's generals |
 
 ## Themes
 
 ### 1. Reason versus Passion (Duty vs. Love)
-This is the central conflict of the play. Antony is torn between his **duty** as a Roman leader (which requires reason, discipline, and politics) and his **love** for Cleopatra (which requires passion, emotion, and devotion). The play questions which is more valuable: the cold, loveless political power of Caesar, or the intense, self-destructive love of Antony and Cleopatra.
+This is the central conflict. Antony is torn between his **duty** as a Roman leader (discipline and politics) and his **love** for Cleopatra (passion and devotion). The play asks which is more valuable: the cold political power of Caesar, or the intense and self-destructive love of Antony and Cleopatra.
 
 ### 2. East versus West (Egypt vs. Rome)
-The play heavily contrasts the two cultures. Rome is masculine, built on military might, boundaries, and strict rules. Egypt is feminine, built on pleasure, fertility, magic, and emotion. Antony tries to exist in both worlds but ultimately fails; the strict Roman world destroys him when he succumbs to the Egyptian way of life.
+Rome is masculine, built on military strength, rules and boundaries. Egypt is feminine, built on pleasure, fertility and emotion. Antony tries to live in both and is destroyed by the clash.
 
 ### 3. Power, Politics and Betrayal
-The play is deeply political. Caesar constantly manoeuvres to gain absolute control of the Roman Empire, easily breaking treaties, removing Lepidus, and using his own sister as a political tool. The play shows that political power often requires cold-heartedness and the betrayal of personal relationships.
+Caesar manoeuvres to gain control of the Roman world: he breaks his alliances, removes Lepidus and uses his sister as a political tool. Betrayal runs through the play (Enobarbus, the Egyptian fleet, Thidias, Seleucus).
 
-### 4. The Fluidity of Identity
-Characters constantly change how they see themselves and how others see them. Antony goes from a respected "Roman pillar" to a "fool." Cleopatra shifts from a manipulative lover to a noble queen facing death. The play suggests that human identity is not fixed but changes depending on circumstances and emotions.
+### 4. Identity and Change
+Characters change in how they are seen. Antony goes from the "triple pillar of the world" to a "strumpet's fool", and Cleopatra from a changeable and manipulative lover to a queen who dies nobly. Antony also says himself that he no longer knows his own shape.
+
+### 5. Honour, Loyalty and Death
+Many characters have to choose between honour and survival: Pompey, Enobarbus, Eros, Charmian and Iras. Death is shown as a choice that confirms one's identity ("Husband, I come").
 
 ## Dramatic Techniques and Style
 
 ### 1. Verse and Prose
-Shakespeare uses **blank verse** (unrhymed iambic pentameter) for most of the play, especially for nobles and moments of high emotion or dignity. He uses **prose** for ordinary people, messengers, soldiers, and comedic scenes. For example, the countryman who brings the poisonous snakes to Cleopatra speaks in prose, creating a moment of dark comedy before her tragic death.
+Shakespeare uses **blank verse** (unrhymed iambic pentameter) for most of the play, especially for the main characters and moments of dignity. He uses **prose** for lower-status characters and ordinary talk. The Clown who brings the asps speaks prose, which brings dark comedy just before Cleopatra's death.
 
-### 2. Imagery
-The play is famous for its rich, expansive imagery:
-- **Cosmic and Worldly Imagery:** Antony and Cleopatra frequently use words like "world," "earth," "sun," "moon," and "stars." This hyperbole (exaggeration) makes their love seem larger than the world itself. Antony says, *"Let Rome in Tiber melt... The nobleness of life is to do thus."*
-- **Animal and Serpent Imagery:** Cleopatra is frequently associated with snakes (the "serpent of old Nile"). This foreshadows her death by the asp.
-- **Water and Melting:** Water represents Egypt, the Nile, and shifting emotions. Characters often talk about things "melting" or "dissolving," symbolising how Antony's Roman strictness melts away in Egypt.
+### 2. Imagery and Hyperbole
+- **Cosmic imagery:** Antony and Cleopatra speak of the world, sun, moon and stars. This exaggeration (hyperbole) makes their love seem larger than the world. Cleopatra's dream of Antony ("His legs bestrid the ocean") is an example.
+- **Serpent and Nile imagery:** Cleopatra calls herself "serpent of old Nile" and is linked to snakes; this foreshadows her death by the asp.
+- **Melting and dissolving:** "Let Rome in Tiber melt" and Antony's "the crown o' th' earth doth melt" show things losing their firm shape, and Antony's Roman hardness melting away.
 
 ### 3. Soliloquy and Aside
-Shakespeare uses soliloquies (a character speaking their private thoughts out loud while alone on stage) and asides (a character speaking directly to the audience, unheard by others on stage) to reveal true intentions. Enobarbus frequently uses asides to comment critically on the foolish behaviour of Antony and Cleopatra.
+A **soliloquy** is a speech made alone on stage to show the character's private thoughts. An **aside** is a remark heard by the audience but not by the other characters. Enobarbus often comments aloud on Antony's behaviour, and his speech before dying is a soliloquy of guilt.
 
-### 4. Dramatic Irony
-This occurs when the audience knows something the characters do not. A major example is when Antony kills himself because he believes Cleopatra is dead, but the audience knows she is only hiding and faking her death. 
+### 4. Structure: Short Scenes and Contrast
+The play moves rapidly between Rome and Egypt in short scenes. This quick switching mirrors Antony's divided loyalties and gives a sense of the whole world being at stake.
 
-### 5. Foreshadowing
-In Act 1, a **Soothsayer** (fortune teller) warns Antony that his "demon" (guardian spirit) will always be defeated by Caesar's spirit, and advises Antony to stay away from Caesar. This accurately predicts Antony's final downfall.
+### 5. Dramatic Irony
+The audience knows Cleopatra is alive and only pretending to be dead when Antony kills himself because he believes her message.
+
+### 6. Foreshadowing
+The **Soothsayer** predicts that Antony's guardian spirit (his "demon") is overpowered by Caesar's, and advises him to keep away from him (Act 2, Scene 3). The soldiers' strange music (Hercules leaving) and the serpent imagery also point ahead to the defeats and deaths.
 
 ## Needs checking against the text
-*(All plot details, character names, and major themes in this famous public-domain text have been fully verified. No placeholders are required.)*
+*(The plot, characters and themes were checked against reliable summaries and the Folger/other standard texts as far as access allowed. The full text itself could not be opened in this session, so the short quotations below should be checked once against a standard edition before being copied into an essay: "the triple pillar of the world", "strumpet's fool", "Let Rome in Tiber melt", "The barge she sat in, like a burnished throne, / Burned on the water" (confirmed on poets.org), "Age cannot wither her, nor custom stale / Her infinite variety", "I am dying, Egypt, dying", "Give me my robe, put on my crown; I have / Immortal longings in me" and "Husband, I come". Act and scene numbers follow the usual Folger/Globe numbering, and these can differ slightly between editions. Characters' spellings (Dercetas/Decretas, Menas/Menecrates) also vary.)*
 
 ## Key terms
 
 | Term | Meaning |
 | --- | --- |
-| Triumvirate | A political regime ruled by three powerful men (in this play: Antony, Caesar, and Lepidus). |
-| Tragedy | A serious play with an unhappy ending, usually involving the downfall of the main character due to a tragic flaw. |
-| Tragic Flaw | A weakness in the hero's character that leads to their downfall (Antony's passion over reason). |
-| Chorus | In this play, a character (Enobarbus) who stands outside the action to comment on the events and guide the audience's understanding. |
-| Blank Verse | Unrhymed poetry with a specific rhythm (iambic pentameter), commonly used by Shakespeare for noble characters. |
-| Asp | A highly venomous snake found in Egypt, which Cleopatra uses to commit suicide. |
-| Hubris | Excessive pride or self-confidence (often seen in tragic heroes). |
-| Dramatic Irony | When the audience understands a situation or knows a fact that the characters on stage do not know. |
+| Triumvirate | A rule by three powerful men (in this play: Antony, Caesar and Lepidus). |
+| Tragedy | A serious play with an unhappy ending, usually the fall of a main character through a flaw or error. |
+| Tragic flaw | A weakness in the hero's character that leads to his downfall (Antony's passion over duty). |
+| Chorus | A character or group who comments on the action; Enobarbus is often seen as chorus-like. |
+| Blank verse | Unrhymed iambic pentameter, used by Shakespeare for noble characters. |
+| Prose | Ordinary writing without metre; used for lower-status characters (e.g. the Clown). |
+| Asp | A venomous Egyptian snake; Cleopatra uses asps to kill herself. |
+| Hyperbole | Deliberate exaggeration, as in the cosmic images of Antony and Cleopatra's love. |
+| Soliloquy / Aside | A speech by a character alone on stage / a remark heard only by the audience. |
+| Dramatic irony | When the audience knows a fact that the characters on stage do not. |
 
 ## Exam tips and common mistakes
 
-- **Common Mistake:** Confusing Julius Caesar with Octavius Caesar. Julius Caesar is dead before the play begins. The Caesar in this play is young *Octavius* Caesar.
-- **Common Mistake:** Thinking Antony and Cleopatra are young lovers like Romeo and Juliet. They are not. They are middle-aged; Antony is an aging general and Cleopatra is an experienced queen who has had previous lovers (including Julius Caesar). 
-- **Exam Tip:** Be ready to contrast Rome and Egypt. Questions frequently ask what these two settings represent (Rome = reason, duty; Egypt = passion, pleasure).
-- **Exam Tip:** Know how the main characters die. Antony botches his suicide by sword and dies in Cleopatra's arms. Cleopatra dies from snakebites (asps) brought in a basket of figs. Enobarbus dies of a broken heart.
-- **Exam Tip:** Remember the name of the decisive naval battle where Antony follows Cleopatra in retreat: the **Battle of Actium**.
+- **Common mistake:** Confusing Julius Caesar with Octavius Caesar. Julius Caesar died before the play begins; the Caesar in this play is young **Octavius** Caesar.
+- **Common mistake:** Thinking Antony and Cleopatra are young lovers like Romeo and Juliet. They are mature, experienced people, and Cleopatra has been Julius Caesar's lover.
+- **Exam tip:** Be ready to contrast Rome and Egypt (Rome = duty, reason, politics; Egypt = passion, pleasure, fertility).
+- **Exam tip:** Know how the main characters die. Antony botches his sword suicide and dies in Cleopatra's arms in the monument. Cleopatra dies from asp bites (the asps were brought in a basket of figs). Enobarbus dies of shame and grief. Eros kills himself rather than kill Antony. Iras dies before Cleopatra and Charmian after.
+- **Exam tip:** The decisive naval battle where Cleopatra flees and Antony follows is **Actium** (31 BC).
+- **Exam tip:** Remember that the Soothsayer's warning to Antony about Caesar comes in Act 2, Scene 3.
 
 ## Quick summary
 
-1. *Antony and Cleopatra* is a Shakespearean tragedy based on Plutarch's historical writings, set in the dying days of the Roman Republic.
-2. The play contrasts two worlds: Rome (representing duty, military discipline, and reason) and Egypt (representing love, passion, and luxury).
-3. Mark Antony, a Roman ruler, neglects his duties because of his consuming love for Cleopatra, Queen of Egypt.
-4. Antony tries to repair his political relationship with Octavius Caesar by marrying Caesar's sister, Octavia, but he eventually abandons her for Cleopatra, leading to war.
-5. At the naval Battle of Actium, Cleopatra flees and Antony disastrously follows her, leading to his defeat.
-6. Enobarbus, Antony's loyal friend, acts as a chorus but eventually deserts him, dying of guilt.
-7. Antony stabs himself after hearing a false report of Cleopatra's death, and he dies in her arms.
-8. To avoid being paraded as a captive in Rome by Caesar, Cleopatra commits suicide using poisonous snakes (asps).
+1. *Antony and Cleopatra* is a Shakespearean tragedy (about 1606 to 1607) based on Plutarch's *Lives* in North's translation, set between 40 and 30 BC.
+2. The play contrasts two worlds: Rome (duty, discipline, politics) and Egypt (love, passion, luxury).
+3. Mark Antony neglects his duty for love of Cleopatra, but returns to Rome after Fulvia's death and marries Caesar's sister Octavia to repair the Triumvirate.
+4. Caesar defeats Pompey and imprisons Lepidus; Antony returns to Cleopatra and war follows.
+5. At Actium, Cleopatra's ships flee, Antony follows her, and his fleet is lost. Enobarbus deserts, then dies of shame.
+6. Antony falls on his sword after Cleopatra's false report of her death, and dies in her arms.
+7. To avoid being paraded in Caesar's triumph, Cleopatra kills herself with an asp, followed by Iras and Charmian, and Caesar orders a joint burial.
+8. Shakespeare uses blank verse and prose, rich imagery, asides and soliloquies, dramatic irony and rapid scene changes between Rome and Egypt.
 
 ## Practice questions
 
@@ -205,25 +227,25 @@ In Act 1, a **Soothsayer** (fortune teller) warns Antony that his "demon" (guard
 - C. political duty to Rome and his passionate love for Cleopatra
 - D. age and his declining military skills
 
-**Answer: C.** The central tension of the play is Antony's struggle to balance his strict Roman duties with his overpowering love for the Egyptian Queen.
+**Answer: C.** The central tension of the play is Antony's struggle to balance his Roman duties with his overpowering love for the Egyptian queen.
 
-**2. In the play, the physical settings of Rome and Egypt symbolize:**
+**2. In the play, Rome and Egypt are used mainly to symbolise:**
 
 - A. wealth and poverty
-- B. reason and passion
+- B. reason (duty) and passion (pleasure)
 - C. youth and old age
-- D. religion and magic
+- D. Christianity and paganism
 
-**Answer: B.** Rome represents reason, cold calculation, and duty, while Egypt represents passion, warmth, and emotion.
+**Answer: B.** Rome stands for reason, discipline and political duty, while Egypt stands for passion, pleasure and emotion.
 
-**3. Who warns Antony that his spirit will always be overpowered by Caesar's?**
+**3. Who warns Antony that his guardian spirit is overpowered by Caesar's, and that he should keep away from him?**
 
 - A. Enobarbus
 - B. The Soothsayer
 - C. Lepidus
 - D. Pompey
 
-**Answer: B.** The Soothsayer in Act 2 accurately predicts that Antony's guiding spirit (demon) is afraid of Caesar's, foreshadowing Antony's defeat.
+**Answer: B.** The Soothsayer tells Antony in Act 2, Scene 3 that near Caesar his spirit is overpowered, which foreshadows Antony's defeat.
 
 **4. Why does Mark Antony agree to marry Octavia?**
 
@@ -232,61 +254,61 @@ In Act 1, a **Soothsayer** (fortune teller) warns Antony that his "demon" (guard
 - C. Octavia is known to be the most beautiful woman in Rome.
 - D. He wants to anger Sextus Pompey.
 
-**Answer: B.** The marriage is a purely political arrangement designed to heal the rift between Antony and Caesar and avoid a Roman civil war.
+**Answer: B.** The marriage is a political arrangement (suggested by Agrippa) to heal the rift between Antony and Caesar and prevent civil war.
 
-**5. Which battle marks the turning point where Antony's forces are decisively defeated because he follows Cleopatra in retreat?**
+**5. Which battle marks the turning point where Antony's forces are defeated because he follows Cleopatra's fleeing ships?**
 
 - A. The Battle of Philippi
 - B. The Battle of Alexandria
 - C. The Battle of Actium
 - D. The Battle of Misenum
 
-**Answer: C.** At the naval Battle of Actium, Cleopatra's ships unexpectedly flee, and Antony abandons his men to follow her, ensuring his defeat.
+**Answer: C.** At the naval Battle of Actium, Cleopatra's ships turn and flee, and Antony abandons the battle to follow her. (Misenum was the site of the treaty and feast with Pompey, not a battle.)
 
-**6. The character who acts as the voice of reason and a chorus, until his guilt over deserting Antony kills him, is:**
+**6. Which character, often seen as a chorus-like commentator, deserts Antony and later dies of shame at Antony's generosity?**
 
 - A. Lepidus
 - B. Eros
 - C. Pompey
 - D. Enobarbus
 
-**Answer: D.** Enobarbus offers cynical, realistic commentary throughout the play. He deserts Antony but dies of a broken heart when Antony responds with generosity.
+**Answer: D.** Enobarbus gives blunt, realistic comment, deserts to Caesar, and dies of grief when Antony sends his treasure after him.
 
-**7. How does Cleopatra react when the messenger tells her that Antony has married Octavia?**
+**7. How does Cleopatra react when a messenger tells her that Antony has married Octavia?**
 
 - A. She calmly plans her revenge against Rome.
-- B. She beats the messenger and threatens him with a knife.
+- B. She strikes the messenger and draws a knife on him.
 - C. She immediately orders her fleet to attack Athens.
-- D. She attempts to commit suicide.
+- D. She attempts to kill herself.
 
-**Answer: B.** True to her dramatic and passionate nature, Cleopatra flies into a violent rage and physically attacks the innocent messenger.
+**Answer: B.** True to her passionate nature, Cleopatra strikes and hauls the messenger around and draws a knife, then calls him back to ask about Octavia.
 
-**8. What immediate event causes Antony to attempt suicide?**
+**8. What immediate event causes Antony to try to kill himself?**
 
 - A. He receives false news that Cleopatra has killed herself.
 - B. He sees Caesar's army entering his palace.
 - C. He finds out that Enobarbus has died.
 - D. Cleopatra tells him she never loved him.
 
-**Answer: A.** Cleopatra locks herself in her monument and sends word that she is dead to calm Antony's anger. Believing she is dead, Antony falls on his sword.
+**Answer: A.** Cleopatra, hiding in her monument, sends word through Mardian that she is dead, hoping to calm Antony's rage. Believing it, Antony falls on his sword.
 
-**9. How does Cleopatra ultimately die?**
+**9. How does Cleopatra die?**
 
 - A. She stabs herself with Antony's sword.
 - B. She drinks a cup of poison.
 - C. She is executed by Octavius Caesar.
 - D. She lets poisonous snakes (asps) bite her.
 
-**Answer: D.** She smuggles poisonous asps into her monument in a basket of figs and applies them to her breast and arm to avoid being humiliated by Caesar.
+**Answer: D.** A countryman (the Clown) brings asps hidden in a basket of figs, and she applies them to herself so that she will not be paraded in Rome.
 
-**10. In the context of the play, who makes up the Second Triumvirate?**
+**10. In the context of the play, who make up the Second Triumvirate?**
 
-- A. Caesar, Pompey, and Lepidus
-- B. Antony, Caesar, and Lepidus
-- C. Antony, Enobarbus, and Caesar
-- D. Pompey, Antony, and Caesar
+- A. Caesar, Pompey and Lepidus
+- B. Antony, Caesar and Lepidus
+- C. Antony, Enobarbus and Caesar
+- D. Pompey, Antony and Caesar
 
-**Answer: B.** The Roman Empire is ruled by Mark Antony, Octavius Caesar, and Lepidus, before the alliance completely falls apart.
+**Answer: B.** The Roman world is ruled by Mark Antony, Octavius Caesar and Lepidus, until Caesar removes Lepidus and the alliance falls apart.
 
 <!-- COVERAGE
 -->

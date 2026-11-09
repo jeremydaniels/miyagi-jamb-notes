@@ -15,122 +15,105 @@ For these set texts, JAMB expects you to be able to identify and explain the obj
 3. Analyse the setting and socio-political context.
 4. Identify and explain the poetic devices, techniques, and style used by the poets.
 
-Because exact line-by-line text is not reproduced here, this guide provides the verified thematic and stylistic framework for each poem. **Wherever specific plot details, exact names, or quotations are required, clearly marked placeholders are used so that your teacher can verify them against the exact editions of the prescribed texts.**
+Because the poems are not reproduced here, this guide gives only points confirmed by more than one source, in the notes' own words. **Wherever a detail could not be confirmed, a clearly marked placeholder is used so that your teacher can check it against the prescribed text.**
 
 ---
 
 ## Part 1: The Telephone Call by Fleur Adcock
 
-### Background and Socio-political Context
+### Background and Context
 
-**Fleur Adcock** (born 1934) is a prominent poet of New Zealand origin who has spent most of her life living and writing in Britain. Her poetry is known for its conversational tone, sharp wit, and keen observation of everyday modern life.
+**Fleur Adcock** was born in 1934 in New Zealand and has spent most of her adult life in Britain. She is a modern poet, and her work is often described as witty and conversational.
 
-**Socio-political Context:** 
-*The Telephone Call* is set in the contemporary modern era, a time dominated by telecommunications, consumerism, and advertising. The socio-political context revolves around the rise of telemarketing, corporate lotteries, and telephone scams. It reflects a society where people are frequently bombarded with false promises of instant wealth, tapping into the basic human desire for sudden financial freedom. 
+*The Telephone Call* is reported by several study guides to come from her collection *The Incident Book* (1986). It is also widely anthologised, for example in the Cambridge IGCSE anthology *Songs of Ourselves*. The 1986 date rests on study-guide sources, so treat it as probable and not certain.
 
-### Subject Matter and Plot Summary
+**Context:** The poem deals with a modern lottery scam by telephone. It belongs to a world of telecommunications and advertising, where people are tempted by promises of an easy prize.
 
-The poem is a narrative that describes a telephone conversation between the persona and an unseen caller. The caller informs the persona that she has won a massive prize in a lottery or sweepstakes. 
+### Subject Matter
 
-**[TO BE COMPLETED: The exact name of the company or lottery mentioned by the caller.]**
-**[TO BE COMPLETED: The exact amount of money or nature of the prize promised.]**
+A speaker receives a telephone call from a firm called "Universal Lotteries". The caller says the speaker has won the top prize in a lucky draw. The call turns out to be a hoax: the "prize" is an "experience" and not money. The poem therefore ends in disappointment, and the speaker's hope is deflated.
 
-As the poem progresses, the persona initially reacts with disbelief, which gradually shifts into a brief moment of hope or excitement. However, the caller's responses become increasingly evasive or absurd, eventually revealing that the "prize" is not what it seems.
-
-**[TO BE COMPLETED: The specific questions the persona asks the caller to verify the win.]**
-**[TO BE COMPLETED: The exact twist or anti-climax at the end of the poem—whether it is revealed as an outright scam, a psychological experiment, or a trick regarding how the prize is awarded.]**
+**[TO BE COMPLETED: The exact name of the draw, the exact prize and the exact wording of the final stanza, to be taken from the prescribed text.]**
+**[TO BE COMPLETED: Whether the speaker is a woman or a man, and whether the speaker should be read as the poet or as a created persona. Sources disagree.]**
+**[TO BE COMPLETED: How the speaker reacts, stanza by stanza, and whether both sides of the conversation are heard.]**
 
 ### Themes
 
-1. **Deception and False Hope:** The central theme of the poem is the cruelty of raising someone's hopes only to shatter them. The caller uses the promise of wealth to manipulate the persona's emotions.
-2. **Modern Scams and Gullibility:** The poem critiques the modern phenomenon of telephone scams and aggressive marketing. It highlights how easily human beings, despite their natural skepticism, can be tempted to believe in "something for nothing."
-3. **The Intrusion of Technology:** The telephone acts as an invader in the persona's private space. The voice on the other end is a stranger who assumes a false intimacy to deceive the speaker.
-4. **Irony of Fortune:** The poem explores the concept of luck and fortune, ultimately suggesting that promises of sudden, effortless wealth in the modern world are usually illusory.
+1. **Deception and false hope:** A promise of sudden wealth is used to raise hopes that are then dashed.
+2. **Lottery scams and gullibility:** The poem criticises fraudulent schemes and the empty excitement and emotional manipulation behind them.
+3. **Fantasy versus reality:** Sources read it as saying that we seldom really win; at most we enjoy the fantasy for a while.
+4. **The market and emotion:** One reading says the poem mocks a market that sells emotional experiences.
 
 ### The Persona and Tone
 
-*   **The Persona:** The persona is the person receiving the call (strongly implied to be a modern, everyday individual, likely representing the poet or a relatable everyman/everywoman). She is initially cautious and questioning, showing intelligence, but is still vulnerable to the universal desire for good news.
-*   **The Tone:** 
-    *   At the beginning, the tone is **skeptical** and **inquisitive**.
-    *   During the middle, it shifts to **cautious excitement** and **anticipation**.
-    *   By the end, the tone becomes **satirical**, **ironic**, and deeply **anticlimactic**. The poet uses dry humour to handle the disappointment.
+*   **The Persona:** The speaker is the person who receives the call. Sources do not agree on whether this is Adcock herself or a created voice.
+*   **The Tone:** Study guides describe the poem as witty, sarcastic and ironic, written in a simple, conversational style.
 
 ### Structure, Techniques, and Style
 
-1. **Form and Structure:** The poem is written in free verse, lacking a strict rhyme scheme or rigid metre. This structural choice mirrors a real, unpredictable telephone conversation.
-2. **Dialogue and Dramatic Monologue Elements:** The poem reads like a script of a conversation. We either hear both sides of the call or hear the persona repeating and reacting to what the caller says. This brings the reader directly into the moment.
-3. **Irony and Anti-climax:** The entire poem builds up to a massive anti-climax. The grand expectations set up at the beginning are deflated by the end, creating situational irony.
-4. **Conversational Diction:** Adcock uses everyday, colloquial language. There are no elevated, archaic words; the language matches the mundane, modern setting of a telephone call.
-5. **Suspense and Pacing:** The poet uses line breaks (enjambment) and pauses (caesura) to mimic the hesitations and breath-taking moments of hearing unbelievable news, deliberately pacing the poem to build and then break suspense.
+1. **Structure:** Two sources state that the poem has six stanzas of eight lines each (48 lines in all). Check this against your printed text.
+2. **Rhyme and metre:** Study guides describe the poem as having no regular metre or rhyme scheme, that is, free verse. **[TO BE COMPLETED: Confirm from the printed text whether any rhyme or half-rhyme is used.]**
+3. **Irony and sarcasm:** The grand promise of a prize is undercut when the "prize" turns out to be worthless.
+4. **Conversational language:** The language is everyday speech, which matches the subject of a phone call.
+5. **Enjambment:** One study guide notes that lines run on into each other. **[TO BE COMPLETED: Examples from the text.]**
 
-[IMAGE: A conceptual illustration of a modern telephone handset hanging by its cord, with a speech bubble coming from the earpiece showing a shiny gold coin on a fishing hook. The background is a stark, plain wall. Labels to add later: "The lure of sudden wealth", "Telephone as an intrusion", "Modern scams". Clean flat textbook style, white background.]
+[IMAGE: A simple flat illustration of an old-style telephone handset beside a shiny prize trophy with a question mark above it, suggesting a promised prize that may be a trick. White background, no text, clean textbook style.]
 
 ---
 
-## Part 2: The Stone by Wilfred Wilson Gibson
+## Part 2: The Stone by Wilfrid Wilson Gibson
 
-### Background and Socio-political Context
+### Background and Context
 
-**Wilfred Wilson Gibson** (1878–1962) was a British poet often associated with the Georgian poets. Unlike many of his contemporaries who wrote idealized poems about nature, Gibson focused heavily on the harsh, dangerous realities of industrial and rural working-class life. 
+**Wilfrid Wilson Gibson** (1878-1962) was an English poet associated with the Georgian poets. The syllabus spells his name "Wilfred" and "Gipson", and the correct spelling of the surname is Gibson. He is described as writing about the poverty and hard lives of industrial workers and village labourers.
 
-**Socio-political Context:** 
-*The Stone* is set in a rural, working-class environment in the early 20th century. During this period, manual labourers—such as miners, quarrymen, and agricultural workers—faced incredibly hazardous working conditions. Fatal accidents were common, and there was little to no social safety net. The poem reflects this grim reality, focusing on the human cost of dangerous physical labour and the quiet endurance of the working class.
+*The Stone* is the title poem of his collection *Fires, Book I: The Stone, and Other Tales* (1912), and it is a narrative poem. The full text of the 1912 collection is on Project Gutenberg.
 
-### Subject Matter and Plot Summary
+### Subject Matter
 
-The poem is a tragic narrative told from the perspective of a stonemason. The mason is at work when a woman comes to him in a state of profound shock and grief. 
+A young woman's lover is killed in a quarry accident when a rock falls on him. She goes to a stonemason, who is the narrator, and asks him to cut a headstone for the dead man. The poem begins with her question to the mason, and that question is repeated. She is silent and numb with grief while he works, and the mason carves the stone through the night.
 
-**[TO BE COMPLETED: The exact name of the woman, if provided in the text, or her exact relationship to the deceased (wife or lover).]**
-
-Her partner has just been killed in a sudden, violent accident at work. He was crushed to death by a massive piece of stone. 
-
-**[TO BE COMPLETED: The exact setting of the accident (e.g., a quarry, a mine, or a field) and any specific details the poem gives about how the rock fell.]**
-
-The central, heartbreaking irony of the poem is that the stonemason to whom the woman brings the news is currently working with stone, and he will be the one tasked with carving the gravestone for the dead man out of the very material that killed him. 
-
-**[TO BE COMPLETED: The exact ending of the poem and the final image the stonemason describes.]**
+**[TO BE COMPLETED: The exact ending of the poem, including whose name is finally carved on the stone and what the narrator says about it. Study guides give conflicting summaries.]**
+**[TO BE COMPLETED: The names of the man and the woman, if the text gives any.]**
+**[TO BE COMPLETED: Exactly how the accident is described.]**
 
 ### Themes
 
-1. **Death and Sudden Loss:** The poem highlights the fragility of human life and how suddenly it can be extinguished by indifferent natural forces or workplace accidents.
-2. **The Harshness of Working-Class Life:** Gibson paints a stark picture of the dangers faced by manual labourers. Death is an ever-present shadow in their daily work.
-3. **The Impassivity of Nature (Stone):** Stone is a central motif. It represents the cold, unfeeling nature of the physical world. The stone does not care that it killed a man, nor does it care that it will be used to memorialise him. It is permanent, while human life is fragile.
-4. **Grief and Trauma:** The poem vividly captures the psychological impact of sudden grief. The woman's shock and the stonemason's somber reaction explore how ordinary people process devastating tragedy.
+1. **Grief and loss:** Sudden death and the numbness of shock.
+2. **Silence:** The woman's silence is read by guides as the soundless paralysis of grief.
+3. **Death and the hardship of labouring life:** The quarry is a dangerous workplace.
+4. **Carving as mourning:** Cutting the stone becomes a way of grieving. Study guides also describe the woman as becoming "like stone" in her grief.
 
 ### The Persona and Tone
 
-*   **The Persona:** The persona (narrator) is the stonemason. He is a working-class man, practical and skilled with his hands, who becomes the reluctant witness to the woman's tragedy. His perspective adds a layer of emotional weight, as he is physically connected to the material (stone) that caused the tragedy.
-*   **The Tone:** The tone is profoundly **somber**, **mournful**, and **fatalistic**. There is no anger, only a quiet, heavy resignation to the tragedy of working-class life. 
+*   **The Persona:** The narrator is a stonemason, to whom the young woman comes. He tells the story. He is not the dead man and not the woman.
+*   **The Tone:** Sorrowful and restrained. **[TO BE COMPLETED: Confirm tone shifts from the text.]**
 
 ### Structure, Techniques, and Style
 
-1. **Narrative Form:** The poem is a narrative poem, telling a complete story with a beginning, middle, and end. 
-2. **Auditory Imagery:** Gibson makes brilliant use of sound. The rhythmic chipping, tapping, and ringing of the stonemason's hammer and chisel run through the poem. 
-    **[TO BE COMPLETED: Examples of onomatopoeia or specific sound words used by Gibson to describe the carving.]**
-3. **Repetition:** The poet uses repetition to create a hypnotic, rhythmic effect that mimics the relentless striking of the hammer, as well as the numb, repetitive thoughts of someone in shock.
-4. **Irony:** The most powerful device is the situational irony. The man's life is taken by stone, and his memory will be preserved in stone by a man who works with stone. The destroyer and the memorial are the same element.
-5. **Simple Diction:** The vocabulary is stark, plain, and unadorned. This simple diction perfectly matches the voice of a humble stonemason and strips the tragedy of any romantic melodrama, making it feel brutally real.
+1. **Narrative form:** The poem tells a short story in verse, like a ballad-style narrative with a repeated question.
+2. **Repetition:** The opening question about cutting a stone is repeated and gives the poem a ritual feeling.
+3. **Symbol of stone:** Stone links the quarry that killed the man with the headstone that remembers him, and with the woman's numbness.
+4. **Length and rhyme:** One guide says the poem is about 97 lines. **[TO BE COMPLETED: Confirm the exact line count, stanza form and rhyme scheme from the printed text.]**
 
-[IMAGE: A somber illustration of a stonemason's workbench. On the bench lies a heavy wooden mallet and a metal chisel resting on a slab of grey granite. In the shadowy background, the silhouette of a grieving woman standing in a doorway. Labels to add later: "Stonemason's tools", "The impassive stone", "The messenger of grief". Clean flat textbook style, white background.]
+[IMAGE: A simple flat illustration of a stone quarry with cut grey stone blocks, a mason's hammer and chisel, and a plain unmarked headstone in the foreground. White background, no text, clean textbook style.]
 
 ---
 
 ## Needs checking against the text
 
-Because JAMB requires absolute accuracy and the exact texts of these poems can vary in anthologies, the following details *must* be verified by your teacher using the JAMB prescribed text:
-
 *   **For *The Telephone Call*:**
-    *   [TO BE COMPLETED: The exact name of the company or lottery mentioned by the caller.]
-    *   [TO BE COMPLETED: The exact amount of money or nature of the prize promised.]
-    *   [TO BE COMPLETED: The specific questions the persona asks the caller to verify the win.]
-    *   [TO BE COMPLETED: The exact twist or anti-climax at the end of the poem.]
+    *   [TO BE COMPLETED: The exact name of the draw, the exact prize and the wording of the final stanza.]
+    *   [TO BE COMPLETED: Whether the speaker is a woman or a man, and whether the speaker is the poet or a persona.]
+    *   [TO BE COMPLETED: How the speaker reacts, stanza by stanza, and whether both sides of the conversation are heard.]
+    *   [TO BE COMPLETED: Whether any rhyme or half-rhyme is used, and examples of enjambment.]
+    *   Also confirm: six stanzas of eight lines, and the 1986 date in *The Incident Book*.
 *   **For *The Stone*:**
-    *   [TO BE COMPLETED: The exact name of the woman, if provided in the text, or her exact relationship to the deceased.]
-    *   [TO BE COMPLETED: The exact setting of the accident (e.g., a quarry or a mine) and any specific details about how the rock fell.]
-    *   [TO BE COMPLETED: The exact ending of the poem and the final image the stonemason describes.]
-    *   [TO BE COMPLETED: Examples of onomatopoeia or specific sound words used by Gibson to describe the carving.]
-
-*(If your teacher has checked these and filled them in, you are ready for the exam!)*
+    *   [TO BE COMPLETED: The exact ending of the poem and whose name is carved.]
+    *   [TO BE COMPLETED: The names of the man and the woman, if given.]
+    *   [TO BE COMPLETED: How the accident is described.]
+    *   [TO BE COMPLETED: Tone shifts from the text.]
+    *   [TO BE COMPLETED: Exact line count, stanza form and rhyme scheme.]
 
 ---
 
@@ -138,116 +121,124 @@ Because JAMB requires absolute accuracy and the exact texts of these poems can v
 
 | Term | Meaning |
 | --- | --- |
-| **Persona** | The voice or character assuming the role of the speaker in a poem (e.g., the stonemason, the lottery "winner"). |
-| **Anti-climax** | A disappointing end to an exciting or impressive series of events (central to *The Telephone Call*). |
-| **Situational Irony** | A situation in which the outcome is very different from what was expected, or darkly fitting (e.g., killed by stone, memorialised in stone). |
-| **Free Verse** | Poetry that does not rhyme or have a regular metre (used in *The Telephone Call*). |
-| **Narrative Poem** | A poem that tells a story, complete with characters and a plot (e.g., *The Stone*). |
-| **Auditory Imagery** | Descriptive language that evokes a sense of hearing (e.g., the chipping of the chisel). |
-| **Satire** | The use of humour, irony, or exaggeration to expose and criticise people's stupidity or vices (seen in Adcock's critique of modern scams). |
-| **Colloquial Diction** | Everyday, conversational language used in speech. |
+| **Persona** | The voice or character speaking in a poem (the stonemason in *The Stone*). |
+| **Anti-climax** | A disappointing end to something that raised high expectations (as in *The Telephone Call*). |
+| **Irony** | A gap between what is expected or said and what really happens or is meant. |
+| **Satire** | The use of humour, irony or exaggeration to criticise foolish or wrong behaviour. |
+| **Free Verse** | Poetry without a regular metre or rhyme scheme. |
+| **Narrative Poem** | A poem that tells a story. |
+| **Enjambment** | A sentence running on from one line to the next without a pause. |
+| **Colloquial Diction** | Everyday spoken language. |
 
 ## Exam tips and common mistakes
 
-*   **Do not confuse the poets' eras:** Fleur Adcock is a contemporary poet writing about modern telecommunications and scams. Wilfred Wilson Gibson is an early 20th-century poet writing about historical manual labour.
-*   **Identify the persona correctly:** In *The Stone*, the speaker is NOT the dead man, nor is it the grieving woman. The speaker is the stonemason observing the tragedy.
-*   **Recognise the tone:** *The Telephone Call* ends on a satirical, ironic note. *The Stone* maintains a consistently mournful, fatalistic tone.
-*   **Look out for the central irony in Gibson's poem:** JAMB often asks about the significance of the title *The Stone*. Remember that stone is both the instrument of death and the instrument of memory.
-*   **Understand "Free Verse" vs. "Structured Metre":** Adcock uses free verse to make her poem sound like a real, spontaneous phone call. 
+*   **Do not confuse the poets:** Adcock is a modern poet writing about a telephone lottery scam. Gibson published *The Stone* in 1912 and writes about a quarry death.
+*   **Identify the persona in *The Stone*:** The speaker is the stonemason, not the dead man and not the grieving woman.
+*   **Name the firm and trick in Adcock:** The call is from a firm called Universal Lotteries, and the prize is a hoax.
+*   **Use your printed text for details:** Study-guide summaries of both poems disagree on small points. Quote and cite from your own edition.
+*   **Spell the poet's name correctly:** Gibson, not "Gipson".
 
 ## Quick summary
 
-1. *The Telephone Call* by Fleur Adcock is a contemporary free-verse poem about a persona receiving a call claiming she has won a massive lottery prize.
-2. The poem explores themes of modern deception, aggressive telemarketing, human gullibility, and the cruelty of false hope.
-3. Adcock uses conversational diction, dialogue, and a massive anti-climax to create a satirical tone.
-4. *The Stone* by Wilfred Wilson Gibson is a narrative poem set in an early 20th-century rural/industrial working-class community.
-5. The poem is narrated by a stonemason who is visited by a grieving woman whose partner has just been crushed to death by a rock.
-6. Gibson explores the fragility of human life, the harshness of manual labour, and the cold permanence of nature.
-7. *The Stone* relies heavily on situational irony, simple diction, and auditory imagery mimicking the sound of a stonemason's tools.
+1. *The Telephone Call* by Fleur Adcock is a witty modern poem about a speaker who is told she or he has won a lottery prize.
+2. The caller is from "Universal Lotteries", and the prize turns out to be an "experience" and not money.
+3. Its themes are deception, false hope and the gap between fantasy and reality.
+4. It is reported to have six stanzas of eight lines, written in free verse in a conversational style.
+5. *The Stone* by Wilfrid Wilson Gibson (in *Fires*, 1912) is a narrative poem about a young woman whose lover is killed in a quarry.
+6. The narrator is a stonemason whom she asks to cut a headstone, and she is numb and silent in her grief.
+7. Themes include grief, silence, death and carving as a form of mourning.
 
 ## Practice questions
 
-*(Note: These questions test verifiable facts about the poems' styles, themes, and contexts, as well as general literary appreciation methods using short made-up passages, avoiding specific unverified plot details.)*
+**1. In Fleur Adcock's *The Telephone Call*, the caller claims to be from:**
 
-**1. The primary theme of Fleur Adcock’s *The Telephone Call* is:**
-- A. The beauty of modern telecommunications
-- B. Deception and the cruelty of false hope
-- C. The joy of unexpected financial fortune
-- D. The grief of losing a loved one to illness
+- A. National Lottery Board
+- B. Universal Lotteries
+- C. Global Telecom
+- D. Lucky Star Bank
 
-**Answer: B.** The poem critiques modern scams and the way telemarketing preys on the human desire for wealth, ultimately delivering an anti-climax that shatters the initial hope.
+**Answer: B.** Study guides agree that the caller names a firm called Universal Lotteries.
 
-**2. Which poetic form best describes Fleur Adcock’s *The Telephone Call*?**
-- A. A strict sonnet
-- B. A traditional ballad
-- C. Free verse with conversational diction
-- D. A heroic couplet
+**2. The "prize" in *The Telephone Call* turns out to be:**
 
-**Answer: C.** The poem lacks a strict rhyme scheme and uses everyday language to mimic the natural flow of a telephone conversation.
+- A. A large sum of money
+- B. A new house
+- C. An "experience" and not money, so the call is a hoax
+- D. A free telephone
 
-**3. In Wilfred Wilson Gibson’s *The Stone*, the persona narrating the poem is:**
-- A. The man who was killed in the accident
-- B. The grieving woman
-- C. A stonemason
-- D. A wealthy quarry owner
+**Answer: C.** Study guides say the poem reveals the prize as a hoax that offers an "experience" instead of money.
 
-**Answer: C.** The story is told from the perspective of a stonemason who is approached by the grieving woman while he is working.
+**3. Which tone best describes *The Telephone Call*?**
 
-**4. A central literary device used in *The Stone* regarding the cause of death and the memorial is:**
-- A. Comic relief
-- B. Situational irony
-- C. Personification
-- D. Hyperbole
-
-**Answer: B.** It is deeply ironic that the man is crushed to death by stone, and his memory will be preserved by the stonemason carving into stone.
-
-**5. The socio-political context of Wilfred Wilson Gibson’s poetry often focuses on:**
-- A. The glamorous lives of royalty
-- B. The dangerous and harsh conditions of working-class labourers
-- C. The technological advancements of the 21st century
-- D. The mythical adventures of Greek gods
-
-**Answer: B.** Gibson is noted for his focus on the grim realities, poverty, and workplace dangers faced by industrial and rural workers in the early 20th century.
-
-**6. Which of the following best describes the tone at the end of *The Telephone Call*?**
-- A. Satirical and anticlimactic
-- B. Deeply romantic
+- A. Witty and sarcastic
+- B. Solemn and prayerful
 - C. Violently angry
-- D. Mournful and tragic
+- D. Romantic
 
-**Answer: A.** After building up the expectation of a massive prize, the ending deflates the excitement, leaving a tone of dry irony and anti-climax.
+**Answer: A.** Study guides describe it as witty, sarcastic and ironic.
 
-**7. *Read the following made-up lines (created for teaching):* "The hammer fell, the rock gave way, / And took his breath into the clay." *If a poet uses lines like these to describe a tragedy, what technique is most prominent?***
-- A. Euphemism
-- B. Enjambment
-- C. End rhyme
-- D. Oxymoron
+**4. In Wilfrid Wilson Gibson's *The Stone*, who narrates the poem?**
 
-**Answer: C.** The lines feature end rhyme ("way" and "clay"), a technique often used in traditional poetry to create rhythm and finality. 
+- A. The dead man
+- B. The grieving young woman
+- C. A stonemason
+- D. A quarry owner
 
-**8. In poetry, when a writer uses words that imitate the sound of the action they are describing (like the chipping of a chisel), it is called:**
+**Answer: C.** The narrator is a mason whom the young woman asks to cut a headstone.
+
+**5. In *The Stone*, how does the young woman's lover die?**
+
+- A. In a fire
+- B. At sea
+- C. Through illness
+- D. In a quarry accident, struck by a falling rock
+
+**Answer: D.** Sources agree that he is killed in a quarry when a rock falls on him.
+
+**6. *The Stone* was published in the collection:**
+
+- A. *The Incident Book*
+- B. *Fires, Book I: The Stone, and Other Tales* (1912)
+- C. *Songs of Ourselves*
+- D. *The Mermaid's Purse*
+
+**Answer: B.** The poem is the title poem of Gibson's 1912 collection. *The Incident Book* is Adcock's.
+
+**7. A poem tells a short story in verse with characters and events. It is called a:**
+
+- A. Narrative poem
+- B. Sonnet
+- C. Elegy only
+- D. Haiku
+
+**Answer: A.** *The Stone* is an example of a narrative poem.
+
+**8. *Read this made-up passage:* "The prize is yours, the voice declared; / I laughed, and then I stopped, and stared." What device ends both lines?**
+
 - A. Alliteration
-- B. Onomatopoeia
-- C. Metaphor
-- D. Synecdoche
+- B. End rhyme
+- C. Free verse
+- D. Anti-climax
 
-**Answer: B.** Onomatopoeia is the use of words whose sounds suggest their meaning, a device useful in creating auditory imagery.
+**Answer: B.** "Declared" and "stared" rhyme at the line ends, so this is end rhyme.
 
-**9. The intrusion of technology into private spaces is a theme most relevant to which of the two poems?**
-- A. *The Stone*
-- B. *The Telephone Call*
-- C. Both poems equally
-- D. Neither poem
+**9. A poem with no regular rhyme scheme or metre is written in:**
 
-**Answer: B.** *The Telephone Call* deals directly with telecommunications and the way aggressive marketing or scams can invade a person's private life.
+- A. Free verse
+- B. Heroic couplets
+- C. Terza rima
+- D. A villanelle
 
-**10. What does the imagery of stone most likely symbolise in Gibson’s poem?**
-- A. Warmth and human affection
-- B. Wealth and modern consumerism
-- C. The cold, unfeeling permanence of nature
-- D. The swift speed of technological progress
+**Answer: A.** Free verse has no fixed rhyme or metre. Study guides describe *The Telephone Call* this way.
 
-**Answer: C.** In the poem, the stone is an impassive, permanent element that destroys fragile human life without feeling, serving as a stark contrast to human grief.
+**10. Which poet's surname is misspelt "Gipson" in the JAMB syllabus?**
+
+- A. Adcock
+- B. Gibson
+- C. Both
+- D. Neither
+
+**Answer: B.** The correct name is Wilfrid Wilson Gibson, and the syllabus misprints the surname as "Gipson".
 
 <!-- COVERAGE
 -->

@@ -150,7 +150,7 @@ Farmers use both artificial techniques (like grafting) and natural plant organs 
 | **Grafting** | Joining a larger stem section with multiple buds (the **scion**) to a **rootstock** (using a V-shaped cleft or slanted whip cut) so their vascular tissues unite. | Mango, cocoa, citrus, rubber. |
 | **Layering** | Forcing a branch to produce roots while it is still attached to the parent plant. *Ground layering* bends a branch into the soil. *Air layering (marcotting)* wraps moist soil around a scraped branch high in the tree. | Guava, cocoa, vine crops (tomatoes). |
 | **Stem Tubers** | Swollen underground stems containing buds (eyes) that sprout into new plants. | Yam, Irish potato. |
-| **Root Tubers** | Swollen roots capable of generating adventitious shoots. | Sweet potato, cassava (rarely propagated this way, but it is a root tuber), carrot. |
+| **Root Tubers** | Swollen roots capable of generating adventitious shoots. | Sweet potato, carrot. (Cassava storage roots have no buds and cannot be planted; cassava is propagated by stem cuttings.) |
 | **Rhizomes** | Fleshy, horizontal underground stems. | Ginger, turmeric, spearmint. |
 | **Suckers** | Shoots arising from the underground base of a mature plant. | Banana, plantain, pineapple. |
 | **Bulbs and Corms** | Swollen fleshy leaf bases (bulbs) or solid, short underground stems (corms). | Onion, garlic (bulbs); cocoyam (corms). |

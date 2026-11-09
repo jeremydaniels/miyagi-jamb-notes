@@ -219,10 +219,10 @@ This is a favourite JAMB trap. You might be given the *Sales* figure, but given 
 
 ### Worked Example: Using Margin to find missing Purchases
 
-A fire destroyed the stock of a trader. You are given:
+A trader's records were damaged. You are given:
 - Sales for the year: ₦600,000
 - Opening Stock: ₦50,000
-- Closing Stock (salvaged from fire): ₦10,000
+- Closing Stock: ₦10,000
 - Margin: 20% on sales.
 
 What was the value of Purchases?
@@ -385,7 +385,7 @@ We create a rough cash book to find the closing balances.
 - C. ₦500,000
 - D. ₦720,000
 
-**Answer: B.** Margin is Gross Profit on Sales. Gross Profit = 20% of ₦600,000 = ₦120,000. Cost of Sales = Sales - Gross Profit = 600,000 - 120,000 = ₦480,000. Option A comes from wrongly treating the 20% margin as a 25% mark-up on sales instead of cost.
+**Answer: B.** Margin is Gross Profit on Sales. Gross Profit = 20% of ₦600,000 = ₦120,000. Cost of Sales = Sales - Gross Profit = 600,000 - 120,000 = ₦480,000. Option A comes from converting the 20% margin to a 25% mark-up on cost and then wrongly applying that 25% to sales (₦600,000 − ₦150,000 = ₦450,000).
 
 **5. A Statement of Affairs is prepared in single entry bookkeeping mainly to determine:**
 

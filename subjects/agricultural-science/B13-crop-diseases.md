@@ -48,7 +48,7 @@ While some organisms can survive in both environments, most are specialized to a
 
 To manage crop diseases effectively, we must understand the nature of the four main types of pathogens. 
 
-1. **Fungi:** These are microscopic and macroscopic non-green plants. Because they lack chlorophyll, they cannot make their own food; they feed as parasites on living crops or as saprophytes on dead matter. They are made of thread-like structures called **hyphae** (collectively called a mycelium) and reproduce by producing millions of tiny **spores**. Fungi cause over 70% of all crop diseases.
+1. **Fungi:** These are microscopic and macroscopic organisms (placed in their own kingdom, Fungi; older textbooks call them non-green plants). Because they lack chlorophyll, they cannot make their own food; they feed as parasites on living crops or as saprophytes on dead matter. They are made of thread-like structures called **hyphae** (collectively called a mycelium) and reproduce by producing millions of tiny **spores**. Fungi cause over 70% of all crop diseases.
 2. **Bacteria:** These are microscopic, single-celled organisms. They reproduce very rapidly by simply dividing in two (binary fission). They often enter plants through natural openings or wounds and multiply inside the plant's water-conducting vessels (xylem), blocking water flow.
 3. **Viruses:** These are ultramicroscopic infectious agents—much smaller than bacteria. They are not true cells; they consist merely of genetic material (DNA or RNA) wrapped in a protein coat. Viruses cannot survive or reproduce outside a living host cell. They must be injected into the plant by a **vector** (usually a piercing and sucking insect like a whitefly or aphid).
 4. **Nematodes:** These are microscopic, unsegmented roundworms (eelworms) that live in the soil and water. Plant-parasitic nematodes possess a needle-like mouthpart called a **stylet**, which they use to pierce plant roots, inject enzymes, and suck out plant juices.
@@ -174,7 +174,7 @@ To manage and control crop diseases, farmers use various strategies. These are g
 
 **2. Chemical Control Methods:**
 Using agrochemicals to kill or inhibit pathogens.
-*   **Fungicides:** Chemicals that kill fungi. For example, **Bordeaux mixture** (a mixture of copper sulphate and quicklime) is widely sprayed on cocoa to prevent Black Pod disease.
+*   **Fungicides:** Chemicals that kill fungi. For example, **Bordeaux mixture** (a mixture of copper sulphate and slaked lime) is widely sprayed on cocoa to prevent Black Pod disease.
 *   **Nematicides:** Chemicals applied to the soil (e.g., Carbofuran/Furadan) to kill nematodes.
 *   **Bactericides:** Chemicals (often copper-based) used against bacteria. (Note: These are rare and expensive; cultural control is usually preferred for bacteria).
 *   **Insecticides:** Used to kill the *vectors* (like aphids and whiteflies) that spread viral diseases, thereby indirectly controlling the virus.

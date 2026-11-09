@@ -30,7 +30,7 @@ A **species** is a group of related animals that share similar characteristics a
 Cattle belong to the genus *Bos*. They are divided into humped cattle (*Bos indicus*, also known as Zebu) and humpless cattle (*Bos taurus*). They are classified based on their primary economic uses:
 - **Beef breeds**: Raised primarily for meat production. They have blocky, heavily built bodies and grow fast. Examples: N'dama, Muturu, Kuri (known for massive, bulbous horns), and Keteku.
 - **Dairy breeds**: Raised primarily for milk production. In Nigeria, these are mostly exotic (foreign) breeds. Examples: Holstein-Friesian, Jersey, and Brown Swiss.
-- **Dual-purpose breeds**: Raised for both meat and milk. They are the most common in West Africa. Examples: White Fulani (Bunaji), Sokoto Gudali, and Red Bororo (Rahaji).
+- **Dual-purpose breeds**: Raised for both meat and milk. They are the most common in West Africa. Examples: White Fulani (Bunaji), Sokoto Gudali, and Red Bororo (Rahaji). (Textbooks differ on how to classify some breeds; Red Bororo is placed under dual-purpose or beef cattle in different books.)
 
 #### 2. Sheep
 Sheep belong to the species *Ovis aries*. In West Africa, they are mostly covered in hair rather than heavy wool, and are classified by their size and the region they are adapted to:
@@ -58,7 +58,7 @@ Rabbits belong to the species *Oryctolagus cuniculus*. They are classified by th
 #### 6. Poultry
 Poultry refers to all domesticated birds, including the domestic fowl (chicken), turkey, duck, guinea fowl, and pigeon. The domestic fowl (*Gallus gallus domesticus*) is the most economically important and is classified by its use:
 - **Egg producers (Layers)**: Light body weight, active, and bred to lay high numbers of eggs. Examples: White Leghorn, Brown Leghorn.
-- **Meat producers (Broilers)**: Heavy, broad-breasted birds that grow to market weight very quickly. Examples: Cornish, Sussex.
+- **Meat producers (Broilers)**: Heavy, broad-breasted birds that grow to market weight very quickly. Examples: Cornish. (Sussex is usually classed as a dual-purpose breed.)
 - **Dual-purpose**: Medium-weight birds that produce a good amount of both eggs and meat. Examples: Rhode Island Red, Plymouth Rock.
 
 ### Location of Farm Animals
@@ -85,7 +85,7 @@ Different species provide varying products and services to farmers and the econo
   - **Meat**: Adult cattle provide **beef**. (Meat from a young calf is called veal).
   - **Milk**: Highly nutritious, consumed fresh or processed into butter, cheese, and yoghurt.
   - **Hides**: The thick skin of large animals is called a hide; it is tanned into leather for shoes, bags, and belts.
-  - **Draught power**: Strong bulls (oxen) are used to pull ploughs, carts, and agricultural implements (animal traction).
+  - **Draught power**: Oxen (castrated male cattle) and strong bulls are used to pull ploughs, carts, and agricultural implements (animal traction).
   - **Manure**: Cow dung is an excellent organic fertiliser for crops.
 - **Sheep**:
   - **Meat**: Meat from an adult sheep is called **mutton**.
@@ -107,7 +107,7 @@ Different species provide varying products and services to farmers and the econo
 - **Poultry**:
   - **Eggs and Meat**: Cheap, high-quality sources of animal protein.
   - **Feathers**: Used for stuffing pillows, making dusters, and traditional fans.
-  - **Manure**: Poultry droppings (guano) are extremely rich in nitrogen and phosphorus, making them the most potent animal manure for crop production.
+  - **Manure**: Poultry droppings (poultry manure) are extremely rich in nitrogen and phosphorus, making them the most potent animal manure for crop production.
 
 ## External Features of Major Farm Animals
 

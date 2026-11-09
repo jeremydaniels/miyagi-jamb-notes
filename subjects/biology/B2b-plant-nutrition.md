@@ -76,9 +76,9 @@ Photosynthesis changes **light energy** into **chemical energy** stored in gluco
 - **Carotenoids**: **carotene** (orange) and **xanthophyll** (yellow) absorb other colours of light and pass the energy to chlorophyll. They also protect chlorophyll from damage by too much light. They can be seen in leaves that turn yellow before they fall.
 - Chlorophyll absorbs mainly **red** and **blue (violet)** light. It absorbs very little **green** light, which is reflected or passes through, so leaves look **green**.
 
-[IMAGE: A chloroplast in cut-away view, oval-shaped, showing the outer and inner membranes of the envelope, several stacks of disc-shaped thylakoids forming grana, thin intergranal lamellae linking the stacks, the stroma filling the space, two or three starch grains and a small ring of DNA. A small inset at the top left shows a palisade cell full of chloroplasts, with an arrow pointing to one chloroplast. Labels: outer membrane, inner membrane, granum, thylakoid, intergranal lamella, stroma, starch grain, DNA, palisade cell. Chloroplast in soft greens, stroma pale green, starch grains white. Clean flat textbook style, white background.]
+![A cut-away diagram of a chloroplast showing outer and inner membranes, thylakoid stacks forming grana, lamellae, stroma, starch grains, DNA ring, and an inset of a palisade cell.](images/B2b-01-chloroplast-internal-structure.png)
 
-[IMAGE: Diagram of a whole green plant showing the raw materials and products of photosynthesis. A sun at the top left sending rays to a leaf. Arrows: CO₂ from the air entering the leaf through stomata; oxygen leaving the leaf; water absorbed from the soil by root hairs, travelling up the stem in the xylem to the leaf (blue arrows); sugar travelling from the leaf in the phloem to the roots and to a fruit (orange arrows). Labels: sunlight, carbon (IV) oxide in, oxygen out, stoma, chlorophyll in leaf, water absorbed by root hairs, xylem (water up), phloem (food to other parts), glucose made in leaf. Clean flat textbook style, white background.]
+![Diagram of a whole plant showing photosynthesis inputs and outputs, with sunlight, stomata gas exchange, xylem water transport from roots, and phloem sugar transport to roots and fruit.](images/B2b-02-photosynthesis-whole-plant.png)
 
 ## The light and dark reactions of photosynthesis
 
@@ -223,7 +223,7 @@ Good plants to use are those with soft, thin leaves, such as balsam (*Impatiens*
 
 **Control:** the uncovered part of the same leaf, which received light and was otherwise treated in exactly the same way.
 
-[IMAGE: Three-step diagram of the experiment to show that light is necessary for photosynthesis. Step 1: a potted plant inside a dark cupboard, labelled destarching for 24–48 hours. Step 2: the same plant in sunlight with one leaf having a strip of aluminium foil clipped over the middle part on both sides. Step 3: the tested leaf on a white tile after the iodine test: the uncovered parts dark blue-black and the band that was covered brown. Optional fourth small panel: a leaf with a stencil showing the letter L in blue-black on a brown background. Labels: dark cupboard, destarched plant, aluminium foil (both sides), paper clip, sunlight, blue-black (starch present), brown (no starch). Clean flat textbook style, white background.]
+![Diagram showing destarched plant in a dark cupboard, plant exposed to sunlight with covered leaf, iodine test result, and leaf with letter L pattern.](images/B2b-05-light-requirement-leaf-experiment.png)
 
 ### Experiment 2: carbon (IV) oxide is necessary for photosynthesis
 
@@ -254,7 +254,7 @@ Good plants to use are those with soft, thin leaves, such as balsam (*Impatiens*
 
 **Variation: Moll's half-leaf experiment.** Instead of a whole plant, half of one leaf (still attached to the plant) is pushed through a split cork into a flask containing KOH solution, so that half of the leaf is inside the flask and half outside in the air. After several hours in light, only the half **outside** the flask (with CO₂) contains starch; the half inside the flask (no CO₂) has none. The part held tightly in the cork also has no starch (no light and no CO₂ reach it).
 
-[IMAGE: Side-by-side diagram of two bell-jar set-ups to show that carbon (IV) oxide is needed for photosynthesis. Set-up A (left): a destarched potted plant with a polythene bag tied over the pot, standing on a glass plate under a bell jar sealed with Vaseline at the rim; beside the pot, a small dish of potassium hydroxide solution. Set-up B, control (right): identical but with a small dish of water (or sodium hydrogen carbonate solution) instead. Sunlight shining on both. Beneath each jar, the tested leaf: brown for A, blue-black for B. Labels: bell jar, Vaseline seal, glass plate, polythene bag, potassium hydroxide (absorbs CO₂), water or sodium hydrogen carbonate (control), sunlight, leaf from A: brown (no starch), leaf from B: blue-black (starch). Clean flat textbook style, white background.]
+![Diagram comparing two bell jar setups for photosynthesis with potted plants and dishes of solution, illuminated by sunlight, showing tested leaves underneath colored brown and blue-black.](images/B2b-06-carbon-dioxide-requirement-experiment.png)
 
 ### Experiment 3: chlorophyll is necessary for photosynthesis
 
@@ -301,7 +301,7 @@ This experiment is not named in the objective, but it is often used to show that
 
 **Using it to show the effect of light intensity:** moving a lamp closer to the plant increases the number of bubbles given off per minute. Counting the bubbles gives a rough measure of the rate of photosynthesis.
 
-[IMAGE: Apparatus to show that oxygen is produced in photosynthesis. A glass beaker of water containing shoots of pondweed under an inverted glass funnel raised on two small blocks; an inverted test tube full of water over the funnel stem, with gas collecting at the top; bubbles rising from the pondweed; a sun or lamp shining on the beaker from the side. A small inset shows a glowing splint relighting at the mouth of the test tube. Labels: beaker, pond water with sodium hydrogen carbonate, pondweed, funnel, support, test tube, gas (oxygen) collecting, bubbles, light, glowing splint relights. Clean flat textbook style, white background.]
+![Diagram showing photosynthesis apparatus with pondweed under an inverted funnel and test tube collecting gas in sunlight, with an inset of a splint relighting.](images/B2b-08-oxygen-production-photosynthesis-experiment.png)
 
 ### Summary of the experiments
 
@@ -526,7 +526,7 @@ How do we know which elements are essential? Scientists grow plants in **water (
 
 **Conclusion:** each missing element is **necessary** for healthy plant growth.
 
-[IMAGE: Water culture experiment. Four identical glass jars in a row, each wrapped in black paper with a clear window strip, each with a cork stopper holding a maize seedling with roots hanging in the solution and a thin glass tube for bubbling air. Jar 1 "complete solution": a tall, healthy, dark green plant. Jar 2 "no nitrogen": a short, thin plant with yellow lower leaves. Jar 3 "no phosphorus": a short plant with dark green leaves tinged purple and small roots. Jar 4 "no potassium": a plant with brown, scorched leaf edges on the older leaves. Labels: cork, air tube (aeration), black paper (prevents algae), culture solution, complete (control), minus nitrogen, minus phosphorus, minus potassium. Clean flat textbook style, white background.]
+![Four glass jars in a water culture experiment demonstrating plant growth with complete nutrient solution, lacking nitrogen, lacking phosphorus, and lacking potassium.](images/B2b-11-plant-mineral-deficiency-water.png)
 
 ## Deficiency symptoms of nitrogen, phosphorus and potassium
 
@@ -583,7 +583,7 @@ Nitrogen, phosphorus and potassium are needed in the **largest amounts**, and th
 
 **Correction:** apply potassium fertilisers such as **muriate of potash** (potassium chloride) or **sulphate of potash**, or compound **NPK**; add **wood ash** (which contains potassium) or organic manure.
 
-[IMAGE: Three leaves side by side, plus one healthy leaf for comparison, all drawn as broad dicot leaves of the same shape. Healthy leaf: uniform dark green. Nitrogen deficiency: uniformly pale yellow-green leaf. Phosphorus deficiency: dark bluish-green leaf with purple-red tints along the edges and on the underside, and a purple-tinged leaf stalk. Potassium deficiency: green leaf with a yellow then brown, dry, scorched margin and tip, and a few brown spots near the edge. Below them, a second row showing three maize plants: N-deficient (small, with lower leaves yellow in a V-shape from the tip down the midrib), P-deficient (small, with purple leaf edges), K-deficient (brown scorched edges on lower leaves, stem bent over). Labels: healthy, nitrogen deficiency, phosphorus deficiency, potassium deficiency, chlorosis, purple colouring, scorched margin, V-shaped yellowing, lodging. Clean flat textbook style, white background.]
+![Illustration showing mineral deficiencies in dicot leaves and maize plants, including healthy, nitrogen-deficient, phosphorus-deficient, and potassium-deficient conditions.](images/B2b-12-leaf-nutrient-deficiency-symptoms.png)
 
 ### N, P and K deficiency symptoms compared
 

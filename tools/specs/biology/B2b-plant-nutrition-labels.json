@@ -1,0 +1,518 @@
+{
+ "B2b-01-chloroplast-internal-structure": {
+  "labels": [
+   [
+    "outer membrane",
+    [
+     471,
+     253
+    ],
+    "L"
+   ],
+   [
+    "inner membrane",
+    [
+     440,
+     317
+    ],
+    "L"
+   ],
+   [
+    "granum",
+    [
+     281,
+     527
+    ],
+    "L"
+   ],
+   [
+    "thylakoid",
+    [
+     421,
+     358
+    ],
+    "L"
+   ],
+   [
+    "intergranal lamella",
+    [
+     517,
+     399
+    ],
+    "R"
+   ],
+   [
+    "stroma",
+    [
+     655,
+     604
+    ],
+    "R"
+   ],
+   [
+    "starch grain",
+    [
+     302,
+     670
+    ],
+    "L"
+   ],
+   [
+    "DNA",
+    [
+     576,
+     643
+    ],
+    "R"
+   ],
+   [
+    "palisade cell",
+    [
+     158,
+     158
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B2b-02-photosynthesis-whole-plant": {
+  "labels": [
+   [
+    "sunlight",
+    [
+     266,
+     276
+    ],
+    "L"
+   ],
+   [
+    "carbon (IV) oxide in",
+    [
+     389,
+     307
+    ],
+    "L"
+   ],
+   [
+    "oxygen out",
+    [
+     721,
+     225
+    ],
+    "R"
+   ],
+   [
+    "stoma",
+    [
+     749,
+     458
+    ],
+    "R"
+   ],
+   [
+    "chlorophyll in leaf",
+    [
+     348,
+     491
+    ],
+    "L"
+   ],
+   [
+    "water absorbed by root hairs",
+    [
+     445,
+     844
+    ],
+    "L"
+   ],
+   [
+    "xylem (water up)",
+    [
+     542,
+     573
+    ],
+    "R"
+   ],
+   [
+    "phloem (food to other parts)",
+    [
+     555,
+     696
+    ],
+    "R"
+   ],
+   [
+    "glucose made in leaf",
+    [
+     675,
+     337
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2b-05-light-requirement-leaf-experiment": {
+  "labels": [
+   [
+    "dark cupboard",
+    [
+     63,
+     327
+    ],
+    "L"
+   ],
+   [
+    "destarched plant",
+    [
+     174,
+     493
+    ],
+    "L"
+   ],
+   [
+    "aluminium foil (both sides)",
+    [
+     576,
+     430
+    ],
+    "R"
+   ],
+   [
+    "paper clip",
+    [
+     615,
+     454
+    ],
+    "R"
+   ],
+   [
+    "sunlight",
+    [
+     626,
+     218
+    ],
+    "R"
+   ],
+   [
+    "blue-black (starch present)",
+    [
+     849,
+     404
+    ],
+    "R"
+   ],
+   [
+    "brown (no starch)",
+    [
+     844,
+     481
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2b-06-carbon-dioxide-requirement-experiment": {
+  "labels": [
+   [
+    "bell jar",
+    [
+     107,
+     491
+    ],
+    "L"
+   ],
+   [
+    "Vaseline seal",
+    [
+     266,
+     240
+    ],
+    "L"
+   ],
+   [
+    "glass plate",
+    [
+     256,
+     742
+    ],
+    "L"
+   ],
+   [
+    "polythene bag",
+    [
+     256,
+     614
+    ],
+    "L"
+   ],
+   [
+    "potassium hydroxide (absorbs CO\u2082)",
+    [
+     373,
+     701
+    ],
+    "L"
+   ],
+   [
+    "water or sodium hydrogen carbonate (control)",
+    [
+     865,
+     701
+    ],
+    "R"
+   ],
+   [
+    "sunlight",
+    [
+     890,
+     184
+    ],
+    "R"
+   ],
+   [
+    "leaf from A: brown (no starch)",
+    [
+     266,
+     839
+    ],
+    "L"
+   ],
+   [
+    "leaf from B: blue-black (starch)",
+    [
+     757,
+     839
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2b-08-oxygen-production-photosynthesis-experiment": {
+  "labels": [
+   [
+    "beaker",
+    [
+     332,
+     675
+    ],
+    "L"
+   ],
+   [
+    "pond water with sodium hydrogen carbonate",
+    [
+     380,
+     660
+    ],
+    "L"
+   ],
+   [
+    "pondweed",
+    [
+     419,
+     716
+    ],
+    "L"
+   ],
+   [
+    "funnel",
+    [
+     414,
+     788
+    ],
+    "L"
+   ],
+   [
+    "support",
+    [
+     407,
+     886
+    ],
+    "L"
+   ],
+   [
+    "test tube",
+    [
+     541,
+     342
+    ],
+    "R"
+   ],
+   [
+    "gas (oxygen) collecting",
+    [
+     512,
+     189
+    ],
+    "R"
+   ],
+   [
+    "bubbles",
+    [
+     514,
+     348
+    ],
+    "R"
+   ],
+   [
+    "light",
+    [
+     220,
+     256
+    ],
+    "L"
+   ],
+   [
+    "glowing splint relights",
+    [
+     774,
+     140
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2b-11-plant-mineral-deficiency-water": {
+  "labels": [
+   [
+    "cork",
+    [
+     179,
+     532
+    ],
+    "L"
+   ],
+   [
+    "air tube (aeration)",
+    [
+     233,
+     445
+    ],
+    "L"
+   ],
+   [
+    "black paper (prevents algae)",
+    [
+     104,
+     741
+    ],
+    "L"
+   ],
+   [
+    "culture solution",
+    [
+     630,
+     788
+    ],
+    "R"
+   ],
+   [
+    "complete (control)",
+    [
+     188,
+     296
+    ],
+    "L"
+   ],
+   [
+    "minus nitrogen",
+    [
+     407,
+     399
+    ],
+    "L"
+   ],
+   [
+    "minus phosphorus",
+    [
+     630,
+     440
+    ],
+    "R"
+   ],
+   [
+    "minus potassium",
+    [
+     864,
+     378
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2b-12-leaf-nutrient-deficiency-symptoms": {
+  "labels": [
+   [
+    "healthy",
+    [
+     155,
+     271
+    ],
+    "L"
+   ],
+   [
+    "nitrogen deficiency",
+    [
+     393,
+     271
+    ],
+    "L"
+   ],
+   [
+    "phosphorus deficiency",
+    [
+     629,
+     271
+    ],
+    "R"
+   ],
+   [
+    "potassium deficiency",
+    [
+     866,
+     256
+    ],
+    "R"
+   ],
+   [
+    "chlorosis",
+    [
+     343,
+     235
+    ],
+    "L"
+   ],
+   [
+    "purple colouring",
+    [
+     719,
+     266
+    ],
+    "R"
+   ],
+   [
+    "scorched margin",
+    [
+     952,
+     230
+    ],
+    "R"
+   ],
+   [
+    "V-shaped yellowing",
+    [
+     168,
+     783
+    ],
+    "L"
+   ],
+   [
+    "lodging",
+    [
+     831,
+     691
+    ],
+    "R"
+   ]
+  ]
+ }
+}

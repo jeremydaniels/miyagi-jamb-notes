@@ -140,7 +140,7 @@ A **rigid constitution** is one that is very difficult to change or amend. It re
 ### 4. Flexible Constitution
 
 A **flexible constitution** is one that is very easy to amend. It does not require any special procedures. It can be changed by the legislature using the same simple process used to pass ordinary, everyday laws (usually a simple majority vote).
-* **Examples:** Great Britain, New Zealand, Italy.
+* **Examples:** Great Britain, New Zealand.
 
 **Merits (Advantages):**
 * **Highly adaptable:** It allows the government to respond quickly to social changes, economic crises, or technological advancements.

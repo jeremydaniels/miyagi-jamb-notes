@@ -387,7 +387,7 @@ Longe,O.A (2020), Ikeja, Lagos: *Essential Commerce for Secondary Schools*; Tona
 
 These are not part of the syllabus. They flag places where the original wording looks like a typing error or is unclear, so the notes can handle them correctly. The syllabus text above is left exactly as printed.
 
-* **Source document (unofficial or out-of-date signs):** The PDF has no JAMB logo, title page or date. It starts on a page numbered 64 and ends on 71, so it is an extract from a larger booklet. Its general objectives say "test their understanding" where the other JAMB syllabuses say "test their achievement". The recommended texts include very old books (1978, 1992, 1996). The user should confirm it is the current UTME version. The printed title "COMMERCE" and page numbers 64 to 71 are left out of the transcription.
+* **Source document:** Official JAMB UTME syllabus, downloaded from JAMB's IBASS site. IBASS files are plain extracts without JAMB branding, a title page or a date, so their absence is normal. The running page headers, the printed title and the page numbers (64 to 71) are left out of the transcription.
 * **General Objectives, item (3):** ends "Nigerian economy and" with no punctuation before item (4) (printed this way).
 * **Topic 1, Objective i:** irregular spacing in "e-commerce/ e-business". Contents i is "Meaning of e-commerce/ e-business" but Objective i asks for the *functions* of e-commerce/e-business, so content and objective do not match. Objective iv repeats the idea of Objective i for Commerce.
 * **Topic 4, Content a (i):** "the use of luncheon, fuel vouchers" probably means "luncheon vouchers, fuel vouchers"; "self - service" has stray spaces.

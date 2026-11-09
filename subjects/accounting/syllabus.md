@@ -351,7 +351,7 @@ Ono, D.I., Oshunnira, M. and Ozurigbo, P.M. (2015). Financial Accounting for Sen
 
 These are not part of the syllabus. They flag places where the original wording looks like a typing error or is unclear, so the notes can handle them correctly. The syllabus text above is left exactly as printed.
 
-* **Source document (unofficial or out-of-date signs):** The PDF has no JAMB logo, title page or date. It starts on a page numbered 192 and ends on 197, so it is an extract from a larger booklet. It prints the subject as "Principles of Accounting"; the official JAMB name is "Principles of Accounts". Nothing in it looks out of date (it includes TSA, IPPIS, blockchain and an ICAN 2021 text), but the user should confirm it is the current UTME version. Running page headers ("Principles of Accounting") and page numbers 192 to 197 are left out of the transcription.
+* **Source document:** Official JAMB UTME syllabus, downloaded from JAMB's IBASS site. IBASS files are plain extracts without JAMB branding, a title page or a date, so their absence is normal. The running page headers, the printed title and the page numbers (192 to 197) are left out of the transcription. The PDF prints the subject as "Principles of Accounting"; the official JAMB subject name is "Principles of Accounts".
 * **Topic 6, Objective ii:** "long- term liabilities" has a stray space after the hyphen.
 * **Topic 15, Content b:** "Partners current and capital accounts" is missing an apostrophe (probably "Partners' current and capital accounts").
 * **Topic 16, Content e** ("Distinction between capital and revenue reserves") runs onto the next page and has no matching objective (the objectives end at iv).

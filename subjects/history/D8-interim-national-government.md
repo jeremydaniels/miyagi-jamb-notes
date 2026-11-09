@@ -11,7 +11,7 @@ By the end of these notes, you should be able to:
 
 ## Background to the Interim National Government
 
-The Interim National Government (ING) was a very brief unelected government that ruled Nigeria from **26 August 1993 to 17 November 1993** (a period of 82 days). To understand why it was formed, you must look at the political crisis of 1993.
+The Interim National Government (ING) was a very brief unelected government that ruled Nigeria from **26 August 1993 to 17 November 1993** (a period of about 83 days). To understand why it was formed, you must look at the political crisis of 1993.
 
 General Ibrahim Babangida had led a long transition programme to return Nigeria to civilian rule. On **12 June 1993**, a presidential election was held. Most domestic and international observers described it as the freest and fairest in Nigeria's history. The two candidates were Chief M.K.O. Abiola of the Social Democratic Party (SDP) and Alhaji Bashir Tofa of the National Republican Convention (NRC).
 
@@ -55,7 +55,7 @@ The legal foundation of the ING was highly questioned. Pro-democracy activists a
 
 #### 3. Economic Crisis and Labour Strikes
 The ING inherited a struggling economy with high inflation and foreign debt. In an attempt to raise government revenue, the ING introduced a highly unpopular economic policy.
-* In early November 1993, the ING removed the government subsidy on petroleum products. This caused the price of petrol to jump significantly (from 70 kobo per litre to 3.25 naira per litre, an increase of over 400%).
+* In early November 1993, the ING removed the government subsidy on petroleum products. This caused the price of petrol to jump significantly (from 70 kobo per litre to 5 naira per litre, an increase of over 600%).
 * This price hike caused transport fares and food prices to shoot up.
 * In response, the **Nigeria Labour Congress (NLC)** and oil workers' unions (such as PENGASSAN and NUPENG) declared a nationwide strike. 
 * The strikes crippled the economy, shut down banks and businesses, and paralyzed the country, further weakening the ING.
@@ -75,7 +75,7 @@ Although Chief Ernest Shonekan was the Commander-in-Chief on paper, he had no re
 
 ### Achievements of the ING
 
-Despite its short lifespan (82 days) and massive challenges, the Shonekan-led Interim National Government made a few notable moves:
+Despite its short lifespan (about 83 days) and massive challenges, the Shonekan-led Interim National Government made a few notable moves:
 1. **Release of political detainees:** The ING ordered the release of several pro-democracy activists, human rights campaigners, and journalists who had been jailed by the Babangida administration during the June 12 crisis.
 2. **Unbanning of newspapers:** The government repealed military decrees that had proscribed (banned) several media houses, such as *The Punch*, *National Concord*, and *The Observer*, allowing them to publish again.
 3. **Attempting a democratic framework:** It successfully inaugurated the National Assembly and made initial plans to conduct the new elections scheduled for 1994, though the government collapsed before these could be carried out.
@@ -159,7 +159,7 @@ General Sani Abacha immediately took over as the new military Head of State. He 
 - C. The banning of all trade unions
 - D. The change of the national currency
 
-**Answer: B.** The ING removed the subsidy on petroleum products, raising the price from 70 kobo to 3.25 naira. This triggered massive strikes that paralyzed the economy.
+**Answer: B.** The ING removed the subsidy on petroleum products, raising the price from 70 kobo to 5 naira. This triggered massive strikes that paralyzed the economy.
 
 **6. Why did pro-democracy groups and civil rights organizations heavily oppose the Interim National Government?**
 - A. They believed Chief Shonekan was not a Nigerian citizen
@@ -199,7 +199,7 @@ General Sani Abacha immediately took over as the new military Head of State. He 
 - C. Six months
 - D. Less than three months
 
-**Answer: D.** The ING was in power for just 82 days (from 26 August to 17 November 1993), making it a period of less than three months.
+**Answer: D.** The ING was in power for about 83 days (from 26 August to 17 November 1993), making it a period of less than three months.
 
 <!-- COVERAGE
 obj i | The Role and Challenges of the Interim National Government

@@ -69,8 +69,8 @@ The process: generate each picture **with no text**, look at it, add the labels 
 ## Setup
 
 ```bash
-pip install openai pillow
-export OPENAI_API_KEY=...        # never print, log or commit it
+pip install pillow matplotlib
+export GEMINI_API_KEY=...        # never print, log or commit it
 ```
 
 Working files go in `.image-work/` at the repo root, which is git-ignored. To put them somewhere else, set `IMAGE_WORK_DIR`. That folder holds:
@@ -83,11 +83,13 @@ Working files go in `.image-work/` at the repo root, which is git-ignored. To pu
 
 | Script | What it does |
 |---|---|
-| `generate.py` | Calls OpenAI (`gpt-image-2`, 1024x1024, quality "medium"), adds the house style to each prompt, saves `raw/<name>.png` and logs the real cost from the returned token usage. It skips a call if the running total plus that call could go over `--budget` (default $5). |
+| `generate.py` | Calls the Gemini image API (default `gemini-3-pro-image`; use `--model gemini-3.1-flash-image` for the cheaper model), adds the house style to each prompt, saves `raw/<name>.png` and logs the real cost computed from the returned token counts. `--suffix` adds a name suffix to compare models, `--models` lists the image models, `--budget` stops a run before it passes the limit. |
 | `preview.py` | `grid` draws a pixel grid on a raw image. `zoom` enlarges a small area. `small` shrinks a finished labelled image so you can check it. |
 | `label.py` | Reads a label spec and draws the labels, leader lines, captions and arrows. Saves the final PNG to `subjects/biology/images/` by default (change with `--out`, e.g. `--out subjects/chemistry/images`). |
 | `compress_images.py` | Shrinks the finished PNGs in place (256-colour palette with dithering, no visible loss; about 60% smaller). File names stay the same, so links still work. |
-| `place_images.py` | Replaces the `[IMAGE: ...]` lines in a notes file, in order, with `![alt](images/NAME.png)`. |
+| `place_images.py` | Replaces `[IMAGE: ...]` lines with `![alt](images/NAME.png)`: all in order, or single slots with `N:NAME=alt`. |
+| `extract_prompts.py` | Pulls the `[IMAGE: ...]` placeholders out of a notes file into `tools/specs/<subject>/<topic>-prompts.json` and a `-labels-todo.json` (labels removed from the prompt). `--only N`, `--group AI/CODE/FLAG/ALL`. |
+| `codedraw/` | matplotlib drawing for exact images: `style.py` (shared fonts and colours) and `samples.py` (ten pilot examples). Natural Earth outlines are in `data/`. |
 | `common.py` | Shared paths and fonts. Uses Inter if it is installed, otherwise DejaVu Sans. |
 
 ## Doing a topic (example: chemistry C1)
@@ -138,4 +140,4 @@ Two raw images were also edited by hand before labelling:
 
 ## Cost
 
-With `gpt-image-2` at 1024x1024 and quality "medium", each image used about 1,756 output image tokens and about 250 text input tokens, which is about $0.054. The rates in `generate.py` (`PRICE`) are per 1M tokens: $5 text input and $30 image output. Check them against OpenAI's pricing page before each batch. The 69 calls for A1 to A3 cost $3.71.
+With the Gemini image models, a square image cost about $0.069 (`gemini-3.1-flash-image`) or $0.146 (`gemini-3-pro-image`) in the pilot; `generate.py` prints the real cost per image. Rates in `PRICE` are unverified list prices: check them on Google's pricing page. (Section A was made earlier with OpenAI: 69 calls, $3.71.)

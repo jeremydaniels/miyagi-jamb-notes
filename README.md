@@ -41,3 +41,7 @@ New subjects go in `subjects/<subject>/`, with `syllabus.md` inside.
 History facts that could not be confirmed are listed in `HISTORY-VERIFICATION-LOG.md`.
 
 In Use of English, `A5-approved-reading-text.md` has the novel sections left as marked placeholders, to be filled in by someone who has read the book. The recommended text must be confirmed with JAMB each exam year.
+
+## Image tools
+
+Images are made with Gemini (`GEMINI_API_KEY`) and Pillow; code-drawn diagrams use **matplotlib** (added with approval; `pip install matplotlib`). See `tools/README.md`, `IMAGES-PLAN.md` and `PILOT-GALLERY.md`.

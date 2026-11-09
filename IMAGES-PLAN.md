@@ -1,19 +1,27 @@
-# Images plan (planning only: no images have been generated)
+# Images plan (updated after the Gemini pilot)
 
 Scope: every subject folder in `subjects/` (15 subjects). I read "the remaining 10 subjects" in your out-of-scope line as subjects not yet written. If you meant the nine older subjects here, use the two subtotals in the cost table. Biology Sections A1 to A3 are done (67 images, no placeholders left), so only Biology Sections B to E are counted. A classification file with every placeholder is in `IMAGES-CLASSIFICATION.csv`.
+
+## Decisions (recorded after approval)
+
+- **Gemini only** for all AI images, on `GEMINI_API_KEY`. OpenAI is removed from the plan and the tools.
+- **matplotlib approved** and installed (version 3.11); noted in the README.
+- **CRK:** Jesus and angels in a respectful flat style. **Never depict God**; use symbols such as light or clouds. **IRK:** faceless figures, no prophets, prayer and ablution positions as simple step diagrams. **All of these images are marked "Needs teacher review".**
+- **Flags:** maps as simplified code-drawn sketches (Natural Earth data where borders matter). **Portraits of real people and Arabic-script images are skipped** and keep their placeholder text.
+- **All 15 subjects** are in scope for the full run later.
 
 ## 1. Summary
 
 - **1,399 placeholders** in 451 notes files.
 - **AI-generated: 649** (46%). **Code-drawn: 665** (48%). **Skip or flag: 85** (6%).
-- **Cost of the AI images with gpt-image-2:** about **$40** expected ($35 if every image works first time, $49 if retries are heavy). Pilot of 10 Biology images: about **$0.54**, capped at **$2**.
+- **Cost of the AI images (Gemini):** see section 6. Real prices from the pilot: $0.069 per image (Flash) and $0.146 (Pro). The pilot of 10 Biology images cost $1.51 including tests and retries.
 - **Biology A3 camouflage image:** yes, it has a mistake (see section 2). It says "Parotid gland"; the notes and the alt text correctly say "parotoid". It needs a one-word fix.
-- **Needs your decision:** (a) matplotlib for the code-drawn graphs, (b) how to treat sensitive religious images, (c) which FLAG images to simplify and which to source, (d) approval of the pilot. Details in section 7.
+- **Decisions:** recorded in the section above.
 
 ## 2. Biology A3 camouflage image
 
 I opened `subjects/biology/images/A3-camouflage-defence.png`. The toad's label reads **"Parotid gland (poison)"**. In toads the poison gland behind the eye is the **parotoid** gland; a *parotid* gland is the salivary gland of mammals. The notes' alt text already says "parotoid", and the notes have no other use of "parotid".
-The raw picture is not stored in the repo, so the label cannot be re-rendered from the spec. Options: (1) **recommended, free:** patch the finished PNG (paint the label box white and redraw "Parotoid gland (poison)" with Pillow in the same font); (2) regenerate the picture (about $0.054) and relabel it, which would change the artwork. The other 66 Section A images should get a quick text check against the notes' spelling at the same time (cost: none).
+The raw picture is not stored in the repo, so the label cannot be re-rendered from the spec. Options: (1) **recommended, free:** patch the finished PNG (paint the label box white and redraw "Parotoid gland (poison)" with Pillow in the same font); (2) regenerate the picture (about $0.07 with Gemini Flash) and relabel it, which would change the artwork. The other 66 Section A images should get a quick text check against the notes' spelling at the same time (cost: none).
 
 ## 3. Counts
 
@@ -149,86 +157,68 @@ Per-file counts are in the appendix. "AI with a label list" counts AI placeholde
 
 ### How Biology Section A was made
 
-From `tools/README.md` and `tools/specs/biology/`: the prompts for a topic were written by hand from each placeholder into `A#-prompts.json`; `generate.py` called gpt-image-2 (1024 by 1024, quality medium) with a fixed house style (flat textbook illustration, white background, soft palette, **no text**); each raw image was looked at and regenerated if wrong (69 calls for 67 images, **$3.71**, about $0.054 each); coordinates were read off a gridded preview (`preview.py`), labels and leader lines were drawn with Pillow (`label.py`) from `A#-labels.json`, the result was checked again, `place_images.py` swapped each placeholder for the image, and `compress_images.py` cut file size by about 60%. Two raw images were edited by hand (tapeworm hooks, Ascaris).
+From `tools/README.md` and `tools/specs/biology/`: the prompts for a topic were written by hand from each placeholder into `A#-prompts.json`; `generate.py` called an image model (1024 by 1024, medium quality, since replaced by Gemini) with a fixed house style (flat textbook illustration, white background, soft palette, **no text**); each raw image was looked at and regenerated if wrong (69 calls for 67 images, **$3.71**, about $0.054 each); coordinates were read off a gridded preview (`preview.py`), labels and leader lines were drawn with Pillow (`label.py`) from `A#-labels.json`, the result was checked again, `place_images.py` swapped each placeholder for the image, and `compress_images.py` cut file size by about 60%. Two raw images were edited by hand (tapeworm hooks, Ascaris).
 
 ### Review of the tools
 
 | Tool | Works as is? | Change I would propose |
 |---|---|---|
-| `generate.py` | Yes. Budget guard, cost log, six workers. | None needed. The price constants (text in $5, image out $30 per 1M tokens) match the $0.053 per medium square image quoted by third-party sources citing OpenAI's docs; confirm on OpenAI's pricing page before the full run. |
-| `preview.py` | Yes (`grid`, `zoom`, `small`). | A contact-sheet mode (12 raw images per page) so a batch can be reviewed in one look. |
+| `generate.py` | **Changed to Gemini** (done in the pilot): `--model`, `--suffix`, `--budget`, cost computed from token counts, `--models` lists the image models. | Done. |
+| `preview.py` | Yes (`grid`, `zoom`, `small`) plus a new `sheet` mode (contact sheet, done). | Done. |
 | `label.py` | Yes. | None. |
-| `place_images.py` | **Only when every placeholder in a file becomes an image, in order.** | Most files mix AI, code-drawn and flagged images. Add `N:NAME=alt` so a call can replace placeholder number N only. |
+| `place_images.py` | Now takes `N:NAME=alt` to replace one slot (done, tested). Slot numbers count placeholders and already placed images, so they stay stable. | Done. |
 | `compress_images.py` | Yes. | None. |
-| New: `extract_prompts.py` | n/a | Reads a notes file, pulls out each AI placeholder and its "Labels to add" list, and writes `prompts.json` plus a label list template. Plain Python, no new dependency. Saves hand-copying 649 prompts. |
+| New: `extract_prompts.py` | Done. | Reads a notes file, pulls out each AI placeholder, strips the label list and inline label text, and writes `-prompts.json` and `-labels-todo.json`. |
 
 ### Proposed pipeline (matches Section A)
 
 1. **Extract** the AI placeholders per topic into `tools/specs/<subject>/<topic>-prompts.json` (new `extract_prompts.py`); I check each prompt for counts and positions, because "exactly N parts" fixes most errors (as with the Ascaris lips).
-2. **Generate** with `generate.py` (gpt-image-2, 1024 by 1024, medium, same house style, no text). Review in contact sheets; regenerate bad ones.
+2. **Generate** with `generate.py` (Gemini, square 1024 image, same house style, no text). Review in contact sheets; regenerate bad ones.
 3. **Label** only the AI images that have a label list (487 of 649): grid preview, coordinates, `label.py`, then check. The 162 scenes without label lists skip this step and go straight to placing.
-4. **Code-drawn images** (665): Pillow-only scripts per image type under `tools/specs/<subject>/` (flowcharts, tables, number lines, geometry, ledgers and simple graphs are all possible in Pillow). Real graph curves (physics, economics, maths) would be far better with matplotlib; see section 7. Same fonts and palette as the AI images so the notes look consistent.
+4. **Code-drawn images**: matplotlib (approved and installed) with the shared style in `tools/codedraw/style.py` (Inter font, same palette), one function per image; ten samples are in `tools/codedraw/samples.py`. Natural Earth data (public domain, `tools/data/`) where real outlines matter.
 5. **Place, compress, commit**: `place_images.py` (with the `N:NAME=alt` change), `compress_images.py`, one commit per topic's images, pushed to `main` (CLAUDE.md rule).
 6. Stop and report after each subject: images made, retries, real cost.
 
 ### Which image model, and why
 
-Use **gpt-image-2** (the model `CLAUDE.md` names and the one that made Section A). Reasons: it keeps one flat-textbook look across all subjects, which matters when a student moves between Biology and Chemistry; it obeys "no text" and "exactly N" instructions well enough that labels can be added in code, which keeps spelling exact (the one spelling error in Section A came from a label typed by us, not from the model); and the cost is known ($0.053 to $0.054 for a medium 1024 by 1024 image). I could not call the OpenAI API from this session (no key is set here), so I have not checked which newer models are listed; the pilot starts with the free model-list call that `CLAUDE.md` asks for. Two cost levers to test in the pilot, not assumed: **high quality** (about $0.21) only for the few hardest anatomy images (nephron, heart) if medium fails; and the **Batch API** at about half price, if the model supports it for images.
+**Gemini only**, on `GEMINI_API_KEY`. Models available to the key: `gemini-2.5-flash-image`, `gemini-3.1-flash-image`, `gemini-3-pro-image` (also `nano-banana-pro-preview` and preview variants). I tested the heart prompt on the first three. `gemini-2.5-flash-image` ($0.039) was crude and anatomically wrong. `gemini-3.1-flash-image` ($0.069) and `gemini-3-pro-image` ($0.146) were close; Pro was a little cleaner and better on multi-part experiment diagrams, so the pilot used Flash first and Pro for the hardest four. **Recommendation:** Flash 3.1 as the default, Pro for hard anatomy, multi-panel experiment diagrams and retries.
 
-## 6. Cost estimate (AI images only)
+Both models sometimes write text or numbers despite the no-text rule (4 of 14 first tries) and draw arrows when the placeholder asks for them (the heart). The pipeline paints out stray text with `label.py`'s `whiten` option or re-rolls, and arrows requested in the placeholder are kept or drawn in code.
 
-Rate: $0.054 per image (Section A's real average; OpenAI's medium 1024 by 1024 price is about $0.053). Expected = rate times 1.15 for retries (Section A needed only 3% retries, but 75 placeholders are multi-panel grids, which fail more often). Low = no retries. High = 40% retries.
+## 6. Cost estimate (AI images only, Gemini)
+
+Real prices from the pilot, computed from the token counts the API returned: **gemini-3.1-flash-image $0.0686 per image, gemini-3-pro-image $0.1455 per image** (rates are best-known list prices, unverified). Plan: Flash for first tries, Pro for the hardest diagrams (about 15%) and for retries. Expected per image = 85% Flash + 15% Pro = $0.0801, times 1.15 for retries. Low = all Flash, no retries. High = 40% retries on the mixed rate.
 
 | Subject | AI images | Low | Expected | High |
 |---|---|---|---|---|
-| Accounting | 3 | $0.16 | $0.19 | $0.23 |
-| Agricultural Science | 68 | $3.67 | $4.22 | $5.14 |
-| Biology (Sections B to E) | 328 | $17.71 | $20.37 | $24.80 |
-| Chemistry | 28 | $1.51 | $1.74 | $2.12 |
-| Commerce | 10 | $0.54 | $0.62 | $0.76 |
-| CRK | 94 | $5.08 | $5.84 | $7.11 |
-| Economics | 1 | $0.05 | $0.06 | $0.08 |
-| Geography | 21 | $1.13 | $1.30 | $1.59 |
-| Government | 13 | $0.70 | $0.81 | $0.98 |
-| History | 23 | $1.24 | $1.43 | $1.74 |
-| IRK | 15 | $0.81 | $0.93 | $1.13 |
-| Literature in English | 12 | $0.65 | $0.75 | $0.91 |
+| Accounting | 3 | $0.21 | $0.28 | $0.34 |
+| Agricultural Science | 68 | $4.66 | $6.27 | $7.63 |
+| Biology (Sections B to E) | 328 | $22.50 | $30.23 | $36.80 |
+| Chemistry | 28 | $1.92 | $2.58 | $3.14 |
+| Commerce | 10 | $0.69 | $0.92 | $1.12 |
+| CRK | 94 | $6.45 | $8.66 | $10.55 |
+| Economics | 1 | $0.07 | $0.09 | $0.11 |
+| Geography | 21 | $1.44 | $1.94 | $2.36 |
+| Government | 13 | $0.89 | $1.20 | $1.46 |
+| History | 23 | $1.58 | $2.12 | $2.58 |
+| IRK | 15 | $1.03 | $1.38 | $1.68 |
+| Literature in English | 12 | $0.82 | $1.11 | $1.35 |
 | Mathematics | 0 | $0.00 | $0.00 | $0.00 |
-| Physics | 27 | $1.46 | $1.68 | $2.04 |
-| Use of English | 6 | $0.32 | $0.37 | $0.45 |
-| **Total** | **649** | **$35.05** | **$40.30** | **$49.06** |
+| Physics | 27 | $1.85 | $2.49 | $3.03 |
+| Use of English | 6 | $0.41 | $0.55 | $0.67 |
+| **Total** | **649** | **$44.52** | **$59.81** | **$72.81** |
 
-Subtotals (expected): Biology plus the five Run 1 subjects, 453 images, $28.13; the nine older subjects, 196 images, $12.17.
+The Gemini image models list `batchGenerateContent`, which is usually half price; I have **not** tested it for images, so the table is at standard price. If it works, the expected total would be about half. Code-drawn and flagged images have no API cost.
 
-Not included: code-drawn and flagged images (no API cost, but real working time), any optional high-quality regenerations, and Claude usage. Section A's total was $3.71 for 67 images.
+### Pilot result (done)
 
-### Pilot: 10 Biology B images (about $0.54, cap $2)
+Ten Biology B images were generated with Gemini; the real total, including tests and retries, was **$1.51** of the $2 cap. See `PILOT-GALLERY.md` for every image, its cost and the accuracy problems found.
 
-Purpose: check quality, real cost per image, retry rate and how long labelling takes, before committing to the full run. The ten cover easy and hard cases:
+## 7. Remaining decisions
 
-| # | File | Placeholder no. | What it shows |
-|---|---|---|---|
-| 1 | `B3a-transport-in-animals` | 5 | mammalian heart internal section |
-| 2 | `B5-excretion` | 8 | nephron structure detailed diagram |
-| 3 | `B6b-support-and-movement-in-animals` | 2 | bone structure and osteon diagram |
-| 4 | `B6b-support-and-movement-in-animals` | 10 | synovial joint cross section |
-| 5 | `B4a-respiratory-organs-and-gaseous-exchange` | 4 | tadpole external and internal gills |
-| 6 | `B2a-modes-and-types-of-nutrition` | 8 | Rhizopus mould structure |
-| 7 | `B7a-asexual-reproduction` | 1 | paramecium binary fission stages |
-| 8 | `B7b-reproduction-in-flowering-plants` | 11 | double fertilisation in angiosperms |
-| 9 | `B9c-hormonal-control` | 10 | coleoptile phototropism experiments illustration |
-| 10 | `B2b-plant-nutrition` | 9 | starch test leaf steps |
-
-Mix: two highly detailed anatomy diagrams (heart, nephron), two skeletal structures, two life-form drawings, one multi-stage life cycle, one plant reproduction diagram and two multi-panel experiments. Success means: parts in the right places, correct counts, no stray text, style matching Section A, and a clean labelled version. I will report real tokens and dollars per image, the retries, and a recommendation (medium or high quality; Batch or standard) before anything else is generated. Stop condition: the $2 pilot budget (`generate.py --budget 2`).
-
-## 7. Decisions needed
-
-1. **Approve the pilot** (10 Biology B images, about $0.54, cap $2). The OpenAI key must be set as `OPENAI_API_KEY` in the session environment; it is not set in this one.
-2. **Allow matplotlib** for code-drawn graphs and curves (a large share of the code-drawn images are graphs or curves, mostly Physics, Economics, Mathematics and Biology data). Without it I will use Pillow only; flowcharts, tables, number lines and geometry are fine in Pillow, but smooth curves and axes are slower and rougher. Chemical structures can be done with Pillow templates; RDKit is not needed unless you want a large set. I will not install anything without your yes.
-3. **Sensitive religious images:** confirm the approach in section 4 (CRK scenes in a respectful flat style with teacher review; IRK figures without faces; no depiction of any prophet; Arabic added in code).
-4. **Flag items:** choose per group: simplified labelled sketch (my default for approximate maps), public-domain source (for exact borders and portraits), or skip. History alone has 42 of the 85.
-5. **A3 camouflage fix:** approve the free patch of the finished PNG (and a spelling check of the other Section A labels).
-6. **Scope:** confirm whether the nine older subjects are in this run or wait.
+1. **Approve the full run** after the pilot (see `PILOT-GALLERY.md`): model split (Flash default, Pro for hard images and retries), the treatment of stray text, and a Batch API test for half price.
+2. **Teacher review:** CRK and IRK images are marked "Needs teacher review" (see Decisions above).
+3. **`CLAUDE.md` image rules** still say OpenAI; not changed in this run.
 
 ## Appendix: placeholders per file
 

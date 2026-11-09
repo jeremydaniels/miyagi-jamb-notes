@@ -54,7 +54,7 @@ The most heavily tested area in JAMB for this topic is knowing the correct **bas
 | **Electricity / Lighting** | Number of light points OR Floor area | The more light bulbs or space a department has, the more electricity it uses. |
 | **Air Conditioning / Heating** | Floor area or Volume of space | Cooling a larger space costs more. |
 | **Selling Expenses** (Advertising, Carriage Outward, Sales Commission, Bad Debts, Discount Allowed) | Sales value (Turnover) | These expenses exist to generate sales. A department with higher sales should bear more of the selling costs. |
-| **Purchasing Expenses** (Carriage Inward, Discount Received) | Purchases value | These relate directly to buying goods. |
+| **Purchases-related items** (Carriage Inward, Discount Received; discount received is an income, shared on the same basis) | Purchases value | These relate directly to buying goods. |
 | **Depreciation and Insurance of Equipment** | Value of assets in the department | A department using expensive machinery should bear the cost of its wear and tear. |
 | **Staff Welfare, Canteen, Supervision** | Number of employees | A department with more workers uses more of the staff facilities. |
 

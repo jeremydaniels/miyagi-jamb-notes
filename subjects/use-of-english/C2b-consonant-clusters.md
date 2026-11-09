@@ -161,7 +161,7 @@ English allows only certain combinations. The main ones are:
 
 Note: there is **no** /tl/ or /dl/ at the start of an English word.
 
-**Group B: /s/ + plosive or nasal**
+**Group B: /s/ + plosive, nasal or fricative**
 
 | Cluster | Examples |
 | --- | --- |
@@ -227,7 +227,7 @@ English allows a much wider range at the end of words, up to four consonants.
 | Plosive + plosive | /pt/ kept /kept/; /kt/ act /ækt/; /bd/ robbed /rɒbd/; /ɡd/ begged /beɡd/ |
 | Plosive + fricative | /ps/ cups /kʌps/; /ts/ cats /kæts/; /ks/ box /bɒks/; /bz/ jobs /dʒɒbz/; /dz/ beds /bedz/; /ɡz/ bags /bæɡz/; /dθ/ width /wɪdθ/ (also /wɪtθ/) |
 | Fricative + plosive | /ft/ left /left/; /vd/ lived /lɪvd/; /zd/ used /juːzd/; /ʃt/ washed /wɒʃt/ |
-| Fricative + fricative | /fs/ laughs /lɑːfs/; /vz/ gloves /ɡlʌvz/; /θs/ months /mʌnθs/; /fθ/ fifth /fɪfθ/ |
+| Fricative + fricative | /fs/ laughs /lɑːfs/; /vz/ gloves /ɡlʌvz/; /θs/ deaths /deθs/; /fθ/ fifth /fɪfθ/ |
 
 ### Three-consonant final clusters
 

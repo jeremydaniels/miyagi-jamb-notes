@@ -62,3 +62,12 @@ Not checked by web search (left for a teacher to skim): the Hausa, Tiv and other
 | E1 | Seku Ahmadu's son was Amadu II, and his grandson Amadu III | Fixed in the Macina section | Wikipedia (Seku Amadu, Amadu II) |
 | E1 | Umar Tall's son is called "Ahmadu Seku" in the exam tip | LEFT AS IS, for teacher | The search did not cover Umar Tall's son's name; the Macina fix above removes the clash with Seku Ahmadu's son |
 | A4, A4 Q6, B2, C4, C5 | (same findings as in the first table: gold exports, Oyo horses, Ngazargamu date, gold dust, railway-map shape) | LEFT AS IS, for teacher | See first table |
+
+## Third pass (new findings on re-verification)
+
+| File | Verifier's claim | Outcome | Source(s) |
+|---|---|---|---|
+| D1 | Azikiwe became Governor-General in November 1960, not at independence | Fixed (the notes now say he became Governor-General in November 1960; I did not add the name of the Governor-General at independence because the search did not confirm it) | Wikipedia (Governor-General of Nigeria: Azikiwe 16 November 1960 to 30 September 1963) |
+| D1 | Eastern Region rejected the 1963 census; the West under Akintola accepted it | Fixed | Nigerian press and academic papers (Okpara most vocal critic; Northern and Western leaders accepted) |
+| E1 | Treaty of Bissandugu was 1887 (the 1886 treaty was Kéniéba-Koura) | Fixed to "1887; some books give 1886" | Wikipedia (Samorian state, Bissandugu); one article (First Mandingo War) gives 1886 |
+| A3 (Ag subject) | Rubber is not a mangrove crop | Fixed | Nigerian vegetation and agriculture sources (rubber in the rainforest zone; swamp rice, coconut and raffia in the swamp zones) |

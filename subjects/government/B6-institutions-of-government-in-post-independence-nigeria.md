@@ -134,7 +134,7 @@ The modern hierarchy of regular courts in Nigeria is as follows:
 
 *   **Appointment:** To maintain independence, the executive cannot just appoint anyone. Under the 1999 Constitution, the **National Judicial Council (NJC)**—a body mostly made up of senior judges—recommends qualified individuals. The President (or Governor) appoints them, and the Senate (or State House of Assembly) confirms the highest appointments.
 *   **Independence:** For the judiciary to work fairly, it must be independent. This is safeguarded by charging judges' salaries directly to the **Consolidated Revenue Fund** (so the executive cannot withhold their pay), making it difficult to sack a judge (requires a two-thirds legislative majority), and granting judges immunity from prosecution for actions taken in their official capacity.
-*   **Tenure:** Judges of the High Court and Court of Appeal retire at age 65, while Supreme Court Justices retire at age 70. *(Note: Proposals to unify the retirement age to 70 for all superior court judges have been part of recent constitutional amendment discussions.)*
+*   **Tenure:** Judges serve until a constitutionally fixed retirement age. The 1999 Constitution originally set 70 for Supreme Court justices and a lower age (65) for some lower superior courts. These ages have been the subject of amendment, and a 2023 amendment is reported to have raised and harmonised them; retirement ages can change, so check the current text of the Constitution and do not memorise the figures.
 
 ## Operations and Evaluation of Government Agencies
 
@@ -231,7 +231,7 @@ The Police Force is the primary agency of the executive responsible for internal
 
 **Answer: B.** While the National Assembly at the federal level is bicameral, every State House of Assembly in Nigeria is unicameral (has only one chamber).
 
-**3. In the First Republic, the executive power of the Nigerian government was vested in the**
+**3. In the First Republic, the real executive power of the Nigerian government was exercised by the**
 - A. Governor-General
 - B. Executive President
 - C. Prime Minister and his cabinet
@@ -279,7 +279,7 @@ The Police Force is the primary agency of the executive responsible for internal
 
 **Answer: B.** The Senate (upper chamber) has 109 members: 3 from each of the 36 states, plus 1 from the Federal Capital Territory (FCT). (360 is the number of members in the House of Representatives).
 
-**9. The power of the legislature to declare actions of the executive as illegal or to remove the President for gross misconduct is known as**
+**9. The power of the legislature to remove the President for gross misconduct is known as**
 - A. Judicial review
 - B. Impeachment
 - C. Assent

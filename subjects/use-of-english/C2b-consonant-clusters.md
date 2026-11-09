@@ -68,7 +68,7 @@ This is where most mistakes happen. A cluster is counted in **sounds**, so you m
 | Word | Letter | Sounds | Cluster |
 | --- | --- | --- | --- |
 | box | x | /ks/ | /ks/ at the end |
-| exam | x | /ɡz/ | /ɡz/ across the syllables (/ɪɡ.ˈzæm/) |
+| six | x | /ks/ | /ks/ at the end |
 | queen | qu | /kw/ | /kw/ at the start |
 | music | u | /j/ + /uː/ | /mj/ at the start |
 | cute | u | /j/ + /uː/ | /kj/ at the start |
@@ -166,7 +166,7 @@ Note: there is **no** /tl/ or /dl/ at the start of an English word.
 | Cluster | Examples |
 | --- | --- |
 | /sp/ | spoon /spuːn/, speak /spiːk/, sport /spɔːt/ |
-| /st/ | stop /stɒp/, student /ˈstjuːdnt/, star /stɑː/ |
+| /st/ | stop /stɒp/, step /step/, star /stɑː/ |
 | /sk/ | school /skuːl/, sky /skaɪ/, skin /skɪn/, scheme /skiːm/ |
 | /sm/ | small /smɔːl/, smile /smaɪl/, smoke /sməʊk/ |
 | /sn/ | snake /sneɪk/, snow /snəʊ/, sneeze /sniːz/ |
@@ -236,7 +236,7 @@ English allows a much wider range at the end of words, up to four consonants.
 | /kst/ | next /nekst/, text /tekst/, fixed /fɪkst/ |
 | /mpt/ | tempt /tempt/, jumped /dʒʌmpt/, attempt /əˈtempt/ |
 | /mps/ | jumps /dʒʌmps/, lamps /læmps/ |
-| /nts/ | wants /wɒnts/, parents /ˈpeərənts/, students /ˈstjuːdnts/ |
+| /nts/ | wants /wɒnts/, parents /ˈpeərənts/, tents /tents/ |
 | /ndz/ | hands /hændz/, friends /frendz/ |
 | /ŋks/ | thinks /θɪŋks/, banks /bæŋks/ |
 | /ŋkt/ | thanked /θæŋkt/, distinct /dɪˈstɪŋkt/ |

@@ -409,12 +409,12 @@ The praying mantis is a predatory insect. It gets its name from the way it holds
 The toad has several adaptations for protection:
 
 1. **Camouflage and countershading:** its dull brown or grey, warty, mottled back blends with the soil and dead leaves.
-2. **Poison glands:** large **parotid glands** behind the eyes, and many smaller glands in its warty skin, produce a bitter, milky poison (**bufotoxin**). A dog or snake that bites a toad often drops it immediately and may become ill.
+2. **Poison glands:** large **parotoid glands** behind the eyes, and many smaller glands in its warty skin, produce a bitter, milky poison (**bufotoxin**). A dog or snake that bites a toad often drops it immediately and may become ill.
 3. **Puffing up:** when attacked, the toad fills its lungs with air and **inflates** its body, raising itself on its legs, so it looks bigger and is harder to swallow.
 4. **Nocturnal habits:** it hides under stones, logs or in holes by day and feeds at night, avoiding many predators and the drying heat of the sun.
 5. **Staying still:** it often keeps very still when danger is near, relying on its camouflage.
 
-![Camouflage and defence: a stick insect that looks like a twig, a praying mantis with folded spiny front legs, and a warty toad with a parotid poison gland](images/A3-camouflage-defence.png)
+![Camouflage and defence: a stick insect that looks like a twig, a praying mantis with folded spiny front legs, and a warty toad with a parotoid poison gland](images/A3-camouflage-defence.png)
 
 ### 3. Securing mates
 

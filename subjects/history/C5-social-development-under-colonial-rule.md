@@ -95,7 +95,7 @@ While some traditional cities (like Kano and Ibadan) were already large before c
 * **Mining towns:** Jos grew because of tin mining; Enugu grew because of coal mining.
 * **Transport hubs:** The colonial railway lines and ports caused cities like Port Harcourt, Minna, and Kafanchan to spring up from nothing because they were crucial for exporting cash crops and minerals.
 
-[IMAGE: A map of colonial Nigeria showing the railway lines forming an 'A' shape. The western line goes from Lagos up to Minna and Kaduna. The eastern line goes from Port Harcourt up to Enugu, Makurdi, and joins at Kaduna. The line continues up to Kano and Nguru. Icons of a train, coal (at Enugu), tin (at Jos), and ships (at Lagos and Port Harcourt) are shown. Clean flat textbook style, white background, clear labels.]
+[IMAGE: A map of colonial Nigeria showing the two main railway lines. The western line runs from Lagos through Ibadan, Minna and Kaduna to Kano. The eastern line runs from Port Harcourt through Enugu and Kafanchan to Maiduguri. Icons of a train, coal (at Enugu), tin (at Jos), and ships (at Lagos and Port Harcourt) are shown. Clean flat textbook style, white background, clear labels.]
 
 ### The impact of urbanization on the people
 

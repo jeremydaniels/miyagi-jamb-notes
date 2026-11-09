@@ -140,7 +140,7 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
     words = len(text.split())
     if entry:
         est = entry.get("est_words") or 0
-        if est and words < 0.4 * est:
+        if est and words < 0.3 * est:
             probs.append(f"too short: {words} words (plan estimate {est}); never shorten a topic")
         # item ids that are prose (syllabi with unlettered content items) cannot be matched by id; skip them
         is_id = lambda x: re.fullmatch(r"[a-z]{1,4}|\d{1,2}|[ivx]+", x.strip("().").lower()) is not None

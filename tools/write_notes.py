@@ -76,7 +76,7 @@ THIS FILE COVERS
 - Content item ids: {contents}
 - Objective ids: {objectives}
 {split}
-Target length: about {est_words} words or more. Write as much as the topic needs.
+Length guide: about {est_words} words. This is a guide, not a quota: write the topic as long as it genuinely needs, with no padding and no repetition, but never leave out anything the syllabus requires. A short topic may be shorter than the guide.
 
 OTHER FILES IN THIS SUBJECT (for cross-references; do not duplicate their content):
 {siblings}
@@ -100,7 +100,7 @@ Here is your previous attempt:
 {previous}
 PREVIOUS>>>
 
-Return the corrected COMPLETE file (the whole file again, not a patch), fixing every problem above and keeping everything that was already right. Keep the same length or longer."""
+Return the corrected COMPLETE file (the whole file again, not a patch), fixing every problem above and keeping everything that was already right. Keep everything that was right; do not drop required content."""
 
 _stop = threading.Event()
 

@@ -190,7 +190,7 @@ Communication is not just talking; it is a step-by-step cycle that is only compl
 6. **Decoding:** The receiver interprets and translates the message to understand its meaning. (If decoding fails due to big grammar or poor signal, communication fails).
 7. **Feedback:** The receiver's reaction or response sent back to the sender. This tells the sender that the message was received and correctly understood, completing the loop.
 
-[IMAGE: A flowchart showing the communication process in a loop. Starting from the left: A box labeled "Sender" points to "Encoding", which points to "Message". The message box sits on an arrow labeled "Channel/Medium" pointing to "Decoding", which points to a box labeled "Receiver" on the right. A return arrow curves from the "Receiver" back to the "Sender" at the bottom, labeled "Feedback". Lightning bolts labeled "Noise" point to the Channel and Receiver. Clean flat textbook illustration, white background, clear bold text.]
+[IMAGE: A flowchart showing the communication process in a loop. Starting from the left: A box labeled "Sender" points to "Encoding", which points to "Message". The message box sits on an arrow labeled "Channel/Medium" pointing to a box labeled "Receiver" on the right, which points to "Decoding". A return arrow curves from the "Receiver" back to the "Sender" at the bottom, labeled "Feedback". Lightning bolts labeled "Noise" point to the Channel and Receiver. Clean flat textbook illustration, white background, clear bold text.]
 
 ### Types of communication
 

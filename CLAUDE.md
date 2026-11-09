@@ -69,15 +69,23 @@ Rules for this workflow:
 
 ## Image rules
 
-- **Image generation is paused until further notice** (this applies to every subject, including those written with Gemini). Do not call any image API and do not spend money on images. Only write detailed `[IMAGE: ...]` placeholders in the notes, so the images can be generated later with the `tools/` pipeline.
-- Images are generated with OpenAI (no longer Gemini). The OpenAI API key is in the `OPENAI_API_KEY` environment variable. Never print, log or commit it.
-- Use OpenAI's current image model (currently `gpt-image-2`; check the available models first), size 1024x1024, quality "medium".
-- Style for every image: clean, flat educational illustration, white background, consistent soft colour palette, like a modern textbook. Not photorealistic.
-- Generate every image WITH NO TEXT OR LABELS. Then:
-  1. Look at the image.
-  2. Add the labels with a Python script (Pillow): clear text and thin leader lines pointing to the right parts.
-  3. Look at the labelled image again and check every label points to the right part. Fix any that don't.
-- Save final images in `subjects/<subject>/images/` and replace each `[IMAGE: ...]` placeholder in the notes with the real image (keep a descriptive alt text).
-- Budget: stay under $5 total per batch. Work out the real cost of each call from the token usage the API returns, keep a running total, and stop and ask before going over.
-- Use the scripts in `tools/` (see `tools/README.md`) and save each topic's prompts and label specs under `tools/specs/<subject>/`.
-- Allowed Python packages: Pillow and the OpenAI package (`openai`). Ask before adding any other dependency.
+Decisions are recorded in `IMAGES-PLAN.md`. The notes carry `[IMAGE: ...]` placeholders until their images are made and placed.
+
+- **Gemini only.** All AI images use `GEMINI_API_KEY`. No OpenAI. Never print, log or commit the key. Check the available image models first (`python tools/generate.py --models`).
+- **Models:** `gemini-3.1-flash-image` by default; `gemini-3-pro-image` for complex anatomy, multi-panel experiment diagrams and retries. Square image. Prices are unverified; the real cost comes from the token counts the API returns. Batch mode is used when it works and the quality matches (test it first).
+- **Style:** clean, flat educational illustration, white background, soft palette, like a modern textbook. Not photorealistic.
+- **Every AI image is generated with NO text, letters, numbers or labels in the picture.** Stray marks are painted out with `label.py`'s `whiten` only if tiny; anything structurally wrong is re-rolled.
+- **Pipeline for every AI image:**
+  1. Generate (no text).
+  2. Check the unlabelled image with Gemini vision (Flash) against its placeholder: correct parts and structure, nothing extra, no stray text. Re-roll up to 2 times.
+  3. If it has a label list: Gemini vision finds where each part is, then `label.py` draws the labels and pointer lines with Pillow. Gemini never writes the label text.
+  4. Check the labelled image (each label points at the right part, readable, no overlap). Re-run the placement for a wrong label up to 2 times, then flag it.
+  5. If an image still fails, leave the placeholder in the notes and list it in the report.
+  6. Spot-check a sample yourself.
+- **Code-drawn images** (graphs, charts, geometry, circuits, structures, flowcharts, timelines, tables, and maps as simplified sketches): draw with matplotlib (shared style in `tools/codedraw/style.py`) or Pillow, then run the same check (correct content, readable labels, no overlap) and fix the layout up to 2 times. Use Natural Earth data (public domain) where real outlines matter.
+- **Skipped:** portraits of real people and images with Arabic script keep their placeholder text.
+- **Sensitive images, marked "Needs teacher review":** CRK shows Jesus and angels in a respectful flat style and never depicts God (use symbols such as light or clouds). IRK shows faceless figures, no prophets, and prayer and ablution positions as simple step diagrams.
+- Save final images in `subjects/<subject>/images/`, named `<topic prefix>-<slot>-<slug>`, and place them with `place_images.py` (`N:NAME=alt` for single slots) with good alt text. Compress with `compress_images.py`.
+- Save each topic's prompts and label specs under `tools/specs/<subject>/`.
+- **Budget:** stop and ask before the image spend of a run passes its stated cap (the Biology B to E run: $40). Work out the real cost of each call from the token usage the API returns and keep a running total.
+- Allowed Python packages: Pillow and matplotlib. Ask before adding any other dependency.

@@ -725,14 +725,14 @@ Amphibians ("double life") live part of their life in water and part on land. Th
 | Feature | Toad | Frog |
 | --- | --- | --- |
 | Skin | Dry, rough and **warty** | Moist, smooth and slimy |
-| Poison glands | Large **parotid glands** behind the eyes, which release a bitter, poisonous fluid | No large parotid glands |
+| Poison glands | Large **parotoid glands** behind the eyes, which release a bitter, poisonous fluid | No large parotoid glands |
 | Hind legs | Short; they **walk or hop** | Long and powerful; they **leap** |
 | Webbing of toes | Little webbing | Toes fully webbed (for swimming) |
 | Habitat | Mainly on land, returning to water only to breed | In or near water |
 | Eggs (spawn) | Laid in long **strings** of jelly, wound around water plants | Laid in **clumps** (masses) of jelly |
 | Body shape | Broad and squat | Slender and streamlined |
 
-![Toad (dry warty skin, parotid gland, short hind legs) compared with a frog (smooth moist skin, tympanum, long hind legs, webbed hind feet)](images/A2c-toad-frog.png)
+![Toad (dry warty skin, parotoid gland, short hind legs) compared with a frog (smooth moist skin, tympanum, long hind legs, webbed hind feet)](images/A2c-toad-frog.png)
 
 #### Life history of a toad or frog
 

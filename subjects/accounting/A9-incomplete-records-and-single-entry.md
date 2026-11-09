@@ -367,7 +367,7 @@ We create a rough cash book to find the closing balances.
 - C. ₦200,000
 - D. ₦230,000
 
-**Answer: A.** Capital = Total Assets - Total Liabilities. Assets = Cash (20k) + Bank (50k) + Stock (80k) + Debtors (40k) = ₦190,000. Liabilities = Creditors (30k) + Loan (10k) = ₦40,000. Capital = 190,000 - 40,000 = ₦150,000. Adding the loan to assets instead of liabilities leads to the incorrect option C.
+**Answer: A.** Capital = Total Assets - Total Liabilities. Assets = Cash (20k) + Bank (50k) + Stock (80k) + Debtors (40k) = ₦190,000. Liabilities = Creditors (30k) + Loan (10k) = ₦40,000. Capital = 190,000 - 40,000 = ₦150,000. Option C (₦200,000) comes from adding the loan to the assets (₦190,000 + ₦10,000) and not deducting any liabilities; option B (₦190,000) comes from ignoring all the liabilities.
 
 **3. From the following information, determine the credit sales: Opening debtors ₦40,000; Cash received from debtors ₦150,000; Discount allowed ₦5,000; Closing debtors ₦60,000.**
 

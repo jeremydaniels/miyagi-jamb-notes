@@ -17,7 +17,7 @@ The ING faced severe political challenges, widespread strikes, and a court rulin
 
 Upon taking power, General Abacha dissolved all democratic institutions that had been established during the Babangida transition programme. This included the National Assembly, the state assemblies, the state executive councils, and the two legal political parties (the SDP and the NRC). He replaced the state civilian governors with military administrators.
 
-[IMAGE: A simple timeline of the Abacha regime from 1993 to 1998. Key points on the line: Nov 1993 (Abacha takes power), May 1994 (NADECO formed), June 1994 (Abiola arrested), 1994-1995 (Constitutional Conference), Nov 1995 (Execution of Ogoni nine and Commonwealth suspension), Oct 1996 (Creation of 6 new states), 1997 (ECOMOG restores democratic government in Sierra Leone), June 1998 (Death of Abacha). Clean flat textbook illustration, white background.]
+[IMAGE: A simple timeline of the Abacha regime from 1993 to 1998. Key points on the line: Nov 1993 (Abacha takes power), May 1994 (NADECO formed), June 1994 (Abiola arrested), 1994-1995 (Constitutional Conference), Nov 1995 (Execution of Ogoni nine and Commonwealth suspension), Oct 1996 (Creation of 6 new states), 1997 (coup in Sierra Leone) and 1998 (ECOMOG ousts the junta; President Kabbah returns), June 1998 (Death of Abacha). Clean flat textbook illustration, white background.]
 
 ## Assessing the Regime: Documented Achievements
 
@@ -46,7 +46,7 @@ The Abacha government introduced several measures to stabilize the economy, whic
 
 ### 3. Foreign Policy and Regional Security
 General Abacha continued Nigeria's active role in West African security through **ECOMOG** (the ECOWAS Monitoring Group).
-*   **Sierra Leone:** When the democratically elected government of President Ahmad Tejan Kabbah of Sierra Leone was overthrown by a military coup in 1997, Nigerian troops under ECOMOG intervened. They successfully ousted the military junta and restored President Kabbah to power.
+*   **Sierra Leone:** When the democratically elected government of President Ahmad Tejan Kabbah of Sierra Leone was overthrown by a military coup in 1997, Nigerian-led ECOMOG troops intervened. In February 1998 they ousted the military junta, and President Kabbah returned to Freetown on 10 March 1998.
 *   **Liberia:** The regime continued to support ECOMOG operations in Liberia, which eventually helped bring the First Liberian Civil War to an end, leading to elections in 1997.
 
 ## Assessing the Regime: Documented Challenges
@@ -164,7 +164,7 @@ Following his death, the Provisional Ruling Council (PRC) appointed the Chief of
 
 **Answer: B.** The Constitutional Conference recommended grouping the country into six geopolitical zones for fairer power-sharing and resource distribution. The two-party system was Babangida's policy.
 
-**7. In 1997, Nigerian troops under ECOMOG successfully intervened in which West African country to restore its democratically elected president?**
+**7. Nigerian troops under ECOMOG intervened in which West African country to restore its democratically elected president, who was overthrown in a 1997 coup?**
 - A. Liberia
 - B. The Gambia
 - C. Sierra Leone

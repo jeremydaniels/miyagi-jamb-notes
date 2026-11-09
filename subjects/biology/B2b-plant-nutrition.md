@@ -396,7 +396,7 @@ The energy released is then used to make carbohydrates from CO₂.
 3. **Mining:** some sulphur and iron bacteria are used to extract metals such as copper from low-grade ores (bioleaching).
 4. **Harmful effects:** some sulphur bacteria produce acids that corrode concrete and metal pipes; iron bacteria can block water pipes.
 
-[IMAGE: Diagram of chemosynthesis by nitrifying bacteria in the soil. A cross-section of soil with a decaying leaf and animal droppings at the surface releasing ammonia. Rod-shaped Nitrosomonas bacteria taking in ammonia and oxygen and releasing nitrite, with an energy symbol; then Nitrobacter bacteria taking in nitrite and oxygen and releasing nitrate, with an energy symbol; nitrate being absorbed by a plant root. A side box showing a single bacterium using the energy released to turn CO₂ and water into sugar. Labels: decaying matter, ammonia, Nitrosomonas, nitrite, Nitrobacter, nitrate, oxygen, energy released, CO₂ + water → sugar, plant root absorbs nitrate. Clean flat textbook style, white background.]
+![Diagram showing soil nitrification with decaying matter, Nitrosomonas, and Nitrobacter bacteria releasing energy, nitrate entering plant roots, and an inset showing chemosynthesis producing sugar.](images/B2b-10-chemosynthesis-soil-bacteria.png)
 
 ## Photosynthesis and chemosynthesis compared
 

@@ -514,5 +514,89 @@
     "R"
    ]
   ]
+ },
+ "B2b-10-chemosynthesis-soil-bacteria": {
+  "labels": [
+   [
+    "decaying matter",
+    [
+     189,
+     189
+    ],
+    "L"
+   ],
+   [
+    "ammonia",
+    [
+     155,
+     537
+    ],
+    "L"
+   ],
+   [
+    "Nitrosomonas",
+    [
+     266,
+     430
+    ],
+    "L"
+   ],
+   [
+    "nitrite",
+    [
+     348,
+     563
+    ],
+    "L"
+   ],
+   [
+    "Nitrobacter",
+    [
+     353,
+     747
+    ],
+    "L"
+   ],
+   [
+    "nitrate",
+    [
+     552,
+     675
+    ],
+    "R"
+   ],
+   [
+    "oxygen",
+    [
+     163,
+     399
+    ],
+    "L"
+   ],
+   [
+    "energy released",
+    [
+     401,
+     550
+    ],
+    "L"
+   ],
+   [
+    "CO\u2082 + water \u2192 sugar",
+    [
+     798,
+     773
+    ],
+    "R"
+   ],
+   [
+    "plant root absorbs nitrate",
+    [
+     634,
+     527
+    ],
+    "R"
+   ]
+  ]
  }
 }

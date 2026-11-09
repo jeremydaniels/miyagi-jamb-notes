@@ -77,7 +77,7 @@ After his conversion, Saul spent time in Damascus, Arabia, and Jerusalem before 
 ### The Commissioning (Acts 13:1-3)
 The church at Antioch had several prophets and teachers, including Barnabas, Simeon (called Niger), Lucius of Cyrene, Manaen, and Saul. As these leaders ministered to the Lord and fasted, the Holy Spirit spoke: *"Separate me Barnabas and Saul for the work whereunto I have called them."* After fasting and praying further, the church leaders laid their hands on Barnabas and Saul to bless and authorize their mission, and sent them away.
 
-### The First Missionary Journey (Acts 13:4 - 14:20)
+### The First Missionary Journey (Acts 13:4 - 14:20; the return journey continues to 14:28)
 Accompanied initially by John Mark (who acted as their assistant), Paul and Barnabas travelled through several regions to preach the Gospel.
 
 1. **Cyprus (Salamis and Paphos):** They sailed to the island of Cyprus and began preaching in the Jewish synagogues in Salamis. They then travelled across the island to Paphos, where the Roman proconsul (governor), Sergius Paulus, wanted to hear the word of God. However, a Jewish sorcerer and false prophet named Elymas (Bar-Jesus) opposed them, trying to turn the governor away from the faith. Saul (who from this point in the Bible is called Paul), filled with the Holy Spirit, rebuked Elymas and struck him with temporary blindness. Seeing this miracle, the governor believed.

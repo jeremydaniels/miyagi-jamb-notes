@@ -365,7 +365,7 @@ Key features of the dog's teeth:
 
 [IMAGE: Three skulls side by side in side view for comparison: a sheep (herbivore), a dog (carnivore) and a human (omnivore). Colour-code the teeth in all three: incisors (blue), canines (green), premolars (yellow), molars (orange), carnassials outlined in red on the dog. Show the dental pad and diastema on the sheep. Under each skull, a small curved arrow shows the main jaw movement: side to side for the sheep, up and down for the dog, up and down plus some side to side for the human. Labels: sheep (herbivore), dental pad, diastema, dog (carnivore), long canine, carnassial teeth, human (omnivore), incisors, canines, premolars, molars. Clean flat textbook style, white background.]
 
-**Rodents and rabbits (gnawing herbivores):** rats, squirrels, the grasscutter (cane rat) and rabbits have **large, chisel-like incisors** that grow throughout life, **no canines**, and a wide **diastema**. The grasscutter, a popular bush meat in Nigeria, uses its powerful incisors to cut tough grass and sugar cane stems.
+**Rodents and rabbits (gnawing mammals; rabbits are herbivores, rats are omnivores):** rats, squirrels, the grasscutter (cane rat) and rabbits have **large, chisel-like incisors** that grow throughout life, **no canines**, and a wide **diastema**. The grasscutter, a popular bush meat in Nigeria, uses its powerful incisors to cut tough grass and sugar cane stems.
 
 ## Care of the teeth and dental problems
 

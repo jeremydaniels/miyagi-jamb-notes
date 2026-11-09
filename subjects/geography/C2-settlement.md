@@ -42,7 +42,7 @@ The **pattern** of a settlement refers to the arrangement or layout of its build
 2. **Nucleated (Clustered) Pattern:**
    Buildings are grouped closely together around a central point, such as a crossroads, a market square, a church, or a water source.
    - **Why it forms:** For defense, strong social and cultural ties, or because everyone needs to share a single scarce resource like a well.
-   - **Examples:** Traditional farming villages in **West Africa** (like Igbo villages clustered around a central square) and oasis settlements in the **Middle East** where water is scarce.
+   - **Examples:** Traditional farming villages in **West Africa** (like Hausa and Yoruba towns clustered around a central market or palace; textbooks differ, and many place traditional Igbo settlements under the dispersed pattern) and oasis settlements in the **Middle East** where water is scarce.
 
 3. **Linear (Ribbon) Pattern:**
    Buildings are arranged in a long, narrow line.

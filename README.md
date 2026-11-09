@@ -24,5 +24,20 @@ New subjects go in `subjects/<subject>/`, with `syllabus.md` inside.
 | --- | --- | --- |
 | [Biology](subjects/biology/syllabus.md) | 42 topic files covering Sections A to E | Section A has images. Sections B to E have `[IMAGE: ...]` placeholders only. |
 | [Use of English](subjects/use-of-english/syllabus.md) | 30 topic files covering Sections A to C | Placeholders only. |
+| [Chemistry](subjects/chemistry/syllabus.md) | 23 topic files | Placeholders only. |
+| [Physics](subjects/physics/syllabus.md) | 48 topic files | Placeholders only. |
+| [Mathematics](subjects/mathematics/syllabus.md) | 23 topic files | Placeholders only. |
+| [Economics](subjects/economics/syllabus.md) | 23 topic files | Placeholders only. |
+| [Government](subjects/government/syllabus.md) | 33 topic files | Placeholders only. |
+| [Literature in English](subjects/literature-in-english/syllabus.md) | 19 topic files (set-text guides are partly marked placeholders) | Placeholders only. |
+| [CRK](subjects/crk/syllabus.md) | 52 topic files | Placeholders only. |
+| [IRK](subjects/irk/syllabus.md) | 27 topic files | Placeholders only. |
+| [Accounting (Principles of Accounts)](subjects/accounting/syllabus.md) | 18 topic files | Placeholders only. |
+| [Commerce](subjects/commerce/syllabus.md) | 18 topic files | Placeholders only. |
+| [Geography](subjects/geography/syllabus.md) | 24 topic files covering Parts I to IV | Placeholders only. |
+| [Agricultural Science](subjects/agricultural-science/syllabus.md) | 45 topic files covering Sections A to E | Placeholders only. |
+| [History](subjects/history/syllabus.md) | 42 topic files covering Sections A to G | Placeholders only. |
+
+History facts that could not be confirmed are listed in `HISTORY-VERIFICATION-LOG.md`.
 
 In Use of English, `A5-approved-reading-text.md` has the novel sections left as marked placeholders, to be filled in by someone who has read the book. The recommended text must be confirmed with JAMB each exam year.

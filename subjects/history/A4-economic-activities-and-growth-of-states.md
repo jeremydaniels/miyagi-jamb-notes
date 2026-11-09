@@ -104,11 +104,11 @@ Long-distance trade required massive organization, capital, and months of travel
 **The Trans-Sahara Trade:**
 Before Europeans arrived on the coast, the major international trade route pointed north, across the Sahara Desert, connecting West Africa to North Africa and the Middle East.
 - **The Journey:** Merchants traveled in large caravans using camels, which could survive the harsh desert.
-- **The Goods:** The Nigeria area (especially states like Kano, Katsina, and Kanem-Borno) exported gold, slaves, ivory, animal hides, and kola nuts. In return, they imported **salt** (from desert lakes), **horses**, copper, silk, cowries, and later, firearms. 
+- **The Goods:** The Nigeria area (especially states like Kano, Katsina, and Kanem-Borno) exported slaves, leather goods, kola nuts, ivory and cloth. (Gold came from goldfields further west in West Africa and passed through Hausaland in transit; it was not a main export of the Nigeria area.) In return, they imported **salt** (from desert lakes), **horses**, copper, silk, cowries, and later, firearms. 
 - **Impact:** This trade brought immense wealth to the northern states. It also brought **Islam** and Arabic literacy, fundamentally changing the culture and politics of the savannah.
 
 **The Trade in Slaves (Trans-Atlantic Slave Trade):**
-From the late 15th century, European explorers (starting with the Portuguese) arrived at the Atlantic coast. Initially, they traded in pepper, ivory, and gold. However, the trade soon shifted to human beings, needed to work on European plantations in the Americas.
+From the late 15th century, European explorers (starting with the Portuguese) arrived at the Atlantic coast. Initially, they traded in pepper and ivory. However, the trade soon shifted to human beings, needed to work on European plantations in the Americas.
 - **The Mechanism:** Coastal states captured or bought slaves from the hinterland. Millions of able-bodied Africans were sold to European ships in exchange for firearms, gunpowder, spirits (alcohol), textiles, and brass.
 - **Impact:** This trade caused massive depopulation, warfare, and suffering in the hinterland. However, it also enriched coastal middlemen (like the Niger Delta city-states) and shifted the economic centre of gravity from the northern trans-Saharan routes down to the southern coast.
 
@@ -178,7 +178,7 @@ States like Bonny, Nembe, and Kalabari expanded their power not by conquering hu
 - **Smelting vs. Blacksmithing:** Do not confuse the two. Smelting is extracting the iron from rocks (Nok, Taruga). Blacksmithing is shaping the already-smelted iron into tools and weapons.
 - **The importance of Iron and Horses:** In JAMB questions, iron is usually the answer to what technological advancement led to state expansion (weapons and farm tools). Horses are the answer to what allowed northern empires (Oyo, Borno, Hausa states) to conquer wide territories (cavalry). 
 - **The Tsetse Fly factor:** Remember that the tsetse fly is the main geographical reason why pastoralism (cattle rearing) was restricted to the northern savannah.
-- **Direction of Trade:** The Trans-Saharan trade exported gold, slaves, and kola, and imported **salt** and **horses**. The Trans-Atlantic trade exported slaves (and later palm oil) and imported **firearms** and spirits.
+- **Direction of Trade:** The Trans-Saharan trade exported slaves, leather goods, kola and cloth (gold from further west passed through in transit), and imported **salt** and **horses**. The Trans-Atlantic trade exported slaves (and later palm oil) and imported **firearms** and spirits.
 - **Middlemen:** When JAMB asks about the economic role of the Niger Delta states or the Aro network, the keyword to look for is "middlemen".
 
 ## Quick summary
@@ -234,13 +234,13 @@ States like Bonny, Nembe, and Kalabari expanded their power not by conquering hu
 
 **Answer: B.** Before the widespread use of currencies like cowries or manillas, local trade was conducted by barter, which is the direct exchange of one good for another.
 
-**6. The Trans-Saharan trade contributed significantly to the expansion of Kanem-Borno and Oyo by providing them with**
+**6. Trade with the north, including the Trans-Saharan trade, contributed significantly to the expansion of Kanem-Borno and Oyo by providing them with**
 - A. firearms and gunpowder
 - B. large wooden canoes
 - C. horses for their cavalry
 - D. root crops for feeding the army
 
-**Answer: C.** The wealth from the Trans-Saharan trade was used to import horses from North Africa, which allowed states like Borno and Oyo to build powerful cavalry units for rapid military expansion.
+**Answer: C.** Borno obtained horses through the Trans-Saharan trade, and Oyo obtained horses through trade with the north (Hausaland and Borno). Horses allowed both states to build powerful cavalry units for rapid military expansion.
 
 **7. Which of the following communities specialized in salt-making from seawater and fishing due to their geographical environment?**
 - A. The Ijaw and Itsekiri

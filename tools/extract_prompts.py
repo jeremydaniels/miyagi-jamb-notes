@@ -42,6 +42,24 @@ def slug(text, n=4):
     return "-".join(w[:n]) or "image"
 
 
+def parse_placeholder(line):
+    """[IMAGE: ...] line -> (prompt text with label list and inline label remarks removed, [labels])."""
+    body = line[len("[IMAGE:"):].rstrip().rstrip("]").strip()
+    labels = []
+    m = LABELS.search(body)
+    if m:
+        head, rest = m.group(1), ""
+        cut = re.search(r"\.\s+(?=[A-Z])", head)       # the label list ends at the first sentence boundary
+        if cut:
+            head, rest = head[:cut.start()], head[cut.end():]
+        labels = split_labels(head)
+        body = (body[:m.start()] + " " + rest + " " + body[m.end():]).strip()
+    body = re.sub(r"\s*\((?:labelled|labeled|label)[^)]*\)", "", body)
+    body = re.sub(r"\s*(?:labelled|labeled)\s+\"[^\"]*\"", "", body)
+    body = re.sub(r"\s*Clean flat textbook style,? white background,?[^.]*\.?", "", body).strip()
+    return re.sub(r"\s+", " ", body), labels
+
+
 def load_classes(subject, fname):
     path = os.path.join(REPO, "IMAGES-CLASSIFICATION.csv")
     out = {}
@@ -77,16 +95,7 @@ def main():
             grp = classes.get(ph_no, {}).get("group", "AI")
             if a.group != "ALL" and grp != a.group:
                 continue
-            body = line[len("[IMAGE:"):].rstrip().rstrip("]").strip()
-            labels = []
-            m = LABELS.search(body)
-            if m:
-                labels = split_labels(m.group(1))
-                body = (body[:m.start()] + body[m.end():]).strip()
-            body = re.sub(r"\s*\((?:labelled|labeled|label)[^)]*\)", "", body)          # inline (labelled \"...\") remarks
-            body = re.sub(r"\s*(?:labelled|labeled)\s+\"[^\"]*\"", "", body)
-            body = re.sub(r"\s*Clean flat textbook style,? white background,?[^.]*\.?", "", body).strip()
-            body = re.sub(r"\s+", " ", body)
+            body, labels = parse_placeholder(line)
             name = f"{prefix}-{slot_no:02d}-{slug(classes.get(ph_no, {}).get('kind') or body)}"
             prompts.append([name, body])
             if labels:

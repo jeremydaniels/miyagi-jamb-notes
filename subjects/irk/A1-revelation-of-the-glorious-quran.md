@@ -223,7 +223,7 @@ The Glorious Qur'an refers to itself by several different names and attributes.
 - C. 33 years
 - D. 40 years
 
-**Answer: B.** The piecemeal revelation (*Tanjīm*) took exactly 23 years: 13 years in Makkah and 10 years in Madīnah.
+**Answer: B.** The piecemeal revelation (*Tanjīm*) took about 23 years: 13 years in Makkah and 10 years in Madīnah. (The years are counted in the Islamic lunar calendar, so the Gregorian dates 610 CE to 632 CE look one year shorter.)
 
 **7. Which of the following is a Qur'anic reason for the piecemeal revelation of the Qur'an as stated in Sūrah al-Furqān (Q.25:32)?**
 - A. To make it difficult for the disbelievers to steal it.

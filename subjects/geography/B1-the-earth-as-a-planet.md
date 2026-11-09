@@ -103,8 +103,8 @@ Because the Earth rotates rapidly, it bulges slightly at the Equator and is flat
 The fact that the Earth is not perfectly round is proven by its measurements:
 - **Equatorial Diameter:** $\approx 12,756\text{ km}$
 - **Polar Diameter:** $\approx 12,714\text{ km}$
-- **Equatorial Circumference:** $\approx 40,085\text{ km}$
-- **Polar Circumference:** $\approx 39,940\text{ km}$
+- **Equatorial Circumference:** $\approx 40,075\text{ km}$
+- **Polar Circumference:** $\approx 40,008\text{ km}$
 
 Notice that the measurements around the Equator are slightly larger than those around the poles. 
 

@@ -99,7 +99,7 @@ God supplied the physical needs of His people in miraculous ways when they were 
 The syllabus re-emphasizes the pillars here. As the Israelites journeyed from **Succoth to Etham** (the edge of the wilderness), God continuously *provided* His presence. The pillar of cloud and the pillar of fire did not depart from before the people, ensuring they were never left without a guide or light.
 
 ### Manna and Quails in the Wilderness of Sin (Exodus 16:1-21)
-About two and a half months after leaving Egypt, the Israelites arrived in the Wilderness of Sin. Their food ran out, and the whole congregation murmured against Moses and Aaron, wishing they had died in Egypt where they had pots of meat and bread. 
+About one month after leaving Egypt (Exodus 16:1 dates it to the fifteenth day of the second month), the Israelites arrived in the Wilderness of Sin. Their food ran out, and the whole congregation murmured against Moses and Aaron, wishing they had died in Egypt where they had pots of meat and bread. 
 
 God told Moses He would rain bread from heaven. 
 * **Quails:** That evening, quails came up and covered the camp, providing meat.

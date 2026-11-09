@@ -66,7 +66,7 @@ When groups migrated, they did so for specific reasons:
 
 The social and political organizations of the Nigerian peoples were heavily influenced by their environment, economy, and history.
 - **In the Savanna (Central Sudan):** The open terrain made it easy to use horses (cavalry). This allowed ambitious leaders to conquer vast areas, leading to large, highly centralized empires like Kanem-Borno and the Hausa States. The trans-Saharan trade and the early introduction of Islam also provided writing, bureaucracy, and a unified legal system (Sharia).
-- **In the Forest Belts:** The thick forests made cavalry useless, so empires like Benin and Oyo relied on well-organized infantry (foot soldiers) armed with iron weapons (and later European firearms). In the dense Eastern forests, the environment favored small, tight-knit, self-sustaining farming villages, which helped keep the Igbo and Ibibio acephalous.
+- **In the Forest Belts:** The thick forests made cavalry useless, so forest empires like Benin relied on well-organized infantry (foot soldiers) armed with iron weapons (and later European firearms). In the dense Eastern forests, the environment favored small, tight-knit, self-sustaining farming villages, which helped keep the Igbo and Ibibio acephalous.
 - **In the Niger-Delta:** The swampy, riverine environment meant people lived on small islands as fishermen. Initially, they were acephalous. However, when the Atlantic trade (in slaves and later palm oil) began, these fishing villages reorganized themselves into wealthy **City-States** centered around powerful trading corporations known as the **House System**.
 
 ## Determining inter-state relations (Objective ii)

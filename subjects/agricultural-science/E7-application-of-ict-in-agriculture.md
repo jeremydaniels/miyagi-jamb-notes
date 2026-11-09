@@ -63,7 +63,7 @@ Plant diseases, particularly fungal infections, depend heavily on specific envir
 *   **Example:** In the cocoa-producing regions of South-West Nigeria, high rainfall and humidity trigger Black Pod disease (caused by *Phytophthora*). A computer model can analyze humidity sensors and predict a high-risk period, warning the farmer to spray fungicides *before* the outbreak happens. 
 
 ### Weather forecasting
-Because West African agriculture is largely rain-fed, weather forecasting is critical. Meteorologists use supercomputers to analyze satellite imagery, wind speeds, and atmospheric pressure. This allows farmers in the Sudan savanna to know exactly when the rains will establish, helping them decide the optimal planting date for drought-prone crops like millet and sorghum.
+Because West African agriculture is largely rain-fed, weather forecasting is critical. Meteorologists use supercomputers to analyze satellite imagery, wind speeds, and atmospheric pressure. This allows farmers in the Sudan savanna to know exactly when the rains will establish, helping them decide the optimal planting date for drought-tolerant crops like millet and sorghum.
 
 ### Ration formulation
 Livestock require a balanced diet (ration) containing the exact proportion of carbohydrates, proteins, fats, vitamins, and minerals. Doing this manually is mathematically exhausting. Farmers use computer software that employs linear programming to determine the **least-cost ration**. The software analyzes the nutritional content of available ingredients (like maize, groundnut cake, and bone meal) and their current market prices, then instantly formulates a recipe that meets all the animal's dietary needs at the cheapest possible price.

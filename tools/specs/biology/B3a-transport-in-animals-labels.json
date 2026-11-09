@@ -1,0 +1,126 @@
+{
+ "B3a-05-mammalian-heart-internal-section": {
+  "labels": [
+   [
+    "superior vena cava",
+    [
+     305,
+     247
+    ],
+    "L"
+   ],
+   [
+    "inferior vena cava",
+    [
+     288,
+     839
+    ],
+    "L"
+   ],
+   [
+    "right atrium",
+    [
+     322,
+     496
+    ],
+    "L"
+   ],
+   [
+    "tricuspid valve",
+    [
+     373,
+     609
+    ],
+    "L"
+   ],
+   [
+    "right ventricle",
+    [
+     496,
+     783
+    ],
+    "L"
+   ],
+   [
+    "pulmonary artery",
+    [
+     626,
+     266
+    ],
+    "R"
+   ],
+   [
+    "semilunar valves",
+    [
+     452,
+     538
+    ],
+    "L"
+   ],
+   [
+    "pulmonary veins",
+    [
+     765,
+     404
+    ],
+    "R"
+   ],
+   [
+    "left atrium",
+    [
+     636,
+     435
+    ],
+    "R"
+   ],
+   [
+    "bicuspid (mitral) valve",
+    [
+     657,
+     524
+    ],
+    "R"
+   ],
+   [
+    "chordae tendineae",
+    [
+     677,
+     599
+    ],
+    "R"
+   ],
+   [
+    "papillary muscle",
+    [
+     698,
+     742
+    ],
+    "R"
+   ],
+   [
+    "left ventricle",
+    [
+     600,
+     641
+    ],
+    "R"
+   ],
+   [
+    "septum",
+    [
+     589,
+     742
+    ],
+    "R"
+   ],
+   [
+    "aorta",
+    [
+     491,
+     189
+    ],
+    "L"
+   ]
+  ]
+ }
+}

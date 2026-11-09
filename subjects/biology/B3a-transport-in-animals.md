@@ -323,7 +323,7 @@ The tricuspid and bicuspid valves are called **atrioventricular valves**. Their 
 
 **Memory trick:** "**Tri** on the **R**ight" (both contain an "r"), and "**LAB**": **L**eft **A**trium, **B**icuspid.
 
-[IMAGE: Longitudinal (vertical) section of the mammalian heart in front view (so the right side of the heart is on the viewer's left). Show the four chambers with the thin-walled atria at the top and thick-walled ventricles below, the left ventricle wall clearly thickest, the septum, the tricuspid and bicuspid valves with chordae tendineae and papillary muscles, semilunar valves at the base of the pulmonary artery and aorta, and the major vessels. Blood on the right side tinted blue and on the left side tinted red, with small arrows showing flow. Labels to add: "superior vena cava", "inferior vena cava", "right atrium", "tricuspid valve", "right ventricle", "pulmonary artery", "semilunar valves", "pulmonary veins", "left atrium", "bicuspid (mitral) valve", "chordae tendineae", "papillary muscle", "left ventricle", "septum", "aorta". Clean flat textbook style, white background.]
+![Diagram of a longitudinal section of the mammalian heart showing the four chambers, valves, septum, major vessels, and direction of blood flow.](images/B3a-05-mammalian-heart-internal-section.png)
 
 [IMAGE: External front view of the human heart showing its shape, the coronary arteries branching over the surface of the ventricles, and the great vessels at the top. Soft red and pink tones for the muscle, red for arteries and blue for veins. Labels to add: "aorta", "pulmonary artery", "superior vena cava", "right atrium", "left atrium", "right ventricle", "left ventricle", "coronary artery", "coronary vein". Clean flat textbook style, white background.]
 

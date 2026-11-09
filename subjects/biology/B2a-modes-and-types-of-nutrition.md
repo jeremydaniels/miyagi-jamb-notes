@@ -78,7 +78,7 @@ Both processes are explained in detail, and compared, in file B2b.
 
 Heterotrophs feed in different ways. These are the **types of heterotrophic nutrition**: holozoic, parasitic, saprophytic and symbiotic (explained below).
 
-[IMAGE: Two-panel comparison diagram of the two modes of nutrition. Left panel, "autotrophic": a green maize plant in sunlight, with arrows showing CO₂ entering a leaf from the air, water and mineral salts entering the roots from the soil, and oxygen leaving the leaf; a sun in the corner; a small glucose molecule symbol inside the leaf. Right panel, "heterotrophic": a goat eating grass, a mushroom growing on a fallen log, and a tapeworm inside a section of intestine, with arrows showing ready-made food entering each organism. Labels: sunlight, carbon (IV) oxide, water, mineral salts, oxygen, food made in leaf, autotroph, heterotroph, holozoic (goat), saprophytic (mushroom), parasitic (tapeworm). Clean flat textbook style, white background.]
+![A comparison diagram showing autotrophic nutrition in a plant utilizing sunlight, water, and carbon dioxide, alongside heterotrophic nutrition exemplified by a goat, a mushroom on a log, and an intestinal tapeworm.](images/B2a-01-autotrophic-versus-heterotrophic-nutrition.png)
 
 ### Autotrophic and heterotrophic nutrition compared
 
@@ -246,7 +246,7 @@ Man (*Homo sapiens*) is an **omnivore**: humans eat both plant food (rice, yam, 
 
 The full details of each part of the human gut and its enzymes are in file B2e.
 
-[IMAGE: The human digestive system shown as a simple front view inside an outline of the head and torso: mouth with teeth and tongue, salivary glands, oesophagus, J-shaped stomach, liver with gall bladder, pancreas, duodenum, coiled ileum, large intestine (colon) framing it, small caecum with appendix in the lower right of the body, rectum and anus. Labels: mouth, teeth, salivary gland, oesophagus, stomach, liver, gall bladder, pancreas, duodenum, ileum, colon, caecum, appendix, rectum, anus. Soft natural colours. Clean flat textbook style, white background.]
+![Anatomical diagram of the human digestive system inside a body outline, showing the mouth, salivary glands, esophagus, stomach, liver, pancreas, intestines, rectum, and anus.](images/B2a-04-human-digestive-system.png)
 
 ### Holozoic nutrition: sheep and man compared
 
@@ -333,7 +333,7 @@ There is **no intermediate host**.
 
 **Textbook variation:** the length of the adult and the number of eggs per day vary between textbooks (e.g. up to 200,000 or "about a quarter of a million").
 
-[IMAGE: Two panels. Left: an adult male and female Ascaris lumbricoides roundworm side by side, long, cylindrical and pinkish-white, the female larger with a straight tail, the male smaller with a curled tail; an enlarged front-end view showing the mouth with three lips. Right: a cut-open section of the human small intestine with several roundworms lying in the cavity among food. Labels: female, male, curved tail, mouth, three lips, cuticle, small intestine, digested food. Clean flat textbook style, white background.]
+![Illustration showing male and female Ascaris lumbricoides roundworms, an enlarged view of the mouth with three lips, and roundworms inside a dissected small intestine.](images/B2a-05-ascaris-morphology-infection.png)
 
 ### The tapeworm (*Taenia*)
 
@@ -364,7 +364,7 @@ The **tapeworms** that infect humans are the **pork tapeworm** (*Taenia solium*)
 
 **Prevention:** cook pork and beef thoroughly; meat inspection at abattoirs; good toilet hygiene so pigs and cattle do not eat human faeces; treatment of infected people.
 
-[IMAGE: Two panels. Left: a whole tapeworm (Taenia), drawn as a long ribbon looping across the panel: a tiny scolex, a thin neck, small immature proglottids near the neck becoming larger and square further back, and long mature proglottids at the end, one breaking off. Right: an enlarged scolex showing a ring of hooks (rostellum) at the top and four round suckers, attached to the villi of the intestine wall. Labels: scolex, hooks, sucker, neck, immature proglottids, mature proglottids, proglottid breaking off, intestine wall. Pale cream worm on a light pink gut background. Clean flat textbook style, white background.]
+![Diagram showing a complete tapeworm with proglottids maturing and detaching on the left, and an enlarged view of the scolex with hooks and suckers attached to intestinal villi on the right.](images/B2a-06-tapeworm-structure-scolex.png)
 
 ### *Loranthus* (African mistletoe)
 
@@ -390,7 +390,7 @@ The **tapeworms** that infect humans are the **pork tapeworm** (*Taenia solium*)
 
 **Dodder (*Cuscuta*) compared:** dodder is a **total parasite**. It is a flowering plant with thin, twining, **yellow or orange stems**, **no leaves** (only tiny scales) and **no chlorophyll**. Its haustoria join both the host's **xylem** (for water and salts) and **phloem** (for food). It cannot make any of its own food.
 
-[IMAGE: Two parts. Main picture: a branch of an orange tree with a bushy Loranthus (African mistletoe) plant growing out of it, with thick green leathery leaves and clusters of red-orange tubular flowers, and a sunbird feeding at a flower. Inset: a longitudinal section through the junction of mistletoe and host branch, showing the host's bark, phloem and xylem, and the mistletoe's haustorium pushing through the bark and joining the host xylem, with small blue arrows showing water and mineral salts passing from the host into the mistletoe. Labels: host branch, Loranthus, green leaves, flowers, haustorium, host bark, host phloem, host xylem, water and mineral salts. Clean flat textbook style, white background.]
+![Illustration of African mistletoe growing on a host branch with a visiting sunbird, alongside an inset showing mistletoe haustoria penetrating host tissues with arrows indicating nutrient transport.](images/B2a-07-mistletoe-parasitism.png)
 
 ### The parasites compared
 
@@ -450,7 +450,7 @@ The **tapeworms** that infect humans are the **pork tapeworm** (*Taenia solium*)
 
 **Why bread gets mouldy faster when moist and warm:** *Rhizopus* spores are everywhere in the air. They germinate on food that is **moist**, **warm** and rich in **carbohydrate**. Keeping bread dry and cool, or adding preservatives, slows its growth.
 
-[IMAGE: Rhizopus growing on a slice of bread. Left: a slice of bread with patches of white fluffy mould and black dots. Right: an enlarged drawing of the mould: horizontal stolons arching over the bread surface; at each point where a stolon touches the bread, a cluster of branched rhizoids going down into the bread and a group of upright sporangiophores going up, each ending in a round black sporangium full of spores; one sporangium bursting to release spores. Show small arrows from the rhizoid tips into the bread labelled as enzymes, and arrows back into the rhizoids labelled as soluble food absorbed. Labels: bread (food), hypha, stolon, rhizoids, sporangiophore, sporangium, spores, enzymes secreted, soluble food absorbed. Clean flat textbook style, white background.]
+![Diagram showing bread mold Rhizopus on a slice of bread on the left, with an enlarged view on the right showing stolons, rhizoids, sporangiophores, and sporangia releasing spores.](images/B2a-08-rhizopus-mould-structure.png)
 
 ### The mushroom
 
@@ -477,7 +477,7 @@ A **mushroom** is the **fruiting body** (spore-producing part) of certain fungi.
 
 **Note:** the termite mushroom (*Termitomyces*) lives in a mutualistic partnership with termites (see Topic A3). Some fungi that produce mushrooms also form **mycorrhizae** with the roots of trees (a mutualistic relationship), and a few are parasites that rot living trees. The syllabus uses the mushroom as an example of a **saprophyte**, and most familiar mushrooms are.
 
-[IMAGE: A mushroom growing from rotting leaves and a fallen log, with the soil cut away to show the underground mycelium. Show a mushroom with a cap, gills underneath (one half of the cap cut to show the gills), a stalk with a ring, a cup at the base, and a large network of fine white hyphae spreading through dead leaves and wood below. A small inset shows hyphal tips with arrows: enzymes going out, soluble food coming in. Labels: cap (pileus), gills, stalk (stipe), ring (annulus), volva, mycelium, hyphae, dead organic matter, enzymes secreted, food absorbed. Clean flat textbook style, white background.]
+![An illustration of a mushroom with a cutaway cap, stalk, ring, and volva, connected to underground mycelium, alongside an inset showing hyphae secreting enzymes and absorbing nutrients.](images/B2a-09-mushroom-anatomy-mycelium.png)
 
 ### *Rhizopus* and mushroom compared
 
@@ -523,7 +523,7 @@ Sundews are small plants that grow in bogs, wet sandy places and damp ground in 
 6. The soft parts of the insect are digested into soluble **amino acids** and minerals, which are **absorbed** by the glands.
 7. After a few days, the tentacles straighten again, and the hard, undigested **exoskeleton** (made of chitin) is left behind or blown away.
 
-[IMAGE: A sundew (Drosera) plant and an enlarged leaf. Left: a small rosette plant with spoon-shaped leaves covered in red hair-like tentacles, each with a glistening drop at its tip, on wet ground. Right: two stages of a single leaf: (1) a small fly stuck on the drops of the tentacles, with the tentacles straight; (2) the tentacles bent over and pressing the fly to the leaf centre. A small inset of one tentacle showing the stalk and the gland with its sticky drop. Labels: leaf, tentacle (glandular hair), gland, sticky mucilage, trapped insect, tentacles bending inwards, digestive enzymes. Clean flat textbook style, white background.]
+![An illustration of a sundew plant showing a rosette on wet ground, two stages of a leaf trapping a fly, and an inset of a glandular tentacle.](images/B2a-10-sundew-insect-trap-mechanism.png)
 
 ### The bladderwort (*Utricularia*)
 

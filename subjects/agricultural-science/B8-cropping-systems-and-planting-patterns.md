@@ -29,7 +29,7 @@ A **cropping system** refers to the type and sequence of crops grown on a piece 
 - **Multiple cropping:** Growing **two or more crops** on the same field **within one calendar year**. This aims to maximise the total crop output from a single piece of land in one year, especially where land is scarce or irrigation is available.
 - **Intercropping:** Growing **two or more crops** on the same land at the same time, but in **definite row arrangements** (for example, alternating rows of maize and cowpea). It maximises land use and reduces pest spread while still allowing for careful movement through the field.
 - **Relay cropping:** Planting a second crop into a standing crop **before the first crop is harvested**. For example, planting cassava cuttings into a field of maize that is almost mature. The second crop takes over immediately after the first is harvested, ensuring the land is never left bare.
-- **Strip cropping:** Planting two or more different crops in **alternating, broad bands or strips** across a field, usually along the contour of a slope. A common pattern alternates a tall row crop (like maize) with a dense ground-covering crop (like groundnut). It is an excellent mechanical method for controlling soil erosion.
+- **Strip cropping:** Planting two or more different crops in **alternating, broad bands or strips** across a field, usually along the contour of a slope. A common pattern alternates a tall row crop (like maize) with a dense ground-covering crop (like groundnut). It is an excellent cultural (agronomic) method for controlling soil erosion.
 - **Rotational cropping (Crop rotation):** Growing different types of crops on the same piece of land in a **definite, planned sequence** from year to year. A good rotation alternates deep-rooted crops (yam) with shallow-rooted crops (maize), avoids planting crops of the same family back-to-back to break pest life cycles, and always includes a leguminous crop (cowpea) to restore soil nitrogen.
 
 ## Identifying and Comparing Cropping Systems
@@ -252,7 +252,7 @@ While both systems involve growing multiple crops at the same time, intercroppin
 - D. Crop rotation
 
 **Answer: C.**
-Strip cropping, which involves planting alternating broad bands of tall row crops and dense cover crops across a slope, slows down water runoff and is an excellent mechanical method for controlling soil erosion.
+Strip cropping, which involves planting alternating broad bands of tall row crops and dense cover crops across a slope, slows down water runoff and is an excellent cultural (agronomic) method for controlling soil erosion.
 
 **4. A farmer planted maize at a spacing of 100 cm by 50 cm on a 1-hectare land. If two seeds were sown per stand, what is the plant density per hectare?**
 - A. 20,000 plants per hectare

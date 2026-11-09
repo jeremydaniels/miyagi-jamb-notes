@@ -287,7 +287,7 @@ The famous legal case *Garner v. Murray* established that this deficiency is sha
 - **Absence of a deed:** Remember the strict rules! If JAMB says there is no deed, profit is shared *equally*, and *no* interest is allowed on capital or drawings, and *no* salaries are paid. Only interest on a *loan* from a partner is allowed at 5%.
 - **Interest on drawings is added:** A common mistake is subtracting interest on drawings in the Appropriation Account. It must be **added** to the Net Profit because the partners are paying the firm.
 - **Revaluation vs. Realisation:** Do not confuse them. **Revaluation** is for admission/retirement (the business continues). **Realisation** is for dissolution (the business ends).
-- **Goodwill write-off:** If goodwill is introduced and then written off, it is debited to the *new* partners in the *new* profit-sharing ratio, and credited to the *old* partners in the *old* profit-sharing ratio.
+- **Goodwill write-off:** If goodwill is introduced and then written off, it is debited to *all* partners in the *new* profit-sharing ratio, and credited to the *old* partners in the *old* profit-sharing ratio.
 - **Profit on Revaluation:** This belongs ONLY to the **old** partners in their **old** ratio. A newly admitted partner gets nothing from past revaluations.
 
 ## Quick summary
@@ -316,7 +316,7 @@ The famous legal case *Garner v. Murray* established that this deficiency is sha
 - C. ₦420,000
 - D. ₦500,000
 
-**Answer: A.** Residual Profit = Net Profit (₦1,000,000) - Interest on Capital (₦100,000) - Salary (₦200,000) = ₦700,000. Y's share is 2/5 of ₦700,000 = ₦280,000. A common mistake is sharing the original ₦1,000,000 without deducting appropriations.
+**Answer: A.** Residual Profit = Net Profit (₦1,000,000) - Interest on Capital (₦100,000) - Salary (₦200,000) = ₦700,000. Y's share is 2/5 of ₦700,000 = ₦280,000. Option C (₦420,000) is X's share (3/5) of the residual profit; option B (₦320,000) comes from deducting only the salary (2/5 × ₦800,000); option D (₦500,000) comes from sharing the net profit equally.
 
 **3. In a partnership, interest charged on a partner's drawings is treated in the Appropriation Account as**
 - A. an addition to the Net Profit

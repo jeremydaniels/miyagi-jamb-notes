@@ -52,7 +52,7 @@ Surveying equipment can be classified based on the type of measurement they take
 
 #### 1. Gunter's Chain
 The Gunter's chain is an older but very famous tool used to measure horizontal distances. It consists of a series of steel links joined by small rings. 
-- **Standard measurements:** A standard Gunter's chain is $66 \text{ feet}$ (exactly $20.12 \text{ m}$) long. It is made up of exactly **$100 \text{ links}$**. 
+- **Standard measurements:** A standard Gunter's chain is $66 \text{ feet}$ (about $20.12 \text{ m}$) long. It is made up of exactly **$100 \text{ links}$**. 
 - Each link is $7.92 \text{ inches}$ ($20.12 \text{ cm}$) long. 
 - Brass tags of different shapes are attached at every $10 \text{ links}$ to make it easy to read the distance without counting every single link.
 - **Area calculation:** $10 \text{ square chains}$ equal $1 \text{ acre}$.

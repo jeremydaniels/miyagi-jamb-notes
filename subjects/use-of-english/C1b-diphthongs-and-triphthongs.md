@@ -123,7 +123,7 @@ This is the easiest diphthong to recognise: it is almost always spelt **oi** or 
 | ow | snow /snəʊ/, know /nəʊ/, show /ʃəʊ/, grow /ɡrəʊ/, window /ˈwɪndəʊ/, yellow /ˈjeləʊ/ |
 | oe | toe /təʊ/, foe /fəʊ/, hoe /həʊ/ |
 | ou, ough | soul /səʊl/, shoulder /ˈʃəʊldə/, though /ðəʊ/, dough /dəʊ/, although /ɔːlˈðəʊ/ |
-| o (before ld, lt, st) | old /əʊld/, cold /kəʊld/, bolt /bəʊlt/, most /məʊst/, post /pəʊst/, both /bəʊθ/ |
+| o (before ld, lt, st, th) | old /əʊld/, cold /kəʊld/, bolt /bəʊlt/, most /məʊst/, post /pəʊst/, both /bəʊθ/ |
 | ew | sew /səʊ/ |
 | oo | brooch /brəʊtʃ/ |
 | eau | plateau /ˈplætəʊ/, bureau /ˈbjʊərəʊ/ |
@@ -188,7 +188,7 @@ And *tear* has two pronunciations: /tɪə/ (a drop of water from the eye) and /t
 | ear | bear /beə/, pear /peə/, wear /weə/, swear /sweə/ |
 | ere, eir | there /ðeə/, where /weə/, their /ðeə/, heir /eə/ |
 | ar | Mary /ˈmeəri/, various /ˈveəriəs/, scarce /skeəs/ |
-| aye, ayer | prayer (words said to God) /preə/, mayor /meə/ |
+| ayer, ayor | prayer (words said to God) /preə/, mayor /meə/ |
 
 **Symbol variation:** the *Cambridge English Pronouncing Dictionary* (18th edition) and most Nigerian textbooks write **/eə/**. Some newer British books write **/ɛː/**, because many modern RP speakers now say this sound as a long pure vowel, with little or no glide. Older books may write /ɛə/. All mean the vowel in *hair*.
 
@@ -344,11 +344,10 @@ Many speakers use the same sound for both, often [ia] or [ɛa], so *here* and *h
 | --- | --- | --- | --- |
 | great | /ɡreɪt/ | [ɡrit] | "ea" usually /iː/ |
 | break | /breɪk/ | [brik] | same |
-| said | /sed/ | [sed] or [seɪd] | follows *say* |
+| said | /sed/ | [seɪd] | follows *say* |
 | height | /haɪt/ | [heɪt] | follows *weight* |
 | pear | /peə/ | [pɪə] | follows *near* |
 | sew | /səʊ/ | [sju] | follows *new* |
-| bury | /ˈberi/ | [buri] | spelling "u" |
 
 ## How to answer JAMB diphthong questions
 
@@ -407,7 +406,7 @@ Centring diphthongs end in /ə/: /ɪə/, /eə/, /ʊə/. **Answer: C.**
 - **Separate /ɪə/ and /eə/:** here/hair, beer/bear, fear/fair, cheer/chair.
 - **"ear" has four sounds:** near (/ɪə/), bear (/eə/), heard (/ɜː/), heart (/ɑː/).
 - **"ow" has two sounds:** know (/əʊ/), now (/aʊ/). *Bow, row, sow* have both, with different meanings.
-- **"ough" is unpredictable:** plough (/aʊ/), though (/əʊ/), through (/uː/), thought (/ɔː/), cough (/ɒ/), tough (/ʌ/). Learn each word.
+- **"ough" is unpredictable:** plough (/aʊ/), though (/əʊ/), through (/uː/), thought (/ɔː/), cough (/ɒf/), tough (/ʌf/). Learn each word.
 - **Triphthongs:** player, fire, royal, lower, hour. *Hour/our* and *flower/flour* are homophones.
 - **Textbooks differ:** /əʊ/ may be written /oʊ/ or /ou/; /eə/ may be written /ɛː/ or /ɛə/; /ʊə/ is often replaced by /ɔː/ in modern RP (*poor, sure*). Use *cure, pure, tour, during* as your safest /ʊə/ words.
 

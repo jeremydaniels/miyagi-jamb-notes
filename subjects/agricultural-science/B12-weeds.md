@@ -43,7 +43,7 @@ Here are the most common weeds in Nigerian agriculture that you must know:
 | Goat weed | *Ageratum conyzoides* | Broadleaf |
 | Tridax | *Tridax procumbens* | Broadleaf |
 | Water leaf | *Talinum triangulare* | Broadleaf |
-| Pigweed | *Boerhavia diffusa* | Broadleaf |
+| Hogweed (spreading hogweed) | *Boerhavia diffusa* | Broadleaf |
 | Sensitive plant | *Mimosa pudica* | Broadleaf |
 | Spiny amaranth | *Amaranthus spinosus* | Broadleaf |
 | Witchweed | *Striga* species (e.g., *Striga hermonthica*) | Broadleaf (Parasitic) |
@@ -84,7 +84,7 @@ Weeds are highly successful competitors that can easily outgrow cultivated crops
    - **Stems:** They usually have solid, triangular stems (a helpful memory trick is: "sedges have edges"). They do not have swollen nodes.
    - **Roots:** They often grow from underground modified stems (tubers) and are commonly found in wet, poorly drained, or swampy soils.
    - **Example:** *Cyperus rotundus* (Nut grass).
-3. **Broadleaves (Dicots):**
+3. **Broadleaves (mostly dicots):**
    - **Leaves:** They have wide (broad) leaves with a net-like (reticulate) arrangement of veins.
    - **Stems:** They usually possess a solid, highly branching stem that can become woody as the plant ages.
    - **Roots:** They typically have a strong, deep taproot system.

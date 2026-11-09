@@ -433,7 +433,7 @@ Let us put all these principles into a complete JAMB-style practical scenario.
 - D. ₦68,000
 
 **Answer: B.**
-Step 1: Net Sales = 150,000 - 5,000 = ₦145,000. Step 2: Cost of Sales = 20,000 + 90,000 + 2,000 - 25,000 = ₦87,000. Step 3: Gross Profit = 145,000 - 87,000 = ₦58,000. Mistake behind option D is failing to subtract the returns inwards from sales. 
+Step 1: Net Sales = 150,000 - 5,000 = ₦145,000. Step 2: Cost of Sales = 20,000 + 90,000 + 2,000 - 25,000 = ₦87,000. Step 3: Gross Profit = 145,000 - 87,000 = ₦58,000. Mistake behind option D is adding the returns inwards to sales (₦155,000 − ₦87,000 = ₦68,000) instead of subtracting them; forgetting to deduct them at all gives ₦63,000. 
 
 **2. Which of the following is correctly classified as a long-term liability?**
 - A. Bank overdraft

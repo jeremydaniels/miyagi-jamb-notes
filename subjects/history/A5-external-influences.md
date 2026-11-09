@@ -38,7 +38,7 @@ The **trans-Saharan trade** was the vast network of commercial exchange across t
 - The trade was conducted using large convoys of camels called **caravans**. Camels were essential because they could go for days without water and carry heavy loads across the hot desert sands.
 - **Trade routes:** Major routes connected Nigerian states to North Africa. One major route went from **Kano** (in Hausaland) through Agadez to Tripoli (in modern Libya). Another went from **Kanem-Borno** through the Fezzan to Tripoli and Egypt.
 - **Articles of trade:** 
-  - **From West Africa (South to North):** The primary exports were gold, slaves, ivory, kola nuts, ostrich feathers, and animal hides. Kano was famous for exporting dyed cotton cloth (Morocco leather and Kano cloth).
+  - **From West Africa (South to North):** The primary exports were gold, slaves, ivory, kola nuts, ostrich feathers, and animal hides. Kano was famous for exporting dyed cotton cloth (Kano cloth) and tanned goatskin leather (sold in North Africa as "Morocco leather").
   - **From North Africa (North to South):** West Africans needed salt (mined in the desert oases like Bilma), horses, copper, cowrie shells (used as currency), weapons (swords and firearms), glassware, and books.
 
 [IMAGE: Map of West and North Africa showing the trans-Saharan trade routes. Thick lines connecting Tripoli and Tunis in the north to Kano and Ngazargamu (Borno) in the south. Icons of camels on the routes, salt bars in the desert, and gold/kola nuts in the savanna. Labels: "Tripoli", "Fezzan", "Bilma (Salt)", "Kano", "Kanem-Borno", "Agadez". Clean flat textbook illustration, white background.]

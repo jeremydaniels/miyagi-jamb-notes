@@ -52,7 +52,7 @@ The flower is the reproductive structure of a plant. A complete flower has four 
 1. **Sepals (Calyx):** Green, leaf-like structures that protect the flower when it is still a bud.
 2. **Petals (Corolla):** Often brightly coloured and scented to attract insects (like bees) for pollination.
 3. **Stamens (Androecium):** The male parts. Each stamen has a stalk (filament) and an **anther**, which produces pollen grains containing the male sex cells.
-4. **Carpels/Pistil (Gynoecium):** The female parts. Each carpel has a **stigma** (to catch pollen), a **style** (a tube), and an **ovary** at the base containing **ovules** (the female sex cells).
+4. **Carpels/Pistil (Gynoecium):** The female parts. Each carpel has a **stigma** (to catch pollen), a **style** (a tube), and an **ovary** at the base containing **ovules** (each ovule contains a female sex cell, the egg).
 
 **Main functions:**
 - **Sexual reproduction:** Flowers facilitate pollination (transfer of pollen) and fertilization (joining of male and female sex cells).

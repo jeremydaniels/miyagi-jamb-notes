@@ -2,99 +2,106 @@
 
 ## What JAMB expects
 
-This file is a study guide for the prescribed Non-African prose text, *Path of Lucas: The Journey He Endured* by Susanne Bellefeuille. 
+This file is a study guide for the prescribed Non-African prose text, *Path of Lucas: The Journey He Endured* by Susanne Bellefeuille. Several Nigerian study sites list it as the Non-African prose text, with *So the Path Does not Die* and *Redemption Road* as the African prose texts.
 
-For the prescribed set texts, the JAMB syllabus expects you to apply the general principles of prose appreciation. By the end of this study guide, you should be able to analyze the text based on the following general prose objectives:
+For prescribed set texts, the JAMB syllabus expects you to apply the general principles of prose appreciation. By the end of this study guide, you should be able to analyse the text under these headings:
 1. Identify the category of prose (Objective a.ii).
-2. Analyze the narrative techniques and point of view (Objective b.i).
-3. Analyze the characterisation (Objective b.ii).
-4. Analyze the style and language (Objective b.iii).
+2. Analyse the narrative techniques and point of view (Objective b.i).
+3. Analyse the characterisation (Objective b.ii).
+4. Analyse the style and language (Objective b.iii).
 5. Identify the central themes (Objective c.i).
 6. Outline the plot (Objective c.ii).
 7. Describe the setting and period (Objective c.iii).
 8. Explain the socio-political context (Objective c.iv).
 
-**Note on the text:** *Path of Lucas: The Journey He Endured* is a relatively modern biographical novel (published in the mid-2010s) written by the Canadian author Susanne Bellefeuille. Because strict rules prevent inventing any unverified facts about the set texts, specific plot details, minor character names, and exact locations are marked with a placeholder below. Your teacher or textbook will help you fill in these exact details from the novel.
+**Note on the text:** This is a recent, little-known book, and reliable detailed information about it is scarce. Only facts confirmed by more than one source are stated below. Everything else is a clearly marked **[TO BE COMPLETED: ...]** placeholder to be filled from your own copy of the book. Please do not fill gaps from memory or guesswork.
 
 ## About the Author and the Work
 
-**Susanne Bellefeuille** is a Canadian author. She wrote *Path of Lucas: The Journey He Endured* based on the true life story of her father, Lucas. 
+**Susanne Bellefeuille** is a Canadian author. Her book *Path of Lucas: The Journey He Endured* is based on true events from her own family. Sources describe the main character, Lucas, as drawn from her father, and the book as inspired by the lives of her parents.
 
-The novel is the **prescribed Non-African prose text** for the JAMB examination. Because it is set in Canada and written by a Canadian author, it falls into the Non-African category, contrasting with the African texts like *So the Path Does not Die* and *Redemption Road*.
+Publication details differ between sources. A 2016 publicity article names Balboa Press, while a Nigerian newspaper piece names Accessible Publishers Ltd with a 2017 date. These may be different editions.
+
+**[TO BE COMPLETED: the exact year of first publication and the publisher of the edition recommended for JAMB, checked on the title page of your copy]**
+
+The book is on the Non-African prose list. Because it is set in Canada and written by a Canadian, it contrasts with the African prose texts *So the Path Does not Die* and *Redemption Road*.
 
 ## Category of Prose (Objective a.ii)
 
-*Path of Lucas: The Journey He Endured* is often classified as a **biographical novel** or **faction**. 
+The book is based on real family events but is told as a story. Sources do not agree on one label: some describe it as a fictionalised biography, and one listing calls it fiction. Useful definitions are:
 
-- **Biography/Memoir:** It tells the real-life story of a historical person (the author's father, Lucas). 
-- **Faction:** This is a blend of "fact" and "fiction." Textbooks use this term for books that tell a true story but use the techniques of a novel (such as invented dialogue, structured scenes, and descriptive language) to make the real events more engaging. 
+- **Fiction:** an invented story.
+- **Biography:** a true life story written by someone else.
+- **Memoir:** a writer's own remembered experiences.
+- **Faction:** a blend of "fact" and "fiction", where real events are told with novel techniques such as scenes and dialogue.
 
-**[TO BE COMPLETED: check your specific textbook to see if JAMB strictly classifies this book as "faction", "biography", or a "memoir"]**
+**[TO BE COMPLETED: the exact category your JAMB textbook or the book's own cover and preface gives (fiction, fictionalised biography or faction)]**
 
 ## Plot (Objective c.ii)
 
-The general premise of the novel follows the life of the protagonist, Lucas, as he navigates severe hardships, personal tragedies, and life challenges. The title itself—*The Journey He Endured*—points to a timeline of continuous struggle and survival.
+Several sources agree that the story is built around Lucas Clarkson, who tells the story of his life to his daughter, Lucy, while she lies in a coma after a serious car accident. His telling is meant to keep her connected to life. Reviews also say he describes how he met Lucy's mother, Isabelle, and the difficulties they faced together.
 
-**[TO BE COMPLETED: full chapter-by-chapter or part-by-part plot summary of the novel, including the specific inciting incident, rising action, climax, and resolution of Lucas's story]**
+**[TO BE COMPLETED: full chapter-by-chapter plot summary, including the main turning points, the climax and the resolution]**
 
-[IMAGE: A blank Freytag's Pyramid (plot mountain) diagram showing five stages: Exposition, Rising Action, Climax, Falling Action, and Resolution. Under each stage is a blank rectangular box for the student to write in the specific events from *Path of Lucas*. Labels to add later: "Exposition (Introduction)", "Rising Action (Hardships begin)", "Climax (Turning point)", "Falling Action", "Resolution (Conclusion)". Clean flat textbook style, white background.]
+[IMAGE: A blank Freytag's Pyramid (plot mountain) diagram showing five stages: Exposition, Rising Action, Climax, Falling Action and Resolution. Under each stage is an empty rectangular box for students to write the events of the novel. Labels to add later: "Exposition", "Rising Action", "Climax", "Falling Action", "Resolution". Clean flat textbook style, white background.]
 
 ## Setting and Period (Objective c.iii)
 
-The broad setting of the novel is **Canada**. The physical environment and the time period significantly affect how Lucas lives and the challenges he faces.
+The story is set in Canada. A reviewer describes a small rural town in Eastern Ontario.
 
-**[TO BE COMPLETED: precise geographical setting (such as the specific Canadian province or town) and the exact historical time period (e.g., mid-20th century) in which the events take place]**
+**[TO BE COMPLETED: the exact towns and places named in the book, and the years or decades the story covers]**
 
 ## Socio-Political Context (Objective c.iv)
 
-The socio-political context refers to the societal rules, economic conditions, and cultural environment of the time and place where the story happens. 
+Socio-political context means the social, economic and political conditions that shape the characters' lives. One reviewer mentions the long shadow of war, but the details are not confirmed.
 
-**[TO BE COMPLETED: the specific social, economic, or cultural background described in the text (for example, poverty, working-class struggles, or historical events that impact Lucas's family)]**
+**[TO BE COMPLETED: the social, economic and historical background shown in the text, with examples from the book]**
 
 ## Characters (Objective b.ii)
 
-When studying characterisation in this text, you must look at what the characters do, what they say, and how others react to them.
+For characterisation, look at what characters do, what they say, how they treat others and what others say about them.
 
-### Lucas
-He is the **protagonist** (the main character) of the story. The narrative revolves entirely around his life experiences, his endurance, and his dedication to overcoming obstacles.
+### Lucas Clarkson
+He is the **protagonist** (main character). Sources agree that he is a devoted father who tells his life story to his daughter.
 
-**[TO BE COMPLETED: complete list of characters, their relationships to Lucas (such as his wife, parents, or children), their character traits, and their roles in the narrative]**
+### Lucy and Isabelle
+Lucy is Lucas's daughter, the listener in a coma. Study guides and a review name Isabelle as Lucas's wife and Lucy's mother. Study guides list further names, but they disagree with each other and with reviews, so none are given here.
 
-[IMAGE: A blank character map diagram. In the centre is a large circle labelled "Lucas (Protagonist)". Radiating outward from the centre are four smaller blank circles connected by lines, representing his family members and key figures in his life. Labels to add later: "Lucas (Protagonist)", "Character 2", "Character 3", "Character 4", "Character 5". Clean flat textbook style, white background.]
+**[TO BE COMPLETED: the full cast with relationships and traits, supported by actions and speech from the book]**
+
+[IMAGE: A blank character map diagram. In the centre is a large circle labelled "Lucas (Protagonist)". Four smaller blank circles are connected to it by lines. Labels to add later: "Lucas (Protagonist)", "Lucy", "Isabelle", "Character 4", "Character 5". Clean flat textbook style, white background.]
 
 ## Themes (Objective c.i)
 
-A theme is the central message or underlying idea in a literary work. Based on the title and the biographical nature of the book, several broad themes are present:
+A theme is the central idea of a work. Study guides name love, devotion, determination, perseverance, loyal friendship and forgiveness among the themes. The subtitle, *The Journey He Endured*, also points to hardship and survival.
 
-1. **Endurance and Resilience:** The central focus of the novel is Lucas's ability to survive and keep moving forward despite severe life trials.
-2. **Family and Sacrifice:** Biographical novels of this type usually explore the sacrifices made by parents for their children and the bonds that hold families together during tough times.
-
-**[TO BE COMPLETED: detailed themes with specific examples and quotations from the text to support them, such as specific tragedies Lucas overcomes]**
+**[TO BE COMPLETED: each theme with specific scenes from the book that support it]**
 
 ## Narrative Techniques (Objective b.i)
 
-Narrative techniques are the methods the author uses to tell the story. 
+Narrative techniques are the methods an author uses to tell a story. The frame of Lucas telling his life to Lucy suggests the story moves back and forth between past and present, but no source states the point of view or structure.
 
-**[TO BE COMPLETED: exact point of view used in the narrative (e.g., First-person "I", or Third-person limited "he"), the narrative structure (chronological order or use of flashbacks), and other specific narrative devices]**
+**[TO BE COMPLETED: the exact point of view (first-person or third-person), whether events are in chronological order or flashback, and other devices used]**
 
 ## Style and Language (Objective b.iii)
 
-Style refers to the author's choice of words (diction), the tone of the writing, and the use of figurative language. 
+Style covers diction (word choice), tone, imagery and sentence style.
 
-**[TO BE COMPLETED: analysis of Susanne Bellefeuille's diction, her use of dialogue, and the overall tone of the book (e.g., is it sympathetic, melancholic, or inspiring?)]**
+**[TO BE COMPLETED: analysis of the author's diction, use of dialogue and overall tone, with short examples from the book]**
 
 ## Needs checking against the text
 
-Because factual accuracy is critical and specific details of this novel vary in study guides, the following points must be checked and filled in using your copy of the prescribed text:
+The following must be checked in your copy of the book before use in an exam:
 
-*   The exact classification of the prose (faction, biography, or memoir).
-*   A full plot summary of the events, from exposition to resolution.
-*   The precise geographical setting (town/province) and the years the story spans.
-*   The specific socio-economic and cultural background (context) of Lucas's world.
-*   The names, traits, and roles of all other major and minor characters besides Lucas.
-*   Specific examples from the text to support the themes of endurance and family.
-*   The exact point of view (First-person or Third-person) and narrative structure (chronological or flashback).
-*   Examples of the author's specific diction, tone, and figurative language.
+*   The year of first publication and the publisher of the recommended edition.
+*   The exact category of prose (fiction, fictionalised biography or faction).
+*   A full plot summary from exposition to resolution.
+*   The exact places and years of the setting.
+*   The social, economic and historical background shown in the text.
+*   The full list of characters, their relationships and traits (including whether Isabelle is the correct name for Lucas's wife).
+*   Specific scenes supporting each theme.
+*   The point of view and narrative structure.
+*   Examples of diction, tone and figurative language.
 
 ## Key terms
 
@@ -102,112 +109,120 @@ Because factual accuracy is critical and specific details of this novel vary in 
 | --- | --- |
 | Faction | A literary genre that blends true historical facts with fictional storytelling techniques. |
 | Biography | A true account of someone's life written by another person. |
-| Memoir | A historical account or biography written from personal knowledge, often focusing on specific memories or periods. |
-| Protagonist | The main character in a literary work, around whom the plot revolves (e.g., Lucas). |
+| Memoir | A writer's own account of events they lived through or remember. |
+| Protagonist | The main character, around whom the plot revolves (here, Lucas). |
 | Theme | The central, underlying message or main idea explored in a literary work. |
 | Socio-political context | The social, economic, and political environment in which a story is set, which influences the characters' lives. |
 | Setting | The time (period) and place (geographical location) in which the events of a story occur. |
 
 ## Exam tips and common mistakes
 
-*   **Know the category:** Remember that *Path of Lucas* is the **Non-African** prescribed prose text. Do not confuse it with *Redemption Road* or *So the Path Does not Die*, which are the African prescribed texts.
-*   **Understand the title:** JAMB often asks questions about the significance of a book's title. *The Journey He Endured* directly points to the central theme of resilience and overcoming hardship.
-*   **Faction vs. Fiction:** Be prepared to define "faction" or "biographical novel," as this text is based on a true story rather than being purely invented (fiction).
-*   **Mastering unverified details:** Once your teacher fills in the placeholders above, memorize the names of Lucas's immediate family members and the specific Canadian town where the story takes place, as JAMB frequently tests these specific facts.
+*   **Know the category:** *Path of Lucas* is the Non-African prose text. Do not confuse it with *Redemption Road* or *So the Path Does not Die*, which are African.
+*   **Check the current list:** Prescribed texts can change between exam sessions, so confirm the list for your year.
+*   **Do not guess details:** Study guides online often disagree on names and events. Rely on your own copy of the book.
+*   **Support every point:** Name a theme, then give a scene from the book that shows it.
+*   **Use the title:** Link the subtitle *The Journey He Endured* to hardship and survival, but back it with events.
 
 ## Quick summary
 
-1. *Path of Lucas: The Journey He Endured* is a biographical novel (or faction) written by Canadian author Susanne Bellefeuille.
-2. It is the prescribed Non-African prose text for the JAMB syllabus.
-3. The story is based on the true life experiences of the author's father, Lucas.
-4. The protagonist, Lucas, faces numerous hardships, making the central themes of the novel endurance, resilience, and family sacrifice.
-5. The setting is in Canada, and the socio-political context involves the specific economic and social conditions Lucas lived through.
-6. To fully analyze the text, you must identify the author's point of view, narrative structure, and choice of language.
-7. Always ensure you verify specific character names, plot twists, and settings directly from the source text before the exam.
+1. *Path of Lucas: The Journey He Endured* is by the Canadian author Susanne Bellefeuille.
+2. It is listed as the Non-African prose text.
+3. It is based on real events from the author's family, drawing on her father's life.
+4. The main character is Lucas Clarkson, who tells his life story to his daughter Lucy while she is in a coma.
+5. The story is set in Canada, with a rural Eastern Ontario setting reported by a reviewer.
+6. Reported themes include love, devotion, determination and perseverance.
+7. Details such as plot, point of view and style must be filled in from your copy of the book.
 
 ## Practice questions
 
-*Note: Because specific plot details are reserved for verification against the text, these questions test your knowledge of the verified facts and your ability to apply prose analysis methods to text excerpts.*
+*Note: These questions mostly test method, using short made-up passages. The passages are invented for teaching and are not from the book.*
 
-**1. *Path of Lucas: The Journey He Endured* is categorised in the JAMB syllabus as a**
-- A. prescribed African drama
-- B. prescribed Non-African prose
-- C. prescribed African poetry
-- D. prescribed Non-African drama
+**1. *Path of Lucas: The Journey He Endured* appears on the JAMB literature list as which kind of text?**
 
-**Answer: B.** It is the selected Non-African prose text, written by the Canadian author Susanne Bellefeuille.
+- A. African drama
+- B. Non-African prose
+- C. African poetry
+- D. Non-African poetry
 
-**2. Who is the author of *Path of Lucas: The Journey He Endured*?**
+**Answer: B.** Study sites list it as the Non-African prose text.
+
+**2. Who wrote *Path of Lucas: The Journey He Endured*?**
+
 - A. Pede Hollist
 - B. Elma Shaw
 - C. Susanne Bellefeuille
 - D. Efua Sutherland
 
-**Answer: C.** Susanne Bellefeuille wrote the novel based on the life of her father.
+**Answer: C.** Susanne Bellefeuille, a Canadian author, wrote it.
 
-**3. The term "faction", which is often used to describe books like *Path of Lucas*, refers to a work that**
-- A. is entirely invented by the author's imagination
-- B. blends factual, real-life events with fictional narrative techniques
-- C. focuses purely on political conflicts
-- D. is written as a stage play but meant to be read as a novel
+**3. A story that uses real events but is told with invented scenes and dialogue is best called**
 
-**Answer: B.** Faction combines "fact" and "fiction," telling a true story using the engaging methods of a novel.
+- A. pure fiction
+- B. faction
+- C. a stage play
+- D. a dictionary entry
 
-**4. Based on the subtitle of the book, *The Journey He Endured*, the most prominent theme is likely to be**
-- A. political corruption and greed
-- B. magical realism
-- C. resilience and survival through hardships
-- D. the dangers of modern technology
+**Answer: B.** Faction blends fact and fiction.
 
-**Answer: C.** The word "endured" directly implies surviving severe difficulties, making resilience the central theme.
+**4. Read this made-up passage: "I pressed the cold wall and told myself I would not cry. I had walked ten miles, and my boots were broken." What point of view is used?**
 
-**5. In prose analysis, the "socio-political context" of a novel like *Path of Lucas* refers to**
-- A. the physical landscape and weather of the setting
-- B. the grammatical structure of the author's sentences
-- C. the social and economic environment that influences the characters
-- D. the order in which the chapters are arranged
+- A. First person
+- B. Second person
+- C. Third person
+- D. No point of view
 
-**Answer: C.** Context refers to the background circumstances—such as society, economy, and politics—that shape the characters' realities.
+**Answer: A.** The narrator uses "I" and "my", which marks first-person narration.
 
-**6. Which of the following best defines the "protagonist" in a prose work?**
-- A. The character who actively opposes the main character
-- B. The central or main character around whom the plot revolves
-- C. A character who provides comic relief
-- D. The author of the book
+**5. Read this made-up passage: "Tunde sold his bicycle to pay the school fees, though he had nothing left for himself." Which theme does it best show?**
 
-**Answer: B.** The protagonist is the main character (in this case, Lucas).
+- A. Revenge
+- B. Sacrifice
+- C. Pride in wealth
+- D. Fear of the sea
 
-**7. *Read the following made-up passage (created for teaching) and answer the question:* "Lucas tightened his coat against the freezing Ontario wind. He had lost his job at the mill, his savings were gone, and his hands bled from the cold, yet he kept walking toward the next town, determined to find food for his children." What is the central theme of this passage?**
-- A. Betrayal
-- B. Endurance and parental sacrifice
-- C. The cruelty of nature
-- D. Wealth and prosperity
+**Answer: B.** Tunde gives up something he values for another's benefit, which is sacrifice.
 
-**Answer: B.** The passage shows a father pushing through physical pain and job loss to provide for his family, highlighting endurance and sacrifice.
+**6. Read this made-up passage: "The harmattan dust hung over the market in 1975, and Mama Ngozi counted her coins twice." Which two parts of the setting does the passage give?**
 
-**8. *Using the same made-up passage from Question 7*, what narrative point of view is the author using?**
-- A. First-person narrative
-- B. Second-person narrative
-- C. Third-person narrative
-- D. Stream of consciousness
+- A. Place and time
+- B. Plot and theme
+- C. Tone and diction
+- D. Narrator and listener
 
-**Answer: C.** The use of the pronouns "he" and "his" and the character's name ("Lucas") indicates a third-person point of view.
+**Answer: A.** The market and the harmattan show place and weather, and 1975 gives the time.
 
-**9. In analyzing the setting of a biographical novel, a student must identify both the**
-- A. protagonist and antagonist
-- B. geographical location and historical time period
-- C. rising action and falling action
-- D. diction and syntax
+**7. A student wants to show that a character is determined. Which evidence is strongest?**
 
-**Answer: B.** Setting consists of both the "where" (geographical location) and the "when" (historical time period).
+- A. The character's name
+- B. The book's cover colour
+- C. Something the character does or says repeatedly despite difficulty
+- D. The number of chapters
 
-**10. When an author writes the biography of their own parent, using descriptive language and reconstructed dialogue to make the history feel alive, they are focusing heavily on**
-- A. poetic meter
-- B. stage directions
-- C. narrative techniques and style
-- D. dramatic irony
+**Answer: C.** Characterisation is built from actions and speech, so repeated effort through difficulty is the best proof.
 
-**Answer: C.** The use of descriptive language and dialogue in storytelling relates directly to the author's narrative techniques and style.
+**8. Read this made-up passage: "Ada spoke softly to her sleeping brother, telling him stories of home so that he would wake." What narrative device is closest to this frame?**
 
-<!-- COVERAGE
--->
+- A. A story told to a listener
+- B. A stage direction
+- C. A rhyming couplet
+- D. A dramatic soliloquy only
+
+**Answer: A.** A character tells a story to a listener, which is a framing device. Note that this is a method example and not a claim about how the novel is arranged.
+
+**9. Which is NOT a part of "style and language"?**
+
+- A. Diction
+- B. Tone
+- C. Imagery
+- D. The year the book was printed
+
+**Answer: D.** Style concerns the author's wording and manner, not printing details.
+
+**10. When two study guides give different names for a minor character, the best action is to**
+
+- A. choose the longer name
+- B. check the name in your own copy of the book
+- C. use both names
+- D. leave out the character
+
+**Answer: B.** The text itself is the authority when secondary sources disagree.

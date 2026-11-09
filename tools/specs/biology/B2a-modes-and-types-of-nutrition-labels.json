@@ -646,5 +646,157 @@
     "R"
    ]
   ]
+ },
+ "B2a-03-ruminant-stomach": {
+  "labels": [
+   [
+    "oesophagus",
+    [
+     559,
+     157
+    ],
+    "R"
+   ],
+   [
+    "rumen",
+    [
+     245,
+     471
+    ],
+    "L"
+   ],
+   [
+    "reticulum",
+    [
+     722,
+     481
+    ],
+    "R"
+   ],
+   [
+    "cud returned to mouth",
+    [
+     737,
+     245
+    ],
+    "R"
+   ],
+   [
+    "omasum",
+    [
+     587,
+     578
+    ],
+    "R"
+   ],
+   [
+    "abomasum (true stomach)",
+    [
+     547,
+     724
+    ],
+    "R"
+   ],
+   [
+    "small intestine",
+    [
+     788,
+     849
+    ],
+    "R"
+   ],
+   [
+    "cellulose-digesting microorganisms",
+    [
+     237,
+     611
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B2a-11-bladderwort-trap-mechanism": {
+  "labels": [
+   [
+    "flower",
+    [
+     253,
+     189
+    ],
+    "L"
+   ],
+   [
+    "water surface",
+    [
+     102,
+     496
+    ],
+    "L"
+   ],
+   [
+    "underwater leaf",
+    [
+     163,
+     655
+    ],
+    "L"
+   ],
+   [
+    "bladder",
+    [
+     262,
+     641
+    ],
+    "L"
+   ],
+   [
+    "trapdoor",
+    [
+     727,
+     296
+    ],
+    "R"
+   ],
+   [
+    "trigger hairs",
+    [
+     768,
+     256
+    ],
+    "R"
+   ],
+   [
+    "bristles (antennae)",
+    [
+     653,
+     266
+    ],
+    "R"
+   ],
+   [
+    "glands",
+    [
+     839,
+     225
+    ],
+    "R"
+   ],
+   [
+    "water flea (prey)",
+    [
+     568,
+     230
+    ],
+    "R"
+   ],
+   [
+    "water rushing in",
+    [
+     727,
+     732
+    ],
+    "R"
+   ]
+  ]
  }
 }

@@ -229,7 +229,7 @@ The sheep is a **ruminant**: it "chews the cud". Its stomach has **four chambers
 
 **Textbook variation:** some textbooks describe cud as being formed in the rumen and reticulum together, and some say the abomasum is the "only true stomach" while others call all four chambers "the stomach". The order rumen → reticulum → (mouth) → omasum → abomasum is the same in all textbooks.
 
-[IMAGE: The four-chambered stomach of a sheep (ruminant), shown as a simplified cut-open diagram with arrows tracing the path of food. Oesophagus entering at the top; a very large rumen with grass and small microbe symbols inside; the smaller reticulum next to it with a honeycomb-patterned lining; a curved arrow going back up the oesophagus to the mouth labelled as cud being regurgitated and re-chewed; the omasum with many leaf-like folds; the long tube-like abomasum leading to the small intestine. Numbered arrows 1 to 5 showing the order: oesophagus → rumen → reticulum → mouth (re-chewing) → omasum → abomasum → small intestine. Labels: oesophagus, rumen, reticulum, cud returned to mouth, omasum, abomasum (true stomach), small intestine, cellulose-digesting microorganisms. Soft colours: rumen green-brown, reticulum light brown, omasum tan, abomasum pink. Clean flat textbook style, white background.]
+![Diagram of a ruminant stomach showing the rumen with microbes and grass, honeycomb-patterned reticulum, omasum with folds, and pink abomasum connecting to the small intestine.](images/B2a-03-ruminant-stomach.png)
 
 ### Holozoic nutrition in man
 
@@ -550,7 +550,7 @@ Bladderworts are rootless plants that live **floating in fresh water** (ponds, s
 
 **Textbook variation:** textbooks give different numbers for how fast the bladder closes and how long it takes to reset. All agree that the trap works by **suction** and is extremely fast.
 
-[IMAGE: A bladderwort (Utricularia) and a cut-open bladder. Left: a floating plant in a pond with fine, thread-like branched underwater leaves carrying many tiny bladders, and small yellow two-lipped flowers held above the water on a stalk. Right: an enlarged longitudinal section of one bladder in two stages: (1) set, with the walls pulled slightly inwards, the door closed and a water flea approaching the trigger hairs; (2) sprung, with the door swung open inwards, arrows showing water and the water flea being sucked in. Labels: flower, water surface, underwater leaf, bladder, trapdoor, trigger hairs, bristles (antennae), glands, water flea (prey), water rushing in. Clean flat textbook style, white background.]
+![Diagram of a bladderwort plant with underwater leaves and bladders alongside two cross-sections of a bladder trap showing closed and open states catching a water flea.](images/B2a-11-bladderwort-trap-mechanism.png)
 
 ### Sundew and bladderwort compared
 

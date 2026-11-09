@@ -107,7 +107,7 @@ By 1974, there were widespread allegations of massive corruption and abuse of of
 
 ### 3. The Udoji Award and Inflation (1974)
 
-In 1974, Gowon set up a commission headed by Chief Jerome Udoji to review the salaries of public servants. The government implemented the **Udoji Award**, which gave civil servants massive salary increases along with large back-payments (arrears).
+In 1972, Gowon set up a commission headed by Chief Jerome Udoji to review the salaries of public servants. Its report came in 1974, and the government implemented the **Udoji Award**, which gave civil servants massive salary increases along with large back-payments (arrears).
 
 Because too much money was suddenly injected into the economy without a corresponding increase in local goods, it caused **severe inflation**. The cost of living skyrocketed, which wiped out the benefits of the salary increases and caused hardship for those not in government jobs.
 
@@ -123,7 +123,7 @@ Population figures in Nigeria determine revenue sharing and political representa
 
 By mid-1975, the broken promise to return to civilian rule, economic mismanagement, port congestion, and public anger over corrupt governors had severely weakened Gowon's government.
 
-On **July 29, 1975**, exactly nine years after he came to power, Gowon was overthrown in a **bloodless military coup**. At the time, he was out of the country attending an Organization of African Unity (OAU) summit in **Kampala, Uganda**. 
+On **July 29, 1975**, just under nine years after he became Head of State (on 1 August 1966), Gowon was overthrown in a **bloodless military coup**. At the time, he was out of the country attending an Organization of African Unity (OAU) summit in **Kampala, Uganda**. 
 
 The coup plotters announced Brigadier (later General) **Murtala Mohammed** as the new Head of State. (The policies of the new government are covered in `D4-murtala-obasanjo-regime.md`). Gowon accepted his removal peacefully and went into exile in the United Kingdom, where he enrolled in university.
 

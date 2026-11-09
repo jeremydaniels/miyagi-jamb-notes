@@ -66,7 +66,7 @@ Many staple crops in Nigeria and West Africa are propagated exclusively or prima
 
 **Calculating Seed Rate:**
 
-**Seed rate** is the total quantity of seeds required to plant a specific area of land, usually measured in kilograms per hectare ($\text{kg/ha}$). It depends on the spacing (plant density), the number of seeds planted per hole (stand), and the weight of the individual seeds.
+**Seed rate** is the quantity of seeds required to plant one hectare of land, usually measured in kilograms per hectare ($\text{kg/ha}$). (Using the actual area of your own farm in the formula below gives the *total seed requirement* for that farm, not the seed rate.) It depends on the spacing (plant density), the number of seeds planted per hole (stand), and the weight of the individual seeds.
 
 **Formula for Seed Rate:**
 $\text{Seed rate} = \frac{\text{Area of land}}{\text{Spacing area}} \times \text{Seeds per stand} \times \text{Weight of one seed}$

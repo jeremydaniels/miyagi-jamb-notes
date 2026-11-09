@@ -50,3 +50,15 @@ All of these matched the notes. No change made.
 | Republican Constitution came into force on 1 October 1963 | C6, D1 | Wikipedia (First Nigerian Republic), Guardian Nigeria |
 
 Not checked by web search (left for a teacher to skim): the Hausa, Tiv and other pre-colonial titles in A3; the Ekumeku dates (1898 to 1911 are the dates the syllabus prints; some sources use other years); Shaka's birth year ("about 1787") in F2; Vegkop (1836) in F3.
+
+## Second pass (after re-verifying the fixed files; new findings)
+
+| File | Verifier's claim | Outcome | Source(s) |
+|---|---|---|---|
+| A5 | Portuguese brought coral beads to Benin, they did not buy them there | Fixed (coral beads, brass manillas and cloth moved to what the Portuguese brought) | National Museums Scotland (Benin and Portugal), Smarthistory (Benin and the Portuguese) |
+| A5 | 1842 Badagry missionaries were Freeman (Methodist) and Townsend (CMS); Crowther came in 1845 | Fixed | Dictionary of African Christian Biography, Wikipedia (Henry Townsend), Guardian Nigeria |
+| A5 Q9 | Prince Domingos was sent to Portugal in 1600, not in the 15th to 16th century | Fixed (question now says "late 16th or early 17th century") | Wikipedia (Atorongboye, Kingdom of Warri): sent in 1600, studied until 1611 |
+| D1 | Mid-Western Region was created on 9 August 1963 under the 1960 Constitution; it lies east of the Western Region | Fixed | Vanguard, BusinessDay, Wikipedia (Western Region of Nigeria) |
+| E1 | Seku Ahmadu's son was Amadu II, and his grandson Amadu III | Fixed in the Macina section | Wikipedia (Seku Amadu, Amadu II) |
+| E1 | Umar Tall's son is called "Ahmadu Seku" in the exam tip | LEFT AS IS, for teacher | The search did not cover Umar Tall's son's name; the Macina fix above removes the clash with Seku Ahmadu's son |
+| A4, A4 Q6, B2, C4, C5 | (same findings as in the first table: gold exports, Oyo horses, Ngazargamu date, gold dust, railway-map shape) | LEFT AS IS, for teacher | See first table |

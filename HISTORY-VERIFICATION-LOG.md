@@ -71,3 +71,21 @@ Not checked by web search (left for a teacher to skim): the Hausa, Tiv and other
 | D1 | Eastern Region rejected the 1963 census; the West under Akintola accepted it | Fixed | Nigerian press and academic papers (Okpara most vocal critic; Northern and Western leaders accepted) |
 | E1 | Treaty of Bissandugu was 1887 (the 1886 treaty was Kéniéba-Koura) | Fixed to "1887; some books give 1886" | Wikipedia (Samorian state, Bissandugu); one article (First Mandingo War) gives 1886 |
 | A3 (Ag subject) | Rubber is not a mangrove crop | Fixed | Nigerian vegetation and agriculture sources (rubber in the rainforest zone; swamp rice, coconut and raffia in the swamp zones) |
+
+## Follow-up: open items closed by editor decision
+
+Source for every row: standard textbook position, editor decision (no web source). These closed the findings left open in the first and second tables.
+
+| File | Change |
+|---|---|
+| A4 | Gold removed as an export of the Nigeria area (three places, including the Portuguese early trade line); a note says gold from goldfields further west passed through Hausaland in transit. Main exports now: slaves, leather goods, kola, ivory, cloth |
+| A4 Q6 | Explanation now says Borno got horses through the Trans-Saharan trade and Oyo through trade with the north (Hausaland and Borno). The question stem now reads "Trade with the north, including the Trans-Saharan trade"; the options are unchanged and answer C still holds |
+| B2 | Court settled at Ngazargamu under Mai Ali Gaji in the late 15th century; sources give different exact dates |
+| C4 | Gold dust removed; cowries, manillas, brass rods and cloth strips kept |
+| C5 | "A"/"Y" shape wording dropped; the image description now gives the Lagos to Kano and Port Harcourt to Maiduguri lines |
+| E1 | "Ahmadu Tall (Ahmadu Seku)" used for Umar Tall's son in the Tukolor section, the exam tip and Question 2 |
+| Agricultural Science A3 | Acha removed from the Sahel crop list; noted as a northern Nigeria crop, especially on the Jos Plateau |
+
+After the changes I read each file's Quick summary, Key terms and practice questions for matches with the new text; none needed further edits.
+
+New findings after re-verifying these files (not changed; outside the follow-up task, listed in MORNING-REPORT.md): C5 image mentions Maiduguri although that extension dates from 1958 to 1964; B2 Question 4 explanation says Ibrahim's heir was executed while the main text says he was killed in battle; C4 railway start year (1896 versus 1898); C4 African Continental Bank year (1944 versus 1947).

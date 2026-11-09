@@ -72,7 +72,7 @@ The flower is the reproductive structure of a plant. A complete flower has four 
 Flowering crop plants (Angiosperms) are divided into two major groups: **Monocotyledons (Monocots)** and **Dicotyledons (Dicots)**. They are distinguished by their external morphology (shape and structure) and internal anatomy.
 
 - **Monocots** include cereals (maize, rice, sorghum, millet), grasses, oil palm, coconut, sugarcane, plantain, and onion.
-- **Dicots** include legumes (cowpea, groundnut, soybean), root/tuber crops (cassava, yam, sweet potato), vegetables (tomato, pepper, fluted pumpkin/ugu), and tree crops (cocoa, rubber, citrus).
+- **Dicots** include legumes (cowpea, groundnut, soybean), root/tuber crops (cassava, sweet potato), vegetables (tomato, pepper, fluted pumpkin/ugu), and tree crops (cocoa, rubber, citrus).
 
 **Note:** Yam (*Dioscorea* spp.) is a monocot, even though its leaves have net-like veins—an exception to the general rule.
 

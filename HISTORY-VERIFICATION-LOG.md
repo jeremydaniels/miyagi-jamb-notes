@@ -30,3 +30,23 @@ Rule: a date, name or figure is changed only after a web search confirms it agai
 | 22 | E1 | Samori did not conquer Sikasso | Fixed | Wikipedia (Tieba Traore, Samorian state): 15-month siege of 1887 to 1888 failed |
 
 Notes on the search tool: it returns mostly secondary sources and could not open Britannica pages directly. One search result contained an embedded instruction aimed at AI readers; it was ignored.
+
+## Spot-checks of other dates and names (not flagged by the verifier)
+
+All of these matched the notes. No change made.
+
+| Claim in the notes | Where | Source(s) |
+|---|---|---|
+| Usman dan Fodio died in 1817 and Muhammad Bello succeeded him | B1 | Britannica (Usman dan Fodio, Muhammad Bello) |
+| Abacha died on 8 June 1998 | D9 | Britannica (Sani Abacha), Wikipedia |
+| Civilian handover on 29 May 1999 (Fourth Republic) | D10 | Wikipedia (Abdulsalami Abubakar), Britannica (Nigeria: military regimes 1983 to 99), allAfrica |
+| Battle of Adwa on 1 March 1896 | F1 | Britannica (Battle of Adwa, Menilek II) |
+| Muhammad Ali recognised as governor of Egypt in 1805; died 1849; Ismail came to power in 1863 and was deposed in 1879; British invasion in 1882 | E3 | Wikipedia (Khedivate of Egypt, Muhammad Ali dynasty, Isma'il Pasha), GlobalSecurity |
+| Civil War July 1967 to January 1970 (surrender 15 January 1970) | D2 | Britannica (Nigerian Civil War, Biafra), an academic chapter, History.com |
+| Bombardment of Lagos in 1851 and annexation in 1861 | B9 | Wikipedia (Reduction of Lagos, Lagos Colony), Guardian Nigeria feature. Sources differ on whether the main action was in November or December 1851 |
+| Gowon: head of state 1 August 1966 to 29 July 1975, overthrown in Kampala | D3 | Guardian Nigeria, Britannica (Gowon: head of state 1966 to 75) |
+| Nigeria joined the OIC in 1986 | D7 | Academic papers (Nigerian universities) |
+| Ibrahim Babangida, ING dates 26 August to 17 November 1993 | D7, D8 | Wikipedia (Shonekan), Nigerian press |
+| Republican Constitution came into force on 1 October 1963 | C6, D1 | Wikipedia (First Nigerian Republic), Guardian Nigeria |
+
+Not checked by web search (left for a teacher to skim): the Hausa, Tiv and other pre-colonial titles in A3; the Ekumeku dates (1898 to 1911 are the dates the syllabus prints; some sources use other years); Shaka's birth year ("about 1787") in F2; Vegkop (1836) in F3.

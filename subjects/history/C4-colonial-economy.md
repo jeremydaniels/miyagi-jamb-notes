@@ -40,7 +40,7 @@ To achieve this, the British actively discouraged local manufacturing and focuse
 To integrate Nigeria into the British economic system, the colonial administration had to change how people traded, how the government made money, and how heavy work was done.
 
 ### 1. Currency Transition
-Before colonial rule, Nigerians used various currencies, including **cowrie shells, manillas (copper rings), brass rods, and gold dust**, as well as the barter system. 
+Before colonial rule, Nigerians used various currencies, including **cowrie shells, manillas (copper rings), brass rods, and cloth strips**, as well as the barter system. 
 
 The British introduced standard British coins and paper money to unify the economy and make trade easier for European merchants. 
 - In **1912**, the British established the **West African Currency Board (WACB)** to issue currency for Nigeria, Gold Coast (Ghana), Sierra Leone, and Gambia. 

@@ -32,7 +32,7 @@ By the end of these notes, you should be able to:
 
 Nigeria became independent on **1 October 1960** with a federal system of government. The country was divided into three large regions: the Northern Region, the Western Region, and the Eastern Region. 
 
-At independence, the central (federal) government in Lagos was controlled by a coalition between the **Northern People's Congress (NPC)** and the **National Council of Nigerian Citizens (NCNC)**. Alhaji Sir Abubakar Tafawa Balewa (NPC) was the Prime Minister, and Dr Nnamdi Azikiwe (NCNC) was the Governor-General. The **Action Group (AG)**, led by Chief Obafemi Awolowo, formed the official opposition.
+At independence, the central (federal) government in Lagos was controlled by a coalition between the **Northern People's Congress (NPC)** and the **National Council of Nigerian Citizens (NCNC)**. Alhaji Sir Abubakar Tafawa Balewa (NPC) was the Prime Minister, and Dr Nnamdi Azikiwe (NCNC) became the Governor-General in November 1960. The **Action Group (AG)**, led by Chief Obafemi Awolowo, formed the official opposition.
 
 However, the politics of the First Republic was dominated by a fierce and bitter struggle among the regional political parties to control the federal government (the centre). 
 
@@ -97,7 +97,7 @@ A new census was ordered and held in 1963. The results announced were:
 The 1963 figures showed massive increases for all regions, but crucially, it maintained the Northern Region's numerical majority over the South. 
 
 ### The controversies generated
-1. **Rejection by the East and West:** The Eastern and Western regional governments (controlled by the NCNC and AG) fiercely rejected the 1963 figures, accusing the North of inflating its numbers. The Premier of the Eastern Region, Dr Michael Okpara, called the figures "worse than useless."
+1. **Rejection by the East:** The Eastern Region government (controlled by the NCNC) fiercely rejected the 1963 figures, accusing the North of inflating its numbers. The Northern Region government accepted them, and so did the Western Region government under Premier Akintola, an ally of the North. The Premier of the Eastern Region, Dr Michael Okpara, called the figures "worse than useless."
 2. **Legal battles:** The Eastern Region took the Federal Government to the Supreme Court to try and nullify the census, but the court ruled that it had no jurisdiction over the matter.
 3. **Deepened ethnic tension:** The census crisis destroyed trust between the regions. The political alliance between the NPC (North) and NCNC (East) broke down, setting the stage for the chaotic 1964 elections. 
 
@@ -106,7 +106,7 @@ The 1963 figures showed massive increases for all regions, but crucially, it mai
 **Objective iv: highlight the key features and significance of the 1963 constitution.**
 **Content d: The 1963 Republican constitution.**
 
-At independence in 1960, Nigeria was still a Dominion within the British Commonwealth. The British Monarch (Queen Elizabeth II) was Nigeria's Head of State, represented locally by a Governor-General (Dr Nnamdi Azikiwe). On **1 October 1963**, exactly three years after independence, Nigeria adopted a new constitution and became a **Republic**. 
+At independence in 1960, Nigeria was still a Dominion within the British Commonwealth. The British Monarch (Queen Elizabeth II) was Nigeria's Head of State, represented locally by a Governor-General (Dr Nnamdi Azikiwe from November 1960). On **1 October 1963**, exactly three years after independence, Nigeria adopted a new constitution and became a **Republic**. 
 
 ### Key features of the 1963 Republican Constitution
 

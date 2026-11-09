@@ -23,7 +23,7 @@ By the end of these notes, you should be able to:
 Before the arrival of the British, the northern part of present-day Nigeria was dominated by the Hausa city-states, which were later conquered and transformed into the Fulani Emirate system.
 
 ### The Pre-jihad Hausa System (The Habe System)
-Before the 1804 Jihad, the Hausa people were organised into fourteen independent city-states. Seven were considered the original, pure Hausa states (**Hausa Bakwai**), such as Kano, Katsina, Zazzau (Zaria), Daura, Gobir, Rano, and Biram. The other seven were the "bastard" or assimilated states (**Banza Bakwai**), such as Ilorin, Nupe, Yauri, and Kebbi.
+Before the 1804 Jihad, the Hausa people were organised into fourteen independent city-states. Seven were considered the original, pure Hausa states (**Hausa Bakwai**), namely Kano, Katsina, Zazzau (Zaria), Daura, Gobir, Rano, and Biram. The other seven were the "bastard" or assimilated states (**Banza Bakwai**), such as Ilorin, Nupe, Yauri, and Kebbi.
 
 **Structural Organization and Functions:**
 *   **The Sarki (King):** Each state was ruled by a king known as the *Sarki*. He was the supreme political and religious leader.
@@ -82,7 +82,7 @@ To help him rule, the Emir appointed a cabinet of senior officials. Unlike the Y
 
 The pre-colonial Yoruba political system was **centralised** but operated with a complex and highly effective system of **checks and balances**. Unlike the absolute power of the Fulani Emirs, Yoruba kings ruled constitutionally. The **Oyo Empire** is the standard model used in JAMB to illustrate the Yoruba political system.
 
-[IMAGE: A circular cycle diagram showing the checks and balances in the Oyo Empire. At the top: 'Alaafin (King)'. Arrow points from Alaafin to 'Oyomesi' (Can appoint members but cannot dismiss them). Arrow points from 'Oyomesi' to 'Alaafin' (Can present an empty calabash to force his suicide). Arrow points from 'Oyomesi' to 'Ogboni' (Ogboni must approve the empty calabash). Arrow points from 'Ogboni' to 'Oyomesi' and 'Alaafin' (Acts as a mediator and religious check on both). Style: Clean flat textbook illustration, white background, bold text and arrows.]
+[IMAGE: A circular cycle diagram showing the checks and balances in the Oyo Empire. At the top: 'Alaafin (King)'. Arrow points from Alaafin to 'Oyomesi' (Must be consulted on major state matters). Arrow points from 'Oyomesi' to 'Alaafin' (Can present an empty calabash to force his suicide). Arrow points from 'Oyomesi' to 'Ogboni' (Ogboni must approve the empty calabash). Arrow points from 'Ogboni' to 'Oyomesi' and 'Alaafin' (Acts as a mediator and religious check on both). Style: Clean flat textbook illustration, white background, bold text and arrows.]
 
 #### Structural Organization and Functions of Political Institutions
 
@@ -131,7 +131,7 @@ The pre-colonial Igbo political system was completely different from the Hausa/F
 *   The smallest political unit was the nuclear family (*Ezi*), headed by the father, who held the family's *Ofo* (a sacred staff representing truth, justice, and ancestral authority).
 *   Several families formed an extended family or kindred (*Umunna*). The oldest man in the Umunna (the *Okpara*) was the leader. He settled internal family disputes and represented the kindred at the village level.
 
-**2. The Council of Elders (Ama-ala / Ndi Ichi):**
+**2. The Council of Elders (Ama-ala / Ndichie):**
 *   The village was the highest effective level of political organisation. The village was governed by a Council of Elders, consisting of the heads of the various *Umunna* (kindreds) and other respected individuals, especially **Ofo title holders** (Ndi Nze na Ozo).
 *   **Functions:** They acted as the executive and judicial branch. They prepared agendas for village meetings, settled serious disputes (like land and murder cases), and formulated policies based on custom and tradition (Omenala).
 
@@ -149,7 +149,7 @@ The pre-colonial Igbo political system was completely different from the Hausa/F
 
 **6. Secret Societies and Oracles:**
 *   **Secret Societies (e.g., Mmanwu/Masquerade, Ekpe):** They were used to enforce laws, especially those laws that people were afraid to enforce openly. They were seen as the spirits of the ancestors disciplining the living.
-*   **Oracles (e.g., The Long Juju of Arochukwu, Agbala of Awka):** Oracles served as the supreme supreme court of appeal. If a dispute could not be resolved by the elders, or if there was a complex mystery (like suspected witchcraft), the case was taken to the oracle, whose decision was final and unquestionable.
+*   **Oracles (e.g., The Long Juju of Arochukwu, Agbala of Awka):** Oracles served as the supreme court of appeal. If a dispute could not be resolved by the elders, or if there was a complex mystery (like suspected witchcraft), the case was taken to the oracle, whose decision was final and unquestionable.
 
 ---
 
@@ -173,7 +173,7 @@ The entire Tiv society saw themselves as descendants of one common ancestor name
 *   Several compounds tracing descent from the same ancestor formed a kindred (*Ipaven*). 
 *   A group of kindreds occupying a specific geographical area formed a **Tar** (territory). The *Tar* is the most important political and social unit tested in JAMB for the Tiv system.
 
-**3. The Council of Elders (Itar):**
+**3. The Council of Elders:**
 *   The Tiv system did not have a formal assembly like the Igbo *Oha-na-eze*. Instead, political power was held by a Council of Elders who were the heads of the various compounds in the *Tar*.
 *   **Functions:** They met to resolve disputes (especially over land and marriage), perform religious rituals, and take decisions concerning war and peace.
 
@@ -182,7 +182,7 @@ The entire Tiv society saw themselves as descendants of one common ancestor name
 *   **Tsav:** This was a mystical power or witchcraft. Elders were believed to possess *Tsav*, which gave them the wisdom and spiritual power to govern, protect the community, and punish evil-doers. To disrespect an elder was to risk being cursed by their *Tsav*.
 *   **Swem:** This was a sacred pot containing ashes and herbs. It was used for oath-taking and to dispense justice. Suspects in serious crimes were made to swear on the *Swem*; it was believed that anyone who swore falsely would suffer a terrible supernatural death.
 
-**5. Age Sets (Kwaghs):**
+**5. Age Sets:**
 *   Like the Igbo, the Tiv grouped men of similar ages into Age Sets.
 *   **Functions:** They were responsible for defending the territory during tribal wars, providing communal labour (farming, building huts), and providing a system of mutual help for their members.
 

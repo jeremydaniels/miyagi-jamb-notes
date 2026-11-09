@@ -219,7 +219,7 @@ Exam questions often ask you to explain *why* a human feature is located where i
 - C. 10
 - D. 50
 
-**Answer: B.** The formula for V.E. is the denominator of the horizontal scale divided by the denominator of the vertical scale. The horizontal scale denominator is 50,000. For the vertical scale, 1 cm to 100 m is 1 cm to 10,000 cm (since 100 × 100 = 10,000), so its denominator is 10,000. V.E. = 50,000 ÷ 10,000 = 5. Option A comes from dividing 100 by 50. Option D comes from dividing 50,000 by 1,000 (forgetting to convert metres to centimetres).
+**Answer: B.** The formula for V.E. is the denominator of the horizontal scale divided by the denominator of the vertical scale. The horizontal scale denominator is 50,000. For the vertical scale, 1 cm to 100 m is 1 cm to 10,000 cm (since 100 × 100 = 10,000), so its denominator is 10,000. V.E. = 50,000 ÷ 10,000 = 5. Option A comes from dividing 100 by 50. Option D comes from converting 100 m to only 1,000 cm (multiplying by 10 instead of 100) and so dividing 50,000 by 1,000. Forgetting to convert at all gives 50,000 ÷ 100 = 500, which is not offered.
 
 **3. Two points at the top and bottom of a hill will NOT be intervisible if the slope between them is**
 

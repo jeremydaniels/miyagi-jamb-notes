@@ -121,7 +121,7 @@ Climatic factors are the elements of weather and climate.
   - *Effects on crops:* Affects the rate of photosynthesis, respiration, and transpiration. Extreme heat causes rapid water loss (wilting) and abortion of flowers. Low temperatures can slow down growth. 
   - *Effects on livestock:* High temperatures cause heat stress, reducing feed intake and milk or egg production, while increasing water intake. Poultry birds may pant heavily to lose heat because they do not have sweat glands.
 - **Light (Sunlight):**
-  - *Effects on crops:* Sunlight is the source of energy for **photosynthesis**. It also affects **photoperiodism** (the response of plants to the length of daylight). Some plants only flower when days are short (short-day plants, e.g., cowpea, cocoa), while others need long days to flower (long-day plants, e.g., wheat).
+  - *Effects on crops:* Sunlight is the source of energy for **photosynthesis**. It also affects **photoperiodism** (the response of plants to the length of daylight). Some plants only flower when days are short (short-day plants, e.g., cowpea and rice), while others need long days to flower (long-day plants, e.g., wheat).
   - *Effects on livestock:* Light stimulates the reproductive cycle in poultry. An increase in day length encourages hens to lay more eggs.
 - **Wind:**
   - *Effects on crops:* Gentle wind helps in the pollination of flowers and dispersal of seeds. However, strong winds can cause **lodging** (uprooting or bending over) of tall crops like maize, rice, and sugarcane. Wind also causes wind erosion in the savanna areas and spreads diseases (e.g., fungal spores).
@@ -178,14 +178,14 @@ Biotic factors are the living organisms in the farming environment. Some are har
 | Biotic factors | The living components of an ecosystem (e.g., pests, parasites, weeds, soil microbes). |
 | Climatic factors | Environmental factors relating to weather and climate (e.g., wind, relative humidity, light). |
 | Edaphic factors | Environmental factors relating to the soil (e.g., soil pH, texture, structure). |
-| Trypanotolerant | The ability of certain livestock breeds (like N'Dama and Muturu cattle) to resist sleeping sickness caused by tse-tse flies. |
+| Trypanotolerant | The ability of certain livestock breeds (like N'Dama and Muturu cattle) to resist trypanosomiasis (nagana) caused by tse-tse flies. |
 | Lodging | The bending over or uprooting of tall crops by strong winds. |
 | Relative Humidity | The amount of water vapour present in the air; high humidity encourages fungal diseases. |
 
 ## Exam tips and common mistakes
 
 - **Sequence of the Savanna:** Remember the order from South to North: **Derived → Guinea → Sudan → Sahel**. The rainfall decreases and the dry season lengthens as you move North.
-- **Tse-tse flies and Cattle:** A very common JAMB question asks why cattle rearing is concentrated in the North (Savanna). The answer is that the Southern Rainforest is heavily infested with tse-tse flies, which cause trypanosomiasis (sleeping sickness).
+- **Tse-tse flies and Cattle:** A very common JAMB question asks why cattle rearing is concentrated in the North (Savanna). The answer is that the Southern Rainforest is heavily infested with tse-tse flies, which cause trypanosomiasis (nagana in cattle).
 - **Abiotic vs Biotic:** Do not confuse these. If it is alive (virus, weed, earthworm, insect), it is **biotic**. If it is not alive (sunlight, soil pH, rainfall, wind), it is **abiotic**.
 - **Edaphic vs Climatic:** Know that "edaphic" strictly refers to soil factors (pH, texture, structure), while "climatic" refers to weather (rainfall, temperature, humidity).
 - **Photoperiodism:** This is governed by **light** (specifically the duration of daylight), not temperature.
@@ -229,7 +229,7 @@ Biotic factors are the living organisms in the farming environment. Some are har
 - C. presence of tall trees for shade
 - D. absence of ticks and tapeworms
 
-**Answer: A.** The rainforest zone is heavily infested with tse-tse flies, which transmit trypanosomiasis (sleeping sickness) to cattle. The savanna has far fewer tse-tse flies.
+**Answer: A.** The rainforest zone is heavily infested with tse-tse flies, which transmit trypanosomiasis (nagana) to cattle. The savanna has far fewer tse-tse flies.
 
 **4. Which of the following is an edaphic factor affecting agricultural production?**
 
@@ -283,7 +283,7 @@ Biotic factors are the living organisms in the farming environment. Some are har
 - C. Muturu cattle
 - D. Balami sheep
 
-**Answer: C.** Muturu and N'Dama cattle are trypanotolerant, meaning they have a natural resistance to sleeping sickness caused by the tse-tse flies prevalent in the rainforest.
+**Answer: C.** Muturu and N'Dama cattle are trypanotolerant, meaning they have a natural resistance to trypanosomiasis (nagana) caused by the tse-tse flies prevalent in the rainforest.
 
 **10. Strong winds on a farm can result in all the following EXCEPT**
 

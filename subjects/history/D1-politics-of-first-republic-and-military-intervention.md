@@ -228,7 +228,7 @@ Ironsi's undoing was his failure to try the January coup plotters (whom Northern
 Decree No. 34 abolished the federal system and the regions, turning Nigeria into a **unitary state**. It also unified the regional civil services. Northern elites and civil servants feared this was a deliberate move to allow the more educationally advanced Southerners (especially Igbo) to take over Northern jobs and dominate the country. The decree triggered violent riots against Igbo people residing in the North in May 1966.
 
 ### The July 1966 Counter-Coup
-On **29 July 1966**, exactly six months after the first coup, Northern army officers struck back in what is often called a "return match". Officers such as Major Murtala Muhammed, Major Theophilus Danjuma, and Captain Martin Adamu led a mutiny against Ironsi.
+On **29 July 1966**, about six months after the first coup, Northern army officers struck back in what is often called a "return match". Officers such as Major Murtala Muhammed, Major Theophilus Danjuma, and Captain Martin Adamu led a mutiny against Ironsi.
 
 Ironsi, who was visiting Ibadan, was arrested and killed along with his host, the Military Governor of the Western Region, **Lt. Col. Adekunle Fajuyi**. The counter-coup resulted in the deaths of many Igbo officers and soldiers. 
 

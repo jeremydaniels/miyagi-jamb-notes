@@ -113,7 +113,7 @@ At independence in 1960, Nigeria was still a Dominion within the British Commonw
 1. **The President replaced the Queen:** The Queen of England ceased to be the Head of State. An indigenous, ceremonial **President** (Dr Nnamdi Azikiwe) became the Head of State, elected by a joint session of the federal parliament for a five-year term.
 2. **Parliamentary system retained:** The Prime Minister (Sir Abubakar Tafawa Balewa) remained the Head of Government, wielding the real executive power. (Nigeria did not switch to a presidential system until 1979).
 3. **Supreme Court as the highest court:** Under the 1960 constitution, the highest court of appeal for Nigeria was the Judicial Committee of the Privy Council in London. The 1963 Constitution abolished this; the **Supreme Court of Nigeria** became the final court of appeal.
-4. **Creation of regions:** The constitution laid down the formal procedures for creating new regions (which had just been used to create the Mid-Western Region earlier in 1963).
+4. **Creation of regions:** The constitution laid down the formal procedures for creating new regions (which had just been used, under the 1960 Constitution, to create the Mid-Western Region in August 1963).
 5. **Emergency powers:** It maintained the federal government's power to declare a state of emergency in any part of the country if law and order broke down.
 
 ### Significance of the 1963 Constitution
@@ -152,7 +152,7 @@ After independence, minority agitations caused intense political tension.
 2. **Refusal in other regions:** The NPC and NCNC refused to allow the creation of the Middle Belt or COR states in their own regions, showing that state creation was being used as a political weapon against the opposition Action Group rather than a genuine effort to help all minorities.
 3. **The Tiv Riots:** In the Middle Belt, frustration over the failure to create a state, coupled with perceived oppression by the regional government, led to violent uprisings known as the Tiv Riots (1960 and 1964). The federal government had to deploy the army to restore order.
 
-[IMAGE: Map of Nigeria in 1964. Show the four regions: a massive Northern Region spanning the top, the Western Region in the southwest, the newly created Mid-Western Region nestled below it, and the Eastern Region in the southeast. Include major cities: Lagos, Ibadan, Benin City, Enugu, Kaduna. Use contrasting pastel colours for each region. Labels to add later: "Northern Region", "Western Region", "Mid-Western Region (created 1963)", "Eastern Region". Clean flat textbook style, white background.]
+[IMAGE: Map of Nigeria in 1964. Show the four regions: a massive Northern Region spanning the top, the Western Region in the southwest, the newly created Mid-Western Region to the east of it, and the Eastern Region in the southeast. Include major cities: Lagos, Ibadan, Benin City, Enugu, Kaduna. Use contrasting pastel colours for each region. Labels to add later: "Northern Region", "Western Region", "Mid-Western Region (created 1963)", "Eastern Region". Clean flat textbook style, white background.]
 
 ## The Action Group crisis and the 1964/65 elections
 

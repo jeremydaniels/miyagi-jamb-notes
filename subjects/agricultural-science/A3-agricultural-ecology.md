@@ -48,7 +48,7 @@ To understand why different crops grow in different regions, we must differentia
 | **Derived Savanna** | Transition zone just north of the rainforest: Osun, Oyo, Enugu, Kogi, Benue | Moderate (1,200 mm to 1,500 mm) | A mixture of tall grasses and scattered rainforest trees. It was originally a rainforest but has been degraded by human activities (farming, bush burning). | Has a clear dry and wet season. Tree cover is gradually reducing. |
 | **Guinea Savanna** | Middle belt: Kwara, Niger, Kaduna, Taraba, Plateau | Moderate (1,000 mm to 1,500 mm) | Tall grasses (elephant grass) and scattered, fire-resistant trees (e.g., locust bean, shea butter). | The largest ecological zone in Nigeria. Known as the "food basket" because it supports both root crops and cereals. |
 | **Sudan Savanna** | Northern states: Kano, Katsina, Jigawa, Sokoto, Bauchi | Low (650 mm to 1,000 mm) | Short grasses and scattered, short, thorny trees (e.g., acacia, baobab, neem). | Long dry season (up to 7 months). Excellent for cereal and legume cultivation, and large-scale livestock rearing. |
-| **Sahel Savanna** | Extreme North-East and North-West: Borno, Yobe | Very low (under 650 mm) | Very short, sparse grasses and drought-resistant, thorny shrubs. Patchy vegetation. | Extremely hot, very long dry season (up to 9 months). High wind erosion. Nomadic pastoralism is common. |
+| **Sahel Savanna** | Extreme North-East (for example Borno and Yobe) and extreme North-West | Very low (under 650 mm) | Very short, sparse grasses and drought-resistant, thorny shrubs. Patchy vegetation. | Extremely hot, very long dry season (up to 9 months). High wind erosion. Nomadic pastoralism is common. |
 
 [IMAGE: A map of Nigeria or West Africa shaded in horizontal bands to show the ecological zones. The southernmost edge along the coast is dark green (Mangrove Swamp). Above it is green (Rainforest). The next band is light green (Derived Savanna). The wide middle section is yellow-green (Guinea Savanna). The northern section is orange-yellow (Sudan Savanna), and the extreme northeast corner is pale yellow (Sahel Savanna). A small purple patch in the middle shows the Montane region (Jos Plateau). A compass rose and a legend matching the colours to the zone names. Clean flat textbook style, white background.]
 
@@ -69,7 +69,7 @@ We can classify the major agricultural products (crops and livestock) according 
   - *Tree crops:* Cocoa, oil palm (*Elaeis guineensis*), rubber, kola nut, citrus, and timber trees (e.g., mahogany, iroko).
   - *Roots and tubers:* Cassava, yam, cocoyam, and sweet potato.
   - *Fruits and Vegetables:* Plantain, banana, pineapple, pepper, and tomato.
-- **Livestock:** Livestock farming is severely limited by the **tse-tse fly**, which transmits trypanosomiasis (sleeping sickness) to cattle. Only **trypanotolerant** breeds (breeds naturally resistant to the disease) like the **Muturu** and **N'Dama** cattle, and West African Dwarf sheep and goats, thrive here. Poultry and piggery are heavily practiced because the animals are usually kept indoors.
+- **Livestock:** Livestock farming is severely limited by the **tse-tse fly**, which transmits trypanosomiasis (called nagana in cattle; sleeping sickness in humans) to cattle. Only **trypanotolerant** breeds (breeds naturally resistant to the disease) like the **Muturu** and **N'Dama** cattle, and West African Dwarf sheep and goats, thrive here. Poultry and piggery are heavily practiced because the animals are usually kept indoors.
 
 #### 3. Derived Savanna
 - **Crops:** Supports a mixture of rainforest and savanna crops. Yam, cassava, maize, cowpea, melon, citrus, and oil palm do well here.
@@ -164,7 +164,7 @@ Biotic factors are the living organisms in the farming environment. Some are har
    - *Effects:* *Rhizobium* bacteria live in the root nodules of leguminous plants (like cowpeas and groundnuts) and fix nitrogen from the air into the soil. Other microbes decompose dead organic matter.
 3. **Pollinators:** Bees, butterflies, and some birds.
    - *Effects:* They transfer pollen from one flower to another, ensuring fertilization and fruit/seed formation.
-4. **Natural Enemies (Predators of Pests):** Ladybird beetles, preying mantises, and some wasps.
+4. **Natural Enemies (Predators of Pests):** Ladybird beetles, praying mantises, and some wasps.
    - *Effects:* They feed on agricultural pests, providing **biological control**. For example, ladybirds eat destructive aphids.
 
 ## Key terms
@@ -177,7 +177,7 @@ Biotic factors are the living organisms in the farming environment. Some are har
 | Abiotic factors | The non-living components of an ecosystem (e.g., rainfall, temperature, soil). |
 | Biotic factors | The living components of an ecosystem (e.g., pests, parasites, weeds, soil microbes). |
 | Climatic factors | Environmental factors relating to weather and climate (e.g., wind, relative humidity, light). |
-| Edaphic factors | Environmental factors relating to the soil (e.g., soil pH, texture, topography). |
+| Edaphic factors | Environmental factors relating to the soil (e.g., soil pH, texture, structure). |
 | Trypanotolerant | The ability of certain livestock breeds (like N'Dama and Muturu cattle) to resist sleeping sickness caused by tse-tse flies. |
 | Lodging | The bending over or uprooting of tall crops by strong winds. |
 | Relative Humidity | The amount of water vapour present in the air; high humidity encourages fungal diseases. |

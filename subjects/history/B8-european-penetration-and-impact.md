@@ -214,7 +214,7 @@ The combined activities of the explorers, the anti-slavery naval squadron, the m
 - C. The quickest land route to South Africa
 - D. The exact location of the ancient city of Timbuktu
 
-**Answer: B.** The African Association sponsored explorers like Mungo Park and the Lander brothers specifically to find out where the River Niger started, which way it flowed, and where it entered the sea.
+**Answer: B.** The African Association sponsored Mungo Park, and the British government sponsored the Lander brothers (1830), specifically to find out where the River Niger started, which way it flowed, and where it entered the sea.
 
 **2. The successful use of quinine to combat malaria on the Niger expedition of 1854 was achieved by**
 - A. Mungo Park

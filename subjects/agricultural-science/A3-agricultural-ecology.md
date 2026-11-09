@@ -61,7 +61,7 @@ Because crops and animals require different amounts of rainfall, sunlight, and t
 We can classify the major agricultural products (crops and livestock) according to the ecological zone that best supports their production.
 
 #### 1. Mangrove Swamp Forest
-- **Crops:** Swamp rice (grown in the flooded areas), rubber, raffia palm, and coconut.
+- **Crops:** Swamp rice (grown in the flooded areas), raffia palm, and coconut. (Rubber is a rainforest crop, not a mangrove crop.)
 - **Livestock/Fishery:** Fishing is the most prominent agricultural activity here due to the abundance of rivers, creeks, and the ocean. Poultry and pig farming can be practiced on raised platforms or drier patches. Cattle rearing is virtually non-existent due to waterlogged soils and disease.
 
 #### 2. Tropical Rainforest

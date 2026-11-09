@@ -93,7 +93,7 @@ In 1852, Umar declared a jihad. His aims were to convert pagans, spread the Tija
 - Unlike previous jihadists, Umar encountered European imperialists. He clashed with the advancing French in Senegal but was blocked, forcing him to direct his conquests eastward.
 - **Conflict with Macina:** In a highly controversial move, Umar attacked the Muslim Macina Empire (Seku Ahmadu's state). He justified this by claiming Macina had allied with the pagan Bambara against him and that they belonged to the rival Qadiriyya order. He conquered Hamdallahi in 1862.
 
-This action alienated many Muslims. The people of Macina rebelled, and Al-Hajj Umar was killed in 1864 while suppressing the revolt. His vast **Tukolor Empire** was inherited by his son, Ahmadu Seku (not to be confused with Seku Ahmadu), who struggled to hold it together against internal revolts and the invading French.
+This action alienated many Muslims. The people of Macina rebelled, and Al-Hajj Umar was killed in 1864 while suppressing the revolt. His vast **Tukolor Empire** was inherited by his son, Ahmadu Tall (Ahmadu Seku) (not to be confused with Seku Ahmadu), who struggled to hold it together against internal revolts and the invading French.
 
 **Key Achievements of Al-Hajj Umar:**
 1. **Military Expansion:** He created one of the largest empires in 19th-century West Africa, stretching across modern Senegal, Guinea, and Mali.
@@ -173,7 +173,7 @@ Despite his brilliance, Samori was cut off from weapons supplies, and his people
 
 ## Exam tips and common mistakes
 
-- **Do not confuse Seku Ahmadu with Ahmadu Seku:** *Seku Ahmadu* founded the Macina Empire. *Ahmadu Seku* was the son of Al-Hajj Umar who inherited the Tukolor Empire. JAMB frequently tests this confusion.
+- **Do not confuse Seku Ahmadu with Ahmadu Tall (Ahmadu Seku):** *Seku Ahmadu* founded the Macina Empire. *Ahmadu Tall (Ahmadu Seku)* was the son of Al-Hajj Umar who inherited the Tukolor Empire. JAMB frequently tests this confusion.
 - **Match the Brotherhoods:** Remember that Sokoto and Macina (Seku Ahmadu) were **Qadiriyya**, while Al-Hajj Umar was **Tijaniyya**.
 - **Know the Capitals:** Seku Ahmadu built **Hamdallahi**. Al-Hajj Umar's early base was **Dinguiraye**. Samori Toure's early capital was **Bissandugu** (and he controlled Kankan).
 - **Al-Hajj Umar's connection to Sokoto:** He did not fight against Sokoto; he stayed there, learned from them, and married into the royal family. He *did* fight against Macina, however.
@@ -204,11 +204,11 @@ Despite his brilliance, Samori was cut off from weapons supplies, and his people
 **2. Which of the following leaders founded the Caliphate of Hamdallahi (Macina Empire)?**
 
 - A. Usman dan Fodio
-- B. Ahmadu Seku
+- B. Ahmadu Tall (Ahmadu Seku)
 - C. Seku Ahmadu
 - D. Al-Hajj Umar
 
-**Answer: C.** Seku Ahmadu founded the Macina Empire and its capital, Hamdallahi. A common mistake is choosing Ahmadu Seku, who was actually the son of Al-Hajj Umar.
+**Answer: C.** Seku Ahmadu founded the Macina Empire and its capital, Hamdallahi. A common mistake is choosing Ahmadu Tall (Ahmadu Seku), who was actually the son of Al-Hajj Umar.
 
 **3. A major difference between the achievements of Seku Ahmadu and Al-Hajj Umar is that Seku Ahmadu:**
 

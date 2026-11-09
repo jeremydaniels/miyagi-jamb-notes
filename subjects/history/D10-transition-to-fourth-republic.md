@@ -92,7 +92,7 @@ The Fourth Republic was officially inaugurated on **29 May 1999**. At the time o
 #### Milestones in Democratic Growth
 
 **1. Survival and Unbroken Continuity**
-The most significant achievement of the Fourth Republic is its survival. Unlike the First Republic (which lasted six years), the Second Republic (four years), and the aborted Third Republic, the Fourth Republic has experienced multiple election cycles without military overthrow. 
+The most significant achievement of the Fourth Republic is its survival. Unlike the First Republic (1963–1966, about three years; some books date it from independence in 1960), the Second Republic (four years), and the aborted Third Republic, the Fourth Republic has experienced multiple election cycles without military overthrow. 
 
 **2. Peaceful Transfers of Power**
 The republic has witnessed significant milestones in the transfer of power:

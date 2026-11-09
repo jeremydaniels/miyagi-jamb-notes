@@ -230,7 +230,7 @@ These nouns are countable in some languages, and many Nigerian speakers use them
 | money | She has many monies. | She has **a lot of money**. (*Monies* exists as a legal/financial term, meaning sums of money, but avoid it in ordinary English.) |
 | hair (on the head) | She plaited her hairs. | She plaited her **hair**. (*a hair / hairs* = individual strands: *There is a hair in my soup.*) |
 | slang | — | **slang** has no plural |
-| offspring | — | **offspring** is the same in singular and plural: *Her offspring are all married.* |
+| offspring | — | **offspring** is the same in singular and plural: *Her offspring are all married.* (Textbooks differ: some list it as a collective or uncountable noun, others as a noun with a zero plural; either way, no *-s*.) |
 
 **To count an uncountable noun**, use a **unit word** (a partitive):
 

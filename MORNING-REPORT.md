@@ -49,11 +49,11 @@ Every file was verified. Each reported problem was checked before editing: numbe
 
 The full table with sources is in `HISTORY-VERIFICATION-LOG.md`. Summary:
 - **Confirmed and fixed:** 17 verifier findings (first pass), plus 5 on the second pass and 3 on the third pass, each against Britannica, Wikipedia, a university or journal source, a national library record or established Nigerian press. Sources are named in the log.
-- **New findings from re-verifying the closed files (follow-up run). Not fixed, because the task limited edits to the seven items; for you to decide:**
-  1. **C5 image:** the eastern line to Maiduguri was built mostly between 1958 and 1964, so it is not strictly colonial. I used the wording you asked for; the verifier suggests "Port Harcourt through Enugu to Kafanchan, with branches to Jos and Kaduna".
-  2. **B2 Question 4 explanation:** says Shehu Umar executed Mai Ibrahim "and his heir"; the main text says the heir, Ali, was killed in battle.
-  3. **C4 railway start:** the notes say the Lagos railway started in 1898; the verifier says construction began in 1896 and reached Abeokuta in 1898 (needs a source).
-  4. **C4 African Continental Bank:** the notes say Azikiwe founded it in 1947; the verifier says 1944, with incorporation in 1947 (needs a source).
+- **New findings from the first follow-up re-verification: all closed (second follow-up run).** Re-verification of the changed files then reported 0 problems.
+  1. **C5 image:** now describes the Lagos to Kano line and the colonial eastern line (Port Harcourt, Enugu, Kafanchan, Kaduna, with a branch to Jos); the Maiduguri extension is noted as completed after independence (early 1960s). Editor decision.
+  2. **B2 Question 4:** the explanation now matches the main text (Mai Ibrahim executed; his heir Ali killed in battle). Editor decision.
+  3. **C4 railway:** now starts in 1896 (Wikipedia, AJOL article). The "reached Abeokuta in 1898" detail was not added because no source gave it.
+  4. **C4 African Continental Bank:** sources conflict (1944, 1948, 1949), so the text says "Azikiwe's bank, which became the African Continental Bank (ACB) in the 1940s".
 - **Spot-checked, no change needed:** about a dozen dates and names (Usman dan Fodio's death in 1817, Abacha's death on 8 June 1998, 29 May 1999, Adwa on 1 March 1896, Muhammad Ali 1805, Ismail 1863 and 1879, the 1882 occupation, the Civil War dates, Lagos 1851 and 1861, Gowon's dates, Nigeria joining the OIC in 1986, the 1 October 1963 constitution).
 - **Closed by editor decision (follow-up run), previously open:** all items below were changed to the standard textbook position and logged in `HISTORY-VERIFICATION-LOG.md`:
   1. **A4, gold:** removed as an export of the Nigeria area (a note says gold from goldfields further west passed through Hausaland in transit). Main exports: slaves, leather goods, kola, ivory, cloth.

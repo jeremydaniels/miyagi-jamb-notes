@@ -89,3 +89,12 @@ Source for every row: standard textbook position, editor decision (no web source
 After the changes I read each file's Quick summary, Key terms and practice questions for matches with the new text; none needed further edits.
 
 New findings after re-verifying these files (not changed; outside the follow-up task, listed in MORNING-REPORT.md): C5 image mentions Maiduguri although that extension dates from 1958 to 1964; B2 Question 4 explanation says Ibrahim's heir was executed while the main text says he was killed in battle; C4 railway start year (1896 versus 1898); C4 African Continental Bank year (1944 versus 1947).
+
+## Follow-up 2: new re-verification findings
+
+| File | Change | Source |
+|---|---|---|
+| C5 | Image now gives the Lagos to Kano line and the colonial eastern line Port Harcourt, Enugu, Kafanchan, Kaduna with a branch to Jos; the Maiduguri extension is noted as completed after independence (early 1960s) | Standard textbook position, editor decision |
+| B2 Q4 | Explanation now matches the main text: Shehu Umar executed Mai Ibrahim, and Ibrahim's heir, Ali, was killed in battle | Standard textbook position, editor decision |
+| C4 railway | The Lagos railway now starts in 1896 (reached Ibadan in 1901, as before). The Abeokuta 1898 date was not added: no source found gave it | Wikipedia (Rail transport in Nigeria: construction began March 1896, Lagos to Ibadan; line opened March 1901); a journal article on Nigerian railway history (AJOL) in the search results |
+| C4 ACB | Sources conflict (1944, 1948 inauguration on 1 September, 1949; no source for 1947), so the text now reads "Azikiwe's bank, which became the African Continental Bank (ACB) in the 1940s" | The Sun (Nigeria), Nairametrics, BusinessDay, a biographical profile (1944, 1948, 1949 respectively) |

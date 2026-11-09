@@ -33,9 +33,8 @@ Human beings, including rulers and presidents, are merely **vicegerents (Khalifa
 
 The Qur'an explicitly states that Allah gives power to whomever He wills and takes it away from whomever He wills. This is beautifully captured in Surah Al-Imran:
 
-> "Say: O Allah! Owner of Sovereignty! Thou givest sovereignty unto whom Thou wilt, and Thou withdrawest sovereignty from whom Thou wilt. Thou exaltest whom Thou wilt, and Thou abasest whom Thou wilt. In Thy hand is the good. Lo! Thou art Able to do all things. 
-> Thou causest the night to pass into the day, and Thou causest the day to pass into the night. And Thou bringest forth the living from the dead, and Thou bringest forth the dead from the living. And Thou givest sustenance to whom Thou choosest, without stint."  
-> *(Q.3:26-27, Pickthall's translation)*
+> "Say: O Allah! Owner of Sovereignty! Thou givest sovereignty unto whom Thou wilt, and Thou withdrawest sovereignty from whom Thou wilt..."
+> *(Q.3:26, Pickthall's translation; Q.3:27 continues the thought and is summarised below)*
 
 **Key lessons from this concept:**
 1. Rulers must remain humble, knowing that their power is temporary and given by Allah.

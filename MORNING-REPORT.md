@@ -33,7 +33,7 @@ Every file was verified. Each reported problem was checked before editing: numbe
 | Commerce | 5 | 5 | 0 left |
 | Geography | 12 | 12 | 0 left in the re-verified files |
 | Agricultural Science | 27 | 27 | 0 left (second pass found 5 more, fixed 4, one "acha" point left as is) |
-| History | 24 | 17 fixed, 7 left for you | 5 findings still open (see below) |
+| History | 24 (22 distinct issues) | 17 issues fixed, 5 left for you | 5 issues still open (see below) |
 
 **Main problems found and fixed**
 - **Accounting:** four practice-question explanations that named the wrong mistake for a wrong option (A6 Q1, A9 Q2, A15 Q2); a goodwill write-off tip that said "new partners" instead of "all partners" (A15); a ledger label (A13); a fire-damage example that did not have enough information to solve (A9); a table row that called discount received an expense (A12).

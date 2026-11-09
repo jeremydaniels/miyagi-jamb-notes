@@ -128,7 +128,7 @@ The **tadpole** (the larva of a frog or toad) lives in water and breathes with g
 3. **Skin:** the tadpole also exchanges some gases through its thin skin.
 4. **Lungs at metamorphosis:** as the tadpole changes into a young frog or toad (**metamorphosis**), it develops **lungs**, the gills disappear, and it comes up to the surface to gulp air. This shows the transition from water to land (see Topic A2c).
 
-[IMAGE: Two stages of a tadpole in side view. Left: a young tadpole with three pairs of feathery external gills (bright red) sticking out on each side behind the head. Right: an older tadpole with the gills covered by skin, and a small opening (the spiracle) on the left side, with arrows showing water entering the mouth and leaving through the spiracle. Labels to add: "young tadpole", "external gills", "older tadpole", "operculum (skin fold covering gills)", "spiracle", "water in through mouth", "water out", "tail". Clean flat textbook style, white background.]
+![An illustration showing a young tadpole with feathery external gills on the left, and an older tadpole on the right showing water flow through mouth and spiracle.](images/B4a-04-tadpole-external-internal-gills.png)
 
 ### Trachea (the tracheal system of insects)
 

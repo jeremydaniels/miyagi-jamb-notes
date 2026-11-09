@@ -1,0 +1,70 @@
+{
+ "B4a-04-tadpole-external-internal-gills": {
+  "labels": [
+   [
+    "young tadpole",
+    [
+     290,
+     476
+    ],
+    "L"
+   ],
+   [
+    "external gills",
+    [
+     263,
+     350
+    ],
+    "L"
+   ],
+   [
+    "older tadpole",
+    [
+     665,
+     512
+    ],
+    "R"
+   ],
+   [
+    "operculum (skin fold covering gills)",
+    [
+     723,
+     427
+    ],
+    "R"
+   ],
+   [
+    "spiracle",
+    [
+     666,
+     482
+    ],
+    "R"
+   ],
+   [
+    "water in through mouth",
+    [
+     908,
+     283
+    ],
+    "R"
+   ],
+   [
+    "water out",
+    [
+     560,
+     457
+    ],
+    "R"
+   ],
+   [
+    "tail",
+    [
+     172,
+     622
+    ],
+    "L"
+   ]
+  ]
+ }
+}

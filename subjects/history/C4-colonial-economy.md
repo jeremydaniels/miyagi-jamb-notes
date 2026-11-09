@@ -122,7 +122,7 @@ Under colonial rule, **manufacturing industry was deliberately discouraged**.
 Colonial commerce (trade) was heavily skewed in favor of Europeans.
 
 ### Expatriate Trading Companies
-Large European firms controlled the import and export trade. The most powerful was the **United Africa Company (UAC)**, formed in 1929 from the merger of the Royal Niger Company and other British firms. Other major companies included **John Holt**, **PZ (Paterson Zochonis)**, and the French companies **CFAO** and **SCOA**.
+Large European firms controlled the import and export trade. The most powerful was the **United Africa Company (UAC)**, formed in 1929 from the merger of the Niger Company (the former Royal Niger Company) and the African and Eastern Trade Corporation. Other major companies included **John Holt**, **PZ (Paterson Zochonis)**, and the French companies **CFAO** and **SCOA**.
 - These companies bought cash crops cheaply from Nigerians and sold imported European goods at high prices.
 - They formed alliances to fix prices, meaning Nigerian farmers could not negotiate for better pay.
 
@@ -136,7 +136,7 @@ Before colonialism, wealthy Nigerian merchants (like Jaja of Opobo and Nana Olom
 To support the European trading companies, the British introduced modern banking to Nigeria.
 
 ### British Banks
-The first successful bank was the **Bank of British West Africa (BBWA)**, established in **1894** (this bank later became First Bank of Nigeria). In 1917, **Barclays Bank** (which later became Union Bank) was established.
+The first successful bank was the **Bank of British West Africa (BBWA)**, established in **1894** (this bank later became First Bank of Nigeria). In 1917, the **Colonial Bank** began operating in Nigeria (Barclays took it over in 1925, and it later became Union Bank).
 - **Discrimination:** These British banks existed almost entirely to serve the colonial government and European merchants. They routinely denied loans and credit to Nigerian businessmen, claiming that Nigerians lacked acceptable collateral (like registered land titles).
 
 ### The Rise of Indigenous Banks
@@ -255,7 +255,7 @@ Frustrated by this discrimination, wealthy Nigerians began establishing their ow
 - C. United Africa Company (UAC)
 - D. John Holt
 
-**Answer: C.** The United Africa Company (UAC) was formed in 1929 from the merger of the Royal Niger Company and other firms, and it dominated the import-export trade.
+**Answer: C.** The United Africa Company (UAC) was formed in 1929 from the merger of the Niger Company (the former Royal Niger Company) and the African and Eastern Trade Corporation, and it dominated the import-export trade.
 
 **10. How did the colonial economy most directly affect rural society?**
 - A. It caused a massive migration of young men from rural villages to urban centers for wage labor.

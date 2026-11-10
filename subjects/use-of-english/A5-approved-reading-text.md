@@ -79,7 +79,7 @@ A plot usually has five stages:
 | Falling action | The results of the climax unfold | She refuses and reports the offer; the cheats are caught |
 | Resolution (denouement) | The story ends; problems are settled | Ada wins a scholarship |
 
-[IMAGE: A plot diagram ("Freytag's pyramid" style) drawn as a mountain-shaped line on a white background. The line rises from the bottom left, peaks in the middle and falls to the bottom right. Five points along the line, each with a small circular marker: bottom left "Exposition", rising slope "Rising action", the peak "Climax", falling slope "Falling action", bottom right "Resolution". A thin arrow along the bottom labelled "Time / order of events". Soft blue line, light orange markers. Clean flat educational illustration, white background.]
+![A mountain-shaped plot diagram displaying stages of plot structure: exposition, rising action, climax, falling action, and resolution along an arrow indicating time.](images/A5-01-freytags-pyramid-plot.png)
 
 ### Setting
 

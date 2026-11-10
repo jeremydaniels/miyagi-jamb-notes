@@ -57,7 +57,7 @@ The female reproductive organ is the **pistil** (or carpel), comprising a stigma
    - Two remain in the centre and fuse to form a single diploid **secondary nucleus** (or polar nuclei).
    - Three move to the bottom, near a small opening in the ovule called the micropyle. The middle one of these three is the **egg cell** (the female gamete), and the two beside it are called synergids.
 
-[IMAGE: Diagram showing gametogenesis side-by-side. Left side: Anther cross-section showing pollen sacs, with a magnified pollen grain showing a tube nucleus and generative nucleus. Right side: An ovule cross-section showing the embryo sac. Inside the embryo sac, label the 3 antipodal cells at the top, the 2 polar nuclei in the centre, and the egg cell flanked by 2 synergids at the bottom near the micropyle. Clean flat textbook style, white background, distinct colours for nuclei.]
+![Diagram comparing plant gametogenesis showing anther cross section with a pollen grain containing two nuclei beside an ovule containing an eight-nucleate embryo sac.](images/B6-01-gametogenesis-floral-cross-section.png)
 
 ## Pollination
 
@@ -163,7 +163,7 @@ While the seed is developing inside, the surrounding **ovary** expands and ripen
 
 **Conclusion of this phase:** The entire **ovary** transforms into the **fruit**.
 
-[IMAGE: A three-part sequence diagram tracing development. Panel 1: A fertilized flower showing the ovary and ovule intact, with petals wilting. Panel 2: The ovary expanding, with the ovule inside becoming a seed with a visible tiny embryo and endosperm. Panel 3: A fully formed fruit (like a tomato or pawpaw) cut open to show the thick fleshy pericarp and the mature seeds inside. Labels connecting parts: "Ovary becomes Fruit", "Ovule becomes Seed", "Zygote becomes Embryo". Clean flat textbook style, white background.]
+![A three-step sequence showing flower fertilization, ovary expansion into a developing seed with an embryo, and a cross section of a mature fruit with seeds.](images/B6-03-flower-fruit-development.png)
 
 #### Summary of Post-Fertilization Changes
 This transformation is heavily tested in JAMB. You must know exactly what each floral part becomes after fertilization:

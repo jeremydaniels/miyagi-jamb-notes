@@ -94,7 +94,7 @@ Where:
 *   $X_{100}$ is the value of the thermometric property at the steam point ($100^\circ\text{C}$).
 *   $(X_{100} - X_0)$ represents the fundamental interval.
 
-[IMAGE: A line graph showing the calibration of a thermometer. The vertical axis is "Temperature (°C)" from 0 to 100. The horizontal axis is "Thermometric Property, X". A straight diagonal line starts at the point (X₀, 0) and goes up to the point (X₁₀₀, 100). Dashed lines show how an unknown property X_θ on the horizontal axis maps to an unknown temperature θ on the vertical axis. Clean flat textbook style, white background.]
+![A thermometer calibration graph plotting temperature against thermometric property X, showing a linear relationship connecting calibration points to find unknown temperature theta.](images/A12-02-thermometer-calibration-line-graph.png)
 
 ### Common mistakes in calibration
 *   **Forgetting to subtract the lower fixed point:** When using the formula, students frequently forget to subtract $X_0$ from $X_\theta$ in the numerator. Always subtract the ice-point value before dividing. For example, if $X_{100}=22.0$, $X_0=2.0$, and $X_\theta=10.0$, the true answer is $\frac{8.0}{20.0}\times 100 = 40^\circ\text{C}$. The wrong calculation $\frac{10.0}{20.0}\times 100$ incorrectly yields $50^\circ\text{C}$.

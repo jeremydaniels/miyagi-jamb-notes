@@ -6,5 +6,9 @@
  [
   "A12-03-temperature-scale-comparison-chart",
   "Three vertical thermometer scales placed side-by-side. The left one is, the middle is \"Kelvin (K)\", and the right is \"Fahrenheit (°F)\". Three horizontal dashed lines cut across all three scales: the top line is and intersects at 100 °C, 373 K, and 212 °F. The middle line is and intersects at 0 °C, 273 K, and 32 °F. The bottom line is and intersects at -273 °C, 0 K, and -459.67 °F."
+ ],
+ [
+  "A12-02-thermometer-calibration-line-graph",
+  "A line graph showing the calibration of a thermometer. The vertical axis is \"Temperature (°C)\" from 0 to 100. The horizontal axis is \"Thermometric Property, X\". A straight diagonal line starts at the point (X₀, 0) and goes up to the point (X₁₀₀, 100). Dashed lines show how an unknown property X_θ on the horizontal axis maps to an unknown temperature θ on the vertical axis."
  ]
 ]

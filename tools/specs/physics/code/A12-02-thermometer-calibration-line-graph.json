@@ -1,0 +1,70 @@
+{
+ "template": "graph",
+ "title": "Calibration of a Thermometer",
+ "x_label": "Thermometric Property, X",
+ "y_label": "Temperature (°C)",
+ "xmax": 10,
+ "ymax": 12,
+ "series": [
+  {
+   "label": "Calibration Line",
+   "points": [
+    [
+     2,
+     0
+    ],
+    [
+     8,
+     10
+    ]
+   ],
+   "smooth": false,
+   "color": "blue",
+   "style": "solid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "X_θ",
+   "y_text": "θ"
+  }
+ ],
+ "points": [
+  {
+   "x": 2,
+   "y": 0,
+   "text": "(X₀, 0)",
+   "dx": -0.8,
+   "dy": 0.5
+  },
+  {
+   "x": 8,
+   "y": 10,
+   "text": "(X₁₀₀, 100)",
+   "dx": -1.5,
+   "dy": 0.5
+  }
+ ],
+ "xticks": [
+  [
+   2,
+   "X₀"
+  ],
+  [
+   8,
+   "X₁₀₀"
+  ]
+ ],
+ "yticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   10,
+   "100"
+  ]
+ ]
+}

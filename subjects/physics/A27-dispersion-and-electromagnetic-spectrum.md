@@ -43,7 +43,7 @@ Crucially, **different colours travel at different speeds in glass**:
 
 Because each colour bends by a slightly different amount, they separate from each other as they pass through the prism.
 
-[IMAGE: A beam of white light hitting the angled face of a triangular glass prism. Inside the prism, the beam splits into different colours. The rays exit the other side spreading out into a spectrum on a white screen. The top ray is labelled "Red (least deviated)" and the bottom ray is labelled "Violet (most deviated)". Clean flat textbook style, white background.]
+![Diagram showing a beam of white light entering a triangular glass prism, dispersing into a spectrum of colors on a screen, with red least deviated and violet most deviated.](images/A27-01-light-dispersion-triangular-prism.png)
 
 ## Production of a Pure Spectrum
 
@@ -59,7 +59,7 @@ The production of a pure spectrum requires four main components:
 3. **A triangular prism**: Because the white light enters the prism as a parallel beam, the rays of each specific colour (e.g., all the red rays) travel parallel to each other inside the prism and do not mix.
 4. **A telescope (or focusing lens)**: A second converging lens collects the parallel beams of different colours and brings all rays of the same colour to focus at exactly the same point on a screen.
 
-[IMAGE: Optical setup for a pure spectrum. Left to right: A light source, a narrow vertical slit, a converging lens (collimator) producing parallel horizontal lines of white light, a triangular prism bending the rays, another converging lens (telescope), and a white screen. The rays exiting the prism are shown as distinct parallel bundles of red, green, and violet light, which are then focused to sharp points on the screen. Clean flat textbook style, white background.]
+![Diagram of an optical setup for producing a pure spectrum, showing light passing through a slit, collimator lens, prism, telescope lens, and focusing onto a screen.](images/A27-02-pure-spectrum-spectrometer-optical.png)
 
 ## Colour Mixing by Addition and Subtraction
 

@@ -1,0 +1,426 @@
+{
+ "B2c-01-food-classes-chart": {
+  "labels": [
+   [
+    "carbohydrates",
+    [
+     562,
+     180
+    ],
+    "R"
+   ],
+   [
+    "proteins",
+    [
+     813,
+     360
+    ],
+    "R"
+   ],
+   [
+    "fats and oils",
+    [
+     818,
+     657
+    ],
+    "R"
+   ],
+   [
+    "vitamins",
+    [
+     586,
+     841
+    ],
+    "R"
+   ],
+   [
+    "mineral salts",
+    [
+     299,
+     774
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     179,
+     517
+    ],
+    "L"
+   ],
+   [
+    "roughage (dietary fibre)",
+    [
+     281,
+     253
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B2c-05-food-groups-market-display": {
+  "labels": [
+   [
+    "carbohydrates",
+    [
+     276,
+     215
+    ],
+    "L"
+   ],
+   [
+    "proteins",
+    [
+     752,
+     245
+    ],
+    "R"
+   ],
+   [
+    "fats and oils",
+    [
+     276,
+     573
+    ],
+    "L"
+   ],
+   [
+    "vitamins (fruits)",
+    [
+     752,
+     552
+    ],
+    "R"
+   ],
+   [
+    "vitamins",
+    [
+     721,
+     573
+    ],
+    "R"
+   ],
+   [
+    "minerals and roughage (vegetables)",
+    [
+     276,
+     849
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     655,
+     834
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-06-food-energy-calorimetry-apparatus": {
+  "labels": [
+   [
+    "clamp stand",
+    [
+     262,
+     563
+    ],
+    "L"
+   ],
+   [
+    "boiling tube",
+    [
+     473,
+     307
+    ],
+    "L"
+   ],
+   [
+    "water (20 cm\u00b3)",
+    [
+     456,
+     486
+    ],
+    "L"
+   ],
+   [
+    "thermometer",
+    [
+     434,
+     204
+    ],
+    "L"
+   ],
+   [
+    "burning groundnut",
+    [
+     435,
+     671
+    ],
+    "L"
+   ],
+   [
+    "mounted needle",
+    [
+     435,
+     732
+    ],
+    "L"
+   ],
+   [
+    "cork",
+    [
+     435,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Bunsen burner",
+    [
+     690,
+     727
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-08-rickets-skeletal": {
+  "labels": [
+   [
+    "normal straight legs",
+    [
+     241,
+     684
+    ],
+    "L"
+   ],
+   [
+    "bow legs (rickets)",
+    [
+     643,
+     706
+    ],
+    "R"
+   ],
+   [
+    "soft bent leg bones",
+    [
+     681,
+     786
+    ],
+    "R"
+   ],
+   [
+    "swollen wrist",
+    [
+     569,
+     396
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-09-goitre-medical": {
+  "labels": [
+   [
+    "goitre (enlarged thyroid gland)",
+    [
+     445,
+     749
+    ],
+    "L"
+   ],
+   [
+    "thyroid gland",
+    [
+     896,
+     220
+    ],
+    "R"
+   ],
+   [
+    "trachea (windpipe)",
+    [
+     855,
+     284
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-10-balanced-diet-plate": {
+  "labels": [
+   [
+    "fruits and vegetables",
+    [
+     322,
+     368
+    ],
+    "L"
+   ],
+   [
+    "starchy foods (carbohydrates)",
+    [
+     706,
+     491
+    ],
+    "R"
+   ],
+   [
+    "protein foods",
+    [
+     650,
+     706
+    ],
+    "R"
+   ],
+   [
+    "milk and dairy",
+    [
+     593,
+     245
+    ],
+    "R"
+   ],
+   [
+    "fats and oils (small amount)",
+    [
+     544,
+     414
+    ],
+    "R"
+   ],
+   [
+    "water",
+    [
+     888,
+     158
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-11-iodine-starch-test-tile": {
+  "labels": [
+   [
+    "iodine solution",
+    [
+     722,
+     446
+    ],
+    "R"
+   ],
+   [
+    "dropper",
+    [
+     404,
+     414
+    ],
+    "L"
+   ],
+   [
+    "white tile",
+    [
+     274,
+     657
+    ],
+    "L"
+   ],
+   [
+    "yam (blue-black: starch present)",
+    [
+     356,
+     619
+    ],
+    "L"
+   ],
+   [
+    "sugar solution (yellow-brown: no starch)",
+    [
+     519,
+     611
+    ],
+    "R"
+   ],
+   [
+    "distilled water control",
+    [
+     684,
+     619
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-15-salivary-amylase-digestion-experiment": {
+  "labels": [
+   [
+    "tube A (starch + saliva)",
+    [
+     419,
+     256
+    ],
+    "L"
+   ],
+   [
+    "tube B (starch + boiled saliva, control)",
+    [
+     603,
+     256
+    ],
+    "R"
+   ],
+   [
+    "water bath at 37 \u00b0C",
+    [
+     312,
+     532
+    ],
+    "L"
+   ],
+   [
+    "thermometer",
+    [
+     731,
+     358
+    ],
+    "R"
+   ],
+   [
+    "iodine: yellow-brown",
+    [
+     151,
+     844
+    ],
+    "L"
+   ],
+   [
+    "Benedict's: brick-red",
+    [
+     273,
+     844
+    ],
+    "L"
+   ],
+   [
+    "iodine: blue-black",
+    [
+     754,
+     844
+    ],
+    "R"
+   ],
+   [
+    "Benedict's: blue",
+    [
+     870,
+     844
+    ],
+    "R"
+   ]
+  ]
+ }
+}

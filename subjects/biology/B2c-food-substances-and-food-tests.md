@@ -52,7 +52,7 @@ The syllabus lists **six classes of food**:
 
 **Textbook variation:** many textbooks add **roughage (dietary fibre)** as a **seventh class**. Others say roughage is not a true nutrient, because it is not digested or absorbed by humans, and treat it as a part of the diet rather than a class of food. The syllabus does not list it, but JAMB questions often ask about its function (preventing constipation), so learn it. In these notes it is covered after water.
 
-[IMAGE: Chart of the classes of food arranged as seven coloured circles around a central plate. Each circle holds a simple drawing of typical Nigerian foods: carbohydrates (yam tuber, garri, rice, bread), proteins (beans, egg, fish, meat), fats and oils (bottle of red palm oil, groundnuts, butter), vitamins (orange, carrot, green ugwu leaves), mineral salts (salt shaker, milk, crayfish), water (glass of water), roughage (okro, whole fruits, vegetables). Labels: carbohydrates, proteins, fats and oils, vitamins, mineral salts, water, roughage (dietary fibre). Soft pastel colours, each class in a different colour. Clean flat textbook style, white background.]
+![Educational chart showing seven colored circles around an empty central plate, depicting the food classes: carbohydrates, proteins, fats and oils, vitamins, minerals, water, and roughage.](images/B2c-01-food-classes-chart.png)
 
 ### Carbohydrates
 
@@ -77,7 +77,7 @@ They are the **main source of energy** in most Nigerian diets, which are based o
 
 Because starch and glycogen are large and insoluble, they are good **storage** molecules: they do not dissolve and do not affect the water balance of cells. Sugars are small and soluble, so they can be **transported** in blood or phloem sap.
 
-[IMAGE: Simple diagram showing carbohydrate building blocks as coloured hexagons. Top row: a single hexagon labelled monosaccharide (glucose). Middle row: two hexagons joined, labelled disaccharide (maltose), with an arrow showing water removed (condensation) and an arrow back showing water added (hydrolysis). Bottom row: a long chain of many hexagons labelled polysaccharide (starch), and a branched chain labelled glycogen. Labels: monosaccharide, disaccharide, polysaccharide, condensation (water removed), hydrolysis (water added), starch, glycogen. Clean flat textbook style, white background.]
+![Diagram of carbohydrates showing a monosaccharide glucose unit, a disaccharide formed via condensation and broken by hydrolysis, and polysaccharides including unbranched starch and branched glycogen.](images/B2c-02-carbohydrate-molecular-schematic.png)
 
 #### Sources of carbohydrates
 
@@ -162,7 +162,7 @@ The body cannot store excess amino acids. In the liver, the nitrogen part (amino
 - A fat or oil molecule (a **triglyceride**) is made of **one glycerol** molecule joined to **three fatty acid** molecules.
 - Digestion (by lipase) breaks them down into **fatty acids and glycerol**.
 
-[IMAGE: Simple diagram of a triglyceride (fat) molecule: a short vertical bar on the left labelled glycerol, with three long zig-zag tails coming off it to the right, each labelled fatty acid. Below, an arrow labelled hydrolysis (digestion by lipase) points to the separated glycerol and three fatty acids. Labels: glycerol, fatty acid (three times), hydrolysis by lipase, glycerol, fatty acids. Clean flat textbook style, white background.]
+![Diagram showing a triglyceride molecule consisting of glycerol and three fatty acids undergoing hydrolysis by lipase to yield separate glycerol and three fatty acids.](images/B2c-03-triglyceride-hydrolysis-schematic.png)
 
 #### Fats compared with oils
 
@@ -212,7 +212,7 @@ Vitamins are divided into two groups:
 | Danger of overdose | Possible (too much vitamin A or D from supplements is harmful) | Rare |
 | Loss in cooking | Fairly stable | Easily lost: they dissolve in cooking water, and vitamin C (and some B vitamins) are destroyed by heat |
 
-[IMAGE: Two-column chart of vitamins. Left column headed fat-soluble with four yellow oil-drop icons labelled A, D, E, K, each with a small food picture (A: carrot and red palm oil; D: sun and egg; E: vegetable oil bottle; K: green leaves). Right column headed water-soluble with blue water-drop icons labelled B1, B2, B3, B12, C, each with a small food picture (B1: unpolished rice and beans; B2: milk and egg; B3: groundnuts and meat; B12: liver and fish; C: orange and guava). Labels: fat-soluble, water-soluble, A, D, E, K, B1, B2, B3, B12, C. Clean flat textbook style, white background.]
+![A two-column chart categorizing vitamins into fat-soluble vitamins A, D, E, and K, and water-soluble vitamins B1, B2, B3, B12, and C, along with their common food sources.](images/B2c-04-vitamin-classification-infographic.png)
 
 #### Vitamin A (retinol)
 
@@ -454,7 +454,7 @@ Most foods contain **more than one** class of food. We say a food is a "source" 
 | **Water** | Drinking water, drinks, soups, fruits (watermelon, oranges), vegetables; metabolic water | H₂O |
 | **Roughage** | Vegetables, fruits with skin, beans, whole grains, unpolished rice, okro | Cellulose |
 
-[IMAGE: Illustrated market-stall style chart of Nigerian food sources grouped into labelled baskets. Basket 1: yam, cassava, garri, rice, maize, plantain. Basket 2: beans, eggs, fish, crayfish, meat, milk. Basket 3: red palm oil bottle, groundnuts, coconut, shea butter. Basket 4: oranges, guava, carrots, mango, pawpaw. Basket 5: green ugwu leaves, efo (spinach), okro, garden egg. Basket 6: glass of water and a watermelon slice. Labels: carbohydrates, proteins, fats and oils, vitamins (fruits), vitamins, minerals and roughage (vegetables), water. Warm soft colours. Clean flat textbook style, white background.]
+![Six woven baskets displaying groups of Nigerian food sources including carbohydrates, proteins, fats and oils, fruits, vegetables, and a glass of water with watermelon slice.](images/B2c-05-food-groups-market-display.png)
 
 **Composition of some common Nigerian foods (main nutrients only):**
 
@@ -533,7 +533,7 @@ Energy per gram = energy released ÷ mass of food burned
 
 **Control/fair test:** use the same mass of food, the same volume of water, the same distance between the flame and the tube, and the same tube for each food.
 
-[IMAGE: Laboratory set-up for measuring the energy in food: a clamp stand holding a boiling tube containing water with a thermometer in it; below the tube, a burning groundnut on the tip of a mounted needle held in a cork. A Bunsen burner sits to one side. Labels: clamp stand, boiling tube, water (20 cm³), thermometer, burning groundnut, mounted needle, cork, Bunsen burner. Clean flat textbook style, white background.]
+![Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.](images/B2c-06-food-energy-calorimetry-apparatus.png)
 
 ### Factors that change the nutritional value of food
 
@@ -652,7 +652,7 @@ A **deficiency disease** is a disease caused by the lack of a particular nutrien
 - **Note for Nigeria:** although Nigeria has plenty of sunshine, rickets still occurs in some Nigerian children. Research in Nigeria has shown that many of these cases are caused mainly by **low calcium intake** (diets low in milk and dairy foods) rather than lack of sunlight. Children kept indoors or fully covered also make less vitamin D.
 - **Prevention:** enough sunlight on the skin; milk, eggs, fish and other foods rich in calcium and vitamin D.
 
-[IMAGE: Simple medical illustration comparing the legs of a healthy child (straight leg bones) with a child with rickets (bow legs curving outwards), shown standing side by side from the front, with the leg bones drawn faintly visible inside the outline. Labels: normal straight legs, bow legs (rickets), soft bent leg bones, swollen wrist. Clean flat textbook style, white background.]
+![Comparison between a healthy child with straight leg bones and a child with rickets showing bowed legs and swollen wrists, with bones visible inside.](images/B2c-08-rickets-skeletal.png)
 
 ### Osteomalacia
 
@@ -699,7 +699,7 @@ A **deficiency disease** is a disease caused by the lack of a particular nutrien
 
 **Note:** goitre can also have other causes (e.g. an overactive thyroid), but in JAMB, goitre is linked to **iodine deficiency**.
 
-[IMAGE: Simple medical illustration of an adult woman's head and neck from the front showing a large rounded swelling at the front of the lower neck (goitre), with a small inset diagram showing the position of the butterfly-shaped thyroid gland on the windpipe. Labels: goitre (enlarged thyroid gland), thyroid gland, trachea (windpipe). Clean flat textbook style, white background.]
+![Medical illustration of a woman with a prominent goitre at the base of her neck, accompanied by an inset diagram showing a normal thyroid gland on the windpipe.](images/B2c-09-goitre-medical.png)
 
 ### Anaemia
 
@@ -745,7 +745,7 @@ A common guide (shown as a **food plate** or **food pyramid**) is:
 
 **Textbook variation:** different countries and textbooks draw the food guide differently (a pyramid, a plate, or a "food wheel") and suggest slightly different proportions. The principle is the same: variety and moderation.
 
-[IMAGE: A balanced diet plate divided into sections, viewed from above, with Nigerian foods: about one third vegetables and fruits (ugwu leaves, tomatoes, carrots, orange slices, pawpaw), about one third starchy foods (jollof rice, boiled yam, plantain), a smaller section of protein foods (fried fish, boiled egg, beans, chicken), a small section of milk and dairy (glass of milk, wara), a tiny section of fats and oils (small bottle of palm oil). A glass of water beside the plate. Labels: fruits and vegetables, starchy foods (carbohydrates), protein foods, milk and dairy, fats and oils (small amount), water. Clean flat textbook style, white background.]
+![A top-down view of a balanced diet plate featuring Nigerian foods arranged in sections, alongside a glass of water.](images/B2c-10-balanced-diet-plate.png)
 
 ### Importance of a balanced diet
 
@@ -819,7 +819,7 @@ A common guide (shown as a **food plate** or **food pyramid**) is:
   - Foods that give a positive result: yam, cassava, garri, rice, maize, bread, potato, cocoyam, unripe plantain.
   - The iodine test is also used to test a leaf for starch as evidence of photosynthesis (see `B2b-plant-nutrition.md`).
 
-[IMAGE: Iodine test for starch on a white spotting tile: a dropper adding brown iodine solution to three wells. The first well contains crushed yam and has turned blue-black, the second contains sugar solution and stays yellow-brown, the third contains distilled water as a control and stays yellow-brown. A small brown bottle of iodine solution stands beside the tile. Labels: iodine solution, dropper, white tile, yam (blue-black: starch present), sugar solution (yellow-brown: no starch), distilled water control. Clean flat textbook style, white background.]
+![An iodine test on a white spotting tile showing three wells containing blue-black and yellow-brown solutions, tested using an eyedropper beside an iodine bottle.](images/B2c-11-iodine-starch-test-tile.png)
 
 ### Test for reducing sugars (Benedict's or Fehling's test)
 
@@ -1047,7 +1047,7 @@ This classic experiment links food tests with digestion (see `B2e-alimentary-can
 
 - **Conclusion:** an enzyme in saliva (**salivary amylase**, or ptyalin) digested starch into a reducing sugar (**maltose**). Boiling destroyed (denatured) the enzyme, so starch in tube B was not digested.
 
-[IMAGE: Experiment on starch digestion by saliva: two test tubes labelled A and B standing in a water bath at 37 °C with a thermometer. Tube A contains starch solution and saliva; tube B contains starch solution and boiled saliva. Below each tube, two small results tubes: for A, iodine test yellow-brown and Benedict's test brick-red; for B, iodine test blue-black and Benedict's test blue. Labels: tube A (starch + saliva), tube B (starch + boiled saliva, control), water bath at 37 °C, thermometer, iodine: yellow-brown, Benedict's: brick-red, iodine: blue-black, Benedict's: blue. Clean flat textbook style, white background.]
+![An experiment showing two test tubes in a water bath with a thermometer, alongside small results tubes showing iodine and Benedict test results.](images/B2c-15-salivary-amylase-digestion-experiment.png)
 
 ## Key terms
 

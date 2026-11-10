@@ -407,5 +407,63 @@
    ]
   ]
  },
- "B8-11-epigeal-hypogeal-comparison": {}
+ "B8-11-epigeal-hypogeal-comparison": {},
+ "B8-12-seed-food-mobilisation-flowchart": {
+  "caption_below": "Gibberellin triggers enzymes (amylase, protease) to produce soluble sugars and amino acids.",
+  "regions": [
+   "aleurone layer",
+   "endosperm (starch)",
+   "scutellum (absorbs food)"
+  ],
+  "labels": [
+   [
+    "embryo",
+    [
+     500,
+     760
+    ],
+    "L"
+   ],
+   [
+    "aleurone layer",
+    [
+     775,
+     277
+    ],
+    "R"
+   ],
+   [
+    "endosperm (starch)",
+    [
+     357,
+     274
+    ],
+    "L"
+   ],
+   [
+    "scutellum (absorbs food)",
+    [
+     476,
+     613
+    ],
+    "L"
+   ],
+   [
+    "growing plumule",
+    [
+     636,
+     619
+    ],
+    "R"
+   ],
+   [
+    "growing radicle",
+    [
+     601,
+     826
+    ],
+    "R"
+   ]
+  ]
+ }
 }

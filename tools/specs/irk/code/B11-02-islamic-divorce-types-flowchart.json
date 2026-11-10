@@ -1,0 +1,65 @@
+{
+ "template": "flowchart",
+ "title": "Dissolution of Marriage in Islamic Law",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "Dissolution of Marriage",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "talaq",
+   "text": "Talaq\n(By Husband)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "khul",
+   "text": "Khul'\n(By Wife)",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "faskh",
+   "text": "Faskh\n(By Judge)",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "mubaraah",
+   "text": "Mubara'ah\n(Mutual Consent)",
+   "shape": "round",
+   "color": "cyan"
+  },
+  {
+   "id": "lian",
+   "text": "Li'an\n(Mutual Cursing)",
+   "shape": "round",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "talaq"
+  },
+  {
+   "from": "root",
+   "to": "khul"
+  },
+  {
+   "from": "root",
+   "to": "faskh"
+  },
+  {
+   "from": "root",
+   "to": "mubaraah"
+  },
+  {
+   "from": "root",
+   "to": "lian"
+  }
+ ]
+}

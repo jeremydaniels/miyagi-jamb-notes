@@ -63,7 +63,7 @@ Islamic law strictly defines which women a man is not allowed to marry. These pr
 
 These categories are detailed in Surat an-Nisa' (Q.4:22-24).
 
-[IMAGE: A family tree diagram highlighting women a man is permanently prohibited from marrying. The man is in the centre. Red arrows point to a grandmother, mother, sister, daughter, granddaughter, paternal aunt, and maternal aunt. The nodes are clearly labelled. Clean flat textbook style, white background.]
+![Diagram showing permanently prohibited marriage relationships for a man, branching out to grandmother, mother, paternal aunt, maternal aunt, sister, daughter, and granddaughter.](images/B11-01-prohibited-marriage-mahram-tree.png)
 
 ### Conditions for the validity of marriage
 
@@ -155,7 +155,7 @@ Islamic law outlines several ways a marriage can be dissolved.
 | **Mubara'ah** | Dissolution by **mutual consent**. Both the husband and wife agree to end the marriage and mutually forgive each other of any financial rights or obligations. |
 | **Li'an** | **Mutual cursing**. If a husband accuses his wife of adultery but has no witnesses, they both swear solemn oaths invoking Allah's curse if they are lying (Q.24:6-9). The marriage is permanently and irrevocably dissolved immediately. |
 
-[IMAGE: A flowchart showing the different types of Islamic divorce. At the top, a box says "Dissolution of Marriage". Lines lead down to five boxes: "Talaq (By Husband)", "Khul' (By Wife)", "Faskh (By Judge)", "Mubara'ah (Mutual Consent)", and "Li'an (Mutual Cursing)". Clean flat textbook style, white background.]
+![A flowchart showing dissolution of marriage branching into five types: Talaq, Khul, Faskh, Mubaraah, and Lian, along with who initiates each form of divorce.](images/B11-02-islamic-divorce-types-flowchart.png)
 
 ### Kinds of Iddah
 
@@ -254,7 +254,7 @@ Below is a table of the primary Qur'anic heirs and their shares:
 | | If the deceased leaves no children and at most one sibling | **1/3** |
 | **Kalalah** (Siblings) | If a person dies leaving neither parents nor children (Kalalah, Q.4:176), a single full sister gets **1/2**; two or more get **2/3**. A full brother takes all as a residuary. |
 
-[IMAGE: A pie chart showing the inheritance shares for a deceased man who leaves a wife and one son. A small slice labelled "Wife: 1/8 (Sharer)" and a large remaining slice labelled "Son: 7/8 (Residuary)". Clean flat textbook style, white background.]
+![A pie chart showing inheritance distribution between a wife receiving one-eighth as a sharer and a son receiving seven-eighths as residuary.](images/B11-03-inheritance-shares-pie-chart.png)
 
 ## Key terms
 

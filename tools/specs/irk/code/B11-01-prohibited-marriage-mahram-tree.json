@@ -1,0 +1,92 @@
+{
+ "template": "flowchart",
+ "title": "Permanently Prohibited Relationships for Marriage (Mahram)",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "gm",
+   "text": "Grandmother",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "m",
+   "text": "Mother",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "pa",
+   "text": "Paternal Aunt",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "ma",
+   "text": "Maternal Aunt",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "man",
+   "text": "Man (Central)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "sis",
+   "text": "Sister",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "d",
+   "text": "Daughter",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "gd",
+   "text": "Granddaughter",
+   "shape": "round",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "man",
+   "to": "gm",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "m",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "pa",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "ma",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "sis",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "d",
+   "label": "Prohibited"
+  },
+  {
+   "from": "man",
+   "to": "gd",
+   "label": "Prohibited"
+  }
+ ]
+}

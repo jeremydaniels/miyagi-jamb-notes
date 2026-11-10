@@ -1,0 +1,19 @@
+{
+ "template": "chart",
+ "kind": "pie",
+ "categories": [
+  "Wife: 1/8 (Sharer)",
+  "Son: 7/8 (Residuary)"
+ ],
+ "series": [
+  {
+   "label": "Inheritance Share",
+   "values": [
+    12.5,
+    87.5
+   ]
+  }
+ ],
+ "title": "Inheritance Shares: Wife and One Son",
+ "values_shown": true
+}

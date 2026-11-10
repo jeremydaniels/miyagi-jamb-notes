@@ -54,5 +54,17 @@
  [
   "B6a-16-auxin-geotropism-response",
   "Diagram of a bean seedling placed horizontally showing auxin and geotropism. Top: the seedling lying on its side with dots (auxin) collecting on the lower side of both the plumule (shoot) and the radicle (root), with a downward arrow labelled gravity. Bottom: the same seedling a day later, with the shoot curving upwards (lower side cells longer) and the root curving downwards (upper side cells longer). Small enlarged cell diagrams show long cells on the lower side of the shoot and long cells on the upper side of the root."
+ ],
+ [
+  "B6a-11-nyctinastic-plant-movements",
+  "Day and night views of three leguminous plants, arranged in three columns (Bauhinia, flamboyant, Mimosa pudica), each with a \"day\" row on top (bright sunny background tint) and a \"night\" row below (deep blue background tint with a moon). Bauhinia: a two-lobed leaf open by day and folded together along the midrib by night. Flamboyant: a feathery twice-compound leaf with many small leaflets spread by day and folded in pairs by night. Mimosa pudica: leaflets spread by day and folded with the leaf drooping by night. Add an enlarged inset of a pulvinus at the base of a leaf."
+ ],
+ [
+  "B6a-13-root-growth-marking-experiment",
+  "Before and after diagram of the root-marking experiment. Left (\"start\"): a germinating bean seed with a straight radicle hanging downwards, marked with ten evenly spaced black ink lines 2 mm apart from the tip. Right (\"after 48 hours\"): the same seedling, with a longer radicle; the marks near the tip are only slightly further apart, the marks in the region 2 to 10 mm behind the tip are widely spaced, and the marks near the seed are still close together. A small ruler beside each."
+ ],
+ [
+  "B6a-17-auxin-concentration-response-curve",
+  "A simple line graph with \"auxin concentration (increasing)\" on the horizontal axis (log scale) and \"growth (stimulation above the line, inhibition below)\" on the vertical axis, with a horizontal zero line. Two curves: a green \"root\" curve that rises above zero at very low concentrations, peaks early, then falls below zero; and a blue \"shoot\" curve that peaks much further to the right at a higher concentration before falling below zero."
  ]
 ]

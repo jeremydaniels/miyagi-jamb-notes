@@ -1094,5 +1094,71 @@
     "L"
    ]
   ]
+ },
+ "B6a-11-nyctinastic-plant-movements": {
+  "caption_below": "Day: leaves open; night: leaves folded (sleep position).",
+  "labels": [
+   [
+    "Bauhinia",
+    [
+     186,
+     223
+    ],
+    "L"
+   ],
+   [
+    "flamboyant (Delonix regia)",
+    [
+     523,
+     241
+    ],
+    "R"
+   ],
+   [
+    "Mimosa pudica",
+    [
+     831,
+     253
+    ],
+    "R"
+   ],
+   [
+    "pulvinus",
+    [
+     886,
+     901
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-13-root-growth-marking-experiment": {
+  "caption_below": "Start with ink marks 2 mm apart; after 48 hours marks widely spaced in zone of elongation, unchanged in older region.",
+  "labels": [
+   [
+    "bean seed",
+    [
+     223,
+     261
+    ],
+    "L"
+   ],
+   [
+    "radicle",
+    [
+     263,
+     528
+    ],
+    "L"
+   ],
+   [
+    "root tip",
+    [
+     260,
+     702
+    ],
+    "L"
+   ]
+  ]
  }
 }

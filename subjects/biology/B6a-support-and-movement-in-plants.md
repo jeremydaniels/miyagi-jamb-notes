@@ -546,7 +546,7 @@ A **nastic movement** (nasty) is a movement of **part of a plant** in response t
 
 **Sleep movements and Mimosa compared:** the folding of *Mimosa pudica* when **touched** is **thigmonasty** (fast, seconds); its folding **at night** is a **sleep movement** (nyctinasty, slower, daily rhythm). Both use pulvini.
 
-[IMAGE: Day and night views of three leguminous plants, arranged in three columns (Bauhinia, flamboyant, Mimosa pudica), each with a "day" row on top (bright sunny background tint) and a "night" row below (deep blue background tint with a moon). Bauhinia: a two-lobed leaf open by day and folded together along the midrib by night. Flamboyant: a feathery twice-compound leaf with many small leaflets spread by day and folded in pairs by night. Mimosa pudica: leaflets spread by day and folded with the leaf drooping by night. Add an enlarged inset of a pulvinus at the base of a leaf. Labels: Bauhinia, flamboyant (Delonix regia), Mimosa pudica, day: leaves open, night: leaves folded (sleep position), pulvinus. Clean flat textbook style, white background.]
+![Comparison of day and night leaf positions in Bauhinia, flamboyant, and Mimosa pudica plants across six panels, with an inset showing an enlarged pulvinus.](images/B6a-11-nyctinastic-plant-movements.png)
 
 ### Comparison of the types of plant movement
 
@@ -613,7 +613,7 @@ Behind the tip of a growing root (e.g. a bean or maize radicle), four regions ca
 
 The same experiment can be done on a young shoot, marking it just below the tip; the region of greatest growth is a little behind the shoot tip.
 
-[IMAGE: Before and after diagram of the root-marking experiment. Left ("start"): a germinating bean seed with a straight radicle hanging downwards, marked with ten evenly spaced black ink lines 2 mm apart from the tip. Right ("after 48 hours"): the same seedling, with a longer radicle; the marks near the tip are only slightly further apart, the marks in the region 2 to 10 mm behind the tip are widely spaced, and the marks near the seed are still close together. A small ruler beside each. Labels: bean seed, radicle, ink marks 2 mm apart, start, after 48 hours, marks widely spaced (zone of elongation), marks unchanged (older region), root tip. Clean flat textbook style, white background.]
+![Diagram comparing a germinating bean radicle marked with evenly spaced lines at the start and after growth showing elongation just behind the root tip.](images/B6a-13-root-growth-marking-experiment.png)
 
 ### Regions of growth in the shoot
 
@@ -712,7 +712,7 @@ The different responses of roots and shoots can be summarised:
 
 So the **optimum** (best) auxin concentration for root growth is **much lower** than for shoot growth.
 
-[IMAGE: A simple line graph with "auxin concentration (increasing)" on the horizontal axis (log scale) and "growth (stimulation above the line, inhibition below)" on the vertical axis, with a horizontal zero line. Two curves: a green "root" curve that rises above zero at very low concentrations, peaks early, then falls below zero; and a blue "shoot" curve that peaks much further to the right at a higher concentration before falling below zero. Labels: root, shoot, stimulation, inhibition, optimum for root, optimum for shoot, auxin concentration, growth. Clean flat textbook style, white background.]
+![A graph showing plant growth response to increasing auxin concentration, with separate curves illustrating stimulation and inhibition for root and shoot growth relative to a baseline.](images/B6a-17-auxin-concentration-response-curve.png)
 
 ### Classic experiments on auxins and phototropism
 

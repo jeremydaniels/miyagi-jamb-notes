@@ -1,0 +1,120 @@
+{
+ "template": "graph",
+ "title": "Effect of Auxin Concentration on Root and Shoot Growth",
+ "x_label": "auxin concentration (increasing)",
+ "y_label": "growth",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "",
+   "points": [
+    [
+     0,
+     5
+    ],
+    [
+     10,
+     5
+    ]
+   ],
+   "smooth": false,
+   "color": "gray",
+   "style": "dashed"
+  },
+  {
+   "label": "root",
+   "points": [
+    [
+     0.5,
+     5
+    ],
+    [
+     1.5,
+     7.5
+    ],
+    [
+     2.5,
+     8.5
+    ],
+    [
+     3.5,
+     7
+    ],
+    [
+     4.5,
+     5
+    ],
+    [
+     6,
+     2
+    ]
+   ],
+   "smooth": true,
+   "color": "green",
+   "style": "solid",
+   "label_at": "mid"
+  },
+  {
+   "label": "shoot",
+   "points": [
+    [
+     2.5,
+     5
+    ],
+    [
+     5,
+     6
+    ],
+    [
+     7,
+     8.5
+    ],
+    [
+     8,
+     6.8
+    ],
+    [
+     9,
+     5
+    ],
+    [
+     9.8,
+     2.5
+    ]
+   ],
+   "smooth": true,
+   "color": "blue",
+   "style": "solid",
+   "label_at": "mid"
+  }
+ ],
+ "notes": [
+  {
+   "x": 2.5,
+   "y": 9.2,
+   "text": "optimum for root"
+  },
+  {
+   "x": 7,
+   "y": 9.2,
+   "text": "optimum for shoot"
+  },
+  {
+   "x": 1.5,
+   "y": 8.5,
+   "text": "stimulation"
+  },
+  {
+   "x": 1.5,
+   "y": 1.5,
+   "text": "inhibition"
+  }
+ ],
+ "yticks": [
+  [
+   5,
+   "0"
+  ]
+ ]
+}

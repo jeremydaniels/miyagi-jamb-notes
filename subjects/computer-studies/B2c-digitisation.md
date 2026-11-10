@@ -49,7 +49,7 @@ In manual digitisation, a person physically traces the lines of a hardcopy (pape
 
 **Characteristics:** It is slow, requires a lot of human effort, and its accuracy depends entirely on how steady the person's hand is. 
 
-[IMAGE: A user performing manual digitisation. A large flat digitising tablet is on a desk with a paper map taped to it. The user's hand is holding a digitising puck (a mouse-like device with a clear plastic extension showing a crosshair) over a line on the map. A computer monitor nearby shows the digital lines being created. Clean flat textbook illustration, white background.]
+![A person uses a digitising puck on a tablet to trace a map with the lines appearing on a nearby monitor](images/B2c-01-user-performing-manual-digitisation.png)
 
 ### 2. Heads-up Digitisation (On-screen Digitisation)
 "Heads-up" gets its name because the user keeps their head up, looking at the computer monitor, instead of looking down at a digitising tablet. 
@@ -135,7 +135,7 @@ Multimedia means combining multiple types of media (text, image, audio, video) i
 *   **HTML (Hypertext Markup Language):** The format for web pages. A single web page can contain text, images, videos, and clickable links.
 *   **PPTX (Microsoft PowerPoint):** A presentation file that can hold text, images, audio, video, and slide animations.
 
-[IMAGE: A graphic showing six folders labelled Image, Audio, Video, Motion, Text, and Multimedia. Inside each folder are smaller icons showing common file extensions. Image: JPG, PNG. Audio: MP3, WAV. Video: MP4, AVI. Motion: GIF, BVH. Text: PDF, DOCX, TXT. Multimedia: HTML, PPTX. Clean flat textbook illustration, white background.]
+![Six folders showing media types. From top left: Image, Audio, Video, Motion, Text, and Multimedia. Each folder contains icons representing common file formats.](images/B2c-02-graphic-six-folders-labelled.png)
 
 ## Key terms
 

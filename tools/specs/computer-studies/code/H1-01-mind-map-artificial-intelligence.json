@@ -1,0 +1,13 @@
+{
+ "template": "hub",
+ "title": "Branches of Artificial Intelligence",
+ "center": "Artificial\nIntelligence",
+ "spokes": [
+  "Machine Learning",
+  "Neural Networks",
+  "Deep Learning",
+  "Expert Systems",
+  "Fuzzy Logic",
+  "Natural Language\nProcessing"
+ ]
+}

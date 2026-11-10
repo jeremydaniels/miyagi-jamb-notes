@@ -38,7 +38,7 @@ To simulate human intelligence, AI systems typically carry out three cognitive p
 
 Because human intelligence is complex, AI is broken down into several branches, each focusing on a different way of simulating thought or solving problems. The JAMB syllabus identifies the following major branches:
 
-[IMAGE: A mind map showing Artificial Intelligence at the centre, branching out into Machine Learning, Neural Networks, Deep Learning, Expert Systems, Fuzzy Logic, and Natural Language Processing. Clean flat textbook illustration, white background.]
+![Mind map showing Artificial Intelligence branching into Machine Learning, Neural Networks, Deep Learning, Expert Systems, Fuzzy Logic, and Natural Language Processing.](images/H1-01-mind-map-artificial-intelligence.png)
 
 ### 1. Machine Learning (ML)
 
@@ -64,7 +64,7 @@ A neural network is made up of artificial "neurons" (called nodes) arranged in i
 
 When a neural network learns, it adjusts the strength (weights) of the connections between its nodes until it can accurately solve the problem.
 
-[IMAGE: Diagram of a simple Artificial Neural Network. Three columns of circles (nodes). The first column is labeled "Input Layer" (3 nodes), the middle column is "Hidden Layer" (4 nodes), and the final column is "Output Layer" (2 nodes). Lines connect every node in a layer to every node in the next layer. Clean flat textbook illustration, white background.]
+![Diagram of a neural network showing a three node input layer connected to a four node hidden layer connected to a two node output layer](images/H1-02-simple-artificial-neural-network.png)
 
 ### 3. Deep Learning
 

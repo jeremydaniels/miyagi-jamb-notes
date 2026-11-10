@@ -1,23 +1,20 @@
 {
  "A10-01-trade-barter": {
   "caption_below": "Trade by barter",
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Farmer offering yam",
-    [
-     292,
-     437
-    ],
-    "L"
+    "Farmer offering\nyam",
+    350,
+    943
    ],
    [
-    "Potter offering clay pot",
-    [
-     774,
-     435
-    ],
-    "R"
+    "Potter offering\nclay pot",
+    694,
+    945
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

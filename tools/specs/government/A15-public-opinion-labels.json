@@ -1,0 +1,38 @@
+{
+ "A15-01-public-opinion-expression-panels": {
+  "labels": [
+   [
+    "Opinion Polls",
+    [
+     253,
+     278
+    ],
+    "L"
+   ],
+   [
+    "Peaceful Protests",
+    [
+     768,
+     290
+    ],
+    "R"
+   ],
+   [
+    "Elections",
+    [
+     239,
+     741
+    ],
+    "L"
+   ],
+   [
+    "Media Phone-in Programmes",
+    [
+     749,
+     749
+    ],
+    "R"
+   ]
+  ]
+ }
+}

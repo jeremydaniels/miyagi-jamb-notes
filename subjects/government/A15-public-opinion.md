@@ -48,7 +48,7 @@ For a government to act on public opinion, it must first know what that opinion 
 - **Protests and Demonstrations:** When citizens take to the streets peacefully (or sometimes violently), it is a clear and loud measurement of public opinion against a specific policy (e.g., the EndSARS protests in 2020 against police brutality).
 - **Direct Communication:** Citizens writing letters, sending emails, or paying visits to their elected representatives (Senators, House of Representatives members) helps the government measure public feeling.
 
-[IMAGE: A four-panel illustration showing different ways public opinion is expressed and measured. Top-left: A pollster with a clipboard talking to a market woman. Top-right: A group of citizens holding placards in a peaceful street protest. Bottom-left: A citizen dropping a ballot paper into a voting box. Bottom-right: A radio presenter with a microphone taking a phone call from a listener. Labels to add later: "Opinion Polls", "Peaceful Protests", "Elections", "Media Phone-in Programmes". Clean flat textbook illustration, white background.]
+![A four-panel illustration showing an opinion poll interview, a peaceful street protest with placards, a citizen voting at a ballot box, and a radio host taking a call.](images/A15-01-public-opinion-expression-panels.png)
 
 ## Compare methods of assessing public opinion
 

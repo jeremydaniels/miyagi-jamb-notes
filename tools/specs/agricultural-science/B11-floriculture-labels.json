@@ -1,31 +1,20 @@
 {
  "B11-01-tree-shrub-herbaceous-flower": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Tree (Single woody trunk)",
-    [
-     314,
-     637
-    ],
-    "L"
+    "Tree (Single woody trunk);\nShrub (Multiple woody stems\nfrom base)",
+    317,
+    915
    ],
    [
-    "Shrub (Multiple woody stems from base)",
-    [
-     538,
-     811
-    ],
-    "R"
-   ],
-   [
-    "Herbaceous flower (Soft, green, non-woody stem)",
-    [
-     865,
-     749
-    ],
-    "R"
+    "Herbaceous\nflower (Soft,\ngreen, non-\nwoody stem)",
+    860,
+    916
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B11-02-gardener-hedge-maintenance": {
   "caption_below": "Gardener trimming hedge.",

@@ -157,7 +157,7 @@ Insects (e.g. the **cockroach**, grasshopper, housefly, bee) breathe by a system
 
 **Limitation:** diffusion along tracheae works well only over short distances. This is one reason why insects are small.
 
-![Diagram of a cockroach tracheal system showing spiracles and tracheal trunks, with insets of tracheoles terminating at muscle cells and a detailed spiracle structure with valve and hairs.](images/B4a-05-cockroach-tracheal-system-anatomy.png)
+[IMAGE: Top view (dorsal view) of a cockroach outline showing the tracheal system in silver-white: ten pairs of spiracles along the sides (two on the thorax, eight on the abdomen), each leading to short tracheae that join two main longitudinal tracheal trunks along each side, with branches to the legs, head and organs. An inset shows an enlarged trachea with spiral chitin thickening branching into very fine tracheoles ending among muscle cells, with a little fluid at the tracheole ends. Another inset shows a spiracle with hairs and a valve. Labels to add: "spiracle", "thoracic spiracles (2 pairs)", "abdominal spiracles (8 pairs)", "trachea", "longitudinal tracheal trunk", "spiral chitin thickening", "tracheoles", "fluid at tracheole end", "muscle cell", "valve", "hairs (filter dust)". Clean flat textbook style, white background.]
 
 ### Lungs
 
@@ -244,7 +244,7 @@ Birds are very active, warm-blooded animals that fly, which needs a great deal o
 - They lead to an extensive system of **air spaces**, giving the mesophyll cells a huge, **moist** surface.
 - They can **open and close** to balance the need for CO₂ (photosynthesis) against the danger of losing too much water.
 
-![Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.](images/B4a-08-leaf-epidermis-stomata-structure.png)
+[IMAGE: Surface view of a piece of lower leaf epidermis showing irregular, jigsaw-shaped epidermal cells without chloroplasts and several stomata, each between two kidney-shaped guard cells containing green chloroplasts; one stoma drawn open and one closed. Beside it, a small vertical section through a stoma showing the guard cells, the pore and the substomatal air space leading into the spongy mesophyll. A small inset shows dumbbell-shaped guard cells of a grass. Labels to add: "epidermal cell", "guard cell", "chloroplast", "stoma (open)", "stoma (closed)", "thick inner wall", "thin outer wall", "substomatal air space", "spongy mesophyll", "grass stoma (dumbbell-shaped guard cells)". Clean flat textbook style, white background.]
 
 ### Lenticels
 

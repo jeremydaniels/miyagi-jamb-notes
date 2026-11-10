@@ -233,98 +233,6 @@
    ]
   ]
  },
- "B4a-05-cockroach-tracheal-system-anatomy": {
-  "labels": [
-   [
-    "spiracle",
-    [
-     802,
-     823
-    ],
-    "R"
-   ],
-   [
-    "thoracic spiracles (2 pairs)",
-    [
-     443,
-     373
-    ],
-    "L"
-   ],
-   [
-    "abdominal spiracles (8 pairs)",
-    [
-     479,
-     626
-    ],
-    "L"
-   ],
-   [
-    "trachea",
-    [
-     653,
-     140
-    ],
-    "R"
-   ],
-   [
-    "longitudinal tracheal trunk",
-    [
-     436,
-     520
-    ],
-    "L"
-   ],
-   [
-    "spiral chitin thickening",
-    [
-     693,
-     200
-    ],
-    "R"
-   ],
-   [
-    "tracheoles",
-    [
-     787,
-     296
-    ],
-    "R"
-   ],
-   [
-    "fluid at tracheole end",
-    [
-     835,
-     358
-    ],
-    "R"
-   ],
-   [
-    "muscle cell",
-    [
-     917,
-     352
-    ],
-    "R"
-   ],
-   [
-    "valve",
-    [
-     811,
-     780
-    ],
-    "R"
-   ],
-   [
-    "hairs (filter dust)",
-    [
-     816,
-     680
-    ],
-    "R"
-   ]
-  ]
- },
  "B4a-06-human-respiratory-system-anatomy": {
   "labels": [
    [
@@ -452,90 +360,6 @@
     [
      843,
      709
-    ],
-    "R"
-   ]
-  ]
- },
- "B4a-08-leaf-epidermis-stomata-structure": {
-  "labels": [
-   [
-    "epidermal cell",
-    [
-     399,
-     199
-    ],
-    "L"
-   ],
-   [
-    "guard cell",
-    [
-     220,
-     312
-    ],
-    "L"
-   ],
-   [
-    "chloroplast",
-    [
-     303,
-     266
-    ],
-    "L"
-   ],
-   [
-    "stoma (open)",
-    [
-     254,
-     305
-    ],
-    "L"
-   ],
-   [
-    "stoma (closed)",
-    [
-     547,
-     430
-    ],
-    "R"
-   ],
-   [
-    "thick inner wall",
-    [
-     235,
-     307
-    ],
-    "L"
-   ],
-   [
-    "thin outer wall",
-    [
-     179,
-     305
-    ],
-    "L"
-   ],
-   [
-    "substomatal air space",
-    [
-     819,
-     793
-    ],
-    "R"
-   ],
-   [
-    "spongy mesophyll",
-    [
-     878,
-     870
-    ],
-    "R"
-   ],
-   [
-    "grass stoma (dumbbell-shaped guard cells)",
-    [
-     874,
-     172
     ],
     "R"
    ]
@@ -1083,116 +907,116 @@
   "capsize": 0
  },
  "B4a-14-alveolus-gas-exchange-capillary": {
-  "caption_below": "Oxygen diffuses into blood and carbon dioxide diffuses into alveolus.",
   "regions": [
    "air in alveolus",
    "plasma"
   ],
+  "caption_below": "Oxygen diffuses into blood and carbon dioxide diffuses into alveolus.",
   "labels": [
    [
     "air in alveolus",
     [
-     528,
-     492
+     410,
+     493
     ],
-    "R"
+    "L"
    ],
    [
     "alveolus wall (one cell thick)",
     [
-     498,
-     726
+     404,
+     800
     ],
     "L"
    ],
    [
     "capillary wall (one cell thick)",
     [
-     501,
-     871
+     837,
+     564
     ],
-    "L"
+    "R"
    ],
    [
     "moisture lining",
     [
-     508,
-     696
+     573,
+     312
     ],
-    "L"
+    "R"
    ],
    [
     "red blood cell",
     [
-     421,
-     811
+     775,
+     369
     ],
-    "L"
+    "R"
    ],
    [
     "plasma",
     [
-     357,
-     775
+     693,
+     677
     ],
-    "L"
+    "R"
    ]
   ]
  },
  "B4a-07-avian-respiratory-system-air": {
-  "caption_below": "One-way flow of air through lung.",
   "regions": [
    "lung",
    "anterior air sacs",
    "posterior air sacs",
    "air sac in hollow bone"
   ],
+  "caption_below": "One-way flow of air through lung.",
   "labels": [
    [
     "trachea",
     [
-     239,
-     312
+     235,
+     296
     ],
     "L"
    ],
    [
     "lung",
     [
-     464,
-     564
+     448,
+     497
     ],
     "L"
    ],
    [
     "anterior air sacs",
     [
-     322,
-     335
+     302,
+     532
     ],
     "L"
    ],
    [
     "posterior air sacs",
     [
-     658,
-     658
+     643,
+     648
     ],
     "R"
    ],
    [
     "air sac in hollow bone",
     [
-     501,
-     398
+     520,
+     366
     ],
-    "L"
+    "R"
    ],
    [
     "sternum (breastbone)",
     [
-     267,
-     611
+     335,
+     653
     ],
     "L"
    ]

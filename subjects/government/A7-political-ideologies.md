@@ -114,7 +114,7 @@ Because the syllabus specifically asks you to *contrast* these modes of producti
 
 *(Note: Totalitarianism is not included in this economic table as it is strictly a political system of total control; a totalitarian state can use either a communist mode of production (like the USSR) or a fascist one (like Nazi Germany).)*
 
-[IMAGE: A split infographic contrasting the modes of production in Capitalism vs Socialism. Left side (Capitalism): A factory building with a sign "Private Co." A single wealthy businessman in a suit holds a large bag of money (Profit), while three workers in hard hats receive small coins (Wages). Right side (Socialism): A similar factory with a sign "State Owned." A government official collects the money and channels it into pipes leading to a "Free Hospital" and a "Public School", while workers receive moderate, equal-sized bags of coins. Labels to add: "Capitalist Mode of Production: Private ownership, profit for owners, wage labour", "Socialist Mode of Production: State ownership, profits used for public welfare". Clean flat textbook style, white background.]
+![A split comparison of capitalism and socialism economic systems, showing factories, distribution of wealth to workers, and state funding of public institutions.](images/A7-02-capitalism-versus-socialism-infographic.png)
 
 ## Key terms
 

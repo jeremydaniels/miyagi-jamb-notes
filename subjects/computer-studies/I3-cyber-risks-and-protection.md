@@ -54,7 +54,7 @@ These threats exploit weaknesses in how websites and networks communicate:
 - **Man-in-the-middle (MitM) attack:** An attack where a hacker secretly intercepts the communication between two parties. For example, if you log into your bank using an unsecure public Wi-Fi network, the attacker sits "in the middle" and reads or alters the data passing between your phone and the bank, stealing your login details.
 - **Denial of Service (DoS):** An attack designed to shut down a machine, website, or network, making it inaccessible to its real users. The attacker achieves this by flooding the target server with a massive amount of fake internet traffic. The server becomes so overwhelmed trying to respond to the fake requests that it crashes or becomes too slow to serve legitimate users. (When a DoS attack is launched from a botnet of many computers, it is called a Distributed Denial of Service, or DDoS).
 
-[IMAGE: A diagram showing a Man-in-the-middle (MitM) attack. On the left, a user with a laptop. On the right, a bank server. In the middle, a hacker with a computer intercepting the Wi-Fi signal. Arrows show data going from the user to the hacker, and then from the hacker to the bank. Labels: "Victim", "Attacker (Man-in-the-middle)", "Target Server". Clean flat textbook illustration, white background.]
+![Diagram of a Man-in-the-middle attack showing a victim sending intercepted data to an attacker who relays altered requests to a target bank server.](images/I3-01-man-middle-mitm-attack.png)
 
 ### Social Engineering and Scams
 
@@ -63,7 +63,7 @@ Social engineering attacks rely on tricking human beings rather than finding tec
 - **Phishing:** A fraudulent attempt to obtain sensitive information (like passwords, BVN, or ATM card PINs) by disguising as a trustworthy entity. The attacker sends a fake email or text message that looks like it is from a real bank or company (e.g., "Your First Bank account has been blocked. Click here to verify."). The link takes the victim to a fake, look-alike website that steals their details.
 - **Romance scams:** A scam where the criminal creates a fake online identity (on dating apps or social media platforms like Facebook) to gain a victim's affection and trust. After establishing a fake romantic relationship over weeks or months, the scammer invents an emergency (such as medical bills, travel costs, or customs fees) and manipulates the victim into sending money.
 
-[IMAGE: A split-screen illustration showing a phishing attack. On the left, a mobile phone displays a fake text message claiming "Your Bank ATM is blocked. Click here to verify." On the right, a computer screen shows a fake bank login page with a suspicious web address (URL) at the top. Clean flat textbook style, white background.]
+![Diagram showing a phishing attack with fake text on a phone linking to a spoofed bank login on a computer screen](images/I3-02-split-screen-phishing-attack.png)
 
 ## Cyber Security Safety Tips
 

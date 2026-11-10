@@ -1,0 +1,10 @@
+[
+ [
+  "I3-01-man-middle-mitm-attack",
+  "A diagram showing a Man-in-the-middle (MitM) attack. On the left, a user with a laptop. On the right, a bank server. In the middle, a hacker with a computer intercepting the Wi-Fi signal. Arrows show data going from the user to the hacker, and then from the hacker to the bank. Clean flat textbook illustration, white background."
+ ],
+ [
+  "I3-02-split-screen-phishing-attack",
+  "A split-screen illustration showing a phishing attack. On the left, a mobile phone displays a fake text message claiming \"Your Bank ATM is blocked. Click here to verify.\" On the right, a computer screen shows a fake bank login page with a suspicious web address (URL) at the top."
+ ]
+]

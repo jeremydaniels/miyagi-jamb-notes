@@ -87,7 +87,7 @@ The Earth experiences two major types of movement in space: **rotation** and **r
 - **Summer Solstice (June 21):** The midday sun is directly overhead at the Tropic of Cancer. It is the longest day in the Northern Hemisphere.
 - **Winter Solstice (December 22):** The midday sun is directly overhead at the Tropic of Capricorn. It is the shortest day (and longest night) in the Northern Hemisphere.
 
-[IMAGE: Diagram showing the Earth's revolution around the Sun. A yellow Sun in the centre with an elliptical orbit path around it. Four Earths are drawn on the orbit to represent the four seasons, each with a tilted axis line (tilted 23.5 degrees). Labels to add later: "March 21: Spring Equinox", "June 21: Summer Solstice (Northern Hemisphere tilted towards sun)", "September 23: Autumn Equinox", "December 22: Winter Solstice (Northern Hemisphere tilted away)". Clean flat textbook style, white background.]
+![Diagram of Earth revolving counterclockwise around the Sun across four seasons, illustrating axial tilt during the solstices and equinoxes.](images/B1-02-earth-revolution-seasons.png)
 
 ---
 

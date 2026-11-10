@@ -614,7 +614,7 @@ Different parts of the plant are sensitive to very different concentrations of a
 
 This difference is important in explaining why roots and shoots respond in opposite ways to gravity.
 
-[IMAGE: Line graph of the effect of auxin concentration on the growth of roots, buds and stems. The x-axis shows auxin concentration increasing from left to right on a logarithmic scale (no numbers needed, just low to high). The y-axis shows growth response, with a horizontal zero line in the middle: above the line is stimulation, below the line is inhibition. Three bell-shaped curves in three colours: the root curve (brown) peaks at the lowest concentration and falls below zero early; the bud curve (green) peaks at a middle concentration; the stem curve (blue) peaks at the highest concentration, at a point where the root curve is well below zero. Labels: auxin concentration, stimulation, inhibition, roots, buds, stems. Clean flat textbook style, white background.]
+![Line graph showing the effect of increasing auxin concentration on the growth of roots, buds, and stems, showing stimulation above baseline and inhibition below.](images/B9c-09-auxin-growth-response-curves.png)
 
 #### The discovery of auxin: coleoptile experiments
 

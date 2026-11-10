@@ -11,72 +11,72 @@
    [
     "Beak",
     [
-     88,
-     186
+     133,
+     148
     ],
     "L"
    ],
    [
     "Oesophagus",
     [
-     263,
-     290
+     261,
+     240
     ],
     "L"
    ],
    [
     "Crop (storage)",
     [
-     223,
-     493
+     241,
+     452
     ],
     "L"
    ],
    [
     "Proventriculus (glandular stomach)",
     [
-     330,
-     531
+     394,
+     488
     ],
     "L"
    ],
    [
     "Gizzard (grinding)",
     [
-     463,
-     539
+     526,
+     526
     ],
-    "L"
+    "R"
    ],
    [
     "Small intestine",
     [
-     658,
-     636
+     570,
+     741
     ],
     "R"
    ],
    [
     "Caeca",
     [
-     654,
-     760
+     770,
+     526
     ],
     "R"
    ],
    [
     "Large intestine",
     [
-     775,
-     601
+     820,
+     710
     ],
     "R"
    ],
    [
     "Cloaca",
     [
-     828,
-     662
+     896,
+     759
     ],
     "R"
    ]
@@ -93,48 +93,48 @@
    [
     "Oesophagus",
     [
-     701,
-     357
+     749,
+     327
     ],
     "R"
    ],
    [
     "Rumen (Paunch)",
     [
-     437,
-     369
+     352,
+     479
     ],
     "L"
    ],
    [
     "Reticulum (Honeycomb)",
     [
-     619,
-     492
+     645,
+     461
     ],
     "R"
    ],
    [
     "Omasum (Manyplies)",
     [
-     547,
-     458
+     538,
+     457
     ],
     "R"
    ],
    [
     "Abomasum (True stomach)",
     [
-     501,
-     540
+     483,
+     570
     ],
     "L"
    ],
    [
     "Intestines",
     [
-     240,
-     357
+     198,
+     379
     ],
     "L"
    ]

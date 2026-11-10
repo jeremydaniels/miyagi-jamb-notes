@@ -105,14 +105,6 @@
   ],
   "labels": [
    [
-    "Yam (Stem tuber)",
-    [
-     198,
-     493
-    ],
-    "L"
-   ],
-   [
     "Bud/Eye",
     [
      220,
@@ -134,15 +126,7 @@
      390,
      527
     ],
-    "L"
-   ],
-   [
-    "Cassava (Root tuber)",
-    [
-     666,
-     497
-    ],
-    "R"
+    "T"
    ],
    [
     "Outer peel (periderm)",
@@ -168,7 +152,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Yam (Stem\ntuber)",
+    172,
+    835
+   ],
+   [
+    "Cassava (Root\ntuber)",
+    662,
+    822
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B5-04-onion-bulb-cross-section": {
   "regions": [

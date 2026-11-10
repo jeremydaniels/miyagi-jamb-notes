@@ -81,7 +81,7 @@ The **angle of contact ($\theta$)** is the angle formed between the surface of t
 *   **Molecular explanation:** In a fine glass tube containing water, strong adhesive forces pull the water molecules up the glass walls. Surface tension then pulls the rest of the surface molecules up to minimize the surface area, drawing the liquid column upwards until the upward pull balances the downward weight of the water column. Therefore, **water rises** in a capillary tube. 
 *   For mercury, strong cohesive forces pull the molecules away from the glass and towards each other, pushing the liquid down. Therefore, **mercury gets depressed (falls)** in a capillary tube. The narrower the tube, the higher the rise (or deeper the fall).
 
-[IMAGE: Two identical narrow glass tubes standing vertically, one in a beaker of water and one in a beaker of mercury. In the water tube, the liquid level is higher than the beaker level, with a deeply concave (U-shaped) meniscus, and an acute contact angle labeled. In the mercury tube, the liquid level is lower than the beaker level, with a convex (n-shaped) meniscus, and an obtuse contact angle labeled. Labels: "Water (rises, concave, wets glass)", "Mercury (falls, convex, does not wet glass)". Style: clean flat textbook illustration, white background.]
+![Illustration comparing capillary action in water and mercury showing concave meniscus with capillary rise versus convex meniscus with capillary depression.](images/A18-02-capillary-action-meniscus-comparison.png)
 
 ### 6. Surface Tension
 

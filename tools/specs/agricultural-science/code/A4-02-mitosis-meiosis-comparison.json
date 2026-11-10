@@ -1,0 +1,72 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Comparison of Mitosis and Meiosis",
+ "nodes": [
+  {
+   "id": "mit_title",
+   "text": "Mitosis",
+   "shape": "plain"
+  },
+  {
+   "id": "mei_title",
+   "text": "Meiosis",
+   "shape": "plain"
+  },
+  {
+   "id": "mit_p",
+   "text": "Parent Cell (2n)",
+   "shape": "round",
+   "color": "cyan"
+  },
+  {
+   "id": "mei_p",
+   "text": "Parent Cell (2n)",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "mit_d",
+   "text": "2 Identical Daughter Cells (2n)",
+   "shape": "box",
+   "color": "cyan"
+  },
+  {
+   "id": "mei_int",
+   "text": "Two Cells (Division I)",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "mei_d",
+   "text": "4 Unique Daughter Cells (n)",
+   "shape": "box",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "mit_title",
+   "to": "mit_p"
+  },
+  {
+   "from": "mei_title",
+   "to": "mei_p"
+  },
+  {
+   "from": "mit_p",
+   "to": "mit_d",
+   "label": "One division"
+  },
+  {
+   "from": "mei_p",
+   "to": "mei_int",
+   "label": "Division I"
+  },
+  {
+   "from": "mei_int",
+   "to": "mei_d",
+   "label": "Division II"
+  }
+ ]
+}

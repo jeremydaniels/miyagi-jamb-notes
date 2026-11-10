@@ -99,7 +99,7 @@ If we cross two F₁ offspring to produce the Second Filial (F₂) generation:
 - 2 **Tt** (Heterozygous tall)
 - 1 **tt** (Homozygous short)
 
-[IMAGE: A Punnett square showing a monohybrid cross between two heterozygous (Tt) parents. The top row shows the gametes T and t from one parent. The left column shows the gametes T and t from the other parent. The four inner squares show the combinations: one TT, two Tt, and one tt. Labels: "Tall (TT)", "Tall (Tt)", "Tall (Tt)", "Short (tt)". Clean flat textbook style, white background.]
+![A Punnett square for a monohybrid cross between Tt parents resulting in one Tall TT, two Tall Tt, and one Short tt offspring.](images/A4-01-monohybrid-cross-punnett-square.png)
 
 ## Compute simple probability ratios
 
@@ -140,7 +140,7 @@ Meiosis is a reduction division that results in four daughter cells, each having
 - **Process summary:** The cell copies its chromosomes, but then undergoes *two* consecutive divisions. During the first division, a process called **crossing over** occurs, where chromosomes swap bits of genetic material, causing genetic variation. The final result is four genetically distinct haploid cells.
 - **Importance in agriculture:** It produces gametes (sperm, eggs, pollen) required for sexual reproduction. It is responsible for the genetic variation upon which selection and crop improvement rely.
 
-[IMAGE: A side-by-side comparison diagram of Mitosis and Meiosis. On the left (Mitosis): A single diploid parent cell (2n) undergoes one division to produce two identical diploid daughter cells (2n). On the right (Meiosis): A single diploid parent cell (2n) undergoes two consecutive divisions to produce four non-identical haploid daughter cells (n). Labels: "Mitosis", "Parent Cell (2n)", "2 Identical Daughter Cells (2n)", "Meiosis", "4 Unique Daughter Cells (n)". Clean flat textbook style, white background.]
+![A diagram comparing mitosis and meiosis, showing a diploid parent cell dividing once into two identical daughter cells in mitosis, and dividing twice into four unique daughter cells in meiosis.](images/A4-02-mitosis-meiosis-comparison.png)
 
 ## Differentiate between the types of cell division
 

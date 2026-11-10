@@ -1,0 +1,23 @@
+{
+ "template": "table",
+ "title": "Punnett Square (Tt × Tt)",
+ "columns": [
+  "Gametes",
+  "T",
+  "t"
+ ],
+ "rows": [
+  [
+   "T",
+   "Tall (TT)",
+   "Tall (Tt)"
+  ],
+  [
+   "t",
+   "Tall (Tt)",
+   "Short (tt)"
+  ]
+ ],
+ "first_col_bold": true,
+ "caption": "Monohybrid cross showing 1 TT, 2 Tt, and 1 tt"
+}

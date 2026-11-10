@@ -144,7 +144,7 @@ The young stem of the sunflower (*Helianthus*) is the classic textbook example. 
 
 **Secondary growth (in brief).** In woody dicots (e.g. mango, iroko, mahogany), the cambium inside the bundles joins with new cambium formed in the medullary rays to make a complete ring. This cambium ring makes new xylem towards the inside and new phloem towards the outside every year, so the stem becomes thick and woody. The mass of secondary xylem is **wood**. A layer of **cork** forms outside to replace the epidermis as **bark**.
 
-[IMAGE: Transverse section of a young dicotyledonous stem (sunflower), drawn as a circle, with one sector enlarged on the right to show the cells in detail. Whole view: epidermis, cortex, a single ring of about eight wedge-shaped vascular bundles near the outside, medullary rays between them, and a large central pith. Enlarged sector: epidermis with cuticle and a multicellular hair; three layers of collenchyma (cells with thickened corners) forming the hypodermis; parenchyma cortex; wavy endodermis (starch sheath) with dark starch grains; a cap of thick-walled sclerenchyma (pericycle fibres) over the bundle; phloem; a thin band of cambium; xylem with large vessels on the outer side and small protoxylem towards the centre; a medullary ray; pith cells. Labels: epidermis, cuticle, hair, collenchyma (hypodermis), cortex, endodermis (starch sheath), pericycle fibres (bundle cap), phloem, cambium, xylem, protoxylem, medullary ray, pith. Colours: xylem pale red, phloem pale blue, cambium pale green, sclerenchyma darker pink, cortex and pith pale cream. Clean flat textbook style, white background.]
+![Diagram showing the transverse section of a sunflower stem alongside an enlarged sector detailing its tissue layers from the outer epidermis to the central pith.](images/B1-03-dicot-stem-transverse-section.png)
 
 ### The monocotyledonous stem (e.g. maize)
 
@@ -161,7 +161,7 @@ Maize, guinea corn, sugarcane and grasses are good examples. A TS of a young mai
 
 **Note:** some monocots, such as the oil palm and other palms, become very thick and tall without true secondary growth. They do this mainly by many bundles and thickening of the primary tissues, not by a cambium ring. A few monocots (e.g. *Dracaena*, often planted in Nigeria as hedges and boundary markers) have an unusual kind of secondary growth.
 
-[IMAGE: Transverse section of a young monocotyledonous stem (maize), drawn as a circle, with one vascular bundle enlarged in a box on the right. Whole view: epidermis; two or three layers of thick-walled sclerenchyma hypodermis; ground tissue of parenchyma filling the whole stem; many scattered oval vascular bundles, small and crowded near the edge, larger and fewer towards the centre; no ring, no pith. Enlarged bundle: an oval sheath of thick-walled sclerenchyma; phloem (sieve tubes and companion cells) at the top (outer side); two large metaxylem vessels side by side; one or two small protoxylem vessels below them; a large round air space (protoxylem lacuna) at the bottom, giving the face-like appearance. Labels: epidermis, sclerenchyma hypodermis, ground tissue (parenchyma), vascular bundle, bundle sheath, phloem, metaxylem vessel, protoxylem, protoxylem lacuna. Colours: xylem pale red, phloem pale blue, sclerenchyma darker pink, parenchyma pale cream. Clean flat textbook style, white background.]
+![Diagram showing the transverse section of a maize stem with scattered vascular bundles in ground tissue alongside an enlarged callout detailing single bundle anatomy.](images/B1-04-monocot-stem-transverse-section.png)
 
 ### Dicot stem and monocot stem compared
 
@@ -357,7 +357,7 @@ Plants get support from two sources:
 
 **Textbook variation:** in the sunflower stem, the cap of fibres outside each bundle is described in some textbooks as **pericycle fibres** (part of the pericycle) and in others as **phloem fibres** or "hard bast". Modern books say these caps in many dicots arise from the outer phloem (and so call them primary phloem fibres). Either name is accepted in most school exams; know that they are sclerenchyma fibres giving support.
 
-[IMAGE: Four panels side by side comparing plant supporting tissues. Panel 1, collenchyma: a transverse view of a few polygonal living cells with nuclei and walls thickened only at the corners (shown as bright pale-green thick corners), plus a small longitudinal view of elongated cells. Panel 2, sclerenchyma: a transverse view of thick-walled cells with very small empty centres and pit canals, plus a longitudinal view of long fibres with pointed overlapping ends and one small round sclereid (stone cell). Panel 3, xylem: a longitudinal view of four vessels showing annular, spiral, scalariform and pitted thickening, with no cross walls. Panel 4, phloem: a longitudinal view of a sieve tube with a sieve plate, a companion cell with nucleus, and a strand of long pointed phloem fibres beside them. Labels: collenchyma, thickened corner, nucleus, sclerenchyma fibre, lumen, pit, sclereid, xylem vessel, annular, spiral, scalariform, pitted, sieve tube, sieve plate, companion cell, phloem fibre. Lignified walls in pink-red, cellulose walls in pale green. Clean flat textbook style, white background.]
+![Diagram comparing four plant tissues collenchyma, sclerenchyma, xylem, and phloem in transverse and longitudinal views, illustrating cell structures, wall thickenings, and cellular components with clear labels.](images/B1-07-plant-supporting-tissues-comparison.png)
 
 ### The supporting tissues compared
 
@@ -409,7 +409,7 @@ The supporting tissues are placed where they best resist the forces acting on ea
   - **Turgid mesophyll** cells keep the soft blade firm; this is why leaves droop when the plant wilts.
 - Tough leaves such as those of the oil palm, coconut palm and sisal contain many sclerenchyma fibres, which is why they are used for brooms, baskets and rope.
 
-[IMAGE: Three simple transverse-section outlines side by side, showing where the supporting tissues are, using a colour key. 1) Dicot root: a circle with a central star of xylem coloured red, and a thin brown endodermis ring. 2) Dicot stem: a circle with a thin green ring of collenchyma just under the edge, small pink caps of sclerenchyma fibres over a ring of bundles with red xylem, and a pale pith. 3) Dicot leaf: a thin flat section with a thickened midrib containing green collenchyma patches above and below a vascular bundle with red xylem, and small red veins along the blade. A colour key at the bottom: green = collenchyma, pink = sclerenchyma / fibres, red = xylem. Labels: root, stem, leaf, central xylem core, endodermis, collenchyma, sclerenchyma (fibre cap), xylem, pith, midrib, vein. Clean flat textbook style, white background.]
+![Transverse sections of a dicot root, stem, and leaf highlighting the distribution of supporting tissues including collenchyma, sclerenchyma fibres, and xylem, with an accompanying color key.](images/B1-08-plant-tissue-distribution-schematics.png)
 
 ### Summary of distribution
 
@@ -480,7 +480,7 @@ The body cavity is divided into two parts by a dome-shaped sheet of muscle and t
 
 **Note on directions:** in a four-legged animal like a rat, "anterior" (front) means towards the head and "posterior" means towards the tail; "dorsal" means towards the back and "ventral" means towards the belly. In an upright human, the head end is "superior" (upper) and the belly is the front. The **animal's left** is on **your right** when you look down at a dissection lying on its back, just as when you face another person.
 
-[IMAGE: Ventral view of a dissected rat lying on its back on a dissecting board, limbs pinned out, skin and body wall pinned back, rib cage removed. Thorax: heart in the middle with pink lungs on each side, trachea running up the neck, thymus over the heart. A thin diaphragm line separating thorax and abdomen. Abdomen: large dark red-brown lobed liver just behind the diaphragm; stomach on the animal's left (viewer's right) partly under the liver; dark red spleen beside the stomach; coiled small intestine; a large caecum; colon and rectum running to the anus; urinary bladder at the hind end; one kidney visible on each side where the gut is pushed aside. Labels: trachea, thymus, heart, lung, diaphragm, liver, stomach, spleen, small intestine, caecum, colon, kidney, bladder, rectum. Natural soft colours. Clean flat textbook style, white background.]
+![Ventral anatomical diagram of a dissected rat pinned to a dissecting board, displaying thoracic and abdominal internal organs including heart, lungs, liver, stomach, and intestines.](images/B1-09-dissected-rat-internal-anatomy.png)
 
 ### Arrangement in the human body
 
@@ -502,7 +502,7 @@ The human body follows the same plan. Because we stand upright, "anterior" (head
 | **Bladder** | In the pelvis, low down at the front, behind the pubic bone |
 | **Uterus and ovaries (female)** | In the pelvis, the uterus between the bladder (in front) and the rectum (behind) |
 
-[IMAGE: Front view outline of a human torso (gender-neutral) showing the positions of the main internal organs as simple soft-coloured shapes. Chest: two lungs, heart between them tilted to the left, trachea above. Diaphragm as a curved line. Abdomen: large liver on the upper right of the body (viewer's left) with the small gall bladder beneath it; stomach on the upper left (viewer's right); spleen behind and left of the stomach; pancreas partly visible behind the stomach; coiled small intestine in the middle; large intestine framing it (caecum and appendix lower right of the body, colon around, rectum); bladder low in the pelvis. Show the two kidneys as dotted outlines behind the gut. Labels: trachea, lung, heart, diaphragm, liver, gall bladder, stomach, spleen, pancreas, small intestine, large intestine (colon), caecum, appendix, kidney, bladder, rectum. Clean flat textbook style, white background.]
+![Anatomical diagram of a human torso showing major internal organs including trachea, lungs, heart, diaphragm, liver, stomach, intestines, kidneys, and bladder in soft colors.](images/B1-10-human-torso-internal-organs.png)
 
 ## The digestive, reproductive and excretory organs
 
@@ -560,7 +560,7 @@ The main excretory organs (making up the **urinary system**) are the kidneys, ur
 | **Urethra** | A tube carrying both **urine** and **semen** (but not at the same time) | From the bladder through the penis |
 | **Penis** | A muscular organ with spongy erectile tissue, which fills with blood to become erect | Outside the body, in front of the scrotum (in rabbits and rats it lies in a sheath (prepuce) just in front of the scrotal sacs). Deposits semen in the female's vagina |
 
-[IMAGE: Male reproductive and urinary organs of a mammal (rabbit), ventral view, as a practical drawing. Show the bladder in the centre; the two ureters entering it from the kidneys above (kidneys partly shown); two oval testes in scrotal sacs on either side of the penis at the bottom; the coiled epididymis on each testis; the two sperm ducts (vas deferens) running up through the inguinal canals, looping over the ureters and joining the urethra behind the bladder; the seminal vesicle and prostate gland near this junction; small Cowper's glands lower down; the urethra running through the penis. Labels: kidney, ureter, bladder, seminal vesicle, prostate gland, vas deferens (sperm duct), inguinal canal, epididymis, testis, scrotal sac, Cowper's gland, urethra, penis. Clean flat textbook style, white background.]
+![Anatomical diagram of the male mammalian urogenital system showing kidneys, ureters, bladder, urethra, testes with epididymis inside scrotal sacs, vas deferens, and accessory glands.](images/B1-13-male-rabbit-reproductive-system.png)
 
 ### Female reproductive organs
 

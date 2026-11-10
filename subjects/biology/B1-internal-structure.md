@@ -502,7 +502,7 @@ The human body follows the same plan. Because we stand upright, "anterior" (head
 | **Bladder** | In the pelvis, low down at the front, behind the pubic bone |
 | **Uterus and ovaries (female)** | In the pelvis, the uterus between the bladder (in front) and the rectum (behind) |
 
-![Anatomical diagram of a human torso showing major internal organs including trachea, lungs, heart, diaphragm, liver, stomach, intestines, kidneys, and bladder in soft colors.](images/B1-10-human-torso-internal-organs.png)
+[IMAGE: Front view outline of a human torso (gender-neutral) showing the positions of the main internal organs as simple soft-coloured shapes. Chest: two lungs, heart between them tilted to the left, trachea above. Diaphragm as a curved line. Abdomen: large liver on the upper right of the body (viewer's left) with the small gall bladder beneath it; stomach on the upper left (viewer's right); spleen behind and left of the stomach; pancreas partly visible behind the stomach; coiled small intestine in the middle; large intestine framing it (caecum and appendix lower right of the body, colon around, rectum); bladder low in the pelvis. Show the two kidneys as dotted outlines behind the gut. Labels: trachea, lung, heart, diaphragm, liver, gall bladder, stomach, spleen, pancreas, small intestine, large intestine (colon), caecum, appendix, kidney, bladder, rectum. Clean flat textbook style, white background.]
 
 ## The digestive, reproductive and excretory organs
 

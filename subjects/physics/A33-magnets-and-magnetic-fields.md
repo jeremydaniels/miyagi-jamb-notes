@@ -92,7 +92,7 @@ To prevent this, we use **magnetic keepers**.
 - For bar magnets, they are stored in pairs with opposite poles facing each other (North facing South), and two soft iron keepers are placed across the ends.
 - The keepers become temporary magnets by induction and provide a closed, continuous loop for the magnetic field lines. Because the magnetic loop is closed, there are no "free" poles to cause self-demagnetization, safely preserving the strength of the magnets for years.
 
-[IMAGE: Two bar magnets lying parallel to each other. The top magnet has N on the left and S on the right. The bottom magnet has S on the left and N on the right. Two rectangular blocks of soft iron (labeled "Keepers") connect the ends on the left and right, forming a continuous rectangular loop. Magnetic field lines are drawn circulating continuously through the magnets and the keepers. Clean flat textbook style, white background.]
+![Diagram showing two parallel bar magnets with opposite poles aligned and connected by soft iron keepers at both ends, forming a continuous closed magnetic field loop.](images/A33-01-bar-magnets-keepers.png)
 
 ## Concept of magnetic field
 
@@ -169,7 +169,7 @@ When two magnets are placed near each other, their magnetic fields interact to f
 1. **Unlike poles facing (N and S):** The magnetic lines of force run directly across the gap from the North pole of one magnet to the South pole of the other. The field between them is strong, representing a force of **attraction**.
 2. **Like poles facing (N and N, or S and S):** The lines of force from the two identical poles repel each other and bend sharply outwards. In the exact centre between the two poles, the magnetic fields cancel each other out completely. This spot is called a **neutral point** (usually labeled "X"). At a neutral point, the resultant magnetic flux density is exactly zero.
 
-[IMAGE: Two scenarios. Top: Two bar magnets end-to-end, N-pole facing S-pole. Straight and slightly curved lines connect the N and S across the gap. Bottom: Two bar magnets end-to-end, N-pole facing N-pole. The lines from each N-pole repel each other and bend outwards perpendicularly. A distinct empty spot in the exact centre between the poles is marked with an 'X' (Neutral Point). Clean flat textbook style, white background.]
+![Diagram showing magnetic field lines between attracting unlike poles N facing S and repelling like poles N facing N with a central neutral point X.](images/A33-03-magnetic-neutral-point.png)
 
 ## Magnetic field around current-carrying conductors
 
@@ -196,7 +196,7 @@ You can determine which end of the solenoid acts as the North pole and which as 
 - If the current travels in a **clockwise** direction, that end acts as a **South pole (S)**.
 - If the current travels in an **anti-clockwise** direction, that end acts as a **North pole (N)**.
 
-[IMAGE: A long solenoid coil with an electric current 'I' entering the left and exiting the right. Magnetic field lines are shown passing straight through the centre and curving around the outside, exactly like a bar magnet. At the left end, current circulates anti-clockwise, so it is labeled 'N'. At the right end, current circulates clockwise, so it is labeled 'S'. Right-hand grip rule is inset: a hand gripping the coil, fingers in direction of current, thumb pointing left towards 'N'. Clean flat textbook style, white background.]
+![Diagram of a current-carrying solenoid showing magnetic field lines, magnetic poles, and an inset illustrating the right-hand grip rule.](images/A33-04-solenoid-magnetic-field.png)
 
 ## Flux pattern of a magnet in the Earth's field
 

@@ -1,0 +1,68 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Hierarchy of Nigerian Courts",
+ "nodes": [
+  {
+   "id": "apex",
+   "text": "Supreme Court of Nigeria\n(Final Appellate Court)",
+   "shape": "round"
+  },
+  {
+   "id": "appeal",
+   "text": "Court of Appeal",
+   "shape": "box"
+  },
+  {
+   "id": "fhc",
+   "text": "Federal High Court",
+   "shape": "box"
+  },
+  {
+   "id": "shc",
+   "text": "State/FCT High Courts",
+   "shape": "box"
+  },
+  {
+   "id": "cca",
+   "text": "Sharia/Customary\nCourts of Appeal",
+   "shape": "box"
+  },
+  {
+   "id": "mag",
+   "text": "Magistrate Courts /\nDistrict Courts",
+   "shape": "box"
+  },
+  {
+   "id": "area",
+   "text": "Customary/Area Courts",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "apex",
+   "to": "appeal"
+  },
+  {
+   "from": "appeal",
+   "to": "fhc"
+  },
+  {
+   "from": "appeal",
+   "to": "shc"
+  },
+  {
+   "from": "appeal",
+   "to": "cca"
+  },
+  {
+   "from": "shc",
+   "to": "mag"
+  },
+  {
+   "from": "cca",
+   "to": "area"
+  }
+ ]
+}

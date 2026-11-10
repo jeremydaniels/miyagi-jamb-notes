@@ -1,0 +1,41 @@
+{
+ "template": "flowchart",
+ "title": "Nigerian Legislature (Fourth Republic)",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "nass",
+   "text": "The National Assembly\n(Bicameral)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "senate",
+   "text": "The Senate\n(109 members: 3 per state + 1 FCT)\nLed by President of the Senate",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "reps",
+   "text": "House of Representatives\n(360 members based on population)\nLed by the Speaker",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "states",
+   "text": "State Houses of Assembly\n(Unicameral, 36 states)\nLed by State Speakers",
+   "shape": "round",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "nass",
+   "to": "senate"
+  },
+  {
+   "from": "nass",
+   "to": "reps"
+  }
+ ]
+}

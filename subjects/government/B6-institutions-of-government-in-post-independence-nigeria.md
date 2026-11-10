@@ -36,7 +36,7 @@ Nigeria has experimented with both parliamentary and presidential systems of gov
 *   **The House of Representatives:** The lower chamber has **360 members**, representing federal constituencies based on population. It is headed by the Speaker.
 *   **State House of Assembly:** A unicameral legislature in each state, headed by a Speaker. The number of members varies by state (usually between 24 and 40) depending on population.
 
-[IMAGE: An organization chart showing the structure of the Nigerian Legislature in the Fourth Republic. Top box: "The National Assembly (Bicameral)". Below it, two branching boxes. Left box: "The Senate (109 members: 3 per state + 1 FCT), Led by President of the Senate". Right box: "House of Representatives (360 members based on population), Led by the Speaker". Below the main branch, a separate floating box: "State Houses of Assembly (Unicameral, 36 states), Led by State Speakers". Clean flat textbook illustration, white background.]
+![Organizational chart of the Nigerian Fourth Republic legislature, showing the bicameral National Assembly branching into the Senate and House of Representatives, alongside the unicameral State Houses of Assembly.](images/B6-01-organisation-chart-nigerian-legislature.png)
 
 ### Functions of the Legislature
 
@@ -118,7 +118,7 @@ The modern hierarchy of regular courts in Nigeria is as follows:
 5.  **Magistrate Courts and District Courts:** Lower courts that handle minor civil and criminal cases. They are created by state laws, not directly by the Constitution.
 6.  **Customary / Area / Grade C Courts:** The lowest level of courts, dealing with local traditions, minor disputes, and customary marriages.
 
-[IMAGE: A pyramid diagram showing the hierarchy of Nigerian courts. The apex (top) is labeled "Supreme Court of Nigeria (Final Appellate Court)". The second tier is "Court of Appeal". The third tier is split into three boxes: "Federal High Court", "State/FCT High Courts", and "Sharia/Customary Courts of Appeal". The bottom tier shows "Magistrate Courts / District Courts" and "Customary/Area Courts". Clean flat textbook illustration, white background.]
+![A hierarchy diagram showing the structure of Nigerian courts, starting with the Supreme Court at the top down through appellate, high, and lower magistrate or customary courts.](images/B6-02-pyramid-chart-nigerian-court.png)
 
 *Note on Military Era:* During military regimes, the regular courts were often bypassed. The military created **Special Military Tribunals** to try politicians and civilians for corruption, treason, and armed robbery. These tribunals did not follow normal judicial rules, did not allow appeals to the Supreme Court, and heavily undermined the judiciary's structure.
 

@@ -224,7 +224,7 @@ To understand Nigeria's role in the global economy, we must look at what the cou
     Nigeria relies heavily on the importation of **secondary (manufactured) products**. The major imports include heavy machinery, mechanical appliances, electrical equipment, motor vehicles, and chemicals. 
     Ironically, despite being a massive exporter of crude oil, one of Nigeria's largest import expenses for decades has been **refined petroleum products** (PMS/petrol, diesel), because of inadequate domestic refining capacity. Nigeria also imports significant amounts of food items (like wheat and, historically, rice).
 
-[IMAGE: Clean flat textbook illustration, white background. A bar chart comparing the Composition of Nigeria's Exports and Imports. The left bar for 'Exports' is almost entirely filled with a dark colour labeled 'Crude Oil (over 80%)', with a tiny top section labeled 'Non-oil (Cocoa, Sesame)'. The right bar for 'Imports' is divided into multiple sections labeled 'Machinery', 'Manufactured Goods', 'Refined Petroleum', and 'Food'. Labels to add: "Nigeria's Foreign Trade Composition", showing high dependence on a single primary product for exports.]
+![A stacked bar chart comparing Nigerias exports and imports, highlighting heavy export dependence on crude oil alongside diversified imports including machinery, manufactured goods, refined petroleum, and food.](images/A21-01-trade-composition-stacked-bar.png)
 
 #### 2. Direction of Nigeria's Foreign Trade
 **Direction of trade** refers to the countries that a nation trades with—its trading partners.
@@ -282,7 +282,7 @@ The exchange rate is determined at the point where the quantity of dollars deman
 - **Depreciation:** If the demand for dollars rises (e.g., Nigerians want to import more) and supply remains the same, the price of the dollar will go up. The Naira has *depreciated*. Note the terminology: "Depreciation" is used in a floating system, while "Devaluation" is a deliberate government action in a fixed system.
 - **Appreciation:** If the supply of dollars increases (e.g., global oil prices rise, bringing more dollars into Nigeria), the price of the dollar falls relative to the Naira. The Naira has *appreciated*.
 
-[IMAGE: Clean flat textbook illustration, white background. A line graph showing the supply and demand for foreign exchange against the exchange rate (Naira per USD). The vertical y-axis is labeled 'Exchange Rate (₦/USD)' and the horizontal x-axis is labeled 'Quantity of USD'. A downward-sloping demand curve labeled 'D (Importers)' intersects an upward-sloping supply curve labeled 'S (Exporters)'. The intersection point is indicated with dotted lines to the axes, showing the Equilibrium Exchange Rate and Equilibrium Quantity. Labels to add: "Equilibrium Exchange Rate", "Market determination of floating exchange rate".]
+![Supply and demand graph illustrating the market determination of a floating exchange rate between the Nigerian Naira and US Dollar at their equilibrium intersection.](images/A21-02-foreign-exchange-supply-demand.png)
 
 ## Key terms
 

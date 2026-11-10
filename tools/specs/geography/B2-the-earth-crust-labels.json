@@ -12,48 +12,48 @@
    [
     "Inner Core (solid iron/nickel)",
     [
-     538,
-     471
+     340,
+     529
     ],
-    "R"
+    "L"
    ],
    [
     "Outer Core (liquid)",
     [
-     437,
-     412
+     361,
+     658
     ],
     "L"
    ],
    [
     "Mantle (semi-solid rock)",
     [
-     601,
-     208
-    ],
-    "R"
-   ],
-   [
-    "Crust (solid rock)",
-    [
-     473,
-     91
+     275,
+     760
     ],
     "L"
    ],
    [
+    "Crust (solid rock)",
+    [
+     600,
+     390
+    ],
+    "R"
+   ],
+   [
     "Sial (Continental crust)",
     [
-     553,
-     760
+     775,
+     263
     ],
     "R"
    ],
    [
     "Sima (Oceanic crust)",
     [
-     636,
-     804
+     820,
+     309
     ],
     "R"
    ]

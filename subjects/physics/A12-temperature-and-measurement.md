@@ -67,7 +67,7 @@ The table below compares the main types of thermometers, highlighting their rang
 
 **Clinical Thermometers:** A special type of mercury-in-glass thermometer used to measure human body temperature. It has a narrow range (usually from $35^\circ\text{C}$ to $43^\circ\text{C}$) because human body temperature does not fluctuate far from $37^\circ\text{C}$. It features a **constriction (kink)** just above the bulb. This prevents the mercury thread from falling back immediately when removed from the patient's mouth or armpit, giving the doctor time to read it.
 
-[IMAGE: A long glass tube (liquid-in-glass thermometer) lying horizontally. At the left end is a silver bulb (mercury). A thin red or silver line (capillary tube) runs down the center of the stem, ending at the 12 cm mark. The stem is marked with a scale starting from 0 cm (aligned with a "0 °C" label below it for the ice point) and ending at 20 cm, with a "100 °C" label below the 20 cm mark. Clean flat textbook style, white background.]
+![A horizontal mercury thermometer showing a scale from 0 to 20 cm, with liquid thread ending at 12 cm, marked with ice and steam points.](images/A12-01-liquid-glass-thermometer-calibration.png)
 
 ## Calibration of thermometers
 
@@ -173,7 +173,7 @@ We distinguish these scales based on their fixed points, fundamental intervals, 
 *   Notice that the fundamental interval for both Celsius and Kelvin is 100. This means a *change* of $1^\circ\text{C}$ is exactly equal to a *change* of $1\ \text{K}$. 
 *   However, the Fahrenheit scale has 180 divisions between the same two points. Therefore, 1 degree on the Celsius scale is physically larger than 1 degree on the Fahrenheit scale.
 
-[IMAGE: Three vertical thermometer scales placed side-by-side. The left one is labeled "Celsius (°C)", the middle is "Kelvin (K)", and the right is "Fahrenheit (°F)". Three horizontal dashed lines cut across all three scales: the top line is labeled "Steam point" and intersects at 100 °C, 373 K, and 212 °F. The middle line is labeled "Ice point" and intersects at 0 °C, 273 K, and 32 °F. The bottom line is labeled "Absolute zero" and intersects at -273 °C, 0 K, and -459.67 °F. Clean flat textbook style, white background.]
+![Comparison of Celsius, Kelvin, and Fahrenheit thermometer scales showing reference temperatures for steam point, ice point, and absolute zero across all three scales.](images/A12-03-temperature-scale-comparison-chart.png)
 
 ### Conversion between temperature scales
 

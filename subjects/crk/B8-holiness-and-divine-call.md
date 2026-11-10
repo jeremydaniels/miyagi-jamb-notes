@@ -77,7 +77,7 @@ Ezekiel opened his mouth, and God caused him to eat the scroll. Even though the 
 
 God then sent him to his own people. God noted that Ezekiel was not being sent to foreigners with a strange, difficult language who might not understand him, but to the house of Israel. Yet, Israel would not listen to Ezekiel because they were not willing to listen to God. To prepare him for this stubborn rejection, God made Ezekiel's face as hard as their faces, and his forehead like an "adamant stone" (harder than flint), so that he would not be intimidated by their rebellious looks.
 
-[IMAGE: An illustration of the prophet Ezekiel receiving his call. A hand descends from a glowing cloud at the top, holding out an ancient rolled-up parchment scroll with Hebrew-like writing visible on both the inside and outside. Ezekiel, dressed as a Jewish captive in Babylon, is reaching up with open mouth to eat the scroll. Inset circle: a honeycomb, representing the sweet taste of the scroll. Labels to add later: "Hand of God offering the word", "Scroll written with lamentation and woe", "Ezekiel (Son of man)", "Tastes as sweet as honey". Clean flat textbook style, white background.]
+![Ezekiel kneeling and reaching up as a scroll comes down from a cloud of glowing light; a honeycomb beside him shows the word was sweet as honey.](images/B8-02-prophet-ezekiel-calling-scene.png)
 
 ## The Call of Jeremiah
 

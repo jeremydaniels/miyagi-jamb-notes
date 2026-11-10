@@ -88,7 +88,7 @@ In how many ways can 5 students stand in a straight line for morning assembly?
 2. The number of arrangements is $5!$.
 3. $5! = 5 \times 4 \times 3 \times 2 \times 1 = 120 \text{ ways}$.
 
-[IMAGE: Five empty boxes (slots) in a row, labeled "1st", "2nd", "3rd", "4th", "5th". Inside the boxes are the numbers 5, 4, 3, 2, 1, representing the number of choices available for each slot when arranging 5 students in a line, with no student repeated. Clean flat textbook style, white background.]
+![Diagram showing five slots labeled 1st through 5th containing numbers 5, 4, 3, 2, and 1 multiplied together to calculate total permutations of 120.](images/E4-01-permutation-slot-method.png)
 
 **Case 2: Arranging $r$ objects chosen from $n$ distinct objects**
 If you have $n$ objects but you only want to choose and arrange $r$ of them, you use the Permutation formula, denoted as $^n P_r$ or $P(n, r)$:
@@ -128,7 +128,7 @@ To account for this lack of a fixed starting point, we must "lock" one person in
 The formula for arranging $n$ distinct objects in a circle is:
 $$(n - 1)!$$
 
-[IMAGE: A top-down view of 6 chairs arranged in a circle around a round table, with a curved arrow pointing along the edge of the table to show that there is no distinct first or last position. Clean flat textbook illustration, white background.]
+![Top-down diagram of six chairs arranged around a round table with a curved arrow showing rotational equivalence for circular permutations.](images/E4-02-circular-arrangement.png)
 
 **Worked Example 7:**
 In how many ways can 5 people be seated around a circular dining table?

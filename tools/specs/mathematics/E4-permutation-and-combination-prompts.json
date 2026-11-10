@@ -1,0 +1,10 @@
+[
+ [
+  "E4-01-permutation-slot-method",
+  "Five empty boxes (slots) in a row,, \"2nd\", \"3rd\", \"4th\", \"5th\". Inside the boxes are the numbers 5, 4, 3, 2, 1, representing the number of choices available for each slot when arranging 5 students in a line, with no student repeated."
+ ],
+ [
+  "E4-02-circular-arrangement",
+  "A top-down view of 6 chairs arranged in a circle around a round table, with a curved arrow pointing along the edge of the table to show that there is no distinct first or last position. Clean flat textbook illustration, white background."
+ ]
+]

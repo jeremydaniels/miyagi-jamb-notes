@@ -1,0 +1,406 @@
+{
+ "C7a-03-anopheles-culex-comparison": {
+  "labels": [
+   [
+    "Anopheles",
+    [
+     272,
+     63
+    ],
+    "L"
+   ],
+   [
+    "Culex",
+    [
+     754,
+     63
+    ],
+    "R"
+   ],
+   [
+    "Eggs single with floats",
+    [
+     385,
+     228
+    ],
+    "L"
+   ],
+   [
+    "Egg raft",
+    [
+     754,
+     182
+    ],
+    "R"
+   ],
+   [
+    "Larva parallel to surface",
+    [
+     278,
+     472
+    ],
+    "L"
+   ],
+   [
+    "Larva at an angle",
+    [
+     748,
+     560
+    ],
+    "R"
+   ],
+   [
+    "Siphon",
+    [
+     805,
+     437
+    ],
+    "R"
+   ],
+   [
+    "Adult at an angle",
+    [
+     247,
+     813
+    ],
+    "L"
+   ],
+   [
+    "Adult parallel to surface",
+    [
+     752,
+     838
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7a-04-plasmodium-life-cycle": {
+  "labels": [
+   [
+    "Sporozoites",
+    [
+     361,
+     256
+    ],
+    "L"
+   ],
+   [
+    "Liver cell",
+    [
+     194,
+     335
+    ],
+    "L"
+   ],
+   [
+    "Merozoites",
+    [
+     227,
+     494
+    ],
+    "L"
+   ],
+   [
+    "Red blood cell",
+    [
+     223,
+     591
+    ],
+    "L"
+   ],
+   [
+    "Ring stage",
+    [
+     152,
+     655
+    ],
+    "L"
+   ],
+   [
+    "Schizont",
+    [
+     241,
+     714
+    ],
+    "L"
+   ],
+   [
+    "Gametocytes",
+    [
+     357,
+     888
+    ],
+    "L"
+   ],
+   [
+    "Gametes fuse",
+    [
+     828,
+     702
+    ],
+    "R"
+   ],
+   [
+    "Ookinete",
+    [
+     854,
+     535
+    ],
+    "R"
+   ],
+   [
+    "Oocyst on stomach wall",
+    [
+     867,
+     379
+    ],
+    "R"
+   ],
+   [
+    "Salivary gland",
+    [
+     631,
+     151
+    ],
+    "R"
+   ],
+   [
+    "Human (intermediate host)",
+    [
+     197,
+     421
+    ],
+    "L"
+   ],
+   [
+    "Mosquito (definitive host)",
+    [
+     775,
+     355
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7a-05-cyclops-anatomy-guinea-worm": {
+  "labels": [
+   [
+    "Single eye",
+    [
+     513,
+     263
+    ],
+    "R"
+   ],
+   [
+    "Antenna",
+    [
+     311,
+     143
+    ],
+    "L"
+   ],
+   [
+    "Body segments",
+    [
+     508,
+     514
+    ],
+    "L"
+   ],
+   [
+    "Swimming legs",
+    [
+     352,
+     519
+    ],
+    "L"
+   ],
+   [
+    "Egg sac",
+    [
+     402,
+     719
+    ],
+    "L"
+   ],
+   [
+    "Tail (furca)",
+    [
+     538,
+     841
+    ],
+    "R"
+   ],
+   [
+    "Guinea worm larva inside",
+    [
+     847,
+     263
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7a-06-schistosoma-haematobium-life-cycle": {
+  "labels": [
+   [
+    "Eggs in urine",
+    [
+     522,
+     223
+    ],
+    "R"
+   ],
+   [
+    "Egg with spine",
+    [
+     768,
+     301
+    ],
+    "R"
+   ],
+   [
+    "Miracidium",
+    [
+     848,
+     398
+    ],
+    "R"
+   ],
+   [
+    "Bulinus snail (intermediate host)",
+    [
+     867,
+     564
+    ],
+    "R"
+   ],
+   [
+    "Cercariae (forked tail)",
+    [
+     778,
+     726
+    ],
+    "R"
+   ],
+   [
+    "Cercariae enter through skin",
+    [
+     547,
+     835
+    ],
+    "R"
+   ],
+   [
+    "Adult worms in veins of bladder",
+    [
+     241,
+     703
+    ],
+    "L"
+   ],
+   [
+    "Male",
+    [
+     200,
+     689
+    ],
+    "L"
+   ],
+   [
+    "Female",
+    [
+     212,
+     695
+    ],
+    "L"
+   ],
+   [
+    "Biomphalaria (S. mansoni)",
+    [
+     258,
+     904
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C7a-07-simulium-blackfly-life-cycle": {
+  "labels": [
+   [
+    "Fast-flowing river (rapids)",
+    [
+     167,
+     677
+    ],
+    "L"
+   ],
+   [
+    "Eggs",
+    [
+     292,
+     508
+    ],
+    "L"
+   ],
+   [
+    "Larvae attached to rock",
+    [
+     437,
+     811
+    ],
+    "L"
+   ],
+   [
+    "Head fans",
+    [
+     493,
+     727
+    ],
+    "L"
+   ],
+   [
+    "Pupa in cocoon",
+    [
+     835,
+     719
+    ],
+    "R"
+   ],
+   [
+    "Adult blackfly (humpbacked)",
+    [
+     619,
+     476
+    ],
+    "R"
+   ],
+   [
+    "Female bites by day",
+    [
+     258,
+     145
+    ],
+    "L"
+   ],
+   [
+    "Skin nodule with adult worms",
+    [
+     800,
+     263
+    ],
+    "R"
+   ],
+   [
+    "Microfilariae",
+    [
+     880,
+     176
+    ],
+    "R"
+   ]
+  ]
+ }
+}

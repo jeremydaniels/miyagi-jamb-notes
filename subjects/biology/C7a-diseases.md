@@ -232,7 +232,7 @@ The whole cycle from egg to adult takes about **7–14 days** in warm weather (f
 
 [IMAGE: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half of the diagram. 1: small boat-shaped eggs floating singly on the water surface, each with side floats (with a magnified inset of one egg). 2: a larva lying flat and parallel just below the water surface. 3: a comma-shaped pupa with two small breathing trumpets touching the surface. 4: an adult female mosquito emerging from the pupal case. 5: an adult female resting on a surface with her body tilted at an angle, head down. Labels: "Eggs laid singly", "Float", "Larva (parallel to surface)", "Spiracle", "Pupa", "Breathing trumpet", "Adult emerging", "Adult female (rests at an angle)", "Water surface". Clean flat textbook style, white background.]
 
-[IMAGE: Comparison of Anopheles and Culex mosquitoes in three rows with two columns. Left column Anopheles, right column Culex. Row 1: eggs: Anopheles single eggs with floats; Culex eggs stuck together in a raft. Row 2: larvae: Anopheles larva lying parallel just under the water surface; Culex larva hanging head-down at an angle from a long breathing siphon. Row 3: adults at rest on a wall: Anopheles with its body at an angle of about 45 degrees to the wall; Culex with its body parallel to the wall. Labels: "Anopheles", "Culex", "Eggs single with floats", "Egg raft", "Larva parallel to surface", "Larva at an angle", "Siphon", "Adult at an angle", "Adult parallel to surface". Clean flat textbook style, white background.]
+![Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.](images/C7a-03-anopheles-culex-comparison.png)
 
 #### Biology of *Plasmodium* (the malaria parasite)
 
@@ -270,7 +270,7 @@ So: **humans** are the **intermediate host** (asexual reproduction), and the **m
 
 **Textbook variation:** some school textbooks call humans the "primary host" of *Plasmodium* simply because the disease affects humans. Strictly, the host in which sexual reproduction occurs (the mosquito) is the definitive host.
 
-[IMAGE: Life cycle of Plasmodium in two halves joined by curved arrows. Left half "In humans": a mosquito biting an arm and injecting sporozoites; sporozoites entering a liver cell; liver cell bursting and releasing merozoites; merozoites entering red blood cells, showing a ring stage, a dividing schizont, and a red cell bursting to release more merozoites; some becoming gametocytes. Right half "In the mosquito": gametocytes taken up in a blood meal, gametes fusing in the stomach, a zygote becoming an ookinete, an oocyst on the stomach wall releasing sporozoites, and sporozoites moving to the salivary glands. Labels: "Sporozoites", "Liver cell", "Merozoites", "Red blood cell", "Ring stage", "Schizont", "Gametocytes", "Gametes fuse", "Ookinete", "Oocyst on stomach wall", "Salivary gland", "Human (intermediate host)", "Mosquito (definitive host)". Clean flat textbook style, white background.]
+![A circular diagram illustrating the life cycle of Plasmodium, showing the human host cycle with liver and blood stages, and the mosquito host cycle with gut and salivary gland stages.](images/C7a-04-plasmodium-life-cycle.png)
 
 #### How the biology of the mosquito and *Plasmodium* is used to control malaria
 
@@ -299,7 +299,7 @@ So: **humans** are the **intermediate host** (asexual reproduction), and the **m
 - It feeds on small organisms and particles, and **eats the guinea worm larvae** released into the water.
 - It is **killed by stomach acid** in humans, which releases the larvae it contains.
 
-[IMAGE: A magnified Cyclops (copepod) viewed from above: pear-shaped segmented body, a single dark eye in the middle of the head, two long first antennae spreading out, short second antennae, swimming legs, a forked tail, and two oval egg sacs at the sides of the abdomen. A small inset of a coiled guinea worm larva inside its body cavity. Labels: "Single eye", "Antenna", "Body segments", "Swimming legs", "Egg sac", "Tail (furca)", "Guinea worm larva inside". Clean flat textbook style, white background.]
+![A dorsal view of a Cyclops copepod displaying a single median eye, antennae, swimming legs, body segments, egg sacs, forked tail, and an inset of a guinea worm larva.](images/C7a-05-cyclops-anatomy-guinea-worm.png)
 
 #### Life cycle of the guinea worm and how it spreads
 
@@ -377,7 +377,7 @@ So: **humans** are the **intermediate host** (asexual reproduction), and the **m
 | Adult worms are killed by a drug | **Praziquantel** for infected people and regular mass treatment of school children |
 | Many people do not know how they are infected | **Health education** |
 
-[IMAGE: Life cycle of Schistosoma haematobium shown as a loop. A person urinating near a pond; spiny eggs in urine falling into water; an egg hatching into a ciliated miracidium; the miracidium entering a small left-coiling Bulinus snail among water plants; many fork-tailed cercariae leaving the snail; cercariae penetrating the skin of a child's leg as he wades in the water; adult male and female worms paired together in a blood vessel near the bladder. A small inset showing a Biomphalaria snail with a flat, disc-shaped shell for comparison. Labels: "Eggs in urine", "Egg with spine", "Miracidium", "Bulinus snail (intermediate host)", "Cercariae (forked tail)", "Cercariae enter through skin", "Adult worms in veins of bladder", "Male", "Female", "Biomphalaria (S. mansoni)". Clean flat textbook style, white background.]
+![A circular diagram illustrating the life cycle of Schistosoma haematobium from urination near water, intermediate snail host, cercariae penetrating human skin, to paired adult worms in bladder veins.](images/C7a-06-schistosoma-haematobium-life-cycle.png)
 
 ### The blackfly (*Simulium*) and *Onchocerca volvulus*
 
@@ -421,7 +421,7 @@ So: **humans** are the **intermediate host** (asexual reproduction), and the **m
 | Microfilariae in skin infect the fly | **Mass treatment with ivermectin** reduces microfilariae in people, so flies pick up fewer and transmission falls |
 | Flies breed near villages | Siting new settlements away from breeding rivers |
 
-[IMAGE: Life cycle of the blackfly Simulium in a fast-flowing rocky river with white water rapids. Eggs laid on a rock at the water line; larvae attached by their rear ends to a submerged rock, waving fan-like head brushes in the current; slipper-shaped pupal cocoons fixed to the rock with gill filaments; a small dark humpbacked adult fly flying above the river and then biting a person's leg on the riverbank. An inset shows a skin nodule containing coiled adult worms, and tiny microfilariae in the skin. Labels: "Fast-flowing river (rapids)", "Eggs", "Larvae attached to rock", "Head fans", "Pupa in cocoon", "Adult blackfly (humpbacked)", "Female bites by day", "Skin nodule with adult worms", "Microfilariae". Clean flat textbook style, white background.]
+![Illustration of the Simulium blackfly life cycle in river rapids, from eggs, larvae, and pupae on submerged rocks to adult flies biting a leg with an inset of skin microfilariae.](images/C7a-07-simulium-blackfly-life-cycle.png)
 
 ### The housefly (*Musca domestica*)
 

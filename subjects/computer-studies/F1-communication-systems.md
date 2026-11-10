@@ -88,7 +88,7 @@ Types of data networks include:
 | **Ownership** | Usually private (one person/school) | Private or public (ISP) | Usually public or distributed |
 | **Examples** | Cybercafe, computer lab | City-wide cable TV network | The Internet |
 
-[IMAGE: A conceptual diagram showing the different scales of networks: PAN (a person with a phone and wireless headphones), LAN (a school computer lab with interconnected desktop computers), MAN (buildings across a city connected together), and WAN (a globe showing connections between different countries). Clean flat textbook illustration, white background.]
+![Diagram showing 4 scales of networks: PAN (person with phone), LAN (computer lab), MAN (connected city buildings), and WAN (connected globe).](images/F1-01-conceptual-different-scales-networks.png)
 
 ### Types of Information System
 **Objective vii: List types of Information System**
@@ -99,7 +99,7 @@ Types of information systems highlighted in the syllabus include:
 - **Data Processing System:** A system that processes large volumes of routine, daily transactions to turn raw data into useful information. Examples include a bank's account processing system, a supermarket's point-of-sale (POS) checkout system, and the automated system that computes JAMB UTME results.
 - **Global Positioning System (GPS):** A satellite-based navigation system that provides accurate location, speed, and time information to a GPS receiver anywhere on Earth. GPS is widely used in smartphone map apps, vehicle tracking, and aviation.
 
-[IMAGE: An illustration of a communication satellite in space beaming signals down to various receivers on Earth: a satellite dish on a house (broadcasting), a smartphone in a person's hand showing a map route (GPS), and a ship in the ocean (satellite telephone). Clean flat textbook illustration, white background.]
+![A satellite beaming signals to a house dish, a smartphone showing a map, and a person on a ship using a satellite phone.](images/F1-02-communication-satellite-space-beaming.png)
 
 ## Key terms
 

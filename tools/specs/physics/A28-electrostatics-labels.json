@@ -1,0 +1,54 @@
+{
+ "A28-02-gold-leaf-electroscope": {
+  "labels": [
+   [
+    "brass cap",
+    [
+     512,
+     97
+    ],
+    "R"
+   ],
+   [
+    "insulator",
+    [
+     512,
+     278
+    ],
+    "R"
+   ],
+   [
+    "glass jar",
+    [
+     715,
+     661
+    ],
+    "R"
+   ],
+   [
+    "brass rod",
+    [
+     512,
+     496
+    ],
+    "R"
+   ],
+   [
+    "brass plate",
+    [
+     476,
+     726
+    ],
+    "L"
+   ],
+   [
+    "gold leaf",
+    [
+     559,
+     708
+    ],
+    "R"
+   ]
+  ]
+ }
+}

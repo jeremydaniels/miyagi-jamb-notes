@@ -71,7 +71,7 @@ Here are the step-by-step instructions to charge a neutral metal sphere positive
 4. Remove your finger (the earth connection) first.
 5. Finally, remove the negatively charged rod. The sphere is now left with a net **positive charge**, which redistributes itself evenly over the surface.
 
-[IMAGE: Four-panel diagram showing the steps of charging by induction. Panel 1: A negatively charged rod is brought near a neutral metal sphere on an insulating stand. The sphere shows '+' charges on the side near the rod and '-' charges on the far side. Panel 2: A wire connects the far side of the sphere to an earth symbol; electrons (arrows) flow down to the earth. Panel 3: The earth wire is removed while the rod is still held near the sphere. Panel 4: The rod is removed, and the '+' charges distribute evenly over the whole sphere. Clean flat textbook illustration, white background.]
+![Four-panel diagram illustrating the steps of charging a metal sphere by induction, showing grounding, electron flow, and redistribution of positive charge.](images/A28-01-charging-induction-schematic-panels.png)
 
 ## The electroscope
 
@@ -80,7 +80,7 @@ A gold-leaf electroscope is a sensitive laboratory instrument used in electrosta
 **Structure:**
 It consists of a brass cap connected to a vertical brass rod. The rod passes through an insulating rubber or sulphur stopper into a transparent glass jar (which protects the delicate parts from drafts of air). At the bottom of the rod inside the jar, there is a fixed brass plate and a very thin, lightweight gold (or aluminium) leaf hinged at the top. 
 
-[IMAGE: A cross-sectional view of a gold-leaf electroscope. A flat metal cap at the top is connected to a vertical metal rod. The rod passes through an insulating rubber stopper into a transparent glass jar. At the bottom of the rod inside the jar, there is a fixed vertical brass plate and a thin gold leaf hinged at the top, diverging at an angle away from the plate. Labels: "brass cap", "insulator", "glass jar", "brass rod", "brass plate", "gold leaf". Clean flat textbook illustration, white background.]
+![Textbook diagram of a gold-leaf electroscope showing a metal cap and rod passing through a stopper into a glass jar with a plate and deflected gold leaf.](images/A28-02-gold-leaf-electroscope.png)
 
 ### Uses of an electroscope
 
@@ -218,7 +218,7 @@ Electric field lines (or lines of force) are imaginary lines drawn to represent 
 - **Unlike charges (+ and -):** Lines leave the positive charge and curve over to enter the negative charge. The lines act like stretched elastic bands, pulling the two charges together.
 - **Like charges (+ and +):** Lines leave both charges but bend sharply away from each other to avoid crossing. This creates an empty region in the dead centre where there are no lines. This empty region is a **neutral point** where the net electric field is zero.
 
-[IMAGE: Four panels showing electric field flux patterns. Panel 1: An isolated positive charge '+' with straight arrows pointing outwards. Panel 2: An isolated negative charge '-' with straight arrows pointing inwards. Panel 3: A positive '+' and negative '-' charge side by side. Arrows originate from the '+' and curve smoothly over to end on the '-'. Panel 4: Two positive charges '+' and '+' side by side. Arrows point away from each charge and bend sharply upwards and downwards away from the center line to avoid each other. A large 'N' marks the empty neutral point in the center. Clean flat textbook illustration, white background.]
+![Four panels showing electric field lines for an isolated positive charge, an isolated negative charge, opposite charges, and two like positive charges with a neutral point N.](images/A28-03-electric-field-lines.png)
 
 ## Electric discharge and lightning
 

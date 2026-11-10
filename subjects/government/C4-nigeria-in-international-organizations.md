@@ -71,7 +71,7 @@ Nigeria’s relationship with the Commonwealth has seen dramatic highs and lows:
 *   **Readmission:** After Abacha's death and the return to democratic civilian rule under Olusegun Obasanjo, Nigeria was readmitted in May 1999.
 *   **Hosting:** To cement its return to the global stage, Nigeria hosted the Commonwealth Heads of Government Meeting (CHOGM) in Abuja in 2003.
 
-[IMAGE: A timeline of Nigeria's involvement in the Commonwealth. A horizontal line with key dates: 1960 (Joined at independence), 1990 (Emeka Anyaoku becomes Secretary-General), 1995 (Suspended under military rule over human rights abuses), 1999 (Readmitted after return to democracy), 2003 (Hosted CHOGM in Abuja). Clean flat textbook style, white background.]
+![Timeline of Nigerias involvement in the Commonwealth from 1960 to 2003 highlighting joining, leadership, suspension, readmission, and hosting the CHOGM summit.](images/C4-01-timeline-nigeria-commonwealth.png)
 
 ### Benefits to Nigeria's development
 *   **Education and training:** Thousands of Nigerians have benefited from the **Commonwealth Scholarship and Fellowship Plan**, gaining advanced degrees in the UK, Canada, and other member states.
@@ -127,7 +127,7 @@ ECOWAS is a regional bloc formed on **May 28, 1975**, through the Treaty of Lago
 *   **Headquarters:** To reflect Nigeria's dominance, the ECOWAS Commission, Parliament, and Court of Justice are all located in Abuja, Nigeria. 
 *   **ECOMOG (Peacekeeping):** In the 1990s, when brutal civil wars broke out in Liberia and Sierra Leone, ECOWAS formed a military arm called the **ECOWAS Monitoring Group (ECOMOG)**. Nigeria provided the vast majority of the soldiers, the commanders, and the funding to stop the wars. 
 
-[IMAGE: A map of West Africa showing the ECOWAS member states highlighted in green, with Nigeria standing out in dark green. A star marks Abuja to show the ECOWAS headquarters. A small inset box lists the benefits: "Free Movement", "Regional Trade", "Security (ECOMOG)". Clean flat textbook style, white background.]
+![Map of West Africa showing ECOWAS member states in green, Nigeria highlighted in dark green with headquarters marked at Abuja, and a box listing key regional benefits.](images/C4-02-map-west-africa-ecowas.png)
 
 ### Benefits to Nigeria's development
 *   **Free movement:** The ECOWAS Protocol on Free Movement of Persons, Residence, and Establishment is highly beneficial to Nigerians. It allows Nigerian traders and professionals to travel, live, and work in 14 other West African countries without requiring a visa.

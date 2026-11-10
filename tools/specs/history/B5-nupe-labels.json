@@ -1,0 +1,33 @@
+{
+ "B5-02-nupe-brass-smiths-scene": {
+  "regions": [
+   "Bida market"
+  ],
+  "labels": [
+   [
+    "Nupe brass-smiths",
+    [
+     314,
+     498
+    ],
+    "L"
+   ],
+   [
+    "Intricate metalwork",
+    [
+     435,
+     636
+    ],
+    "L"
+   ],
+   [
+    "Bida market",
+    [
+     620,
+     335
+    ],
+    "R"
+   ]
+  ]
+ }
+}

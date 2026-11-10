@@ -31,7 +31,7 @@ After Mallam Dendo died (around 1832 or 1833), his sons pushed aside the indigen
 * **The Rotational Succession:** Dendo's sons, primarily **Usman Zaki**, **Masaba**, and later **Umaru Majigi** (a grandson), established a highly centralized administration. To prevent destructive wars among themselves, the Fulani ruling class of Nupe created a **tripartite (three-part) rotational system** of succession. The throne of the Etsu Nupe rotated among the three ruling houses founded by Usman Zaki, Masaba, and Umaru Majigi. This system largely stabilized the politics of the emirate.
 * **The New Capital, Bida:** Around 1859, Etsu Masaba moved the capital to **Bida**. Bida was heavily fortified with city walls and became the administrative, military, and commercial nerve centre of the Nupe Emirate.
 
-[IMAGE: A map of central Nigeria in the 19th century showing the Nupe Emirate. The Niger River flows through the centre. The city of Bida is clearly marked with a star as the capital. Arrows point outwards from Bida to the south and southeast (towards Kabba, Lokoja, and the Niger-Benue confluence) to show the direction of Nupe expansion. Clean flat textbook style, white background, clear borders and text.]
+![Map of the 19th-century Nupe Emirate in central Nigeria, highlighting capital Bida with a star and red expansion arrows crossing the Niger River toward Kabba and Lokoja.](images/B5-01-map-th-century-nupe.png)
 
 ### Cultural and Economic Development
 The Fulani conquest brought significant cultural and economic changes to Nupeland:
@@ -65,7 +65,7 @@ Because Nupe controlled a large stretch of the Niger River, it was a crucial par
 * **The Royal Niger Company (RNC):** Relations turned hostile in the 1880s and 1890s when the British Royal Niger Company, led by George Goldie, began to push for political control and a monopoly over the river trade. 
 * **The Fall of Bida (1897):** Tensions over trade monopolies and Nupe's continued slave raiding in areas the RNC claimed to protect led to war. In **1897**, the heavily armed RNC forces, using Maxim machine guns, attacked and captured Bida, severely weakening the Nupe Emirate and forcing the Etsu into exile.
 
-[IMAGE: A 19th-century illustration-style depiction of the Nupe brass-smiths at work. Two men sit under a thatched roof, hammering intricate patterns into large brass trays and bowls. In the background, a local market scene showing traders exchanging goods. Labels to add later: "Nupe brass-smiths", "Intricate metalwork", "Bida market". Clean flat textbook style, warm earthy colours, white background.]
+![Nupe brass-smiths craft intricate patterns on metal trays and bowls under a thatched shelter while traders conduct business in a busy background market.](images/B5-02-nupe-brass-smiths-scene.png)
 
 ## Nupe Imperialism
 

@@ -51,7 +51,7 @@ Unlike Malthus, who predicted doom, the Demographic Transition Theory is based o
 
 *(Note: Some modern textbooks include a **Stage 5** (Declining), where the birth rate falls below the death rate, causing the population to shrink, as seen in Germany and Italy).*
 
-[IMAGE: Demographic Transition Model graph. The x-axis represents time divided into four vertical sections labeled Stage 1 to Stage 4. The y-axis represents rate per 1,000 people. A red line for Death Rate starts high and fluctuating in Stage 1, plunges downward in Stage 2, and flattens out low in Stages 3 and 4. A blue line for Birth Rate starts high in Stage 1, stays high through Stage 2, falls steadily in Stage 3, and flattens out low in Stage 4. A green line for Total Population starts low, curves up steeply through Stages 2 and 3, and levels off very high in Stage 4. Clean flat textbook illustration, white background.]
+![Demographic Transition Model graph illustrating changes in birth rate, death rate, and total population across four developmental stages over time.](images/A20-02-demographic-transition-model-graph.png)
 
 ### Examine the relevance of the theories to Nigeria
 

@@ -135,7 +135,7 @@ Even though African nations have their own flags, anthems, and presidents, neo-c
 ### Implications (Under-development)
 The main implication of neo-colonialism is **under-development**. Because wealth is constantly extracted and economies are controlled from the outside, African nations struggle to industrialize, poverty remains widespread, and true sovereignty is undermined.
 
-[IMAGE: A flowchart showing the cycle of neo-colonialism. A box labeled "African Nation" sends an arrow labeled "Cheap Raw Materials (Cocoa, Oil, Minerals)" to a box labeled "Foreign Powers / Corporations". A return arrow points back to the African Nation labeled "Expensive Manufactured Goods & High-Interest Loans". A third arrow points out of the African Nation labeled "Debt Repayment & Profits leaving the country". Clean flat textbook style, white background.]
+![Flowchart illustrating the cycle of neo-colonialism between an African nation and foreign powers, showing exchanges of raw materials, manufactured goods, loans, and debt repayment.](images/G5-01-economic-cycle-flowchart.png)
 
 ---
 
@@ -233,7 +233,7 @@ In the 21st century, terrorism has become a severe threat to nation-building in 
 3. **Cultural Imperialism:** Through global media, movies, and the internet, Western culture is heavily promoted. This often leads to the gradual loss of African traditional values, languages, and cultural identities among the youth.
 4. **Marginalization in Trade:** African nations largely remain exporters of raw materials in the globalized economy, meaning they capture only a tiny fraction of global wealth compared to industrialized nations.
 
-[IMAGE: Split illustration showing the dual nature of globalisation in Africa. Left side (Positive): A young African entrepreneur using a modern smartphone to manage a business, with a background showing a modern telecommunications mast and cargo ships exporting goods. Right side (Negative): A closed down traditional textile factory with a "To Let" sign, while a market trader outside sells imported second-hand clothing under a giant billboard showing Western pop culture. Clean flat textbook style, white background.]
+![Split illustration showing positive globalisation on the left with an entrepreneur and shipping port, and negative impacts on the right with a closed factory and imported clothing trader.](images/G5-02-comparative-economic-scenes.png)
 
 ---
 

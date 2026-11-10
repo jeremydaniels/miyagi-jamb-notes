@@ -42,7 +42,7 @@ Because plant cells are **totipotent** (meaning a single cell has the genetic ab
 
 In Nigeria, institutes like the **International Institute of Tropical Agriculture (IITA)** in Ibadan and the **National Root Crops Research Institute (NRCRI)** in Umudike use tissue culture to rapidly produce thousands of disease-free yam (*Dioscorea* spp.), cassava (*Manihot esculenta*), and plantain suckers for farmers.
 
-[IMAGE: Six-step diagram of plant tissue culture. 1. A healthy parent plant (e.g., cassava) with the shoot tip circled. 2. A scalpel cutting a tiny explant from the shoot tip. 3. The explant inside a glass jar on clear nutrient agar. 4. A blob of unspecialized green tissue (callus) forming. 5. Tiny shoots and roots emerging from the callus to form plantlets. 6. Plantlets transferred to small soil pots in a greenhouse. Labels: "1. Parent plant", "2. Explant taken from meristem", "3. Placed on sterile nutrient medium", "4. Callus formation", "5. Plantlet development", "6. Hardening off in soil". Clean flat textbook style, white background.]
+![Six-step diagram showing plant tissue culture from parent plant explant excision to callus formation, plantlet regeneration in jars, and transfer to soil pots.](images/E6-01-plant-tissue-culture-steps.png)
 
 ### 2. Anther Culture
 
@@ -68,7 +68,7 @@ The Latin term ***in vitro*** literally means "in glass" (referring to laborator
 
 This allows a single top-quality cow to produce dozens of superior offspring in her lifetime, rather than just one calf a year.
 
-[IMAGE: Flowchart illustrating IVF and Embryo Transfer in cattle. Left side: A prize-winning "Donor Cow" and a "Superior Bull". Arrows point from the cow to a petri dish (labeled "Eggs collected") and from the bull to the dish (labeled "Sperm collected"). Inside the dish, a sperm fertilizing an egg is shown. An arrow leads from the dish to an incubator (labeled "Embryos develop in vitro"). Finally, arrows lead from the incubator to three ordinary-looking "Surrogate Cows", which are shown giving birth to high-quality calves that look like the donor parents. Clean flat textbook style, white background.]
+![A diagram illustrating in vitro fertilization and embryo transfer in cattle, showing donor parents, egg fertilization in a petri dish, an incubator, and three surrogate mothers with calves.](images/E6-02-ivf-embryo-transfer-flowchart.png)
 
 ### 4. Genetic Engineering
 

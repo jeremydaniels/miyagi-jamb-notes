@@ -1,0 +1,145 @@
+{
+ "template": "graph",
+ "title": "Energy in Simple Harmonic Motion",
+ "x_label": "Displacement",
+ "y_label": "Energy",
+ "xmax": 10,
+ "ymax": 10,
+ "xticks": [
+  [
+   2,
+   "-A"
+  ],
+  [
+   5,
+   "0"
+  ],
+  [
+   8,
+   "+A"
+  ]
+ ],
+ "yticks": [
+  [
+   1,
+   "0"
+  ],
+  [
+   8,
+   "E"
+  ]
+ ],
+ "series": [
+  {
+   "label": "Total Energy",
+   "points": [
+    [
+     2,
+     8
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     8,
+     8
+    ]
+   ],
+   "smooth": false,
+   "color": "black",
+   "style": "solid",
+   "label_at": "start"
+  },
+  {
+   "label": "PE",
+   "points": [
+    [
+     2,
+     8
+    ],
+    [
+     2.75,
+     5.4
+    ],
+    [
+     3.5,
+     3.3
+    ],
+    [
+     4.25,
+     1.8
+    ],
+    [
+     5,
+     1
+    ],
+    [
+     5.75,
+     1.8
+    ],
+    [
+     6.5,
+     3.3
+    ],
+    [
+     7.25,
+     5.4
+    ],
+    [
+     8,
+     8
+    ]
+   ],
+   "smooth": true,
+   "color": "blue",
+   "style": "solid",
+   "label_at": "start"
+  },
+  {
+   "label": "KE",
+   "points": [
+    [
+     2,
+     1
+    ],
+    [
+     2.75,
+     3.6
+    ],
+    [
+     3.5,
+     5.7
+    ],
+    [
+     4.25,
+     7.2
+    ],
+    [
+     5,
+     8
+    ],
+    [
+     5.75,
+     7.2
+    ],
+    [
+     6.5,
+     5.7
+    ],
+    [
+     7.25,
+     3.6
+    ],
+    [
+     8,
+     1
+    ]
+   ],
+   "smooth": true,
+   "color": "red",
+   "style": "solid",
+   "label_at": "end"
+  }
+ ]
+}

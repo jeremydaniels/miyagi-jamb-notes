@@ -113,7 +113,7 @@ $$\tan \theta = \frac{v^2}{r g}$$
 *(where $v$ is velocity in $\text{m s}^{-1}$, $r$ is radius in meters, and $g$ is acceleration due to gravity, usually $10\ \text{m s}^{-2}$).*
 If a vehicle travels at this exact "design speed," it will not skid even if the road is perfectly smooth or covered in oil.
 
-[IMAGE: A cross-section of a car moving into the page on a banked road surface. The road is tilted at an angle theta to the horizontal. An arrow pointing directly downwards from the car represents its weight (mg). An arrow perpendicular to the tilted road surface represents the Normal reaction (N). The Normal reaction is resolved into a vertical upward component (N cos theta) and a horizontal inward component (N sin theta) which points towards the centre of the curve, labelled 'Centripetal Force'. Clean flat textbook illustration, white background.]
+![Free-body diagram of a car on a banked curve showing weight mg downwards, normal force N perpendicular to the incline, resolved into vertical component N cos theta and horizontal centripetal force N sin theta.](images/A3c-01-banked-road-free-body.png)
 
 ### 2. The Conical Pendulum
 A conical pendulum consists of a mass (bob) attached to a string of length $l$, which is whirled in a horizontal circle. As it spins, the string sweeps out the shape of a cone. 
@@ -194,7 +194,7 @@ $$a = -\omega^2 x$$
 4. **A Loaded Test Tube:** A test tube weighted with sand floating upright in water; if pushed down and released, it bobs up and down in S.H.M.
 5. **A Tuning Fork:** The metal prongs vibrate back and forth in S.H.M when struck.
 
-[IMAGE: A diagram showing a simple pendulum undergoing S.H.M. A spherical bob is suspended from a rigid horizontal support by a string of length 'l'. The bob is drawn with a solid line at the central equilibrium position (x=0) and with dashed lines at maximum displacement positions to the left and right (x = -A and x = +A). Arrows at the extreme positions point back towards the centre, labelled 'Restoring force'. The angle of swing, theta, is marked at the pivot. Clean flat textbook illustration, white background.]
+![Diagram of a simple pendulum in simple harmonic motion showing central equilibrium position and maximum displacements with restoring force arrows and angular displacement.](images/A3c-02-pendulum-simple-harmonic-motion.png)
 
 ---
 
@@ -274,7 +274,7 @@ During Simple Harmonic Motion, there is a continuous transformation of energy be
    $$E = \frac{1}{2} m \omega^2 A^2$$
    Notice how the $x$ terms completely cancel out. The total energy formula has no $x$ in it. This mathematically proves that the total energy is a constant value, totally independent of the object's position.
 
-[IMAGE: A graph showing the energy changes in Simple Harmonic Motion. The horizontal x-axis represents displacement from -A to +A. The vertical y-axis represents Energy. There are three curves plotted: 1) A U-shaped curve for Potential Energy (PE) starting at maximum at -A, dropping to zero at the origin, and rising to maximum at +A. 2) An inverted U-shaped curve for Kinetic Energy (KE) starting at zero at -A, peaking at maximum at the origin, and dropping to zero at +A. 3) A straight, flat horizontal line across the top showing that Total Energy (E) remains constant at all points. Clean flat textbook style, white background.]
+![Graph of energy versus displacement in simple harmonic motion showing parabolic curves for kinetic and potential energy under a horizontal line for constant total energy.](images/A3c-03-shm-energy-displacement-graph.png)
 
 ### S.H.M Calculations (Worked Examples)
 

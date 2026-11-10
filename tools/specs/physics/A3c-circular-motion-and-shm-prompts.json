@@ -1,0 +1,14 @@
+[
+ [
+  "A3c-01-banked-road-free-body",
+  "A cross-section of a car moving into the page on a banked road surface. The road is tilted at an angle theta to the horizontal. An arrow pointing directly downwards from the car represents its weight (mg). An arrow perpendicular to the tilted road surface represents the Normal reaction (N). The Normal reaction is resolved into a vertical upward component (N cos theta) and a horizontal inward component (N sin theta) which points towards the centre of the curve, labelled 'Centripetal Force'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3c-02-pendulum-simple-harmonic-motion",
+  "A diagram showing a simple pendulum undergoing S.H.M. A spherical bob is suspended from a rigid horizontal support by a string of length 'l'. The bob is drawn with a solid line at the central equilibrium position (x=0) and with dashed lines at maximum displacement positions to the left and right (x = -A and x = +A). Arrows at the extreme positions point back towards the centre, labelled 'Restoring force'. The angle of swing, theta, is marked at the pivot. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3c-03-shm-energy-displacement-graph",
+  "A graph showing the energy changes in Simple Harmonic Motion. The horizontal x-axis represents displacement from -A to +A. The vertical y-axis represents Energy. There are three curves plotted: 1) A U-shaped curve for Potential Energy (PE) starting at maximum at -A, dropping to zero at the origin, and rising to maximum at +A. 2) An inverted U-shaped curve for Kinetic Energy (KE) starting at zero at -A, peaking at maximum at the origin, and dropping to zero at +A. 3) A straight, flat horizontal line across the top showing that Total Energy (E) remains constant at all points."
+ ]
+]

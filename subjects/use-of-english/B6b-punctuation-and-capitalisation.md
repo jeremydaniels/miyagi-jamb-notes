@@ -198,7 +198,7 @@ This is very important for **sentence interpretation** questions.
 - **Wrong:** *The book, that I bought yesterday, is torn.*
 - **Right:** *The book, which I bought yesterday, is torn.* / *The book that I bought yesterday is torn.*
 
-[IMAGE: Two side-by-side panels on a white background. Left panel: five students standing in a row; only two of them hold trophies and are highlighted with a soft glow, the other three hold nothing. Right panel: the same five students, all five holding trophies. Simple flat educational illustration, Nigerian school uniforms (white shirts, green shorts or skirts), soft palette. Labels: left "The students who passed were given prizes (only some)", right "The students, who passed, were given prizes (all of them)".]
+![Two panels showing five students in Nigerian school uniforms. On the left, two hold trophies; on the right, all five hold trophies to illustrate relative clauses.](images/B6b-01-relative-clause-punctuation-comparison.png)
 
 ### 6. In direct address (calling someone by name)
 

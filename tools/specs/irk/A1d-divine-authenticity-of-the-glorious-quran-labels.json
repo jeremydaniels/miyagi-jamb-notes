@@ -1,22 +1,19 @@
 {
  "A1d-01-symbolic-religious-scene": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Humanity and Jinn attempting to match it",
-    [
-     272,
-     493
-    ],
-    "L"
+    "Humanity and Jinn\nattempting to match it",
+    263,
+    829
    ],
    [
-    "The Glorious Qur'an: Matchless and Divine (Q.17:88)",
-    [
-     762,
-     518
-    ],
-    "R"
+    "The Glorious Qur'an:\nMatchless and Divine\n(Q.17:88)",
+    763,
+    816
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

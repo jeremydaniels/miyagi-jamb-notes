@@ -42,7 +42,7 @@ The story of the Transfiguration is recorded in all three Synoptic Gospels (Matt
 8. **The journey down the mountain:** As they came down, Jesus commanded them strictly: "Tell the vision to no man, until the Son of man be risen again from the dead." 
 9. **The question about Elijah:** The disciples kept the matter secret but debated what "rising from the dead" meant. They then asked Jesus, "Why then say the scribes that Elias must first come?" Jesus answered that Elijah truly must come first to restore all things, but that "Elias is come already," and the authorities did not recognize him but treated him poorly. Jesus warned that the Son of Man would suffer similarly. The disciples then understood that He was speaking about **John the Baptist**.
 
-[IMAGE: A clean flat textbook illustration of a mountaintop. In the centre, a glowing figure of Jesus in dazzling white robes. To His left is Moses, holding the two stone tablets of the Law. To His right is Elijah in a prophet's mantle. In the foreground, three disciples (Peter, James, and John) are on the ground, shielding their eyes from the bright light. A radiant cloud hovers directly above them. Labels to add later: "Jesus transfigured", "Moses (The Law)", "Elijah (The Prophets)", "Peter, James and John", "The bright cloud", "Voice of God". White background.]
+![Textbook illustration of the Transfiguration showing Jesus in white with Moses holding tablets and Elijah beside Him, under a bright cloud with three disciples below.](images/C9-01-transfiguration-jesus-scene.png)
 
 ### Comparison of the Gospel Accounts
 

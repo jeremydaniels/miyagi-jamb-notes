@@ -151,7 +151,7 @@ Storage methods, just like processing, can be divided into traditional and moder
 
 ![An illustration of a traditional yam barn structure with live wooden poles supporting leafy shade, horizontal crossbars, and individual yam tubers tied to the frame.](images/E5-02-traditional-yam-barn-structure.png)
 
-![A wooden maize crib raised on stilt legs with conical rat guards, wire mesh walls filled with corn cobs, and a corrugated iron roof.](images/E5-03-maize-storage-crib.png)
+[IMAGE: A rectangular farm structure known as a maize crib. It has a wooden framework raised on stilt legs about 1 metre off the ground. On each leg is a downward-pointing metal cone (a rat guard). The walls are made of wire mesh to allow wind to blow through. The crib is filled with yellow maize on the cob. It has a sloped corrugated iron roof to protect from rain. Labels: "Roof", "Wire mesh walls for ventilation", "Maize on the cob", "Stilt leg", "Rat guard". Clean flat textbook style, white background.]
 
 ### Modern Storage Facilities
 

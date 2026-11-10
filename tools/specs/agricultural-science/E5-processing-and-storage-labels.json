@@ -28,53 +28,6 @@
    ]
   ]
  },
- "E5-03-maize-storage-crib": {
-  "regions": [
-   "Wire mesh walls for ventilation"
-  ],
-  "labels": [
-   [
-    "Roof",
-    [
-     619,
-     247
-    ],
-    "R"
-   ],
-   [
-    "Wire mesh walls for ventilation",
-    [
-     248,
-     396
-    ],
-    "L"
-   ],
-   [
-    "Maize on the cob",
-    [
-     437,
-     592
-    ],
-    "L"
-   ],
-   [
-    "Stilt leg",
-    [
-     531,
-     883
-    ],
-    "R"
-   ],
-   [
-    "Rat guard",
-    [
-     538,
-     811
-    ],
-    "R"
-   ]
-  ]
- },
  "E5-04-modern-grain-silo": {
   "regions": [
    "Cylindrical metal body"

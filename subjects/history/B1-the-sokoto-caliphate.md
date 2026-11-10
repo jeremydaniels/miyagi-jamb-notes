@@ -95,7 +95,7 @@ Usman dan Fodio died in **1817**. After a brief succession dispute, Muhammed Bel
 
 The Sokoto Caliphate was not a tightly controlled, centralized state. It was a **confederation** or a federal system of semi-independent **emirates** that pledged loyalty to the Caliph in Sokoto. 
 
-[IMAGE: A map of the Nigeria area in the mid-19th century showing the vast extent of the Sokoto Caliphate. The Caliphate covers most of the northern region. Two stars mark the twin capitals: Sokoto (East) and Gwandu (West). Key emirate cities like Kano, Zaria, Katsina, Bauchi, Adamawa, Nupe (Bida), and Ilorin are shown as dots. To the northeast is the independent Borno Empire. To the southwest is the declining Oyo Empire. Clean flat textbook illustration, white background.]
+![Historical map showing the Sokoto Caliphate in mid-19th-century Nigeria, its twin capitals Sokoto and Gwandu, major emirates, Borno Empire to the northeast, and Oyo Empire to the southwest.](images/B1-01-map-th-century-sokoto.png)
 
 **1. The Caliph (Sultan)**
 - The Caliph, based in Sokoto, was the *Amir al-Muminin* (Commander of the Faithful). 

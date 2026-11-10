@@ -66,7 +66,7 @@ A **supply schedule** is a table showing the different quantities of a commodity
 
 A **supply curve** is the graphical representation of the supply schedule. Because price and quantity supplied move in the same direction, the normal supply curve slopes **upward from left to right**. 
 
-[IMAGE: A graph showing a standard supply curve. The vertical axis (Y-axis) is labeled "Price (₦)" and the horizontal axis (X-axis) is labeled "Quantity Supplied (Bags)". The points from the table above, written as (quantity, price): (20, 10000), (40, 15000), (60, 20000), (80, 25000) and (100, 30000), are plotted and connected by a straight line sloping upwards from left to right. The line is labeled "S". Clean flat textbook illustration, white background.]
+![A graph of an upward-sloping supply curve labeled S, plotting Price in Naira against Quantity Supplied in Bags through five data points from 20 to 100 bags.](images/A6-01-supply-curve-plot.png)
 
 ## Change in Quantity Supplied vs. Change in Supply
 
@@ -83,7 +83,7 @@ This is one of the most frequently tested topics in JAMB. You must strictly sepa
 | **Causes** | Only a change in the **price of the commodity**. | Changes in technology, cost of production, weather, government policy, etc. |
 | **Terminology** | An upward movement is an **expansion (or extension)** of supply. A downward movement is a **contraction** of supply. | A rightward shift is an **increase** in supply. A leftward shift is a **decrease** in supply. |
 
-[IMAGE: Two side-by-side graphs. Graph 1 (left) shows a "Change in Quantity Supplied": A single upward-sloping supply curve with two points, A and B. An arrow points from A to B along the curve, showing price increasing from P1 to P2 and quantity increasing from Q1 to Q2. Title: "Movement along the curve". Graph 2 (right) shows a "Change in Supply": Three separate upward-sloping supply curves labeled S1 (original), S2 (right shift), and S3 (left shift). A horizontal dashed line shows price remains constant at P1, while arrows point right from Q1 to Q2 (increase in supply) and left from Q1 to Q3 (decrease in supply). Title: "Shift of the curve". Clean flat textbook style, white background.]
+![Two economics graphs illustrating a movement along a single supply curve versus rightward and leftward shifts of the entire supply curve at a constant price.](images/A6-02-supply-curve-shift-comparison.png)
 
 ## Types of Supply
 
@@ -144,7 +144,7 @@ The coefficient we just calculated determines the **nature of elasticity**:
 4.  **Elastic Supply (PES > 1):** A small percentage change in price leads to a larger percentage change in quantity supplied. The curve is gently sloping (flatter).
 5.  **Perfectly Elastic Supply (PES = $\infty$):** At a specific price, producers supply an infinite amount, but if price falls even slightly, supply drops to zero. The curve is horizontal.
 
-[IMAGE: A panel of five supply curves showing different elasticities. 1. A vertical line labeled PES=0 (Perfectly inelastic). 2. A steep upward-sloping line labeled PES<1 (Inelastic). 3. A 45-degree upward line starting from the origin labeled PES=1 (Unitary elastic). 4. A flatter upward-sloping line labeled PES>1 (Elastic). 5. A horizontal line labeled PES=infinity (Perfectly elastic). Axes are Price (Y) and Quantity Supplied (X). Clean flat textbook illustration, white background.]
+![A price elasticity of supply diagram showing five distinct supply curves representing perfectly inelastic, inelastic, unitary elastic, elastic, and perfectly elastic supply.](images/A6-03-price-elasticity-supply-panel.png)
 
 **Determinants of Elasticity of Supply (Why are some goods elastic and others inelastic?)**
 

@@ -1,0 +1,85 @@
+{
+ "template": "graph",
+ "title": "Price Elasticity of Supply (PES)",
+ "x_label": "Quantity Supplied",
+ "y_label": "Price",
+ "xmax": 12,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "PES = 0 (Perfectly inelastic)",
+   "points": [
+    [
+     2.5,
+     0
+    ],
+    [
+     2.5,
+     9
+    ]
+   ],
+   "smooth": false,
+   "label_at": "end"
+  },
+  {
+   "label": "PES < 1 (Inelastic)",
+   "points": [
+    [
+     2,
+     0
+    ],
+    [
+     6,
+     9
+    ]
+   ],
+   "smooth": false,
+   "label_at": "end"
+  },
+  {
+   "label": "PES = 1 (Unitary elastic)",
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     8,
+     8
+    ]
+   ],
+   "smooth": false,
+   "label_at": "end"
+  },
+  {
+   "label": "PES > 1 (Elastic)",
+   "points": [
+    [
+     0,
+     2
+    ],
+    [
+     8.5,
+     6
+    ]
+   ],
+   "smooth": false,
+   "label_at": "end"
+  },
+  {
+   "label": "PES = ∞ (Perfectly elastic)",
+   "points": [
+    [
+     0,
+     7.5
+    ],
+    [
+     8.5,
+     7.5
+    ]
+   ],
+   "smooth": false,
+   "label_at": "end"
+  }
+ ]
+}

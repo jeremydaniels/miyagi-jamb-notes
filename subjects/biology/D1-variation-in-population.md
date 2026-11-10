@@ -212,7 +212,7 @@ The Rhesus system was discovered in **1940** by **Karl Landsteiner and Alexander
 
 A person's full blood group combines both systems, for example **O positive (O+)**, **A negative (A−)** or **AB positive (AB+)**.
 
-[IMAGE: Diagram of the four ABO blood groups in four columns headed A, B, AB and O. In each column, draw a large red blood cell (red biconcave disc) with the correct surface antigens: small blue triangles for antigen A and small green squares for antigen B (group A: triangles only; group B: squares only; group AB: both; group O: none). Below each cell, draw a pale yellow plasma box containing Y-shaped antibodies: green Y-shapes with square-shaped notches for anti-B and blue Y-shapes with triangle-shaped notches for anti-A (group A: anti-B only; group B: anti-A only; group AB: none; group O: both). Labels to add later: "Group A", "Group B", "Group AB", "Group O", "red blood cell", "antigen A", "antigen B", "plasma", "anti-A", "anti-B", "no antigens", "no antibodies". Clean flat textbook style, white background.]
+![Diagram showing the four ABO blood groups with red blood cells, surface antigens A and B, and corresponding plasma antibodies anti-A and anti-B.](images/D1-02-abo-blood-groups-antigen.png)
 
 ## Continuous and discontinuous variation
 
@@ -253,7 +253,7 @@ A person's full blood group combines both systems, for example **O positive (O+)
 | Human examples | Height, weight, skin colour, hand span, intelligence | Blood groups, tongue rolling, PTC tasting, sex, fingerprint type, albinism |
 | Plant and animal examples | Height of maize plants, length of mango leaves, milk yield, egg mass | Tall or dwarf pea, round or wrinkled seeds, black or white guinea pig coat |
 
-[IMAGE: Two graphs side by side. Left graph titled area for "Continuous variation": a histogram of touching vertical bars of increasing then decreasing height, in soft blue, with a smooth bell-shaped curve drawn over the top in dark blue; x-axis shows a measured value, y-axis shows number of individuals. Right graph for "Discontinuous variation": a bar chart with four separate orange bars with clear gaps between them, of different heights (tallest first, then two medium, then a short one), representing blood groups. Labels to add later: "Continuous variation (e.g. height)", "Discontinuous variation (e.g. ABO blood group)", "Number of pupils" on both y-axes, "Height (cm)" on the left x-axis, "O", "A", "B", "AB" under the four right-hand bars, "normal curve" pointing to the smooth curve, "no gaps between bars", "gaps between bars". Clean flat textbook style, white background.]
+![Side-by-side graphs comparing continuous variation in height, showing a normal distribution curve over touching histogram bars, with discontinuous variation in ABO blood groups shown as separated bars.](images/D1-03-continuous-discontinuous-variation-graphs.png)
 
 **Memory trick:** **c**ontinuous = **c**urve and **c**entimetres (measured); **d**iscontinuous = **d**istinct groups (counted).
 
@@ -325,7 +325,7 @@ The **habitat** is the particular place where an organism lives. Different habit
 | **Habitat** | Different conditions in the place where the organism lives | No | Shade leaves vs sun leaves; water and air leaves of *Sagittaria* |
 | **Genes and environment together** | Genes set the potential; environment decides how much is reached | Partly | Height, weight, skin colour, crop yield |
 
-[IMAGE: Concept diagram with three coloured boxes feeding arrows into a central box. Left box (green) shows a DNA double helix and a pair of chromosomes. Top-right box (orange) shows a plate of food, a sun and a small thermometer. Bottom-right box (blue) shows a shaded forest plant beside the same kind of plant in open sun. Arrows from all three point to a central box showing two pupils of the same age with different heights. Labels to add later: "Genetic constitution (genes)", "Environmental conditions (food, light, temperature, disease)", "Habitat (where the organism lives)", "Phenotype (observable characteristics)", "Genotype + environment = phenotype". Clean flat textbook style, white background.]
+![Diagram showing genetic constitution, environmental conditions, and habitat boxes pointing to a central phenotype box illustrating two same-age pupils of different heights.](images/D1-04-gene-environment-interaction-flowchart.png)
 
 ## Measuring heights and weights of pupils
 
@@ -421,7 +421,7 @@ A **frequency** is the number of times something occurs: here, the number of pup
   - Total = 6,370. Mean = 6,370 ÷ 40 ≈ **159.3 cm**.
 - Most pupils (27 out of 40) are between 150 and 164 cm. Very few are very short or very tall. This is typical of **continuous variation**.
 
-[IMAGE: A histogram of the invented sample heights of 40 pupils. The x-axis is marked with eight touching class bars: 140–144, 145–149, 150–154, 155–159, 160–164, 165–169, 170–174, 175–179 cm. Bar heights (frequency) are 1, 3, 6, 10, 11, 6, 2 and 1, drawn in soft blue with thin dark outlines and no gaps between bars. The y-axis runs from 0 to 12 with gridlines every 2. A smooth dark blue bell-shaped curve joins the midpoints of the bar tops. Labels to add later: "Frequency (number of pupils)" on the y-axis, "Height (cm)" on the x-axis, the eight class labels under the bars, "modal class (160–164 cm)" pointing to the tallest bar, "normal distribution curve" pointing to the curve, title "Heights of 40 pupils aged 15 (invented sample data)". Clean flat textbook style, white background.]
+![Histogram displaying heights of 40 pupils across eight class intervals, overlaid with a smooth normal distribution curve joining the bar midpoints and identifying the modal class.](images/D1-06-height-distribution-histogram.png)
 
 ### Worked example: weights
 
@@ -442,7 +442,7 @@ A **frequency** is the number of times something occurs: here, the number of pup
 - **Estimated mean:** (37 × 2) + (42 × 5) + (47 × 9) + (52 × 12) + (57 × 7) + (62 × 4) + (67 × 1) = 74 + 210 + 423 + 624 + 399 + 248 + 67 = 2,045. Mean = 2,045 ÷ 40 ≈ **51.1 kg**.
 - The histogram again rises to a peak in the middle and falls away on both sides, giving a roughly bell-shaped curve. It is slightly **lopsided** (skewed): there is a longer "tail" towards the heavier side. Weight distributions often look like this, because a few people are much heavier than average.
 
-[IMAGE: A histogram of the invented sample weights of 40 pupils. Seven touching bars in soft green for the classes 35–39, 40–44, 45–49, 50–54, 55–59, 60–64 and 65–69 kg, with heights 2, 5, 9, 12, 7, 4 and 1. The y-axis runs from 0 to 14. A smooth dark green curve joins the midpoints of the bar tops, slightly longer on the right side. Labels to add later: "Frequency (number of pupils)", "Weight (kg)", the seven class labels, "modal class (50–54 kg)", "frequency curve", title "Weights of 40 pupils aged 15 (invented sample data)". Clean flat textbook style, white background.]
+![Histogram showing weights of 40 pupils across seven weight classes from 35 to 69 kilograms, overlaid with a smooth frequency curve peaking at the modal class.](images/D1-07-weight-distribution-histogram.png)
 
 ### Features of a normal distribution curve
 
@@ -537,7 +537,7 @@ For discontinuous data such as blood groups or tongue rolling, you draw a **bar 
 
 **Textbook variation:** the percentages differ slightly between sources and between populations. Some classification systems put double loops and central pocket loops under "whorls" and so use only three classes (arches, loops, whorls), as Galton did. Many Nigerian textbooks, like the syllabus, use four classes: arches, loops, whorls and composites (compounds).
 
-[IMAGE: Four enlarged fingerprint patterns in a row, drawn as clean dark-grey ridge lines on white. 1: plain arch, ridges flowing from left to right rising in a gentle hill in the middle. 2: loop, ridges entering from the left, curving round in a hairpin and leaving on the left, with a small triangular delta on the right. 3: whorl, concentric circular-to-spiral ridges around a central core, with a delta on each side. 4: composite (double loop), two interlocking loops curving round each other in an S-shape, with two deltas. Labels to add later: "Arch", "Loop", "Whorl", "Composite (double loop)", "ridges", "delta" (on the loop and on each side of the whorl), "core" (centre of the loop and whorl). Clean flat textbook style, white background.]
+![Diagram illustrating four main fingerprint patterns: plain arch, loop with core and delta, whorl with core and two deltas, and composite double loop with two deltas.](images/D1-09-fingerprint-pattern-types.png)
 
 ### Features used in identification
 
@@ -624,7 +624,7 @@ The syllabus names three examples; others you may meet in textbooks are also lis
 
 **Why it works:** anti-A serum contains antibodies that clump red cells carrying antigen A; anti-B clumps cells carrying antigen B. So the test tells you which antigens are on the person's red cells.
 
-[IMAGE: A white tile with four rows of results, each row showing two circular drops of blood side by side, the left drop mixed with anti-A serum and the right with anti-B serum. Row 1: left drop clumped (grainy dark red specks on pale background), right drop smooth and even. Row 2: left smooth, right clumped. Row 3: both clumped. Row 4: both smooth. Labels to add later: column headings "anti-A serum" and "anti-B serum"; row labels "Group A", "Group B", "Group AB", "Group O"; "agglutination (clumping)" pointing to one clumped drop and "no agglutination" pointing to one smooth drop. Clean flat textbook style, white background.]
+![Diagram showing ABO blood typing results on a tile with anti-A and anti-B sera, demonstrating agglutination patterns for Groups A, B, AB, and O.](images/D1-10-blood-agglutination-test-tile.png)
 
 **Safety:** in schools, blood testing must only be done under strict supervision with sterile, single-use lancets, or replaced by a demonstration using simulated blood kits. Never touch another person's blood with bare hands.
 
@@ -670,7 +670,7 @@ Because physiological variations are **discontinuous**, people can be sorted (ca
 
 **Combining categories:** if you record several physiological characters together, people become easier to tell apart. For example, "O+, roller, taster" describes many people, but "AB−, non-roller, non-taster" describes very few. This idea of combining discontinuous characters is the basis of their use in identification (Objectives ix and x).
 
-[IMAGE: Three small bar charts side by side, each with separate bars and gaps between them, in soft colours. Chart 1: two bars, "Rollers" (28) and "Non-rollers" (12). Chart 2: two bars, "Tasters" (29) and "Non-tasters" (11). Chart 3: four bars for blood groups O (21), A (9), B (8), AB (2). Each y-axis labelled "Number of pupils" from 0 to 30. Labels to add later: chart titles "Tongue rolling", "PTC tasting", "ABO blood groups", the bar names, "Number of pupils", and a caption "Invented sample data for 40 pupils". Clean flat textbook style, white background.]
+![Three bar charts showing sample data for 40 pupils: tongue rolling ability, PTC tasting ability, and ABO blood group distribution.](images/D1-11-discontinuous-variation-bar-charts.png)
 
 ## Blood groups in blood transfusion and paternity
 
@@ -816,7 +816,7 @@ The ABO blood group is controlled by one gene with three alleles: **I<sup>A</sup
 
 Today, **DNA testing** has replaced blood grouping for paternity. A child gets half of its DNA from each parent, so the child's DNA pattern must match the mother's and the true father's. DNA tests can **exclude** a man with near certainty and can show that a man **is** the father with a probability usually above 99.9% (see Objective x).
 
-[IMAGE: Paternity diagram. A mother figure labelled with a blue "A" badge and a child figure labelled with a green "B" badge connected by a line. Two possible fathers stand to the right: Man 1 with a grey "O" badge and a red cross beside him, Man 2 with a green "B" badge and an orange question mark beside him. Small allele tags under each person: mother "I^A i", child "I^B i", Man 1 "i i", Man 2 "I^B I^B or I^B i". Labels to add later: "Mother (group A)", "Child (group B)", "Man 1 (group O): excluded, has no I^B allele", "Man 2 (group B): could be the father, not proved", "Child's I^B must come from the father". Clean flat textbook style, white background.]
+![Paternity diagram showing blood type inheritance where a group A mother and group B child exclude a group O man while a group B man could be the father.](images/D1-13-blood-group-paternity-exclusion.png)
 
 ## Discontinuous variation in crime detection
 
@@ -864,7 +864,7 @@ Every person (except identical twins) has a unique sequence of **DNA**. DNA fing
 - Settling **immigration** and **inheritance** disputes about family relationships.
 - Identifying wildlife products (for example, ivory or pangolin scales) to fight illegal trade.
 
-[IMAGE: A simplified DNA fingerprint gel with five vertical lanes on a pale grey rectangle. Each lane contains six to eight dark horizontal bands at different heights, like barcodes. Lane 1 "crime scene sample" has the same band pattern as lane 3 "Suspect 2". Lanes 2 and 4 ("Suspect 1", "Suspect 3") have clearly different patterns. Lane 5 "victim" has another different pattern. A small arrow at the side shows the direction DNA moves from top (negative electrode, wells) to bottom (positive electrode). Labels to add later: "Crime scene", "Suspect 1", "Suspect 2", "Suspect 3", "Victim", "wells", "bands (DNA fragments)", "matching pattern", "direction of DNA movement", "small fragments travel further". Clean flat textbook style, white background.]
+![A DNA fingerprint gel diagram showing five lanes where the Crime scene sample matches Suspect 2, with electrophoresis electrodes and fragment movement labeled.](images/D1-14-dna-gel-electrophoresis-fingerprint.png)
 
 ### Comparing the methods
 

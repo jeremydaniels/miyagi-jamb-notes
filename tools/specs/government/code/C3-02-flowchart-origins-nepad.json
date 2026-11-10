@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Origins of NEPAD",
+ "nodes": [
+  {
+   "id": "map",
+   "text": "MAP\n(Obasanjo, Mbeki, Bouteflika)",
+   "shape": "box"
+  },
+  {
+   "id": "omega",
+   "text": "OMEGA Plan\n(Wade)",
+   "shape": "box"
+  },
+  {
+   "id": "uneca",
+   "text": "Compact for African Recovery\n(UNECA)",
+   "shape": "box"
+  },
+  {
+   "id": "nai",
+   "text": "New African Initiative\n(NAI)",
+   "shape": "box"
+  },
+  {
+   "id": "nepad",
+   "text": "NEPAD\n(2001)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "map",
+   "to": "nai"
+  },
+  {
+   "from": "omega",
+   "to": "nai"
+  },
+  {
+   "from": "uneca",
+   "to": "nai"
+  },
+  {
+   "from": "nai",
+   "to": "nepad"
+  }
+ ]
+}

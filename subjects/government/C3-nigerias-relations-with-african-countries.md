@@ -92,7 +92,7 @@ These plans were combined to form the New African Initiative (NAI), which was la
 
 **The Founding Fathers of NEPAD** are generally recognized as the leaders of Nigeria (Obasanjo), South Africa (Mbeki), Algeria (Bouteflika), Senegal (Wade), and Egypt (Hosni Mubarak).
 
-[IMAGE: Flowchart showing the origins of NEPAD. Three boxes at the top: Box 1 "MAP (Obasanjo, Mbeki, Bouteflika)"; Box 2 "OMEGA Plan (Wade)"; Box 3 "Compact for African Recovery (UNECA)". Arrows point down from all three boxes into a single central box labelled "New African Initiative (NAI)". A bold arrow points down from NAI to a large final box labelled "NEPAD (2001)". Clean flat textbook illustration, white background.]
+![Flowchart showing three initiatives merging into the New African Initiative, which subsequently leads to the establishment of NEPAD in 2001.](images/C3-02-flowchart-origins-nepad.png)
 
 ### Objectives of NEPAD
 

@@ -40,7 +40,7 @@ To further explain this change in status, Paul uses an example from family law:
 5. **The proof of sonship:** Because believers are now adopted as full, mature sons, God has "sent forth the Spirit of his Son into your hearts, crying, Abba, Father." 
 6. **The conclusion:** Therefore, the believer is no longer a servant, but a son. And if a son, then "an heir of God through Christ."
 
-[IMAGE: A split scene showing Paul's two analogies. On the left side, a stern ancient Roman servant (the "schoolmaster") holding a rod, guiding a small boy who looks unhappy and burdened by heavy scrolls representing the Law. On the right side, the same boy is now a grown man, being warmly embraced by his wealthy father who is handing him a glowing document representing his inheritance and adoption, while a dove (the Holy Spirit) hovers above them. Clean flat textbook style, white background, labels for "The Law as a Schoolmaster" and "Adoption as Sons".]
+![A split scene comparing a stern Roman guardian guiding a burdened boy carrying scrolls with an adult son receiving an inheritance document alongside his father with a dove above.](images/D4-01-schoolmaster-versus-sonship-analogy.png)
 
 ## Objective i: describe how Christians are joint heirs with Christ
 

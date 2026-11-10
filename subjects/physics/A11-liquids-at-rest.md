@@ -44,7 +44,7 @@ The method used depends on whether the solid has a regular or irregular shape.
    - To find the volume, use the **water displacement method**. Fill a measuring cylinder partially with a known volume of water. Tie a thin thread to the solid and gently lower it into the water until it is fully submerged. Note the new volume. The difference in volume is the volume of the solid. 
    - Alternatively, you can use a **Eureka can** (displacement can). Fill the can with water until it just begins to overflow from the spout. Place an empty measuring cylinder under the spout. When the irregular solid is gently lowered into the can, the volume of water that spills out into the measuring cylinder exactly equals the volume of the solid.
 
-[IMAGE: A regular rectangular block being measured with a ruler and weighed on a top-pan balance, alongside an irregularly shaped stone being weighed on a spring balance, then lowered into a Eureka can (displacement can). Water from the spout flows into a measuring cylinder. Labels: "Regular solid: volume = length × width × height", "Irregular solid: displaced water volume = stone volume", "Eureka can", "Measuring cylinder". Clean flat textbook illustration, white background.]
+![Diagram showing density measurement methods for a regular rectangular block using a ruler and balance, and an irregular stone using a spring balance and Eureka can.](images/A11-01-measuring-volume-solids-apparatus.png)
 
 ### How to determine the density of a liquid
 

@@ -56,7 +56,7 @@ Study guides list these places, which show Fina's journey from tradition to a wi
 4. **The United States:** where Fina lives for part of the story.
 5. A short episode in **Nigeria**, at a wedding, is mentioned in one study guide.
 
-[IMAGE: A simple map showing West Africa with Sierra Leone highlighted and a dotted arrow to the United States in North America. Mark three points inside Sierra Leone for a village, the capital Freetown and the town of Koidu. Clean flat textbook style, white background, no text or labels.]
+![A minimalist world map highlighting Sierra Leone with three dots and a dotted arrow pointing across the Atlantic Ocean to the eastern United States.](images/B3-01-map-sierra-leone-usa.png)
 
 **Time Period:**
 The war in Sierra Leone (a civil war that study guides date to about 1991 to 2002) forms part of the background, and Fina returns to a country affected by it. So the story reaches into the period of and after that war.
@@ -114,7 +114,7 @@ Death and war-time suffering are part of the story, for example in the destructi
 
 **7. [TO BE COMPLETED: Fina's mother (the name given in some sources was not confirmed) and other characters.]**
 
-[IMAGE: A simple character relationship diagram with a central circle for the protagonist, Fina. Around it place circles for a grandmother, a father, a partner, a friend, and an older woman with a teenage girl, linked by plain lines. Clean flat textbook style, white background, no text or labels.]
+![A central green circle connected by straight lines to five colored rounded shapes arranged radially around it on a plain white background.](images/B3-02-character-relationship-concept-network.png)
 
 ## Narrative Techniques (Objective b.i)
 

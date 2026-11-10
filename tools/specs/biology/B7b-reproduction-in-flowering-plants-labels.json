@@ -594,7 +594,7 @@
      492,
      564
     ],
-    "L"
+    "T"
    ],
    [
     "bract",
@@ -602,7 +602,7 @@
      483,
      611
     ],
-    "L"
+    "T"
    ],
    [
     "central axis (core)",
@@ -610,7 +610,7 @@
      631,
      575
     ],
-    "R"
+    "T"
    ],
    [
     "crown",
@@ -618,7 +618,7 @@
      488,
      390
     ],
-    "L"
+    "T"
    ],
    [
     "pericarp",
@@ -636,7 +636,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7b-15-cashew-apple-nut-structure": {
   "labels": [
@@ -723,16 +726,17 @@
      726
     ],
     "L"
-   ],
-   [
-    "thrum-eyed flower (short style)",
-    [
-     724,
-     496
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "thrum-eyed flower\n(short style)",
+    724,
+    859
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7b-13-fleshy-fruit-sections-comparison": {
   "regions": [
@@ -747,7 +751,7 @@
      564,
      437
     ],
-    "R"
+    "T"
    ],
    [
     "mesocarp",
@@ -755,7 +759,7 @@
      591,
      473
     ],
-    "R"
+    "T"
    ],
    [
     "seed",
@@ -771,7 +775,7 @@
      435,
      447
     ],
-    "L"
+    "T"
    ],
    [
     "placenta",
@@ -787,7 +791,7 @@
      643,
      508
     ],
-    "R"
+    "T"
    ],
    [
     "fibrous mesocarp (husk)",
@@ -805,7 +809,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7b-16-fruit-seed-dispersal-mechanisms": {
   "labels": [
@@ -831,7 +838,7 @@
      512,
      223
     ],
-    "R"
+    "T"
    ],
    [
     "fibrous mesocarp",
@@ -856,55 +863,36 @@
      658
     ],
     "R"
-   ],
+   ]
+  ],
+  "captions": [
    [
-    "twisted pod valves; box titles: wind",
-    [
-     861,
-     783
-    ],
-    "R"
+    "twisted pod\nvalves; box\ntitles: wind;\nself\n(explosive)",
+    842,
+    1000
    ],
    [
     "wind",
-    [
-     182,
-     67
-    ],
-    "L"
+    181,
+    536
    ],
    [
     "water",
-    [
-     749,
-     437
-    ],
-    "R"
+    842,
+    536
    ],
    [
     "animals (eaten)",
-    [
-     182,
-     559
-    ],
-    "L"
+    181,
+    1000
    ],
    [
     "animals (hooks)",
-    [
-     512,
-     563
-    ],
-    "R"
-   ],
-   [
-    "self (explosive)",
-    [
-     841,
-     563
-    ],
-    "R"
+    511,
+    1000
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

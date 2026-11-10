@@ -254,7 +254,7 @@ To prevent corruption and ensure money is spent exactly as the law intended, the
 
 **Objective vi: distinguish between elements of control in government accounting procedures e.g. warrant, votes, budget and due process certificate.**
 
-[IMAGE: A flowchart showing the government financial control process. Top box: "Minister of Finance prepares the Budget". Arrow pointing down to a document: "Legislature approves the Budget". Arrow pointing down to an open safe: "Minister of Finance issues a Warrant". Arrow pointing down to a desk with ledgers: "Accountant-General releases funds from the Consolidated Revenue Fund". Arrow pointing to a building: "Ministries and Agencies spend money according to their allocated Votes". Clean flat textbook illustration, white background, using blue and green pastel colors for the boxes.]
+![Flowchart showing the five stages of government financial control, from budget preparation and legislative approval to warrant issuance, fund release, and agency spending.](images/A17-01-government-financial-control-flowchart.png)
 
 1. **Budget (Appropriation Act):**
    * The master financial plan of the government showing estimated revenues and proposed expenditures for the upcoming financial year.
@@ -289,7 +289,7 @@ In recent years, the Nigerian government has implemented modern IT systems and g
 
 **Objective vii: understand current trends in public sector Accounting.**
 
-[IMAGE: A diagram comparing the old banking system with the Treasury Single Account (TSA) system. Left side (Old System): Several government ministries (Education, Health, Works) each connected by arrows to different commercial banks, showing scattered funds. Right side (TSA System): The same ministries all pointing arrows to one large central vault labeled "Central Bank of Nigeria (CBN) - Treasury Single Account", showing consolidated funds. Clean flat textbook style, white background, contrasting red for scattered banks and green for the unified central bank.]
+![Diagram comparing government ministries depositing funds separately into individual commercial banks versus consolidating them into a single Central Bank of Nigeria account under the TSA system.](images/A17-02-single-account-system-comparison.png)
 
 1. **Treasury Single Account (TSA):**
    * **What it is:** A unified structure of government bank accounts that gives a consolidated view of government cash resources. 

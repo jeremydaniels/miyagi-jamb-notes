@@ -1,0 +1,55 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Government Financial Control Process",
+ "nodes": [
+  {
+   "id": "n1",
+   "text": "Minister of Finance prepares the Budget",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "n2",
+   "text": "Legislature approves the Budget",
+   "shape": "round",
+   "color": "lightgreen"
+  },
+  {
+   "id": "n3",
+   "text": "Minister of Finance issues a Warrant",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "n4",
+   "text": "Accountant-General releases funds from the Consolidated Revenue Fund",
+   "shape": "round",
+   "color": "lightgreen"
+  },
+  {
+   "id": "n5",
+   "text": "Ministries and Agencies spend money according to their allocated Votes",
+   "shape": "box",
+   "color": "lightblue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "n1",
+   "to": "n2"
+  },
+  {
+   "from": "n2",
+   "to": "n3"
+  },
+  {
+   "from": "n3",
+   "to": "n4"
+  },
+  {
+   "from": "n4",
+   "to": "n5"
+  }
+ ]
+}

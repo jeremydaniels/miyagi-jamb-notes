@@ -140,7 +140,7 @@ The provision of these agricultural incentives has profound effects on the devel
 
 Infrastructures are the basic physical systems, structures, and facilities required for a society, community, or business to function efficiently. In agriculture, even the best policies, seeds, and fertilizers will fail if the necessary infrastructure is not in place to support the farmers.
 
-[IMAGE: A composite illustration of agricultural infrastructures divided into four quadrants. Top-left: a paved rural road with a small truck carrying bags of produce (transport). Top-right: a tall radio transmission mast beside a farmer listening to a portable radio (communication). Bottom-left: a concrete dam holding back a reservoir, with irrigation canals flowing into a green vegetable field (water). Bottom-right: a group of tall cylindrical metal silos for storing grain (storage). Labels to add later: "Transport (roads)", "Communication (radio)", "Water supply (irrigation)", "Storage (silos)". Clean flat textbook style, white background.]
+![A four-panel illustration showing agricultural infrastructure: a truck on a road for transport, a radio mast and farmer for communication, a dam and canal for irrigation, and tall silos for storage.](images/A7-02-agricultural-infrastructure-types-composite.png)
 
 ## Compare the various infrastructural facilities
 

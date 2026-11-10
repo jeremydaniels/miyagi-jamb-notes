@@ -69,7 +69,7 @@ An **Electoral Commission** is the body legally empowered to organize and conduc
 4. **Constituency Delimitation:** It divides the country or states into electoral districts (constituencies) for equal representation.
 5. **Voter Education:** It educates the public on their voting rights, how to vote, and the dangers of electoral violence.
 
-[IMAGE: A flowchart showing the organizational structure of INEC. At the top: "Chairman". Below it: "National Electoral Commissioners". Branching below that: "Resident Electoral Commissioners (RECs) - one per State". Below RECs: "Electoral Officers (Local Government Level)". Below that: "Presiding Officers (Polling Unit Level)". Style: Clean flat textbook illustration, white background, using clear connected rectangular boxes.]
+![A flowchart showing the organizational structure of INEC from Chairman at the top down through National Commissioners, RECs, Electoral Officers, to Presiding Officers.](images/B7-01-flowchart-inec-organisational-structure.png)
 
 ## National Boundary Commission
 

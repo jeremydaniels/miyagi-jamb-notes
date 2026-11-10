@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "title": "Organizational Structure of INEC",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "chairman",
+   "text": "Chairman",
+   "shape": "box"
+  },
+  {
+   "id": "nat_comm",
+   "text": "National Electoral Commissioners",
+   "shape": "box"
+  },
+  {
+   "id": "recs",
+   "text": "Resident Electoral Commissioners (RECs)\n(one per State)",
+   "shape": "box"
+  },
+  {
+   "id": "eos",
+   "text": "Electoral Officers\n(Local Government Level)",
+   "shape": "box"
+  },
+  {
+   "id": "pos",
+   "text": "Presiding Officers\n(Polling Unit Level)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "chairman",
+   "to": "nat_comm"
+  },
+  {
+   "from": "nat_comm",
+   "to": "recs"
+  },
+  {
+   "from": "recs",
+   "to": "eos"
+  },
+  {
+   "from": "eos",
+   "to": "pos"
+  }
+ ]
+}

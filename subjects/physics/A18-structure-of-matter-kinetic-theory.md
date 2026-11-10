@@ -156,7 +156,7 @@ Matter exists mostly as solids, liquids, or gases. Kinetic theory explains chang
 *   **Solid to Liquid (Melting):** In a solid, molecules are locked in a rigid lattice by strong intermolecular forces and can only vibrate about fixed positions. When heated, they vibrate more vigorously. At a specific temperature (the melting point), they gain enough kinetic energy to break the rigid bonds holding them together. The lattice structure collapses, and the molecules can now slide past one another. The substance becomes a liquid.
 *   **Liquid to Gas (Boiling/Vaporization):** In a liquid, molecules move freely and can slide past each other, but they are still held close together by attractive forces. As heating continues, they move faster. At the boiling point, the kinetic energy is high enough to completely overcome all intermolecular forces of attraction. The molecules break totally free and fly far apart, becoming a gas (vapour). 
 
-[IMAGE: A three-part diagram showing the molecular arrangement in a Solid, Liquid, and Gas. Solid: neat, closely packed lattice of spheres with small vibration lines. Liquid: closely packed but randomly arranged spheres with moderate movement lines. Gas: very few spheres spread far apart, with long straight arrows indicating high-speed motion. Style: clean flat textbook illustration, white background.]
+![Three diagrams comparing particle arrangement and movement in solid, liquid, and gas states, illustrating lattice packing, irregular moderate movement, and widely spaced rapid particles.](images/A18-03-states-matter-particle.png)
 
 ### 6. Evaporation and its Cooling Effect
 

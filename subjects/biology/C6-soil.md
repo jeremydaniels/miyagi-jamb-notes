@@ -364,7 +364,7 @@ These quick tests let a farmer identify a soil without equipment:
 
 **Note:** use undisturbed soil, because loosening the soil changes the amount of air in it.
 
-![An illustration showing soil in a perforated tin and a beaker of water where immersed soil releases rising air bubbles stirred with a glass rod.](images/C6-07-air-soil-experiment-apparatus.png)
+[IMAGE: Two-step set-up for finding air in soil. Left: a small metal tin with holes in its base, packed level-full with brown soil. Right: a large glass measuring cylinder holding water with the soil from the tin settling at the bottom, a glass stirring rod inside, and small air bubbles rising from the soil to the surface. An arrow from the tin to the cylinder. Labels: "Tin of soil (known volume)", "Measuring cylinder", "Water", "Soil", "Air bubbles escaping", "Stirring rod". Clean flat textbook style, white background.]
 
 ### Experiment 6: Percentage of water in soil
 
@@ -803,7 +803,7 @@ Mineral salts are lost from the soil in several ways:
 
 **Effects of erosion on fertility:** loss of the humus-rich, nutrient-rich topsoil and its organisms; exposure of the poorer subsoil; loss of soil depth; formation of gullies that destroy farmland; silting of rivers, dams and reservoirs; and flooding downstream.
 
-![Three-panel illustration showing soil erosion stages: raindrops causing splash erosion, runoff forming sheet and rill erosion on a slope, and severe gully erosion near a house.](images/C6-12-soil-erosion-types-stages.png)
+[IMAGE: A three-panel illustration of soil erosion on a sloping farm. Panel 1: raindrops striking bare soil and splashing particles (splash erosion). Panel 2: a thin film of muddy water flowing evenly over a bare slope (sheet erosion) and small parallel channels cut into the slope (rill erosion). Panel 3: a deep, wide, steep-sided red-earth gully cutting through farmland, with a house and a palm tree close to its edge. Labels: "Splash erosion", "Sheet erosion", "Rill erosion", "Gully erosion", "Bare soil", "Topsoil washed away". Soft earthy colours with blue water. Clean flat textbook style, white background.]
 
 ### 5. Repeated cropping with one variety (monocropping)
 

@@ -198,59 +198,6 @@
   "fixed_sides": true,
   "capsize": 0
  },
- "C6-07-air-soil-experiment-apparatus": {
-  "labels": [
-   [
-    "Measuring cylinder",
-    [
-     584,
-     494
-    ],
-    "R"
-   ],
-   [
-    "Water",
-    [
-     689,
-     518
-    ],
-    "R"
-   ],
-   [
-    "Soil",
-    [
-     256,
-     613
-    ],
-    "L"
-   ],
-   [
-    "Air bubbles escaping",
-    [
-     723,
-     396
-    ],
-    "R"
-   ],
-   [
-    "Stirring rod",
-    [
-     865,
-     247
-    ],
-    "R"
-   ]
-  ],
-  "captions": [
-   [
-    "Tin of soil (known\nvolume)",
-    262,
-    893
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
  "C6-08-soil-water-humus-determination": {
   "labels": [
    [
@@ -325,56 +272,56 @@
    [
     "Sandy soil",
     [
-     309,
-     493
+     247,
+     437
     ],
     "L"
    ],
    [
     "Loamy soil",
     [
-     573,
-     307
+     503,
+     396
     ],
-    "R"
+    "L"
    ],
    [
     "Clayey soil",
     [
-     832,
-     307
+     764,
+     339
     ],
     "R"
    ],
    [
     "Height of water rise",
     [
-     832,
-     605
+     762,
+     539
     ],
     "R"
    ],
    [
     "Cotton wool plug",
     [
-     309,
-     815
+     764,
+     749
     ],
-    "L"
+    "R"
    ],
    [
     "Trough of water",
     [
-     437,
-     854
+     612,
+     826
     ],
-    "L"
+    "R"
    ],
    [
     "Retort stand and clamp",
     [
-     199,
-     374
+     123,
+     472
     ],
     "L"
    ]
@@ -546,58 +493,6 @@
     [
      567,
      841
-    ],
-    "R"
-   ]
-  ]
- },
- "C6-12-soil-erosion-types-stages": {
-  "labels": [
-   [
-    "Splash erosion",
-    [
-     883,
-     143
-    ],
-    "R"
-   ],
-   [
-    "Sheet erosion",
-    [
-     239,
-     473
-    ],
-    "L"
-   ],
-   [
-    "Rill erosion",
-    [
-     596,
-     528
-    ],
-    "R"
-   ],
-   [
-    "Gully erosion",
-    [
-     492,
-     854
-    ],
-    "L"
-   ],
-   [
-    "Bare soil",
-    [
-     278,
-     223
-    ],
-    "L"
-   ],
-   [
-    "Topsoil washed away",
-    [
-     775,
-     421
     ],
     "R"
    ]

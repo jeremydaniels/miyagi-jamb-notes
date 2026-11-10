@@ -27,7 +27,7 @@ An ideal soil for plant growth (a loam) has four main components:
 3. **Soil air (25%):** Fills the empty pore spaces not occupied by water. It provides oxygen for plant roots and soil organisms to respire.
 4. **Organic matter (5%):** Formed from the remains of dead plants and animals. When fully decomposed, it turns into **humus**, a dark substance that binds the soil and holds nutrients.
 
-[IMAGE: A pie chart showing the ideal composition of a loam soil. Mineral matter takes up nearly half the circle (45%, shaded brown), water (25%, shaded blue) and air (25%, shaded light grey) each take up a quarter, and organic matter takes up a small slice (5%, shaded green). Labels must clearly state the percentages. Clean flat textbook illustration, white background.]
+![A pie chart showing ideal composition of loam soil with 45 percent mineral matter, 25 percent water, 25 percent air, and 5 percent organic matter.](images/B8-01-soil-composition-pie-chart.png)
 
 ### Classifying soils and their properties
 
@@ -93,7 +93,7 @@ If you dig a deep trench in the ground down to the solid rock, you will see that
 
 A **soil profile** is a vertical section through the soil showing the different layers from the ground surface down to the unweathered bedrock. Each individual layer is called a **soil horizon**.
 
-[IMAGE: A cross-section diagram of a mature soil profile showing five distinct horizontal layers. Top layer (O horizon): thin, dark, covered in leaf litter and grass. Second layer (A horizon): thicker, dark brown topsoil with plant roots. Third layer (B horizon): lighter reddish-brown subsoil with accumulated clay and deep roots. Fourth layer (C horizon): yellowish-grey layer filled with large chunks of weathered rock. Bottom layer (R horizon): solid, unbroken grey bedrock. Labels must point to each horizon: "O horizon (Organic)", "A horizon (Topsoil / Zone of Eluviation)", "B horizon (Subsoil / Zone of Illuviation)", "C horizon (Weathered parent rock)", "R or D horizon (Bedrock)". Clean flat textbook style, white background.]
+![A cross-section of a soil profile showing organic litter, topsoil with roots, reddish subsoil, weathered rock fragments, and solid bedrock at the base.](images/B8-02-soil-profile-horizons.png)
 
 ### Differentiating soil horizons
 

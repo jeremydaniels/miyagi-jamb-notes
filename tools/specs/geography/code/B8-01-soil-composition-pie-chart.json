@@ -1,0 +1,23 @@
+{
+ "template": "chart",
+ "kind": "pie",
+ "title": "Ideal Composition of Loam Soil",
+ "categories": [
+  "Mineral matter",
+  "Water",
+  "Air",
+  "Organic matter"
+ ],
+ "series": [
+  {
+   "label": "Composition",
+   "values": [
+    45,
+    25,
+    25,
+    5
+   ]
+  }
+ ],
+ "values_shown": true
+}

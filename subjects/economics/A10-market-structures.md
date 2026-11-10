@@ -56,7 +56,7 @@ Because the firm is a price taker, it must accept the price determined by the in
 If the market price is ₦8, the firm can sell 1 unit, 10 units, or 100 units at ₦8 each. Therefore, its Price (P) is equal to its Average Revenue (AR) and its Marginal Revenue (MR). The firm's demand curve is a perfectly horizontal (perfectly elastic) line.
 $$P = AR = MR$$
 
-[IMAGE: Two side-by-side graphs. The left graph shows the Industry with downward sloping Demand (D) and upward sloping Supply (S) intersecting at price P1. A horizontal dotted line extends from P1 to the right graph. The right graph shows a single Firm with a horizontal demand curve labelled D = P = AR = MR at price P1. The Y-axes are Price/Cost, X-axes are Quantity. Clean flat textbook illustration, white background.]
+![Two graphs show an industry supply and demand intersection establishing market equilibrium price P1, which transfers horizontally to a firm facing a perfectly elastic demand curve.](images/A10-01-industry-firm-demand-curves.png)
 
 ### The profit maximization rule
 For any firm to maximize profit (or minimize loss), it must produce at the output level where **Marginal Revenue equals Marginal Cost**.
@@ -171,7 +171,7 @@ At **5 units**, $MR = MC$ (both are ₦8). The firm sets the price at ₦12 (rea
 * **Long-run equilibrium:** Unlike a monopoly, there is **free entry**. If firms are making supernormal profit, new brands will enter the market (e.g., more fast-food chains open). This takes customers away from existing firms, shifting their demand (AR) curves to the left until all supernormal profits are wiped out. 
 In the long run, a monopolistically competitive firm only makes **normal profit**. Its AR curve becomes exactly tangent to its Long-Run Average Cost (LAC) curve.
 
-[IMAGE: Long-run equilibrium of a firm under monopolistic competition. Downward sloping AR and MR curves. A U-shaped LAC curve is exactly tangent to the downward-sloping AR curve at the equilibrium price and quantity. LMC cuts MR exactly below the tangency point. No shaded profit area (normal profit only). Clean flat textbook illustration, white background.]
+![Diagram showing long-run equilibrium in monopolistic competition with LAC tangent to AR at price Pe and quantity Qe, and LMC intersecting MR directly below at Qe.](images/A10-05-monopolistic-competition-equilibrium-graph.png)
 
 ### Summary Comparison Table
 
@@ -215,7 +215,7 @@ Suppose a factory's Average Total Cost ($ATC$) to produce a bag of pure water is
 * If the price falls to **₦40**, the factory makes a loss of ₦10 per bag. However, it should **continue producing in the short run** because the ₦40 covers the ₦30 variable cost, and leaves ₦10 per bag to help pay the fixed costs. If they close, they still have to pay all their fixed costs (the rent) from their pocket.
 * If the price falls to **₦25**, it does not even cover the ₦30 variable cost. For every bag produced, they are losing an extra ₦5 per bag on top of their fixed costs. At this price, they must **shut down**.
 
-[IMAGE: A graph showing the Short-Run Average Total Cost (ATC), Average Variable Cost (AVC), and Marginal Cost (MC) curves. The MC curve cuts through the lowest points of both AVC and ATC. A horizontal line drawn at the minimum of ATC is labelled "Break-even point". A horizontal line drawn at the minimum of AVC is labelled "Shut-down point". Clean flat textbook illustration, white background.]
+![Graph of short-run ATC, AVC, and MC curves showing MC intersecting AVC at the shut-down point and ATC at the break-even point.](images/A10-06-cost-curves-shutdown-breakeven.png)
 
 ---
 

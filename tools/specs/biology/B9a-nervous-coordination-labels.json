@@ -560,7 +560,7 @@
      658,
      475
     ],
-    "R"
+    "T"
    ],
    [
     "cornea (receptor)",
@@ -568,7 +568,7 @@
      559,
      483
     ],
-    "R"
+    "L"
    ],
    [
     "sensory nerve",
@@ -618,7 +618,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9a-03-three-types-neurones": {
   "caption_below": "Sensory neurone, relay neurone, motor neurone showing direction of impulse.",

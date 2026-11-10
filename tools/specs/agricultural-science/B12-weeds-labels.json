@@ -1,31 +1,25 @@
 {
  "B12-01-grass-sedge-broadleaf-weed": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Grass: round hollow stem, parallel veins",
-    [
-     182,
-     440
-    ],
-    "L"
+    "Grass: round\nhollow stem,\nparallel veins",
+    184,
+    834
    ],
    [
-    "Sedge: triangular solid stem",
-    [
-     512,
-     440
-    ],
-    "R"
+    "Sedge:\ntriangular\nsolid stem",
+    511,
+    807
    ],
    [
-    "Broadleaf: branching stem, net veins, taproot",
-    [
-     838,
-     440
-    ],
-    "R"
+    "Broadleaf:\nbranching stem,\nnet veins,\ntaproot",
+    838,
+    817
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B12-02-weed-seed-dispersal-methods": {
   "labels": [

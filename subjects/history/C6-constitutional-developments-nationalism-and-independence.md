@@ -106,7 +106,7 @@ Sir Arthur Richards stated his aims were to promote the unity of Nigeria, provid
 4.  **Unofficial Majority:** In the central Legislative Council, there were more "unofficial" members (Nigerians, mostly traditional rulers appointed by the government) than "official" members (British colonial officers). 
 5.  **Retention of the Elective Principle:** The four elected seats (3 for Lagos, 1 for Calabar) were kept, but the principle was not expanded to other parts of the country.
 
-[IMAGE: A map of Nigeria in 1946 showing the three regions created by the Richards Constitution. The country is divided into the large Northern Region (coloured green), the Western Region (yellow), and the Eastern Region (blue). Lagos is marked as a small dot in the southwest. A bold boundary line separates the North from the South. Clean flat textbook style, white background.]
+![Map of Nigeria in 1946 showing the Northern, Western, and Eastern regions under the Richards Constitution, with Lagos marked in the southwest.](images/C6-02-map-three-regions.png)
 
 ### Criticisms and Nationalist Reaction
 

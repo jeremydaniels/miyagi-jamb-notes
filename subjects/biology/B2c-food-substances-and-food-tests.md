@@ -857,7 +857,7 @@ A common guide (shown as a **food plate** or **food pyramid**) is:
 
 - **Foods that give a positive result:** glucose solution, ripe fruits (orange juice, banana, pawpaw, mango), honey, milk (lactose), malt drinks (maltose).
 
-[IMAGE: Benedict's test for reducing sugar: a beaker of boiling water (water bath) on a tripod over a Bunsen burner, holding a test tube with food solution and Benedict's solution. Beside it, a row of five test tubes showing the colour sequence from blue, green, yellow, orange to brick-red precipitate at the bottom. Labels: water bath (boiling water), test tube with food and Benedict's solution, tripod, Bunsen burner, blue (none), green (trace), yellow (low), orange (moderate), brick-red precipitate (high). Clean flat textbook style, white background.]
+![Diagram showing Benedict test apparatus with a boiling water bath on a tripod over a Bunsen burner, beside five test tubes displaying blue, green, yellow, orange, and red results.](images/B2c-12-benedicts-reducing-sugar-test.png)
 
 ### Test for non-reducing sugars (e.g. sucrose)
 
@@ -909,7 +909,7 @@ sucrose + water → glucose + fructose (both reducing sugars)
 
 **Other protein test (for interest):** in the **xanthoproteic test**, concentrated nitric acid is warmed with the food; a **yellow** colour shows protein, and it turns **orange** when ammonia solution is added. This explains why nitric acid stains skin yellow.
 
-[IMAGE: Two protein tests side by side. Left: Biuret test, a test tube with egg white solution after adding sodium hydroxide and copper(II) sulphate, showing a violet (purple) colour, next to a control tube of distilled water that stays blue; a dropper bottle labelled copper sulphate beside them. Right: Millon's test, a test tube in a warm water bath showing a brick-red precipitate. Labels: Biuret test, sodium hydroxide, 1% copper(II) sulphate, violet colour (protein present), blue (control, no protein), Millon's test, water bath, brick-red precipitate (protein present). Clean flat textbook style, white background.]
+![Illustration of protein tests showing a Biuret test with purple and blue tubes beside a dropper bottle, and Millons test in a water bath showing brick-red precipitate.](images/B2c-13-protein-biuret-millons-tests.png)
 
 ### Tests for fats and oils
 

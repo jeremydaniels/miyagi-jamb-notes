@@ -422,5 +422,149 @@
     "R"
    ]
   ]
+ },
+ "B2c-12-benedicts-reducing-sugar-test": {
+  "labels": [
+   [
+    "water bath (boiling water)",
+    [
+     208,
+     492
+    ],
+    "L"
+   ],
+   [
+    "test tube with food and Benedict's solution",
+    [
+     263,
+     390
+    ],
+    "L"
+   ],
+   [
+    "tripod",
+    [
+     107,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Bunsen burner",
+    [
+     257,
+     749
+    ],
+    "L"
+   ],
+   [
+    "blue (none)",
+    [
+     557,
+     737
+    ],
+    "R"
+   ],
+   [
+    "green (trace)",
+    [
+     641,
+     737
+    ],
+    "R"
+   ],
+   [
+    "yellow (low)",
+    [
+     724,
+     737
+    ],
+    "R"
+   ],
+   [
+    "orange (moderate)",
+    [
+     813,
+     742
+    ],
+    "R"
+   ],
+   [
+    "brick-red precipitate (high)",
+    [
+     894,
+     798
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2c-13-protein-biuret-millons-tests": {
+  "labels": [
+   [
+    "Biuret test",
+    [
+     241,
+     505
+    ],
+    "L"
+   ],
+   [
+    "sodium hydroxide",
+    [
+     481,
+     719
+    ],
+    "L"
+   ],
+   [
+    "1% copper(II) sulphate",
+    [
+     480,
+     532
+    ],
+    "L"
+   ],
+   [
+    "violet colour (protein present)",
+    [
+     198,
+     560
+    ],
+    "L"
+   ],
+   [
+    "blue (control, no protein)",
+    [
+     334,
+     560
+    ],
+    "L"
+   ],
+   [
+    "Millon's test",
+    [
+     778,
+     528
+    ],
+    "R"
+   ],
+   [
+    "water bath",
+    [
+     678,
+     628
+    ],
+    "R"
+   ],
+   [
+    "brick-red precipitate (protein present)",
+    [
+     773,
+     631
+    ],
+    "R"
+   ]
+  ]
  }
 }

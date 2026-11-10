@@ -128,7 +128,7 @@ This occurs when firms engaged in completely **different, unrelated industries**
 - **Main goal:** **Diversification**. If one industry suffers an economic downturn, the company can rely on profits from its other, unrelated industries.
 - **Nigerian Example:** The Dangote Group, which operates in cement manufacturing, sugar refining, salt processing, and petroleum refining. If the price of sugar falls, the company still makes money from cement.
 
-[IMAGE: A block diagram showing the types of business combinations using a footwear industry supply chain. Top to bottom: Cattle Ranch -> Leather Tannery -> Shoe Factory -> Shoe Retail Shop. Vertical arrows point up for 'Backward Vertical Integration' (from Shoe Factory to Leather Tannery) and down for 'Forward Vertical Integration' (from Shoe Factory to Shoe Retail Shop). Next to the 'Shoe Factory' block is another block named 'Rival Shoe Factory' with a horizontal arrow connecting them labelled 'Horizontal Integration'. Far off to the side is a block named 'Soft Drink Factory' with a dashed arrow connecting to the 'Shoe Factory' labelled 'Conglomerate Integration'. Clean flat textbook illustration, white background.]
+![Diagram illustrating types of business combinations using a footwear supply chain, showing backward, forward, horizontal, and conglomerate integration relative to a shoe factory.](images/A9-01-business-integration-block.png)
 
 ### Other Important Forms of Business Combination
 

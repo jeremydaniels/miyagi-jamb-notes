@@ -296,7 +296,7 @@ Every day, the body gains and loses water. To keep its water content constant, t
 
 The body can control water loss in the **urine** much more than in sweat, breath or faeces. So the **kidneys** are the main organs of osmoregulation in mammals. The **hypothalamus** controls **thirst** and the release of **ADH**, and the **adrenal cortex** releases **aldosterone**.
 
-[IMAGE: Balance-scale style diagram of daily water balance in humans. On the left pan, three blue drop icons: a cup (drinks), a plate of food (water in food), and a small cell with a flame (metabolic water from respiration). On the right pan, four drop icons: a toilet or urine flask (urine), sweat droplets on skin (sweat), a face breathing out vapour (exhaled air), and a small faeces icon (faeces). The scale is level, showing balance. Labels: water gained, drinks, food, metabolic water, water lost, urine, sweat, exhaled air, faeces, gain equals loss. Clean flat textbook style, white background.]
+![A balanced scale diagram showing equal daily water gained from drinks, food, and metabolic water against water lost through urine, sweat, exhaled air, and faeces.](images/B9d-06-water-balance-scale.png)
 
 ### Osmoregulation by the kidney in mammals
 

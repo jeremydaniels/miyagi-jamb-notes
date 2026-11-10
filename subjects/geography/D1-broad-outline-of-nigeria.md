@@ -49,7 +49,7 @@ Today, Nigeria's political divisions consist of:
   5. **South-East:** Enugu, Anambra, Imo, Abia, Ebonyi.
   6. **South-South (Niger Delta region):** Rivers, Delta, Bayelsa, Akwa Ibom, Cross River, Edo.
 
-[IMAGE: Map of Nigeria showing the 36 states and the FCT. The map includes grid lines for latitude 4°N to 14°N and longitude 3°E to 15°E. The surrounding oceans and neighbouring countries are lightly shaded. Labels to include: "Nigeria", "Abuja (FCT)", "4°N", "14°N", "3°E", "15°E", and a prominent compass rose. Clean flat textbook illustration, white background.]
+![An outline map of Nigeria showing Abuja FCT in the center, a compass rose in the top right, and latitude and longitude coordinate lines along the edges.](images/D1-01-nigeria-states-political-map.png)
 
 ---
 

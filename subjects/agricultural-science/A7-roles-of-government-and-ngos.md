@@ -82,7 +82,7 @@ When evaluating the effect of agricultural laws on production, the **Land Use Ac
 5. **Payment:** The farmer pays the required official fees and taxes.
 6. **Approval:** The State Governor approves and signs the Certificate of Occupancy, officially granting the right to use the land.
 
-[IMAGE: A diagram illustrating the Land Use Act of 1978. A map of a Nigerian state is at the top, pointing to a figure labelled "State Governor" holding a document. An arrow points from the Governor to a "Farmer" receiving a certificate labelled "Certificate of Occupancy (C of O)". A signpost next to the farmer reads "Maximum limit: 500 ha for crops, 5000 ha for grazing". Clean flat textbook style, white background.]
+![Diagram of Land Use Act of 1978 showing state land vested in the governor, who grants a certificate of occupancy to a farmer with land limits.](images/A7-01-land-use-act-schematic.png)
 
 **Effects of the Land Use Act on agricultural production:**
 - **Positive effects:** It makes it easier for genuine investors to acquire large tracts of land for commercial farming. It reduces severe land disputes and litigations. It overrides discriminatory local customs, allowing men and women from any state to acquire land anywhere in the country. It prevents the fragmentation of land into tiny, unproductive plots.

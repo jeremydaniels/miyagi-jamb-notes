@@ -82,7 +82,7 @@ James tells the corrupt rich to "weep and howl" for the miseries that are coming
 
 James says the rust of their hoarded wealth will act as a **witness against them** and will "eat their flesh as it were fire." They foolishly hoarded wealth for the "last days," not realising it would only guarantee their destruction. 
 
-[IMAGE: A split scene contrasting two realities based on James 5. On the left side, an arrogant, wealthy man in fine robes counts a pile of gold coins that are visibly tarnishing and rusting, completely ignoring a tired, impoverished farmer holding a sickle who is begging for his wages. Above the rich man, dark storm clouds gather to symbolise impending judgment. On the right side, a simple scale of justice tips heavily, showing the phrase "Cries of the Reapers" outweighing "Corrupt Wealth". Clean flat textbook style, white background.]
+![A split scene showing a wealthy man counting tarnished coins while ignoring an impoverished laborer, beside a scale weighing tears and wheat against gold.](images/D15-01-rich-oppressor-judgment.png)
 
 ## Ways of curbing corruption
 

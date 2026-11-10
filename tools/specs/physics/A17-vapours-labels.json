@@ -1,0 +1,43 @@
+{
+ "A17-01-saturated-unsaturated-vapour-molecular": {},
+ "A17-03-wet-dry-bulb-hygrometer": {
+  "caption_below": "Higher reading (room temperature) compared to lower reading (cooled by evaporation).",
+  "regions": [
+   "Water reservoir"
+  ],
+  "labels": [
+   [
+    "Dry bulb thermometer",
+    [
+     374,
+     476
+    ],
+    "L"
+   ],
+   [
+    "Wet bulb thermometer",
+    [
+     649,
+     424
+    ],
+    "R"
+   ],
+   [
+    "Muslin cloth wick",
+    [
+     648,
+     665
+    ],
+    "R"
+   ],
+   [
+    "Water reservoir",
+    [
+     587,
+     813
+    ],
+    "R"
+   ]
+  ]
+ }
+}

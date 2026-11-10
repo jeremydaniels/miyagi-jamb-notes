@@ -37,7 +37,7 @@ Based on this, we classify vapours into two main types:
 | **Effect of volume change (at constant temperature)** | If you compress the space, its pressure increases (similar to Boyle's law). | If you compress the space, its pressure remains **constant**. The excess vapour molecules simply condense back into the liquid phase. |
 | **Pressure exerted** | It exerts a pressure less than the maximum possible pressure at that temperature. | It exerts the maximum possible pressure for that temperature, known as the **Saturated Vapour Pressure (S.V.P)**. |
 
-[IMAGE: Two identical closed glass jars side by side. The left jar is labelled "Unsaturated Vapour": inside, there is no liquid at the bottom, just a few scattered blue circles with arrows showing them bouncing around as vapour molecules. The right jar is labelled "Saturated Vapour": it has a pool of blue liquid at the bottom, many more vapour molecules crowded in the space above, and double-headed arrows indicating molecules simultaneously leaving the liquid (evaporating) and entering the liquid (condensing). Clean flat textbook illustration, white background.]
+![Diagram comparing two closed jars showing vapour molecules bouncing inside an empty jar alongside a jar with liquid undergoing simultaneous evaporation and condensation.](images/A17-01-saturated-unsaturated-vapour-molecular.png)
 
 ## Saturated Vapour Pressure (S.V.P) and Boiling
 
@@ -85,7 +85,7 @@ $$ \text{S.V.P} = H - h $$
 
 *(Where $H$ is the initial atmospheric pressure head and $h$ is the final mercury height. The unit is typically $\text{mmHg}$ or $\text{cmHg}$).*
 
-[IMAGE: Three mercury barometer tubes inverted into a trough of mercury. Tube 1 shows a normal mercury column of height H (e.g., 760 mm) with an empty vacuum space above. Tube 2 shows a few drops of liquid introduced; the mercury column has dropped slightly, and the space above contains invisible vapour. Tube 3 shows more liquid added; the mercury column has dropped further to a lower height h, and a thin visible layer of liquid floats on top of the mercury. Labels to add: "Torricellian vacuum", "Atmospheric pressure (H)", "Unsaturated vapour", "Saturated vapour", "Liquid layer", "Final height (h)", "S.V.P = H - h". Clean flat textbook illustration, white background.]
+![Diagram showing three mercury barometers illustrating unsaturated and saturated vapour pressure compared to atmospheric pressure.](images/A17-02-saturated-vapour-pressure-barometer.png)
 
 ## Formation of Dew, Mist, Fog, Cloud and Rain
 
@@ -142,7 +142,7 @@ $$ \text{R.H.} = \frac{\text{S.V.P of water at the dew point}}{\text{S.V.P of wa
    - **Saturated air ($100\%$ R.H.):** The air can hold no more moisture. Evaporation stops entirely, and both thermometers show the **exact same reading**.
 8. To estimate the actual relative humidity, a user records the dry bulb temperature and the temperature depression, and then cross-references these two numbers on a standard chart known as **hygrometric tables**.
 
-[IMAGE: A wet and dry bulb hygrometer mounted on a wooden board. Two glass thermometers are placed side by side. The left thermometer (Dry Bulb) has a completely exposed bulb and shows a higher red column reading. The right thermometer (Wet Bulb) has its bulb wrapped tightly in a piece of white muslin cloth that extends downward into a small glass reservoir of water at the bottom. The reading on the wet bulb is noticeably lower. Labels to add: "Dry bulb thermometer", "Higher reading (room temperature)", "Wet bulb thermometer", "Lower reading (cooled by evaporation)", "Muslin cloth wick", "Water reservoir". Clean flat textbook illustration, white background.]
+![A wet and dry bulb hygrometer mounted on a wooden board showing side-by-side thermometers with the right bulb wrapped in wet muslin dipped in water.](images/A17-03-wet-dry-bulb-hygrometer.png)
 
 ## Solving Numerical Problems on Vapours
 

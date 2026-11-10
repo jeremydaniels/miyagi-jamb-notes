@@ -172,7 +172,7 @@ $$\log_a N = x$$
 Here, $a$ is the base, $x$ is the power (or index), and $N$ is the number (or argument). 
 - In words: "The power to which $a$ must be raised to give $N$ is $x$."
 
-[IMAGE: A diagram showing the conversion between index form and logarithmic form. On the left, the equation "2^3 = 8" is written. Arrows point from the base "2" to the subscript base "2" in "log_2 8 = 3" on the right. Another arrow points from the power "3" to the answer "3" on the right. The number "8" is linked to the argument of the logarithm. Labels clearly identify "Base", "Power (Index)", and "Result" in both forms. Clean flat textbook style, white background.]
+![Diagram comparing exponential and logarithmic forms showing base index and result positions in 2 cubed equals 8 and log base 2 of 8 equals 3.](images/A3-02-index-logarithmic-form-mapping.png)
 
 **Worked Example 1**
 Convert $\log_5 125 = 3$ to index form.

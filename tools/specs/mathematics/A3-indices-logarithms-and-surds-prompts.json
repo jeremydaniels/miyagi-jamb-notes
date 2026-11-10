@@ -2,5 +2,9 @@
  [
   "A3-01-scientific-notation-decimal-shift",
   "A visual showing a large number \"4 5 0 0 0 0 0\" with a decimal point moving 6 places to the left, resulting in \"4.5 × 10^6\". Below it, a small decimal \"0 . 0 0 0 3 2\" with the decimal point moving 4 places to the right, resulting in \"3.2 × 10^{-4}\". Arced arrows above the numbers count the jumps."
+ ],
+ [
+  "A3-02-index-logarithmic-form-mapping",
+  "A clear educational diagram on a white background comparing two equations side-by-side, spaced far apart. \n\nOn the left, the equation \"2^3 = 8\" is displayed in large text. Above the number 2 is the label \"Base\". Above the number 3 is the label \"Index\". Above the number 8 is the label \"Result\". \n\nOn the right, the equation \"log_2 8 = 3\" is displayed in large text. Below the subscript 2 is the label \"Base\". Below the number 8 is the label \"Result\". Below the number 3 is the label \"Index\".\n\nA single wide, straight horizontal double-headed arrow labeled \"Equivalent\" is centered between the two equations. Clean flat design, perfectly separated text elements, no overlapping connecting lines, exactly 7 text labels."
  ]
 ]

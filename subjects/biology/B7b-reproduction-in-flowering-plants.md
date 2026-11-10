@@ -401,7 +401,7 @@ In **heterostyly**, plants of the same species produce flowers with **styles of 
 
 An insect visiting a pin flower picks up pollen low on its body; when it visits a thrum flower, that part of its body touches the low stigma. So pollen moves mainly between the two types of flower (which grow on different plants). The classic example is the **primrose** (*Primula*), a temperate plant; heterostyly is also found in some tropical plants, such as some *Oxalis* species.
 
-[IMAGE: Two primrose flowers cut lengthwise side by side, each with a long narrow corolla tube. Left (pin-eyed): long style reaching the mouth of the tube with the stigma visible at the top, and short stamens attached halfway down the tube. Right (thrum-eyed): short style with stigma halfway down the tube, and stamens attached at the mouth of the tube. Draw dotted arrows crossing between the stamens of one and the stigma at the same height in the other to show the direction of pollen transfer. Labels: corolla tube, stigma, style, anthers, ovary; titles: pin-eyed flower (long style), thrum-eyed flower (short style). Soft yellow petals, green ovary. Clean flat textbook style, white background.]
+![Cross-sectional diagrams of pin-eyed and thrum-eyed primrose flowers showing differing heights of stigmas and anthers, with dotted arrows illustrating cross-pollination between matching levels.](images/B7b-10-heterostyly-primrose-flowers.png)
 
 #### 4. Unisexual flowers: monoecy and dioecy
 
@@ -636,7 +636,7 @@ These fruits have a dry pericarp that **does not split open**. They usually cont
 
 **Fibrous drupes:** in **coconut** and **oil palm**, the mesocarp is **fibrous** rather than juicy. The coconut "husk" is the fibrous mesocarp; the hard shell is the stony endocarp; the white "meat" and coconut water are the endosperm of the seed. In oil palm, **palm oil** comes from the fibrous, oily **mesocarp**, while **palm kernel oil** comes from the **kernel** (the seed) inside the stony endocarp (the shell).
 
-[IMAGE: Four fleshy fruits cut open, arranged in a row. 1. Tomato cut across, showing skin, fleshy wall, chambers filled with jelly and seeds on a central axis. 2. Orange cut across, showing leathery skin with oil glands, white spongy layer, segments with juice sacs and seeds near the centre. 3. Mango cut lengthwise, showing thin skin, thick yellow fleshy mesocarp, hard fibrous stone (endocarp) and the seed inside. 4. Coconut cut lengthwise, showing smooth outer skin, thick fibrous husk, hard shell, white endosperm (meat) and the hollow filled with coconut water. Labels: epicarp, mesocarp, endocarp, seed, juice sacs, placenta, stony endocarp (stone), fibrous mesocarp (husk), endosperm. Titles: tomato (berry), orange (hesperidium), mango (drupe), coconut (fibrous drupe). Soft natural colours. Clean flat textbook style, white background.]
+![Cross sections of four fleshy fruits in a row including a tomato, an orange, a mango cut lengthwise, and a coconut cut lengthwise.](images/B7b-13-fleshy-fruit-sections-comparison.png)
 
 #### Aggregate fruits
 

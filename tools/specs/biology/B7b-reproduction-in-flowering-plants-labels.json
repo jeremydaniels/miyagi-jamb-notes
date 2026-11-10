@@ -681,5 +681,130 @@
     "R"
    ]
   ]
+ },
+ "B7b-10-heterostyly-primrose-flowers": {
+  "labels": [
+   [
+    "corolla tube",
+    [
+     257,
+     437
+    ],
+    "L"
+   ],
+   [
+    "stigma",
+    [
+     300,
+     309
+    ],
+    "L"
+   ],
+   [
+    "style",
+    [
+     296,
+     454
+    ],
+    "L"
+   ],
+   [
+    "anthers",
+    [
+     321,
+     508
+    ],
+    "L"
+   ],
+   [
+    "ovary; titles: pin-eyed flower (long style)",
+    [
+     299,
+     726
+    ],
+    "L"
+   ],
+   [
+    "thrum-eyed flower (short style)",
+    [
+     724,
+     496
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7b-13-fleshy-fruit-sections-comparison": {
+  "regions": [
+   "mesocarp",
+   "fibrous mesocarp (husk)",
+   "endosperm"
+  ],
+  "labels": [
+   [
+    "epicarp",
+    [
+     564,
+     437
+    ],
+    "R"
+   ],
+   [
+    "mesocarp",
+    [
+     591,
+     473
+    ],
+    "R"
+   ],
+   [
+    "seed",
+    [
+     94,
+     538
+    ],
+    "L"
+   ],
+   [
+    "juice sacs",
+    [
+     435,
+     447
+    ],
+    "L"
+   ],
+   [
+    "placenta",
+    [
+     163,
+     473
+    ],
+    "L"
+   ],
+   [
+    "stony endocarp (stone)",
+    [
+     643,
+     508
+    ],
+    "R"
+   ],
+   [
+    "fibrous mesocarp (husk)",
+    [
+     861,
+     390
+    ],
+    "R"
+   ],
+   [
+    "endosperm",
+    [
+     854,
+     445
+    ],
+    "R"
+   ]
+  ]
  }
 }

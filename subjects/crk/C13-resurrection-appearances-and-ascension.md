@@ -33,7 +33,7 @@ The women (including Mary Magdalene, Joanna, and Mary the mother of James) arriv
 Mary Magdalene came to the tomb early, while it was still dark, and saw the stone taken away. Assuming the body had been stolen, she immediately ran to tell Simon Peter and "the other disciple, whom Jesus loved" (John). 
 Peter and the other disciple ran to the tomb. John outran Peter and reached the tomb first. He looked in and saw the linen clothes but did not enter. Peter arrived, went inside, and saw the linen clothes lying there, and the napkin that was about Jesus' head folded together in a separate place. Then John also entered, and "he saw, and believed," even though they did not yet fully understand the scripture that Jesus must rise from the dead. They then returned home.
 
-[IMAGE: An empty stone tomb in a hillside at dawn. The large circular stone is rolled to the side. Inside the dark tomb, folded white linen burial cloths rest on a stone slab. A bright angel in shining white garments stands by the entrance, speaking to a small group of women holding jars of spices. Clean flat textbook style, white background.]
+![An empty stone tomb with the circular entrance stone rolled aside, folded burial cloths inside, and a shining angel speaking to women holding jars of spices.](images/C13-01-empty-tomb-resurrection-morning.png)
 
 ### The Post-Resurrection Appearances
 
@@ -73,7 +73,7 @@ Jesus commanded them not to depart from Jerusalem but to wait for the "promise o
 "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth." (Acts 1:8)
 After saying these things, as they watched, He was taken up, and a cloud received Him out of their sight. While they were looking steadfastly toward heaven, two men in white apparel (angels) stood by them. They said, "Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
 
-[IMAGE: A hilltop on the Mount of Olives. A small group of disciples, in first-century robes, are looking up into the sky with expressions of awe. Above them, Jesus is ascending, partially obscured by a bright, glowing cloud. Two angels in brilliant white robes stand among the disciples, pointing upward. Clean flat textbook style, white background.]
+![Disciples on a hilltop watch Jesus ascend into a glowing cloud as two angels in white robes stand among them and point toward heaven.](images/C13-02-ascension-jesus-scene.png)
 
 ## Objective ii: compare the personalities involved in the stories
 

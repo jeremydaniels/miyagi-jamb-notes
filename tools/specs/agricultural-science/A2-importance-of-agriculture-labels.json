@@ -2,30 +2,6 @@
  "A2-01-cocoa-value-chain": {
   "labels": [
    [
-    "Raw material production (Farm)",
-    [
-     266,
-     527
-    ],
-    "L"
-   ],
-   [
-    "Transportation of Cocoa beans",
-    [
-     496,
-     568
-    ],
-    "L"
-   ],
-   [
-    "Agro-allied industry (Beverage processing)",
-    [
-     819,
-     430
-    ],
-    "R"
-   ],
-   [
     "Finished product (Chocolate drink)",
     [
      749,
@@ -33,7 +9,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Raw material\nproduction\n(Farm)",
+    184,
+    730
+   ],
+   [
+    "Transportation\nof Cocoa beans",
+    523,
+    680
+   ],
+   [
+    "Agro-allied\nindustry\n(Beverage\nprocessing)",
+    847,
+    730
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "A2-02-farming-community-development-comparison": {
   "caption_below": "Before agricultural investment and After agricultural investment (Rural Development)",

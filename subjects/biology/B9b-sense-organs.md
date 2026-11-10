@@ -627,7 +627,7 @@ In general, the **utriculus** responds mostly to **horizontal** movement and til
 
 **Motion sickness:** on a rough boat ride, or reading in a moving bus on a bumpy road, the balance organs, the eyes and the muscles may send the brain messages that do not agree. This can cause **motion sickness**: dizziness, sweating, nausea and vomiting.
 
-[IMAGE: Two-part diagram of the balance organs of the inner ear. Left: enlarged view of the three semicircular canals at right angles to each other joined to the vestibule containing the utriculus and sacculus, with the cochlea attached at one side, all in light green. Upper right: an enlarged cut-open ampulla showing the crista of hair cells with their hairs embedded in a tall jelly-like cupula, fluid (endolymph) shown as pale blue, with a curved arrow showing the fluid pushing the cupula sideways. Lower right: an enlarged macula from the utriculus showing a row of hair cells, their hairs in a jelly layer, and small white crystal grains (otoliths) on top; two small versions side by side, one with the head upright (hairs straight) and one with the head tilted (otoliths and jelly slid sideways, hairs bent). Labels: semicircular canals, ampulla, utriculus, sacculus, cochlea, cupula, hair cells, endolymph, otoliths, jelly layer, nerve fibres, head upright, head tilted. Clean flat textbook style, white background.]
+![Diagram showing the inner ear vestibular system, an ampulla with cupula and hair cells, and the macula with otoliths in upright and tilted head positions.](images/B9b-14-inner-ear-balance-organs.png)
 
 ### Summary table: sense organs and their functions
 

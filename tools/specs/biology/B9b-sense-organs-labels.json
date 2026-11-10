@@ -791,5 +791,105 @@
     "R"
    ]
   ]
+ },
+ "B9b-14-inner-ear-balance-organs": {
+  "caption_below": "Balance organs with head upright and head tilted.",
+  "regions": [
+   "utriculus",
+   "sacculus",
+   "cochlea",
+   "ampulla",
+   "jelly layer"
+  ],
+  "labels": [
+   [
+    "semicircular canals",
+    [
+     269,
+     83
+    ],
+    "L"
+   ],
+   [
+    "ampulla",
+    [
+     200,
+     357
+    ],
+    "L"
+   ],
+   [
+    "utriculus",
+    [
+     278,
+     292
+    ],
+    "L"
+   ],
+   [
+    "sacculus",
+    [
+     312,
+     338
+    ],
+    "L"
+   ],
+   [
+    "cochlea",
+    [
+     437,
+     369
+    ],
+    "L"
+   ],
+   [
+    "cupula",
+    [
+     777,
+     223
+    ],
+    "R"
+   ],
+   [
+    "hair cells",
+    [
+     254,
+     805
+    ],
+    "L"
+   ],
+   [
+    "endolymph",
+    [
+     889,
+     309
+    ],
+    "R"
+   ],
+   [
+    "otoliths",
+    [
+     281,
+     654
+    ],
+    "L"
+   ],
+   [
+    "jelly layer",
+    [
+     283,
+     708
+    ],
+    "L"
+   ],
+   [
+    "nerve fibres",
+    [
+     254,
+     866
+    ],
+    "L"
+   ]
+  ]
  }
 }

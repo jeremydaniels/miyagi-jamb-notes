@@ -1,0 +1,54 @@
+{
+ "B4-01-capture-zedekiah-fall-jerusalem": {
+  "regions": [
+   "Jerusalem burning in the background"
+  ],
+  "labels": [
+   [
+    "King Zedekiah captured",
+    [
+     378,
+     677
+    ],
+    "L"
+   ],
+   [
+    "Babylonian soldiers (Chaldeans)",
+    [
+     198,
+     663
+    ],
+    "L"
+   ],
+   [
+    "Jerusalem burning in the background",
+    [
+     320,
+     335
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B4-02-nehemiah-inspecting-ruined-walls": {
+  "caption_below": "Night inspection.",
+  "labels": [
+   [
+    "Nehemiah inspecting the ruins",
+    [
+     491,
+     332
+    ],
+    "L"
+   ],
+   [
+    "Broken walls of Jerusalem",
+    [
+     150,
+     522
+    ],
+    "L"
+   ]
+  ]
+ }
+}

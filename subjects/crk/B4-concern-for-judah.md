@@ -40,7 +40,7 @@ The fall of Jerusalem and the Babylonian exile was a major turning point in Isra
 6. **The temple and city destroyed:** Nebuzaradan, the captain of the Babylonian guard, came to Jerusalem. He burned the house of the LORD (the Temple), the king's house, and all the houses of Jerusalem. The Chaldean army broke down the walls around Jerusalem.
 7. **The final deportation and looting:** Nebuzaradan carried the rest of the people into exile, leaving only some of the poorest to be vinedressers and plowmen. The Babylonians broke into pieces the bronze pillars, the bronze sea, and the stands in the temple, carrying the valuable metals back to Babylon.
 
-[IMAGE: A dramatic historical illustration. In the foreground, King Zedekiah of Judah, looking distressed, is held by Babylonian soldiers in armor. Behind him, his young sons are about to be executed. In the background, the walls of Jerusalem are breached, and smoke rises from the burning Temple and city buildings. Labels: "King Zedekiah captured", "Babylonian soldiers (Chaldeans)", "Jerusalem burning in the background". Clean flat textbook style, white background.]
+![An illustration showing King Zedekiah of Judah captured by Babylonian soldiers while his sons stand nearby and the city of Jerusalem and its temple burn behind them.](images/B4-01-capture-zedekiah-fall-jerusalem.png)
 
 ### Reasons for the fall of Jerusalem
 The biblical text clearly identifies the spiritual and political reasons for this disaster:
@@ -83,7 +83,7 @@ The rebuilding of Jerusalem happened in two main phases covered in the syllabus:
 * **The Call:** He then revealed his plan to the priests, nobles, and officials: "You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer disgrace." He told them how God's hand had been upon him and the words of the king.
 * **The People's Response:** The people responded with great enthusiasm: **"Let us rise up and build."** They strengthened their hands for the good work, showing total unity and patriotic commitment to restoring their nation.
 
-[IMAGE: Nehemiah riding on a horse at night, looking down at the rubble and broken stones of the ruined walls of Jerusalem. The moon is out, casting long shadows. A few attendants stand quietly behind him with torches. Labels: "Nehemiah inspecting the ruins", "Broken walls of Jerusalem", "Night inspection". Clean flat textbook style, white background.]
+![Nehemiah on horseback inspecting the rubble and broken stone walls of Jerusalem at night, accompanied by attendants holding a torch under a crescent moon.](images/B4-02-nehemiah-inspecting-ruined-walls.png)
 
 ### The response regarding the Temple and Worship (Ezra 3:4; 5; 6)
 The exiles who returned to Jerusalem focused first on restoring their religion.

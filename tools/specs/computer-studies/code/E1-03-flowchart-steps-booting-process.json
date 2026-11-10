@@ -1,0 +1,77 @@
+{
+ "template": "flowchart",
+ "title": "The Booting Process",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "step1",
+   "text": "1. Power On",
+   "shape": "round"
+  },
+  {
+   "id": "step2",
+   "text": "2. CPU reads ROM BIOS",
+   "shape": "box"
+  },
+  {
+   "id": "step3",
+   "text": "3. POST (Hardware Check)",
+   "shape": "box"
+  },
+  {
+   "id": "step4",
+   "text": "4. BIOS checks Boot Sequence",
+   "shape": "box"
+  },
+  {
+   "id": "step5",
+   "text": "5. Load Bootloader",
+   "shape": "box"
+  },
+  {
+   "id": "step6",
+   "text": "6. Load OS Kernel into RAM",
+   "shape": "box"
+  },
+  {
+   "id": "step7",
+   "text": "7. OS takes control and loads drivers",
+   "shape": "box"
+  },
+  {
+   "id": "step8",
+   "text": "8. Desktop / Login Screen is displayed",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "step1",
+   "to": "step2"
+  },
+  {
+   "from": "step2",
+   "to": "step3"
+  },
+  {
+   "from": "step3",
+   "to": "step4"
+  },
+  {
+   "from": "step4",
+   "to": "step5"
+  },
+  {
+   "from": "step5",
+   "to": "step6"
+  },
+  {
+   "from": "step6",
+   "to": "step7"
+  },
+  {
+   "from": "step7",
+   "to": "step8"
+  }
+ ]
+}

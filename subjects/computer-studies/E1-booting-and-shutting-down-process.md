@@ -21,7 +21,7 @@ When a computer is completely turned off, its main memory (RAM) is empty because
 
 You can think of booting like a person waking up in the morning. Before you can start doing your daily tasks (running application software), your brain needs to wake up, check that your body parts are working (POST), and remember who and where you are (loading the Operating System). The term "booting" comes from the old phrase "pulling oneself up by one's own bootstraps," because the computer runs a tiny program just to load the much larger operating system program.
 
-[IMAGE: A simple diagram showing a hard drive sending the Operating System software into the RAM, with a processor (CPU) overseeing the process. The image should have arrows indicating the flow of data from secondary storage (Hard Disk) to primary memory (RAM) during the boot process. Clean flat textbook illustration, white background.]
+![Diagram showing the boot process where the operating system is copied from the hard disk drive to RAM under the supervision of the CPU](images/E1-01-simple-hard-drive-sending.png)
 
 ## Types of booting
 
@@ -72,7 +72,7 @@ Booting might seem like it happens in one simple step, but behind the scenes, th
 7. **OS takes control:** Once the kernel is in the RAM, the Operating System takes over control of the computer from the BIOS. The OS loads device drivers (small programs that tell the OS how to communicate with hardware like printers and graphics cards).
 8. **Loading system utilities and user interface:** Finally, the OS loads background services and the graphical user interface (GUI). The boot process is complete when you see the login screen or the desktop, and the computer is ready to accept your commands.
 
-[IMAGE: A flowchart showing the 8 steps of the booting process. The boxes should read: 1. Power On -> 2. CPU reads ROM BIOS -> 3. POST (Hardware Check) -> 4. BIOS checks Boot Sequence -> 5. Load Bootloader -> 6. Load OS Kernel into RAM -> 7. OS takes control and loads drivers -> 8. Desktop / Login Screen is displayed. Clean flat textbook illustration, white background.]
+![A flowchart showing the 8 steps of the booting process from Power On to Desktop or Login Screen is displayed.](images/E1-03-flowchart-steps-booting-process.png)
 
 ### Shutting down a computer system
 

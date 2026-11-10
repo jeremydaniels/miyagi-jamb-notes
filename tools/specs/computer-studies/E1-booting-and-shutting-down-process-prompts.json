@@ -1,0 +1,10 @@
+[
+ [
+  "E1-01-simple-hard-drive-sending",
+  "A simple diagram showing a hard drive sending the Operating System software into the RAM, with a processor (CPU) overseeing the process. The image should have arrows indicating the flow of data from secondary storage (Hard Disk) to primary memory (RAM) during the boot process. Clean flat textbook illustration, white background."
+ ],
+ [
+  "E1-03-flowchart-steps-booting-process",
+  "A flowchart showing the 8 steps of the booting process. The boxes should read: 1. Power On -> 2. CPU reads ROM BIOS -> 3. POST (Hardware Check) -> 4. BIOS checks Boot Sequence -> 5. Load Bootloader -> 6. Load OS Kernel into RAM -> 7. OS takes control and loads drivers -> 8. Desktop / Login Screen is displayed. Clean flat textbook illustration, white background."
+ ]
+]

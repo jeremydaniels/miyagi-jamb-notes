@@ -83,7 +83,7 @@ Human activities frequently cause flooding in areas that might not naturally flo
   - **Paving over land:** Covering land with concrete and asphalt prevents rainwater from soaking into the ground (infiltration), massively increasing surface runoff.
   - **Dam failures:** The collapse of a dam, or the sudden, poorly timed release of water from a dam (such as the Lagdo Dam in Cameroon affecting the Benue River), causes catastrophic downstream flooding.
 
-[IMAGE: A cross-section of an urban environment showing causes of flooding. Rain is falling heavily from dark clouds. The ground is paved with grey concrete labelled "Impermeable surface (high runoff)". A blocked concrete drainage ditch is filled with plastic bottles and rubbish, labelled "Drainage blocked by refuse". Water is shown overflowing the ditch and flooding a street and a nearby house. Clean flat textbook style, white background.]
+![An isometric cross-section illustration showing heavy rain falling on an urban area where a trash-filled drainage ditch overflows, flooding a nearby street and house.](images/B11-01-urban-flooding-causes-cross.png)
 
 ### 5. Desertification
 Desertification is the process by which fertile, productive land degrades and turns into barren desert. It is the encroachment of desert conditions into previously arable regions.
@@ -133,7 +133,7 @@ This section looks at exactly where these hazards occur globally and in Nigeria,
   - **Socio-economic:** Deep gullies destroy roads, isolate communities, and swallow buildings. The loss of fertile topsoil drastically reduces agricultural crop yield, leading to poverty for farmers.
   - **Environmental:** Rivers and reservoirs become choked with washed-away sand (siltation), leading to water scarcity and localized flooding; massive degradation and fragmentation of the landscape.
 
-[IMAGE: Outline map of Nigeria showing three shaded zones for environmental hazards. The northern strip is shaded yellow and labelled "Prone to Desertification and Drought". The south-eastern area is shaded brown with hatch marks, labelled "Severe Gully Erosion". The southern coastal strip and the Niger Delta region are shaded blue, labelled "Prone to Coastal Flooding and Oil Pollution". Clean flat textbook illustration, white background.]
+![An outline map of Nigeria highlighting environmental hazard zones including northern drought risk, south-eastern gully erosion, and southern coastal flooding with oil pollution.](images/B11-02-nigeria-environmental-hazards-map.png)
 
 ### 5. Deforestation
 - **Major Areas:**

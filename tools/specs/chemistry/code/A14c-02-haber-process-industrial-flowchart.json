@@ -1,0 +1,70 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "The Haber Process",
+ "nodes": [
+  {
+   "id": "n2",
+   "text": "Nitrogen gas (N₂)",
+   "shape": "round",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "h2",
+   "text": "Hydrogen gas (H₂)",
+   "shape": "round",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "compressor",
+   "text": "Compressor",
+   "shape": "box",
+   "color": "#ffe0b2"
+  },
+  {
+   "id": "reactor",
+   "text": "Reactor Tank\nIron catalyst, 450 °C, 200 atm",
+   "shape": "box",
+   "color": "#ffcdd2"
+  },
+  {
+   "id": "condenser",
+   "text": "Cooling Condenser",
+   "shape": "box",
+   "color": "#bbdefb"
+  },
+  {
+   "id": "tank",
+   "text": "Liquid Ammonia\nCollection Tank",
+   "shape": "round",
+   "color": "#c8e6c9"
+  }
+ ],
+ "edges": [
+  {
+   "from": "n2",
+   "to": "compressor"
+  },
+  {
+   "from": "h2",
+   "to": "compressor"
+  },
+  {
+   "from": "compressor",
+   "to": "reactor"
+  },
+  {
+   "from": "reactor",
+   "to": "condenser"
+  },
+  {
+   "from": "condenser",
+   "to": "tank"
+  },
+  {
+   "from": "condenser",
+   "to": "reactor",
+   "label": "Recycled N₂ and H₂"
+  }
+ ]
+}

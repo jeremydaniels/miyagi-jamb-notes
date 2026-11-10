@@ -49,7 +49,7 @@ Heating ammonium nitrite directly is dangerous because it can explode. Therefore
 
 The gas is collected over water because it is only slightly soluble in water.
 
-[IMAGE: A laboratory setup showing a round-bottom flask containing a mixture of ammonium chloride and sodium nitrite solutions, heated with a Bunsen burner. A delivery tube leads from the flask to a pneumatic trough, where nitrogen gas bubbles up into an inverted gas jar filled with water. Labels to add: "mixture of NH₄Cl and NaNO₂", "heat", "delivery tube", "water", "nitrogen gas". Clean flat textbook illustration, white background.]
+![A laboratory apparatus diagram showing the preparation and collection of nitrogen gas by heating a chemical mixture in a flask and collecting gas over water.](images/A14c-01-nitrogen-gas-laboratory-preparation.png)
 
 **Industrial production from liquid air:**
 On a large scale, nitrogen is obtained by the **fractional distillation of liquid air**. 
@@ -84,7 +84,7 @@ What volume of ammonia is produced when $50\text{ cm}^3$ of nitrogen reacts comp
    If $1\text{ volume} = 50\text{ cm}^3$, then $2\text{ volumes} = 2 \times 50\text{ cm}^3 = 100\text{ cm}^3$.
 4. State the final answer with units: The volume of ammonia produced is $100\text{ cm}^3$.
 
-[IMAGE: A flowchart of the Haber Process. On the left, inputs "Nitrogen gas (N₂)" and "Hydrogen gas (H₂)" enter a compressor. The compressed gases move into a reactor tank labelled "Iron catalyst, 450 °C, 200 atm". A pipe leads from the reactor to a cooling condenser, where liquid ammonia drips into a collection tank. Unreacted N₂ and H₂ are shown recycling back to the reactor. Clean flat textbook style, white background.]
+![Flowchart of the Haber Process showing nitrogen and hydrogen entering a compressor, passing through a catalyzed reactor to a condenser, yielding liquid ammonia and recycling unreacted gases.](images/A14c-02-haber-process-industrial-flowchart.png)
 
 ### Properties and Uses of Ammonia
 
@@ -180,7 +180,7 @@ Expose the colourless gas to air (oxygen). It will immediately turn into the **r
 2. Slant the test tube and carefully add a few drops of **concentrated $\text{H}_2\text{SO}_4$** down the side of the tube.
 3. The heavy acid settles at the bottom. At the junction where the acid and the aqueous mixture meet, a **brown ring** forms if $\text{NO}_3^-$ is present. The brown ring is a complex compound called nitroso-iron(II) tetraoxosulphate(VI), with the formula **$\text{FeSO}_4\cdot\text{NO}$**.
 
-[IMAGE: A test tube held at a slight angle. The bottom half contains dense, clear concentrated H₂SO₄. The top half contains a paler aqueous solution. Exactly at the boundary between the two liquids, a distinct dark brown ring is visible. Labels to add: "aqueous mixture of NO₃⁻ and FeSO₄", "Brown ring (FeSO₄·NO)", "Concentrated H₂SO₄". Clean flat textbook style, white background.]
+![An inclined test tube held in a clamp showing two liquid layers with a distinct brown ring formed at the junction between them.](images/A14c-03-nitrate-brown-ring-test.png)
 
 ### The Nitrogen Cycle and its Relevance
 
@@ -218,7 +218,7 @@ Allotropy is the existence of an element in two or more physical forms in the sa
 | **Appearance** | Transparent, brilliant, sparkles when cut. | Opaque, black, and shiny. |
 | **Uses** | Jewellery, drilling rocks, cutting glass. | Electrodes in dry cells, lubricant for heavy machines, pencil leads. |
 
-[IMAGE: Two side-by-side molecular models. Left: Diamond, showing carbon atoms connected in a rigid, rigid 3D tetrahedral lattice. Right: Graphite, showing carbon atoms arranged in flat sheets of hexagons, with dashed lines indicating weak forces between the distinct separated layers. Labels: "Diamond structure (tetrahedral)", "Graphite structure (hexagonal layers)". Clean flat textbook style, white background.]
+![Molecular models comparing the rigid three-dimensional tetrahedral diamond lattice on the left with the layered hexagonal graphite sheets connected by weak forces on the right.](images/A14c-04-diamond-graphite-molecular-structures.png)
 
 ### Reagents for the Laboratory Preparation of Carbon(IV) Oxide
 

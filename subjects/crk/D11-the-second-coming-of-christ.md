@@ -59,7 +59,7 @@ The Christians in Thessalonica were grieving because some of their church member
 - **The Rapture (caught up):** After the dead are resurrected, those believers who are still alive on earth will be "caught up together with them in the clouds to meet the Lord in the air."
 - **Eternal presence:** From that moment on, all believers (both the resurrected dead and the transformed living) will always be with the Lord.
 
-[IMAGE: A dramatic scene in the sky. In the upper center, Jesus descends from heaven surrounded by bright golden light and angels, one of whom is blowing a large trumpet. Below, clouds separate the heavenly scene from the earth. People are shown rising upward from the earth toward the clouds to meet Jesus—some appearing in glowing white robes rising from graves (the dead in Christ), and others rising alongside them (the living believers). Clean flat textbook illustration, respectful and awe-inspiring, white background.]
+![Jesus descends in golden light with angels including one sounding a trumpet, as believers rise from graves and the ground toward the clouds.](images/D11-01-second-coming-christ.png)
 
 ### 2. The Destruction of the Lawless One (2 Thessalonians 2:8)
 
@@ -150,7 +150,7 @@ Then He will turn to the **goats on His left** and say, *"Depart from me, you cu
 | **Relation to Christ** | What they did to the needy, they did to Christ | What they failed to do for the needy, they failed to do for Christ |
 | **Destiny** | Inherit the kingdom / Eternal life | Eternal fire (prepared for the devil) / Eternal punishment |
 
-[IMAGE: A wide illustration showing the separation of the sheep and the goats. In the center sits Jesus on a glorious throne as King. On His right side (the viewer's left), happy people are being welcomed by angels, and a small inset scene shows them feeding a beggar and visiting a sick person. On His left side (the viewer's right), distressed people are being turned away into a fiery background, with an inset showing them ignoring a hungry person. Clean flat textbook style, distinct colors for contrast, white background.]
+![Biblical illustration of the separation of sheep and goats, showing Jesus enthroned between welcomed righteous people helping the needy and rejected people led away toward fire.](images/D11-02-sheep-goats-judgment-scene.png)
 
 ## The importance of His coming
 

@@ -88,7 +88,7 @@ Solar power is energy tapped directly from the sun using solar panels and solar 
 - **Wind power:** Uses windmills to pump water or generate electricity. Cheap and renewable but depends on unpredictable wind speeds.
 - **Water power (Hydraulic):** Uses moving water to turn turbines (e.g., Kainji Dam in Nigeria) or watermills. Powerful and renewable but strictly limited to areas with fast-flowing rivers or waterfalls.
 
-[IMAGE: A three-panel horizontal illustration comparing power sources in the field. Left panel: A tired-looking farmer swinging a short-handled hoe in a small unweeded plot (Human power). Middle panel: Two large White Fulani bulls with a wooden yoke pulling a metal plough, guided by a farmer with a stick (Animal power). Right panel: A modern red tractor pulling a disc plough across a large, neat field, with a little exhaust smoke coming from the pipe (Mechanical power). Labels to add later: "Human power (slow, high drudgery)", "Animal power (faster, restricted by tsetse fly)", "Mechanical power (fastest, high capital)". Clean flat textbook style, white background.]
+![Illustration comparing agricultural power sources: a farmer using a hoe, two bulls pulling a plough with a farmer, and a red tractor pulling a disc plough.](images/E4-01-sources-farm-power.png)
 
 ## Comparing the advantages and disadvantages of various sources of farm power
 
@@ -158,7 +158,7 @@ Despite the obvious benefits of using machines, West African agriculture is stil
 7. **Poor road networks:** 
    Many rural farming communities lack good, paved roads. It is difficult and sometimes impossible to move heavy machinery into the farms or transport large mechanized harvests out to the markets.
 
-[IMAGE: An illustration showing the physical challenges of mechanization in a tropical rainforest zone. A modern tractor is shown struggling in a muddy field. The tractor's disc plough is caught and bent on a massive, deep-rooted tree stump hidden in the soil. The driver looks frustrated, holding a wrench. Labels to add later: "Problem: Large tree stumps break implements", "Problem: Muddy/swampy soil bogs down machines", "Problem: Lack of spare parts to fix broken plough". Clean flat textbook style, white background.]
+![A modern tractor struggling in muddy soil with its attached disc plough caught on a large, deep-rooted tree stump while a frustrated driver holds a wrench.](images/E4-02-challenges-tropical-mechanization.png)
 
 ### Prospects and solutions for mechanized agriculture
 

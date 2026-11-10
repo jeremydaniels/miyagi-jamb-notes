@@ -186,8 +186,10 @@ def split_sides(labs, cx, ox_pad):
 
 def render(name, spec, out_dir):
     raw = Image.open(os.path.join(RAW, spec.get("src", name) + ".png")).convert("RGB")
-    if "split" in spec:
-        raw, spec = apply_split(raw, spec)
+    if spec.get("split"):                  # one [y, gap] or a list of them (white rows inserted so captions fit between picture rows)
+        splits = spec["split"] if isinstance(spec["split"][0], list) else [spec["split"]]
+        for sp_ in sorted(splits, reverse=True):
+            raw, spec = apply_split(raw, dict(spec, split=sp_))
     dw = ImageDraw.Draw(raw)
     for r in spec.get("whiten", []):
         dw.rectangle(r, fill=WHITE)
@@ -222,10 +224,13 @@ def render(name, spec, out_dir):
             labs.append(dict(text=text, tx=S(x - cl), ty=S(y - ct), side=e[2], y0=S((e[3] if len(e) > 3 and not isinstance(e[3], list) else y) - ct), y=0,
                              col=tuple(e[4]) if len(e) > 4 else INK, region=e[0].lower() in regions,
                              w=bb[2] - bb[0], h=bb[3] - bb[1] + 8, dot=None))
-        sides = {"L": [], "R": []}
+        sides = {"L": [], "R": [], "T": [], "B": []}
         centre = img.width / 2
-        for l in labs:                     # a label goes to the side its dot is on
-            sides["L" if l["tx"] < centre else "R"].append(l)
+        for l in labs:                     # a label goes to the side its dot is on, unless the spec fixes the sides (multi-panel pictures)
+            if spec.get("fixed_sides") and l["side"] in "LRTB":
+                sides[l["side"]].append(l)
+            else:
+                sides["L" if l["tx"] < centre else "R"].append(l)
         wl = max([l["w"] for l in sides["L"]], default=0)
         wr = max([l["w"] for l in sides["R"]], default=0)
         padL = wl + 70 if wl else MARGIN
@@ -235,8 +240,28 @@ def render(name, spec, out_dir):
             break
         fsize = min(MAX_FONT, int(MIN_FRAC * W) + 1)
     cap_font = font("semibold", max(fsize, spec.get("capsize", 0)))
+
+    def rows_for(group, gap=26):
+        """Labels in a row above or below the picture: left to right by dot position, a new row when two would overlap."""
+        group.sort(key=lambda l: l["tx"]); rows = []
+        for l in group:
+            cx = l["tx"] + padL
+            lx0 = max(MARGIN, cx - l["w"] / 2)
+            for r_ in rows:
+                if lx0 >= r_[-1]["x1"] + gap:
+                    break
+            else:
+                r_ = []; rows.append(r_)
+            l["x0"] = lx0; l["x1"] = lx0 + l["w"]; l["row"] = rows.index(r_); r_.append(l)
+        return len(rows)
+
+    nT, nB = rows_for(sides["T"]), rows_for(sides["B"])
+    rowh = fsize * 2.6
+    bandT = int(nT * rowh + 34) if nT else 0
+    bandB = int(nB * rowh + 34) if nB else 0
+    W = max(W, int(max([l["x1"] for l in sides["T"] + sides["B"]], default=0) + MARGIN))
     title_h = int(fsize * 1.2) + 40 if any(c[2] == 0 for c in captions) else 0
-    H = img.height + title_h + 2 * MARGIN
+    H = img.height + title_h + 2 * MARGIN + bandT + bandB
     can_probe = ImageDraw.Draw(img)
     below_txt = ""
     if below:
@@ -247,14 +272,14 @@ def render(name, spec, out_dir):
     for text, x, y in captions:  # grow the canvas if a caption sits below the image
         if y:
             bb = can_probe.multiline_textbbox((0, 0), text, font=cap_font, spacing=6)
-            H = max(H, int(S(y - ct) + MARGIN + title_h + bb[3] + MARGIN))
+            H = max(H, int(S(y - ct) + MARGIN + title_h + bandT + bb[3] + MARGIN))
 
     can = Image.new("RGB", (W, H), WHITE)
-    ox, oy = padL, MARGIN + title_h
+    ox, oy = padL, MARGIN + title_h + bandT
     can.paste(img, (ox, oy))
     dr = ImageDraw.Draw(can)
     to_canvas = lambda x, y: (S(x - cl) + ox, S(y - ct) + oy)
-    lo, hi = MARGIN, MARGIN + title_h + img.height + MARGIN
+    lo, hi = MARGIN, MARGIN + title_h + bandT + img.height + bandB + MARGIN
 
     def place(group, sx):
         for l in group:
@@ -294,6 +319,18 @@ def render(name, spec, out_dir):
                 sx = lx - 8
             leader(dr, (sx, cy), l["dot"], l["region"])
 
+    for side in "TB":
+        for l in sides[side]:
+            dot = (l["tx"] + ox, l["ty"] + oy)
+            if side == "T":
+                top = oy - 30 - (l["row"] + 1) * rowh + (rowh - l["h"]) / 2 + 12
+                anchor = (l["x0"] + l["w"] / 2, top + l["h"] + 4)
+            else:
+                top = oy + img.height + 30 + l["row"] * rowh
+                anchor = (l["x0"] + l["w"] / 2, top - 4)
+            dr.multiline_text((l["x0"], top), l["text"], font=FONT, fill=l["col"], spacing=6, align="center")
+            leader(dr, anchor, dot, l["region"])
+
     for p, q in spec.get("arrows", []):
         a, b = to_canvas(*p), to_canvas(*q)
         dr.line([a, b], fill=INK, width=5)
@@ -319,7 +356,7 @@ def render(name, spec, out_dir):
         dr.multiline_text((left_, top), text, font=f, fill=INK, spacing=6, align="center")
     if below_txt:
         bb = dr.multiline_textbbox((0, 0), below_txt, font=cap_font, spacing=8)
-        dr.multiline_text((ox + (img.width - (bb[2] - bb[0])) / 2, oy + img.height + 18), below_txt, font=cap_font, fill=INK, spacing=8, align="center")
+        dr.multiline_text((ox + (img.width - (bb[2] - bb[0])) / 2, oy + img.height + bandB + 18), below_txt, font=cap_font, fill=INK, spacing=8, align="center")
 
     os.makedirs(out_dir, exist_ok=True)
     can.save(os.path.join(out_dir, name + ".png"), optimize=True)

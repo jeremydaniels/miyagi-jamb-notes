@@ -46,7 +46,7 @@ The disciples reported the various rumours circulating among the Jewish people. 
 3.  **Jeremiah:** Mentioned **only in Matthew's Gospel**. Jeremiah was known as the "weeping prophet" who suffered for his message, and some saw similarities in Jesus' ministry.
 4.  **One of the prophets:** A general belief that Jesus was a resurrected prophet of the Old Testament.
 
-[IMAGE: A peaceful landscape illustration of first-century Caesarea Philippi. In the foreground, Jesus is sitting on a stone, gesturing towards His disciples who are gathered closely around Him in a semi-circle. In the background, a massive, imposing rocky cliff face with a spring of water flowing from its base, representing the geography of the region. Style: clean flat textbook illustration, warm earthy colours, white background.]
+![Jesus sits on a stone teaching his disciples gathered in a semicircle before a rocky cliff with a flowing spring in Caesarea Philippi.](images/C8-01-biblical-landscape-caesarea-philippi.png)
 
 ## Analysing the confession by Peter
 
@@ -94,7 +94,7 @@ Following the confession, in all three Gospels, Jesus strictly commanded the dis
 
 Immediately after this command (as noted in Luke 9:22 and the parallel verses in Matthew and Mark), Jesus began to teach them that the Son of Man must **suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and on the third day be raised.**
 
-[IMAGE: A conceptual illustration of "The Keys of the Kingdom". Two large, ancient-style keys (one gold, one silver) crossed over each other, resting on a large, solid foundation stone. Behind the keys, a faint outline of a glowing doorway or gate. Labels to add later: "Keys of the Kingdom", "Spiritual Authority", "The Rock". Style: clean flat textbook illustration, white background.]
+![A religious illustration showing Jesus gesturing toward crossed gold and silver keys resting on a stone foundation, with angels nearby and a luminous doorway behind.](images/C8-02-keys-kingdom.png)
 
 ## Examining the significance of the Great Confession
 

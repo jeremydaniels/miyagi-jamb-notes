@@ -525,7 +525,7 @@ The stored food in seeds is in an **insoluble** form (so that it does not dissol
 
 **Experiment idea (starch test):** if you test a soaked but ungerminated maize grain and a germinating maize grain (cut in half) with **iodine solution**, the ungerminated endosperm turns **blue-black** strongly (lots of starch). In the germinating grain, the region near the scutellum stains less, and a test with **Benedict's or Fehling's solution** shows more **reducing sugar**, showing that starch is being converted to sugar.
 
-![Diagram of food mobilisation in a germinating maize grain longitudinal section showing endosperm digestion into nutrients and their transport to the growing embryo.](images/B8-12-seed-food-mobilisation-flowchart.png)
+[IMAGE: Flow diagram of food mobilisation in a germinating maize grain, drawn as a longitudinal section of the grain with arrows. Show the embryo with an arrow labelled "gibberellin" going to the aleurone layer; from the aleurone layer arrows labelled "amylase" and "protease" going into the endosperm; inside the endosperm show "starch → maltose → glucose" and "protein → amino acids"; then arrows carrying sugars and amino acids from the endosperm across the scutellum into the growing plumule and radicle. Labels: embryo, gibberellin, aleurone layer, enzymes (amylase, protease), endosperm (starch), soluble sugars and amino acids, scutellum (absorbs food), growing plumule, growing radicle. Soft yellow endosperm, light green embryo, blue arrows. Clean flat textbook style, white background.]
 
 ## Key terms
 

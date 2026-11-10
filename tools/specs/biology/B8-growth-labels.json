@@ -195,32 +195,32 @@
    [
     "rubber stopper",
     [
-     292,
-     208
+     279,
+     263
     ],
-    "T"
+    "L"
    ],
    [
     "moist cotton wool",
     [
-     289,
-     570
+     287,
+     580
     ],
     "L"
    ],
    [
     "seeds",
     [
-     278,
-     636
+     240,
+     619
     ],
     "L"
    ],
    [
     "alkaline pyrogallol",
     [
-     283,
-     813
+     287,
+     783
     ],
     "L"
    ],
@@ -228,25 +228,27 @@
     "water",
     [
      741,
-     800
+     783
     ],
     "R"
-   ]
-  ],
-  "captions": [
+   ],
    [
     "no germination",
-    283,
-    906
+    [
+     278,
+     654
+    ],
+    "L"
    ],
    [
     "germination",
-    738,
-    906
+    [
+     738,
+     654
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B8-09-epigeal-germination-stages": {
   "labels": [
@@ -415,64 +417,6 @@
   "capsize": 0
  },
  "B8-11-epigeal-hypogeal-comparison": {},
- "B8-12-seed-food-mobilisation-flowchart": {
-  "caption_below": "Gibberellin triggers enzymes (amylase, protease) to produce soluble sugars and amino acids.",
-  "regions": [
-   "aleurone layer",
-   "endosperm (starch)",
-   "scutellum (absorbs food)"
-  ],
-  "labels": [
-   [
-    "embryo",
-    [
-     500,
-     760
-    ],
-    "L"
-   ],
-   [
-    "aleurone layer",
-    [
-     775,
-     277
-    ],
-    "R"
-   ],
-   [
-    "endosperm (starch)",
-    [
-     357,
-     274
-    ],
-    "L"
-   ],
-   [
-    "scutellum (absorbs food)",
-    [
-     476,
-     613
-    ],
-    "L"
-   ],
-   [
-    "growing plumule",
-    [
-     636,
-     619
-    ],
-    "R"
-   ],
-   [
-    "growing radicle",
-    [
-     601,
-     826
-    ],
-    "R"
-   ]
-  ]
- },
  "B8-06-maize-grain-anatomy": {
   "regions": [
    "aleurone layer",

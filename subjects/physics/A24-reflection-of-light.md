@@ -130,7 +130,7 @@ The nature of the image formed by a concave mirror completely changes depending 
 | At $F$ | At infinity | No clear image forms (reflected rays are parallel) |
 | Between $F$ and Pole ($P$) | Behind the mirror | **Virtual**, erect, magnified |
 
-[IMAGE: Six small panels showing ray diagrams for a concave mirror as an object arrow moves closer. Panel 1: Object at infinity, rays converge at F. Panel 2: Object beyond C, image between C and F (real, inverted, diminished). Panel 3: Object at C, image at C (real, inverted, same size). Panel 4: Object between C and F, image beyond C (real, inverted, magnified). Panel 5: Object at F, reflected rays are parallel. Panel 6: Object between F and the pole, reflected rays diverge, extending backward as dashed lines to form a virtual, erect, magnified image arrow behind the mirror. Clean flat textbook illustration, white background.]
+![Ray diagram for a concave mirror showing real, inverted image formation between center of curvature C and focal point F using two rays from an object beyond C.](images/A24-02-concave-mirror-image-ray.png)
 
 #### Image formation by a Convex mirror
 A convex mirror is much simpler because it produces the exact same type of image no matter where the object is placed in front of it:

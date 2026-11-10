@@ -10,5 +10,9 @@
  [
   "A24-04-periscope-optical-ray",
   "Cross-section of a simple periscope. A tall 'Z'-shaped or rectangular vertical tube with two open horizontal viewing windows. Two plane mirrors are placed at the internal corners, parallel to each other and inclined at 45 degrees to the vertical walls. A horizontal light ray from an object enters the top window, strikes the top mirror, reflects 90 degrees straight down, strikes the bottom mirror, and reflects 90 degrees horizontally out to a drawn eye. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A24-02-concave-mirror-image-ray",
+  "A clear ray diagram for a concave mirror forming a real image. White background. A horizontal principal axis crosses a curved concave mirror on the right. Mark two points on the axis: center of curvature labeled \"C\" and focal point labeled \"F\", with F halfway between C and the mirror. Draw a vertical upright arrow beyond C, labeled \"Object\". Draw two straight light rays from the object's tip: the first ray goes parallel to the axis to the mirror, then reflects down precisely through F; the second ray passes straight through C to the mirror and reflects back along the same path. Where the two reflected rays intersect between C and F, draw an inverted vertical arrow labeled \"Image\". Labels: C, F, Object, Image."
  ]
 ]

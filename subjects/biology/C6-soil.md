@@ -98,7 +98,7 @@ The **topsoil** is the part that matters most for farming. It is also the part l
 
 **Textbook variation:** some textbooks label the horizons A, B, C and D, with D as bedrock, and do not show an O horizon; others use O, A, B, C and R. They describe the same layers.
 
-[IMAGE: A vertical soil profile in a cut-away pit, shown as a tall rectangle with horizontal layers. From top: a thin layer of leaf litter with grass and a small plant on the surface; a dark brown topsoil with many fine roots, an earthworm and small air spaces; a lighter orange-brown subsoil with a few long roots and small stones; a layer of broken, partly weathered grey rock fragments; solid grey bedrock at the bottom. A narrow bracket on the right side of each layer. Labels: "Leaf litter (O)", "Topsoil (A)", "Subsoil (B)", "Weathered parent rock (C)", "Bedrock (R)", "Humus-rich layer", "Roots", "Earthworm". Soft earthy colours. Clean flat textbook style, white background.]
+![A vertical soil profile diagram showing leaf litter on the surface, followed by topsoil with an earthworm, subsoil with roots, weathered rock fragments, and solid bedrock at the bottom.](images/C6-02-soil-profile-layers.png)
 
 ## Soil particles and soil texture
 
@@ -272,7 +272,7 @@ You can tell soil types apart by three simple sets of tests.
 
 **Sample calculation:** if the total sediment is 8.0 cm high and the sand layers together are 5.0 cm, sand makes up about 5.0 ÷ 8.0 × 100 = **62.5%** of the sediment by depth. This gives a rough idea only, because fine particles pack differently from coarse ones.
 
-[IMAGE: A tall glass measuring cylinder standing on a bench, containing soil that has settled into distinct horizontal layers after shaking with water. From bottom to top: a layer of small grey stones, a thicker layer of coarse light-brown sand, a layer of finer sand, a layer of smooth grey-brown silt, a thin layer of reddish-brown clay, then cloudy pale-brown water fading to clearer water, with small dark brown bits floating on the surface. Labels: "Gravel", "Coarse sand", "Fine sand", "Silt", "Clay", "Water (cloudy with fine clay)", "Floating humus". Clean flat textbook style, white background.]
+![A glass measuring cylinder containing settled soil layers: gravel at bottom, followed by coarse sand, fine sand, silt, clay, cloudy water, and floating humus at top.](images/C6-05-soil-sedimentation-measuring-cylinder.png)
 
 ### Experiment 2: Sieving (particle size by sieves)
 
@@ -318,7 +318,7 @@ You can tell soil types apart by three simple sets of tests.
 
 **Sources of error:** unequal packing of the soils; soil not equally dry at the start; water poured at different speeds; water evaporating; fine clay blocking the cotton wool.
 
-[IMAGE: Three identical glass filter funnels side by side, each resting on a graduated measuring cylinder. Each funnel has a white cotton wool plug in its neck and contains a soil sample: left pale yellow sandy soil, middle dark brown loam, right reddish-brown clay. Water is being poured onto each from above (one small beaker shown pouring). The cylinders below show different amounts of collected water: most under the sand, a medium amount under the loam, very little under the clay, where a pool of water sits on the clay surface. Labels: "Sandy soil", "Loamy soil", "Clayey soil", "Cotton wool plug", "Filter funnel", "Measuring cylinder", "Water collected", "Water lying on surface". Clean flat textbook style, white background.]
+![An experiment showing water drainage through three funnels containing sandy, loamy, and clay soil, into measuring cylinders showing high, medium, and low water levels respectively.](images/C6-06-soil-water-drainage-experiment.png)
 
 ### Experiment 4: Simple field tests (feel test and ribbon test)
 
@@ -364,7 +364,7 @@ These quick tests let a farmer identify a soil without equipment:
 
 **Note:** use undisturbed soil, because loosening the soil changes the amount of air in it.
 
-[IMAGE: Two-step set-up for finding air in soil. Left: a small metal tin with holes in its base, packed level-full with brown soil. Right: a large glass measuring cylinder holding water with the soil from the tin settling at the bottom, a glass stirring rod inside, and small air bubbles rising from the soil to the surface. An arrow from the tin to the cylinder. Labels: "Tin of soil (known volume)", "Measuring cylinder", "Water", "Soil", "Air bubbles escaping", "Stirring rod". Clean flat textbook style, white background.]
+![An illustration showing soil in a perforated tin and a beaker of water where immersed soil releases rising air bubbles stirred with a glass rod.](images/C6-07-air-soil-experiment-apparatus.png)
 
 ### Experiment 6: Percentage of water in soil
 
@@ -421,7 +421,7 @@ These quick tests let a farmer identify a soil without equipment:
 
 **Source of error:** strong heating also drives off some water that is chemically bound in clay minerals, so the result can slightly **overestimate** the humus in clayey soils.
 
-[IMAGE: Two heating set-ups side by side. Left: an evaporating dish of moist brown soil heated gently in a small laboratory oven at about 100 degrees, with a few wisps of steam. Right: a crucible of dry soil on a pipe-clay triangle on a tripod over a Bunsen burner with a blue flame, the soil glowing slightly with a little smoke rising. A small electronic balance between them. Labels: "Evaporating dish", "Oven at about 100 °C (water driven off)", "Crucible", "Pipe-clay triangle", "Tripod", "Bunsen burner", "Strong heat (humus burnt off)", "Balance". Clean flat textbook style, white background.]
+![Illustration of soil heating experiments showing an oven drying soil on the left, a digital balance in the middle, and a crucible on a tripod over a Bunsen burner on the right.](images/C6-08-soil-water-humus-determination.png)
 
 ### Experiment 8: Capillarity of soils
 
@@ -456,7 +456,7 @@ These quick tests let a farmer identify a soil without equipment:
 
 **Exam point:** when JAMB asks which soil has the highest capillarity, the answer is **clay**; the lowest is **sand**. If a question asks only about the first few minutes, sand shows the fastest rise.
 
-[IMAGE: Three identical tall glass tubes clamped upright on retort stands, their lower ends plugged with cotton wool and standing in a shallow trough of water. Left tube filled with pale yellow sand, middle with brown loam, right with reddish clay. Each tube shows a darker wet zone rising from the bottom: shortest in the sand tube, medium in the loam tube, tallest in the clay tube. A ruler beside the tubes. Labels: "Sandy soil", "Loamy soil", "Clayey soil", "Height of water rise", "Cotton wool plug", "Trough of water", "Retort stand and clamp". Clean flat textbook style, white background.]
+![An experiment showing water rising through sand, loam, and clay soils in three vertical glass tubes supported by clamps in a water trough beside a ruler.](images/C6-09-soil-capillarity-experiment-apparatus.png)
 
 ### Other simple experiments on soil components
 
@@ -490,7 +490,7 @@ These show the remaining components of soil.
 2. Add a few drops of **universal indicator** (or use pH paper) and compare the colour with the colour chart.
 3. Most crops grow best at a pH of about **6 to 7** (slightly acid to neutral). Many soils in the wet south of Nigeria are acidic because of heavy leaching.
 
-[IMAGE: Two laboratory set-ups side by side. Left: two conical flasks closed with stoppers, each with a small open tube of lime water hanging inside above a layer of soil. Flask A holds dark fresh soil and its lime water is milky white; flask B holds pale heated soil and its lime water is clear. Right: a Tullgren funnel: a lamp above a funnel holding leaf litter and soil on a wire gauze, with a beaker of liquid below where tiny soil animals (mites, springtails, small larvae) have fallen. Labels: "Fresh soil", "Sterilised (heated) soil", "Lime water turns milky", "Lime water stays clear", "Lamp", "Leaf litter on wire gauze", "Funnel", "Beaker of alcohol", "Soil animals". Clean flat textbook style, white background.]
+![Illustration of soil respiration flasks with limewater tubes beside a Tullgren funnel setup with lamp, leaf litter on gauze, and collection beaker with small organisms.](images/C6-10-soil-microorganisms-experimental-apparatus.png)
 
 ### Summary of results for the three soil types
 
@@ -590,7 +590,7 @@ Soil is full of life. A single handful of fertile soil may contain millions of m
 6. Improving **soil structure** (binding particles into crumbs).
 7. Some are **harmful**: pests and disease organisms of crops.
 
-[IMAGE: A cut-away block of fertile topsoil showing soil life. A grass plant and a legume plant with small round root nodules on its roots at the top. Inside the soil: an earthworm in its burrow with worm casts on the surface, a few termites in a tunnel, an ant, a millipede, a mite and a springtail near leaf litter, a beetle grub, and a magnified circular inset showing rod-shaped bacteria and branching fungal threads around a root hair. Labels: "Earthworm", "Worm casts", "Burrow", "Termites", "Millipede", "Leaf litter", "Root nodules (nitrogen-fixing bacteria)", "Bacteria", "Fungal threads", "Root hair", "Insect larva". Earthy soft colours. Clean flat textbook style, white background.]
+![A cutaway illustration of soil showing plant roots, an earthworm, insects, a grub, and a magnified view of rod-shaped bacteria and fungal threads around a root hair.](images/C6-11-soil-organisms-ecosystem-block.png)
 
 ### Soil air
 
@@ -803,7 +803,7 @@ Mineral salts are lost from the soil in several ways:
 
 **Effects of erosion on fertility:** loss of the humus-rich, nutrient-rich topsoil and its organisms; exposure of the poorer subsoil; loss of soil depth; formation of gullies that destroy farmland; silting of rivers, dams and reservoirs; and flooding downstream.
 
-[IMAGE: A three-panel illustration of soil erosion on a sloping farm. Panel 1: raindrops striking bare soil and splashing particles (splash erosion). Panel 2: a thin film of muddy water flowing evenly over a bare slope (sheet erosion) and small parallel channels cut into the slope (rill erosion). Panel 3: a deep, wide, steep-sided red-earth gully cutting through farmland, with a house and a palm tree close to its edge. Labels: "Splash erosion", "Sheet erosion", "Rill erosion", "Gully erosion", "Bare soil", "Topsoil washed away". Soft earthy colours with blue water. Clean flat textbook style, white background.]
+![Three-panel illustration showing soil erosion stages: raindrops causing splash erosion, runoff forming sheet and rill erosion on a slope, and severe gully erosion near a house.](images/C6-12-soil-erosion-types-stages.png)
 
 ### 5. Repeated cropping with one variety (monocropping)
 
@@ -870,7 +870,7 @@ Mineral salts are lost from the soil in several ways:
 
 **In Nigeria:** terracing is used on some hilly and mountainous farmland, for example on parts of the Jos, Mambilla and Obudu plateaus and in the Mandara Mountains area of the north-east. The ancient terraced fields of the **Sukur Cultural Landscape** in Adamawa State are a UNESCO World Heritage Site.
 
-[IMAGE: Two side-by-side illustrations of a green hillside. Left: contour ridging, with curved ridges and furrows running across the slope following the contour lines, crops growing on the ridges, and rainwater held in the furrows. Right: terracing, a steep hill cut into flat step-like platforms with low stone walls at the edges and crops on each step. A small arrow showing the direction of slope on each. Labels: "Contour ridges", "Furrow holding water", "Contour line", "Terrace (level step)", "Retaining wall", "Slope". Clean flat textbook style, white background.]
+![Two diagrams comparing soil conservation methods on hillsides: contour ridging with water-holding furrows on the left and stepped terraces with stone retaining walls on the right.](images/C6-13-contour-ridging-terracing.png)
 
 ### Mulching
 
@@ -917,7 +917,7 @@ Mineral salts are lost from the soil in several ways:
 3. If the strips are rotated each year, strip-cropping also gives the benefits of **crop rotation**.
 4. Legume strips add nitrogen.
 
-[IMAGE: Aerial-angled view of a gently sloping farm with long, curved strips following the contour: alternating strips of tall maize in rows with bare soil between them, and dense, low, leafy green strips of groundnut or grass. Small blue arrows show run-off leaving a maize strip and being slowed and stopped at the next dense strip, where a thin band of trapped brown soil is visible. Labels: "Row crop strip (maize)", "Close-growing crop strip (groundnut/grass)", "Run-off slowed", "Soil trapped", "Contour". Clean flat textbook style, white background.]
+![An illustration showing contour strip cropping on a slope, with alternating strips of tall maize and dense ground cover plants slowing runoff.](images/C6-14-strip-cropping-aerial-view.png)
 
 ### Use of organic fertilisers (manures)
 

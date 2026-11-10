@@ -1,0 +1,694 @@
+{
+ "C6-02-soil-profile-layers": {
+  "labels": [
+   [
+    "Leaf litter (O)",
+    [
+     498,
+     206
+    ],
+    "L"
+   ],
+   [
+    "Topsoil (A)",
+    [
+     741,
+     329
+    ],
+    "R"
+   ],
+   [
+    "Subsoil (B)",
+    [
+     741,
+     533
+    ],
+    "R"
+   ],
+   [
+    "Weathered parent rock (C)",
+    [
+     741,
+     715
+    ],
+    "R"
+   ],
+   [
+    "Bedrock (R)",
+    [
+     741,
+     867
+    ],
+    "R"
+   ],
+   [
+    "Humus-rich layer",
+    [
+     741,
+     208
+    ],
+    "R"
+   ],
+   [
+    "Roots",
+    [
+     349,
+     524
+    ],
+    "L"
+   ],
+   [
+    "Earthworm",
+    [
+     396,
+     377
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C6-05-soil-sedimentation-measuring-cylinder": {
+  "labels": [
+   [
+    "Gravel",
+    [
+     512,
+     844
+    ],
+    "R"
+   ],
+   [
+    "Coarse sand",
+    [
+     512,
+     742
+    ],
+    "R"
+   ],
+   [
+    "Fine sand",
+    [
+     512,
+     640
+    ],
+    "R"
+   ],
+   [
+    "Silt",
+    [
+     512,
+     547
+    ],
+    "R"
+   ],
+   [
+    "Clay",
+    [
+     512,
+     486
+    ],
+    "R"
+   ],
+   [
+    "Water (cloudy with fine clay)",
+    [
+     512,
+     343
+    ],
+    "R"
+   ],
+   [
+    "Floating humus",
+    [
+     491,
+     184
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C6-06-soil-water-drainage-experiment": {
+  "labels": [
+   [
+    "Sandy soil",
+    [
+     222,
+     430
+    ],
+    "L"
+   ],
+   [
+    "Loamy soil",
+    [
+     518,
+     428
+    ],
+    "R"
+   ],
+   [
+    "Clayey soil",
+    [
+     807,
+     439
+    ],
+    "R"
+   ],
+   [
+    "Cotton wool plug",
+    [
+     212,
+     523
+    ],
+    "L"
+   ],
+   [
+    "Filter funnel",
+    [
+     305,
+     338
+    ],
+    "L"
+   ],
+   [
+    "Measuring cylinder",
+    [
+     268,
+     680
+    ],
+    "L"
+   ],
+   [
+    "Water collected",
+    [
+     208,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Water lying on surface",
+    [
+     806,
+     377
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-07-air-soil-experiment-apparatus": {
+  "labels": [
+   [
+    "Tin of soil (known volume)",
+    [
+     237,
+     760
+    ],
+    "L"
+   ],
+   [
+    "Measuring cylinder",
+    [
+     584,
+     494
+    ],
+    "R"
+   ],
+   [
+    "Water",
+    [
+     689,
+     518
+    ],
+    "R"
+   ],
+   [
+    "Soil",
+    [
+     256,
+     613
+    ],
+    "L"
+   ],
+   [
+    "Air bubbles escaping",
+    [
+     723,
+     396
+    ],
+    "R"
+   ],
+   [
+    "Stirring rod",
+    [
+     865,
+     247
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-08-soil-water-humus-determination": {
+  "labels": [
+   [
+    "Evaporating dish",
+    [
+     247,
+     555
+    ],
+    "L"
+   ],
+   [
+    "Oven at about 100 \u00b0C (water driven off)",
+    [
+     315,
+     312
+    ],
+    "L"
+   ],
+   [
+    "Crucible",
+    [
+     828,
+     402
+    ],
+    "R"
+   ],
+   [
+    "Pipe-clay triangle",
+    [
+     883,
+     445
+    ],
+    "R"
+   ],
+   [
+    "Tripod",
+    [
+     735,
+     464
+    ],
+    "R"
+   ],
+   [
+    "Bunsen burner",
+    [
+     825,
+     662
+    ],
+    "R"
+   ],
+   [
+    "Strong heat (humus burnt off)",
+    [
+     827,
+     513
+    ],
+    "R"
+   ],
+   [
+    "Balance",
+    [
+     582,
+     677
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-09-soil-capillarity-experiment-apparatus": {
+  "labels": [
+   [
+    "Sandy soil",
+    [
+     309,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Loamy soil",
+    [
+     573,
+     307
+    ],
+    "R"
+   ],
+   [
+    "Clayey soil",
+    [
+     832,
+     307
+    ],
+    "R"
+   ],
+   [
+    "Height of water rise",
+    [
+     832,
+     605
+    ],
+    "R"
+   ],
+   [
+    "Cotton wool plug",
+    [
+     309,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Trough of water",
+    [
+     437,
+     854
+    ],
+    "L"
+   ],
+   [
+    "Retort stand and clamp",
+    [
+     199,
+     374
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C6-10-soil-microorganisms-experimental-apparatus": {
+  "labels": [
+   [
+    "Fresh soil",
+    [
+     171,
+     700
+    ],
+    "L"
+   ],
+   [
+    "Sterilised (heated) soil",
+    [
+     445,
+     700
+    ],
+    "L"
+   ],
+   [
+    "Lime water turns milky",
+    [
+     169,
+     587
+    ],
+    "L"
+   ],
+   [
+    "Lime water stays clear",
+    [
+     445,
+     591
+    ],
+    "L"
+   ],
+   [
+    "Lamp",
+    [
+     772,
+     189
+    ],
+    "R"
+   ],
+   [
+    "Leaf litter on wire gauze",
+    [
+     774,
+     454
+    ],
+    "R"
+   ],
+   [
+    "Funnel",
+    [
+     888,
+     390
+    ],
+    "R"
+   ],
+   [
+    "Beaker of alcohol",
+    [
+     772,
+     783
+    ],
+    "R"
+   ],
+   [
+    "Soil animals",
+    [
+     778,
+     852
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-11-soil-organisms-ecosystem-block": {
+  "labels": [
+   [
+    "Earthworm",
+    [
+     253,
+     661
+    ],
+    "L"
+   ],
+   [
+    "Worm casts",
+    [
+     266,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Burrow",
+    [
+     464,
+     668
+    ],
+    "L"
+   ],
+   [
+    "Termites",
+    [
+     375,
+     719
+    ],
+    "L"
+   ],
+   [
+    "Millipede",
+    [
+     454,
+     564
+    ],
+    "L"
+   ],
+   [
+    "Leaf litter",
+    [
+     595,
+     528
+    ],
+    "R"
+   ],
+   [
+    "Root nodules (nitrogen-fixing bacteria)",
+    [
+     677,
+     404
+    ],
+    "R"
+   ],
+   [
+    "Bacteria",
+    [
+     774,
+     659
+    ],
+    "R"
+   ],
+   [
+    "Fungal threads",
+    [
+     762,
+     689
+    ],
+    "R"
+   ],
+   [
+    "Root hair",
+    [
+     823,
+     605
+    ],
+    "R"
+   ],
+   [
+    "Insect larva",
+    [
+     567,
+     841
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-12-soil-erosion-types-stages": {
+  "labels": [
+   [
+    "Splash erosion",
+    [
+     883,
+     143
+    ],
+    "R"
+   ],
+   [
+    "Sheet erosion",
+    [
+     239,
+     473
+    ],
+    "L"
+   ],
+   [
+    "Rill erosion",
+    [
+     596,
+     528
+    ],
+    "R"
+   ],
+   [
+    "Gully erosion",
+    [
+     492,
+     854
+    ],
+    "L"
+   ],
+   [
+    "Bare soil",
+    [
+     278,
+     223
+    ],
+    "L"
+   ],
+   [
+    "Topsoil washed away",
+    [
+     775,
+     421
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-13-contour-ridging-terracing": {
+  "labels": [
+   [
+    "Contour ridges",
+    [
+     380,
+     483
+    ],
+    "L"
+   ],
+   [
+    "Furrow holding water",
+    [
+     237,
+     614
+    ],
+    "L"
+   ],
+   [
+    "Contour line",
+    [
+     263,
+     517
+    ],
+    "L"
+   ],
+   [
+    "Terrace (level step)",
+    [
+     779,
+     658
+    ],
+    "R"
+   ],
+   [
+    "Retaining wall",
+    [
+     841,
+     684
+    ],
+    "R"
+   ],
+   [
+    "Slope",
+    [
+     877,
+     428
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-14-strip-cropping-aerial-view": {
+  "labels": [
+   [
+    "Row crop strip (maize)",
+    [
+     380,
+     430
+    ],
+    "L"
+   ],
+   [
+    "Close-growing crop strip (groundnut/grass)",
+    [
+     495,
+     564
+    ],
+    "L"
+   ],
+   [
+    "Run-off slowed",
+    [
+     573,
+     758
+    ],
+    "R"
+   ],
+   [
+    "Soil trapped",
+    [
+     449,
+     919
+    ],
+    "L"
+   ],
+   [
+    "Contour",
+    [
+     661,
+     679
+    ],
+    "R"
+   ]
+  ]
+ }
+}

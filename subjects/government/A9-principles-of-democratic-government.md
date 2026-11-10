@@ -97,7 +97,7 @@ Here is a step-by-step look at how the arms of government check each other, usin
    - **Removal:** The President can remove the Chief Justice, but usually only with the approval of a two-thirds majority of the Senate.
    - **Pardon:** The Executive can grant a state pardon to a person convicted by the Judiciary (Prerogative of Mercy).
 
-[IMAGE: A triangular diagram illustrating Checks and Balances. Three large circles labeled "Executive", "Legislature", and "Judiciary" form the corners of the triangle. Arrows point back and forth between each circle. The arrow from Legislature to Executive is labeled "Approves budget, confirms appointments, impeachment". The arrow from Executive to Legislature is labeled "Vetoes bills". The arrow from Judiciary to both is labeled "Judicial review (declares actions unconstitutional)". The arrows from Executive/Legislature to Judiciary are labeled "Appoints judges / Confirms judges". Style: clean flat textbook illustration, white background.]
+![A triangular checks and balances diagram showing interactions and constitutional powers between the Executive, Legislature, and Judiciary branches of government.](images/A9-01-checks-balances-triangle.png)
 
 ### Comparing Separation of Powers and Checks and Balances
 
@@ -209,7 +209,7 @@ Decentralization takes three main forms:
 2. **Devolution (Political Decentralization):** Power is legally transferred to sub-national units (states or local governments). These units have their own elected leaders and the power to make their own laws on certain issues. This is the foundation of a **federal system**.
 3. **Delegation:** The central government assigns a specific task to an agency or lower tier, but can take that power back at any time.
 
-[IMAGE: A two-part diagram comparing Centralization and Decentralization. Left side: "Centralization", showing several small dots with arrows all pointing inward toward one large central circle. Right side: "Decentralization", showing a central circle with arrows pointing outward to several smaller circles, which in turn have arrows pointing to even smaller dots. Labels: "National Government" and "Local Units". Style: clean flat textbook illustration, white background.]
+![Diagram comparing centralization with arrows flowing inward to a central national government versus decentralization with arrows dispersing outward toward smaller local units.](images/A9-02-centralization-versus-decentralization.png)
 
 ### Application of Centralization and Decentralization
 - **Centralization applied:** It is commonly applied in **Unitary systems of government** (like Britain, Ghana, or France), where the central government holds all constitutional power. It is also heavily applied during **Military Regimes**, which run the country using a rigid, top-down chain of command.

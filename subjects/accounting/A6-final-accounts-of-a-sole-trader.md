@@ -258,7 +258,7 @@ This method charges depreciation as a percentage of the **Net Book Value (NBV)**
 * **Year 2:** 20% of the *new NBV* (₦40,000) = **₦8,000**. NBV at end of year = ₦40,000 - ₦8,000 = ₦32,000.
 * **Year 3:** 20% of ₦32,000 = **₦6,400**. 
 
-[IMAGE: A line graph comparing straight-line and reducing balance depreciation over 5 years. The X-axis represents 'Years' from 0 to 5. The Y-axis represents 'Net Book Value (₦)'. The straight-line method is shown as a steady straight downward-sloping line. The reducing balance method is shown as a curve that drops steeply at first and then flattens out, never quite reaching zero. Labels: 'Straight-line method', 'Reducing balance method'. Clean flat textbook style, white background.]
+![Line graph comparing straight-line and reducing balance depreciation over five years, plotting Net Book Value against Years.](images/A6-03-depreciation-methods-comparison-graph.png)
 
 ---
 

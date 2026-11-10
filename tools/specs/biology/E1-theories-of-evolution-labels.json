@@ -339,5 +339,49 @@
   "captions": [],
   "fixed_sides": true,
   "capsize": 0
+ },
+ "E1-04-lamarck-giraffe-neck-evolution": {
+  "labels": [
+   [
+    "1 Ancestors had short necks",
+    [
+     182,
+     663
+    ],
+    "L"
+   ],
+   [
+    "2 Stretching lengthened the neck during life (use)",
+    [
+     531,
+     564
+    ],
+    "R"
+   ],
+   [
+    "acquired longer neck passed to offspring",
+    [
+     587,
+     760
+    ],
+    "R"
+   ],
+   [
+    "3 After many generations: long necks",
+    [
+     839,
+     611
+    ],
+    "R"
+   ],
+   [
+    "Lamarck's theory",
+    [
+     512,
+     40
+    ],
+    "R"
+   ]
+  ]
  }
 }

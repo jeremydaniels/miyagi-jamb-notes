@@ -187,7 +187,7 @@ Lamarck also believed that living things have an **inner tendency** to become mo
 5. Each generation stretched a bit more and passed on a slightly longer neck.
 6. After many generations, giraffes had the very **long necks** they have today.
 
-[IMAGE: Lamarck's explanation of the giraffe's neck as three panels in a left-to-right sequence. Panel 1: a short-necked ancestral giraffe stretching its neck upwards towards leaves on a tall acacia tree, with grass bare below. Panel 2: the same giraffe after a lifetime of stretching, with a slightly longer neck, standing beside its young, which is born with an equally longer neck (shown with an arrow from parent to young). Panel 3: after many generations, a modern long-necked giraffe feeding easily on high leaves. Labels to add later: "1 Ancestors had short necks", "2 Stretching lengthened the neck during life (use)", "acquired longer neck passed to offspring", "3 After many generations: long necks", "Lamarck's theory". Clean flat textbook style, white background.]
+![Three-panel illustration showing Lamarckian evolution of the giraffe neck from a short-necked ancestor stretching upwards, to an intermediate parent and offspring, to a modern long-necked giraffe feeding easily.](images/E1-04-lamarck-giraffe-neck-evolution.png)
 
 #### Other examples used by Lamarck or his followers
 

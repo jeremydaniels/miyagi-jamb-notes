@@ -92,7 +92,7 @@ The Central Sudan refers to the savanna and sahel regions of northern Nigeria, e
 - **Socio-Political Organization:** The Hausa lived in centralized city-states centered around walled cities (*Birni*). The king, called the **Sarki**, was the political and religious head. He governed through a complex system of titled officials called the **Sarauta system**, with positions like the *Madawaki* (cavalry commander) and *Galadima* (senior counselor).
 - **Inter-State Relations:** The states cooperated based on specializations: Gobir defended the north, Zaria captured slaves in the south, Kano and Katsina were trade and industrial hubs, and Daura was the spiritual center. Despite sharing a culture and language, the Hausa states fiercely competed and fought each other (especially Kano and Katsina) for dominance of trade routes. Islam, introduced around the 14th century by Wangara traders from Mali, shaped their laws and diplomacy.
 
-[IMAGE: A map of pre-colonial Northern Nigeria. Highlight the area of Lake Chad to the northeast labeled "Kanem-Borno (Kanuri)". In the central-north, draw a cluster of walled city icons labeled with the Hausa Bakwai names: Kano, Katsina, Daura, Zaria, Gobir, Rano, Biram. Use arrows to show the trade routes heading north towards the Sahara. Clean flat textbook illustration, white background.]
+![A diagram of pre-colonial Northern Nigeria displaying the seven Hausa Bakwai city-states, the Kanem-Borno region near Lake Chad, and trans-Saharan trade route arrows heading north.](images/A3-02-map-pre-colonial-northern.png)
 
 ---
 

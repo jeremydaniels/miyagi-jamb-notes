@@ -35,7 +35,7 @@ The syllabus requires you to know three methods:
 2. **Last In, First Out (LIFO):** Assumes the last goods bought (the newest) are the first ones issued or sold. Therefore, the stock left at the end of the period consists of the oldest items.
 3. **Simple Average:** Ignores the quantities in each batch and simply calculates the average of the purchase prices. Goods are issued at this average price.
 
-[IMAGE: A clean illustration of the physical flow of goods. On the left, a shelf marked "FIFO" where milk cartons are being taken from the front (oldest). In the middle, a shelf marked "LIFO" where cartons are being taken from the top/back (newest). On the right, a basket marked "Average" where cartons are mixed up together. Labels to add later: "FIFO: Oldest sold first", "LIFO: Newest sold first", "Average: Mixed batches". Clean flat textbook style, white background.]
+![An illustration showing three inventory costing methods with milk cartons: taking from the front on a shelf, taking from the top, and mixing together in a basket.](images/A7-01-inventory-valuation.png)
 
 ---
 

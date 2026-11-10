@@ -19,7 +19,7 @@
    [
     "flying (bat)",
     516,
-    321
+    13
    ],
    [
     "swimming\n(whale)",
@@ -44,146 +44,110 @@
    [
     "walking\nupright\n(human)",
     193,
-    537
+    63
    ]
   ],
   "fixed_sides": true,
   "capsize": 0
  },
- "E1-04-lamarck-giraffe-neck-evolution": {
+ "E1-05-darwin-finches-beak-adaptation": {
   "labels": [
    [
-    "1 Ancestors had short necks",
+    "ancestral finch from South America",
     [
-     182,
-     663
+     523,
+     131
+    ],
+    "R"
+   ],
+   [
+    "large ground finch: hard seeds",
+    [
+     338,
+     360
     ],
     "L"
    ],
    [
-    "2 Stretching lengthened the neck during life (use)",
+    "small ground finch: small seeds",
     [
-     531,
-     564
+     663,
+     360
     ],
     "R"
    ],
    [
-    "acquired longer neck passed to offspring",
+    "cactus finch: cactus flowers",
     [
-     587,
-     760
+     866,
+     526
     ],
     "R"
    ],
    [
-    "3 After many generations: long necks",
+    "warbler finch: insects",
     [
-     839,
-     611
+     715,
+     811
     ],
     "R"
    ],
    [
-    "Lamarck's theory",
+    "woodpecker finch: grubs (uses a spine)",
     [
-     512,
-     40
+     430,
+     805
     ],
-    "R"
+    "L"
+   ],
+   [
+    "vegetarian finch: buds and fruits",
+    [
+     263,
+     600
+    ],
+    "L"
+   ],
+   [
+    "Galápagos Islands",
+    [
+     454,
+     595
+    ],
+    "L"
    ]
   ]
- },
- "E1-05-darwin-finches-beak-adaptation": {
-  "labels": [],
-  "captions": [
-   [
-    "ancestral\nfinch from\nSouth America",
-    521,
-    202
-   ],
-   [
-    "large ground\nfinch: hard\nseeds",
-    299,
-    493
-   ],
-   [
-    "small ground\nfinch: small\nseeds",
-    678,
-    451
-   ],
-   [
-    "cactus finch:\ncactus flowers",
-    822,
-    685
-   ],
-   [
-    "warbler finch:\ninsects",
-    681,
-    893
-   ],
-   [
-    "woodpecker\nfinch: grubs\n(uses a spine)",
-    346,
-    940
-   ],
-   [
-    "vegetarian\nfinch: buds\nand fruits",
-    206,
-    706
-   ],
-   [
-    "Galápagos\nIslands",
-    521,
-    645
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
  },
  "E1-07-darwin-giraffe-neck-natural": {
   "labels": [
    [
-    "1 Natural variation in neck length (born that way)",
-    [
-     404,
-     245
-    ],
-    "L"
-   ],
-   [
-    "2 Struggle for food: longer-necked giraffes survive and reproduce",
-    [
-     663,
-     500
-    ],
-    "R"
-   ],
-   [
     "short-necked giraffes die out",
     [
-     676,
-     626
+     542,
+     726
     ],
-    "R"
-   ],
-   [
-    "3 After many generations: mostly long necks",
-    [
-     437,
-     865
-    ],
-    "L"
-   ],
-   [
-    "Darwin's theory (natural selection)",
-    [
-     512,
-     20
-    ],
-    "R"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1 Natural\nvariation in\nneck length\n(born that way)",
+    182,
+    847
+   ],
+   [
+    "2 Struggle for\nfood: longer-\nnecked giraffes\nsurvive and\nreproduce;\nDarwin's theory\n(natural\nselection)",
+    511,
+    847
+   ],
+   [
+    "3 After many\ngenerations:\nmostly long\nnecks",
+    840,
+    847
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E1-08-peppered-moth-industrial-melanism": {
   "labels": [
@@ -236,108 +200,129 @@
   "capsize": 0
  },
  "E1-09-antibiotic-resistance-evolution-steps": {
-  "labels": [],
-  "captions": [
+  "whiten": [
    [
-    "1 Variation: a\nfew bacteria\nresistant by\nmutation",
-    136,
-    637
-   ],
-   [
-    "2 Antibiotic\nkills non-\nresistant\nbacteria",
-    386,
-    637
-   ],
-   [
-    "3 Resistant\nbacteria\nsurvive",
-    637,
-    637
-   ],
-   [
-    "4 Resistant\nbacteria\nmultiply:\nantibiotic no\nlonger works",
-    888,
-    637
+    387,
+    339,
+    436,
+    386
    ]
   ],
-  "fixed_sides": true,
-  "capsize": 0
+  "labels": [
+   [
+    "1 Variation: a few bacteria resistant by mutation",
+    [
+     149,
+     512
+    ],
+    "L"
+   ],
+   [
+    "2 Antibiotic kills non-resistant bacteria",
+    [
+     390,
+     512
+    ],
+    "L"
+   ],
+   [
+    "3 Resistant bacteria survive",
+    [
+     631,
+     512
+    ],
+    "R"
+   ],
+   [
+    "4 Resistant bacteria multiply: antibiotic no longer works",
+    [
+     873,
+     512
+    ],
+    "R"
+   ]
+  ]
  },
  "E1-10-allopatric-speciation-stages": {
-  "labels": [],
-  "split": [
-   [
-    258,
-    120
-   ],
-   [
-    506,
-    120
-   ]
-  ],
-  "captions": [
+  "labels": [
    [
     "1 One population",
-    510,
-    262
+    [
+     538,
+     131
+    ],
+    "R"
    ],
    [
-    "2 Geographical barrier:\nno gene flow",
-    510,
-    510
+    "2 Geographical barrier: no gene flow",
+    [
+     523,
+     369
+    ],
+    "R"
    ],
    [
-    "3 Different mutations and\nnatural selection in each\ngroup",
-    510,
-    874
+    "3 Different mutations and natural selection in each group",
+    [
+     512,
+     631
+    ],
+    "R"
    ],
    [
-    "4 Reproductive isolation:\ntwo species",
-    510,
-    1001
+    "4 Reproductive isolation: two species",
+    [
+     508,
+     883
+    ],
+    "L"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "E1-02-redi-spontaneous-generation-experiment": {
   "caption_below": "Redi 1668",
   "labels": [
    [
-    "flies",
+    "open jar: maggots on meat",
     [
-     200,
-     274
+     179,
+     571
     ],
     "L"
    ],
    [
+    "sealed jar: no maggots",
+    [
+     509,
+     571
+    ],
+    "L"
+   ],
+   [
+    "gauze-covered jar: no maggots on meat",
+    [
+     841,
+     571
+    ],
+    "R"
+   ],
+   [
+    "flies",
+    [
+     596,
+     263
+    ],
+    "R"
+   ],
+   [
     "eggs on gauze",
     [
-     881,
-     373
+     835,
+     338
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "open jar:\nmaggots on\nmeat",
-    182,
-    705
-   ],
-   [
-    "sealed jar: no\nmaggots",
-    509,
-    704
-   ],
-   [
-    "gauze-covered\njar: no\nmaggots on\nmeat",
-    843,
-    704
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "E1-03-pasteur-swan-neck-flask": {
   "caption_below": "Pasteur's experiment: broth boiled, dust trapped in the neck; neck broken off, broth becomes cloudy.",

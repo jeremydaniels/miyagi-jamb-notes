@@ -50,6 +50,9 @@ CODE_OVERRIDE = {       # AI placeholders better drawn in code: name -> extra in
 }
 
 
+AI_OVERRIDE = {"B1-01-dicot-root-transverse-section", "B1-05-dicot-leaf-transverse-section", "B1-06-leaf-epidermis-stomata"}  # anatomy sections the code route could not draw well
+
+
 class Capped(Exception):
     pass
 
@@ -92,6 +95,8 @@ def load_jobs(subject, prefixes):
     ai = sorted((j for j in jobs if not j["code"]), key=lambda j: -j["score"])
     pro_names = {j["name"] for j in ai[: int(len(ai) * 0.15)]}
     for j in jobs:
+        if j["name"] in AI_OVERRIDE:
+            j["code"] = False
         if j["name"] in CODE_OVERRIDE:
             j["code"] = True; j["full"] = j["full"] + " " + CODE_OVERRIDE[j["name"]]
         ov = OVERRIDES.get(j["name"])

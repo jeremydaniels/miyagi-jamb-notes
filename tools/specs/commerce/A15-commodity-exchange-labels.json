@@ -1,50 +1,41 @@
 {
  "A15-01-types-traded-commodities": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Agricultural Produce (Soft)",
-    [
-     199,
-     516
-    ],
-    "L"
+    "Agricultural\nProduce (Soft)",
+    170,
+    877
    ],
    [
-    "Solid Minerals (Hard)",
-    [
-     547,
-     571
-    ],
-    "R"
+    "Solid Minerals\n(Hard)",
+    512,
+    1033
    ],
    [
     "Oil & Gas (Hard)",
-    [
-     855,
-     747
-    ],
-    "R"
+    853,
+    1033
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "A15-02-open-outcry-versus-electronic": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
     "Open Outcry (Traditional)",
-    [
-     256,
-     496
-    ],
-    "L"
+    256,
+    981
    ],
    [
-    "Electronic Mechanism (Modern)",
-    [
-     768,
-     496
-    ],
-    "R"
+    "Electronic Mechanism\n(Modern)",
+    768,
+    921
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

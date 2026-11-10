@@ -69,7 +69,7 @@ A ranging pole is a long, straight wooden or metal pole, usually $2 \text{ m}$ t
 - **Uses:** Used for marking survey stations (points) and for sighting straight lines over long distances.
 - **Care:** Clean after use; do not use it to strike objects or dig holes; store horizontally to prevent bending.
 
-[IMAGE: A collection of distance and sighting survey tools. On the left, a coiled metal Gunter's chain with a brass handle and a close-up inset showing two steel links joined by a ring and a brass tag. In the centre, a standard fibreglass measuring tape in a round orange casing. On the right, two ranging poles, one painted in alternating red and white bands and the other in black and white, both with pointed metal tips. Labels to add later: "Gunter's chain", "brass handle", "steel links", "brass tag at 10 links", "measuring tape", "ranging poles", "red and white bands", "pointed metal tip". Clean flat textbook style, white background.]
+![Surveying tools including a coiled Gunters chain with brass handle and link inset, an orange measuring tape, and two banded ranging poles with pointed tips.](images/E1-01-farm-surveying-tools-collection.png)
 
 #### 4. Arrows (Pins)
 These are thin steel pins, about $40 \text{ cm}$ long, with a pointed end and a circular loop at the top. They are often tied with a piece of red cloth so they are not lost in the grass.
@@ -126,7 +126,7 @@ Chain surveying is the simplest and oldest method of surveying. It uses only lin
 - **Application:** A baseline is measured straight across the middle of the land. Other lines are measured from this baseline to the boundaries. 
 - **Suitability:** It is best suited for small, relatively flat areas of open ground (like a small vegetable farm). It is very difficult to use in dense forests or hilly terrain.
 
-[IMAGE: A simple diagram of a chain survey on a patch of land. A long, straight dashed line runs through the middle, labelled "Baseline". From this baseline, solid lines form several large triangles that cover the area. In the corners of the triangles are small circles labelled "Survey stations (Pegs)". A line drawn at exactly 90 degrees from the baseline to the boundary is labelled "Offset". Clean flat textbook style, white background.]
+![A chain survey layout showing a central dashed baseline, triangular framework with survey station pegs at vertices, and a perpendicular offset line to the boundary.](images/E1-02-chain-survey-layout.png)
 
 #### 2. Compass Surveying
 This method uses a prismatic compass to measure the direction (bearings) of the boundary lines and a tape or chain to measure their lengths.
@@ -181,7 +181,7 @@ When deciding exactly where to place the farmstead and its various buildings, a 
 7. **Health and hygiene:** 
    The farmstead should be located away from swamps or stagnant water to prevent mosquitoes (malaria) and tsetse flies. Waste disposal pits should be situated far from the water source to prevent pollution.
 
-[IMAGE: A bird's-eye view diagram of a well-planned farmstead layout. A compass rose shows North. An arrow indicates wind blowing from East to West. On the eastern (upwind) side, slightly uphill, is a neat "Farmhouse". In the centre is a "Machinery Shed" and "Store" near an access road. On the western (downwind) side are rectangular "Poultry and Pig Houses", aligned East-West. In the background on the flat land are rows of crops. Labels to add later: "Wind direction", "Farmhouse (upwind and uphill)", "Crop fields (fertile soil)", "Access road", "Livestock houses (downwind, aligned East-West)". Clean flat textbook style, white background.]
+![Bird-eye view diagram illustrating a farmstead layout, showing crop fields to the north, eastern uphill farmhouse, central machinery shed and store, and downwind western livestock houses.](images/E1-03-farmstead-layout-schematic-plan.png)
 
 ## Key terms
 

@@ -33,7 +33,7 @@ An **optical fibre** is structured in three essential layers to ensure light sta
 
 When you see workers digging trenches along Nigerian highways (like the Lagos-Ibadan expressway) to lay thick cables for MTN, Glo, or Airtel, they are burying bundles of these optical fibres. These cables carry thousands of times more data than copper cables and make high-speed internet possible.
 
-[IMAGE: A 3D cutaway diagram of an optical fibre. The innermost cylinder is labelled "Core (high refractive index)". Surrounding it is a thicker cylinder labelled "Cladding (low refractive index)". The outermost layer is peeled back and labelled "Buffer coating / Protective jacket". Clean flat textbook illustration, white background.]
+![A 3D cutaway diagram of an optical fiber showing an inner core, a surrounding cladding layer, and an outer protective jacket against a white background.](images/A40-01-optical-fibre-structure-cutaway.png)
 
 ### Principle of transmission of light through an optical fibre
 
@@ -59,7 +59,7 @@ where $v$ is the speed of light in the respective part of the fibre, measured in
 
 As long as the light enters the fibre at the correct angle, it will repeatedly undergo total internal reflection, zigzagging its way down the length of the fibre with almost zero energy loss, even if the fibre is looped or tied in a loose knot.
 
-[IMAGE: A longitudinal cross-section of an optical fibre. A ray of light enters the core at the left end, strikes the top boundary between the core and cladding at an angle $\theta > c$, reflects downwards, strikes the bottom boundary at the same angle, and continues to zigzag down the fibre. The core is shaded darker than the cladding. Labels: "Core ($n_1$)", "Cladding ($n_2$)", "$n_1 > n_2$", "Total internal reflection". Clean flat textbook style, white background.]
+![Cross-section of an optical fibre showing a light ray undergoing total internal reflection within the core with higher refractive index than the surrounding cladding.](images/A40-02-optical-fibre-total-internal.png)
 
 **Common Mistakes:** Students often forget which part of the fibre must have the higher refractive index. Remember: the light must be trapped in the **core**, so the core must be the **denser** medium (higher refractive index) and light must travel **slower** in it.
 

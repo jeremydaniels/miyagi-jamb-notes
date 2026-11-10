@@ -80,7 +80,7 @@ Among the stressed words, one is the strongest. This is called the **nuclear str
 
 **Textbook variation:** different books use different names for the same thing: "nucleus", "nuclear stress", "tonic syllable", "sentence stress", "focus" or "prominence". Some books keep "sentence stress" for the stressing of all content words and use "nucleus" or "tonic" for the strongest one. JAMB questions simply say "emphatic stress" and show the word in capitals.
 
-[IMAGE: A stress-beat diagram for the neutral sentence "Tunde bought a new bicycle." Each word is written along a horizontal line with a circle above it: medium circles above "Tunde", "bought" and "new"; a very small circle above "a"; and the largest, dark-orange circle above the last content word "bicycle", labelled "nuclear (main) stress". Medium circles are labelled "stressed content words" and the small circle "unstressed function word". Clean flat educational illustration, white background, soft colours.]
+![Stress-beat diagram showing circles of varying sizes above the sentence Tunde bought a new bicycle to illustrate stressed content words, unstressed function words, and nuclear stress.](images/C5-01-sentence-stress-beat.png)
 
 ## What is emphatic stress?
 
@@ -127,7 +127,7 @@ Take the sentence: **"My father bought a new car yesterday."**
 1. **question or get wrong** exactly the word that is stressed; and
 2. **agree with** all the other parts of the sentence.
 
-[IMAGE: A "spotlight" diagram. The sentence "My father bought a new car yesterday" is written six times in a column. In each row, one word is written larger, bold and in dark orange with a small spotlight shining on it (row 1 "MY", row 2 "FATHER", row 3 "BOUGHT", row 4 "NEW", row 5 "CAR", row 6 "YESTERDAY"), and the rest of the sentence is in pale grey. To the right of each row is a speech bubble with the matching question: "Your friend's father?", "Your mother?", "Did he sell one?", "A used car?", "A new bus?", "Last week?". Clean flat educational illustration, white background.]
+![A diagram illustrating sentence stress and meaning with six variations highlighting different words in the sentence My father bought a new car yesterday alongside corresponding clarifying questions.](images/C5-02-emphatic-stress-spotlight.png)
 
 ## How to answer JAMB emphatic stress questions
 
@@ -331,7 +331,7 @@ In a statement with emphatic stress, the pitch usually jumps **up** on the empha
 
 **Textbook variation:** British intonation books (e.g. those by O'Connor and Arnold, or Roach) describe more tunes (fall, rise, fall-rise, rise-fall, level) and use different names. Nigerian school texts usually simplify these into "Tune 1 (falling)" and "Tune 2 (rising)". JAMB's emphatic stress questions do not usually require you to name tunes; they test **which word** is stressed.
 
-[IMAGE: Two intonation curves drawn as smooth lines above two sentences. Top: "I bought a new CAR." with a flat line that rises slightly and then falls steeply on "CAR"; a down-arrow at the end; label "Falling tune (Tune 1): statements, wh-questions, commands". Bottom: "Are you COMING?" with a flat low line that rises steeply on "COMING"; an up-arrow at the end; label "Rising tune (Tune 2): yes/no questions, uncertainty". The stressed word in each sentence is in dark orange capitals. Clean flat educational illustration, white background, soft blue lines.]
+![Textbook diagram illustrating falling intonation contour over the sentence I bought a new CAR and rising intonation contour over the question Are you COMING.](images/C5-03-intonation-tune-curves.png)
 
 ## Emphatic stress and Nigerian speech
 

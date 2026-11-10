@@ -73,7 +73,7 @@ To actually carry out a valid experiment, researchers must apply basic experimen
 
 To handle this, researchers divide the field into "blocks" (sections) where the conditions within each block are uniform. Every treatment is then applied once inside every block (a design known as Randomized Complete Block Design, or RCBD). This ensures that the soil fertility gradient does not secretly ruin the experiment.
 
-[IMAGE: A farm field layout diagram showing an experimental design (Randomized Complete Block Design). The field is divided into three blocks (columns) to account for a "Soil fertility gradient" (indicated by a large arrow pointing right, meaning fertility increases to the right). Inside each of the three blocks, square plots are randomly assigned three treatments: "Treatment 1 (T1)", "Treatment 2 (T2)", and a "Control (C)". The random arrangement shows T1, C, T2 in Block 1; C, T2, T1 in Block 2; and T2, T1, C in Block 3. Labels to add: "Block 1 (Low fertility)", "Block 2 (Medium fertility)", "Block 3 (High fertility)", "Soil fertility gradient", "Randomized plot assignment", "Treatment (T1, T2)", "Control (C)". Clean flat textbook style, white background.]
+![Diagram of a randomized complete block design showing three blocks along a soil fertility gradient with randomized plot assignments for two treatments and a control.](images/E8-01-experimental-block-design.png)
 
 ## Understanding and interpreting experimental results
 

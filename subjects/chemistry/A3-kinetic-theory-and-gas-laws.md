@@ -85,7 +85,7 @@ When a liquid is cooled, it loses heat energy, which means the kinetic energy of
 **5. Condensation (Gas to Liquid)**
 When a gas is cooled, its rapidly moving particles lose kinetic energy and slow down. As they move slower and get closer together, the weak intermolecular forces become significant enough to pull them together, forming drops of liquid. 
 
-[IMAGE: A flowchart showing changes of state with circles representing particles. Top row: Solid (particles tightly packed in a square grid). Middle row: Liquid (particles touching but jumbled). Bottom row: Gas (particles widely separated with motion lines). Arrows indicate processes. Downward red arrows for heating: Solid to Liquid is "Melting", Liquid to Gas is "Boiling/Vapourization". Upward blue arrows for cooling: Gas to Liquid is "Condensation", Liquid to Solid is "Freezing". Clean flat textbook style, white background.]
+![Diagram showing changes of state between solid, liquid, and gas with particle arrangements and labeled transition arrows for heating and cooling processes.](images/A3-01-states-matter-flowchart.png)
 
 ## The Gas Laws and Properties of Gases
 
@@ -175,7 +175,7 @@ JAMB will often present a graph and ask you to identify the law it represents.
 2. **$P$ against $\frac{1}{V}$:** A straight line passing through the origin. 
 3. **$PV$ against $P$:** A horizontal straight line parallel to the $P$ axis, showing that the product $PV$ is always constant.
 
-[IMAGE: Three side-by-side graphs for Boyle's law. Graph 1: Y-axis P, X-axis V. A smooth curve starting high on the y-axis and dropping down toward the x-axis. Graph 2: Y-axis P, X-axis 1/V. A straight line starting exactly from the origin (0,0) and going up diagonally. Graph 3: Y-axis PV, X-axis P. A flat horizontal line showing PV is constant. Clean flat textbook style, white background.]
+![Three graphs illustrating Boyle's law: pressure versus volume as a decreasing curve, pressure versus reciprocal volume as a line through the origin, and pressure-volume product versus pressure as a horizontal line.](images/A3-02-boyles-law-graphs.png)
 
 **Charles's Law Graphs ($V$ and $T$):**
 1. **$V$ against Absolute Temperature ($T$ in Kelvin):** A straight line passing through the origin ($0 \text{ K}$). This confirms direct proportionality.

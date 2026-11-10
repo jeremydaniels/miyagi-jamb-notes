@@ -1,0 +1,10 @@
+[
+ [
+  "A3-01-states-matter-flowchart",
+  "A flowchart showing changes of state with circles representing particles. Top row: Solid (particles tightly packed in a square grid). Middle row: Liquid (particles touching but jumbled). Bottom row: Gas (particles widely separated with motion lines). Arrows indicate processes. Downward red arrows for heating: Solid to Liquid is \"Melting\", Liquid to Gas is \"Boiling/Vapourization\". Upward blue arrows for cooling: Gas to Liquid is \"Condensation\", Liquid to Solid is \"Freezing\"."
+ ],
+ [
+  "A3-02-boyles-law-graphs",
+  "Three side-by-side graphs for Boyle's law. Graph 1: Y-axis P, X-axis V. A smooth curve starting high on the y-axis and dropping down toward the x-axis. Graph 2: Y-axis P, X-axis 1/V. A straight line starting exactly from the origin (0,0) and going up diagonally. Graph 3: Y-axis PV, X-axis P. A flat horizontal line showing PV is constant."
+ ]
+]

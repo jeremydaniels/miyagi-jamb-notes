@@ -26,7 +26,7 @@ While Zechariah was performing his priestly duties, burning incense in the templ
 
 Zechariah doubted the message because of their old age. Because of his unbelief, the angel told Zechariah he would be mute (unable to speak) until the child was born. When Zechariah came out of the temple, the people realized he had seen a vision.
 
-[IMAGE: A majestic, glowing angel Gabriel standing on the right side of an altar of incense inside a stone temple. On the left, an old priest (Zechariah) in elaborate Jewish priestly garments, looking terrified and falling backward slightly. Smoke rises from the altar. Clean flat textbook style, white background.]
+![The angel Gabriel appearing on the right side of an incense altar inside a stone temple, while the priest Zechariah recoils in fear on the left.](images/C1-01-angel-gabriel-appearing-zechariah.png)
 
 ### The announcement of Jesus' birth
 Six months after Elizabeth conceived, God sent the Angel Gabriel to Nazareth, a city in Galilee, to a virgin named **Mary**. She was betrothed (engaged) to a man named **Joseph**, a descendant of King David. 
@@ -95,7 +95,7 @@ When Herod realized the Wise Men had tricked him, he became furious. He ordered 
 
 After Herod died, an angel appeared again to Joseph in Egypt, telling him to return to the land of Israel. However, hearing that **Archelaus** (Herod's son) was reigning in Judea, Joseph was afraid to go there. Warned in another dream, he withdrew to the district of Galilee and settled in a town called **Nazareth**. This fulfilled what was spoken by the prophets, that Jesus would be called a Nazarene.
 
-[IMAGE: A nighttime scene showing a man (Joseph) leading a donkey. On the donkey sits a woman (Mary) holding a young child wrapped in a blanket. They are travelling across a sandy, desert-like landscape away from a distant town. A bright star shines in the sky behind them. Clean flat textbook style, white background.]
+![A biblical illustration of Joseph leading a donkey carrying Mary and baby Jesus wrapped in a blanket across a desert at night under a bright star.](images/C1-02-flight-egypt-scene.png)
 
 ### The Boy Jesus at the Temple (Luke 2)
 Jesus grew and became strong, filled with wisdom, and the favor of God was upon Him. 
@@ -163,7 +163,7 @@ She went to her mother for advice, and Herodias told her to ask for the head of 
 
 Herod was exceedingly sorry, but because of his oaths and his dinner guests, he did not want to refuse her. He sent an executioner to the prison, who beheaded John, brought the head on a platter, and gave it to the girl, who gave it to her mother. When John's disciples heard of this, they came, took his body, and laid it in a tomb.
 
-[IMAGE: A royal banquet hall scene. A reluctant and distressed-looking king (Herod Antipas) sits at a table with guests. In front of him stands a young woman holding out a large silver platter. (Keep the platter empty or implied, do not show gore). Clean flat textbook style, white background.]
+![A distressed king Herod sits at a royal banquet table with guests as a young woman presents an empty silver platter before him.](images/C1-03-herod-banquet-hall-scene.png)
 
 ## Objective ii: assess the importance of John as the forerunner of Jesus
 

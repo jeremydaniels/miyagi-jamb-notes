@@ -108,7 +108,7 @@ Growth in arthropods therefore happens in **steps** (stepwise or discontinuous g
 2. It becomes **too heavy** for large animals: if an insect were as big as a goat, its exoskeleton would have to be so thick and heavy that the animal could hardly move. This is one reason why land arthropods are small.
 3. It limits flexibility; movement is only possible at the joints.
 
-![Diagram showing layers of an insect cuticle with muscle attached to an apodeme on the left, beside a grasshopper and its shed exoskeleton on the right.](images/B6b-01-insect-exoskeleton-anatomy.png)
+[IMAGE: Two side-by-side diagrams. Left: a vertical section through an insect exoskeleton showing (from outside to inside) the thin waxy epicuticle, the hard dark exocuticle, the softer endocuticle, a layer of epidermal cells and the basement membrane, with a muscle attached to an apodeme on the inside, and a thin flexible joint membrane between two hard sclerites. Right: a grasshopper or cockroach in outline, with its jointed exoskeleton drawn as hard plates, beside an old split cuticle left after moulting. Labels: epicuticle (wax), exocuticle (hardened chitin), endocuticle, epidermis, sclerite, joint membrane, muscle, apodeme, exoskeleton, moulted cuticle. Clean flat textbook style, white background.]
 
 ### 3. The endoskeleton
 
@@ -399,7 +399,7 @@ Most vertebrae share the same basic plan:
 
 **Function:** the atlas (with the skull) **rotates (pivots)** around the odontoid process of the axis, allowing the head to turn **from side to side** (as in saying "no"). This is a **pivot joint**.
 
-![Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.](images/B6b-06-cervical-vertebrae-comparison.png)
+[IMAGE: Front-and-top views of three cervical vertebrae side by side: (1) the atlas, ring-shaped with no centrum, wide wing-like transverse processes, large articular facets for the occipital condyles and a large neural canal; (2) the axis, with the peg-like odontoid process sticking up from its centrum and a large blade-like neural spine; (3) a typical cervical vertebra with a small centrum, short neural spine, wide neural canal and transverse processes each pierced by a vertebrarterial canal. Labels: atlas, articular facet for occipital condyle, transverse process, neural canal, axis, odontoid process, neural spine, centrum, typical cervical vertebra, vertebrarterial canal (transverse foramen), neural arch, zygapophysis. Clean flat textbook style, white background.]
 
 #### The thoracic vertebrae (chest)
 
@@ -436,7 +436,7 @@ Most vertebrae share the same basic plan:
 
 **Function:** support the **tail**. The tail is used for **balance** (rat, squirrel, cat), **driving away flies** (cow, goat, horse), **grasping** (some monkeys), signalling and communication (dog), and as a muscle attachment for the anus and pelvic floor in humans (coccyx).
 
-![Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.](images/B6b-07-mammalian-vertebrae-comparison.png)
+[IMAGE: A row of four vertebrae drawn from the front and from the side, for comparison: (1) a thoracic vertebra with a long backward-pointing neural spine, a medium centrum with capitular facets, and short transverse processes with tubercular facets, with the head and tubercle of a rib shown fitting into these facets; (2) a lumbar vertebra with a very large centrum, broad flat neural spine and long broad transverse processes; (3) the sacrum, a triangular bone of fused vertebrae with wing-like transverse processes joining the ilium; (4) a caudal vertebra reduced to a small rod-like centrum. Labels: neural spine, neural canal, neural arch, centrum, transverse process, tubercular facet, capitular facet, rib, head of rib (capitulum), tubercle, prezygapophysis, postzygapophysis, lumbar vertebra, sacrum, surface for ilium, caudal vertebra. Clean flat textbook style, white background.]
 
 #### Comparison of the types of vertebrae
 
@@ -726,7 +726,7 @@ A muscle that bends a joint is called a **flexor**; one that straightens it is a
 
 **The arm as a lever:** the forearm works as a **lever**. The **elbow joint** is the **fulcrum** (pivot); the **biceps** provides the **effort**, pulling at its insertion close to the elbow; the **load** is the weight of the forearm and anything held in the hand. Because the effort is applied close to the fulcrum, a small contraction of the biceps produces a large, fast movement of the hand.
 
-![Anatomical diagrams comparing antagonistic biceps and triceps muscle action during arm flexion and extension, showing bone attachments and elbow joint fulcrums.](images/B6b-12-antagonistic-arm-muscles.png)
+[IMAGE: Two side-by-side diagrams of the human arm showing antagonistic muscles. Left ("arm bent"): the biceps on the front of the upper arm drawn short and bulging (contracted, in red), the triceps behind drawn long and thin (relaxed, in light pink), the forearm raised; tendons connecting the biceps to the scapula and radius and the triceps to the scapula/humerus and the olecranon process of the ulna. Right ("arm straight"): triceps short and fat (contracted), biceps long and thin (relaxed), forearm lowered. Mark the elbow joint as a fulcrum with a small triangle. Labels: scapula, humerus, biceps (contracted), triceps (relaxed), tendon, radius, ulna, olecranon process, elbow joint (hinge, fulcrum), biceps (relaxed), triceps (contracted), arm bent, arm straight. Clean flat textbook style, white background.]
 
 ## Functions of the skeleton and the wellbeing of the animal
 

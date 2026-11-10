@@ -1,259 +1,67 @@
 {
- "B6b-07-mammalian-vertebrae-comparison": {
-  "labels": [
-   [
-    "neural spine",
-    [
-     242,
-     95
-    ],
-    "L"
-   ],
-   [
-    "neural canal",
-    [
-     243,
-     184
-    ],
-    "L"
-   ],
-   [
-    "neural arch",
-    [
-     243,
-     143
-    ],
-    "L"
-   ],
-   [
-    "centrum",
-    [
-     243,
-     242
-    ],
-    "L"
-   ],
-   [
-    "transverse process",
-    [
-     161,
-     172
-    ],
-    "L"
-   ],
-   [
-    "tubercular facet",
-    [
-     310,
-     193
-    ],
-    "L"
-   ],
-   [
-    "capitular facet",
-    [
-     786,
-     167
-    ],
-    "R"
-   ],
-   [
-    "rib",
-    [
-     430,
-     235
-    ],
-    "L"
-   ],
-   [
-    "head of rib (capitulum)",
-    [
-     794,
-     204
-    ],
-    "R"
-   ],
-   [
-    "tubercle",
-    [
-     316,
-     208
-    ],
-    "L"
-   ],
-   [
-    "prezygapophysis",
-    [
-     202,
-     414
-    ],
-    "L"
-   ],
-   [
-    "postzygapophysis",
-    [
-     741,
-     527
-    ],
-    "R"
-   ],
-   [
-    "lumbar vertebra",
-    [
-     243,
-     506
-    ],
-    "L"
-   ],
-   [
-    "sacrum",
-    [
-     245,
-     716
-    ],
-    "L"
-   ],
-   [
-    "surface for ilium",
-    [
-     145,
-     645
-    ],
-    "L"
-   ],
-   [
-    "caudal vertebra",
-    [
-     244,
-     926
-    ],
-    "L"
-   ]
-  ]
- },
- "B6b-12-antagonistic-arm-muscles": {
-  "labels": [
-   [
-    "scapula",
-    [
-     107,
-     315
-    ],
-    "L"
-   ],
-   [
-    "humerus",
-    [
-     258,
-     457
-    ],
-    "L"
-   ],
-   [
-    "biceps (contracted)",
-    [
-     305,
-     437
-    ],
-    "L"
-   ],
-   [
-    "triceps (relaxed)",
-    [
-     229,
-     457
-    ],
-    "L"
-   ],
-   [
-    "tendon",
-    [
-     247,
-     315
-    ],
-    "L"
-   ],
-   [
-    "radius",
-    [
-     439,
-     402
-    ],
-    "L"
-   ],
-   [
-    "ulna",
-    [
-     441,
-     464
-    ],
-    "L"
-   ],
-   [
-    "olecranon process",
-    [
-     379,
-     619
-    ],
-    "L"
-   ],
-   [
-    "elbow joint (hinge, fulcrum)",
-    [
-     347,
-     603
-    ],
-    "L"
-   ],
-   [
-    "biceps (relaxed)",
-    [
-     735,
-     471
-    ],
-    "R"
-   ],
-   [
-    "triceps (contracted)",
-    [
-     655,
-     459
-    ],
-    "R"
-   ],
-   [
-    "arm bent",
-    [
-     296,
-     410
-    ],
-    "L"
-   ],
-   [
-    "arm straight",
-    [
-     719,
-     493
-    ],
-    "R"
-   ]
-  ]
- },
  "B6b-13-skeletal-disorders-comparison": {
   "labels": [
+   [
+    "rickets (bowed legs)",
+    [
+     157,
+     280
+    ],
+    "L"
+   ],
+   [
+    "normal legs",
+    [
+     378,
+     280
+    ],
+    "L"
+   ],
+   [
+    "simple fracture",
+    [
+     661,
+     275
+    ],
+    "R"
+   ],
+   [
+    "compound fracture",
+    [
+     866,
+     287
+    ],
+    "R"
+   ],
    [
     "skin",
     [
      702,
      271
     ],
-    "T"
+    "R"
+   ],
+   [
+    "healthy joint",
+    [
+     401,
+     754
+    ],
+    "L"
    ],
    [
     "smooth cartilage",
     [
      399,
      716
+    ],
+    "L"
+   ],
+   [
+    "arthritic joint",
+    [
+     161,
+     754
     ],
     "L"
    ],
@@ -281,124 +89,7 @@
     ],
     "R"
    ]
-  ],
-  "split": [
-   [
-    499,
-    120
-   ]
-  ],
-  "captions": [
-   [
-    "rickets (bowed\nlegs)",
-    156,
-    507
-   ],
-   [
-    "normal legs",
-    378,
-    503
-   ],
-   [
-    "simple\nfracture",
-    664,
-    503
-   ],
-   [
-    "compound\nfracture",
-    871,
-    503
-   ],
-   [
-    "healthy joint",
-    399,
-    944
-   ],
-   [
-    "arthritic\njoint",
-    160,
-    944
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B6b-01-insect-exoskeleton-anatomy": {
-  "labels": [
-   [
-    "epicuticle (wax)",
-    [
-     172,
-     256
-    ],
-    "L"
-   ],
-   [
-    "exocuticle (hardened chitin)",
-    [
-     209,
-     204
-    ],
-    "L"
-   ],
-   [
-    "endocuticle",
-    [
-     261,
-     204
-    ],
-    "T"
-   ],
-   [
-    "epidermis",
-    [
-     337,
-     256
-    ],
-    "T"
-   ],
-   [
-    "sclerite",
-    [
-     215,
-     358
-    ],
-    "L"
-   ],
-   [
-    "joint membrane",
-    [
-     184,
-     512
-    ],
-    "L"
-   ],
-   [
-    "muscle",
-    [
-     399,
-     665
-    ],
-    "L"
-   ],
-   [
-    "apodeme",
-    [
-     250,
-     675
-    ],
-    "L"
-   ]
-  ],
-  "captions": [
-   [
-    "exoskeleton;\nmoulted cuticle",
-    697,
-    917
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B6b-02-bone-structure-osteon": {
   "labels": [
@@ -1063,117 +754,12 @@
    ]
   ]
  },
- "B6b-06-cervical-vertebrae-comparison": {
-  "regions": [
-   "atlas",
-   "axis",
-   "typical cervical vertebra"
-  ],
-  "labels": [
-   [
-    "atlas",
-    [
-     202,
-     348
-    ],
-    "L"
-   ],
-   [
-    "articular facet for occipital condyle",
-    [
-     129,
-     252
-    ],
-    "L"
-   ],
-   [
-    "transverse process",
-    [
-     63,
-     262
-    ],
-    "L"
-   ],
-   [
-    "neural canal",
-    [
-     202,
-     303
-    ],
-    "L"
-   ],
-   [
-    "axis",
-    [
-     532,
-     389
-    ],
-    "R"
-   ],
-   [
-    "odontoid process",
-    [
-     532,
-     176
-    ],
-    "R"
-   ],
-   [
-    "neural spine",
-    [
-     532,
-     414
-    ],
-    "R"
-   ],
-   [
-    "centrum",
-    [
-     840,
-     333
-    ],
-    "R"
-   ],
-   [
-    "typical cervical vertebra",
-    [
-     839,
-     337
-    ],
-    "R"
-   ],
-   [
-    "vertebrarterial canal (transverse foramen)",
-    [
-     761,
-     324
-    ],
-    "R"
-   ],
-   [
-    "neural arch",
-    [
-     890,
-     245
-    ],
-    "R"
-   ],
-   [
-    "zygapophysis",
-    [
-     773,
-     708
-    ],
-    "R"
-   ]
-  ]
- },
  "B6b-09-pectoral-pelvic-girdles": {
   "labels": [
    [
     "scapula",
     [
-     240,
+     272,
      223
     ],
     "L"
@@ -1181,233 +767,233 @@
    [
     "glenoid cavity",
     [
-     290,
-     186
+     338,
+     173
     ],
     "L"
    ],
    [
     "acromion process",
     [
-     311,
-     143
+     356,
+     124
     ],
     "L"
    ],
    [
     "clavicle",
     [
-     200,
-     142
+     241,
+     124
     ],
     "L"
    ],
    [
     "humerus",
     [
-     335,
-     327
+     385,
+     335
     ],
     "L"
    ],
    [
     "radius",
     [
-     374,
-     611
+     430,
+     637
     ],
     "L"
    ],
    [
     "ulna",
     [
-     342,
-     615
+     396,
+     626
     ],
     "L"
    ],
    [
     "olecranon process",
     [
-     344,
-     480
+     402,
+     484
     ],
     "L"
    ],
    [
     "carpals",
     [
-     380,
-     754
+     428,
+     760
     ],
     "L"
    ],
    [
     "metacarpals",
     [
-     374,
-     811
+     424,
+     807
     ],
     "L"
    ],
    [
     "phalanges",
     [
-     375,
-     877
+     430,
+     883
     ],
     "L"
    ],
    [
     "ilium",
     [
-     666,
-     175
+     658,
+     131
     ],
     "R"
    ],
    [
     "ischium",
     [
-     716,
-     315
+     687,
+     283
     ],
     "R"
    ],
    [
     "pubis",
     [
-     760,
-     292
+     726,
+     254
     ],
     "R"
    ],
    [
     "acetabulum",
     [
-     671,
-     263
+     854,
+     222
     ],
     "R"
    ],
    [
     "obturator foramen",
     [
-     807,
-     290
+     704,
+     263
     ],
     "R"
    ],
    [
     "pubic symphysis",
     [
-     762,
-     290
+     754,
+     260
     ],
     "R"
    ],
    [
     "sacrum",
     [
-     763,
-     192
+     749,
+     152
     ],
     "R"
    ],
    [
     "femur",
     [
-     658,
-     437
+     870,
+     400
     ],
     "R"
    ],
    [
     "head of femur",
     [
-     659,
-     261
+     858,
+     227
     ],
     "R"
    ],
    [
     "patella",
     [
-     676,
-     582
+     859,
+     540
     ],
     "R"
    ],
    [
     "tibia",
     [
-     689,
-     709
+     852,
+     689
     ],
     "R"
    ],
    [
     "fibula",
     [
-     660,
-     737
+     881,
+     727
     ],
     "R"
    ],
    [
     "tarsals",
     [
-     692,
-     886
+     856,
+     866
     ],
     "R"
    ],
    [
     "calcaneus",
     [
-     693,
-     872
+     839,
+     886
     ],
     "R"
    ],
    [
     "metatarsals",
     [
-     667,
-     919
+     867,
+     913
     ],
     "R"
    ]
   ]
  },
  "B6b-08-human-rib-cage": {
-  "caption_below": "Ribs move up and out during inspiration.",
   "regions": [
    "true ribs",
    "false ribs",
    "floating ribs"
   ],
+  "caption_below": "Ribs move up and out during inspiration.",
   "labels": [
    [
     "thoracic vertebra",
     [
-     467,
-     677
+     437,
+     700
     ],
     "L"
    ],
    [
     "rib",
     [
-     702,
-     437
+     660,
+     434
     ],
     "R"
    ],
    [
     "sternum",
     [
-     465,
+     451,
      390
     ],
     "L"
@@ -1415,39 +1001,39 @@
    [
     "manubrium",
     [
-     472,
-     239
+     451,
+     241
     ],
     "L"
    ],
    [
     "body of sternum",
     [
-     467,
-     391
+     445,
+     431
     ],
     "L"
    ],
    [
     "xiphoid process",
     [
-     468,
-     546
+     444,
+     564
     ],
     "L"
    ],
    [
     "costal cartilage",
     [
-     573,
-     564
+     528,
+     369
     ],
     "R"
    ],
    [
     "true ribs",
     [
-     153,
+     79,
      352
     ],
     "L"
@@ -1455,32 +1041,32 @@
    [
     "false ribs",
     [
-     150,
-     685
+     79,
+     696
     ],
     "L"
    ],
    [
     "floating ribs",
     [
-     153,
-     837
+     79,
+     859
     ],
     "L"
    ],
    [
     "intercostal muscles",
     [
-     858,
-     186
+     872,
+     501
     ],
     "R"
    ],
    [
     "diaphragm",
     [
-     883,
-     257
+     888,
+     547
     ],
     "R"
    ]

@@ -60,7 +60,7 @@ After the flood, when Noah and his family left the ark, God established a covena
 - **The Promise:** God promised unconditionally that He would **never again destroy all living creatures by a flood**.
 - **The Sign:** God set the **rainbow** in the clouds as the sign of this everlasting covenant between Himself and all life on earth. Whenever the rainbow appeared, God said He would remember the covenant.
 
-[IMAGE: A vibrant rainbow arching over a large wooden ark resting on a rocky mountain. In the foreground, Noah, an older bearded man, looks up at the rainbow with his arms raised in thanksgiving, surrounded by various pairs of animals (lions, elephants, doves) and his family. Clean flat textbook style, white background.]
+![Noah raises his hands in praise before a rainbow and the ark on a mountain, surrounded by his family and pairs of animals.](images/A2-01-noah-rainbow-ark-scene.png)
 
 ## God's covenant with Abraham
 
@@ -132,7 +132,7 @@ A covenant in the ancient world required a formal ceremony to seal it, usually i
 7. Moses took the remaining half of the blood and **sprinkled it on the people**, saying, *"Behold the blood of the covenant which the Lord has made with you."* The blood bound God and the people together in the agreement.
 8. After this, Moses, Aaron, Nadab, Abihu, and seventy elders of Israel went up the mountain. They saw a vision of the God of Israel and ate a covenant meal together without being harmed.
 
-[IMAGE: A dramatic biblical scene at the foot of a rugged, smoky mountain. Moses, dressed in robes, stands beside a stone altar with 12 small stone pillars around it. He is holding a basin and tossing red blood toward a large crowd of Israelites who are raising their hands in agreement. Clean flat textbook style, white background.]
+![Moses standing by a stone altar surrounded by twelve stone pillars beneath a smoky mountain, sprinkling blood toward a crowd of Israelites raising their hands.](images/A2-02-moses-covenant-ceremony.png)
 
 ### The Implications: Blessings and Curses
 Because the Sinai covenant was **conditional**, it had strict consequences, detailed in Deuteronomy 28:

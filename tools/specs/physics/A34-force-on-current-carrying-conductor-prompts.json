@@ -2,5 +2,9 @@
  [
   "A34-03-simple-dc-motor",
   "A simple d.c. motor diagram. A rectangular wire coil sits horizontally between curved North and South magnetic poles. The ends of the coil connect to a split copper ring (the \"Commutator\"). Two rectangular blocks touch the commutator and connect to a battery circuit. Arrows show the path of the current from the battery, through the coil, and back, alongside curved arrows showing the rotation direction. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A34-02-parallel-conductors-force",
+  "Two side-by-side diagrams. Left diagram: Two vertical parallel wires with arrows showing current flowing upwards in both. Magnetic field lines around them combine, forming large loops enclosing both wires, and arrows point inwards between the wires. Right diagram: Two vertical parallel wires with current flowing upwards in the left wire and downwards in the right wire. The magnetic field lines crowd between them, and arrows point outwards. Clean flat textbook illustration, white background."
  ]
 ]

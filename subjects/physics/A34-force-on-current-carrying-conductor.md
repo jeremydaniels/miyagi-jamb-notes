@@ -57,7 +57,7 @@ When two parallel wires carry electric currents, they both produce their own mag
 * **Like currents attract:** If the currents in the two parallel wires flow in the **same direction**, the conductors attract each other. This happens because the magnetic field lines between the wires point in opposite directions and cancel each other out, creating a region of weak magnetic flux. The stronger magnetic field on the outside pushes the wires together.
 * **Unlike currents repel:** If the currents flow in **opposite directions**, the conductors repel each other. The magnetic field lines between the wires point in the same direction, crowd together, and push the wires apart.
 
-[IMAGE: Two side-by-side diagrams. Left diagram: Two vertical parallel wires with arrows showing current flowing upwards in both. Magnetic field lines around them combine, forming large loops enclosing both wires, and arrows point inwards between the wires labeled "Force of Attraction". Right diagram: Two vertical parallel wires with current flowing upwards in the left wire and downwards in the right wire. The magnetic field lines crowd between them, and arrows point outwards labeled "Force of Repulsion". Clean flat textbook illustration, white background.]
+![Diagram showing magnetic fields and forces between parallel currents: parallel currents in the same direction attract, while currents in opposite directions repel due to magnetic field interactions.](images/A34-02-parallel-conductors-force.png)
 
 ### Quantitative Treatment (Calculations)
 

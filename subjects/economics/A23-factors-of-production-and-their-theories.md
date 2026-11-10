@@ -147,7 +147,7 @@ To maximize profit, the firm follows this rule: **Hire workers until Wage (W) = 
 * If MRP < Wage, the worker costs more than they bring in. The firm should reduce its workforce.
 * Equilibrium is reached at **$W = MRP$**.
 
-[IMAGE: A graph showing the Marginal Productivity Theory of Wages. The Y-axis is labeled "Wage Rate / MRP" and the X-axis is "Quantity of Labour". A downward-sloping curve labeled "MRP (Demand for Labour)" intersects a horizontal straight line labeled "Wage Rate (Supply of Labour)". A dotted line drops from the intersection point to the X-axis, labeled "Equilibrium quantity of labour". Style: clean flat textbook illustration, white background.]
+![Diagram of Marginal Productivity Theory of Wages showing downward sloping MRP curve intersecting horizontal wage line to determine equilibrium quantity of labour.](images/A23-01-marginal-productivity-wage-theory.png)
 
 **Assumptions and Limitations of the Theory:**
 * It assumes **perfect competition** in both the product and labour markets.
@@ -172,7 +172,7 @@ The total demand for money ($M_d$) is the sum of the transaction, precautionary,
 The total supply of money ($M_s$) is fixed by the Central Bank (e.g., the CBN in Nigeria) and is represented by a vertical line. 
 The equilibrium rate of interest is determined exactly where the Money Demand curve intersects the Money Supply curve ($M_d = M_s$).
 
-[IMAGE: A graph illustrating the Liquidity Preference Theory. The Y-axis is "Rate of Interest (r)" and the X-axis is "Quantity of Money". A downward-sloping curve labeled "Md (Liquidity Preference)" represents money demand. A vertical straight line labeled "Ms" represents the money supply fixed by the Central Bank. The intersection determines the equilibrium interest rate "r*". Style: clean flat textbook illustration, white background.]
+![A graph of Liquidity Preference Theory showing a downward sloping money demand curve intersecting a vertical money supply line to determine the equilibrium interest rate.](images/A23-02-liquidity-preference-interest-rate.png)
 
 ---
 

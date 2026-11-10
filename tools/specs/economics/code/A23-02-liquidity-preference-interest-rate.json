@@ -1,0 +1,71 @@
+{
+ "template": "graph",
+ "title": "Liquidity Preference Theory",
+ "x_label": "Quantity of Money",
+ "y_label": "Interest Rate (r)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Md (Liquidity Preference)",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     3,
+     6.5
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     7,
+     3.5
+    ],
+    [
+     8.5,
+     2
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Ms",
+   "points": [
+    [
+     5,
+     1
+    ],
+    [
+     5,
+     9
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "M*",
+   "y_text": "r*"
+  }
+ ],
+ "points": [
+  {
+   "x": 5,
+   "y": 5,
+   "text": "Equilibrium",
+   "dx": 0.5,
+   "dy": 0.5
+  }
+ ]
+}

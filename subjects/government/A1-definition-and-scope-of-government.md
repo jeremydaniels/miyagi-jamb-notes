@@ -36,7 +36,7 @@ When you sit in a classroom to learn about the Constitution, political parties, 
 *   **International Relations:** How nations interact with each other.
 *   **Political Theory/Ideologies:** The ideas behind forms of government (like democracy, socialism or fascism).
 
-[IMAGE: A three-part infographic showing the three definitions of Government. Left panel: A grand building with pillars representing "Institution of the State" (Machinery). Middle panel: A group of people around a table discussing and signing a document representing "Process of Governing" (Administration). Right panel: A student sitting at a desk reading a textbook titled 'Political Science' representing "Academic Field of Study". Labels to add later: "1. Institution (Machinery)", "2. Process (Art of ruling)", "3. Academic Subject (Political Science)". Clean flat textbook style, white background.]
+![A three panel illustration showing a government building with gears, officials gathered around a document at a table, and a student reading a large open book at a desk.](images/A1-01-infographic-three-definitions-government.png)
 
 ## Characteristics of Government
 
@@ -78,7 +78,7 @@ Governments exist to perform certain essential duties for the well-being of the 
 7.  **Administration of Justice:** Through the judiciary, the government interprets laws, settles disputes between citizens (or between citizens and the state), and punishes those who break the law. This ensures equity and fairness in society.
 8.  **Conduct of Foreign Relations:** No country is an island. The government manages the state's relationship with other countries and international organizations (like the UN, AU, and ECOWAS). This is done through diplomacy, embassies, and the Ministry of Foreign Affairs.
 
-[IMAGE: A four-panel illustration showing the functions of government. Top-left: A police officer directing traffic and protecting citizens (Maintenance of law and order). Top-right: A group of soldiers standing guard near a border (Defense against external aggression). Bottom-left: A doctor treating a patient in a newly built public hospital (Provision of social amenities). Bottom-right: A judge striking a gavel in a courtroom (Administration of justice). Labels to add later: "Security", "External Defense", "Social Amenities", "Justice". Clean flat textbook style, white background.]
+![A four-panel illustration showing government functions: a police officer directing traffic, soldiers guarding a border post, medical staff caring for a patient, and a judge using a gavel in court.](images/A1-02-functions-government-panels.png)
 
 ## Key terms
 

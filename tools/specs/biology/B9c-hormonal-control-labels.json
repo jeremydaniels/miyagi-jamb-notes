@@ -267,72 +267,72 @@
    [
     "stomach",
     [
-     393,
-     335
+     357,
+     328
     ],
     "L"
    ],
    [
     "pancreas",
     [
-     360,
-     538
+     335,
+     524
     ],
     "L"
    ],
    [
     "duodenum",
     [
-     140,
-     677
+     106,
+     663
     ],
     "L"
    ],
    [
     "pancreatic duct",
     [
-     305,
-     518
+     247,
+     520
     ],
     "L"
    ],
    [
     "enzyme-secreting cells",
     [
-     901,
-     493
+     726,
+     677
     ],
     "R"
    ],
    [
     "islet of Langerhans",
     [
-     749,
-     528
+     764,
+     518
     ],
     "R"
    ],
    [
     "beta cells (insulin)",
     [
-     679,
-     540
+     813,
+     500
     ],
     "R"
    ],
    [
     "alpha cells (glucagon)",
     [
-     785,
-     464
+     755,
+     538
     ],
     "R"
    ],
    [
     "blood capillary",
     [
-     760,
-     527
+     663,
+     573
     ],
     "R"
    ]
@@ -417,64 +417,64 @@
    [
     "light",
     [
-     494,
-     186
+     390,
+     435
     ],
     "L"
    ],
    [
     "shaded side with more auxin",
     [
-     227,
-     430
+     158,
+     512
     ],
     "L"
    ],
    [
     "cells elongate more",
     [
-     208,
-     658
+     186,
+     678
     ],
     "L"
    ],
    [
     "shoot bends towards light",
     [
-     379,
-     311
+     241,
+     312
     ],
     "L"
    ],
    [
     "gravity",
     [
-     908,
-     702
+     755,
+     335
     ],
     "R"
    ],
    [
     "auxin collects on lower side",
     [
-     707,
-     645
+     828,
+     571
     ],
     "R"
    ],
    [
     "shoot grows upwards (negative geotropism)",
     [
-     848,
-     564
+     904,
+     331
     ],
     "R"
    ],
    [
     "root grows downwards (positive geotropism)",
     [
-     794,
-     785
+     596,
+     811
     ],
     "R"
    ]

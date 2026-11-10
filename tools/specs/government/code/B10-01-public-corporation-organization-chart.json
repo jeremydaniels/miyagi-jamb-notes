@@ -1,0 +1,65 @@
+{
+ "template": "flowchart",
+ "title": "Structure of a Public Corporation",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "pres",
+   "text": "The President / Minister\n(Political Head)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "board",
+   "text": "Board of Directors\n(Policy Makers)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "md",
+   "text": "Managing Director (MD) /\nDirector-General\n(Day-to-day Management)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ops",
+   "text": "Operations Department\n(Functional Department)",
+   "shape": "box",
+   "color": "grey"
+  },
+  {
+   "id": "fin",
+   "text": "Finance Department\n(Functional Department)",
+   "shape": "box",
+   "color": "grey"
+  },
+  {
+   "id": "hr",
+   "text": "Human Resources Department\n(Functional Department)",
+   "shape": "box",
+   "color": "grey"
+  }
+ ],
+ "edges": [
+  {
+   "from": "pres",
+   "to": "board"
+  },
+  {
+   "from": "board",
+   "to": "md"
+  },
+  {
+   "from": "md",
+   "to": "ops"
+  },
+  {
+   "from": "md",
+   "to": "fin"
+  },
+  {
+   "from": "md",
+   "to": "hr"
+  }
+ ]
+}

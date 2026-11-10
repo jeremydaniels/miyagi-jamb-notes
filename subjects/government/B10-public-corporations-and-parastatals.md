@@ -66,7 +66,7 @@ Unlike a civil service ministry (which is run strictly by a Minister and a Perma
 4. **Employees:** The workers in a public corporation are called **public servants**, not civil servants. Their salaries, promotions, and conditions of service are decided by the corporation's Board, not by the Civil Service Commission. 
 5. **Autonomy:** They have administrative autonomy (freedom) to make quick business decisions without waiting for the slow bureaucratic processes of government ministries. 
 
-[IMAGE: An organization chart showing the structure of a public corporation. At the top: "The President / Minister" with an arrow pointing down to "Board of Directors". Below the Board is the "Managing Director (MD) / Director-General". Below the MD are three branches: "Operations Department", "Finance Department", and "Human Resources Department". Labels to add later: "Political Head", "Policy Makers", "Day-to-day Management", "Functional Departments". Style: Clean flat textbook illustration, white background, using blue and grey boxes.]
+![Organizational chart showing the hierarchy of a public corporation from the President down to the Board of Directors, Managing Director, and three functional departments.](images/B10-01-public-corporation-organization-chart.png)
 
 ## Finance, control and problems
 
@@ -148,7 +148,7 @@ Privatizing or commercializing a huge government company is a complex process. I
     - **Concessioning:** Giving a private company the right to run the facility (like a seaport or airport terminal) for a number of years, while government retains the actual land/asset ownership.
 6. **Payment and Handover:** The winning bidders pay the agreed amount into the government's account, and the management of the enterprise is officially handed over to the new private owners.
 
-[IMAGE: A flowchart showing the 6 steps of the privatization process. Step 1: Legal Framework (Law passed). Step 2: Identification of Enterprises. Step 3: Asset Valuation (Accountants determine worth). Step 4: Restructuring to Limited Company. Step 5: Mode of Sale (Core investor / Public shares). Step 6: Payment and Handover. Style: Clean flat textbook illustration, white background, using arrows connecting numbered rectangular boxes.]
+![A vertical flowchart outlining the six sequential steps of the privatization process, from legal framework through to payment and handover.](images/B10-02-privatization-steps-flowchart.png)
 
 ## Economic importance of privatization and commercialization
 

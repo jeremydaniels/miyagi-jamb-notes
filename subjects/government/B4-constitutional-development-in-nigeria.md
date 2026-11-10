@@ -30,7 +30,7 @@ Sir Hugh Clifford took over as Governor of Nigeria in 1919, succeeding Lord Luga
 4. **The Executive Council:** This was an advisory body to the Governor. It had no Nigerian members; it was made up entirely of senior British officials.
 5. **Exclusion of the North:** The Northern Provinces were excluded from the Legislative Council. The Governor ruled the North directly by issuing **proclamations** (decrees).
 
-[IMAGE: A simple timeline from left to right showing the progression of Nigerian Constitutions: 1914 (Lugard's Council) -> 1922 (Clifford) -> 1946 (Richards) -> 1951 (Macpherson) -> 1954 (Lyttelton) -> 1960 (Independence). Below 1922, a small icon of a ballot box with the text "Elective Principle (Lagos & Calabar)". Clean flat textbook style, white background.]
+![Timeline of Nigerian constitutional progression from 1914 to 1960, highlighting the 1922 Clifford Constitution with a ballot box representing the elective principle in Lagos and Calabar.](images/B4-01-timeline-nigerian-constitutions.png)
 
 ### Merits and demerits of the Clifford Constitution
 
@@ -126,7 +126,7 @@ Following the breakdown of the Macpherson Constitution, Nigerian leaders and the
 5. **Regionalization of the Civil Service and Judiciary:** Each region was allowed to have its own civil service and judiciary. 
 6. **Lagos separated from the West:** Lagos was carved out of the Western Region and made the Federal Capital Territory.
 
-[IMAGE: A three-column chart showing the Division of Legislative Powers under the 1954 Constitution. Column 1: "Exclusive List (Federal Only)" with icons for a soldier (Defence) and a coin (Currency). Column 2: "Concurrent List (Federal & Regional)" with icons for a graduation cap (Higher Education) and a factory (Industry). Column 3: "Residual List (Regional Only)" with icons for local chiefs (Chieftaincy) and a market (Local trade). Clean flat textbook style, white background.]
+![A three-column chart illustrating Exclusive, Concurrent, and Residual legislative powers under the 1954 Constitution alongside representative icons for each government subject.](images/B4-03-table-legislative-powers.png)
 
 ### Merits and demerits of the Lyttelton Constitution
 

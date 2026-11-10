@@ -92,7 +92,7 @@ Using the trade figures above, suppose Nigeria also earned ₦150,000 from invis
 **Counter trade** is a system of international trade where goods are exchanged for other goods instead of hard currency (like US dollars). It is essentially international barter. 
 *   **Example:** If Nigeria does not have enough US dollars to buy tractors from Brazil, Nigeria might agree to send $50 million worth of crude oil to Brazil in direct exchange for $50 million worth of Brazilian tractors.
 
-[IMAGE: A diagram illustrating Counter Trade. On the left, a map of Nigeria with an oil derrick. On the right, a map of Brazil with a tractor. A curved arrow points from Nigeria to Brazil labelled "Crude Oil Export". A second curved arrow points from Brazil to Nigeria labelled "Tractor Import". A big text bubble in the middle says "NO MONEY EXCHANGED, DIRECT SWAP". Clean flat textbook illustration, white background.]
+![A diagram illustrating counter trade barter agreement between Nigeria exporting crude oil and Brazil exporting tractors directly without money exchanging hands.](images/A4b-01-counter-trade-schematic.png)
 
 ---
 

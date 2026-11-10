@@ -189,10 +189,10 @@ The rules for adding binary digits are simple:
 **Example: Evaluate $1011_2 + 1101_2$**
 ```text
   Carry: 1 1 1 1
-         1 0 1 1
-       + 1 1 0 1
-       ---------
-       1 1 0 0 0
+           1 0 1 1
+         + 1 1 0 1
+         ---------
+         1 1 0 0 0
 ```
 *(Check: $11 + 13 = 24$. $11000_2$ is $16 + 8 = 24$.)*
 
@@ -240,11 +240,11 @@ To make hardware simpler, modern computers rarely subtract directly. Instead, th
 ```
 4. **Add** this to A ($00101101_2$):
 ```text
-  Carry: 1 1   1 1 1  
-         0 0 1 0 1 1 0 1  (This is 45)
-       + 1 1 1 0 1 1 1 0  (This is two's comp of 18)
-       -----------------
-       1 0 0 0 1 1 0 1 1
+  Carry: 1 1 1 0 1 1 0 0 0
+           0 0 1 0 1 1 0 1  (This is 45)
+         + 1 1 1 0 1 1 1 0  (This is two's comp of 18)
+         -----------------
+         1 0 0 0 1 1 0 1 1
 ```
 5. We are using an 8-bit limit, but the result has 9 bits. **Discard the 9th bit** on the far left.
 **Result:** $00011011_2$.
@@ -323,7 +323,7 @@ Binary multiplication follows the exact same shift-and-add logic as decimal long
 - C. 25
 - D. 31
 
-**Answer: A.** The place values from right to left are 1, 2, 4, 8, 16. Calculating: $(1 \times 16) + (1 \times 8) + (1 \times 4) + (0 \times 2) + (1 \times 1) = 16 + 8 + 4 + 0 + 1 = 29$. (Mistake B happens if you miscount place values).
+**Answer: A.** The place values from right to left are 1, 2, 4, 8, 16. Calculating: $(1 \times 16) + (1 \times 8) + (1 \times 4) + (0 \times 2) + (1 \times 1) = 16 + 8 + 4 + 0 + 1 = 29$. (Option D, 31, comes from treating the number as $11111_2$, forgetting that the digit in the 2s place is 0.)
 
 **4. Convert the decimal number $43_{10}$ to binary.**
 - A. $110101_2$

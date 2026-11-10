@@ -35,7 +35,7 @@ God pointed out the following situations and sins that caused the punishment:
 
 Because of these extreme spiritual and moral failures, God decreed that Jerusalem would fall to the Babylonians.
 
-[IMAGE: A dramatic split illustration. On the left side, ancient Israelites are shown in a dark valley turning their backs to a glowing temple, bowing before a terrifying stone idol (Molech) with fire burning in its belly. On the right side, a fierce Babylonian army (the "lion from his thicket") is marching downwards from the north towards a walled city, carrying torches and swords. Labels to add later: "Idolatry and Child Sacrifice (Jeremiah 32)", "The Destroyer from the North (Jeremiah 4)". Clean flat textbook style, white background.]
+![A split illustration showing ancient Israelites worshipping an idol with fire inside instead of a glowing temple, alongside an invading army marching toward a walled city.](images/B9-01-idolatry-babylonian-invasion-scene.png)
 
 ## Objective ii: Identify the conditions for hope
 
@@ -98,7 +98,7 @@ God explained to Ezekiel that the dry bones represented the **"whole house of Is
 - **Spiritual renewal:** God promised, *"And shall put my spirit in you, and ye shall live."* The ultimate benefit of restoration was not just political freedom, but a completely renewed spiritual life empowered by the Spirit of God.
 - **Knowledge of God:** Through this miraculous restoration, they would finally know that the Lord had spoken and performed it.
 
-[IMAGE: A powerful sequential illustration of the Valley of Dry Bones. Panel 1: A prophet (Ezekiel) standing on a rocky ledge overlooking a vast valley littered with bleached, scattered human bones. Panel 2: The bones are shown flying together, with muscles and skin wrapping around them, but the bodies lie lifeless on the ground. Panel 3: A glowing wind sweeps over the bodies, and a massive, living army stands up on their feet looking strong and renewed. Labels to add later: "1. The dry bones (hopelessness in exile)", "2. Bones come together with flesh (physical restoration)", "3. The Breath of God brings life (spiritual renewal)". Clean flat textbook style, white background.]
+![Three sequential panels illustrating Ezekiel in the valley of dry bones, the bones assembling into flesh-covered bodies, and the divine breath restoring them to life.](images/B9-02-valley-dry-bones-sequence.png)
 
 ### Good tidings of salvation (Isaiah 61)
 

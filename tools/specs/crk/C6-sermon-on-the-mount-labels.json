@@ -1,23 +1,20 @@
 {
  "C6-01-sermon-mount-plain": {},
  "C6-02-earthly-versus-heavenly-treasure": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Treasures on Earth: Moth, Rust, Thieves",
-    [
-     208,
-     636
-    ],
-    "L"
+    "Treasures on Earth:\nMoth, Rust, Thieves",
+    273,
+    866
    ],
    [
-    "Treasures in Heaven: Secure, Eternal",
-    [
-     641,
-     390
-    ],
-    "R"
+    "Treasures in Heaven:\nSecure, Eternal",
+    764,
+    873
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

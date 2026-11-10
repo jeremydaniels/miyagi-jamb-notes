@@ -1,0 +1,166 @@
+{
+ "D1-01-intraspecific-colour-variation-panel": {
+  "labels": [
+   [
+    "Goats (coat colour)",
+    [
+     266,
+     186
+    ],
+    "L"
+   ],
+   [
+    "Chickens (feathers)",
+    [
+     700,
+     208
+    ],
+    "R"
+   ],
+   [
+    "Skin colour",
+    [
+     312,
+     464
+    ],
+    "L"
+   ],
+   [
+    "Eye colour (iris)",
+    [
+     654,
+     587
+    ],
+    "R"
+   ],
+   [
+    "Fish (scales)",
+    [
+     361,
+     778
+    ],
+    "L"
+   ],
+   [
+    "Guinea fowl (feathers)",
+    [
+     649,
+     854
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D1-05-measuring-student-height-weight": {
+  "labels": [
+   [
+    "measuring tape (0 cm at floor)",
+    [
+     147,
+     813
+    ],
+    "L"
+   ],
+   [
+    "ruler held level on head",
+    [
+     241,
+     253
+    ],
+    "L"
+   ],
+   [
+    "heels against wall",
+    [
+     187,
+     883
+    ],
+    "L"
+   ],
+   [
+    "shoes removed",
+    [
+     864,
+     867
+    ],
+    "R"
+   ],
+   [
+    "eye level with the mark",
+    [
+     410,
+     223
+    ],
+    "L"
+   ],
+   [
+    "weighing scale set to zero",
+    [
+     817,
+     904
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D1-08-field-notebook-biological-variation": {
+  "labels": [
+   [
+    "variegated leaf (croton)",
+    [
+     160,
+     264
+    ],
+    "L"
+   ],
+   [
+    "flower colour (hibiscus)",
+    [
+     500,
+     226
+    ],
+    "L"
+   ],
+   [
+    "grain colour (maize)",
+    [
+     702,
+     250
+    ],
+    "R"
+   ],
+   [
+    "seed coat colour (cowpea)",
+    [
+     888,
+     266
+    ],
+    "R"
+   ],
+   [
+    "feather pattern",
+    [
+     129,
+     749
+    ],
+    "L"
+   ],
+   [
+    "banded and plain snail shells",
+    [
+     520,
+     651
+    ],
+    "R"
+   ],
+   [
+    "wing pattern (butterfly)",
+    [
+     901,
+     604
+    ],
+    "R"
+   ]
+  ]
+ }
+}

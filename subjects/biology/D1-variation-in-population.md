@@ -123,7 +123,7 @@ Some coat colours fall into a few clear groups (for example, black or white guin
 - Pigeons have many colour forms.
 - In many birds, males and females differ in feather colour (for example, the cock and the hen), which is a difference between the sexes rather than between individuals of the same sex.
 
-[IMAGE: A grid of six small panels showing colour variation within single species. Panel 1: three West African Dwarf goats side by side, one black, one brown, one black-and-white patched. Panel 2: four Nigerian village chickens with different feather colours: black, white, reddish-brown and speckled grey. Panel 3: three human hands of different skin shades, from very dark brown to light brown, plus one very pale hand to represent albinism. Panel 4: four close-up human eyes with irises in dark brown, light brown, hazel and grey-blue. Panel 5: three Tilapia fish with different scale colours (dark grey, silvery, and with vertical dark bars). Panel 6: three guinea fowl, pearl-grey spotted, white and lavender. Labels to add later: "Goats (coat colour)", "Chickens (feathers)", "Skin colour", "Eye colour (iris)", "Fish (scales)", "Guinea fowl (feathers)". Soft natural colours. Clean flat textbook style, white background.]
+![A six-panel grid showing phenotypic variation in coat color of goats, chicken feathers, human skin tones, human iris colors, tilapia scale patterns, and guinea fowl plumage.](images/D1-01-intraspecific-colour-variation-panel.png)
 
 ### Fingerprints
 
@@ -376,7 +376,7 @@ To study continuous variation, you need measurements from a large number of indi
 
 **Recording:** draw a table with columns for pupil number, sex, age, height (cm) and weight (kg). Do not record names if pupils would rather keep their measurements private; numbers are enough.
 
-[IMAGE: A school pupil in uniform, barefoot, standing straight against a classroom wall with heels, back and head touching the wall. A vertical measuring tape is fixed to the wall from the floor, and a teacher holds a flat ruler level on top of the pupil's head, reading the tape at eye level. Beside them, a second pupil stands barefoot on a bathroom weighing scale on a level floor. Labels to add later: "measuring tape (0 cm at floor)", "ruler held level on head", "heels against wall", "shoes removed", "eye level with the mark", "weighing scale set to zero". Clean flat textbook style, white background.]
+![A teacher measures the height of a barefoot schoolboy against a wall ruler while another barefoot boy stands on a weighing scale.](images/D1-05-measuring-student-height-weight.png)
 
 ## Plotting frequency distribution graphs of heights and weights
 
@@ -514,7 +514,7 @@ For discontinuous data such as blood groups or tongue rolling, you draw a **bar 
 
 **Precautions:** do not handle animals roughly; do not pick flowers or leaves from other people's plants without permission; wash your hands after handling animals; observe wild animals (lizards, snakes) from a safe distance.
 
-[IMAGE: A field-notebook style page showing colour patterns in plants and animals. Top row (plants): a variegated croton leaf with green, yellow and red patches; four hibiscus flowers in red, pink, yellow and white; a maize cob with mixed yellow, white and purple grains; three cowpea seeds (white, brown, black-eyed). Bottom row (animals): a speckled chicken feather beside a plain black one; a land snail shell with dark bands beside a plain shell; two butterflies of the same species with slightly different wing patterns. Labels to add later: "variegated leaf (croton)", "flower colour (hibiscus)", "grain colour (maize)", "seed coat colour (cowpea)", "feather pattern", "banded and plain snail shells", "wing pattern (butterfly)". Clean flat textbook style, white background.]
+![Illustrations comparing colour variation in plants including croton leaf, hibiscus flowers, maize, cowpea seeds, and in animals including bird feathers, snail shells, and butterflies.](images/D1-08-field-notebook-biological-variation.png)
 
 ## Classification of fingerprints and identity detection
 

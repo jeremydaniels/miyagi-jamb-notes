@@ -215,7 +215,7 @@ This is a favourite JAMB trap. You might be given the *Sales* figure, but given 
 | $\frac{1}{4}$ (25%) | $\frac{1}{5}$ (20%) |
 | $\frac{1}{5}$ (20%) | $\frac{1}{6}$ (16.6%) |
 
-[IMAGE: A simple visual diagram showing the conversion fractions. A box labeled 'MARK-UP (Fraction of Cost)' pointing with an arrow adding the numerator to the denominator to a box labeled 'MARGIN (Fraction of Sales)'. Below it, a specific example: 1/4 -> 1/(4+1) -> 1/5. Clean flat textbook style, white background.]
+![Diagram showing how to convert mark-up to margin by adding numerator to denominator, illustrated generally and with the example 1/4 becoming 1/(4+1) which equals 1/5.](images/A9-01-markup-margin-conversion.png)
 
 ### Worked Example: Using Margin to find missing Purchases
 

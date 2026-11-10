@@ -1,0 +1,41 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Central Administration in 1914",
+ "nodes": [
+  {
+   "id": "sec_state",
+   "text": "Secretary of State for the Colonies\n(London)",
+   "shape": "box"
+  },
+  {
+   "id": "gov_gen",
+   "text": "Governor-General\n(Sir Frederick Lugard)",
+   "shape": "box"
+  },
+  {
+   "id": "exec_council",
+   "text": "Executive Council\n(All British officials, advised on policies)",
+   "shape": "box"
+  },
+  {
+   "id": "nig_council",
+   "text": "Nigerian Council\n(36 members: 30 Europeans, 6 Nigerians;\npurely advisory, no law-making power)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sec_state",
+   "to": "gov_gen"
+  },
+  {
+   "from": "gov_gen",
+   "to": "exec_council"
+  },
+  {
+   "from": "gov_gen",
+   "to": "nig_council"
+  }
+ ]
+}

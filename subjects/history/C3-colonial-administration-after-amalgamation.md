@@ -51,7 +51,7 @@ The composition of this central administration had several major consequences fo
 
 *(Note: The Nigerian Council was widely considered a failure and was abolished in 1922 when Sir Hugh Clifford introduced a new Constitution, which created a new Legislative Council with a few elected seats for Nigerians. You will learn more about this in `C6-constitutional-developments-nationalism-and-independence.md`.)*
 
-[IMAGE: A simple organisational chart showing the structure of Central Administration in 1914. At the top: "Secretary of State for the Colonies (London)". An arrow points down to "Governor-General (Sir Frederick Lugard)". From the Governor-General, two horizontal lines branch out. One leads to a box labelled "Executive Council (All British officials, advised on policies)". The other leads to a box labelled "Nigerian Council (36 members: 30 Europeans, 6 Nigerians; purely advisory, no law-making power)". Clean flat textbook illustration style, white background, clear bold text.]
+![Organizational chart of Central Administration in 1914 showing the Secretary of State leading to the Governor-General, who branches down to the Executive Council and Nigerian Council.](images/C3-01-central-administration-org-chart.png)
 
 ## Reasons for the Introduction of Indirect Rule
 
@@ -108,7 +108,7 @@ Indirect Rule did not work the same way across Nigeria. Because the pre-colonial
 | **Western Nigeria (Yorubaland)** | Centralized monarchies (Obas) but with strong constitutional checks and balances (e.g., the *Oyomesi* and *Ogboni* in Oyo and Egba). | Obas were made "Sole Native Authorities." The British ignored the traditional councils that usually checked the Oba's power. Direct taxation was introduced where it previously did not exist. | **Partially Successful.** It functioned, but there were frequent revolts because the Obas became autocrats, and the people hated direct taxation. |
 | **Eastern Nigeria (Igboland/Niger Delta)** | Mostly non-centralized (acephalous) or village-republic societies. Power was shared among age grades, titled men (Ozo), and councils of elders. No absolute kings. | Because there were no powerful kings to act as Native Authorities, the British artificially created them. They appointed individuals as **Warrant Chiefs** to rule, collect taxes, and run Native Courts. | **Total Failure.** The people saw the Warrant Chiefs as illegitimate, corrupt, and tyrannical. It led to massive breakdowns of law and order, culminating in the Aba Women's Movement. |
 
-[IMAGE: A map of Nigeria circa 1920 divided into three major regions: North, West, and East. The Northern region is shaded green and labelled "Highly Centralized Emirates: Indirect Rule Highly Successful (Emirs)". The Western region is shaded yellow and labelled "Constitutional Monarchies: Indirect Rule Partially Successful (Obas made Sole Authorities)". The Eastern region is shaded red and labelled "Non-centralized Societies: Indirect Rule Failed (Artificial Warrant Chiefs)". Clean flat textbook illustration style, clear borders, white background.]
+![Map of Nigeria circa 1920 showing the Northern, Western, and Eastern regions with labels summarizing the administrative systems and success levels of British indirect rule.](images/C3-02-map-indirect-rule-systems.png)
 
 ### Common Mistakes
 A common confusion for students is thinking Indirect Rule failed in the East simply because the people were stubborn. The real historical reason is structural: the British tried to force a centralized monarchical system (Native Authorities) onto a society that was inherently democratic and acephalous (without single rulers).
@@ -173,7 +173,7 @@ News spread rapidly. Using traditional communication networks, thousands of Igbo
 The movement quickly spread across the Owerri and Calabar provinces (including Aba and Opobo). The women attacked Native Courts, burning several to the ground, and broke into prisons to release prisoners. 
 The British authorities panicked. At Opobo and other locations, colonial troops opened fire on the protesting women. More than 50 women were killed, and many more were injured.
 
-[IMAGE: An illustration of the Aba Women's Movement. A large crowd of Nigerian women in traditional 1920s Eastern Nigerian attire (wrappers, some with palm fronds in their hair or hands). They are surrounding a wooden "Native Court" building, looking angry and singing. In the foreground, a woman (representing Nwanyeruwa) points accusingly at a shocked man holding a census clipboard (representing the Warrant Chief's agent). Clean flat textbook illustration style, white background.]
+![Illustration of the Aba Womens War showing a crowd of protesting Nigerian women confronting a census agent holding a clipboard outside a Native Court building.](images/C3-03-aba-women-s-movement.png)
 
 **Significance and Effects:**
 *   **Collapse of the Warrant Chief System:** The movement forced the British to completely overhaul Indirect Rule in the East. Many corrupt Warrant Chiefs were dismissed or forced to resign.

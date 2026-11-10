@@ -61,7 +61,7 @@ For a Mufassir to interpret the Qur'ān correctly, they cannot simply guess the 
 5. **The Arabic Language:** The Qur'ān was revealed in classical Arabic. Mufassirūn use classical Arabic grammar, poetry, and lexicons to understand the exact meaning of words as they were used by Arabs at the time of revelation.
 6. **Ijtihād (Independent Reasoning):** If none of the above provides a complete answer, qualified scholars use their deep knowledge to derive meaning through careful, independent reasoning, provided it does not contradict the Qur'ān or Sunnah.
 
-[IMAGE: A step-by-step pyramid diagram showing the sources of Tafsir in order of priority. The wide base at the bottom says "1. The Qur'ān itself". The next level up says "2. The Sunnah (Hadīth)". The third level says "3. Statements of the Sahābah". The fourth level says "4. Statements of the Tābi'ūn". The fifth level says "5. Classical Arabic Language". The tiny tip at the top says "6. Ijtihād (Reasoning)". Labels to add later: "Sources of Tafsīr (Order of Priority)". Clean flat textbook style, white background.]
+![A pyramid diagram showing the six sources of Tafsir in order of priority, from the Quran at the base up to Ijtihad at the top.](images/A2-01-tafsir-sources-pyramid-hierarchy.png)
 
 ## Importance of Tafsīr
 

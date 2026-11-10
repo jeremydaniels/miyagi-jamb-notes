@@ -133,7 +133,7 @@ This is the owner's investment in the business. In the final accounts, the closi
 * **Formula:** $Closing Capital = Opening Capital + Net Profit - Drawings$
 * (If there is a Net Loss, it is subtracted instead of added).
 
-[IMAGE: A balanced scale scale with "Assets" on the left plate and "Capital + Liabilities" on the right plate. Below it, a flowchart pointing to a Statement of Financial Position, categorising Assets into 'Non-Current' and 'Current', and Capital/Liabilities into 'Capital', 'Long-term Liabilities', and 'Current Liabilities'. Clean flat textbook illustration, white background.]
+![A balanced scale showing Assets equal to Capital plus Liabilities, linking to a Statement of Financial Position categorizing assets, capital, and liabilities into standard balance sheet components.](images/A6-01-balance-sheet-scale-flowchart.png)
 
 ---
 
@@ -175,7 +175,7 @@ A business paid ₦24,000 for rent during the year. However, ₦6,000 rent is st
 * **Step 1 (Rent):** The total rent for the year should be ₦24,000 (paid) + ₦6,000 (accrued) = ₦30,000. Charge ₦30,000 as a P&L expense. Show ₦6,000 as a Current Liability.
 * **Step 2 (Insurance):** The true insurance for the year is ₦15,000 (paid) - ₦3,000 (prepaid) = ₦12,000. Charge ₦12,000 as a P&L expense. Show ₦3,000 as a Current Asset.
 
-[IMAGE: A horizontal timeline representing a financial year from 1 January to 31 December. An arrow pointing past 31 December is labelled 'Prepayment (paid for next year, subtract from expense, Current Asset)'. An arrow pointing just before 31 December with a gap to the end is labelled 'Accrual (used this year but not paid, add to expense, Current Liability)'. Clean flat textbook illustration, white background.]
+![A financial year timeline illustrating prepayments extending beyond year-end as current assets and accruals leaving an unpaid gap before year-end as current liabilities.](images/A6-02-accounting-accruals-prepayments-timeline.png)
 
 ---
 

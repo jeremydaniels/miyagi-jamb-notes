@@ -630,14 +630,6 @@
     "L"
    ],
    [
-    "clinostat",
-    [
-     677,
-     794
-    ],
-    "R"
-   ],
-   [
     "motor",
     [
      522,
@@ -669,7 +661,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "clinostat",
+    716,
+    861
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6a-08-hydrotropism-experiment-apparatus": {
   "labels": [
@@ -791,7 +792,7 @@
      421,
      179
     ],
-    "L"
+    "T"
    ],
    [
     "Chlamydomonas collect in light",
@@ -834,14 +835,6 @@
     "L"
    ],
    [
-    "archegonium",
-    [
-     835,
-     655
-    ],
-    "R"
-   ],
-   [
     "neck",
     [
      798,
@@ -881,7 +874,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "archegonium",
+    770,
+    845
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6a-14-shoot-tip-longitudinal-section": {
   "labels": [
@@ -975,7 +977,7 @@
      317,
      153
     ],
-    "L"
+    "T"
    ],
    [
     "shoot tip makes auxin",
@@ -991,7 +993,7 @@
      491,
      327
     ],
-    "L"
+    "T"
    ],
    [
     "more auxin",
@@ -999,7 +1001,7 @@
      473,
      491
     ],
-    "L"
+    "T"
    ],
    [
     "cells elongate more (shaded side)",
@@ -1015,7 +1017,7 @@
      528,
      491
     ],
-    "R"
+    "T"
    ],
    [
     "cells elongate less (lit side)",
@@ -1033,7 +1035,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6a-16-auxin-geotropism-response": {
   "labels": [
@@ -1099,30 +1104,6 @@
   "caption_below": "Day: leaves open; night: leaves folded (sleep position).",
   "labels": [
    [
-    "Bauhinia",
-    [
-     186,
-     223
-    ],
-    "L"
-   ],
-   [
-    "flamboyant (Delonix regia)",
-    [
-     523,
-     241
-    ],
-    "R"
-   ],
-   [
-    "Mimosa pudica",
-    [
-     831,
-     253
-    ],
-    "R"
-   ],
-   [
     "pulvinus",
     [
      886,
@@ -1130,7 +1111,32 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "split": [
+   [
+    444,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "Bauhinia",
+    182,
+    449
+   ],
+   [
+    "flamboyant\n(Delonix regia)",
+    511,
+    449
+   ],
+   [
+    "Mimosa pudica",
+    841,
+    448
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6a-13-root-growth-marking-experiment": {
   "caption_below": "Start with ink marks 2 mm apart; after 48 hours marks widely spaced in zone of elongation, unchanged in older region.",

@@ -118,7 +118,7 @@ Agrochemicals are poisonous to humans, livestock, and beneficial insects (like b
 5.  **Do not eat or smoke:** Never eat, drink, or smoke while applying chemicals to avoid accidental poisoning.
 6.  **Disposal:** Wash equipment thoroughly after use and bury empty chemical containers far away from water sources. Never wash knapsack sprayers in rivers used for drinking water.
 
-![Textbook illustration of a farmer wearing personal protective equipment including overalls, boots, gloves, mask, and goggles, spraying crops with a knapsack sprayer.](images/A5-02-farmer-protective-agrochemical-gear.png)
+[IMAGE: A farmer properly dressed to apply agrochemicals. The farmer is wearing a green overall, tall black rubber boots, yellow rubber gloves, a white nose mask, and clear goggles. He is carrying a knapsack sprayer on his back. A spray lance in his hand is directing a fine mist onto a row of young crops. An arrow shows the wind blowing from behind the farmer, pushing the mist forward. Labels: "Knapsack sprayer", "Respirator/Mask", "Goggles", "Rubber gloves", "Protective overall", "Rubber boots", "Wind direction". Style: Clean flat textbook illustration, white background.]
 
 ---
 

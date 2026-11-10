@@ -1,0 +1,75 @@
+{
+ "B8-01-agricultural-cropping-systems": {
+  "regions": [
+   "Monocropping",
+   "Mixed cropping",
+   "Intercropping",
+   "Strip cropping"
+  ],
+  "labels": [
+   [
+    "Monocropping",
+    [
+     257,
+     262
+    ],
+    "L"
+   ],
+   [
+    "Mixed cropping",
+    [
+     765,
+     262
+    ],
+    "R"
+   ],
+   [
+    "Intercropping",
+    [
+     257,
+     764
+    ],
+    "L"
+   ],
+   [
+    "Strip cropping",
+    [
+     765,
+     764
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-02-seed-planting-patterns-comparison": {
+  "labels": [
+   [
+    "Broadcasting (scattered)",
+    [
+     200,
+     523
+    ],
+    "L"
+   ],
+   [
+    "Row spacing (exact intervals)",
+    [
+     512,
+     523
+    ],
+    "R"
+   ],
+   [
+    "Drilling (continuous lines in furrows)",
+    [
+     823,
+     523
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-03-plant-density-effects": {
+  "caption_below": "Low, optimum, and high plant density effects on crop yield and growth"
+ }
+}

@@ -46,7 +46,7 @@ JAMB expects you to distinguish between these systems based on farm descriptions
 | **Risk of failure** | High (all eggs in one basket) | Low (if one crop fails, others survive) | Low | Varies by year |
 | **Pest build-up** | High (pests have abundant food) | Low | Low | Low (breaks pest life cycles) |
 
-[IMAGE: Four-panel illustration showing overhead views of different cropping systems. Panel 1 (Monocropping): A field uniformly filled with parallel rows of maize plants. Panel 2 (Mixed cropping): A scattered, random mix of yam mounds, cassava, and maize plants with no clear rows. Panel 3 (Intercropping): Neat, alternating rows of tall maize and low-lying groundnut. Panel 4 (Strip cropping): Broad alternating bands of crops curving along a hillside slope; one band is tall maize, the next is dense green cowpea. Labels to add later: "Monocropping", "Mixed cropping", "Intercropping", "Strip cropping". Clean flat textbook style, white background.]
+![Four-panel diagram showing monocropping with parallel maize rows, mixed cropping with scattered crops, intercropping with alternating rows, and strip cropping on a curved slope.](images/B8-01-agricultural-cropping-systems.png)
 
 ## Applying Cropping Systems to Solve Problems
 
@@ -89,7 +89,7 @@ To differentiate them in exam questions, focus on how the seeds are placed, the 
 | **Mechanisation later**| Difficult (no clear paths to drive or walk) | Easy | Easy |
 | **Depth of planting** | Uneven | Controlled by hand or simple tools | Very precise (machine controlled) |
 
-[IMAGE: Three-panel diagram illustrating planting patterns. Panel 1 (Broadcasting): A farmer's hand scattering small seeds randomly over a patch of flat soil, with arrows showing seeds falling everywhere. Panel 2 (Row spacing): A top-down view of seeds placed at exact, equal intervals (e.g., 50 cm apart) along straight, measured lines, forming a grid. Panel 3 (Drilling): A tractor-drawn seed drill cutting shallow furrows, dropping seeds continuously into the lines, and covering them with soil. Labels to add later: "Broadcasting (scattered)", "Row spacing (exact intervals)", "Drilling (continuous lines in furrows)". Clean flat textbook style, white background.]
+![A three-panel diagram comparing planting patterns: broadcasting seeds randomly by hand, spaced seeds placed in parallel rows, and mechanized drilling with a tractor-drawn seed drill.](images/B8-02-seed-planting-patterns-comparison.png)
 
 ## Plant Densities: Single, Double and Multiple Stands
 
@@ -124,7 +124,7 @@ The density of plants drastically affects how they grow because plants must comp
    - The crowded, humid conditions limit air circulation, encouraging the rapid spread of fungal diseases and pests.
    - The total marketable yield per hectare **drops significantly**.
 
-[IMAGE: Three side-by-side panels showing the effect of plant density on maize. Panel 1 (Low Density): A few large, robust maize plants spaced very far apart, with weeds growing in the wide gaps between them. Panel 2 (Optimum Density): Healthy, strong maize plants with large cobs, spaced perfectly to cover the soil without crowding each other. Panel 3 (High Density): Very crowded, thin, tall, and yellowing maize plants with tiny or no cobs, some bending over. Labels to add later: "Low density: large individuals but low overall yield, high weed growth", "Optimum density: maximum yield", "High density: severe competition, weak spindly plants, low yield". Clean flat textbook style, white background.]
+![Three panels illustrating maize growth under low density with weeds, optimal density with healthy plants and large cobs, and high density with crowded, yellowing stalks.](images/B8-03-plant-density-effects.png)
 
 ## Computing Plant Density Per Hectare
 

@@ -100,12 +100,20 @@
  "C7d-02-stages-desertification": {
   "labels": [
    [
+    "Healthy savanna",
+    [
+     186,
+     495
+    ],
+    "L"
+   ],
+   [
     "Deforestation",
     [
      454,
      437
     ],
-    "T"
+    "L"
    ],
    [
     "Overgrazing",
@@ -113,7 +121,7 @@
      573,
      571
     ],
-    "T"
+    "R"
    ],
    [
     "Bush burning",
@@ -121,7 +129,7 @@
      581,
      307
     ],
-    "T"
+    "R"
    ],
    [
     "Bare soil",
@@ -129,7 +137,7 @@
      575,
      457
     ],
-    "T"
+    "R"
    ],
    [
     "Wind erosion",
@@ -146,94 +154,88 @@
      352
     ],
     "R"
-   ]
-  ],
-  "captions": [
-   [
-    "Healthy savanna",
-    185,
-    880
    ],
    [
-    "Desert-like\nland",
-    836,
-    880
+    "Desert-like land",
+    [
+     835,
+     565
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "C7d-03-shelterbelt-windbreak-landscape": {
   "labels": [
    [
     "Harmattan wind (from the north-east)",
     [
-     820,
-     185
+     709,
+     327
     ],
     "R"
    ],
    [
     "Blowing sand",
     [
-     775,
-     528
+     848,
+     305
     ],
     "R"
    ],
    [
     "Shelterbelt",
     [
-     525,
-     335
+     559,
+     500
     ],
     "R"
    ],
    [
     "Neem",
     [
-     437,
-     677
+     430,
+     702
     ],
     "L"
    ],
    [
     "Acacia",
     [
-     463,
-     437
+     241,
+     746
     ],
     "L"
    ],
    [
     "Eucalyptus",
     [
-     582,
-     278
+     508,
+     658
     ],
-    "R"
+    "L"
    ],
    [
     "Sand trapped",
     [
-     638,
-     773
+     596,
+     794
     ],
     "R"
    ],
    [
     "Reduced wind speed",
     [
-     714,
-     509
+     613,
+     285
     ],
     "R"
    ],
    [
     "Protected farmland",
     [
-     239,
-     764
+     208,
+     538
     ],
     "L"
    ]

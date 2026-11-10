@@ -45,7 +45,7 @@ WAI was introduced in different phases to change public behaviour:
 
 **Assessment of WAI:** Many textbooks note that WAI successfully brought orderliness to public places and cleaner environments in a short time. However, critics argued that the methods used to enforce it were harsh, as soldiers often used horsewhips (koboko) and public humiliation to force citizens into line.
 
-[IMAGE: A split illustration showing the policies of the 1984-1985 regime. Left side: a neat, straight queue of people waiting at a bus stop, with a stern soldier standing nearby holding a horsewhip. Right side: a Nigerian banking hall with a large clock showing time running out, as people rush to hand over old-coloured Naira notes to a teller in exchange for newly coloured notes. Labels to add later: "War Against Indiscipline (WAI) - Queuing Culture", "April 1984 Currency Change". Clean flat textbook style, white background.]
+![A split illustration showing people queueing orderly at a bus stop under soldier supervision alongside a crowded bank hall where people exchange currency under a clock.](images/D6-01-historical-regime-policies.png)
 
 ### 3. Decrees, Tribunals and Human Rights Controversies
 

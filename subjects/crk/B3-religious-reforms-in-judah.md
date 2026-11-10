@@ -40,7 +40,7 @@ Shaphan returned to King Josiah to report that the money had been paid to the wo
 
 Shaphan read the book aloud to the king. When King Josiah heard the words of the Book of the Law and realized how far the nation had strayed from God's commands, he immediately **tore his clothes** in a sign of deep mourning, distress, and repentance.
 
-[IMAGE: A young King Josiah in royal robes, standing in a stone palace room, gripping the collar of his tunic and tearing it in distress. In front of him stands Shaphan the scribe, holding open a large, aged parchment scroll. In the background, stone pillars and a brazier. Style: clean flat textbook illustration, white background.]
+![A young king in robes tears his tunic in grief as a scribe holds an open parchment scroll before him near pillars and a brazier.](images/B3-01-king-josiah-tearing-clothes.png)
 
 ### 4. Consulting Huldah the prophetess
 Josiah commanded Hilkiah the priest, Shaphan, Ahikam, Achbor, and Asaiah (the king's servant) to go and inquire of the Lord concerning the words of the book. Josiah was terrified because he knew God's wrath was kindled against Judah for the sins of their ancestors.
@@ -76,7 +76,7 @@ After receiving the message from Huldah, Josiah took immediate action to bring t
    * To perform the words of the covenant written in the book.
 4. **The People's Agreement:** After the king made his vow, all the people present "stood to the covenant," meaning they agreed to it and pledged to keep it as well.
 
-[IMAGE: A wide shot of the Temple courtyard. King Josiah, wearing a crown, stands prominently beside a large stone pillar. He has one hand raised in a vow and the other resting on a scroll on a wooden stand. Surrounding him is a massive crowd of priests, elders, and common Israelites, all raising their hands in agreement. Style: clean flat textbook illustration, white background.]
+![King Josiah stands by a temple pillar reading a scroll on a stand with raised hand before a large crowd of Israelites raising their hands in covenant agreement.](images/B3-02-josiah-renewing-covenant-before.png)
 
 ## Josiah’s Religious Reforms
 

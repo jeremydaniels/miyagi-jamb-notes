@@ -54,7 +54,7 @@ Luke's account is set by the Lake of Gennesaret (another name for the Sea of Gal
 | **Peter's Reaction** | Leaves his net immediately | Falls at Jesus' knees, confessing he is a sinful man |
 | **Jesus' Promise** | "I will make you fishers of men" | "From henceforth thou shalt catch men" |
 
-[IMAGE: A serene Biblical scene by the Sea of Galilee. Two wooden fishing boats are at the shore. In one boat, Simon Peter is kneeling on fish-filled nets, looking up in awe at Jesus, who stands calmly instructing him. The nets are overflowing with fish, and two other men (James and John) in the background are struggling to pull more nets from the water. Clean flat textbook illustration, white background.]
+![Biblical scene of Jesus speaking to Simon Peter, who kneels beside nets overflowing with fish, while two fishermen pull heavy nets into another boat.](images/C3-01-miraculous-catch-fish-disciples.png)
 
 #### The call of Matthew (Levi) the Tax Collector
 
@@ -120,7 +120,7 @@ Jesus concluded his warnings in Luke 14 with two short parables emphasizing that
 
 Jesus concluded these parables with a final absolute demand: **"So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple."** Discipleship requires total surrender of personal possessions, ambitions, and rights to God.
 
-[IMAGE: A split illustration showing the two parables of counting the cost. On the left side, a man in ancient robes stands holding an architectural scroll, looking thoughtfully at the half-finished stone foundation of a tower, with a small pile of coins in his hand. On the right side, a king in royal robes sits on a throne discussing with his generals, looking worriedly at a map showing a large approaching army. Clean flat textbook style, white background.]
+![A split illustration of the parables of counting the cost: a builder checking his coins before constructing a tower, and a king consulting a war map.](images/C3-02-counting-cost-parables.png)
 
 ## Key terms
 

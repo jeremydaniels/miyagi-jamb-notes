@@ -117,7 +117,7 @@ Economically, the amalgamation achieved exactly what the British wanted.
 - **Unified Treasury:** The colonial treasury was unified. The revenues generated from the Southern ports successfully covered the administrative costs of the Northern Provinces. The British government was able to stop paying the annual grant-in-aid.
 - **Harmonized Infrastructure:** The railway networks were linked and expanded under a single railway department. This allowed goods to flow smoothly from the Northern hinterland to the Southern ports for export.
 
-[IMAGE: Map of Nigeria after 1914 showing the unified Colony and Protectorate of Nigeria. A thick railway line runs from Lagos on the southwestern coast up to Kano in the north. Another line runs from Port Harcourt on the southeastern coast towards coal mines in Enugu. The country is divided by dashed lines into the Northern Provinces and Southern Provinces. Clean flat textbook illustration, white background.]
+![Outline map of Nigeria divided into Northern and Southern Provinces by a dashed line, showing railway connections from Lagos to Kano and Port Harcourt to Enugu.](images/C2-03-map-colonial-railways.png)
 
 ### 5. Long-term Political and Social Consequences (Regionalism)
 

@@ -691,7 +691,7 @@ Nigeria has a large brewing industry, with many breweries producing lager beers 
 | Harmful: spoilage | Fermentation of sugars | Spoiled fruit juice, jam, honey |
 | Harmful: disease | Growth of yeast in the body | Candidiasis (thrush) caused by *Candida albicans* |
 
-[IMAGE: An illustrated panel of everyday products made with yeast, arranged around a central drawing of oval budding yeast cells: a loaf of bread and a bowl of puff-puff, a bottle of beer and a calabash of burukutu, a gourd of palm wine beside an oil palm tree with a tapping container, a bottle of ethanol fuel beside cassava roots and sugarcane, a jar of yeast extract with a "B" vitamin symbol, and a bag of animal feed. A small separate corner shows a mouth with white patches representing thrush, marked as harmful. Labels to add: "yeast cells (budding)", "bread and puff-puff (carbon dioxide)", "beer and burukutu (ethanol)", "palm wine (wild yeasts)", "industrial alcohol and fuel", "vitamin B (yeast extract)", "animal feed", "harmful: thrush (Candida)". Clean flat textbook style, white background.]
+![Diagram showing products of yeast fermentation including bread, beer, palm wine, ethanol fuel, yeast extract, and animal feed surrounding central budding yeast cells, with oral thrush inset.](images/B4b-13-yeast-industrial-fermentation-products.png)
 
 ## Respiration, photosynthesis and breathing compared
 

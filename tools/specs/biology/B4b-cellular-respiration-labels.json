@@ -295,5 +295,81 @@
     "L"
    ]
   ]
+ },
+ "B4b-13-yeast-industrial-fermentation-products": {
+  "whiten": [
+   [
+    368,
+    833,
+    449,
+    912
+   ]
+  ],
+  "labels": [
+   [
+    "yeast cells (budding)",
+    [
+     528,
+     468
+    ],
+    "R"
+   ],
+   [
+    "bread and puff-puff (carbon dioxide)",
+    [
+     266,
+     240
+    ],
+    "L"
+   ],
+   [
+    "beer and burukutu (ethanol)",
+    [
+     798,
+     266
+    ],
+    "R"
+   ],
+   [
+    "palm wine (wild yeasts)",
+    [
+     747,
+     716
+    ],
+    "R"
+   ],
+   [
+    "industrial alcohol and fuel",
+    [
+     294,
+     583
+    ],
+    "L"
+   ],
+   [
+    "vitamin B (yeast extract)",
+    [
+     409,
+     860
+    ],
+    "L"
+   ],
+   [
+    "animal feed",
+    [
+     547,
+     814
+    ],
+    "R"
+   ],
+   [
+    "harmful: thrush (Candida)",
+    [
+     133,
+     880
+    ],
+    "L"
+   ]
+  ]
  }
 }

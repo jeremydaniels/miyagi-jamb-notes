@@ -10,5 +10,13 @@
  [
   "C1-04-alternate-segment-theorem",
   "A circle illustrating the alternate segment theorem. A tangent line touches the circle at point P. A triangle PQR is drawn inside the circle. The angle between the tangent and chord PQ is labelled $x$. The angle at the opposite vertex R is also labelled $x$."
+ ],
+ [
+  "C1-02-parallel-lines-transversal",
+  "Two horizontal parallel lines cut by a diagonal transversal line. Eight angles are formed, labelled 1 to 8. Angles 1, 4, 5, 8 are highlighted in one colour (equal angles), and angles 2, 3, 6, 7 in another colour (equal angles). Labels to indicate corresponding pairs (e.g., 1 and 5), alternate pairs (e.g., 4 and 5), and co-interior pairs (e.g., 4 and 6, which sum to 180°)."
+ ],
+ [
+  "C1-05-geometric-construction-degrees",
+  "A construction of a 75° angle. A horizontal line AB with a point O. An initial large arc from the baseline. An intersection for 60°, an intersection for 120°, and intersecting arcs above them for a 90° dotted vertical line. Another set of intersecting arcs bisecting the space between the 60° line and the 90° line. A solid final line passes through this last intersection, labelled as 75°."
  ]
 ]

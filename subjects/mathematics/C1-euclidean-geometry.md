@@ -63,7 +63,7 @@ When a transversal cuts through two parallel lines, several special pairs of ang
 2.  **Alternate angles (Z-angles):** These are on opposite sides of the transversal and between the parallel lines. **Alternate angles are equal.**
 3.  **Co-interior angles (C-angles or Allied angles):** These are on the same side of the transversal and between the parallel lines. **Co-interior angles add up to $180^\circ$.**
 
-[IMAGE: Two horizontal parallel lines cut by a diagonal transversal line. Eight angles are formed, labelled 1 to 8. Angles 1, 4, 5, 8 are highlighted in one colour (equal angles), and angles 2, 3, 6, 7 in another colour (equal angles). Labels to indicate corresponding pairs (e.g., 1 and 5), alternate pairs (e.g., 4 and 5), and co-interior pairs (e.g., 4 and 6, which sum to 180°). Clean flat textbook style, white background.]
+![Diagram of parallel lines intersected by a transversal, color-coding equal acute and obtuse angles and summarizing corresponding, alternate, and co-interior angle pairs.](images/C1-02-parallel-lines-transversal.png)
 
 ### Worked Examples
 
@@ -331,7 +331,7 @@ You can create other special angles by bisecting or combining the base angles.
     5. $60^\circ + 15^\circ = 75^\circ$.
 *   **To construct $105^\circ$:** Construct $90^\circ$ and $120^\circ$, then bisect the angle between them ($90^\circ + 15^\circ = 105^\circ$).
 
-[IMAGE: A construction of a 75° angle. A horizontal line AB with a point O. An initial large arc from the baseline. An intersection for 60°, an intersection for 120°, and intersecting arcs above them for a 90° dotted vertical line. Another set of intersecting arcs bisecting the space between the 60° line and the 90° line. A solid final line passes through this last intersection, labelled as 75°. Clean flat textbook style, white background, showing all faint construction arcs.]
+![Textbook geometric construction of a 75-degree angle from baseline AB at point O, showing 60, 90, and 120-degree construction arcs and angle bisector.](images/C1-05-geometric-construction-degrees.png)
 
 ### Worked Examples
 

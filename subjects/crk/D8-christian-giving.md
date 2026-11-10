@@ -34,7 +34,7 @@ Jesus condemned this attitude. He taught the following principles for giving:
 
 **Application to everyday life:** In many Nigerian communities, it is common to have public fund-raising events (launchings) where people announce their large donations to receive applause, titles, or political favour. Jesus' teaching warns Christians against this "show-off" mentality. True Christian giving is motivated by compassion and love for God, not by a desire for public recognition.
 
-[IMAGE: A contrast illustration split into two panels. Left panel: a wealthy man in fine robes standing in a busy ancient street, proudly dropping coins into a beggar's bowl while a servant blows a horn to attract a crowd. Right panel: a person quietly and privately pressing some coins into the hands of a poor person in a shadowed alleyway, with no one else watching. Labels to add later: "Giving to be seen by men (Hypocrisy)" and "Giving in secret (True Christian Giving)". Clean flat textbook style, white background.]
+![Two panels contrast a wealthy man openly giving coins to a beggar while a servant blows a trumpet with a person secretly giving coins to someone in need.](images/D8-01-hypocritical-versus-secret-giving.png)
 
 ## Paul's teaching on Christian giving to the Corinthians
 
@@ -61,7 +61,7 @@ In Chapter 9, Paul lays out several powerful spiritual rules regarding how and w
 3. **God's abundant provision:** Paul assured the Corinthians that if they gave, they would not lack. God is able to make all grace abound toward them, so that they will always have enough for themselves and plenty left over for every good work.
 4. **Producing thanksgiving to God:** When Christians give, it does more than just solve a physical problem. It causes the people who receive the gift to thank and glorify God. The poor Christians in Jerusalem would pray for the Corinthians and long for them with deep affection because of the grace of God shown through their giving.
 
-[IMAGE: A simple diagram showing the cycle of Christian giving according to Paul. At the top: "God provides seeds (resources) to the giver". An arrow points down to: "The Christian gives cheerfully and bountifully". An arrow points to: "The needs of the saints are met". An arrow points up to: "The receivers give thanks and glory to God". Clean flat textbook style, white background.]
+![A four-step circular diagram showing God providing resources to givers, cheerful giving, meeting the needs of saints, and receivers giving thanks and glory to God.](images/D8-02-christian-giving-cycle-flowchart.png)
 
 ## Paul's appreciation of the Philippians' gift
 

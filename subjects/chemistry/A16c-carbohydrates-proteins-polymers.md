@@ -128,7 +128,7 @@ An amino acid is a molecule containing two functional groups:
 **Primary Structure:**
 Amino acids link together through **condensation polymerization**. The carboxyl group of one amino acid reacts with the amino group of another, eliminating a small molecule of water ($\text{H}_2\text{O}$). The resulting chemical link is an **amide linkage** ($-\text{CO}-\text{NH}-$), known in biology and biochemistry as a **peptide bond**. The primary structure of a protein is simply the specific linear sequence of amino acids connected by these peptide bonds.
 
-[IMAGE: Chemical diagram showing the formation of a dipeptide. On the left, two simple amino acids are drawn side-by-side. A dashed box encloses the OH group from the -COOH of the first amino acid and one H atom from the -NH2 group of the second amino acid, representing water removal. An arrow points to the right, showing the two molecules joined by a new -CO-NH- bond, labelled "Peptide bond (amide linkage)", with a "+ H2O" byproduct. Clean flat textbook illustration, white background.]
+![Chemical reaction diagram showing two amino acids undergoing condensation to form a dipeptide linked by a peptide bond with the release of a water molecule.](images/A16c-01-peptide-bond-formation-reaction.png)
 
 ### Methods and Products of Protein Hydrolysis
 **Objective xxxviii: specify the methods and products of hydrolysis**

@@ -64,7 +64,7 @@ These are smaller, non-woody (succulent) plants grown specifically for their att
 | **Main landscape use** | Shade, windbreaks, avenues | Hedges, fencing, borders | Flower beds, pots, decorative borders |
 | **Examples** | Flamboyant, Neem, Royal palm, Casuarina | Hibiscus, Ixora, Bougainvillea, Croton | Marigold, Canna lily, Morning glory, Zinnia |
 
-[IMAGE: A three-part illustration showing the visual differences between a tree, a shrub, and an herbaceous flower. Left: A tall Flamboyant tree with a single thick brown trunk and a wide umbrella-shaped canopy of green leaves and red flowers. Middle: A bushy Ixora shrub with multiple woody stems branching straight out of the soil, covered in dense green leaves and clusters of red flowers. Right: A small Marigold plant in dark soil, showing soft green stems, deeply cut leaves, and large orange flowers. Labels: "Tree (Single woody trunk)", "Shrub (Multiple woody stems from base)", "Herbaceous flower (Soft, green, non-woody stem)". Clean flat textbook style, white background.]
+![An illustration comparing a tall tree with a single trunk, a shrub with multiple stems branching from the ground, and an herbaceous marigold plant with soft stems.](images/B11-01-tree-shrub-herbaceous-flower.png)
 
 ## Establishment of ornamental plants
 
@@ -126,7 +126,7 @@ Ornamental plants are often attacked by caterpillars, aphids, mealybugs, and fun
 ### 6. Provision of shade and support (Staking)
 Young seedlings may need temporary shading. Climbing ornamental plants, such as Morning Glory or certain types of Bougainvillea, need a stick, trellis, or wall for support (staking) so they can grow upward and display their flowers properly.
 
-[IMAGE: A gardener performing maintenance on a garden hedge. The gardener is wearing gloves and using a pair of large hedge shears to trim the top of a long, dense, green Ixora hedge to make it perfectly flat and rectangular. Beside the gardener on the ground is a green plastic watering can and a small hand trowel. Labels: "Gardener trimming hedge", "Hedge shears", "Ixora hedge (shrub)", "Watering can for irrigation". Clean flat textbook style, white background.]
+![A gardener trimming a rectangular flowering hedge with hedge shears, accompanied by a watering can and hand trowel on the ground.](images/B11-02-gardener-hedge-maintenance.png)
 
 ## Uses of ornamental trees, shrubs and flowers
 

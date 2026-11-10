@@ -1,0 +1,59 @@
+{
+ "B11-01-tree-shrub-herbaceous-flower": {
+  "labels": [
+   [
+    "Tree (Single woody trunk)",
+    [
+     314,
+     637
+    ],
+    "L"
+   ],
+   [
+    "Shrub (Multiple woody stems from base)",
+    [
+     538,
+     811
+    ],
+    "R"
+   ],
+   [
+    "Herbaceous flower (Soft, green, non-woody stem)",
+    [
+     865,
+     749
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B11-02-gardener-hedge-maintenance": {
+  "caption_below": "Gardener trimming hedge.",
+  "labels": [
+   [
+    "Hedge shears",
+    [
+     596,
+     379
+    ],
+    "R"
+   ],
+   [
+    "Ixora hedge (shrub)",
+    [
+     663,
+     592
+    ],
+    "R"
+   ],
+   [
+    "Watering can for irrigation",
+    [
+     203,
+     741
+    ],
+    "L"
+   ]
+  ]
+ }
+}

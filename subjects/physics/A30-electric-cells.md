@@ -40,7 +40,7 @@ When connected to an external circuit, current flows from the copper to the zinc
 **Cause:** The commercial zinc used in the negative plate contains tiny impurities like iron and carbon. When placed in the acid, these impurities form microscopic "local cells" on the surface of the zinc plate. These local cells cause the zinc to dissolve and waste away, producing hydrogen bubbles even when the main cell circuit is completely disconnected.
 **Correction:** Local action is prevented by **amalgamation**. The zinc plate is rubbed with mercury to form a uniform coating called a zinc amalgam. The mercury covers up the impurities, preventing them from coming into contact with the acid, but still allows the pure zinc to dissolve and produce electricity.
 
-[IMAGE: A diagram of a simple voltaic cell. A glass beaker contains dilute H2SO4 (blue liquid). Two plates are partially submerged: a copper plate (labeled '+') and a zinc plate (labeled '-'). A wire connects them through a small lightbulb, which is glowing dimly. On the surface of the copper plate, many small bubbles (labeled 'Hydrogen bubbles causing polarization') are shown. On the zinc plate, small pits with tiny localized loops of current are shown (labeled 'Impurities causing local action'). Style: Clean flat textbook illustration, white background.]
+![A diagram of a simple voltaic cell showing copper and zinc electrodes submerged in a blue solution inside a beaker, connected to a glowing light bulb.](images/A30-01-simple-voltaic-cell.png)
 
 ## Compare different types of cells including solar cell
 
@@ -57,7 +57,7 @@ These are standard primary cells.
 3. **Leclanché Cell (Dry):** 
    This is the standard "dry cell" used in torchlights, radios, and remote controls. It works on the same principle as the wet Leclanché cell but uses a moist paste of ammonium chloride instead of a liquid. The zinc acts as both the negative electrode and the outer container. The e.m.f is about $1.5\ \text{V}$.
 
-[IMAGE: Cross-section of a dry Leclanché cell (torch battery). A cylindrical zinc casing (labeled 'Zinc case / negative terminal') holds a central black rod (labeled 'Carbon rod / positive terminal') fitted with a metal cap. Around the carbon rod is a dark stippled region (labeled 'Mixture of MnO2 and carbon powder (depolarizer)'). Between this mixture and the zinc case is a lighter stippled region (labeled 'Ammonium chloride paste (electrolyte)'). Clean flat textbook style, white background.]
+![Cross section illustration of a dry Leclanche cell battery revealing the central carbon rod, surrounding dark mixture, light electrolyte layer, and outer casing.](images/A30-02-dry-cell-cross-section.png)
 
 ### Secondary accumulators and modern cells
 
@@ -123,7 +123,7 @@ In a parallel arrangement, all the positive terminals are joined together to for
 * **Total e.m.f:** For $n$ identical cells in parallel, the total e.m.f is just the e.m.f of ONE cell: $E_{\text{total}} = E$.
 * **Total internal resistance:** Since the internal resistances are in parallel, $r_{\text{total}} = \frac{r}{n}$.
 
-[IMAGE: Two circuit diagrams side by side. Left diagram (labeled 'Cells in Series'): Three battery symbols connected end-to-end (- to +), with total voltage shown as 3E. Right diagram (labeled 'Cells in Parallel'): Three battery symbols arranged vertically, with all positive ends connected to one common top wire and all negative ends to one common bottom wire, with total voltage shown as E. Clean flat textbook style, white background.]
+![Diagram comparing three cells connected in series providing a total voltage of 3E versus three cells connected in parallel providing a total voltage of E.](images/A30-03-cells-series-parallel-circuit.png)
 
 ## Solve problems involving series and parallel combination of cells
 

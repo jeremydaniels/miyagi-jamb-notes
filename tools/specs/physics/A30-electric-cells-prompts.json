@@ -1,0 +1,14 @@
+[
+ [
+  "A30-01-simple-voltaic-cell",
+  "A diagram of a simple voltaic cell. A glass beaker contains dilute H2SO4 (blue liquid). Two plates are partially submerged: a copper plate and a zinc plate. A wire connects them through a small lightbulb, which is glowing dimly. On the surface of the copper plate, many small bubbles are shown. On the zinc plate, small pits with tiny localized loops of current are shown. Style: Clean flat textbook illustration, white background."
+ ],
+ [
+  "A30-02-dry-cell-cross-section",
+  "Cross-section of a dry Leclanché cell (torch battery). A cylindrical zinc casing holds a central black rod fitted with a metal cap. Around the carbon rod is a dark stippled region'). Between this mixture and the zinc case is a lighter stippled region')."
+ ],
+ [
+  "A30-03-cells-series-parallel-circuit",
+  "Two circuit diagrams side by side. Left diagram: Three battery symbols connected end-to-end (- to +), with total voltage shown as 3E. Right diagram: Three battery symbols arranged vertically, with all positive ends connected to one common top wire and all negative ends to one common bottom wire, with total voltage shown as E."
+ ]
+]

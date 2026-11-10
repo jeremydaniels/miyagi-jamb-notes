@@ -55,7 +55,7 @@ Before 1948, the white government passed several harsh segregation laws, laying 
 
 Although segregation was already harsh, it was disorganised. It was only after the **1948 election** that segregation was turned into a rigid, structured, and brutal legal system called Apartheid.
 
-[IMAGE: Map of South Africa in the early 20th century, highlighting the 13% of land allocated as "Native Reserves" by the Land Acts, contrasted with the vast 87% "White areas" containing all major cities, mines, and fertile farmland. The style should be a clean, flat textbook map on a white background with clear legends.]
+![Map of South Africa depicting land segregation under the Land Acts, contrasting 87 percent White areas containing major cities with 13 percent allocated Native Reserves.](images/G4-01-historical-land-allocation-map.png)
 
 ## Rise of Afrikaner Nationalism
 
@@ -111,7 +111,7 @@ The core Apartheid laws can be grouped into four categories:
 * **The Suppression of Communism Act (1950):** Defined "communism" so broadly that it included any action aimed at causing political, industrial, or social change in South Africa. The government used it to ban anti-apartheid organisations and silence critics without trial.
 * **The Promotion of Bantu Self-Government Act (1959):** This law aimed to strip black South Africans of their citizenship entirely. It divided the black population into ten distinct ethnic groups and assigned each a rural "Homeland" or **Bantustan**. The government claimed these homelands would eventually become independent countries. In reality, they were overcrowded, impoverished rural dumping grounds where families of migrant workers were forced to live.
 
-[IMAGE: A detailed diagram showing the cover and inside pages of a 'Dompas' (Passbook). The pages should show a photograph, fingerprint spaces, a race classification stamp, and columns for an employer's monthly signature. Labels pointing out "Racial Classification", "Employer's Stamp", and "Permission to remain in urban area". Clean, flat textbook style.]
+![A textbook diagram depicting an open passbook alongside its front cover, showing an ID photograph, fingerprints, an official stamp, and a monthly employer signature log.](images/G4-02-historical-document-passbook.png)
 
 ## Internal reactions to Apartheid and the suppression of African Nationalist movements
 
@@ -227,7 +227,7 @@ Despite political freedom, post-Apartheid South Africa faces severe, ongoing cha
 * **Health and the HIV/AIDS Crisis:** In the late 1990s and early 2000s, South Africa faced a massive HIV/AIDS epidemic. The crisis was made worse by early government denial (especially under President Thabo Mbeki, who delayed providing life-saving ARV drugs). Today, South Africa has the largest HIV treatment programme in the world.
 * **Corruption:** Governance has been hampered by serious corruption scandals. During the presidency of Jacob Zuma (2009–2018), a massive corruption network known as "State Capture" severely damaged state-owned enterprises and public trust.
 
-[IMAGE: A comparative split graphic. Left side: A black and white photo-style illustration of a long queue of black voters wrapping around a field on April 27, 1994, with smiling faces. Right side: A modern color illustration of a sprawling South African landscape, showing wealthy suburbs with swimming pools right next to a crowded township of tin shacks, symbolizing the ongoing economic inequality. Clean textbook style.]
+![Split illustration comparing a 1994 South African voting queue in black and white with a modern color view of wealthy suburbs adjacent to an informal settlement.](images/G4-04-comparative-socio-political.png)
 
 ## Key terms
 

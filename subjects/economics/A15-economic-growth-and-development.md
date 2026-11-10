@@ -53,7 +53,7 @@ A country can experience economic growth without economic development. For examp
 | **Focus** | Focuses on increased production of goods and services. | Focuses on poverty reduction, wealth distribution, and social welfare. |
 | **Occurrence** | Can happen in a short time (e.g., due to a boom in oil prices). | Is a long-term, gradual process. |
 
-[IMAGE: A conceptual balance scale illustration. On the left side labelled "Economic Growth", a simple upward-trending line graph and stacks of coins (representing quantitative output). On the right side labelled "Economic Development", a collection of icons including a graduation cap (education), a medical cross (healthcare), a tap with clean water, and an upward line graph (representing qualitative lifestyle improvements plus growth). Clean flat textbook style, white background.]
+![A balance scale with an upward line graph and stacks of coins on the left, balanced by icons of education, healthcare, clean water, and growth on the right.](images/A15-01-economic-growth-vs-development.png)
 
 ## Indicators of growth and development
 
@@ -180,7 +180,7 @@ Despite having many well-written plans over the decades, Nigeria has struggled t
 4. **Over-reliance on Oil Revenue:** Most Nigerian plans are budgeted based on expected crude oil earnings. When global oil prices crash, the government runs out of money to fund the plan.
 5. **Corruption:** Funds allocated for specific projects in the development plan are often embezzled, leaving projects abandoned (white elephant projects).
 
-[IMAGE: An organization chart or flowchart representing the hurdles of a Development Plan. Start at the top with "Development Plan Goals (Job creation, Infrastructure, Education)". Arrows point down towards a box labelled "Implementation Phase", but the arrows are blocked by red bricks labeled "Corruption", "Lack of Accurate Data", "Policy Somersault", and "Reliance on Oil Revenue". At the bottom, a broken gear wheel representing "Stalled Economic Development". Clean flat textbook style, white background.]
+![Flowchart depicting Development Plan Goals blocked by corruption, data deficiencies, policy changes, and oil dependency before reaching implementation, resulting in stalled economic development.](images/A15-02-development-plan-obstacles-flowchart.png)
 
 ## Key terms
 

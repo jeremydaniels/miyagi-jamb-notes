@@ -278,7 +278,7 @@ Darwin's theory is based on a series of **observations** and **deductions** (con
 
 **Note:** the phrase "**survival of the fittest**" was first used by the British philosopher **Herbert Spencer** in 1864; Darwin adopted it in later editions of his book. "Fittest" means **best adapted to reproduce successfully in a particular environment**, not necessarily strongest or healthiest.
 
-[IMAGE: Flow chart of Darwin's theory of natural selection with seven boxes linked by downward arrows, each with a simple icon. 1: a frog surrounded by many eggs (overproduction). 2: a graph with a flat line (population stays constant). 3: two antelopes competing for a small patch of grass, a lion in the background (struggle for existence). 4: a row of five antelopes with slightly different leg lengths and colours (variation). 5: the faster antelopes escaping a lion while a slower one is caught (survival of the fittest). 6: a fast antelope with its young (inheritance of favourable variations). 7: a branching tree with a new species at the end of a branch (origin of new species). Labels to add later: "1 Overproduction", "2 Population stays fairly constant", "3 Struggle for existence", "4 Variation", "5 Survival of the fittest (natural selection)", "6 Favourable variations inherited", "7 New species over many generations". Clean flat textbook style, white background.]
+![A vertical flow chart outlining Darwin's theory of natural selection in seven numbered steps, each with an illustrative diagram, explanatory text, and linking downward arrows.](images/E1-06-natural-selection-flowchart.png)
 
 ### Darwin's explanation of the giraffe's neck
 

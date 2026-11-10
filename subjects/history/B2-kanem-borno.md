@@ -51,7 +51,7 @@ Al-Kanemi mobilized armed support to fight off the Fulani, but he also wrote a f
 
 Ultimately, al-Kanemi's military leadership successfully drove the Fulani out of Ngazargamu and secured Borno's independence. Borno never became part of the Sokoto Caliphate, though the western parts of its territory were lost to Sokoto.
 
-[IMAGE: A map showing the northern Nigeria area in the early 19th century. To the west and centre is the large Sokoto Caliphate shaded in green. To the northeast, around Lake Chad, is the Kanem-Borno Empire shaded in yellow. A red arrow points from the Sokoto Caliphate eastwards into Borno, representing the Fulani attacks. Two star markers show the locations of Ngazargamu and Kukawa near Lake Chad. Labels to add later: "Sokoto Caliphate", "Kanem-Borno", "Lake Chad", "Ngazargamu", "Kukawa", "Fulani attacks". Clean flat textbook style, white background.]
+![A historical map of northern Nigeria displaying the Sokoto Caliphate, Kanem-Borno, Lake Chad, key towns Ngazargamu and Kukawa, and an arrow marking Fulani attacks.](images/B2-01-map-northern-nigeria-th.png)
 
 ## The collapse of the Saifawa dynasty
 
@@ -128,7 +128,7 @@ Rabeh's aggressive expansion eventually led to a clash with the French, who were
 
 Following Rabeh's death, the European powers (Britain, France, and Germany) partitioned Borno among themselves. The British eventually restored a member of the al-Kanemi dynasty as the Shehu of British Borno, but only as a traditional ruler under British colonial control.
 
-[IMAGE: A timeline spanning 1800 to 1900. 1804-1808: Fulani Jihadists attack Borno; Ngazargamu captured. 1814: Al-Kanemi builds Kukawa. 1846: Saifawa dynasty officially ends; Umar becomes Shehu. 1893: Rabeh invades Borno and destroys Kukawa. 1900: Rabeh is killed by the French at Kousseri. Clean flat textbook style, white background.]
+![A vertical timeline of Borno from 1800 to 1900 showing key events including jihadist attacks, the founding of Kukawa, dynastic changes, and Rabeh invasion.](images/B2-02-timeline-th-century-borno.png)
 
 ## Key terms
 

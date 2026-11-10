@@ -1,0 +1,31 @@
+{
+ "template": "timeline",
+ "title": "Borno Timeline (1800-1900)",
+ "events": [
+  {
+   "when": "1804-1808",
+   "title": "Fulani Jihadists Attack",
+   "text": "Attack on Borno; Ngazargamu captured"
+  },
+  {
+   "when": "1814",
+   "title": "Kukawa Founded",
+   "text": "Al-Kanemi builds Kukawa"
+  },
+  {
+   "when": "1846",
+   "title": "Saifawa Dynasty Ends",
+   "text": "Dynasty ends; Umar becomes Shehu"
+  },
+  {
+   "when": "1893",
+   "title": "Rabeh Invades",
+   "text": "Rabeh invades Borno and destroys Kukawa"
+  },
+  {
+   "when": "1900",
+   "title": "Battle of Kousseri",
+   "text": "Rabeh killed by the French"
+  }
+ ]
+}

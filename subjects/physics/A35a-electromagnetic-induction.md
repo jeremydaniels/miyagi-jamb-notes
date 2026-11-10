@@ -58,7 +58,7 @@ where:
 * $\frac{\Delta \Phi}{\Delta t}$ is the rate of change of magnetic flux, in Webers per second ($\text{Wb s}^{-1}$).
 * The negative sign is a mathematical representation of Lenz's law.
 
-[IMAGE: A simple diagram showing a bar magnet with its North pole being pushed toward a solenoid (coil of wire). The coil is connected to a sensitive galvanometer, which has its needle deflected to the right, showing an induced current. Small arrows show the magnetic field lines from the North pole cutting the loops of the coil. Style: Clean flat textbook illustration, white background.]
+![A diagram demonstrating electromagnetic induction as a bar magnet is pushed toward a wire coil connected to a galvanometer, causing its needle to deflect right.](images/A35a-01-electromagnetic-induction-experiment-apparatus.png)
 
 ### 2. Lenz’s Law
 

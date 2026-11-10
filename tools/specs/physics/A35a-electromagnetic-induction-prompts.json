@@ -14,5 +14,9 @@
  [
   "A35a-05-induction-coil-circuit",
   "Circuit diagram of an induction coil. A central iron core has a primary coil (few turns) connected in series with a battery and a mechanical interrupter switch (an armature and contact screw). A capacitor is wired in parallel across the interrupter contacts. Around the primary is a secondary coil with many turns, leading to an open spark gap. Style: Clean flat textbook illustration, white background."
+ ],
+ [
+  "A35a-01-electromagnetic-induction-experiment-apparatus",
+  "A simple diagram showing a bar magnet with its North pole being pushed toward a solenoid (coil of wire). The coil is connected to a sensitive galvanometer, which has its needle deflected to the right, showing an induced current. Small arrows show the magnetic field lines from the North pole cutting the loops of the coil. Style: Clean flat textbook illustration, white background."
  ]
 ]

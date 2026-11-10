@@ -27,7 +27,7 @@ A major feature of the Second Republic was the introduction of a new constitutio
 | **The Executive and the Legislature** | The Prime Minister and ministers were members of the parliament. | The Executive was separate from the Legislature. Ministers were not members of the National Assembly. |
 | **Elections** | The leader of the party with the most seats in parliament became Prime Minister. | The President was elected directly by the whole country and had to win at least 25% of the votes in two-thirds of the 19 states. |
 
-[IMAGE: A comparative flowchart illustrating the Parliamentary system and the Presidential system. On the left (First Republic), a box for Parliament points down to the Prime Minister and Cabinet, showing they are drawn from the legislature. On the right (Second Republic), the Electorate points separately to the Executive President and the National Assembly (Senate and House of Representatives), showing the separation of powers. Clean flat textbook style, white background.]
+![A flowchart comparing parliamentary and presidential systems, showing the legislature choosing the prime minister versus voters separately electing the president and the national assembly.](images/D5-01-parliamentary-vs-presidential-system.png)
 
 ## Party Politics in the Second Republic
 
@@ -63,7 +63,7 @@ Despite its short life and later collapse, the government of the Second Republic
    - New federal highways and river basin development authorities were constructed.
 5. **Education:** Several new Federal Universities of Technology were established across the country (such as those in Bauchi, Makurdi, and Owerri), and the UPN-controlled states implemented free primary and secondary education programs.
 
-[IMAGE: A timeline of the Second Republic, 1979–1983. 1979: Shagari sworn in, new 1979 Constitution begins. 1980: Green Revolution launched. 1981: NPN-NPP Accord breaks down; Impeachment of Balarabe Musa. 1982: Economic Stabilization Act (Austerity Measures) introduced. 1983: General elections held (August); Military coup ends the Republic (December 31). Clean flat textbook style, white background.]
+![A vertical timeline from 1979 to 1983 summarizing key events of Nigeria Second Republic, from inauguration to the military coup.](images/D5-02-timeline-historical-events.png)
 
 ## Challenges of the Second Republic
 

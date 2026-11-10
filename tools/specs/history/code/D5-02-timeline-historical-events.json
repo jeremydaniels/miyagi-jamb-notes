@@ -1,0 +1,31 @@
+{
+ "template": "timeline",
+ "title": "The Second Republic (1979–1983)",
+ "events": [
+  {
+   "when": "1979",
+   "title": "Inauguration of Second Republic",
+   "text": "Shagari sworn in; 1979 Constitution begins"
+  },
+  {
+   "when": "1980",
+   "title": "Green Revolution",
+   "text": "Agricultural programme launched"
+  },
+  {
+   "when": "1981",
+   "title": "Political Crises",
+   "text": "NPN-NPP Accord collapses; Balarabe Musa impeached"
+  },
+  {
+   "when": "1982",
+   "title": "Austerity Measures",
+   "text": "Economic Stabilization Act introduced"
+  },
+  {
+   "when": "1983",
+   "title": "Elections & Military Coup",
+   "text": "August elections; Republic ends December 31"
+  }
+ ]
+}

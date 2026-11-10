@@ -1,0 +1,65 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Comparison of Parliamentary and Presidential Systems",
+ "nodes": [
+  {
+   "id": "parl_elec",
+   "text": "Electorate\n(Voters)",
+   "shape": "oval",
+   "color": "lightgray"
+  },
+  {
+   "id": "parliament",
+   "text": "Parliament\n(Legislature)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "pm_cabinet",
+   "text": "Prime Minister\n& Cabinet (Executive)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "pres_elec",
+   "text": "Electorate\n(Voters)",
+   "shape": "oval",
+   "color": "lightgray"
+  },
+  {
+   "id": "president",
+   "text": "Executive President\n(Head of State & Govt)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "nat_assembly",
+   "text": "National Assembly\n(Senate & House of Reps)",
+   "shape": "box",
+   "color": "lightgreen"
+  }
+ ],
+ "edges": [
+  {
+   "from": "parl_elec",
+   "to": "parliament",
+   "label": "elects"
+  },
+  {
+   "from": "parliament",
+   "to": "pm_cabinet",
+   "label": "drawn from / accountable to"
+  },
+  {
+   "from": "pres_elec",
+   "to": "president",
+   "label": "elects directly"
+  },
+  {
+   "from": "pres_elec",
+   "to": "nat_assembly",
+   "label": "elects separately"
+  }
+ ]
+}

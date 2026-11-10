@@ -62,7 +62,7 @@ Sir Arthur Richards designed this constitution to promote the unity of Nigeria w
 5. **Unofficial Majority:** The central Legislative Council was expanded and, for the first time, had a majority of "unofficial" members (Nigerians) over the official British members. 
 6. **Reduced Franchise:** The income qualification for voting in Lagos and Calabar was reduced from £100 to **£50**.
 
-[IMAGE: A map of Nigeria divided into three bold distinct sections: Northern Region (largest, top), Western Region (bottom left), and Eastern Region (bottom right). The boundaries should be clear. Labels to add later: "Northern Region", "Western Region", "Eastern Region", "Foundation of Regionalism (1946)". Clean flat textbook style, white background.]
+![Map of Nigeria divided into three sections: Northern Region at the top, Western Region at the bottom left, and Eastern Region at the bottom right.](images/B4-02-map-nigeria-three-regions.png)
 
 ### Merits and demerits of the Richards Constitution
 

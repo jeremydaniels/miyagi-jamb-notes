@@ -51,7 +51,7 @@ Ecologists describe each interaction by its effect on each of the two partners:
 
 **Textbook variation:** some books write amensalism as "− and 0" and others as "0 and −"; the order of the two partners does not matter. Neutralism is not in the JAMB syllabus but appears in many textbooks.
 
-[IMAGE: A chart with eight small paired-organism panels arranged in two rows, each showing an interaction and its symbols. (1) Root nodules on a groundnut root with tiny bacteria inside, symbols "+ +". (2) An oxpecker bird on a cow's back, "+ +". (3) A remora fish attached under a shark, "+ 0". (4) A tapeworm inside a section of human intestine, "+ −". (5) A hawk catching a chick, "+ −". (6) A Penicillium mould colony with a clear zone in a dish of bacteria, "0 −". (7) A weed and a maize plant with their roots tangled, "− −". (8) An earthworm in soil below a grasshopper on grass, "0 0". Labels: "mutualism", "cooperation", "commensalism", "parasitism", "predation", "amensalism", "competition", "neutralism". Soft greens, blues and browns. Clean flat textbook style, white background.]
+![Textbook chart illustrating eight biological interactions across two rows with symbolic effects: mutualism, cooperation, commensalism, parasitism, predation, amensalism, competition, and neutralism with simple paired diagrams.](images/C2-01-symbiotic-interactions-comparison-chart.png)
 
 ### Symbiosis
 
@@ -351,7 +351,7 @@ Competition is a major cause of **natural selection** and is linked to **success
 
 The predator peak usually comes a little **after** the prey peak. In this way, predators help to keep prey populations in check (natural **biological control**). This idea is used in **biological control** of pests: for example, a small wasp was introduced into Nigeria and other African countries to control the cassava mealybug, a serious pest.
 
-[IMAGE: A line graph of predator and prey numbers over time. Horizontal axis: "time". Vertical axis: "number of organisms". A blue wavy line for prey (higher peaks) and a red wavy line for predators (lower peaks), with each red peak occurring a little after the blue peak before it. Small icons beside the lines: grasshoppers or rats for prey, a hawk or owl for predators. Labels: "prey population", "predator population", "predator peak follows prey peak", "time", "number of organisms". Soft blue and soft red lines. Clean flat textbook style, white background.]
+![Line graph showing predator and prey populations over time, where fluctuating prey numbers peak higher and just before predator numbers peak.](images/C2-06-predator-prey-population-curves.png)
 
 ### Summary table: examples of each interaction
 
@@ -778,7 +778,7 @@ According to the Intergovernmental Panel on Climate Change (IPCC, 2021), the Ear
 5. Use energy efficiently (efficient stoves, vehicles and appliances).
 6. Recycle waste and manage landfills to reduce methane.
 
-[IMAGE: Diagram of the greenhouse effect. The sun at the top left sends yellow arrows (short-wave sunlight) through a curved band representing the atmosphere down to the Earth's surface (a landscape with fields, a city and factories). Red wavy arrows (infra-red heat) rise from the surface; some escape into space, while others are absorbed by the atmosphere band (dotted with small gas molecules) and bounced back down to the surface. On the ground, small sources of greenhouse gases: a car exhaust, a factory chimney, a gas flare, cattle, a burning forest. Labels: "sunlight (short-wave radiation)", "Earth's surface absorbs heat", "infra-red (heat) radiation", "some heat escapes to space", "greenhouse gases trap heat", "atmosphere", "CO2 from burning fuels", "gas flaring", "methane from cattle", "deforestation and burning". Soft yellows, oranges and blues. Clean flat textbook style, white background.]
+![Greenhouse effect diagram showing incoming solar radiation passing through the atmosphere, surface emission of infrared radiation, trapped heat bouncing back, and human and natural emission sources.](images/C2-11-greenhouse-effect-schematic.png)
 
 ## The water cycle
 
@@ -799,7 +799,7 @@ Water is essential for life. It makes up about 70% or more of the body of most o
 
 The cycle then repeats.
 
-[IMAGE: A water cycle diagram in a Nigerian landscape. Left: the sea with wavy arrows rising (evaporation) to form clouds. Centre: clouds moving inland over hills with rain falling. Right: a forest with arrows rising from the leaves (transpiration), a river flowing back to the sea (run-off), water soaking into the ground and moving downwards to a layer of groundwater, and a well or borehole. A cow drinking at the river and a person sweating, with small arrows showing water vapour. The sun at the top left. Labels: "sun", "evaporation", "transpiration", "condensation (clouds)", "precipitation (rain)", "run-off", "infiltration", "percolation", "groundwater", "river", "sea", "uptake by plant roots", "water lost by animals (breathing, sweating, urine)". Soft blues and greens. Clean flat textbook style, white background.]
+![Diagram illustrating the water cycle across a landscape, showing evaporation from the sea, cloud condensation, precipitation, transpiration, surface runoff, infiltration, groundwater, and animal water loss.](images/C2-12-hydrological-cycle-flow.png)
 
 ### Effects of the water cycle on other nutrient cycles
 

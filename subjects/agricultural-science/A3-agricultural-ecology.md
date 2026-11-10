@@ -108,7 +108,7 @@ The environmental factors that affect farming are broadly divided into two main 
 | **Examples** | Rainfall, temperature, sunlight, relative humidity, wind, soil pH, soil texture, slope of the land. | Insects, rodents, birds, ticks, tapeworms, bacteria, fungi, viruses, earthworms, bees. |
 | **Mode of effect** | They determine which crops or animals can survive in an area and regulate their physiological processes (e.g., photosynthesis, transpiration). | They interact directly with the crop or animal (e.g., feeding on them, causing disease, competing for nutrients, or helping them). |
 
-[IMAGE: A split diagram titled "Factors affecting a maize plant". Left side (Abiotic factors): A bright sun with rays pointing to the leaves (Light/Temperature), a rain cloud with raindrops (Rainfall), wavy lines blowing the stalk (Wind), and a cutaway of the soil showing layers and water droplets (Soil texture/Moisture). Right side (Biotic factors): A caterpillar chewing a leaf (Pest), a weed growing next to the maize (Competition), spots on a leaf with a magnified fungal spore (Disease), and an earthworm in the soil (Beneficial soil organism). Clean flat textbook style, white background.]
+![Split diagram showing abiotic factors affecting a maize plant on the left including sun, rain, wind, and soil moisture, and biotic factors on the right including pests, weeds, disease, and earthworms.](images/A3-02-factors-affecting-maize-plant.png)
 
 #### Effects of abiotic factors
 

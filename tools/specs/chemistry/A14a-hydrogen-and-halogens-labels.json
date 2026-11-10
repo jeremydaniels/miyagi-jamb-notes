@@ -1,7 +1,7 @@
 {
  "A14a-01-hydrogen-gas-laboratory-preparation": {
   "regions": [
-   "dilute HCl or H\u2082SO\u2084",
+   "dilute HCl or H₂SO₄",
    "hydrogen gas collected over water"
   ],
   "labels": [
@@ -14,7 +14,7 @@
     "L"
    ],
    [
-    "dilute HCl or H\u2082SO\u2084",
+    "dilute HCl or H₂SO₄",
     [
      380,
      708
@@ -48,43 +48,43 @@
   ]
  },
  "A14a-02-chlorine-gas-laboratory-preparation": {
-  "caption_below": "Heat and downward delivery.",
   "regions": [
    "water (removes HCl fumes)",
-   "conc H\u2082SO\u2084 (dries the gas)",
+   "conc H₂SO₄ (dries the gas)",
    "dry chlorine gas",
-   "MnO\u2082 + conc HCl"
+   "MnO₂ + conc HCl"
   ],
+  "caption_below": "Heat and downward delivery.",
   "labels": [
    [
-    "MnO\u2082 + conc HCl",
+    "MnO₂ + conc HCl",
     [
-     218,
-     571
+     231,
+     612
     ],
     "L"
    ],
    [
     "water (removes HCl fumes)",
     [
-     492,
-     811
+     498,
+     828
     ],
     "L"
    ],
    [
-    "conc H\u2082SO\u2084 (dries the gas)",
+    "conc H₂SO₄ (dries the gas)",
     [
-     654,
-     816
+     703,
+     830
     ],
     "R"
    ],
    [
     "dry chlorine gas",
     [
-     865,
-     762
+     887,
+     705
     ],
     "R"
    ]

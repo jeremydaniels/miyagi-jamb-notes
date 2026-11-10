@@ -78,7 +78,7 @@ Levers are classified into three orders (or classes) based on the relative posit
 | **Second-class** | Load is between Fulcrum and Effort | Always $> 1$ | Wheelbarrow, nutcracker, bottle opener |
 | **Third-class** | Effort is between Fulcrum and Load | Always $< 1$ | Tweezers, forceps, broom, human forearm |
 
-[IMAGE: A first-class, second-class, and third-class lever placed vertically. Top panel: A horizontal bar (First-class lever) with a triangular Fulcrum in the middle. An Effort arrow pushes down on the left end, and a Load weight is on the right end. Middle panel: A horizontal bar (Second-class lever) with a triangular Fulcrum at the far left. A Load weight is in the middle, and an Effort arrow pulls up on the right end. Bottom panel: A horizontal bar (Third-class lever) with a triangular Fulcrum at the far left. An Effort arrow pulls up in the middle, and a Load weight is on the right end. Clean flat textbook illustration, white background.]
+![Diagram illustrating first-class, second-class, and third-class levers, showing the relative positions of the fulcrum, effort arrow, and load weight for each class.](images/A8-01-lever-classes.png)
 
 ### 2. The Pulley (Block and Tackle System)
 A pulley is a grooved wheel with a rope running around it. A system of fixed and movable pulleys used together is called a **block and tackle**. This is commonly used in Nigerian building sites to lift heavy concrete blocks.
@@ -86,7 +86,7 @@ A pulley is a grooved wheel with a rope running around it. A system of fixed and
 For a block and tackle system, the Velocity Ratio is simply **the number of pulleys in the system** (or the number of rope segments supporting the movable load block).
 $$VR = n \quad (\text{where } n \text{ is the number of pulleys})$$
 
-[IMAGE: A simple block and tackle system showing two fixed pulleys in an upper block and two movable pulleys in a lower block. A rope is threaded through them, with one end attached to the bottom of the upper block, winding down to a lower pulley, up to an upper pulley, and so on, terminating in a downward pull arrow labelled 'Effort (E)'. A heavy crate hangs from the lower block, labelled 'Load (L)'. The four vertical rope segments supporting the movable block should be clearly visible. Clean flat textbook illustration, white background.]
+![A diagram of a block and tackle system with two fixed and two movable pulleys, showing four supporting rope segments, a load, and effort.](images/A8-02-block-tackle-pulley.png)
 
 ### 3. The Inclined Plane
 An inclined plane (a slope or ramp) is used to raise heavy objects, such as pushing a drum of palm oil into the back of a lorry. 
@@ -103,14 +103,14 @@ The distance between two consecutive threads is called the **pitch** ($p$). When
 $$VR = \frac{2\pi r}{p}$$
 *Note: Because screw jacks have a very large VR, they usually have very low efficiencies (less than 50%). This is actually a design feature: an efficiency below 50% ensures the jack is "self-locking" and will not unwind under the weight of the car when you let go of the handle.*
 
-[IMAGE: A simple screw jack. The main threaded screw has threads separated by a distance labelled 'Pitch (p)'. At the top of the screw is a horizontal handle (tommy bar) of length 'r'. A downward arrow at the end of the handle is labelled 'Effort (E)', and a large weight resting on top of the jack is labelled 'Load (L)'. Clean flat textbook illustration, white background.]
+![Diagram of a simple screw jack supporting a Load L at the top, operated by an Effort E applied to a horizontal handle of length r, with thread Pitch p indicated.](images/A8-04-screw-jack-mechanics.png)
 
 ### 5. The Wheel and Axle
 This consists of a large wheel of radius $R$ attached to a smaller axle of radius $r$, turning together on the same shaft. It is commonly used in steering wheels or manual winches used to draw water from deep boreholes.
 $$VR = \frac{\text{Radius of Wheel}}{\text{Radius of Axle}} = \frac{R}{r} = \frac{D}{d}$$
 *(Where $D$ and $d$ are the diameters of the wheel and axle, respectively).*
 
-[IMAGE: A wheel and axle machine shown as two concentric cylinders on a common shaft. The large cylinder (Wheel) has radius 'R', with a rope wrapped around it and an arrow pointing down labelled 'Effort (E)'. The small cylinder (Axle) has radius 'r', with a separate rope wrapped in the opposite direction and an attached weight labelled 'Load (L)'. Clean flat textbook illustration, white background.]
+![Diagram of a wheel and axle machine showing concentric circles with radii R and r, an effort rope on the wheel, and a load on the axle.](images/A8-05-wheel-axle.png)
 
 ### 6. Gears
 Gears are toothed wheels. When two gears interlock, the larger wheel with more teeth drives the smaller one, or vice-versa. 

@@ -70,7 +70,7 @@ The British built infrastructure not to connect Nigerian communities to one anot
 - **Roads:** The government built "feeder roads." These were dirt or laterite roads designed to connect agricultural villages to the nearest railway stations. 
 - **Harbours (Ports):** Deep-water ports were developed at **Lagos (Apapa)** and **Port Harcourt** so that large European steamships could dock and load raw materials. Port Harcourt was completely built from scratch by the British specifically for exporting coal.
 
-[IMAGE: A map of colonial Nigeria showing the railway network. Two main lines run from the coast to the north. The Western line goes from Lagos through Ibadan, Ilorin, and Minna to Kano. The Eastern line goes from Port Harcourt through Enugu and Makurdi to Kaduna, where it joins the Western line. Dotted lines representing feeder roads branch off from the railway stations into the surrounding areas. Labels to add later: "Lagos", "Port Harcourt", "Enugu (Coal)", "Kano (Groundnut)", "Western Railway Line", "Eastern Railway Line". Clean flat textbook style, white background.]
+![Diagram showing the colonial Nigerian railway network with Western and Eastern lines connecting coastal ports to northern regions, including dotted lines representing feeder roads.](images/C4-02-map-colonial-railway-network.png)
 
 ### Post and Telecommunications
 The British established a postal system and laid **telegraph lines** across the country. 

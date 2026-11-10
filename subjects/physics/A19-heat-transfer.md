@@ -51,7 +51,7 @@ Radiation is the transfer of heat in the form of electromagnetic waves (specific
 | **Speed of transfer** | Slow | Moderate | Very fast (speed of light: $3 \times 10^8\ \text{m s}^{-1}$) |
 | **Example** | An iron rod left in a fire getting hot at the other end | Boiling water; warm air rising above a fire | Feeling the heat of the sun or a campfire from a distance |
 
-[IMAGE: A three-part illustration. Left: a hand holding a metal rod with its tip in a campfire (labeled "Conduction"). Middle: arrows showing water circulating in a pot over the fire, with warm water rising and cool water sinking (labeled "Convection"). Right: wavy lines carrying heat directly from the fire to a pair of hands held beside it (labeled "Radiation"). Clean flat textbook illustration, white background.]
+![Three-part science diagram demonstrating heat transfer methods: conduction through a metal rod in fire, convection currents in a heated pot of water, and radiation warming hands near flames.](images/A19-01-modes-heat-transfer.png)
 
 ---
 
@@ -197,7 +197,7 @@ The thermos flask (or vacuum flask) is a device designed to keep hot liquids hot
 2. **Silvered Walls:** The inner surfaces of the double walls facing the vacuum are coated with a shiny silver layer. **Function:** Shiny surfaces are poor emitters and poor absorbers. This minimises heat transfer by **radiation**. Heat from a hot liquid is reflected back inward, and heat from the outside is reflected away.
 3. **Cork or Plastic Stopper (and support pads):** The top of the flask is sealed with a stopper, and the inner glass bottle rests on pads. **Function:** Cork and plastic are insulators (poor conductors), which minimises **conduction** through the top and bottom. The stopper also seals the flask tightly to prevent hot air from escaping, stopping **convection** to the atmosphere.
 
-[IMAGE: A cross-sectional diagram of a thermos flask. Key labels: "Plastic stopper" at the top, "Double-walled glass vessel", "Vacuum" indicating the space between the walls, "Silvered inner surfaces" on the glass walls, "Cork support pad" at the bottom, and "Outer casing". Clean flat textbook illustration, white background.]
+![A cross-sectional diagram of a thermos flask showing the outer casing, stopper, double-walled vessel, insulating space, and bottom cork support pad.](images/A19-02-vacuum-thermos-flask-schematic.png)
 
 ---
 

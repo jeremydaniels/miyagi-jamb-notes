@@ -1,31 +1,25 @@
 {
  "A16b-01-lucas-test-test-tubes": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "1\u00b0 alkanol",
-    [
-     240,
-     684
-    ],
-    "L"
+    "1° alkanol",
+    264,
+    972
    ],
    [
-    "2\u00b0 alkanol",
-    [
-     517,
-     680
-    ],
-    "R"
+    "2° alkanol",
+    544,
+    972
    ],
    [
-    "3\u00b0 alkanol",
-    [
-     794,
-     684
-    ],
-    "R"
+    "3° alkanol",
+    821,
+    972
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "A16b-02-traditional-local-gin-distillation": {
   "caption_below": "Ethanol vapour.",

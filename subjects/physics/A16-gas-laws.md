@@ -139,7 +139,7 @@ $$\frac{P_1}{T_1} = \frac{P_2}{T_2}$$
 ### Graph of the Pressure Law
 A graph of Pressure ($P$) against absolute temperature ($T$ in Kelvin) is a straight line passing through the origin.
 
-[IMAGE: A graph for the Pressure Law on a clean white background. The vertical axis is Pressure (P) and the horizontal axis is Temperature (T) in Kelvin (K). A straight line passes through the origin (0,0) and slopes upwards to the right, indicating direct proportionality. Clear textbook style.]
+![Graph of Pressure versus Temperature in Kelvin displaying a straight line passing through the origin to illustrate direct proportionality according to the Pressure Law.](images/A16-03-pressure-law-p-t.png)
 
 **Worked Example 3: Pressure Law Calculation**
 A car tyre contains air at a pressure of $2.0 \times 10^5\ \text{Pa}$ at a temperature of $27\ ^\circ\text{C}$. After a long journey, the temperature of the air in the tyre rises to $57\ ^\circ\text{C}$. Calculate the new pressure, assuming the volume of the tyre is constant.

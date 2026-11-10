@@ -1,0 +1,93 @@
+{
+ "template": "graph",
+ "title": "Pressure Law (Gay-Lussac's Law)",
+ "x_label": "Temperature, T (K)",
+ "y_label": "Pressure, P",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "P ∝ T",
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     8,
+     8
+    ],
+    [
+     9.5,
+     9.5
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "points": [
+  {
+   "x": 0,
+   "y": 0,
+   "text": "Absolute Zero (0 K)",
+   "dx": 1.5,
+   "dy": 0.5
+  }
+ ],
+ "xticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   5,
+   "T₁"
+  ],
+  [
+   8,
+   "T₂"
+  ]
+ ],
+ "yticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   5,
+   "P₁"
+  ],
+  [
+   8,
+   "P₂"
+  ]
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "T₁",
+   "y_text": "P₁"
+  },
+  {
+   "x": 8,
+   "y": 8,
+   "x_text": "T₂",
+   "y_text": "P₂"
+  }
+ ]
+}

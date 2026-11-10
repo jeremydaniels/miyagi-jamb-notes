@@ -6,5 +6,9 @@
  [
   "A16-02-charles-law-v-t",
   "Two side-by-side graphs for Charles's Law on a clean white background. The left graph plots Volume (V) on the vertical axis against Temperature (T) in °C on the horizontal axis. It shows a straight line sloping upwards to the right. The line intersects the horizontal axis at a point labelled -273 °C (Absolute Zero) and is dashed just before it reaches that point. The right graph plots Volume (V) against Temperature (T) in Kelvin (K). It shows a straight line passing directly through the origin (0,0) and sloping upwards to the right. Clear textbook style."
+ ],
+ [
+  "A16-03-pressure-law-p-t",
+  "A graph for the Pressure Law on a clean white background. The vertical axis is Pressure (P) and the horizontal axis is Temperature (T) in Kelvin (K). A straight line passes through the origin (0,0) and slopes upwards to the right, indicating direct proportionality. Clear textbook style."
  ]
 ]

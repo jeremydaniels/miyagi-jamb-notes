@@ -493,5 +493,133 @@
     "R"
    ]
   ]
+ },
+ "C1-13-human-impact-ecosystems": {
+  "labels": [
+   [
+    "deforestation",
+    [
+     256,
+     128
+    ],
+    "L"
+   ],
+   [
+    "bush burning",
+    [
+     768,
+     128
+    ],
+    "R"
+   ],
+   [
+    "farming (monocropping and chemicals)",
+    [
+     256,
+     384
+    ],
+    "L"
+   ],
+   [
+    "urbanisation and roads",
+    [
+     768,
+     384
+    ],
+    "R"
+   ],
+   [
+    "dam and reservoir",
+    [
+     256,
+     640
+    ],
+    "L"
+   ],
+   [
+    "pollution (oil spill and gas flaring)",
+    [
+     768,
+     640
+    ],
+    "R"
+   ],
+   [
+    "overgrazing",
+    [
+     256,
+     896
+    ],
+    "L"
+   ],
+   [
+    "hunting",
+    [
+     768,
+     896
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-08-rain-gauge-apparatus": {
+  "labels": [
+   [
+    "rain",
+    [
+     523,
+     150
+    ],
+    "R"
+   ],
+   [
+    "funnel",
+    [
+     493,
+     369
+    ],
+    "L"
+   ],
+   [
+    "rim (level, above ground)",
+    [
+     497,
+     252
+    ],
+    "L"
+   ],
+   [
+    "outer cylinder",
+    [
+     379,
+     815
+    ],
+    "L"
+   ],
+   [
+    "collecting bottle",
+    [
+     501,
+     571
+    ],
+    "L"
+   ],
+   [
+    "ground level",
+    [
+     247,
+     555
+    ],
+    "L"
+   ],
+   [
+    "measuring cylinder (graduated in mm)",
+    [
+     726,
+     327
+    ],
+    "R"
+   ]
+  ]
  }
 }

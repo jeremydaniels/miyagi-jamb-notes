@@ -354,5 +354,289 @@
     "R"
    ]
   ]
+ },
+ "B1-01-dicot-root-transverse-section": {
+  "labels": [
+   [
+    "root hair",
+    [
+     107,
+     642
+    ],
+    "L"
+   ],
+   [
+    "piliferous layer",
+    [
+     131,
+     564
+    ],
+    "L"
+   ],
+   [
+    "cortex",
+    [
+     263,
+     689
+    ],
+    "L"
+   ],
+   [
+    "air space",
+    [
+     239,
+     661
+    ],
+    "L"
+   ],
+   [
+    "endodermis",
+    [
+     528,
+     713
+    ],
+    "R"
+   ],
+   [
+    "Casparian strip",
+    [
+     787,
+     186
+    ],
+    "R"
+   ],
+   [
+    "passage cell",
+    [
+     573,
+     312
+    ],
+    "R"
+   ],
+   [
+    "pericycle",
+    [
+     538,
+     338
+    ],
+    "R"
+   ],
+   [
+    "protoxylem",
+    [
+     369,
+     513
+    ],
+    "L"
+   ],
+   [
+    "metaxylem",
+    [
+     509,
+     514
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     421,
+     435
+    ],
+    "L"
+   ],
+   [
+    "conjunctive tissue",
+    [
+     445,
+     471
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B1-05-dicot-leaf-transverse-section": {
+  "labels": [
+   [
+    "cuticle",
+    [
+     528,
+     263
+    ],
+    "R"
+   ],
+   [
+    "upper epidermis",
+    [
+     483,
+     290
+    ],
+    "L"
+   ],
+   [
+    "palisade mesophyll",
+    [
+     602,
+     390
+    ],
+    "R"
+   ],
+   [
+    "chloroplast",
+    [
+     497,
+     393
+    ],
+    "L"
+   ],
+   [
+    "spongy mesophyll",
+    [
+     418,
+     619
+    ],
+    "L"
+   ],
+   [
+    "air space",
+    [
+     485,
+     564
+    ],
+    "L"
+   ],
+   [
+    "vein",
+    [
+     633,
+     609
+    ],
+    "R"
+   ],
+   [
+    "xylem",
+    [
+     633,
+     596
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     631,
+     640
+    ],
+    "R"
+   ],
+   [
+    "bundle sheath",
+    [
+     631,
+     677
+    ],
+    "R"
+   ],
+   [
+    "lower epidermis",
+    [
+     618,
+     800
+    ],
+    "R"
+   ],
+   [
+    "stoma",
+    [
+     505,
+     793
+    ],
+    "L"
+   ],
+   [
+    "guard cell",
+    [
+     472,
+     794
+    ],
+    "L"
+   ],
+   [
+    "substomatal air chamber",
+    [
+     492,
+     735
+    ],
+    "L"
+   ],
+   [
+    "midrib",
+    [
+     186,
+     498
+    ],
+    "L"
+   ],
+   [
+    "collenchyma",
+    [
+     200,
+     305
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B1-06-leaf-epidermis-stomata": {
+  "labels": [
+   [
+    "epidermal cell",
+    [
+     312,
+     473
+    ],
+    "L"
+   ],
+   [
+    "guard cell",
+    [
+     263,
+     322
+    ],
+    "L"
+   ],
+   [
+    "chloroplast",
+    [
+     353,
+     240
+    ],
+    "L"
+   ],
+   [
+    "stoma (open)",
+    [
+     320,
+     305
+    ],
+    "L"
+   ],
+   [
+    "stoma (closed)",
+    [
+     735,
+     314
+    ],
+    "R"
+   ],
+   [
+    "thick inner wall",
+    [
+     309,
+     310
+    ],
+    "L"
+   ]
+  ]
  }
 }

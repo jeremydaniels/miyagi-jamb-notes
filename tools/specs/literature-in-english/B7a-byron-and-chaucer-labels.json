@@ -1,0 +1,21 @@
+{
+ "B7a-01-poetic-contrast-day-night": {
+  "caption_below": "Harmony of light and dark, Gaudy day (rejected by poet), Cloudless, starry night (perfect balance)"
+ },
+ "B7a-02-nuns-priest-tale-fox": {
+  "caption_below": "Chauntecleer escapes to the tree as the fox tricked into opening his mouth",
+  "regions": [
+   "The poor widow's farm"
+  ],
+  "labels": [
+   [
+    "The poor widow's farm",
+    [
+     527,
+     592
+    ],
+    "R"
+   ]
+  ]
+ }
+}

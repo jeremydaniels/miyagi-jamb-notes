@@ -53,7 +53,7 @@ At that time Byron was a famous, fashionable and sometimes scandalous poet. The 
 2. **Fragile perfection:** "One shade the more, one ray the less, / Had half impaired the nameless grace." Her beauty is so perfectly balanced that a small change would spoil it.
 3. **Physical beauty reflects inner goodness:** In the last stanza the poem moves from face to character. Her calm, sweet expression shows "days in goodness spent", "a mind at peace with all below" and "a heart whose love is innocent".
 
-[IMAGE: A split conceptual illustration. On the left side, a harsh, overly bright sun (representing "gaudy day"). On the right side, a serene, cloudless night sky filled with bright stars (representing the balance of "dark and bright"). In the centre, the elegant silhouette of a woman in a long dark gown in early 19th-century style, with a soft glow around her face. Labels to add: "Gaudy day (rejected by poet)", "Cloudless, starry night (perfect balance)", "Harmony of light and dark". Clean flat textbook style, white background.]
+![A split illustration featuring a harsh bright sun on the left and a starry night sky on the right, with an elegant woman in a dark gown between them.](images/B7a-01-poetic-contrast-day-night.png)
 
 ### Poetic Techniques and Devices
 - **Simile:** The poem opens with a simile: *"She walks in beauty, like the night / Of cloudless climes and starry skies"*. Her beauty is compared to a clear, star-filled night.
@@ -111,7 +111,7 @@ The narrator ends by saying that all stories are to teach us: "take the fruit an
 - **The poor widow:** Humble, simple and temperate. Her plain way of life contrasts with the chickens' false, grand behaviour.
 - **The Nun's Priest (narrator):** Gentle, humorous and ironic; he comments on the story, and teases Chauntecleer and the audience.
 
-[IMAGE: A cartoon-style illustration showing the climax of the tale. A reddish-orange fox stands at the base of a large tree, looking up with a sly, frustrated expression. High up on a branch sits a magnificent golden rooster (Chauntecleer), looking down triumphantly. In the background, a small cottage and a widow with a distaff (spinning stick) and her daughters running after them. Labels to add: "Chauntecleer escapes to the tree", "The fox tricked into opening his mouth", "The poor widow's farm". Clean flat textbook style, white background.]
+![A cartoon illustration of a rooster perched safely high in a tree while a fox stands below, with a widow and her daughters chasing in the background.](images/B7a-02-nuns-priest-tale-fox.png)
 
 ### Themes
 1. **The danger of flattery and pride:** The core moral. Chauntecleer almost dies because he loves being praised, and the fox loses his meal because he, too, cannot resist boasting.

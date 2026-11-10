@@ -1,0 +1,47 @@
+{
+ "A32-01-electrical-power-grid-flowchart": {
+  "labels": [
+   [
+    "Power Station (11 kV)",
+    [
+     186,
+     292
+    ],
+    "L"
+   ],
+   [
+    "Step-up Transformer (330 kV)",
+    [
+     289,
+     596
+    ],
+    "L"
+   ],
+   [
+    "High Voltage Transmission Lines",
+    [
+     640,
+     294
+    ],
+    "R"
+   ],
+   [
+    "Step-down Substation (11 kV)",
+    [
+     775,
+     500
+    ],
+    "R"
+   ],
+   [
+    "Distribution to Homes (240 V)",
+    [
+     862,
+     828
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A32-02-electric-iron-internal": {}
+}

@@ -140,7 +140,7 @@ To transmit a given amount of power ($P_{\text{transmitted}} = IV$), if we reduc
 3. **Transmission:** The high-voltage electricity travels through the national grid cables supported by tall metal pylons.
 4. **Step-down Transformer:** Before entering cities and eventually houses, step-down transformers at sub-stations reduce the dangerous high voltage down to safer, usable levels ($11\ \text{kV}$, then to $415\ \text{V}$ for heavy industry, and $240\ \text{V}$ for domestic homes).
 
-[IMAGE: A flowchart showing electricity transmission. On the left, a power station connected to a step-up transformer. Thick cables suspended on tall metal pylons carry the power to the right. The cables connect to a step-down substation, which then feeds smaller wooden poles delivering power to a small house. Labels: "Power Station (11 kV)", "Step-up Transformer (330 kV)", "High Voltage Transmission Lines", "Step-down Substation (11 kV)", "Distribution to Homes (240 V)". Clean flat textbook illustration, white background.]
+![Diagram showing electricity transmission from a power station through a step-up transformer, high voltage transmission pylons, a step-down substation, and utility poles to a house.](images/A32-01-electrical-power-grid-flowchart.png)
 
 **Worked Example 4: Calculating Power Loss**
 A power station transmits $20\ \text{kW}$ of power to a factory through cables with a total resistance of $0.5\ \Omega$. Calculate the power lost as heat in the cables if the power is transmitted at (a) $1000\ \text{V}$ and (b) $5000\ \text{V}$.
@@ -179,7 +179,7 @@ Engineers exploit the heating effect of current to design many everyday applianc
 3. **Incandescent Filament Bulb:** An old-fashioned light bulb contains a very thin filament of Tungsten. Because it is so thin, it has a very high resistance. When current flows, the filament gets white-hot (about $2500\ ^\circ\text{C}$) and emits light. (Modern LED bulbs do not rely on the heating effect and are therefore much more energy-efficient).
 4. **Fuses:** We will discuss these in detail in the last section, but they operate purely on the heating effect melting a wire to break a circuit.
 
-[IMAGE: A cross-section of a traditional electric pressing iron. It shows the main cord entering at the back, connected to a coiled heating element (labelled "Nichrome heating element"). Above and below the element are thin sheets labelled "Mica insulation". Below the mica is a thick metal base labelled "Heavy metal soleplate". A simple thermostat switch is shown inside the handle. Clean flat textbook illustration, white background.]
+![A cross-section diagram of an electric pressing iron showing the power cord, thermostat switch in the handle, coiled heating element between insulating sheets, and metal base.](images/A32-02-electric-iron-internal.png)
 
 ---
 

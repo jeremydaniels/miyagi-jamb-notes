@@ -88,7 +88,7 @@ JAMB frequently tests candidates on the subtle differences between these three p
 | **Energy involved** | Requires specific latent heat of fusion. | Requires specific latent heat of vaporization. |
 | **Volume change (Water)** | Volume *decreases* (ice takes up more space than water). | Volume *increases massively* (steam expands to fill the space). |
 
-[IMAGE: Split illustration. Left side: a beaker of water sitting on a table showing 'Evaporation' with small upward wavy arrows escaping only from the flat top surface of the liquid. Right side: a beaker of water over a Bunsen burner flame showing 'Boiling', with large circular bubbles forming at the very bottom and rising up through the entire body of the liquid. Clean flat textbook style, white background.]
+![Comparison of evaporation in a beaker on a table with wavy arrows escaping the surface, and boiling in a beaker heated by a Bunsen burner with rising bubbles.](images/A14-02-evaporation-versus-boiling-comparison.png)
 
 ## The influence of pressure and dissolved substances
 

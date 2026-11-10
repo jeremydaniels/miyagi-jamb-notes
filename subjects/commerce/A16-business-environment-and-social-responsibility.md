@@ -57,7 +57,7 @@ This includes the tools, machinery, digital innovations, and scientific advancem
 *   **Automation and Artificial Intelligence:** Factories using modern robotic machines can produce goods faster, with fewer errors, and cheaper than those relying strictly on manual labor. 
 *   **Communication:** Social media (X, Instagram, TikTok) allows businesses to advertise to millions of people cheaply, changing the face of marketing. Businesses that fail to adapt to new technology quickly become obsolete.
 
-[IMAGE: A circular diagram with a modern corporate building in the center labeled "The Business". Surrounding it are six connected puzzle pieces or circles, each containing an icon and a label representing the external environments: a judge's gavel (Legal), a government building (Political), a rising line graph and a Naira sign (Economic), a group of diverse people (Social/Cultural), a smartphone and gear (Technological), and a green leaf (Environmental). Clean flat textbook illustration, white background.]
+![A diagram of the external business environment featuring The Business in the center surrounded by political, economic, social, technological, environmental, and legal factors.](images/A16-01-business-environment-circular.png)
 
 ## Safe Products, Philanthropic and Societal Consideration
 
@@ -107,7 +107,7 @@ Beyond just giving money to charity, societal consideration means doing business
 | **Land (Soil) Pollution** | Dumping solid waste, plastics, and non-biodegradable materials on land; spilling hazardous chemicals that ruin soil fertility and kill crops. | Indiscriminate dumping of pure water sachets and polythene bags by traders; mining companies leaving large, toxic open pits without restoring the land. |
 | **Noise Pollution** | Generating excessive, loud, and disturbing noise that disrupts the peace, hearing, and mental health of the surrounding community. | Heavy vibrating machinery in factories; extremely loud music from record stores or promotional vans; constant roaring of heavy-duty generators in residential business areas. |
 
-[IMAGE: A four-panel illustration showing different types of pollution. Panel 1 (Water): A factory pipe pouring dark green sludge into a river where dead fish are floating. Panel 2 (Air): A large diesel generator and tall factory chimneys puffing thick black smoke into a grey sky. Panel 3 (Land): A large pile of refuse containing plastic bottles, pure water sachets, and chemical drums on a patch of bare soil. Panel 4 (Noise): A factory with vibrating heavy machinery, with visual sound waves radiating towards a nearby residential house where a person is covering their ears. Clean flat textbook illustration, white background.]
+![A four-panel diagram showing water pollution with factory effluent, air pollution with factory smoke, land pollution with garbage and drums, and noise pollution affecting a resident.](images/A16-02-four-types-pollution-panel.png)
 
 ### Implications of Pollution on Businesses
 

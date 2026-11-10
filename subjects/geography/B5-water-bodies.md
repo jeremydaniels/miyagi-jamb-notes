@@ -255,7 +255,7 @@ A typical river flows from its source (high up in the mountains) down to its mou
   5. The cut-off loop of water left behind is the ox-bow lake.
 - **Deltas:** A delta is a flat, fan-shaped piece of land at the mouth of a river, formed when the river deposits its remaining load into the sea or a lake faster than the sea currents can wash it away. A classic example is the **Niger Delta** in Nigeria, which is an arcuate (fan-shaped) delta.
 
-[IMAGE: Four small sequential diagrams showing the formation of an ox-bow lake. 1: A river flowing in a wide horseshoe loop (meander) with arrows showing erosion on the outer neck. 2: The neck becomes very narrow. 3: The river cuts straight across the neck. 4: Sand deposits seal off the old loop, leaving a straight river channel and a curved ox-bow lake alongside it. Labels to add: "Erosion on outer bend", "Deposition on inner bend", "Narrow neck", "River cuts through", "Ox-bow lake". Clean flat textbook style, white background.]
+![Four-step diagram illustrating ox-bow lake formation from a meandering river, ending with sediment deposition sealing off an abandoned meander loop alongside a straightened channel.](images/B5-04-oxbow-lake-sequential.png)
 
 ---
 

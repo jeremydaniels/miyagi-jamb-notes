@@ -68,7 +68,7 @@ Multiplying two matrices is entirely different from addition or scalar multiplic
 * **The Rule for Multiplication:** Two matrices can only be multiplied if the number of **columns** in the first matrix equals the number of **rows** in the second matrix.
 * **Important:** In matrix algebra, the order of multiplication matters. $AB$ is generally **not equal** to $BA$. Matrix multiplication is not commutative.
 
-[IMAGE: A colourful diagram illustrating matrix multiplication of two 2x2 matrices. On the left, the first matrix has its first row highlighted with a red box and an arrow pointing to the right. The second matrix has its first column highlighted with a blue box and an arrow pointing down. On the right side of the equals sign, the resulting matrix shows the calculation for the top-left element as a combination of the red row's numbers and the blue column's numbers linked by multiplication and addition signs. Labels to add later: "Row 1", "Column 1", "Multiply matching elements and add", "Result goes in Row 1, Column 1". Clean flat textbook style, white background.]
+![Matrix multiplication diagram showing row 1 of the first matrix multiplied by column 1 of the second matrix to compute the top-left product element.](images/B6-01-matrix-multiplication-schematic.png)
 
 **Worked Example 3: Multiplying $2 \times 2$ matrices**
 

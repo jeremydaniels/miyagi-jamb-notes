@@ -135,138 +135,6 @@
    ]
   ]
  },
- "B6a-02-plant-supporting-tissues": {
-  "labels": [
-   [
-    "parenchyma",
-    [
-     118,
-     294
-    ],
-    "L"
-   ],
-   [
-    "air space",
-    [
-     120,
-     259
-    ],
-    "L"
-   ],
-   [
-    "vacuole",
-    [
-     115,
-     299
-    ],
-    "L"
-   ],
-   [
-    "collenchyma",
-    [
-     316,
-     294
-    ],
-    "L"
-   ],
-   [
-    "thickened corners",
-    [
-     327,
-     276
-    ],
-    "L"
-   ],
-   [
-    "sclerenchyma fibre",
-    [
-     462,
-     716
-    ],
-    "L"
-   ],
-   [
-    "lumen",
-    [
-     530,
-     206
-    ],
-    "R"
-   ],
-   [
-    "lignified wall",
-    [
-     516,
-     229
-    ],
-    "R"
-   ],
-   [
-    "sclereid (stone cell)",
-    [
-     543,
-     370
-    ],
-    "R"
-   ],
-   [
-    "xylem vessel",
-    [
-     707,
-     283
-    ],
-    "R"
-   ],
-   [
-    "annular thickening",
-    [
-     648,
-     675
-    ],
-    "R"
-   ],
-   [
-    "spiral thickening",
-    [
-     707,
-     675
-    ],
-    "R"
-   ],
-   [
-    "pitted vessel",
-    [
-     769,
-     675
-    ],
-    "R"
-   ],
-   [
-    "sieve tube",
-    [
-     852,
-     716
-    ],
-    "R"
-   ],
-   [
-    "companion cell",
-    [
-     904,
-     765
-    ],
-    "R"
-   ],
-   [
-    "phloem fibre",
-    [
-     939,
-     338
-    ],
-    "R"
-   ]
-  ]
- },
  "B6a-03-dicot-root-transverse-section": {
   "labels": [
    [
@@ -540,52 +408,53 @@
    [
     "light from one side",
     [
-     547,
-     479
+     524,
+     454
     ],
-    "R"
+    "L"
    ],
    [
     "slit",
     [
-     440,
-     496
+     445,
+     437
     ],
     "L"
    ],
    [
     "cardboard box",
     [
-     292,
-     284
+     239,
+     223
     ],
     "L"
    ],
    [
     "shoots bend towards light",
     [
-     274,
-     481
+     278,
+     466
     ],
     "L"
-   ],
-   [
-    "control (light from all sides)",
-    [
-     804,
-     588
-    ],
-    "R"
    ],
    [
     "shoots grow straight",
     [
      798,
-     435
+     440
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "control (light\nfrom all\nsides)",
+    807,
+    757
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6a-07-geotropism-clinostat-experiment": {
   "labels": [
@@ -977,7 +846,7 @@
      317,
      153
     ],
-    "T"
+    "L"
    ],
    [
     "shoot tip makes auxin",
@@ -993,7 +862,7 @@
      491,
      327
     ],
-    "T"
+    "L"
    ],
    [
     "more auxin",
@@ -1001,7 +870,7 @@
      473,
      491
     ],
-    "T"
+    "L"
    ],
    [
     "cells elongate more (shaded side)",
@@ -1017,7 +886,7 @@
      528,
      491
     ],
-    "T"
+    "R"
    ],
    [
     "cells elongate less (lit side)",
@@ -1035,10 +904,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B6a-16-auxin-geotropism-response": {
   "labels": [
@@ -1095,73 +961,6 @@
     [
      163,
      849
-    ],
-    "L"
-   ]
-  ]
- },
- "B6a-11-nyctinastic-plant-movements": {
-  "caption_below": "Day: leaves open; night: leaves folded (sleep position).",
-  "labels": [
-   [
-    "pulvinus",
-    [
-     886,
-     901
-    ],
-    "R"
-   ]
-  ],
-  "split": [
-   [
-    444,
-    120
-   ]
-  ],
-  "captions": [
-   [
-    "Bauhinia",
-    182,
-    449
-   ],
-   [
-    "flamboyant\n(Delonix regia)",
-    511,
-    449
-   ],
-   [
-    "Mimosa pudica",
-    841,
-    448
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B6a-13-root-growth-marking-experiment": {
-  "caption_below": "Start with ink marks 2 mm apart; after 48 hours marks widely spaced in zone of elongation, unchanged in older region.",
-  "labels": [
-   [
-    "bean seed",
-    [
-     223,
-     261
-    ],
-    "L"
-   ],
-   [
-    "radicle",
-    [
-     263,
-     528
-    ],
-    "L"
-   ],
-   [
-    "root tip",
-    [
-     260,
-     702
     ],
     "L"
    ]

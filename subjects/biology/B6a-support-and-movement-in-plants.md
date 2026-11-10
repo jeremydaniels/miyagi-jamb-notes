@@ -196,7 +196,7 @@ Plants have no bones. They are supported in two ways:
 | Where found | Cortex, pith, mesophyll | Below epidermis of young dicot stems, petioles, midribs | Pericycle, bundle sheaths, hypodermis of monocots, nut shells, fruits | Vascular bundles; wood | Outside or among phloem |
 | Example | Amaranth stem, leaf mesophyll | Celery strings, young sunflower stem | Coconut shell, guava grit, jute | Wood of mahogany, iroko | Jute, kenaf, flax |
 
-![Diagram showing five plant supporting tissues side by side in transverse and longitudinal sections including parenchyma, collenchyma, sclerenchyma with fibres and sclereid, xylem vessels, and phloem with sieve tubes.](images/B6a-02-plant-supporting-tissues.png)
+[IMAGE: A panel of five enlarged plant supporting tissues drawn side by side, each in transverse section with a small longitudinal section below. (1) Parenchyma: rounded thin-walled living cells with large vacuoles and air spaces. (2) Collenchyma: polygonal living cells with walls thickened at the corners. (3) Sclerenchyma fibres: very thick, evenly lignified walls with a small empty lumen, and in long section long cells with tapering overlapping ends; include one rounded sclereid (stone cell) with layered thick walls. (4) Xylem: a wide vessel with lignified walls, plus long sections showing annular, spiral and pitted thickening. (5) Phloem fibres beside sieve tubes and companion cells. Lignified walls in reddish-brown, cellulose walls in pale green. Labels: parenchyma, air space, vacuole, collenchyma, thickened corners, sclerenchyma fibre, lumen, lignified wall, sclereid (stone cell), xylem vessel, annular thickening, spiral thickening, pitted vessel, sieve tube, companion cell, phloem fibre. Clean flat textbook style, white background.]
 
 ## Distribution of supporting tissues in the root, stem and leaf
 
@@ -546,7 +546,7 @@ A **nastic movement** (nasty) is a movement of **part of a plant** in response t
 
 **Sleep movements and Mimosa compared:** the folding of *Mimosa pudica* when **touched** is **thigmonasty** (fast, seconds); its folding **at night** is a **sleep movement** (nyctinasty, slower, daily rhythm). Both use pulvini.
 
-![Comparison of day and night leaf positions in Bauhinia, flamboyant, and Mimosa pudica plants across six panels, with an inset showing an enlarged pulvinus.](images/B6a-11-nyctinastic-plant-movements.png)
+[IMAGE: Day and night views of three leguminous plants, arranged in three columns (Bauhinia, flamboyant, Mimosa pudica), each with a "day" row on top (bright sunny background tint) and a "night" row below (deep blue background tint with a moon). Bauhinia: a two-lobed leaf open by day and folded together along the midrib by night. Flamboyant: a feathery twice-compound leaf with many small leaflets spread by day and folded in pairs by night. Mimosa pudica: leaflets spread by day and folded with the leaf drooping by night. Add an enlarged inset of a pulvinus at the base of a leaf. Labels: Bauhinia, flamboyant (Delonix regia), Mimosa pudica, day: leaves open, night: leaves folded (sleep position), pulvinus. Clean flat textbook style, white background.]
 
 ### Comparison of the types of plant movement
 
@@ -613,7 +613,7 @@ Behind the tip of a growing root (e.g. a bean or maize radicle), four regions ca
 
 The same experiment can be done on a young shoot, marking it just below the tip; the region of greatest growth is a little behind the shoot tip.
 
-![Diagram comparing a germinating bean radicle marked with evenly spaced lines at the start and after growth showing elongation just behind the root tip.](images/B6a-13-root-growth-marking-experiment.png)
+[IMAGE: Before and after diagram of the root-marking experiment. Left ("start"): a germinating bean seed with a straight radicle hanging downwards, marked with ten evenly spaced black ink lines 2 mm apart from the tip. Right ("after 48 hours"): the same seedling, with a longer radicle; the marks near the tip are only slightly further apart, the marks in the region 2 to 10 mm behind the tip are widely spaced, and the marks near the seed are still close together. A small ruler beside each. Labels: bean seed, radicle, ink marks 2 mm apart, start, after 48 hours, marks widely spaced (zone of elongation), marks unchanged (older region), root tip. Clean flat textbook style, white background.]
 
 ### Regions of growth in the shoot
 

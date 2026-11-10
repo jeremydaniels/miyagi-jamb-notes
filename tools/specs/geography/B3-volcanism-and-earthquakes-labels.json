@@ -1,0 +1,32 @@
+{
+ "B3-01-earthquake-focus-epicenter": {},
+ "B3-02-volcano-types-comparison": {
+  "labels": [
+   [
+    "Composite (Stratovolcano): Alternating lava and ash, steep",
+    [
+     275,
+     512
+    ],
+    "L"
+   ],
+   [
+    "Shield Volcano: Fluid lava, gentle slopes",
+    [
+     723,
+     294
+    ],
+    "R"
+   ],
+   [
+    "Cinder Cone: Loose rock fragments, steep and small",
+    [
+     770,
+     730
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3-03-intrusive-igneous-landforms-cross": {}
+}

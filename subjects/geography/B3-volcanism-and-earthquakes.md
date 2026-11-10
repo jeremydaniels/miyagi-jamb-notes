@@ -47,7 +47,7 @@ An **earthquake** is a sudden, violent shaking of the ground, caused by a rapid 
 4. **Energy release:** The stored energy is released instantly as shockwaves, known as **seismic waves**. The exact point underground where the rock snaps is called the **focus** (or hypocenter). The point on the earth's surface directly above the focus is the **epicenter**.
 5. **The Shaking:** The seismic waves radiate outward from the focus in all directions, causing the violent shaking of the ground that we feel as an earthquake.
 
-[IMAGE: Cross-section showing an earthquake's structure. A diagonal jagged fault line cutting through layers of rock. A bright starburst deep underground labelled "Focus (hypocenter)" on the fault line. Concentric circles radiating outward from the focus labelled "Seismic waves". A point on the flat green surface directly above the focus labelled "Epicenter", with a damaged building next to it. Clean flat textbook style, white background.]
+![A cross-section diagram of an earthquake showing rock strata cut by a diagonal fault, an underground focus with radiating seismic waves, and an epicenter near a damaged building.](images/B3-01-earthquake-focus-epicenter.png)
 
 #### Seismic waves
 There are three main types of seismic waves generated during the process:
@@ -79,7 +79,7 @@ The shape of a volcano depends heavily on the type of lava it erupts.
 | **Eruption style** | Highly explosive and dangerous. | Quiet, gentle, and continuous. | Short, localized explosive bursts. |
 | **Examples** | Mt. Vesuvius (Italy), Mt. Cameroon (Cameroon), Mt. Kilimanjaro (Tanzania). | Mauna Loa (Hawaii), Mount Nyamuragira (DR Congo). | Parícutin (Mexico). |
 
-[IMAGE: A three-part diagram comparing the shapes of volcanoes. Left: A tall, steep Stratovolcano with a cutaway showing alternating layers of orange lava and grey ash. Middle: A very wide, flat Shield volcano with gentle slopes and a cutaway showing solid orange lava layers. Right: A small, steep Cinder Cone made entirely of loose grey rock fragments with a wide crater. Labels to add: "Composite (Stratovolcano): Alternating lava and ash, steep", "Shield Volcano: Fluid lava, gentle slopes", "Cinder Cone: Loose rock fragments, steep and small". Clean flat textbook style, white background.]
+![Diagram comparing three volcano types showing a cutaway of a steep stratovolcano, a wide flat shield volcano, and an external view of a cinder cone.](images/B3-02-volcano-types-comparison.png)
 
 ### Types of Volcanoes based on their activity
 
@@ -131,7 +131,7 @@ Because they form deep underground, we only see these landforms after millions o
 | **Sill** | A flat, **horizontal** sheet of igneous rock formed when magma squeezes horizontally between layers of older sedimentary rocks. |
 | **Dyke (or Dike)** | A vertical or steeply inclined wall of igneous rock formed when magma cuts vertically across older rock layers. When the surrounding rock erodes, the harder dyke often stands up like a ruined brick wall. |
 
-[IMAGE: Cross-section of the earth's crust showing intrusive igneous landforms. A large dome at the very bottom labelled "Batholith". A vertical pipe going upwards from it labelled "Dyke". A horizontal layer branching off labelled "Sill". A mushroom-shaped dome pushing rocks up labelled "Laccolith". A saucer-shaped depression labelled "Lopolith". A lens shape in folded rock labelled "Phacolith". A volcano is seen on the surface at the top. Clean flat textbook style, white background.]
+![A cross-section diagram of the crust showing various intrusive igneous landforms including a batholith, dyke, sill, laccolith, lopolith, phacolith, and a surface volcano.](images/B3-03-intrusive-igneous-landforms-cross.png)
 
 ### Earthquake landforms
 

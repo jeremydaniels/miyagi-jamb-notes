@@ -62,7 +62,7 @@ The importance of this concept is so great that an entire Surah of the Qur'an is
 > "And those who answer the call of their Lord and establish worship, and whose affairs are a matter of counsel, and who spend of what We have bestowed on them,"  
 > *(Q.42:38)*
 
-[IMAGE: A group of Muslim men and women in modest traditional attire sitting around a large circular table engaged in a respectful discussion. A leader at the head of the table is listening attentively and taking notes. The background features subtle Islamic geometric patterns on the wall. Labels to add later: "Majlis ash-Shura", "Mutual consultation (Shurah)", "Leader listening to representatives". Clean flat textbook illustration, white background.]
+![A group of Muslim men and women with faceless features sitting around a circular table in discussion, with subtle geometric wall decorations behind them.](images/B14-01-majlis-ash-shura-consultation.png)
 
 ## The concepts of Adalah (justice) and Mas'uliyah (accountability)
 
@@ -143,7 +143,7 @@ While the Islamic political system shares some similarities with modern Western 
 | **State and Religion** | Religion and politics are united. Islam is a complete way of life encompassing both statecraft and spiritual worship. | Separation of church/religion and state (**Secularism**). Religion is considered a private matter. |
 | **Purpose of the State** | To ensure success and justice in this world, and to facilitate the worship of Allah for success in the Hereafter (*Falah*). | To ensure material well-being, economic prosperity, and social order in this world only. |
 
-[IMAGE: A split illustration comparing two political systems. Left half (Islamic System): a glowing Qur'an on a wooden stand representing Divine Law, with scales of justice and a diverse group of people sitting together consulting. Right half (Western System): a parliament building with a ballot box, voting papers, and a wooden gavel, representing man-made law and popular elections. Labels to add later: "Islamic System", "Shari'ah (Divine Law)", "Shurah (Consultation)", "Western System", "Secular Parliament", "Man-made Laws". Clean flat textbook style, white background.]
+![A split illustration comparing an Islamic system featuring an open Quran, scales of justice, and a consulting group with a Western system showing a parliament building, ballot box, and gavel.](images/B14-02-islamic-shariah-vs-western.png)
 
 ## Key terms
 

@@ -1,0 +1,48 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Bank Reconciliation Process",
+ "nodes": [
+  {
+   "id": "ucb",
+   "text": "Unadjusted Cash Book",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "acb",
+   "text": "Adjusted Cash Book\n\n+ Direct credits, errors\n- Bank charges, standing orders",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "brs",
+   "text": "Bank Reconciliation Statement\n\n+ Unpresented cheques\n- Uncredited cheques",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "bs",
+   "text": "Bank Statement",
+   "shape": "box",
+   "color": "blue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ucb",
+   "to": "acb",
+   "label": "Adjust"
+  },
+  {
+   "from": "acb",
+   "to": "brs",
+   "label": "Reconcile"
+  },
+  {
+   "from": "brs",
+   "to": "bs",
+   "label": "Matches"
+  }
+ ]
+}

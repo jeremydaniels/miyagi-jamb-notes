@@ -31,7 +31,7 @@ A cheque is a written order made by an account holder instructing their bank to 
 * **Drawee:** The bank on which the cheque is drawn (e.g., Zenith Bank or GTBank) that holds the drawer's money.
 * **Payee:** The person or business whose name is written on the cheque to receive the money.
 
-[IMAGE: A flat, clean textbook illustration of a filled-out Nigerian cheque. It is drawn on "Miyagi Bank PLC". The drawer's signature is at the bottom right. The payee "Chukwudi Enterprises" is written on the "Pay" line. The amount is ₦145,000 in numbers in a box, and "One hundred and forty-five thousand naira only" in words. Labels with arrows point to the "Drawer" (the signature), the "Drawee" (the bank name at the top), and the "Payee" (Chukwudi Enterprises). White background.]
+![Textbook diagram of a Nigerian cheque showing Drawee Miyagi Bank PLC, Payee Chukwudi Enterprises, the amount in words and figures, and the Drawer signature.](images/A5-01-bank-cheque-layout-template.png)
 
 **2. Pay-in-slips (Tellers)**
 A pay-in-slip is a paper form provided by the bank used to deposit cash or cheques into a bank account. It contains details like the account name, account number, date, the amount of cash in various denominations, and cheque details. A stamped duplicate is given to the depositor as proof of payment (a source document for the cash book).
@@ -160,7 +160,7 @@ The determined adjusted cash book balance is **₦136,900** (Debit).
 
 The Bank Reconciliation Statement is not part of the double-entry ledger. It is a separate statement prepared to prove that the difference between the adjusted cash book balance and the bank statement balance is due entirely to timing differences (and bank errors, if any).
 
-[IMAGE: A flow diagram showing the steps of a Bank Reconciliation process. On the left, a book labeled "Unadjusted Cash Book". An arrow points to an "Adjusted Cash Book" with items added (Direct credits, errors) and deducted (Bank charges, standing orders). From the Adjusted Cash Book, another arrow points to a document labeled "Bank Reconciliation Statement" where "Unpresented cheques" are added and "Uncredited cheques" are deducted to finally match a document on the far right labeled "Bank Statement". Clean flat textbook style, white background.]
+![Flowchart showing the bank reconciliation process transitioning from unadjusted cash book to adjusted cash book, through a reconciliation statement to match the bank statement.](images/A5-02-bank-reconciliation-flowchart.png)
 
 ### Reconciliation rules
 

@@ -307,7 +307,7 @@ The zygote divides by **mitosis** over and over, so every cell of the new organi
 | Zygote | Two (one from each parent: AA, Aa or aa) | **Recombination** at fertilisation |
 | Offspring's body cells | Two (same as zygote) | Mitosis |
 
-[IMAGE: Diagram of transmission of one gene from parents to offspring. Top: a father cell and a mother cell, each showing one pair of homologous chromosomes, one carrying a red band labelled A and the other a white band labelled a. Arrows labelled "meiosis" lead down from each parent to two gamete circles each: sperm with A, sperm with a; eggs with A, eggs with a, each gamete containing a single chromosome. Crossing arrows from gametes lead to four zygote circles at the bottom, each with two chromosomes: AA, Aa, Aa, aa. Labels to add later: "father (Aa)", "mother (Aa)", "segregation of alleles at meiosis", "gametes (one allele each)", "random fertilisation", "recombination of alleles", "zygotes", "AA", "Aa", "Aa", "aa". Clean flat textbook style, white background.]
+![A monohybrid inheritance diagram showing parents Father Aa and Mother Aa producing gametes that combine into offspring genotypes AA, Aa, Aa, and aa.](images/D2a-06-monohybrid-gene-transmission.png)
 
 ## Segregation at gamete formation and random recombination
 

@@ -54,5 +54,9 @@
  [
   "D2a-04-dna-ladder-helix",
   "Two views of DNA side by side. Left: an untwisted section of DNA drawn as a straight ladder, with two vertical sugar-phosphate backbones (alternating yellow circles for phosphate and orange pentagons for sugar) and horizontal rungs made of paired coloured bases: A (green) with T (red), G (blue) with C (orange), with dotted lines between each pair for hydrogen bonds; show two dotted lines in A–T pairs and three in G–C pairs. Right: the same molecule twisted into a smooth right-handed double helix with coloured rungs."
+ ],
+ [
+  "D2a-06-monohybrid-gene-transmission",
+  "Monohybrid inheritance genetic diagram on a white background. \n\nTop row shows parents: left circle labelled \"Father (Aa)\", right circle labelled \"Mother (Aa)\". \n\nArrows pointing down to second row show four gamete circles: two sperm (\"A\", \"a\") on the left; two eggs (\"A\", \"a\") on the right. \n\nArrows connect gametes to a bottom row of four zygote circles labelled \"AA\", \"Aa\", \"Aa\", \"aa\":\n- Leftmost sperm \"A\" connects to zygotes \"AA\" and the first \"Aa\".\n- Sperm \"a\" connects to the second \"Aa\" and zygote \"aa\".\n- Leftmost egg \"A\" connects to zygotes \"AA\" and the second \"Aa\".\n- Egg \"a\" connects to the first \"Aa\" and zygote \"aa\".\n\nEvery zygote receives exactly one arrow from a sperm and one from an egg. Clear spacing, simple flat circles."
  ]
 ]

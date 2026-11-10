@@ -1,0 +1,107 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Monohybrid Inheritance Genetic Diagram",
+ "nodes": [
+  {
+   "id": "father",
+   "text": "Father (Aa)",
+   "shape": "oval"
+  },
+  {
+   "id": "mother",
+   "text": "Mother (Aa)",
+   "shape": "oval"
+  },
+  {
+   "id": "sperm_A",
+   "text": "Sperm A",
+   "shape": "oval"
+  },
+  {
+   "id": "sperm_a",
+   "text": "Sperm a",
+   "shape": "oval"
+  },
+  {
+   "id": "egg_A",
+   "text": "Egg A",
+   "shape": "oval"
+  },
+  {
+   "id": "egg_a",
+   "text": "Egg a",
+   "shape": "oval"
+  },
+  {
+   "id": "Z1",
+   "text": "AA",
+   "shape": "oval"
+  },
+  {
+   "id": "Z2",
+   "text": "Aa",
+   "shape": "oval"
+  },
+  {
+   "id": "Z3",
+   "text": "Aa",
+   "shape": "oval"
+  },
+  {
+   "id": "Z4",
+   "text": "aa",
+   "shape": "oval"
+  }
+ ],
+ "edges": [
+  {
+   "from": "father",
+   "to": "sperm_A"
+  },
+  {
+   "from": "father",
+   "to": "sperm_a"
+  },
+  {
+   "from": "mother",
+   "to": "egg_A"
+  },
+  {
+   "from": "mother",
+   "to": "egg_a"
+  },
+  {
+   "from": "sperm_A",
+   "to": "Z1"
+  },
+  {
+   "from": "sperm_A",
+   "to": "Z2"
+  },
+  {
+   "from": "sperm_a",
+   "to": "Z3"
+  },
+  {
+   "from": "sperm_a",
+   "to": "Z4"
+  },
+  {
+   "from": "egg_A",
+   "to": "Z1"
+  },
+  {
+   "from": "egg_A",
+   "to": "Z3"
+  },
+  {
+   "from": "egg_a",
+   "to": "Z2"
+  },
+  {
+   "from": "egg_a",
+   "to": "Z4"
+  }
+ ]
+}

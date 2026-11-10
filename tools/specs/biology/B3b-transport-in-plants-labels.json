@@ -967,5 +967,73 @@
     "R"
    ]
   ]
+ },
+ "B3b-10-tree-trunk-ringing-experiment": {
+  "labels": [
+   [
+    "ring of bark removed",
+    [
+     297,
+     698
+    ],
+    "L"
+   ],
+   [
+    "wood (xylem) exposed",
+    [
+     290,
+     653
+    ],
+    "L"
+   ],
+   [
+    "bark (contains phloem)",
+    [
+     297,
+     520
+    ],
+    "L"
+   ],
+   [
+    "swelling above ring (food accumulates)",
+    [
+     761,
+     640
+    ],
+    "R"
+   ],
+   [
+    "leaves stay green (water still reaches them)",
+    [
+     619,
+     206
+    ],
+    "R"
+   ],
+   [
+    "water and minerals up the xylem",
+    [
+     762,
+     396
+    ],
+    "R"
+   ],
+   [
+    "food down the phloem",
+    [
+     795,
+     417
+    ],
+    "R"
+   ],
+   [
+    "no food reaches the roots",
+    [
+     761,
+     892
+    ],
+    "R"
+   ]
+  ]
  }
 }

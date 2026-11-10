@@ -527,7 +527,7 @@ The most widely accepted explanation is the **mass (pressure) flow hypothesis**,
 
 **Practical importance:** animals such as goats, rats, porcupines and elephants that strip bark all the way round a tree trunk can kill the tree in the same way. Farmers protect young trees from them. In some forestry practice, trees are ringed deliberately to kill them before felling.
 
-[IMAGE: The ringing experiment shown as a woody stem in two stages. Left, at the start: a young woody stem with a ring of bark removed exposing the pale wood, with arrows showing water (blue) going up through the wood and food (orange) coming down through the bark and stopping at the ring. Right, after some weeks: the bark just above the ring has swollen into a bulge, the leaves are still green, and a cut-away shows the inner bark (phloem) and wood (xylem). Labels to add: "ring of bark removed", "wood (xylem) exposed", "bark (contains phloem)", "swelling above ring (food accumulates)", "leaves stay green (water still reaches them)", "water and minerals up the xylem", "food down the phloem", "no food reaches the roots". Clean flat textbook style, white background.]
+![Illustration of a stem ringing experiment showing a young leafy stem with bark removed at start, and swelling of the bark above the ring after several weeks.](images/B3b-10-tree-trunk-ringing-experiment.png)
 
 #### Other evidence
 

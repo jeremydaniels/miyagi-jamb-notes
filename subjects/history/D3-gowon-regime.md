@@ -46,7 +46,7 @@ The 12 states were:
 11. South-Eastern
 12. Rivers
 
-[IMAGE: A map of Nigeria in 1967 showing the borders of the newly created 12 states. The Northern region is divided into 6 states (North-Western, North-Central, Kano, North-Eastern, Benue-Plateau, Kwara). The South has 6 states (Western, Lagos, Mid-Western, East-Central, South-Eastern, Rivers). Each state is clearly labeled. Clean flat textbook illustration, distinct pastel colours for each state, white background.]
+![A 1967 historical map of Nigeria showing the twelve newly created states divided across the Northern and Southern regions, with each state clearly labeled and color-coded.](images/D3-01-map-twelve-states.png)
 
 ### 2. Winning the Civil War and Post-War Reconciliation
 

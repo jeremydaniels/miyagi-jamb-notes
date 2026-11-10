@@ -90,7 +90,7 @@ Word processors are used in almost every sector of the Nigerian economy for prod
 - **Cursor / Insertion Point:** A blinking vertical line in the workspace that shows where the next letter you type will appear.
 - **Status Bar:** Located at the bottom of the screen. It shows information like the current page number, total word count, and zoom slider.
 
-[IMAGE: A clean, flat textbook illustration of a standard Microsoft Word interface. The image should clearly label the Title Bar at the very top, the Ribbon with Tabs (File, Home, Insert) and Groups (Font, Paragraph), the large white Workspace in the center with a blinking vertical Cursor, and the Status Bar at the bottom showing "Page 1 of 1" and a zoom slider. White background.]
+![A labeled diagram of a Microsoft Word interface showing the Title Bar Tabs Groups Workspace Blinking Cursor and Status Bar](images/C1-01-clean-flat-textbook-standard.png)
 
 ### Launching MS Word
 
@@ -190,7 +190,7 @@ Alignment (or justification) determines how text lines up with the left and righ
 - **Right Align:** Text aligns flat against the right margin, leaving the left edge uneven. Often used for dates or addresses in letters. Shortcut: `Ctrl + R`.
 - **Justify:** Text is spaced out so that it is flat against *both* the left and right margins, creating clean, straight boxes of text (common in newspapers and textbooks). Shortcut: `Ctrl + J`.
 
-[IMAGE: A diagram showing four text blocks illustrating the four types of alignment. 1. Left aligned (straight left edge, jagged right). 2. Center aligned (jagged on both sides, centered). 3. Right aligned (jagged left edge, straight right). 4. Justified (straight edges on both left and right). The text blocks should visually represent these shapes clearly. Clean flat textbook style, white background.]
+![Diagram showing left center right and justified text alignments using colored horizontal bars to represent text lines](images/C1-02-four-text-blocks-illustrating.png)
 
 #### Search / Explore (Find and Replace)
 When working with a long document, you may need to find a specific word or change a word throughout the entire text.

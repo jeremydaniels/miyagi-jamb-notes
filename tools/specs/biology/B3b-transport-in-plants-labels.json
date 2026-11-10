@@ -1083,5 +1083,90 @@
     "L"
    ]
   ]
+ },
+ "B3b-13-bubble-potometer-apparatus": {
+  "caption_below": "Direction of bubble movement.",
+  "labels": [
+   [
+    "leafy shoot",
+    [
+     240,
+     223
+    ],
+    "L"
+   ],
+   [
+    "airtight seal (petroleum jelly)",
+    [
+     280,
+     538
+    ],
+    "L"
+   ],
+   [
+    "rubber bung",
+    [
+     280,
+     591
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     238,
+     762
+    ],
+    "L"
+   ],
+   [
+    "reservoir",
+    [
+     626,
+     294
+    ],
+    "R"
+   ],
+   [
+    "tap",
+    [
+     652,
+     437
+    ],
+    "R"
+   ],
+   [
+    "capillary tube",
+    [
+     719,
+     658
+    ],
+    "R"
+   ],
+   [
+    "scale",
+    [
+     527,
+     642
+    ],
+    "R"
+   ],
+   [
+    "air bubble",
+    [
+     628,
+     647
+    ],
+    "R"
+   ],
+   [
+    "beaker of water",
+    [
+     875,
+     805
+    ],
+    "R"
+   ]
+  ]
  }
 }

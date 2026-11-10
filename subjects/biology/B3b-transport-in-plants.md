@@ -710,7 +710,7 @@ A **potometer** is an apparatus that measures the **rate of water uptake** by a 
 
 **Weighing method:** another way to measure water loss is to weigh a potted plant (with the pot and soil sealed in polythene) at intervals. The loss of mass is mainly the water lost by transpiration.
 
-[IMAGE: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. The tube connects to a horizontal capillary tube with a millimetre scale beside it and an air bubble in it, with a small arrow showing the bubble moving towards the shoot. A water reservoir with a tap joins the tube. The open end of the capillary dips into a beaker of water. Labels to add: "leafy shoot", "airtight seal (petroleum jelly)", "rubber bung", "water", "reservoir", "tap", "capillary tube", "scale", "air bubble", "direction of bubble movement", "beaker of water". Clean flat textbook style, white background.]
+![Diagram of a bubble potometer setup showing a leafy shoot in a flask, a capillary tube with scale and bubble, a reservoir with tap, and a beaker.](images/B3b-13-bubble-potometer-apparatus.png)
 
 ### Guttation
 

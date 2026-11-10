@@ -449,7 +449,7 @@ A **genetically modified organism (GMO)** is an organism whose genetic material 
 | **Virus-resistant papaya** | Gene from the papaya ringspot virus | Saved the papaya industry in Hawaii from a virus disease |
 | **GM bacteria and yeast** | Human genes (e.g. insulin) | Medicines (see objective x) |
 
-![Diagram illustrating genetic modification of cowpea with Bacillus thuringiensis genes, showing gene transfer, caterpillar mortality upon feeding on a pod, and harmless effects on bees and ladybirds.](images/D2b-08-bt-crop-mechanism.png)
+[IMAGE: Diagram of how Bt crops work. Left: a rod-shaped bacterium labelled Bacillus thuringiensis with a highlighted gene segment. Arrow to a cowpea plant whose cells now contain the gene, shown as a small inset of a leaf cell nucleus with the inserted segment. Right: a caterpillar (pod borer) eating a pod, then shown lying dead, while a bee and a ladybird nearby are unharmed. Labels to add later: "Bacillus thuringiensis (soil bacterium)", "Bt gene", "gene inserted into cowpea cells", "plant makes Bt protein", "pod borer caterpillar dies after feeding", "fewer insecticide sprays needed". Clean flat textbook style, white background.]
 
 #### GMOs in Nigeria
 

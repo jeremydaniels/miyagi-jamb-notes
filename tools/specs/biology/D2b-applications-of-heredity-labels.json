@@ -1,31 +1,31 @@
 {
  "D2b-02-livestock-cross-breeding": {
-  "labels": [
+  "labels": [],
+  "split": [
    [
-    "Friesian: high milk yield, poor heat tolerance",
-    [
-     237,
-     253
-    ],
-    "L"
-   ],
-   [
-    "White Fulani (Bunaji): heat and disease tolerant, low milk yield",
-    [
-     775,
-     239
-    ],
-    "R"
-   ],
-   [
-    "Crossbred: more milk and good heat tolerance",
-    [
-     513,
-     684
-    ],
-    "R"
+    402,
+    120
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Friesian: high milk\nyield, poor heat\ntolerance",
+    246,
+    402
+   ],
+   [
+    "White Fulani\n(Bunaji): heat and\ndisease tolerant, low\nmilk yield",
+    778,
+    406
+   ],
+   [
+    "Crossbred: more milk and\ngood heat tolerance",
+    548,
+    896
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D2b-03-maize-hybrid-vigour": {
   "labels": [
@@ -231,58 +231,6 @@
   ],
   "fixed_sides": true,
   "capsize": 0
- },
- "D2b-08-bt-crop-mechanism": {
-  "labels": [
-   [
-    "Bacillus thuringiensis (soil bacterium)",
-    [
-     129,
-     605
-    ],
-    "L"
-   ],
-   [
-    "Bt gene",
-    [
-     119,
-     509
-    ],
-    "L"
-   ],
-   [
-    "gene inserted into cowpea cells",
-    [
-     483,
-     689
-    ],
-    "L"
-   ],
-   [
-    "plant makes Bt protein",
-    [
-     379,
-     437
-    ],
-    "L"
-   ],
-   [
-    "pod borer caterpillar dies after feeding",
-    [
-     755,
-     640
-    ],
-    "R"
-   ],
-   [
-    "fewer insecticide sprays needed",
-    [
-     883,
-     404
-    ],
-    "R"
-   ]
-  ]
  },
  "D2b-09-stem-cell-gene-therapy": {
   "labels": [],

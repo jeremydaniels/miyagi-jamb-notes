@@ -46,7 +46,7 @@ A **flower** is a shortened, specialised shoot whose leaves have been changed in
 
 The calyx and corolla are the **accessory (non-essential) whorls**: they help, but do not make gametes. The androecium and gynoecium are the **essential whorls**, because they produce the gametes. A flower can reproduce without sepals or petals, but not without stamens or carpels.
 
-[IMAGE: Half-flower (longitudinal section) of a typical bisexual dicot flower, drawn large in the centre. Show from the bottom up: a short flower stalk, the swollen receptacle, two green sepals curving outwards, two large soft-pink petals with a small nectary at the base of each petal, four stamens (each a thin filament topped by a yellow two-lobed anther), and in the centre the pistil: a green swollen ovary at the base (cut open to show three ovules attached to its wall), a slender style rising from it, and a sticky three-lobed stigma at the top. Labels: pedicel (flower stalk), receptacle, sepal, petal, nectary, stamen, filament, anther, pistil (carpel), stigma, style, ovary, ovule. Use soft green for sepals and ovary, soft pink for petals, yellow for anthers. Clean flat textbook style, white background.]
+![Diagram of a flower in longitudinal section showing the pedicel, receptacle, sepals, pink petals, stamens with anthers, and central pistil with ovary and ovules.](images/B7b-01-flower-longitudinal-section.png)
 
 ### The pedicel and receptacle
 
@@ -95,7 +95,7 @@ The **androecium** is made of **stamens**. Each stamen has:
 
 **Function of the androecium:** to produce, hold and release pollen grains, which carry the male gametes.
 
-[IMAGE: Two diagrams side by side. Left: a single stamen showing a long thin filament topped by an anther with two lobes, one lobe cut across to show four pollen sacs, one sac split open with pollen grains spilling out. Right: an enlarged pollen grain shown in section with a thick spiky outer wall and thin inner wall, a tube nucleus and a generative nucleus. Labels: filament, anther, pollen sac, line of dehiscence, pollen grains, exine (outer wall), intine (inner wall), tube nucleus, generative nucleus. Use pale green for the filament, yellow-orange for the anther and pollen. Clean flat textbook style, white background.]
+![A diagram of a stamen showing the filament and anther with pollen sacs releasing pollen, alongside a cross section of a pollen grain revealing its walls and nuclei.](images/B7b-02-stamen-pollen-grain-structure.png)
 
 ### The gynoecium (pistil): the female part
 
@@ -128,7 +128,7 @@ A mature ovule has:
   - at the opposite end: three **antipodal cells**.
 - **Chalaza:** the base of the ovule, opposite the micropyle, where the funicle joins.
 
-[IMAGE: Longitudinal section of a mature ovule inside part of an ovary wall. Show the funicle attaching the ovule to the placenta on the ovary wall, two integuments (outer and inner) with a gap at the bottom forming the micropyle, the nucellus, and inside it an oval embryo sac containing three cells at the micropylar end (one egg cell between two synergids), two polar nuclei in the centre, and three antipodal cells at the chalazal end. Labels: ovary wall, placenta, funicle, outer integument, inner integument, micropyle, nucellus, embryo sac, egg cell, synergids, polar nuclei, antipodal cells, chalaza. Soft green ovary wall, cream nucellus, pale lilac embryo sac, darker purple nuclei. Clean flat textbook style, white background.]
+![Longitudinal diagram of an anatropous plant ovule showing integuments, micropyle, nucellus, and embryo sac with antipodal cells, polar nuclei, and egg apparatus attached to the ovary wall.](images/B7b-03-plant-ovule-longitudinal-section.png)
 
 ### Summary of the floral parts and their functions
 
@@ -163,7 +163,7 @@ JAMB questions often use these terms.
 | **Monoecious plant** | Male and female flowers are separate but on the **same** plant | Maize, pumpkin, oil palm, castor oil |
 | **Dioecious plant** | Male and female flowers are on **different** plants | Fluted pumpkin (ugu), date palm; pawpaw is usually dioecious |
 
-[IMAGE: Three small half-flower diagrams side by side showing the position of the ovary. Left: hypogynous flower with the ovary sitting on top of a flat receptacle and sepals, petals and stamens attached below it. Middle: perigynous flower with a cup-shaped receptacle surrounding a free ovary and the other parts attached to the cup rim. Right: epigynous flower with the ovary sunk inside the receptacle and sepals, petals and stamens attached above it. Labels for each: ovary, receptacle, sepal, petal, stamen; and titles under each: hypogynous (superior ovary), perigynous, epigynous (inferior ovary). Soft green, pink and yellow palette. Clean flat textbook style, white background.]
+![Three botanical cross section diagrams illustrating hypogynous, perigynous, and epigynous flower structures showing ovary positions relative to receptacle, sepals, petals, and stamens.](images/B7b-04-ovary-position-comparison.png)
 
 An **inflorescence** is a group of flowers on one stalk. For example, a sunflower or *Tridax* "flower" is really a head (capitulum) of many tiny flowers called florets, and a maize tassel and cob are inflorescences of male and female flowers. Inflorescences matter because a **multiple (composite) fruit** forms from a whole inflorescence (see later).
 
@@ -205,9 +205,9 @@ The common red, pink or yellow ornamental shrub used for hedges in many Nigerian
 - **Fruit:** a **capsule** in Hibiscus species that set fruit (for example okra and roselle). The ornamental *H. rosa-sinensis* rarely sets fruit in Nigeria and is usually grown from stem cuttings.
 - **Pollination:** the large bright petals and nectar attract insects and sunbirds. The stigmas stand **above** the anthers at the tip of the column, which reduces self-pollination.
 
-[IMAGE: A Hibiscus flower in side view, partly cut to show its parts. Show the green epicalyx of narrow bracts below a green five-lobed joined calyx, five large red overlapping petals, a long red staminal column projecting from the centre with many small yellow anthers along its upper part, and five short style branches with round red hairy stigmas at the very tip. Below, a small inset of the ovary cut across, showing five chambers with ovules attached to the central axis. Labels: pedicel, epicalyx, calyx, petal, staminal column (fused filaments), anthers, style branches, stigmas, ovary, ovules (axile placentation). Soft red petals, green calyx, yellow anthers. Clean flat textbook style, white background.]
+![Diagram of a cutaway Hibiscus flower showing the staminal column, style, stigmas, ovary, petals, and calyx, with a cross-section inset of the five-chambered ovary.](images/B7b-05-hibiscus-flower-anatomy.png)
 
-[IMAGE: Two flowers side by side for comparison. Left: Flamboyant flower in front view with five clawed scarlet petals, one larger whitish standard petal streaked with red, ten long curved red stamens and a single long style. Right: Pride of Barbados flower in side view with five crinkled orange-red petals with yellow edges, very long red stamens and style projecting far beyond the petals. Labels on each: sepal, petal, standard petal (Flamboyant only), stamens, style, stigma, ovary. Titles under each: Flamboyant (Delonix regia), Pride of Barbados (Caesalpinia pulcherrima). Clean flat textbook style, white background.]
+![Comparison of Flamboyant flower in front view showing distinct standard petal and stamens alongside a Pride of Barbados flower in side view with elongated reproductive parts.](images/B7b-06-flamboyant-pride-barbados-comparison.png)
 
 #### Comparing the three flowers
 
@@ -354,7 +354,7 @@ Insects visit flowers to feed on **nectar** and **pollen**. As they move around 
 6. **Small, light, smooth, dry pollen grains** that are easily carried by wind.
 7. Flowers are often held **high up** above the leaves (for example the maize **tassel** at the top of the plant), or appear before the leaves.
 
-[IMAGE: A maize plant shown whole on the left, with a male tassel (branched spike of male flowers) at the top and a female cob in a leaf axil lower down with long silky threads (silks) hanging out of its husk. On the right, two enlargements: a male spikelet with three anthers dangling on long thin filaments, and a section of the female cob showing a single grain-forming ovary with its very long silk (style and stigma) leading out. Show tiny pollen grains drifting in the air from the tassel towards the silks. Labels: tassel (male inflorescence), cob (female inflorescence), husk leaves, silks (styles and stigmas), anthers hanging out, long filaments, ovary, pollen grains carried by wind. Soft green and pale yellow colours. Clean flat textbook style, white background.]
+![Botanical diagram of a maize plant showing male tassel, female cob, windblown pollen, and insets of a male flower with anthers and an ovary with silk.](images/B7b-08-maize-plant-reproduction.png)
 
 #### Insect-pollinated and wind-pollinated flowers compared
 
@@ -373,7 +373,7 @@ Insects visit flowers to feed on **nectar** and **pollen**. As they move around 
 | Landing platform | Often present | Absent |
 | Examples | Hibiscus, Flamboyant, Pride of Barbados, *Crotalaria*, pumpkin | Maize, guinea grass, millet, sorghum, elephant grass |
 
-[IMAGE: Side-by-side comparison. Left: a bee visiting a large brightly coloured open flower, with yellow pollen grains stuck on its hairy body, the anthers and sticky stigma inside the flower, and coloured nectar guide lines on the petals. Right: a grass flower (spikelet) with small dull green bracts, anthers dangling on long filaments outside the flower, and two large feathery stigmas outside, with pollen blowing away in wavy wind lines. Labels on left: bright petal, nectar guide, anther inside flower, sticky stigma, pollen on insect body. Labels on right: small dull bracts, anther hanging out, long filament, feathery stigma, light pollen carried by wind. Titles: insect-pollinated flower, wind-pollinated flower. Clean flat textbook style, white background.]
+![Side-by-side comparison of an insect-pollinated flower with bright petals and a visiting bee, next to a wind-pollinated grass spikelet with feathery stigmas and dangling anthers.](images/B7b-09-insect-vs-wind-pollination.png)
 
 ### Mechanisms that prevent self-pollination (and so encourage cross-pollination)
 
@@ -451,7 +451,7 @@ Because two fusions take place, the process is called **double fertilisation**. 
 
 **Note:** the fusion of the second male nucleus with the polar nuclei is sometimes called **triple fusion**, because three nuclei (one male, two polar) fuse.
 
-[IMAGE: Diagram of a carpel in longitudinal section showing double fertilisation. Show pollen grains on the stigma, one of which has grown a long pollen tube down through the style into the ovary and through the micropyle of an ovule. Inside the tube near its tip: a tube nucleus and two male nuclei. Inside the ovule's embryo sac: the egg cell with two synergids at the micropyle end, two polar nuclei in the centre and three antipodal cells at the far end. Use two dotted arrows: one from a male nucleus to the egg cell (labelled "male nucleus + egg = zygote 2n") and one from the other male nucleus to the polar nuclei (labelled "male nucleus + 2 polar nuclei = endosperm nucleus 3n"). Labels: pollen grain, stigma, style, pollen tube, tube nucleus, male nuclei, ovary wall, ovule, micropyle, integuments, egg cell, synergids, polar nuclei, antipodal cells. Soft green carpel, yellow pollen, purple nuclei. Clean flat textbook style, white background.]
+![Diagram of a carpel in longitudinal section showing a pollen tube delivering male nuclei to an ovule for double fertilisation.](images/B7b-11-double-fertilisation-angiosperms.png)
 
 ### What happens after fertilisation
 
@@ -661,7 +661,7 @@ A **multiple fruit** (also called a **composite fruit** or **collective fruit**)
 - **Breadfruit** (*Artocarpus altilis*) and **African breadfruit** (*ukwa*, *Treculia africana*): large fruits formed from many flowers on a fleshy axis. The seeds of *ukwa* are cooked and eaten in south-eastern Nigeria.
 - **Jackfruit**, **fig** and **mulberry**.
 
-[IMAGE: Three fruits side by side. 1. Aggregate fruit: a soursop shown whole (green with soft spines) and cut lengthwise, showing many white fleshy fruitlets each with a black seed, arranged around a central core (receptacle). 2. Multiple fruit: a pineapple shown whole with diamond-shaped "eyes", and cut lengthwise showing the fused fruitlets around the fibrous central axis, with the crown of leaves on top. 3. A simple fruit for contrast: a pawpaw cut across showing one hollow chamber with black seeds on the inner wall. Labels: fruitlet (from one carpel), seed, receptacle, eye (one flower), bract, central axis (core), crown, pericarp, parietal placenta. Titles: aggregate fruit (soursop), multiple fruit (pineapple), simple fruit (pawpaw). Clean flat textbook style, white background.]
+![Diagram comparing three fruit types showing whole and sectioned soursop, whole and sectioned pineapple, and a sectioned pawpaw displaying internal seeds.](images/B7b-14-fruit-classification-comparison.png)
 
 #### Simple, aggregate and multiple fruits compared
 
@@ -721,7 +721,7 @@ A **true fruit** develops only from the **ovary**. A **false fruit** (pseudocarp
 
 **Textbook variation:** some textbooks describe the cashew apple as a swollen **receptacle**, others as a swollen **pedicel** (flower stalk); in fact both take part. Some textbooks also call fruits from an inferior ovary (such as cucumber and guava) false fruits, because part of the receptacle is fused to the ovary wall; most simply treat them as true berries.
 
-[IMAGE: A cashew fruit hanging from a twig, drawn large: a pear-shaped, shiny red-yellow cashew apple, with the grey-green kidney-shaped cashew nut attached at its lower end. Beside it, the cashew nut cut open showing the hard shell (pericarp) and the curved kernel (seed) inside. Labels: twig, cashew apple (swollen pedicel and receptacle, false fruit), cashew nut (true fruit), pericarp (shell), seed (kernel). Soft red, yellow and grey-green colours. Clean flat textbook style, white background.]
+![Botanical illustration of a cashew apple with attached cashew nut hanging from a branch, alongside a cross-section of the nut showing its shell and seed.](images/B7b-15-cashew-apple-nut-structure.png)
 
 ### Dispersal of seeds and fruits
 

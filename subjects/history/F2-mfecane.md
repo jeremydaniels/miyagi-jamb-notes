@@ -90,7 +90,7 @@ The Mfecane spread violence far beyond Nguniland. Several leaders adopted Shaka'
 - **Matiwane and the Ngwane:** Fleeing the Ndwandwe, Chief Matiwane led his people over the Drakensberg mountains onto the Highveld, clashing with Sotho communities and causing massive chaos before eventually being destroyed.
 - **The Kololo:** A Sotho group under Chief Sebetwane, pushed out by the chaos, migrated as far north as modern Zambia and temporarily conquered the Lozi kingdom.
 
-[IMAGE: Map of Southern Africa in the early 19th century showing the Mfecane migrations. A central shaded area marks the Zulu Kingdom under Shaka on the eastern coast. Several large arrows radiate outwards: one pointing north into Mozambique labeled "Soshangane (Gaza)", one pointing far north towards Lake Malawi labeled "Zwangendaba (Ngoni)", one pointing west then north into modern Zimbabwe labeled "Mzilikazi (Ndebele)", and one pointing into the mountainous interior labeled "Moshoeshoe (Sotho)". The southern tip shows the Cape Colony. Clean flat textbook illustration, white background.]
+![Map of Southern Africa in the early 19th century illustrating Mfecane migration routes originating from the Zulu Kingdom to surrounding regions and north toward Lake Malawi.](images/F2-02-historical-migration-route-map.png)
 
 ### Consequences of the Mfecane
 

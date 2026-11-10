@@ -1,0 +1,167 @@
+{
+ "A1-01-simple-vs-fractional-distillation": {
+  "caption_below": "Cooling water in and warm water out.",
+  "labels": [
+   [
+    "Thermometer",
+    [
+     188,
+     261
+    ],
+    "L"
+   ],
+   [
+    "Round-bottom flask",
+    [
+     188,
+     564
+    ],
+    "L"
+   ],
+   [
+    "Heat source",
+    [
+     187,
+     735
+    ],
+    "L"
+   ],
+   [
+    "Condenser",
+    [
+     347,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Distillate",
+    [
+     461,
+     677
+    ],
+    "L"
+   ],
+   [
+    "Fractionating column with glass beads",
+    [
+     679,
+     428
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A1-02-paper-chromatography-experiment": {
+  "labels": [
+   [
+    "Lid",
+    [
+     513,
+     165
+    ],
+    "R"
+   ],
+   [
+    "Glass beaker",
+    [
+     754,
+     544
+    ],
+    "R"
+   ],
+   [
+    "Solvent front",
+    [
+     519,
+     335
+    ],
+    "R"
+   ],
+   [
+    "Separated dye spots",
+    [
+     513,
+     509
+    ],
+    "R"
+   ],
+   [
+    "Pencil baseline",
+    [
+     518,
+     740
+    ],
+    "R"
+   ],
+   [
+    "Solvent (mobile phase)",
+    [
+     335,
+     830
+    ],
+    "L"
+   ]
+  ]
+ },
+ "A1-03-gravity-filtration-laboratory-setup": {
+  "labels": [
+   [
+    "Mixture",
+    [
+     317,
+     305
+    ],
+    "L"
+   ],
+   [
+    "Glass rod",
+    [
+     636,
+     245
+    ],
+    "R"
+   ],
+   [
+    "Filter paper",
+    [
+     524,
+     493
+    ],
+    "R"
+   ],
+   [
+    "Filter funnel",
+    [
+     619,
+     471
+    ],
+    "R"
+   ],
+   [
+    "Residue (trapped solid)",
+    [
+     524,
+     547
+    ],
+    "R"
+   ],
+   [
+    "Filtrate (clear liquid)",
+    [
+     538,
+     886
+    ],
+    "R"
+   ],
+   [
+    "Conical flask",
+    [
+     435,
+     823
+    ],
+    "L"
+   ]
+  ]
+ }
+}

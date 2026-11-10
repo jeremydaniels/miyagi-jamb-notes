@@ -438,5 +438,101 @@
     "R"
    ]
   ]
+ },
+ "C7c-03-ozone-layer-depletion-schematic": {
+  "regions": [
+   "Ozone layer (stratosphere)",
+   "Ozone hole"
+  ],
+  "labels": [
+   [
+    "Sun",
+    [
+     126,
+     131
+    ],
+    "L"
+   ],
+   [
+    "Ultraviolet radiation",
+    [
+     267,
+     263
+    ],
+    "L"
+   ],
+   [
+    "Ozone layer (stratosphere)",
+    [
+     208,
+     500
+    ],
+    "L"
+   ],
+   [
+    "Ozone hole",
+    [
+     790,
+     464
+    ],
+    "R"
+   ],
+   [
+    "CFCs from refrigerators and aerosols",
+    [
+     438,
+     828
+    ],
+    "L"
+   ],
+   [
+    "Chlorine atom",
+    [
+     741,
+     830
+    ],
+    "R"
+   ],
+   [
+    "Ozone (O3)",
+    [
+     820,
+     832
+    ],
+    "R"
+   ],
+   [
+    "Oxygen (O2)",
+    [
+     904,
+     766
+    ],
+    "R"
+   ],
+   [
+    "Skin cancer",
+    [
+     859,
+     438
+    ],
+    "R"
+   ],
+   [
+    "Cataract",
+    [
+     855,
+     365
+    ],
+    "R"
+   ],
+   [
+    "Crop damage",
+    [
+     928,
+     471
+    ],
+    "R"
+   ]
+  ]
  }
 }

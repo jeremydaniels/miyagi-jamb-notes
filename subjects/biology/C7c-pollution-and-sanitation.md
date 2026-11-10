@@ -144,7 +144,7 @@ Pollution is categorised according to the part of the environment that is pollut
 - CFCs are also powerful **greenhouse gases**.
 - **Control:** the **Montreal Protocol** (1987), an international treaty, phased out the production of CFCs and other ozone-destroying substances. It is considered one of the most successful environmental agreements, and the ozone layer is slowly recovering. Nigeria is a party to it.
 
-[IMAGE: A diagram of the Earth with the atmosphere shown as layers. A thin pale blue band labelled as the ozone layer in the stratosphere. On the left, sunlight arrows with ultraviolet rays are mostly absorbed by a thick part of the ozone layer. On the right, the ozone layer is thinner with a gap (ozone hole), and UV arrows pass through to reach a person, a plant and the sea. Small icons show an old refrigerator and an aerosol can releasing CFC molecules that drift upward, and a magnified inset showing a chlorine atom breaking an ozone molecule (O3) into oxygen (O2). Labels: "Sun", "Ultraviolet radiation", "Ozone layer (stratosphere)", "Ozone hole", "CFCs from refrigerators and aerosols", "Chlorine atom", "Ozone (O3)", "Oxygen (O2)", "Skin cancer", "Cataract", "Crop damage". Clean flat textbook style, white background.]
+![Diagram showing the Earth surrounded by an ozone layer blocking UV rays on the left, but depleted by CFCs on the right allowing UV rays through.](images/C7c-03-ozone-layer-depletion-schematic.png)
 
 #### Acid rain
 

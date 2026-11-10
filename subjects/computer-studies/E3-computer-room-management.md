@@ -32,7 +32,7 @@ A proper sitting arrangement ensures that the user's body is supported in a natu
 5. **Elbows and arms:** Forearms should be parallel to the floor (horizontal). The elbows should rest comfortably at your sides, bent at an angle of 90 to 110 degrees.
 6. **Neck and head:** The head should be kept upright, directly over the shoulders, without straining forward or tilting backward.
 
-[IMAGE: A side-view illustration of a person sitting at a computer desk demonstrating proper ergonomics. The diagram has green checkmarks and labels showing: eyes level with the top of the monitor, back straight and supported by the chair, elbows bent at 90 degrees, wrists straight, and feet flat on the floor or on a footrest. Clean flat textbook style, white background.]
+![A side-view illustration of a person sitting at a computer desk demonstrating proper ergonomics, with green checkmarks indicating correct posture elements.](images/E3-01-view-person-sitting-at.png)
 
 ## Positioning computer equipment appropriately
 
@@ -62,7 +62,7 @@ An ergonomic sitting arrangement only works if the computer equipment is placed 
 - **UPS (Uninterruptible Power Supply):** Place it on the floor or a sturdy lower shelf, away from foot traffic so that power cables are not tripped over.
 - **Printers and Scanners:** Place these on a secondary desk or to the side of the main workspace. They do not need to be directly in front of the user since they are not looked at continuously. 
 
-[IMAGE: A top-down layout of a standard computer desk. Labels point out the keyboard directly in front of the user space, the mouse immediately to the right of the keyboard on a mousepad, the monitor centered behind the keyboard, and the system unit safely to the side with clear space around its back vents. Clean flat textbook style, white background.]
+![A top-down layout of a standard computer desk showing a monitor, keyboard, mouse, and system unit.](images/E3-02-top-down-layout-standard.png)
 
 ## Ensuring proper illumination
 
@@ -99,7 +99,7 @@ Computers are highly sensitive to dust. In many parts of Nigeria, especially dur
 4. **Regular Cleaning:** The laboratory must be cleaned regularly. Use a vacuum cleaner or a slightly damp mop on the floor instead of a dry broom, because sweeping throws dust into the air where it can settle inside the computers.
 5. **Blowing the System:** During routine maintenance, a specialized computer blower is used to gently blow accumulated dust out of the system unit. 
 
-[IMAGE: A split illustration. On the left, a dirty computer room with open windows blowing in dust, an uncovered keyboard, and a clogged cooling fan. On the right, a clean computer room with AC running, closed windows, computers protected by dust covers, and a clean cooling fan. Clean flat textbook style, white background.]
+![Split image showing a dirty computer room with open window and dust on left and a clean computer room with AC and closed window on right](images/E3-03-split-left-dirty-computer.png)
 
 ## Keeping liquid away from the computer room
 

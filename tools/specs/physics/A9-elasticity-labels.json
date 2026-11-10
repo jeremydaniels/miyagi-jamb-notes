@@ -1,0 +1,46 @@
+{
+ "A9-02-spring-balance": {
+  "labels": [
+   [
+    "Suspension ring",
+    [
+     518,
+     81
+    ],
+    "R"
+   ],
+   [
+    "Spring",
+    [
+     510,
+     421
+    ],
+    "L"
+   ],
+   [
+    "Indicator / Pointer",
+    [
+     527,
+     564
+    ],
+    "R"
+   ],
+   [
+    "Scale (N)",
+    [
+     580,
+     454
+    ],
+    "R"
+   ],
+   [
+    "Load (Force)",
+    [
+     515,
+     901
+    ],
+    "R"
+   ]
+  ]
+ }
+}

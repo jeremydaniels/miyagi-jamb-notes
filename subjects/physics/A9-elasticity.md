@@ -120,7 +120,7 @@ Here is what the key points on the curve mean:
 
 A **spring balance** (or Newton meter) is a simple mechanical instrument used to measure force. It works entirely on the principle of **Hooke's Law**. 
 
-[IMAGE: Illustration of a spring balance (Newton meter). A tubular casing with a hook at the top for suspension and a hook at the bottom where a load is attached. Inside the casing, a coiled spring is visible or implied, connected to an indicator (pointer) that slides along a vertical scale on the outside of the casing. The scale is marked in Newtons (N) and usually grams (g) or kilograms (kg). Labels to add later: "Suspension ring", "Spring", "Indicator / Pointer", "Scale (N)", "Load (Force)". Clean flat textbook illustration, white background.]
+![A diagram of a spring balance with a top suspension hook, internal coiled spring, pointer, graduated scale, bottom hook, and an attached suspended load.](images/A9-02-spring-balance.png)
 
 Inside the casing is a stiff spring attached to a pointer. When you hang an object on the hook, its weight (a downward force) stretches the spring. Because Hooke's law says $F \propto e$, the distance the pointer moves down the scale is directly proportional to the force applied. The scale is calibrated to read this force directly in Newtons ($\text{N}$). 
 

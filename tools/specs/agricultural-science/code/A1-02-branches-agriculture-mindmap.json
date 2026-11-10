@@ -1,0 +1,13 @@
+{
+ "template": "hub",
+ "center": "Agriculture",
+ "spokes": [
+  "Agronomy",
+  "Animal Husbandry",
+  "Veterinary Medicine",
+  "Agricultural Engineering",
+  "Agricultural Economics",
+  "Fishery",
+  "Forestry"
+ ]
+}

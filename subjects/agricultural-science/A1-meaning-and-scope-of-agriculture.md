@@ -45,7 +45,7 @@ Marketing is not just sitting and selling in a local market; it encompasses all 
 *   **Examples:** Packaging, grading produce by size and quality, storing in warehouses or silos, advertising, and transporting produce from rural areas to urban centres (for example, moving yams from a farm in Benue State to Mile 12 market in Lagos), and final sales.
 *   Marketing ensures the farmer makes a profit and the consumer gets the food they need at the right time and place.
 
-[IMAGE: A three-part flowchart showing the modern scope of agriculture. Left panel (Production): A farmer harvesting fresh cassava tubers from the soil. Middle panel (Processing): A woman frying grated cassava in a wide pan to make garri. Right panel (Marketing): A neatly packaged bag of garri being sold to a customer in a supermarket. Arrows link the panels. Labels to add later: "Production (Raw Materials)", "Processing (Value Addition & Preservation)", "Marketing (Distribution & Sales)". Clean flat textbook style, white background.]
+![A three panel illustration showing cassava production with a farmer harvesting tubers, cassava processing with a woman frying garri over a stove, and marketing in a supermarket.](images/A1-01-cassava-processing-value-chain.png)
 
 ## Branches of Agriculture
 
@@ -72,7 +72,7 @@ JAMB expects you to know what each branch focuses on and to be able to different
 
 *(Note: These individual branches, such as Crop Husbandry, Livestock Management, and Farm Management, are explored in deep detail in their respective files in this series).*
 
-[IMAGE: A circular concept map with "Agriculture" in the centre. Branches radiate outwards: Agronomy (icon of a maize plant), Animal Husbandry (icon of a cow), Veterinary Medicine (icon of a syringe/cross), Agricultural Engineering (icon of a tractor), Agricultural Economics (icon of a chart with a naira ₦ symbol), Fishery (icon of a fish), Forestry (icon of a tree). Clean flat textbook style, white background.]
+![A concept map with Agriculture at the center, radiating outward to seven branches: Agronomy, Animal Husbandry, Veterinary Medicine, Agricultural Engineering, Agricultural Economics, Fishery, and Forestry.](images/A1-02-branches-agriculture-mindmap.png)
 
 ## Types of Agriculture i.e., subsistence and commercial
 
@@ -96,7 +96,7 @@ You must be able to compare these two types across several features, and identif
 | **Yield/Output** | Low yield | High yield / mass production |
 | **Record Keeping** | Poor or non-existent farm records | Strict and detailed financial and production records |
 
-[IMAGE: A split illustration comparing Subsistence and Commercial farming. Left half (Subsistence): A Nigerian farmer in simple clothes using a hand hoe on a small, mixed crop plot of maize and cassava. A small mud storage hut is in the background. Right half (Commercial): A vast, flat field entirely planted with a single crop (maize). A large green tractor with a plough is working the land, and large metal storage silos are in the distance. Clean flat textbook style, white background.]
+![A split illustration comparing a subsistence farmer using a hand hoe on a mixed crop plot to commercial farming with a tractor in a vast monoculture maize field.](images/A1-03-subsistence-versus-commercial-farming.png)
 
 #### Advantages and Disadvantages of Subsistence Agriculture
 

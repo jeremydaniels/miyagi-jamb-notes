@@ -1,0 +1,41 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "The Accounting Cycle",
+ "nodes": [
+  {
+   "id": "source",
+   "text": "Source Documents\n(e.g. Invoice)",
+   "shape": "round"
+  },
+  {
+   "id": "prime_entry",
+   "text": "Books of Prime Entry\n(e.g. Sales Journal)",
+   "shape": "round"
+  },
+  {
+   "id": "ledger",
+   "text": "Ledger\n(Double Entry)",
+   "shape": "round"
+  },
+  {
+   "id": "trial_balance",
+   "text": "Trial Balance",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "source",
+   "to": "prime_entry"
+  },
+  {
+   "from": "prime_entry",
+   "to": "ledger"
+  },
+  {
+   "from": "ledger",
+   "to": "trial_balance"
+  }
+ ]
+}

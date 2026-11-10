@@ -15,7 +15,7 @@ By the end of these notes, you should be able to:
 6. identify various types of errors and their corrections; and
 7. correct errors using suspense account.
 
-[IMAGE: A flowchart showing the accounting cycle starting from Source Documents (like an invoice), an arrow pointing to Books of Prime Entry (like Sales Day Book), an arrow pointing to the Ledger (T-accounts), and a final arrow pointing to the Trial Balance. Exact labels: "Source Documents (e.g. Invoice)", "Books of Prime Entry (e.g. Sales Journal)", "Ledger (Double Entry)", "Trial Balance". Clean flat textbook illustration, white background.]
+![A flowchart showing the accounting cycle progressing from source documents to books of prime entry, then to the ledger, and finally to the trial balance.](images/A2-01-double-entry-cycle-flowchart.png)
 
 ## Source documents
 
@@ -77,7 +77,7 @@ The formula is:
 - **Liabilities:** What the business owes to outsiders (e.g., bank loans, creditors).
 - **Capital:** What the business owes to the owner (the owner's investment, plus any profits, minus any drawings). Capital can also be rearranged as: **$$Capital = Assets - Liabilities$$**.
 
-[IMAGE: Diagram of the Accounting Equation. A large classic balancing scale. On the left pan, a heavy gold block labeled "ASSETS (What the business owns)". On the right pan, two blocks stacked together labeled "CAPITAL (Owner's claim)" and "LIABILITIES (Outsiders' claims)". The scale is perfectly balanced. Clean flat textbook illustration, white background.]
+![A balanced scale illustrates the accounting equation, with assets on the left pan balancing stacked blocks of capital and liabilities on the right pan.](images/A2-02-accounting-equation-scale.png)
 
 ### Effects of changes in the accounting equation
 

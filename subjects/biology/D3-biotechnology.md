@@ -302,7 +302,7 @@ Other traditional fermented drinks and foods include **burukutu** and **pito** (
 3. The **CO₂ bubbles** are trapped by the stretchy **gluten** protein in the dough, so the dough **rises** (becomes light and spongy).
 4. During **baking**, the heat kills the yeast, the bubbles expand further, the ethanol **evaporates**, and the bread sets.
 
-[IMAGE: Three-panel diagram of bread making with yeast. Panel 1: a bowl of freshly kneaded dough, small and dense, with an inset circle showing oval budding yeast cells among starch grains. Panel 2: the same dough in a warm place, risen to twice its size, with a cut-away showing many trapped gas bubbles and an inset showing yeast cells releasing tiny CO2 bubbles. Panel 3: a baked brown loaf sliced to show the spongy, airy crumb, with wavy lines rising from it. Labels to add later: "1 dough: flour, water, sugar and yeast (Saccharomyces)", "yeast cells", "2 proving: yeast ferments sugar", "carbon (IV) oxide bubbles trapped by gluten", "dough rises", "3 baking: yeast killed, alcohol evaporates", "spongy bread". Clean flat textbook style, white background.]
+![Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.](images/D3-07-bread-making-yeast-fermentation.png)
 
 ### 3. Yoghurt
 
@@ -363,7 +363,7 @@ Microorganisms produce **citric acid** (by the mould *Aspergillus niger*, used i
 
 **Advantages:** cheap fuel from waste; reduces the cutting of trees for firewood; disposes of animal and human waste hygienically; reduces bad smells and flies; gives fertiliser; reduces the release of methane (a greenhouse gas) from rotting waste. Biogas digesters are being used in some Nigerian farms, abattoirs and schools.
 
-[IMAGE: Cross-section of a simple underground biogas digester. On the left, a farmer pours a slurry of cow dung and water into an inlet tank with a pipe leading down into a large dome-shaped underground digester chamber. Inside the chamber, brown slurry at the bottom with tiny bacteria shown in an inset, and gas bubbles rising into a gas-filled space at the top. A gas pipe with a valve leads from the top of the dome to a kitchen with a blue-flamed gas burner under a cooking pot. On the right, an outlet tank where spent slurry overflows and is carried to a vegetable garden as fertiliser. Labels to add later: "inlet: animal dung + water", "digester (airtight, no oxygen)", "bacteria break down waste", "biogas (mainly methane)", "gas pipe and valve", "cooking stove", "outlet", "spent slurry used as fertiliser". Clean flat textbook style, white background.]
+![Cross-section of an underground biogas digester system showing the inlet tank, underground chamber with bacterial inset, gas pipe to a stove, and outlet to a garden.](images/D3-08-biogas-digester-cross-section.png)
 
 ### 2. Bioremediation of oil spills
 

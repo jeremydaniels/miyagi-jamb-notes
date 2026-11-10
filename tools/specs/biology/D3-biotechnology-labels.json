@@ -398,5 +398,90 @@
     "R"
    ]
   ]
+ },
+ "D3-07-bread-making-yeast-fermentation": {
+  "caption_below": "Proving yeast ferments sugar carbon oxide bubbles trapped dough rises baking yeast killed alcohol evaporates",
+  "labels": [
+   [
+    "1 dough: flour, water, sugar and yeast (Saccharomyces)",
+    [
+     173,
+     413
+    ],
+    "L"
+   ],
+   [
+    "yeast cells",
+    [
+     112,
+     684
+    ],
+    "L"
+   ],
+   [
+    "spongy bread",
+    [
+     823,
+     492
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D3-08-biogas-digester-cross-section": {
+  "caption_below": "Bacteria break down waste producing biogas mainly methane",
+  "regions": [
+   "digester (airtight, no oxygen)"
+  ],
+  "labels": [
+   [
+    "inlet: animal dung + water",
+    [
+     136,
+     494
+    ],
+    "L"
+   ],
+   [
+    "digester (airtight, no oxygen)",
+    [
+     499,
+     611
+    ],
+    "L"
+   ],
+   [
+    "gas pipe and valve",
+    [
+     600,
+     279
+    ],
+    "R"
+   ],
+   [
+    "cooking stove",
+    [
+     854,
+     300
+    ],
+    "R"
+   ],
+   [
+    "outlet",
+    [
+     760,
+     513
+    ],
+    "R"
+   ],
+   [
+    "spent slurry used as fertiliser",
+    [
+     915,
+     577
+    ],
+    "R"
+   ]
+  ]
  }
 }

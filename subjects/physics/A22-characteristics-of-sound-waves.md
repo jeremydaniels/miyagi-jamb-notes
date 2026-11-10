@@ -253,7 +253,7 @@ A resonance tube experiment shows consecutive resonances at air column lengths o
 *Step 4:* Use the wave equation: $v = f \lambda$.
 *Step 5:* Substitute and calculate: $v = 500 \times 0.68 = 340\text{ m s}^{-1}$.
 
-![Diagram of a resonance tube apparatus showing a glass tube with water, a vibrating tuning fork above it, a ruler, and a connected water reservoir.](images/A22-06-resonance-tube-apparatus.png)
+[IMAGE: A resonance tube apparatus. A tall glass tube containing water, with a meter rule beside it. A tuning fork is vibrating just above the open top of the tube. A water reservoir on the side is connected to the bottom of the tube by a rubber hose, allowing the water level to be raised or lowered. Labels: "vibrating tuning fork", "air column (length L)", "glass tube", "water level (acts as a closed end)", "meter rule", "reservoir". Clean flat textbook style, white background.]
 
 ---
 

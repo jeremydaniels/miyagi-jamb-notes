@@ -44,7 +44,7 @@ Because a triangle is the only simple polygon that cannot be deformed or changed
 6. **Pegs:** Wooden stakes driven into the ground to permanently mark survey stations.
 7. **Field Book:** A special notebook for recording measurements. Measurements are uniquely recorded **from the bottom of the page upward** to the top, representing the surveyor's forward movement.
 
-[IMAGE: A collection of chain surveying equipment cleanly arranged on a white background. From left to right: a coiled 30 m metric steel chain with brass handles and tallies; a set of ten thin metal surveyor's arrows; two tall ranging poles with alternating red and white horizontal stripes; a fibreglass measuring tape in its casing; and a wooden cross-staff mounted on a short pole. Clean flat textbook illustration, white background.]
+![Illustration of chain surveying equipment arranged horizontally including a metric steel chain with handles, surveyor arrows, two ranging poles, a measuring tape, and a wooden cross-staff.](images/A5-01-chain-surveying-equipment-set.png)
 
 ### Procedure for Chain Surveying
 
@@ -165,7 +165,7 @@ A closed traverse starts at a known point and returns to that exact same startin
 - **Uses:** It is used for surveying bounded areas like a school compound, a lake, an estate, or a forest reserve.
 - **Error of Closure:** When plotting a closed traverse on paper, the last line drawn should perfectly meet the starting point. If there were slight inaccuracies in reading the compass or measuring the tape, the lines will not meet. The small gap is called the **error of closure**. Surveyors correct this error on paper using mathematical rules (like *Bowditch's Rule*) or graphical adjustment methods.
 
-[IMAGE: A side-by-side diagram showing an Open Traverse and a Closed Traverse. Left side (Open Traverse): Five points connected by straight lines (A -> B -> C -> D -> E) zigzagging downwards, with an arrow pointing along a winding river next to it. Right side (Closed Traverse): Five points forming a closed pentagon shape (A -> B -> C -> D -> E -> A), with a dashed line showing a slight gap between the final point E and the starting point A, labelled "Error of Closure". Clean flat textbook style, white background.]
+![Diagram comparing an open traverse alongside a winding river with a closed pentagonal traverse showing an error of closure between the final and starting stations.](images/A5-03-open-closed-traverse-diagrams.png)
 
 ---
 

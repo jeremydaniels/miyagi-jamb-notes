@@ -28,7 +28,7 @@ Therefore, **environmental resources** are all the useful materials, elements, a
 
 If something exists in the environment but humans have no use for it (or do not yet have the technology to use it), it is just a "neutral stuff" or an element of the environment, not a resource. For example, crude oil in the Niger Delta was just a dark, sticky liquid in the ground for centuries until the invention of the internal combustion engine and oil-drilling technology turned it into a highly valuable resource.
 
-[IMAGE: A mind map diagram titled "Environmental Resources". In the center is a circle with "Environmental Resources". Five branches lead out to smaller circles labelled: "Atmospheric", "Land", "Soil", "Vegetation", and "Minerals". Surrounding these circles are small icons representing each: a sun and cloud for atmospheric, a mountain and building for land, a sprouting plant in earth for soil, a tree for vegetation, and a diamond and oil drum for minerals. Clean flat textbook style, white background.]
+![A mind map of environmental resources branching into atmospheric, land, vegetation, soil, and minerals, each illustrated with representative icons.](images/B9-01-environmental-resources-mind-map.png)
 
 ---
 
@@ -146,7 +146,7 @@ Because their supply is finite, continuous extraction will eventually lead to th
 
 *Note: While minerals themselves are non-renewable, many metallic products (like aluminum cans and iron steel) can be **recycled** and reused, which helps conserve the non-renewable raw mineral in the ground.*
 
-[IMAGE: A split infographic contrasting Renewable and Non-renewable resources. Left side (green theme, labelled "Renewable Resources"): Icons of a bright sun, a modern wind turbine, a flowing river, a green tree, and a fish. An arrow loops in a circle to show infinite replenishment. Right side (orange/grey theme, labelled "Non-Renewable Resources"): Icons of an oil rig pumping dark oil, a lump of coal, a gold bar, and an excavator digging a quarry. A downward arrow pointing to an empty gauge indicates limited supply. Clean flat textbook style, white background.]
+![Infographic contrasting renewable resources like solar, wind, and biomass with non-renewable resources like petroleum, coal, and minerals, highlighting infinite replenishment versus limited supply depletion.](images/B9-02-renewable-nonrenewable-comparison-chart.png)
 
 ### Comparison: Renewable vs. Non-Renewable Resources
 

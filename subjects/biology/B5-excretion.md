@@ -92,7 +92,7 @@ These three words sound alike and are often confused.
 
 Different organisms have different excretory structures, depending on their size, complexity and habitat. Very small organisms can remove wastes through their whole body surface by **diffusion**, because they have a large surface area compared with their volume. Larger, more complex animals need special organs.
 
-[IMAGE: A four-panel comparison of simple excretory structures. Panel 1: an Amoeba with one contractile vacuole, showing the vacuole full (large) and then contracting at the cell membrane to expel water. Panel 2: a single flame cell of a flatworm, cup-shaped, with a tuft of cilia inside the cavity and a tube leading away into an excretory canal. Panel 3: one segment of an earthworm showing a coiled nephridium with a ciliated funnel opening into the coelom in front of the septum and a pore opening on the body wall. Panel 4: the gut of an insect with many thin Malpighian tubules attached at the junction of the midgut and hindgut, floating in body fluid. Labels: contractile vacuole, nucleus, cell membrane, flame cell, cilia, excretory canal, nephrostome, septum, coiled tubule, bladder, nephridiopore, midgut, hindgut, Malpighian tubules, rectum. Soft blue for water, pale pink tissues. Clean flat textbook style, white background.]
+![A four-panel scientific diagram comparing simple excretory systems: amoeba contractile vacuole, flatworm flame cell, earthworm metanephridium, and insect Malpighian tubules connected to the digestive tract.](images/B5-01-comparative-invertebrate-excretory-structures.png)
 
 ### 1. The contractile vacuole
 
@@ -171,7 +171,7 @@ The flame cell system is a simple type of excretory organ called a **protonephri
 
 **Textbook variation:** some earthworms (such as *Pheretima*) have several kinds of small nephridia (micronephridia), some of which open into the gut instead of to the outside. Textbooks for JAMB usually describe the simple "one pair per segment" type of *Lumbricus*, as here.
 
-[IMAGE: One segment of an earthworm cut open (longitudinal view), showing a single nephridium. A ciliated funnel (nephrostome) opens into the coelom in front of the septum; a long coiled tubule surrounded by red blood capillaries lies in the next segment; the tubule widens into a muscular bladder that opens through the body wall at the nephridiopore. Small arrows show fluid entering the funnel. Labels: coelom, septum, nephrostome (ciliated funnel), coiled tubule, blood capillaries, bladder, nephridiopore, body wall, intestine. Pinkish-brown body colours. Clean flat textbook style, white background.]
+![Diagram of an earthworm nephridium showing the ciliated nephrostome funnel, septum, coiled tubule surrounded by capillaries, bladder, nephridiopore, intestine, and body wall.](images/B5-03-earthworm-nephridium-excretory-structure.png)
 
 ### 4. The Malpighian tubules
 

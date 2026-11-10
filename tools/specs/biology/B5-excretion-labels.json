@@ -787,5 +787,200 @@
     "L"
    ]
   ]
+ },
+ "B5-01-comparative-invertebrate-excretory-structures": {
+  "labels": [
+   [
+    "contractile vacuole",
+    [
+     173,
+     186
+    ],
+    "L"
+   ],
+   [
+    "nucleus",
+    [
+     303,
+     351
+    ],
+    "L"
+   ],
+   [
+    "cell membrane",
+    [
+     179,
+     110
+    ],
+    "L"
+   ],
+   [
+    "flame cell",
+    [
+     653,
+     101
+    ],
+    "R"
+   ],
+   [
+    "cilia",
+    [
+     658,
+     211
+    ],
+    "R"
+   ],
+   [
+    "excretory canal",
+    [
+     883,
+     354
+    ],
+    "R"
+   ],
+   [
+    "nephrostome",
+    [
+     131,
+     747
+    ],
+    "L"
+   ],
+   [
+    "septum",
+    [
+     142,
+     693
+    ],
+    "L"
+   ],
+   [
+    "coiled tubule",
+    [
+     247,
+     760
+    ],
+    "L"
+   ],
+   [
+    "bladder",
+    [
+     380,
+     754
+    ],
+    "L"
+   ],
+   [
+    "nephridiopore",
+    [
+     355,
+     881
+    ],
+    "L"
+   ],
+   [
+    "midgut",
+    [
+     619,
+     742
+    ],
+    "R"
+   ],
+   [
+    "hindgut",
+    [
+     835,
+     745
+    ],
+    "R"
+   ],
+   [
+    "Malpighian tubules",
+    [
+     756,
+     677
+    ],
+    "R"
+   ],
+   [
+    "rectum",
+    [
+     952,
+     708
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5-03-earthworm-nephridium-excretory-structure": {
+  "regions": [
+   "coelom"
+  ],
+  "labels": [
+   [
+    "septum",
+    [
+     503,
+     437
+    ],
+    "L"
+   ],
+   [
+    "nephrostome (ciliated funnel)",
+    [
+     351,
+     369
+    ],
+    "L"
+   ],
+   [
+    "coiled tubule",
+    [
+     677,
+     410
+    ],
+    "R"
+   ],
+   [
+    "blood capillaries",
+    [
+     689,
+     309
+    ],
+    "R"
+   ],
+   [
+    "bladder",
+    [
+     771,
+     649
+    ],
+    "R"
+   ],
+   [
+    "nephridiopore",
+    [
+     760,
+     786
+    ],
+    "R"
+   ],
+   [
+    "body wall",
+    [
+     142,
+     464
+    ],
+    "L"
+   ],
+   [
+    "intestine",
+    [
+     361,
+     505
+    ],
+    "L"
+   ]
+  ]
  }
 }

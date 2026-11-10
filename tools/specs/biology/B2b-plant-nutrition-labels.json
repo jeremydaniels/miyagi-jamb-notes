@@ -175,7 +175,7 @@
      576,
      430
     ],
-    "T"
+    "R"
    ],
    [
     "paper clip",
@@ -183,7 +183,7 @@
      615,
      454
     ],
-    "T"
+    "R"
    ],
    [
     "sunlight",
@@ -191,7 +191,7 @@
      626,
      218
     ],
-    "T"
+    "R"
    ],
    [
     "blue-black (starch present)",
@@ -209,10 +209,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2b-06-carbon-dioxide-requirement-experiment": {
   "labels": [
@@ -220,71 +217,71 @@
     "bell jar",
     [
      107,
-     491
+     356
     ],
     "L"
    ],
    [
     "Vaseline seal",
     [
-     266,
-     240
+     124,
+     718
     ],
     "L"
    ],
    [
     "glass plate",
     [
-     256,
-     742
+     136,
+     775
     ],
     "L"
    ],
    [
     "polythene bag",
     [
-     256,
-     614
+     294,
+     547
     ],
     "L"
    ],
    [
     "potassium hydroxide (absorbs CO₂)",
     [
-     373,
-     701
+     380,
+     684
     ],
     "L"
    ],
    [
     "water or sodium hydrogen carbonate (control)",
     [
-     865,
-     701
+     880,
+     684
     ],
     "R"
    ],
    [
     "sunlight",
     [
-     890,
-     184
+     266,
+     131
     ],
-    "R"
+    "L"
    ],
    [
     "leaf from A: brown (no starch)",
     [
-     266,
-     839
+     256,
+     883
     ],
     "L"
    ],
    [
     "leaf from B: blue-black (starch)",
     [
-     757,
-     839
+     749,
+     890
     ],
     "R"
    ]
@@ -379,60 +376,68 @@
    [
     "cork",
     [
-     179,
-     532
+     223,
+     524
     ],
     "L"
    ],
    [
     "air tube (aeration)",
     [
-     233,
-     445
+     111,
+     464
     ],
     "L"
    ],
    [
     "black paper (prevents algae)",
     [
-     104,
-     741
+     88,
+     702
     ],
     "L"
    ],
    [
     "culture solution",
     [
-     630,
-     788
+     200,
+     783
     ],
-    "T"
-   ]
-  ],
-  "captions": [
+    "L"
+   ],
    [
-    "complete\n(control)",
-    195,
-    893
+    "complete (control)",
+    [
+     173,
+     309
+    ],
+    "L"
    ],
    [
     "minus nitrogen",
-    408,
-    894
+    [
+     410,
+     351
+    ],
+    "L"
    ],
    [
-    "minus\nphosphorus",
-    637,
-    894
+    "minus phosphorus",
+    [
+     635,
+     390
+    ],
+    "R"
    ],
    [
-    "minus\npotassium",
-    865,
-    893
+    "minus potassium",
+    [
+     859,
+     361
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2b-12-leaf-nutrient-deficiency-symptoms": {
   "labels": [
@@ -550,7 +555,7 @@
      552,
      675
     ],
-    "L"
+    "R"
    ],
    [
     "oxygen",
@@ -584,10 +589,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2b-07-variegated-leaf-starch-test": {
   "labels": [
@@ -631,22 +633,19 @@
    [
     "white tile",
     [
-     515,
-     924
+     596,
+     822
     ],
     "R"
    ],
    [
     "iodine solution",
     [
-     886,
-     708
+     827,
+     785
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

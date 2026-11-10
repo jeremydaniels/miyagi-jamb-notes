@@ -4,23 +4,20 @@
    "Western Education (Mission Schools)",
    "Western Medicine (Mission Dispensaries)"
   ],
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Western Education (Mission Schools)",
-    [
-     266,
-     501
-    ],
-    "L"
+    "Western Education\n(Mission Schools)",
+    269,
+    850
    ],
    [
-    "Western Medicine (Mission Dispensaries)",
-    [
-     768,
-     501
-    ],
-    "R"
+    "Western Medicine\n(Mission Dispensaries)",
+    768,
+    841
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

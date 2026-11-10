@@ -183,7 +183,7 @@ The three-sector model introduces the **Government** into the flow. It also intr
 * **Firms** may borrow money to buy machinery, which is Investment (Injection).
 * **Government** collects taxes but also spends money on public goods, like building roads or paying civil servants. This is Government Spending (Injection).
 
-[IMAGE: A diagram showing the Three-Sector Circular Flow. The basic loop between Households and Firms is present. In the center is a box labelled "Government". Arrows pointing to the Government from Households and Firms are labelled "Taxes (T)". Arrows pointing from Government to Firms and Households are labelled "Government Spending (G)". At the bottom, a box labelled "Financial Sector (Banks)". An arrow points from Households to the Financial Sector labelled "Savings (S)". An arrow points from the Financial Sector to Firms labelled "Investment (I)". Style: clean flat textbook illustration, white background.]
+![A diagram of the three-sector circular flow of income showing flows between households, firms, the government, and the financial sector.](images/A11-02-three-sector-circular-flow.png)
 
 ### Injections and Leakages (Withdrawals)
 In any realistic economy (including the foreign sector/four-sector model):

@@ -126,7 +126,7 @@ The body of cattle is divided into the head, stout neck, heavy trunk, limbs, and
 - **Tail**: Long, ending in a tuft of long hair called a **switch**, used to swat flies away.
 - **Udder**: Females (cows) have a large udder hanging between the hind legs. It has four mammary glands (quarters), each with its own teat for milking.
 
-[IMAGE: A clean, flat textbook illustration of a white Zebu cow (White Fulani breed) in profile. The cow has long lyre-shaped horns, a prominent muscular hump on its back behind the neck, a large fleshy dewlap hanging under the neck and brisket, a barrel-shaped body, four legs with cloven hooves, an udder with four teats between the hind legs, and a long tail ending in a hairy switch. Labels to add later: "horns", "ear", "muzzle", "dewlap", "hump", "trunk/body", "udder with teats", "cloven hoof", "tail", "switch". White background.]
+![A textbook illustration in profile of a white Zebu cow showing lyre-shaped horns, dorsal hump, dewlap, udder, and a long tail with a switch.](images/C1-01-white-fulani-cow-anatomy.png)
 
 #### 2. Sheep
 Sheep have a compact body usually covered in short hair in West Africa (or wool in temperate regions).
@@ -156,7 +156,7 @@ Textbooks and examiners frequently ask for the differences between these two clo
 | **Body odour (Males)**| Mild or absent | Very strong, distinct smell |
 | **Upper lip** | Deeply divided by a cleft | Not deeply divided |
 
-[IMAGE: Split illustration comparing the head and tail of a sheep and a goat. On the left, a sheep (Yankasa breed) with drooping ears, a downward-hanging tail, and no beard. On the right, a goat (Red Sokoto breed) with erect ears pointing slightly forward, a distinct beard under the chin, two small wattles on the neck, and a short tail pointing upwards. Labels to add later: "Sheep", "drooping ears", "tail hangs down", "Goat", "erect ears", "beard", "wattles", "tail points up". Clean flat textbook style, white background.]
+![A split illustration comparing a sheep with drooping ears and a hanging tail against a goat with erect ears, chin beard, neck wattles, and an upright tail.](images/C1-02-sheep-goat-comparison.png)
 
 #### 4. Pigs
 Pigs have a stout, heavy body covered in thick skin.
@@ -166,7 +166,7 @@ Pigs have a stout, heavy body covered in thick skin.
 - **Limbs**: Short legs. Each foot has four toes; the two middle toes form a cloven hoof that touches the ground, while the two outer, higher toes (dewclaws) do not bear weight.
 - **Tail**: Short, often curly in exotic breeds.
 
-[IMAGE: A side profile of a Large White pig. It has a long snout with a flat rooting disc at the tip, erect ears pointing upwards, a very short neck, a long, heavy barrel-shaped white body covered with sparse short bristles, short legs showing two main hooves and two smaller dewclaws higher up, and a short curled tail. Labels to add later: "snout with rooting disc", "erect ear", "heavy barrel body", "bristles", "curled tail", "cloven hoof", "dewclaw". Clean flat textbook style, white background.]
+![A side profile illustration of a Large White pig with an erect ear, snout with rooting disc, heavy barrel-shaped body, cloven hooves, dewclaws, and curled tail.](images/C1-03-large-white-pig-profile.png)
 
 #### 5. Rabbits
 Rabbits are small, heavily furred mammals adapted for speed and burrowing.
@@ -175,7 +175,7 @@ Rabbits are small, heavily furred mammals adapted for speed and burrowing.
 - **Limbs**: The forelimbs are short. The hindlimbs are very long, muscular, and powerful, specifically adapted for hopping and leaping away from danger.
 - **Tail**: Very short and fluffy, known scientifically as a **scut**.
 
-[IMAGE: A New Zealand White rabbit in a resting, slightly crouched posture. It has a thick white fur coat, very long erect ears (pinnae) showing pink insides, large pink eyes, a split upper lip showing prominent front teeth, short front legs, large folded muscular hind legs, and a small fluffy tail ball. Labels to add later: "long ears (pinnae)", "prominent eyes", "split upper lip / incisors", "short forelimbs", "powerful muscular hindlimbs", "short fluffy tail (scut)". Clean flat textbook style, white background.]
+![An illustration of a white rabbit in a crouched resting position, displaying long erect ears, pink eyes, visible incisors, short forelegs, muscular hind legs, and a small fluffy tail.](images/C1-04-new-zealand-white-rabbit.png)
 
 #### 6. Poultry (Domestic Fowl)
 The body of a fowl is adapted for flight, even though domestic fowls spend most of their time on the ground.
@@ -185,7 +185,7 @@ The body of a fowl is adapted for flight, even though domestic fowls spend most 
   - **Forelimbs**: Modified into **wings**.
   - **Hindlimbs**: The lower part of the legs (shanks) is devoid of feathers and covered in rough **scales**. Each foot usually has four toes ending in sharp **claws** for scratching the ground. Adult males (cockerels) have a sharp, bony projection on the back of the leg called a **spur**, which they use for fighting.
 
-[IMAGE: A mature Rhode Island Red cockerel standing upright. The head features a sharp beak, a prominent zigzag red comb on top, and large red wattles hanging below. The body is covered in glossy brown/red feathers, with folded wings on the side. The legs are scaly and featherless, ending in toes with claws, and a sharp spur points backward from the shank. Labels to add later: "comb", "beak", "wattles", "earlobe", "feathers", "wing", "scaly leg (shank)", "spur", "claws". Clean flat textbook style, white background.]
+![An illustration of a standing cockerel showing external anatomical features including the red comb, beak, wattles, earlobe, feathers, folded wing, scaly shanks, spurs, and claws.](images/C1-05-rooster-external-anatomy.png)
 
 ## Key terms
 

@@ -1,0 +1,357 @@
+{
+ "C1-01-white-fulani-cow-anatomy": {
+  "regions": [
+   "trunk/body",
+   "udder with teats"
+  ],
+  "labels": [
+   [
+    "horns",
+    [
+     283,
+     210
+    ],
+    "L"
+   ],
+   [
+    "ear",
+    [
+     283,
+     354
+    ],
+    "L"
+   ],
+   [
+    "muzzle",
+    [
+     110,
+     464
+    ],
+    "L"
+   ],
+   [
+    "dewlap",
+    [
+     290,
+     590
+    ],
+    "L"
+   ],
+   [
+    "hump",
+    [
+     410,
+     333
+    ],
+    "L"
+   ],
+   [
+    "trunk/body",
+    [
+     585,
+     497
+    ],
+    "R"
+   ],
+   [
+    "udder with teats",
+    [
+     755,
+     626
+    ],
+    "R"
+   ],
+   [
+    "cloven hoof",
+    [
+     410,
+     867
+    ],
+    "L"
+   ],
+   [
+    "tail",
+    [
+     912,
+     466
+    ],
+    "R"
+   ],
+   [
+    "switch",
+    [
+     918,
+     705
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-02-sheep-goat-comparison": {
+  "regions": [
+   "Sheep",
+   "Goat"
+  ],
+  "labels": [
+   [
+    "Sheep",
+    [
+     258,
+     247
+    ],
+    "L"
+   ],
+   [
+    "drooping ears",
+    [
+     120,
+     284
+    ],
+    "L"
+   ],
+   [
+    "tail hangs down",
+    [
+     259,
+     761
+    ],
+    "L"
+   ],
+   [
+    "Goat",
+    [
+     754,
+     292
+    ],
+    "R"
+   ],
+   [
+    "erect ears",
+    [
+     880,
+     136
+    ],
+    "R"
+   ],
+   [
+    "beard",
+    [
+     702,
+     413
+    ],
+    "R"
+   ],
+   [
+    "wattles",
+    [
+     813,
+     391
+    ],
+    "R"
+   ],
+   [
+    "tail points up",
+    [
+     839,
+     685
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-03-large-white-pig-profile": {
+  "regions": [
+   "heavy barrel body"
+  ],
+  "labels": [
+   [
+    "snout with rooting disc",
+    [
+     81,
+     509
+    ],
+    "L"
+   ],
+   [
+    "erect ear",
+    [
+     241,
+     347
+    ],
+    "L"
+   ],
+   [
+    "heavy barrel body",
+    [
+     600,
+     454
+    ],
+    "R"
+   ],
+   [
+    "bristles",
+    [
+     573,
+     312
+    ],
+    "R"
+   ],
+   [
+    "curled tail",
+    [
+     915,
+     360
+    ],
+    "R"
+   ],
+   [
+    "cloven hoof",
+    [
+     412,
+     778
+    ],
+    "L"
+   ],
+   [
+    "dewclaw",
+    [
+     450,
+     761
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C1-04-new-zealand-white-rabbit": {
+  "regions": [
+   "short forelimbs",
+   "powerful muscular hindlimbs"
+  ],
+  "labels": [
+   [
+    "long ears (pinnae)",
+    [
+     437,
+     275
+    ],
+    "L"
+   ],
+   [
+    "prominent eyes",
+    [
+     347,
+     454
+    ],
+    "L"
+   ],
+   [
+    "split upper lip / incisors",
+    [
+     247,
+     564
+    ],
+    "L"
+   ],
+   [
+    "short forelimbs",
+    [
+     431,
+     764
+    ],
+    "L"
+   ],
+   [
+    "powerful muscular hindlimbs",
+    [
+     695,
+     676
+    ],
+    "R"
+   ],
+   [
+    "short fluffy tail (scut)",
+    [
+     849,
+     735
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-05-rooster-external-anatomy": {
+  "labels": [
+   [
+    "comb",
+    [
+     307,
+     131
+    ],
+    "L"
+   ],
+   [
+    "beak",
+    [
+     223,
+     218
+    ],
+    "L"
+   ],
+   [
+    "wattles",
+    [
+     263,
+     278
+    ],
+    "L"
+   ],
+   [
+    "earlobe",
+    [
+     314,
+     245
+    ],
+    "L"
+   ],
+   [
+    "feathers",
+    [
+     352,
+     396
+    ],
+    "L"
+   ],
+   [
+    "wing",
+    [
+     493,
+     528
+    ],
+    "L"
+   ],
+   [
+    "scaly leg (shank)",
+    [
+     549,
+     848
+    ],
+    "R"
+   ],
+   [
+    "spur",
+    [
+     573,
+     867
+    ],
+    "R"
+   ],
+   [
+    "claws",
+    [
+     396,
+     915
+    ],
+    "L"
+   ]
+  ]
+ }
+}

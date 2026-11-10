@@ -1,0 +1,71 @@
+{
+ "B7-01-ecological-primary-succession-panels": {
+  "labels": [
+   [
+    "\"1",
+    [
+     483,
+     107
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B7-02-tropical-rainforest-strata-profile": {
+  "regions": [
+   "Emergent layer (up to 50m)",
+   "Canopy layer (20-30m)",
+   "Undergrowth"
+  ],
+  "labels": [
+   [
+    "Emergent layer (up to 50m)",
+    [
+     241,
+     145
+    ],
+    "L"
+   ],
+   [
+    "Canopy layer (20-30m)",
+    [
+     596,
+     438
+    ],
+    "R"
+   ],
+   [
+    "Undergrowth",
+    [
+     573,
+     886
+    ],
+    "R"
+   ],
+   [
+    "Lianas",
+    [
+     689,
+     636
+    ],
+    "R"
+   ],
+   [
+    "Epiphytes",
+    [
+     834,
+     658
+    ],
+    "R"
+   ],
+   [
+    "Buttress roots",
+    [
+     223,
+     865
+    ],
+    "L"
+   ]
+  ]
+ }
+}

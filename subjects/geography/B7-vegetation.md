@@ -71,7 +71,7 @@ There are two main types of succession, depending on how the process starts:
 4. **Shrub Stage:** As the soil deepens and holds more moisture, larger woody plants and shrubs begin to grow. They shade out the smaller pioneer plants, taking over the area.
 5. **Climax Community:** Finally, large trees take root and grow into a mature, stable forest. This final, stable plant community that is in perfect balance with the local climate and soil is called the **climax community**. Unless there is a major climate change or human interference, the climax community will remain relatively unchanged.
 
-[IMAGE: A five-panel illustration showing primary succession. Panel 1: Bare grey rock. Panel 2: Rock covered with green and crusty lichens and mosses. Panel 3: Thin brown soil with small grasses and weeds growing. Panel 4: Deeper soil with bushes, shrubs, and small trees. Panel 5: A dense, mature forest with tall trees, deep soil, and a layered canopy. Labels to add later: "1. Bare rock", "2. Pioneer species (lichens/mosses)", "3. Herbs and grasses (seral stage)", "4. Shrubs and small trees", "5. Climax community (mature forest)". Clean flat textbook style, white background.]
+![A five-panel diagram of primary ecological succession progressing from bare rock, to lichens and mosses, grasses and weeds, shrubs and small trees, to a mature climax forest.](images/B7-01-ecological-primary-succession-panels.png)
 
 ## Major types of vegetation, their characteristics and distribution
 
@@ -92,7 +92,7 @@ The world is divided into major vegetation zones (biomes) based primarily on cli
   - **Buttress Roots:** Because the soil is thin and nutrients are mostly near the surface, tall trees have large, wide base roots (buttress roots) to support their massive weight.
   - **Hardwoods:** The dominant trees are broad-leaved hardwoods, which are highly valuable for timber.
 
-[IMAGE: Profile diagram of a tropical rainforest showing three distinct vertical layers. The tallest trees with wide umbrella-shaped crowns stand alone at the top (Emergent layer). Below them is a solid block of green treetops (Canopy). Below that are thin, straight trunks with little foliage, and broad-leaved ferns on the dark forest floor (Undergrowth). Vines (lianas) hang from the branches, and wide, triangular buttress roots support the bases of the large trees. Labels to add later: "Emergent layer (up to 50m)", "Canopy layer (20-30m)", "Undergrowth", "Lianas", "Epiphytes", "Buttress roots". Clean flat textbook style, white background.]
+![A profile diagram of a tropical rainforest illustrating the emergent layer, canopy, and undergrowth with buttress roots, hanging lianas, and flowering epiphytes.](images/B7-02-tropical-rainforest-strata-profile.png)
 
 ### 2. Tropical Grassland (Savanna)
 - **Distribution:** Found between 5° and 15° North and South of the Equator, bordering the rainforests. Major areas include West, East, and Central Africa, the Llanos of Venezuela, and the Campos of Brazil.

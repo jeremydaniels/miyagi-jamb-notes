@@ -443,7 +443,7 @@ This is an example of **negative feedback**: a change away from normal causes a 
 
 **Salt balance:** another hormone, **aldosterone** (from the adrenal cortex), makes the kidney tubules reabsorb more **sodium** when the body is short of salt. JAMB does not usually test aldosterone in detail.
 
-[IMAGE: A circular negative-feedback diagram for the control of water content by ADH. Top: "Blood water content normal". Right branch going down: "Water content falls (sweating, little drinking)" → hypothalamus detects → pituitary releases more ADH → collecting ducts more permeable → more water reabsorbed → small volume of concentrated urine → back to normal. Left branch: "Water content rises (drinking a lot)" → hypothalamus detects → pituitary releases less ADH → collecting ducts less permeable → less water reabsorbed → large volume of dilute urine → back to normal. Include small icons of a brain with the hypothalamus and pituitary highlighted, a kidney, and two urine beakers (one small and dark yellow, one large and pale). Labels: hypothalamus, pituitary gland, ADH, kidney, collecting duct, concentrated urine, dilute urine. Blue arrows for too much water, orange arrows for too little. Clean flat textbook style, white background.]
+![A negative feedback diagram showing the regulation of blood water content by ADH, with contrasting loops for dehydration and overhydration alongside anatomical illustrations.](images/B5-10-adh-negative-feedback-loop.png)
 
 ### Other functions of the kidney (homeostasis)
 

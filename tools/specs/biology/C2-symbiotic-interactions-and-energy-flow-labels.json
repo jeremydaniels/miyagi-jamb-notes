@@ -18,20 +18,12 @@
     "L"
    ],
    [
-    "lichen",
-    [
-     529,
-     661
-    ],
-    "R"
-   ],
-   [
     "algal cells",
     [
      483,
      240
     ],
-    "L"
+    "T"
    ],
    [
     "fungal threads (hyphae)",
@@ -39,15 +31,7 @@
      559,
      243
     ],
-    "R"
-   ],
-   [
-    "termite",
-    [
-     846,
-     564
-    ],
-    "R"
+    "T"
    ],
    [
     "hindgut",
@@ -57,7 +41,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "lichen",
+    531,
+    1033
+   ],
+   [
+    "termite",
+    850,
+    934
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C2-03-commensalism-examples": {
   "labels": [
@@ -143,7 +141,7 @@
      365,
      185
     ],
-    "L"
+    "T"
    ],
    [
     "suckers",
@@ -166,14 +164,6 @@
     [
      954,
      570
-    ],
-    "R"
-   ],
-   [
-    "Loranthus (partial parasite)",
-    [
-     747,
-     457
     ],
     "R"
    ],
@@ -201,7 +191,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Loranthus (partial\nparasite)",
+    769,
+    923
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C2-05-antibiosis-petri-dish": {
   "labels": [
@@ -364,14 +363,6 @@
   ],
   "labels": [
    [
-    "cowpea plant",
-    [
-     274,
-     327
-    ],
-    "L"
-   ],
-   [
     "root nodules",
     [
      284,
@@ -419,6 +410,15 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "cowpea plant",
+    260,
+    971
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

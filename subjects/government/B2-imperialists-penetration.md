@@ -63,7 +63,7 @@ A **Protectorate** was a territory where the local rulers were allowed to remain
 4. **Chartered Companies** (like the RNC) signed treaties and secured the land against rival European powers.
 5. The **British Government** stepped in with military force to establish formal **Colonies** and **Protectorates**.
 
-[IMAGE: A timeline flow-diagram showing the step-by-step British penetration into Nigeria. Five boxes connected by arrows pointing right. Box 1: "Explorers (Mapping the interior)". Box 2: "Traders & Missionaries (Legitimate commerce, religion, and schools)". Box 3: "Consular Authority (Protecting British interests on the coast)". Box 4: "Company Rule (Royal Niger Company signing treaties)". Box 5: "Colonial Government (Establishing Crown Colonies and Protectorates)". Clean flat textbook illustration, white background with bold, readable text.]
+![Flowchart displaying five sequential stages of British penetration into Nigeria from explorers and missionaries to consular authority, company rule, and colonial government.](images/B2-01-british-penetration-timeline-flow.png)
 
 ## The British colonial administrative policy
 
@@ -98,7 +98,7 @@ Indirect Rule was not equally successful across Nigeria because pre-colonial soc
 | **Western Nigeria** | Partially successful | The Yoruba kingdoms were centralized, but the Obas did not have absolute power (they were checked by institutions like the Oyomesi in Oyo). When the British gave the Obas absolute power to collect taxes, it broke the traditional checks and balances. Also, the educated elite in the West strongly opposed the system because it excluded them from government. |
 | **Eastern Nigeria** | Failed completely | The Igbo society was decentralized, egalitarian, and stateless (they had no kings). The British tried to force the system by appointing artificial kings called **"Warrant Chiefs"**. These Warrant Chiefs were corrupt, oppressive, and hated by the people. This led to massive protests, most notably the **Aba Women’s Riot of 1929**, which protested against the Warrant Chiefs and the rumored taxation of women. |
 
-[IMAGE: An organizational chart comparing the structure of British Indirect Rule. Top level: "British Governor (Lagos)". Second level: "British Resident / District Officer (Advisory role)". Third level down points to a central box: "Traditional Ruler (Emir / Oba - Native Authority)". From the Traditional Ruler, three arrows point down to "Native Police", "Native Courts", and "Native Treasury". Clean flat textbook style, white background, using hierarchical connecting lines.]
+![A hierarchy diagram of British Indirect Rule descending from the Governor to District Officers, Traditional Rulers, and finally Native Police, Courts, and Treasury.](images/B2-02-indirect-rule-organizational-chart.png)
 
 ### Direct Rule
 **Direct Rule** is a system where the colonial masters governed the people directly through European officials, without using traditional rulers as intermediaries. Traditional institutions were either destroyed or completely ignored.

@@ -1,0 +1,59 @@
+{
+ "template": "flowchart",
+ "title": "Structure of British Indirect Rule",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "gov",
+   "text": "British Governor\n(Lagos)",
+   "shape": "box"
+  },
+  {
+   "id": "resident",
+   "text": "British Resident /\nDistrict Officer\n(Advisory role)",
+   "shape": "box"
+  },
+  {
+   "id": "ruler",
+   "text": "Traditional Ruler\n(Emir / Oba -\nNative Authority)",
+   "shape": "box"
+  },
+  {
+   "id": "police",
+   "text": "Native Police",
+   "shape": "box"
+  },
+  {
+   "id": "courts",
+   "text": "Native Courts",
+   "shape": "box"
+  },
+  {
+   "id": "treasury",
+   "text": "Native Treasury",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "gov",
+   "to": "resident"
+  },
+  {
+   "from": "resident",
+   "to": "ruler"
+  },
+  {
+   "from": "ruler",
+   "to": "police"
+  },
+  {
+   "from": "ruler",
+   "to": "courts"
+  },
+  {
+   "from": "ruler",
+   "to": "treasury"
+  }
+ ]
+}

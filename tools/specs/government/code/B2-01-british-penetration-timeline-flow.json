@@ -1,0 +1,55 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "British Penetration into Nigeria",
+ "nodes": [
+  {
+   "id": "n1",
+   "text": "Explorers\n(Mapping the interior)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "n2",
+   "text": "Traders & Missionaries\n(Legitimate commerce,\nreligion, and schools)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "n3",
+   "text": "Consular Authority\n(Protecting British\ninterests on the coast)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "n4",
+   "text": "Company Rule\n(Royal Niger Company\nsigning treaties)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "n5",
+   "text": "Colonial Government\n(Establishing Crown Colonies\nand Protectorates)",
+   "shape": "box",
+   "color": "blue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "n1",
+   "to": "n2"
+  },
+  {
+   "from": "n2",
+   "to": "n3"
+  },
+  {
+   "from": "n3",
+   "to": "n4"
+  },
+  {
+   "from": "n4",
+   "to": "n5"
+  }
+ ]
+}

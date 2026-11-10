@@ -374,7 +374,7 @@ Crude oil, natural gas and coal are **non-renewable**. Burning them also causes 
 | **Data Deficient (DD)** | Not enough information to assess |
 | **Not Evaluated (NE)** | Not yet assessed |
 
-[IMAGE: A horizontal scale of the IUCN Red List categories as a row of coloured boxes from left to right, getting darker towards extinction: Least Concern (green), Near Threatened (light green), Vulnerable (yellow), Endangered (orange), Critically Endangered (red), Extinct in the Wild (dark purple), Extinct (black). A bracket over Vulnerable, Endangered and Critically Endangered. Small simple animal icons under some boxes: a Cross River gorilla under Critically Endangered and a drill under Endangered. Separate grey boxes at the side for Data Deficient and Not Evaluated. Labels: "Least Concern", "Near Threatened", "Vulnerable", "Endangered", "Critically Endangered", "Extinct in the Wild", "Extinct", "Threatened", "Data Deficient", "Not Evaluated", "Cross River gorilla", "Drill". Clean flat textbook style, white background.]
+![A horizontal diagram of the IUCN Red List categories from Least Concern to Extinct, with a Threatened bracket and example animal silhouettes for Endangered and Critically Endangered.](images/C7d-04-iucn-red-list-category.png)
 
    "**Threatened**" species are those in the **Critically Endangered, Endangered and Vulnerable** categories. For example, the **Cross River gorilla** is listed as Critically Endangered, and the **drill** as Endangered.
 2. **Sets standards** for protected areas (it classifies protected areas into categories, including national parks).
@@ -468,7 +468,7 @@ Nigeria's first national park, **Kainji Lake National Park**, was created in **1
 
 **Textbook variation:** the areas of the parks differ between sources (depending on whether buffer zones and later changes are included). Use the figures above as rough guides only. Most sources agree that **Gashaka-Gumti** is the largest and **Okomu** the smallest.
 
-[IMAGE: An outline map of Nigeria with state boundaries shown faintly. Green shaded areas or markers show the locations of the national parks: Kainji Lake (west, on the River Niger in Niger and Kwara States, with the lake drawn in blue), Old Oyo (south-west, in Oyo State), Okomu (south, in Edo State), Cross River (south-east, in Cross River State, with two sections), Gashaka-Gumti (east, in Taraba and Adamawa States on the Cameroon border), Chad Basin (north-east, in Borno and Yobe States, several small sections), Kamuku (north-central, in Kaduna State), and Yankari Game Reserve (north-east, in Bauchi State) shown with a different symbol (an orange marker). Rivers Niger and Benue and Lake Chad drawn in blue. Labels: "Kainji Lake NP", "Old Oyo NP", "Okomu NP", "Cross River NP", "Gashaka-Gumti NP", "Chad Basin NP", "Kamuku NP", "Yankari Game Reserve", "River Niger", "River Benue", "Lake Chad". Clean flat textbook style, white background.]
+![Map of Nigeria displaying national parks and Yankari Game Reserve with River Niger, River Benue, and Lake Chad labeled on a white background.](images/C7d-05-map-nigeria-national-parks.png)
 
 ### Yankari Game Reserve (formerly Yankari National Park)
 

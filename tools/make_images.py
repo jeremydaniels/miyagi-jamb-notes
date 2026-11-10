@@ -176,7 +176,7 @@ def check_labelled(job, path, labels):
           "Required labels: " + json.dumps(labels) + "\nDescription of the picture: " + job["prompt"] + "\n"
           "For each label say ok=true only if its pointer dot sits on the correct part (not on a neighbouring part or empty background); otherwise ok=false and say in 'issue' which part it is actually on and where the right part is "
           "(left/right/above/below the dot). overlap=true if any label text overlaps another label or the picture. unreadable=true if any label is cut off or hard to read.")
-    return vision(pr, [path], S_LCHK, "check-labelled", thinking="medium")
+    return vision(pr, [path], S_LCHK, "check-labelled", thinking="low")
 
 
 # ---------------------------------------------------------------- generation
@@ -192,6 +192,65 @@ def gen_standard(job, model, prompt):
     return cost
 
 
+BATCH_REG = os.path.join(WORK, "batches.json")
+
+
+def _reg():
+    return json.load(open(BATCH_REG)) if os.path.exists(BATCH_REG) else {}
+
+
+def _reg_save(r):
+    with LOCK:
+        json.dump(r, open(BATCH_REG, "w"), indent=1)
+
+
+def _consume(resp, names, model):
+    res = g.batch_results(resp); ok = {}
+    for n in names:
+        r, e = res.get(n, (None, {"message": "missing"}))
+        try:
+            cands = (r or {}).get("candidates") or []
+            img = None
+            for p_ in cands[0]["content"]["parts"]:
+                d = p_.get("inlineData") or p_.get("inline_data")
+                if d and d.get("data"):
+                    img = base64.b64decode(d["data"]); break
+            if not img:
+                raise RuntimeError("no image")
+            Image.open(io.BytesIO(img)).convert("RGB").save(os.path.join(RAW, n + ".png"))
+            cost = gen.cost_of(model, r.get("usageMetadata", {})) * 0.5
+            with LOCK:
+                with open(gen.COST_LOG, "a") as f:
+                    f.write(json.dumps({"name": n, "model": model + "-batch", "usage": r.get("usageMetadata", {}), "cost": cost}) + "\n")
+            ok[n] = True
+        except Exception as ex_:
+            print(f"[batch] {n}: {e or ex_}", flush=True); ok[n] = False
+    return ok
+
+
+def _wait(name, poll=30):
+    t0 = time.time()
+    while True:
+        resp = g.get_batch(name); st = g.batch_state(resp)
+        if resp.get("done") or st in ("BATCH_STATE_SUCCEEDED", "BATCH_STATE_FAILED", "BATCH_STATE_CANCELLED", "BATCH_STATE_EXPIRED"):
+            break
+        time.sleep(poll)
+    print(f"[batch] {name} {st} after {time.time()-t0:.0f}s", flush=True)
+    return resp
+
+
+def recover_batches():
+    """Fetch the results of any batch that was submitted but not consumed (for example after a restart)."""
+    reg = _reg()
+    for name, info in list(reg.items()):
+        if info.get("done"):
+            continue
+        print(f"[batch] recovering {name} ({len(info['jobs'])} images)", flush=True)
+        resp = _wait(name)
+        _consume(resp, info["jobs"], info["model"])
+        reg[name]["done"] = True; _reg_save(reg)
+
+
 def batch_generate(jobs, model, label="imgs", poll=30, prompts=None):
     """Generate with the Batch API; returns {name: ok}. Cost assumed half of standard (unverified)."""
     reqs = {}
@@ -200,34 +259,11 @@ def batch_generate(jobs, model, label="imgs", poll=30, prompts=None):
         reqs[j["name"]] = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                            "generationConfig": {"responseModalities": ["TEXT", "IMAGE"], "imageConfig": {"aspectRatio": "1:1"}}}
     name, _ = g.submit_batch(reqs, model, f"{SUBJ}-{label}")
+    reg = _reg(); reg[name] = {"model": model, "jobs": list(reqs), "done": False}; _reg_save(reg)
     print(f"[batch] submitted {len(reqs)} {model} request(s) as {name}", flush=True)
-    t0 = time.time()
-    while True:
-        resp = g.get_batch(name); st = g.batch_state(resp)
-        if resp.get("done") or st in ("BATCH_STATE_SUCCEEDED", "BATCH_STATE_FAILED", "BATCH_STATE_CANCELLED", "BATCH_STATE_EXPIRED"):
-            break
-        time.sleep(poll)
-    print(f"[batch] {name} {st} after {time.time()-t0:.0f}s", flush=True)
-    res = g.batch_results(resp); ok = {}
-    for j in jobs:
-        r, e = res.get(j["name"], (None, {"message": "missing"}))
-        try:
-            cands = (r or {}).get("candidates") or []
-            img = None
-            for p in cands[0]["content"]["parts"]:
-                d = p.get("inlineData") or p.get("inline_data")
-                if d and d.get("data"):
-                    img = base64.b64decode(d["data"]); break
-            if not img:
-                raise RuntimeError("no image")
-            Image.open(io.BytesIO(img)).convert("RGB").save(os.path.join(RAW, j["name"] + ".png"))
-            cost = gen.cost_of(model, r.get("usageMetadata", {})) * 0.5
-            with LOCK:
-                with open(gen.COST_LOG, "a") as f:
-                    f.write(json.dumps({"name": j["name"], "model": model + "-batch", "usage": r.get("usageMetadata", {}), "cost": cost}) + "\n")
-            ok[j["name"]] = True
-        except Exception as ex_:
-            print(f"[batch] {j['name']}: {e or ex_}", flush=True); ok[j["name"]] = False
+    resp = _wait(name, poll)
+    ok = _consume(resp, [j["name"] for j in jobs], model)
+    reg = _reg(); reg[name]["done"] = True; _reg_save(reg)
     return ok
 
 
@@ -296,7 +332,7 @@ def run_ai(jobs, workers, use_batch=True, pre_generated=()):
         need = [j for j in active if not os.path.exists(raw_path(j))]
         pro_round = rnd > 0
         for model in (FLASH_IMG, PRO_IMG):
-            grp = [j for j in need if (PRO_IMG if pro_round else j["model"]) == model]
+            grp = [j for j in need if (PRO_IMG if rnd >= 2 else (j["model"] if rnd == 0 and j["name"] in OVERRIDES else FLASH_IMG)) == model]
             if not grp:
                 continue
             ok = {}
@@ -426,7 +462,7 @@ def process_code(job):
     code = ""; problems = []; out = None
     for attempt in range(3):
         try:
-            code = write_code(job, code if attempt else "", problems, pro=attempt > 0)
+            code = write_code(job, code if attempt else "", problems, pro=attempt > 1)
             out = run_code(job, code)
         except Capped:
             raise
@@ -501,6 +537,7 @@ def run(jobs, workers, use_batch=True, chunk=45, push_every=2):
         cur.append(topic); n += len(js)
         if n >= chunk: chunks.append(cur); cur, n = [], 0
     if cur: chunks.append(cur)
+    recover_batches()
     done_files = 0
     for ch in chunks:
         if STOP.is_set(): break

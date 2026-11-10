@@ -230,7 +230,7 @@ The whole cycle from egg to adult takes about **7–14 days** in warm weather (f
 | Wings | Often **spotted** (dark patches) | Plain | Plain; body with **white stripes** on black |
 | Biting time | Mainly at night | Mainly at night | Mainly by **day** |
 
-![Diagram illustrating the life cycle of the Anopheles mosquito, showing the egg stage with inset, larva, pupa, emerging adult, and resting adult.](images/C7a-02-anopheles-mosquito-life-cycle.png)
+[IMAGE: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half of the diagram. 1: small boat-shaped eggs floating singly on the water surface, each with side floats (with a magnified inset of one egg). 2: a larva lying flat and parallel just below the water surface. 3: a comma-shaped pupa with two small breathing trumpets touching the surface. 4: an adult female mosquito emerging from the pupal case. 5: an adult female resting on a surface with her body tilted at an angle, head down. Labels: "Eggs laid singly", "Float", "Larva (parallel to surface)", "Spiracle", "Pupa", "Breathing trumpet", "Adult emerging", "Adult female (rests at an angle)", "Water surface". Clean flat textbook style, white background.]
 
 ![Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.](images/C7a-03-anopheles-culex-comparison.png)
 

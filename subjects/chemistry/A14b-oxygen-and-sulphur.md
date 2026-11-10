@@ -41,7 +41,7 @@ When potassium trioxochlorate(V) ($\text{KClO}_3$) is heated in the presence of 
 $$2\text{KClO}_3\text{(s)} \xrightarrow{\text{MnO}_2, \Delta} 2\text{KCl(s)} + 3\text{O}_2\text{(g)}$$
 The gas is collected over water because it is only slightly soluble in water.
 
-[IMAGE: A laboratory setup for the preparation of oxygen. A hard glass test tube containing a black-and-white mixture of KClO3 and MnO2 is clamped on a retort stand and heated with a Bunsen burner. A delivery tube leads from a stopper in the test tube into a trough of water, bubbling gas into an inverted gas jar filled with water. Labels: "KClO3 + MnO2 catalyst", "Heat", "Delivery tube", "Water trough", "Inverted gas jar", "Oxygen gas bubbles". Clean flat textbook illustration, white background.]
+![Diagram of a laboratory apparatus for oxygen preparation showing a test tube heated on a stand connected by a delivery tube to an inverted gas jar in a water trough.](images/A14b-01-oxygen-gas-laboratory-preparation.png)
 
 **Method 2: Catalytic decomposition of hydrogen peroxide**
 Hydrogen peroxide ($\text{H}_2\text{O}_2$) decomposes slowly on its own, but adding manganese(IV) oxide ($\text{MnO}_2$) at room temperature causes it to break down rapidly into water and oxygen. 
@@ -199,7 +199,7 @@ Raw water must be purified before it is pumped to homes. The standard step-by-st
 5. **Disinfection (Chlorination):** Chlorine gas or bleaching powder is added to kill harmful bacteria and microorganisms.
 6. **pH Adjustment:** Adding alum makes the water slightly acidic. To prevent corrosion of metal pipes, slaked lime ($\text{Ca(OH)}_2$) or soda ash is added to neutralize the acid. 
 
-[IMAGE: A flowchart block diagram of a town water treatment plant. Arrows lead from a "Reservoir" to an "Aeration spray", then to a mixing tank labeled "Coagulation (Alum added)", moving into a large "Sedimentation tank" where sludge settles to the bottom. The water then flows into a "Sand filter bed", followed by a smaller tank labeled "Chlorination & pH adjustment". Finally, an arrow points to a "Storage tower" and then to "Homes". Clean flat textbook style, white background.]
+![Flowchart diagram of a water treatment plant showing stages from reservoir through aeration, coagulation, sedimentation, sand filtering, chlorination, storage, and delivery to homes.](images/A14b-02-water-treatment-plant-flowchart.png)
 
 ---
 
@@ -324,7 +324,7 @@ Known as the "king of chemicals," its production level is an indicator of a coun
 4. **Dilution:** Oleum is carefully diluted with calculated amounts of water to produce 98% concentrated $\text{H}_2\text{SO}_4$.
    $\text{H}_2\text{S}_2\text{O}_7\text{(l)} + \text{H}_2\text{O(l)} \rightarrow 2\text{H}_2\text{SO}_4\text{(l)}$
 
-[IMAGE: A flow diagram of the Contact Process. Block 1: "Sulphur Burner" (S + O2 -> SO2). Block 2: "Purifier". Block 3: "Catalyst Chamber (V2O5, 450 °C)" showing 2SO2 + O2 -> 2SO3. Block 4: "Absorption Tower" where conc. H2SO4 falls from the top to absorb SO3, forming Oleum. Block 5: "Dilution Tank" where water is added to Oleum to output Conc. H2SO4. Clean flat textbook style, white background.]
+![Flow diagram showing the five stages of the Contact Process from Sulphur Burner to Dilution Tank to produce concentrated sulphuric acid.](images/A14b-03-contact-process-flow.png)
 
 **Properties of $\text{H}_2\text{SO}_4$:**
 - **As a dilute acid:** It is a strong, dibasic acid. It reacts with active metals (like Zn or Mg) to release hydrogen gas, and neutralizes bases.

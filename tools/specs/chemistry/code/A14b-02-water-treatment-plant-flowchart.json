@@ -1,0 +1,85 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Town Water Treatment Plant",
+ "nodes": [
+  {
+   "id": "res",
+   "text": "Reservoir",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "aer",
+   "text": "Aeration spray",
+   "shape": "box",
+   "color": "cyan"
+  },
+  {
+   "id": "coag",
+   "text": "Coagulation\n(Alum added)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "sed",
+   "text": "Sedimentation tank\n(Sludge settles)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "filt",
+   "text": "Sand filter bed",
+   "shape": "box",
+   "color": "yellow"
+  },
+  {
+   "id": "chlor",
+   "text": "Chlorination &\npH adjustment",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "stor",
+   "text": "Storage tower",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "home",
+   "text": "Homes",
+   "shape": "round",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "res",
+   "to": "aer"
+  },
+  {
+   "from": "aer",
+   "to": "coag"
+  },
+  {
+   "from": "coag",
+   "to": "sed"
+  },
+  {
+   "from": "sed",
+   "to": "filt"
+  },
+  {
+   "from": "filt",
+   "to": "chlor"
+  },
+  {
+   "from": "chlor",
+   "to": "stor"
+  },
+  {
+   "from": "stor",
+   "to": "home"
+  }
+ ]
+}

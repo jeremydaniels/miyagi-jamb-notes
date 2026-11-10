@@ -1,0 +1,59 @@
+{
+ "template": "flowchart",
+ "title": "The Contact Process",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "n1",
+   "text": "Sulphur Burner\n(S + O2 → SO2)",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "n2",
+   "text": "Purifier",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "n3",
+   "text": "Catalyst Chamber\n(V2O5, 450 °C)\n2SO2 + O2 → 2SO3",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "n4",
+   "text": "Absorption Tower\n(Conc. H2SO4 absorbs SO3\nto form Oleum)",
+   "shape": "box",
+   "color": "plum"
+  },
+  {
+   "id": "n5",
+   "text": "Dilution Tank\n(Water added to Oleum\nto form Conc. H2SO4)",
+   "shape": "box",
+   "color": "teal"
+  }
+ ],
+ "edges": [
+  {
+   "from": "n1",
+   "to": "n2",
+   "label": "SO2 + air"
+  },
+  {
+   "from": "n2",
+   "to": "n3",
+   "label": "Purified gases"
+  },
+  {
+   "from": "n3",
+   "to": "n4",
+   "label": "SO3"
+  },
+  {
+   "from": "n4",
+   "to": "n5",
+   "label": "Oleum (H2S2O7)"
+  }
+ ]
+}

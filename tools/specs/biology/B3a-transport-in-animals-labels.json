@@ -202,22 +202,6 @@
  "B3a-08-vein-valve-mechanism": {
   "labels": [
    [
-    "valve open",
-    [
-     150,
-     454
-    ],
-    "L"
-   ],
-   [
-    "valve closed",
-    [
-     483,
-     473
-    ],
-    "L"
-   ],
-   [
     "blood flowing towards the heart",
     [
      186,
@@ -231,7 +215,7 @@
      538,
      450
     ],
-    "R"
+    "T"
    ],
    [
     "skeletal muscle contracting",
@@ -249,7 +233,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "valve open",
+    183,
+    925
+   ],
+   [
+    "valve closed",
+    487,
+    925
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B3a-15-blood-smear-cellular-composition": {
   "labels": [
@@ -522,30 +520,6 @@
  "B3a-10-blood-vessel-transverse-sections": {
   "labels": [
    [
-    "artery",
-    [
-     198,
-     363
-    ],
-    "L"
-   ],
-   [
-    "vein",
-    [
-     552,
-     343
-    ],
-    "R"
-   ],
-   [
-    "capillary",
-    [
-     828,
-     420
-    ],
-    "R"
-   ],
-   [
     "outer layer (connective tissue)",
     [
      199,
@@ -575,7 +549,7 @@
      555,
      496
     ],
-    "R"
+    "T"
    ],
    [
     "wall one cell thick",
@@ -593,7 +567,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "artery",
+    198,
+    681
+   ],
+   [
+    "vein",
+    555,
+    704
+   ],
+   [
+    "capillary",
+    868,
+    637
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B3a-18-earthworm-closed-circulatory-system": {
   "labels": [

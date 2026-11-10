@@ -470,5 +470,84 @@
     "R"
    ]
   ]
+ },
+ "C7a-02-anopheles-mosquito-life-cycle": {
+  "regions": [
+   "Water surface"
+  ],
+  "labels": [
+   [
+    "Eggs laid singly",
+    [
+     749,
+     265
+    ],
+    "R"
+   ],
+   [
+    "Float",
+    [
+     899,
+     132
+    ],
+    "R"
+   ],
+   [
+    "Larva (parallel to surface)",
+    [
+     775,
+     623
+    ],
+    "R"
+   ],
+   [
+    "Spiracle",
+    [
+     904,
+     600
+    ],
+    "R"
+   ],
+   [
+    "Pupa",
+    [
+     524,
+     828
+    ],
+    "R"
+   ],
+   [
+    "Breathing trumpet",
+    [
+     484,
+     760
+    ],
+    "L"
+   ],
+   [
+    "Adult emerging",
+    [
+     239,
+     521
+    ],
+    "L"
+   ],
+   [
+    "Adult female (rests at an angle)",
+    [
+     263,
+     208
+    ],
+    "L"
+   ],
+   [
+    "Water surface",
+    [
+     541,
+     579
+    ],
+    "R"
+   ]
+  ]
  }
 }

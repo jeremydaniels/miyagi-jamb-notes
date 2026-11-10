@@ -5,30 +5,30 @@
     "ureter",
     [
      647,
-     176
+     174
     ],
     "R"
    ],
    [
     "urinary bladder",
     [
-     493,
-     305
+     494,
+     292
     ],
     "L"
    ],
    [
     "seminal vesicle",
     [
-     626,
-     369
+     661,
+     357
     ],
     "R"
    ],
    [
     "prostate gland",
     [
-     555,
+     573,
      454
     ],
     "R"
@@ -36,80 +36,80 @@
    [
     "Cowper's gland",
     [
-     548,
-     513
+     571,
+     518
     ],
     "R"
    ],
    [
     "sperm duct (vas deferens)",
     [
-     380,
-     564
+     335,
+     437
     ],
     "L"
    ],
    [
     "ejaculatory duct",
     [
-     561,
-     430
+     577,
+     434
     ],
     "R"
    ],
    [
     "urethra",
     [
-     247,
-     677
+     240,
+     760
     ],
     "L"
    ],
    [
     "penis",
     [
-     195,
-     633
+     198,
+     677
     ],
     "L"
    ],
    [
     "erectile tissue",
     [
-     258,
-     559
+     247,
+     619
     ],
     "L"
    ],
    [
     "glans (tip of penis)",
     [
-     200,
-     764
+     203,
+     792
     ],
     "L"
    ],
    [
     "scrotum",
     [
-     335,
-     859
+     336,
+     854
     ],
     "L"
    ],
    [
     "testis",
     [
-     376,
-     779
+     374,
+     800
     ],
     "L"
    ],
    [
     "epididymis",
     [
-     421,
-     726
+     434,
+     741
     ],
     "L"
    ]
@@ -300,130 +300,6 @@
   ],
   "fixed_sides": true,
   "capsize": 0
- },
- "B7c-06-ovulation-implantation-pathway": {
-  "labels": [
-   [
-    "ovary",
-    [
-     703,
-     464
-    ],
-    "R"
-   ],
-   [
-    "ovulation",
-    [
-     798,
-     441
-    ],
-    "R"
-   ],
-   [
-    "oviduct",
-    [
-     726,
-     167
-    ],
-    "R"
-   ],
-   [
-    "fertilisation",
-    [
-     848,
-     200
-    ],
-    "R"
-   ],
-   [
-    "zygote",
-    [
-     907,
-     303
-    ],
-    "R"
-   ],
-   [
-    "2-cell stage",
-    [
-     722,
-     203
-    ],
-    "R"
-   ],
-   [
-    "4-cell stage",
-    [
-     607,
-     254
-    ],
-    "R"
-   ],
-   [
-    "8-cell stage",
-    [
-     494,
-     294
-    ],
-    "L"
-   ],
-   [
-    "morula (day 3–4)",
-    [
-     366,
-     347
-    ],
-    "L"
-   ],
-   [
-    "blastocyst (day 4–5)",
-    [
-     307,
-     466
-    ],
-    "L"
-   ],
-   [
-    "inner cell mass",
-    [
-     324,
-     480
-    ],
-    "L"
-   ],
-   [
-    "trophoblast",
-    [
-     287,
-     445
-    ],
-    "L"
-   ],
-   [
-    "implantation (day 6–7)",
-    [
-     335,
-     487
-    ],
-    "L"
-   ],
-   [
-    "endometrium",
-    [
-     328,
-     538
-    ],
-    "L"
-   ],
-   [
-    "uterus",
-    [
-     247,
-     518
-    ],
-    "L"
-   ]
-  ]
  },
  "B7c-08-vitro-fertilisation-steps": {
   "labels": [

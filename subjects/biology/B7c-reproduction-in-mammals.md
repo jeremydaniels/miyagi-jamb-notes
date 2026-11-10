@@ -317,7 +317,7 @@ At about **6–7 days** after fertilisation, the blastocyst sinks into the thick
 
 **Textbook variation:** textbooks give slightly different days for these stages (for example, implantation "about a week after fertilisation", "day 6–10"). The order of the stages is what matters.
 
-![Diagram of human female reproductive tract showing ovulation from the ovary, fertilization in the fallopian tube, cleavage stages, blastocyst development, and implantation in the uterine wall.](images/B7c-06-ovulation-implantation-pathway.png)
+[IMAGE: Front-view diagram of the female reproductive tract showing the journey from ovulation to implantation. On the right, an ovary releasing an egg into the funnel of the oviduct; along the oviduct, a numbered sequence of small drawings: fertilisation (sperm meeting egg) in the upper third of the oviduct, the zygote, 2-cell stage, 4-cell stage, 8-cell stage, morula (solid ball), then entering the uterus as a blastocyst (hollow ball with an inner cell mass), and finally the blastocyst embedding in the thick endometrium on the uterine wall. Labels: ovary, ovulation, oviduct, fertilisation, zygote, 2-cell stage, 4-cell stage, 8-cell stage, morula (day 3–4), blastocyst (day 4–5), inner cell mass, trophoblast, implantation (day 6–7), endometrium, uterus. Soft pink tract with lilac embryos. Clean flat textbook style, white background.]
 
 #### 5. The embryo (up to about week 8)
 

@@ -87,7 +87,7 @@ When the council heard this, they were "cut to the heart" and gnashed their teet
 
 Stephen became the first Christian **martyr** (someone killed for their faith).
 
-[IMAGE: The stoning of Stephen. A dusty area outside ancient city walls. In the centre, Stephen is on his knees, dressed in simple robes, looking up toward a bright opening in the clouds in the sky. Around him, angry men are throwing large stones. In the foreground, a young man (Saul) stands watching approvingly, with several cloaks piled at his feet. Clean flat textbook style, white background.]
+![Stephen kneels praying outside ancient city walls as men prepare to stone him, looking up at Jesus in heaven, while young Saul watches over coats.](images/C18-01-stoning-stephen-biblical-scene.png)
 
 ## Persecution by Saul
 

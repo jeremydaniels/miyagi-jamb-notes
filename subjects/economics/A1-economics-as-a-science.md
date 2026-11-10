@@ -182,7 +182,7 @@ A schedule is a table showing data. Let us look at a hypothetical PPF schedule f
 
 If we plot the schedule above on a graph, with Yam on the horizontal (X) axis and Cassava on the vertical (Y) axis, we get a curve that bows outward from the origin.
 
-[IMAGE: A Production Possibility Frontier (PPF) graph. The vertical Y-axis is labelled "Cassava (Million Tonnes)" going from 0 to 110. The horizontal X-axis is labelled "Yam (Million Tonnes)" going from 0 to 50. A thick, concave (bowed-out) curve connects points A(0, 100), B(10, 90), C(20, 70), D(30, 40), and E(40, 0). A point labeled 'U' (representing Unemployment/Inefficiency) is drawn inside the curve beneath the arch. A point labeled 'F' (representing Unattainable) is drawn completely outside the curve to the top right. A dotted line shows a second curve shifted entirely to the right (outward), labelled "Economic Growth". Style: clean flat textbook illustration, crisp black lines, white background, distinct dots for points.]
+![A production possibility frontier showing trade-offs between Cassava and Yam, illustrating points A through E on the curve, inefficiency point U inside, and unattainable point F outside.](images/A1-01-production-possibility-frontier-graph.png)
 
 **How to Read the PPF Graph:**
 1. **The Downward Slope:** The curve slopes downwards from left to right. This negative slope illustrates **opportunity cost**. To get more of one good on the X-axis, you must give up some of the good on the Y-axis.

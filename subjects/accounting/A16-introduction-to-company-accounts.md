@@ -37,7 +37,7 @@ To form a company, the promoters (the people starting it) must prepare and file 
 3. **Prospectus:** If it is a public company seeking to raise money from the general public, it issues a prospectus. This is a formal invitation outlining the company's financial state and offering shares or debentures for subscription.
 4. **Certificate of Incorporation:** Once the CAC is satisfied with the documents and fees, it issues this certificate. This is the official "birth certificate" of the company, proving it legally exists.
 
-[IMAGE: Flow chart of company formation in Nigeria. Four connected boxes pointing right. Box 1: "Promoters prepare Memorandum & Articles of Association". Box 2: "Filing documents and paying fees at the Corporate Affairs Commission (CAC)". Box 3: "CAC reviews and approves". Box 4: "CAC issues Certificate of Incorporation". Clean flat textbook illustration, white background, corporate blue and green colours.]
+![A four-step flowchart showing company formation in Nigeria from preparing documents and filing with the CAC to review, approval, and issuance of a Certificate of Incorporation.](images/A16-01-company-formation-flowchart.png)
 
 ---
 
@@ -298,7 +298,7 @@ Let's look at a fully worked example for **Oluwa Traders PLC** for the year ende
 
 > **Note on Proposed Dividend Treatment:** In strict modern accounting rules (IAS 10), dividends proposed *after* the reporting year-end are not shown as a current liability. However, JAMB past questions and older textbooks still teach the older method where a proposed dividend is treated as an appropriation of profit and recorded as a current liability. Always follow this textbook approach for your JAMB exam.
 
-[IMAGE: Block diagram representing the financing of a company. A large vertical rectangle is split into two halves. The left half is "Total Assets" consisting of a top block "Non-Current Assets" and a bottom block "Current Assets". The right half shows how it is funded: top block "Equity (Share Capital + Reserves)", middle block "Non-Current Liabilities (Debentures)", bottom block "Current Liabilities". Arrows show that both sides must equal the same total value. Clean flat textbook style, white background.]
+![A balance sheet diagram showing Total Assets divided into non-current and current assets balanced against Total Equity and Liabilities divided into equity, non-current liabilities, and current liabilities.](images/A16-02-company-funding-block.png)
 
 ---
 
@@ -345,7 +345,7 @@ These measure the ability of a business to pay its short-term debts as they fall
   $$ \text{Acid Test Ratio} = \frac{\text{Current Assets} - \text{Stock}}{\text{Current Liabilities}} $$
   *Interpretation:* A ratio of 1:1 is considered ideal.
 
-[IMAGE: Visual analogy of Liquidity Ratios. Two sets of weighing scales. Scale 1 (Current Ratio): Left pan holds "Current Assets" (shown as icons of cash, bank, debtors, and boxes of stock), right pan holds "Current Liabilities" (bills and invoices). Scale 2 (Acid Test Ratio): Left pan holds only cash, bank, and debtors (the boxes of stock are crossed out with a red X), right pan holds the same "Current Liabilities". This shows stock is removed from the quick assets. Clean flat textbook style, white background.]
+![Two balance scales comparing the current ratio with all current assets against liabilities, and the acid test ratio where stock is excluded from assets.](images/A16-03-liquidity-ratio-balance.png)
 
 #### 3. Efficiency Ratios
 These measure how well the business manages its assets.

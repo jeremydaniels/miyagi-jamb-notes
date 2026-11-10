@@ -56,7 +56,7 @@ While his strategies laid the foundation for modern Ethiopia, they were too radi
 * **Foreign conflict and the Napier Expedition (1868):** Seeking an alliance and skilled workers, Theodore wrote a letter to Britain's Queen Victoria. When the British government ignored the letter, an insulted Theodore imprisoned the British consul and several European missionaries at Magdala. In response, Britain sent a massive military rescue mission in 1867–1868, led by Sir Robert Napier.
 * Because Theodore had alienated his own people, local Ethiopian lords helped the British army march safely through the country. In 1868, at the Battle of Magdala, Theodore's army was defeated by superior British firepower. To avoid the humiliation of capture, Emperor Theodore II committed suicide.
 
-[IMAGE: A map of the Horn of Africa in the late 19th century showing the Ethiopian Empire. Key locations to mark include the old capital Gondar in the northwest, the fortress of Magdala in the centre, the region of Shewa (Shoa) to the south, and the coastal area of Eritrea by the Red Sea. A dashed arrow shows the route of the British Napier expedition (1868) marching inland from the Red Sea coast to Magdala. Clean flat textbook style, white background, clear borders and text.]
+![Map of the Ethiopian Empire showing Gondar, Magdala, Shewa, and the inland route of the 1868 British Napier expedition from the Red Sea coast to Magdala.](images/F1-01-historical-military-expedition-map.png)
 
 ## Content b: Menelik II and Ethiopian independence
 
@@ -100,7 +100,7 @@ Menelik's victory at Adwa was one of the most important events in modern African
 * Following the battle, other European powers (Britain, France, and Russia) rushed to send diplomats to Addis Ababa to sign treaties acknowledging Ethiopian sovereignty.
 * Ethiopia became a beacon of independence, black pride, and resistance against European imperialism for Africans and people of African descent worldwide.
 
-[IMAGE: A simple horizontal timeline of 19th-century Ethiopia. Markers along a central line: 1855 (Kassa Hailu crowned Emperor Theodore II); 1868 (British expedition and death of Theodore at Magdala); 1889 (Menelik II crowned; Treaty of Wuchale signed with Italy); 1893 (Menelik denounces the Treaty of Wuchale); 1896 (Ethiopian victory at the Battle of Adwa). Clean flat textbook style, bold dates.]
+![A horizontal timeline of 19th-century Ethiopia highlighting five key milestones from 1855 to 1896, including coronations, treaties, and the Battle of Adwa.](images/F1-02-horizontal-ethiopian-timeline.png)
 
 ## Key terms
 

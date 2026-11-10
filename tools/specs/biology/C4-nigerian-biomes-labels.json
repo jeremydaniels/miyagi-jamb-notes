@@ -126,15 +126,7 @@
  "C4-03-savanna-types-comparison-landscape": {
   "labels": [
    [
-    "southern Guinea savanna",
-    [
-     274,
-     65
-    ],
-    "L"
-   ],
-   [
-    "tall grass (2\u20133 m)",
+    "tall grass (2–3 m)",
     [
      142,
      684
@@ -155,7 +147,7 @@
      437,
      143
     ],
-    "L"
+    "T"
    ],
    [
     "kob",
@@ -172,14 +164,6 @@
      883
     ],
     "L"
-   ],
-   [
-    "northern Guinea savanna",
-    [
-     785,
-     65
-    ],
-    "R"
    ],
    [
     "shorter grass",
@@ -229,7 +213,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "southern Guinea savanna",
+    265,
+    1001
+   ],
+   [
+    "northern Guinea savanna",
+    757,
+    1001
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C4-04-sudan-savanna-biome-landscape": {
   "labels": [
@@ -491,7 +489,7 @@
      754,
      123
     ],
-    "R"
+    "T"
    ],
    [
     "cattle",
@@ -499,7 +497,7 @@
      549,
      167
     ],
-    "R"
+    "T"
    ],
    [
     "cable car",
@@ -533,6 +531,9 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -91,7 +91,7 @@ Electronic Government (E-Government) is the use of ICT by the government to prov
 ### 11. E-Library
 An Electronic Library (E-Library) is a digital collection of books, academic journals, audio, and video files stored on computer systems and accessed over a network. Instead of going to a physical building to borrow a paper book, students can download or read materials online at any time.
 
-[IMAGE: A comparative illustration showing three application areas: 1. Telecommuting (a person working on a laptop at home in casual clothes with a coffee mug), 2. E-Commerce (a person adding items to a digital shopping cart on a smartphone screen), 3. Telemedicine (a doctor in a white coat appearing on a computer screen examining a patient). Clean flat textbook style, white background.]
+![Three panels showing telecommuting with a laptop, e-commerce on a smartphone, and telemedicine with a doctor on a monitor](images/F2-01-comparative-three-application-areas.png)
 
 ---
 
@@ -141,7 +141,7 @@ A scanner is an input device that "reads" physical documents, photographs, or ba
 - **Document Scanners:** Digitize paper documents for e-libraries or archival systems.
 - **Barcode Scanners:** Used with POS systems and ACRs to read product prices instantly.
 
-[IMAGE: A collection of common ICT devices labeled for identification: A POS machine printing a small receipt, an ATM showing a card slot and keypad, an Automated Cash Register with an attached barcode scanner, and a modern smartphone showing an e-commerce app. Clean flat textbook style, white background.]
+![Illustration of four common ICT devices: a POS machine, an ATM, an Automated Cash Register, and a smartphone.](images/F2-02-collection-common-ict-devices.png)
 
 ## Key terms
 

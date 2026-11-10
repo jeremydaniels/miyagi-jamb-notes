@@ -57,7 +57,7 @@ The Surah begins with four powerful oaths sworn by sacred places and symbols (th
 **Background:**
 The first five verses of this Surah are universally recognized as the **very first revelation** given to Prophet Muhammad (SAW) by Angel Jibrīl (Gabriel) in the Cave of Hirā'. It emphasizes reading, learning, and the origins of human life. The later verses of the Surah were revealed later; they address the arrogance of humans when they feel self-sufficient, specifically referencing Abu Jahl, a leader of the Quraysh who violently tried to stop the Prophet (SAW) from praying at the Ka'bah.
 
-[IMAGE: A clean, flat textbook illustration showing a timeline or thematic map of the five suwar. Surah 96 (Cave Hira, a book and pen representing the first revelation), Surah 93 and 94 (sunlight breaking through clouds representing relief after the pause in revelation), Surah 95 (a fig, an olive, a mountain, and the Ka'bah representing the oaths), and Surah 87 (stars and the earth representing the Most High Creator). Labels: "al-A'lā (Q.87): The Most High", "ad-Duhā (Q.93): The Morning Hours", "al-Inshirāh (Q.94): The Relief", "at-Tīn (Q.95): The Fig", "al-'Alaq (Q.96): The Clot (First Revelation)". White background.]
+![A four-panel illustration showing a cave with a book, sunbeams emerging behind clouds, symbols of a fig olive mountain and Kabah, and planet Earth surrounded by stars.](images/A5a-01-quranic-surahs-thematic-visual.png)
 
 ---
 

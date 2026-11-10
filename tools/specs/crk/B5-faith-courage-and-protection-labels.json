@@ -1,0 +1,69 @@
+{
+ "B5-01-shadrach-meshach-abednego-fiery": {
+  "regions": [
+   "Fiery furnace"
+  ],
+  "labels": [
+   [
+    "King Nebuchadnezzar",
+    [
+     198,
+     569
+    ],
+    "L"
+   ],
+   [
+    "Fiery furnace",
+    [
+     600,
+     104
+    ],
+    "R"
+   ],
+   [
+    "Shadrach, Meshach, and Abednego",
+    [
+     510,
+     568
+    ],
+    "L"
+   ],
+   [
+    "The fourth man (like a son of the gods)",
+    [
+     711,
+     538
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5-02-daniel-lions-den": {
+  "labels": [
+   [
+    "Daniel in prayer",
+    [
+     523,
+     640
+    ],
+    "R"
+   ],
+   [
+    "Lions with mouths shut",
+    [
+     826,
+     761
+    ],
+    "R"
+   ],
+   [
+    "Light from the den entrance",
+    [
+     626,
+     393
+    ],
+    "R"
+   ]
+  ]
+ }
+}

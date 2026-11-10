@@ -33,7 +33,7 @@ The stories of Shadrach, Meshach, Abednego, and Daniel take place during the Jew
 8. **The Deliverance:** Nebuchadnezzar was astonished to see **four men** walking loose and unhurt in the fire. He noted that the appearance of the fourth was "like a son of the gods" (Daniel 3:25).
 9. **The Outcome:** The king called them out of the furnace. The fire had no power over them—not a hair was singed, their cloaks were unharmed, and there was no smell of fire on them. Nebuchadnezzar praised their God, made a protective decree for their religion, and promoted the three men in the province of Babylon.
 
-[IMAGE: A dramatic scene of the fiery furnace. On the outside left, King Nebuchadnezzar looks on in shock from a safe distance. Inside the roaring orange and yellow flames of the large brick furnace, four figures are seen walking calmly. Three are dressed in ancient Middle Eastern tunics, and the fourth figure glows brightly. Labels to add later: "King Nebuchadnezzar", "Fiery furnace", "Shadrach, Meshach, and Abednego", "The fourth man (like a son of the gods)". Clean flat textbook style, white background.]
+![King Nebuchadnezzar watches in astonishment as Shadrach Meshach Abednego and a glowing fourth figure walk unharmed inside a flaming brick furnace](images/B5-01-shadrach-meshach-abednego-fiery.png)
 
 ### The Story of Daniel in the Lions' Den (Daniel 6:1-28)
 
@@ -46,7 +46,7 @@ The stories of Shadrach, Meshach, Abednego, and Daniel take place during the Jew
 7. **The Deliverance:** The king went to his palace, fasted all night, and could not sleep. At break of day, he hurried to the den and called out in a tone of anguish, asking if Daniel's God had delivered him. Daniel replied, "O king, live for ever! My God sent his angel and shut the lions' mouths..." (Daniel 6:21-22).
 8. **The Outcome:** Daniel was taken up out of the den completely unharmed because he had trusted in his God. The king commanded that the men who had maliciously accused Daniel be thrown into the lions' den, along with their wives and children, and the lions overpowered them immediately. Darius then wrote a decree commanding all in his kingdom to tremble and fear before the God of Daniel.
 
-[IMAGE: A cross-section view of a rocky underground den. In the centre, Daniel is sitting peacefully on a stone, hands clasped in prayer, with a beam of soft light shining down on him from the opening above. Several large male and female lions are lying down around him, looking docile, with their mouths closed. Labels to add later: "Daniel in prayer", "Lions with mouths shut", "Light from the den entrance". Clean flat textbook style, white background.]
+![Daniel sitting peacefully in prayer inside a rocky underground cave surrounded by calm lions while light shines down from an opening above.](images/B5-02-daniel-lions-den.png)
 
 ## Analysing the stories of the four men
 

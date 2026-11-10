@@ -264,5 +264,57 @@
   ],
   "fixed_sides": true,
   "capsize": 0
+ },
+ "D2b-08-bt-crop-mechanism": {
+  "labels": [
+   [
+    "Bacillus thuringiensis (soil bacterium)",
+    [
+     129,
+     605
+    ],
+    "L"
+   ],
+   [
+    "Bt gene",
+    [
+     119,
+     509
+    ],
+    "L"
+   ],
+   [
+    "gene inserted into cowpea cells",
+    [
+     483,
+     689
+    ],
+    "L"
+   ],
+   [
+    "plant makes Bt protein",
+    [
+     379,
+     437
+    ],
+    "L"
+   ],
+   [
+    "pod borer caterpillar dies after feeding",
+    [
+     755,
+     640
+    ],
+    "R"
+   ],
+   [
+    "fewer insecticide sprays needed",
+    [
+     883,
+     404
+    ],
+    "R"
+   ]
+  ]
  }
 }

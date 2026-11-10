@@ -468,7 +468,7 @@ JAMB often shows a diagram of an experiment and asks what it shows, what a parti
 
 **Conclusion:** exhaled air contains **much more CO₂** (about 4%) than inhaled air (about 0.04%), because CO₂ produced by respiration in the body's cells is breathed out (see B4a).
 
-[IMAGE: Two boiling tubes of lime water side by side, connected by T-shaped glass tubing to a single mouthpiece held by a student. Tube A (left): air enters from outside through a long tube dipping into the lime water and leaves through a short tube to the mouthpiece; lime water clear. Tube B (right): air from the mouthpiece passes down a long tube into the lime water and out through a short tube; lime water milky. Small arrows show the direction of air flow when breathing in (through A) and breathing out (through B). Labels to add: "mouthpiece", "tube A: inhaled air", "tube B: exhaled air", "lime water stays clear", "lime water turns milky", "air in from outside", "air breathed out". Clean flat textbook style, white background.]
+![Illustration of a student using a T-tube apparatus connected to two test tubes of limewater to compare inhaled and exhaled air.](images/B4b-09-exhaled-air-limewater-breathing.png)
 
 ### Experiment 3: to show that heat energy is released during respiration (germinating seeds in vacuum flasks)
 
@@ -499,7 +499,7 @@ JAMB often shows a diagram of an experiment and asks what it shows, what a parti
 
 **Everyday examples:** heaps of fresh grass cuttings, compost heaps and stores of damp grain become warm (sometimes hot enough to catch fire) because of the respiration of the plant cells and of the microorganisms in them.
 
-[IMAGE: Two vacuum flasks side by side, each clamped upside down on a stand, with a thermometer passing through a cotton wool plug into the flask among seeds. Flask A contains germinating bean seeds with small shoots and roots; its thermometer reads higher (red level higher). Flask B contains shrivelled boiled seeds; its thermometer reads lower. A small note shows the starting temperatures as equal. Labels to add: "flask A: germinating seeds (washed in disinfectant)", "flask B (control): boiled seeds (washed in disinfectant)", "vacuum flask (reduces heat loss)", "thermometer", "cotton wool plug", "temperature rises", "temperature unchanged", "clamp and stand". Clean flat textbook style, white background.]
+![Two inverted vacuum flasks on stands containing germinating seeds and boiled seeds, with thermometers showing higher temperature in the germinating seed flask.](images/B4b-10-germinating-seeds-heat-production.png)
 
 ### Experiment 4: to show that oxygen is used during respiration (the simple respirometer)
 
@@ -608,7 +608,7 @@ glucose → (yeast enzymes, called zymase) → ethanol + carbon (IV) oxide + ene
 
 **Textbook variation:** older textbooks call the group of yeast enzymes that carry out alcoholic fermentation **zymase**. Modern books explain that "zymase" is really a mixture of many enzymes (the glycolysis enzymes plus pyruvate decarboxylase and alcohol dehydrogenase).
 
-[IMAGE: Fermentation experiment with two set-ups side by side in a beaker of warm water with a thermometer. Each set-up is a boiling tube containing a cloudy yeast and sugar mixture with a thin yellow layer of oil on top, closed with a bung carrying a delivery tube that dips into a test tube of lime water. Left (experiment): bubbles rising in the mixture and in the lime water, which is milky. Right (control: boiled yeast): no bubbles, lime water clear. Labels to add: "live yeast + boiled and cooled glucose solution", "boiled yeast + boiled and cooled glucose solution (control)", "layer of oil (keeps out air)", "bubbles of carbon dioxide", "delivery tube", "lime water turns milky", "lime water stays clear", "water bath at about 30 °C", "thermometer". Clean flat textbook style, white background.]
+![An experiment comparing yeast fermentation in a warm water bath to a boiled yeast control, showing gas production and cloudy limewater on the active side.](images/B4b-12-yeast-anaerobic-fermentation-experiment.png)
 
 ## Economic importance of yeasts
 
@@ -691,7 +691,7 @@ Nigeria has a large brewing industry, with many breweries producing lager beers 
 | Harmful: spoilage | Fermentation of sugars | Spoiled fruit juice, jam, honey |
 | Harmful: disease | Growth of yeast in the body | Candidiasis (thrush) caused by *Candida albicans* |
 
-[IMAGE: An illustrated panel of everyday products made with yeast, arranged around a central drawing of oval budding yeast cells: a loaf of bread and a bowl of puff-puff, a bottle of beer and a calabash of burukutu, a gourd of palm wine beside an oil palm tree with a tapping container, a bottle of ethanol fuel beside cassava roots and sugarcane, a jar of yeast extract with a "B" vitamin symbol, and a bag of animal feed. A small separate corner shows a mouth with white patches representing thrush, marked as harmful. Labels to add: "yeast cells (budding)", "bread and puff-puff (carbon dioxide)", "beer and burukutu (ethanol)", "palm wine (wild yeasts)", "industrial alcohol and fuel", "vitamin B (yeast extract)", "animal feed", "harmful: thrush (Candida)". Clean flat textbook style, white background.]
+![Diagram showing products of yeast fermentation including bread, beer, palm wine, ethanol fuel, yeast extract, and animal feed surrounding central budding yeast cells, with oral thrush inset.](images/B4b-13-yeast-industrial-fermentation-products.png)
 
 ## Respiration, photosynthesis and breathing compared
 

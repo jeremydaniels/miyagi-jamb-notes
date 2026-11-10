@@ -82,5 +82,285 @@
     "R"
    ]
   ]
+ },
+ "B4b-09-exhaled-air-limewater-breathing": {
+  "labels": [
+   [
+    "mouthpiece",
+    [
+     520,
+     137
+    ],
+    "R"
+   ],
+   [
+    "tube A: inhaled air",
+    [
+     286,
+     571
+    ],
+    "L"
+   ],
+   [
+    "tube B: exhaled air",
+    [
+     744,
+     571
+    ],
+    "R"
+   ],
+   [
+    "lime water stays clear",
+    [
+     288,
+     742
+    ],
+    "L"
+   ],
+   [
+    "lime water turns milky",
+    [
+     751,
+     742
+    ],
+    "R"
+   ],
+   [
+    "air in from outside",
+    [
+     256,
+     327
+    ],
+    "L"
+   ],
+   [
+    "air breathed out",
+    [
+     798,
+     332
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4b-10-germinating-seeds-heat-production": {
+  "labels": [
+   [
+    "flask A: germinating seeds (washed in disinfectant)",
+    [
+     291,
+     483
+    ],
+    "L"
+   ],
+   [
+    "flask B (control): boiled seeds (washed in disinfectant)",
+    [
+     706,
+     496
+    ],
+    "R"
+   ],
+   [
+    "vacuum flask (reduces heat loss)",
+    [
+     195,
+     286
+    ],
+    "L"
+   ],
+   [
+    "thermometer",
+    [
+     704,
+     312
+    ],
+    "R"
+   ],
+   [
+    "cotton wool plug",
+    [
+     291,
+     552
+    ],
+    "L"
+   ],
+   [
+    "temperature rises",
+    [
+     301,
+     337
+    ],
+    "L"
+   ],
+   [
+    "temperature unchanged",
+    [
+     704,
+     430
+    ],
+    "R"
+   ],
+   [
+    "clamp and stand",
+    [
+     189,
+     642
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B4b-12-yeast-anaerobic-fermentation-experiment": {
+  "labels": [
+   [
+    "live yeast + boiled and cooled glucose solution",
+    [
+     451,
+     653
+    ],
+    "L"
+   ],
+   [
+    "boiled yeast + boiled and cooled glucose solution (control)",
+    [
+     619,
+     653
+    ],
+    "R"
+   ],
+   [
+    "layer of oil (keeps out air)",
+    [
+     618,
+     489
+    ],
+    "R"
+   ],
+   [
+    "bubbles of carbon dioxide",
+    [
+     454,
+     575
+    ],
+    "L"
+   ],
+   [
+    "delivery tube",
+    [
+     742,
+     200
+    ],
+    "R"
+   ],
+   [
+    "lime water turns milky",
+    [
+     186,
+     768
+    ],
+    "L"
+   ],
+   [
+    "lime water stays clear",
+    [
+     839,
+     768
+    ],
+    "R"
+   ],
+   [
+    "water bath at about 30 \u00b0C",
+    [
+     696,
+     614
+    ],
+    "R"
+   ],
+   [
+    "thermometer",
+    [
+     318,
+     291
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B4b-13-yeast-industrial-fermentation-products": {
+  "whiten": [
+   [
+    368,
+    833,
+    449,
+    912
+   ]
+  ],
+  "labels": [
+   [
+    "yeast cells (budding)",
+    [
+     528,
+     468
+    ],
+    "R"
+   ],
+   [
+    "bread and puff-puff (carbon dioxide)",
+    [
+     266,
+     240
+    ],
+    "L"
+   ],
+   [
+    "beer and burukutu (ethanol)",
+    [
+     798,
+     266
+    ],
+    "R"
+   ],
+   [
+    "palm wine (wild yeasts)",
+    [
+     747,
+     716
+    ],
+    "R"
+   ],
+   [
+    "industrial alcohol and fuel",
+    [
+     294,
+     583
+    ],
+    "L"
+   ],
+   [
+    "vitamin B (yeast extract)",
+    [
+     409,
+     860
+    ],
+    "L"
+   ],
+   [
+    "animal feed",
+    [
+     547,
+     814
+    ],
+    "R"
+   ],
+   [
+    "harmful: thrush (Candida)",
+    [
+     133,
+     880
+    ],
+    "L"
+   ]
+  ]
  }
 }

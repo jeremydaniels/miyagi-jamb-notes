@@ -30,7 +30,7 @@ Immediately as Jesus came up out of the water, three miraculous things happened:
 
 **Textbook variation:** The Gospel of Mark (Mark 1:9-13) gives a very brief account of the baptism. It mentions Jesus coming from Nazareth, the heavens opening, the Spirit descending, and the voice speaking, but it leaves out the dialogue between Jesus and John.
 
-[IMAGE: A scene at the River Jordan. John the Baptist, wearing a rough camel-hair garment, is pouring water over Jesus, who is standing waist-deep in the river. Above them, the clouds part to reveal a bright light, and a white dove is descending directly toward Jesus. Clean flat textbook illustration, white background.]
+![A textbook illustration of John the Baptist pouring water over Jesus standing waist-deep in the River Jordan as a white dove descends from parted clouds.](images/C2-01-baptism-jesus-jordan.png)
 
 ### Meaning and purpose of the baptism
 
@@ -82,7 +82,7 @@ Let us look at each temptation in detail, following Matthew's order:
 
 After this third temptation, the devil left Him (Luke adds that he departed "for a season"), and angels came and ministered to Jesus.
 
-[IMAGE: A three-panel illustration showing the three temptations of Jesus. Left panel: Jesus in a rocky, barren wilderness, looking calmly at a cloaked figure pointing at stones on the ground. Middle panel: Jesus standing on the high, ornate roof (pinnacle) of the Jerusalem temple, with the tempter gesturing downward. Right panel: Jesus standing on a high mountain peak, with the tempter pointing outwards to grand, glowing cities in the distance. Clean flat textbook illustration, white background.]
+![A three panel illustration showing the three temptations of Jesus in the wilderness, on the temple tower, and overlooking kingdoms from a mountain peak.](images/C2-02-three-temptations-jesus-panels.png)
 
 ### The significance of the temptations
 

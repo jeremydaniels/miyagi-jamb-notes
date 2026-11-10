@@ -43,7 +43,7 @@ When software is created, the programmers write it in human-readable code (calle
 | **Security** | Security flaws are quickly found and fixed by the community, though anyone can see the code. | Security relies entirely on the vendor finding and fixing flaws. |
 | **Examples** | Linux operating systems (e.g., Ubuntu), Mozilla Firefox browser, LibreOffice, Android. | Microsoft Office, Adobe Photoshop, Apple iOS, CorelDraw. |
 
-[IMAGE: A comparative diagram showing an open-source software icon with community developers sharing code openly on the left, and a proprietary software icon showing a locked box with a price tag and corporate developers on the right. Clean flat textbook illustration, white background.]
+![A comparative diagram showing an open-source software icon with community developers sharing code openly on the left, and a proprietary software icon showing a locked box on the right.](images/B1f-01-comparative-open-source-software.png)
 
 ## Methods of acquiring application software
 
@@ -124,7 +124,7 @@ The JAMB syllabus explicitly lists several categories of common off-the-shelf ap
     *   **Use:** Managing healthcare facilities, patient electronic medical records (EMR), doctor appointments, and medical billing.
     *   **Syllabus Example:** **eHospital**. (eHospital is a category of hospital management software packages).
 
-[IMAGE: A visually appealing grid of software category icons: a document with a "W" (Word Processing), a green grid (Spreadsheet), a database cylinder (Database), a presentation screen (Presentation), a medical cross (Hospital), and a graduation cap (Educational). Clean flat textbook style, white background.]
+![A grid of six software icons: a document with a W, a green spreadsheet, a database cylinder, a presentation screen, a medical cross, and a graduation cap.](images/B1f-02-visually-appealing-grid-software.png)
 
 ## Key terms
 

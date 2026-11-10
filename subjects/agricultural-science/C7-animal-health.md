@@ -179,7 +179,7 @@ The liver fluke is a leaf-shaped endoparasite that lives in the liver and bile d
 7. A sheep or cow grazes on the grass and swallows the metacercariae.
 8. In the animal's intestine, the cyst dissolves. The young fluke burrows through the intestine wall to the liver, where it matures into an adult.
 
-[IMAGE: A circular life cycle diagram of a Liver Fluke. Top: A sheep (primary host) grazing. Arrow from sheep points right to "Eggs passed in faeces". Arrow points down to a swimming ciliated "Miracidium". Arrow points left into a "Water snail" (secondary host). Inside a call-out box for the snail, show text: "Sporocyst -> Redia -> Cercaria". Arrow points up from snail showing a swimming tadpole-like "Cercaria". Arrow points to a blade of grass showing round cysts labelled "Metacercaria (encysted on grass)". Final arrow points from the grass back to the grazing sheep. Clean flat textbook illustration, white background.]
+![A circular diagram illustrating the life cycle of a liver fluke between a sheep host, water environment with snails, and encysted forms on vegetation.](images/C7-01-liver-fluke-life-cycle.png)
 
 ### 2. Life Cycle of the Tapeworm (*Taenia solium* and *Taenia saginata*)
 Tapeworms are long, flat, ribbon-like endoparasites found in the small intestine. *Taenia solium* (pork tapeworm) uses humans as the primary host and **pigs** as the secondary host. *Taenia saginata* (beef tapeworm) uses **cattle** as the secondary host.
@@ -193,7 +193,7 @@ Tapeworms are long, flat, ribbon-like endoparasites found in the small intestine
 6. If a human eats undercooked, infected pork, the cyst wall dissolves in the human stomach.
 7. The tapeworm's head (scolex) attaches to the wall of the human's small intestine and grows into a long adult tapeworm, completing the cycle.
 
-[IMAGE: A circular life cycle diagram of a Tapeworm. Top: A human (primary host). Arrow pointing right shows "Gravid proglottids containing eggs passed in faeces". Arrow points down to a pig (secondary host) eating contaminated food. Inside the pig, text reads: "Eggs hatch -> embryos migrate to muscle". Arrow points left to a slice of meat showing small white cysts, labelled "Bladder worm (Cysticercus) in measly pork". Arrow points up to the human eating the meat, labelled "Human eats undercooked infected meat". Clean flat textbook illustration, white background.]
+![A circular diagram depicting the tapeworm life cycle involving a human primary host, egg-bearing proglottids, a pig secondary host with internal larval stages, and encysted pork meat.](images/C7-02-tapeworm-parasitic-life-cycle.png)
 
 ### 3. Life Cycle of the Roundworm (*Ascaris lumbricoides* / *Ascaris suum*)
 Roundworms are long, unsegmented endoparasites. They have a **direct life cycle** (no intermediate host).

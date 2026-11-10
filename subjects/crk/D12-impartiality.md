@@ -55,7 +55,7 @@ Jesus gave a very simple but powerful rule for human relationships, often called
 
 **Interpretation for impartiality:** If you want to be treated fairly, you must treat others fairly. If you do not want to be discriminated against because of your background or bank account, you must not discriminate against others. Impartiality is simply the Golden Rule in action.
 
-[IMAGE: A pair of traditional balancing scales (scales of justice) sitting on a Bible. On one side of the scale is a heavy gold coin and a royal crown; on the other side is a simple wooden bowl and a plain cloth. The scales are perfectly balanced, showing that rich and poor weigh exactly the same before God. Clean flat textbook illustration, white background.]
+![A balanced scale of justice resting atop a Bible, holding a royal crown and gold coin on one side and a wooden bowl and cloth on the other.](images/D12-01-impartiality-balanced-scales.png)
 
 ## James 2:1-13: The core teaching on impartiality
 
@@ -108,7 +108,7 @@ Why do people show partiality in the church and in society? Based on the biblica
 | **Religious Denomination** | Treating people of other Christian denominations or other religions unfairly in everyday life, refusing to apply the Golden Rule (Luke 6:31) to those outside one's own group. |
 | **Hypocrisy** | As Jesus taught in Matthew 7, people are partial when they are blind to their own faults (the log) but overly critical of others (the speck). This pride makes them think they are better than others. |
 
-[IMAGE: A split scene comparing two modern Nigerian settings. On the left, a well-dressed man in an expensive agbada steps out of a luxury SUV, and people are rushing to bow to him and carry his briefcase. On the right, a poor man in worn-out clothes is being rudely pushed away from an office door by a security guard. A large red "X" is drawn over the entire image to show that this behaviour is wrong. Clean flat textbook style, white background.]
+![A split scene showing people honoring a wealthy man leaving an SUV versus a guard pushing away a poor man, with a large red X across both.](images/D12-02-social-partiality-comparison-scene.png)
 
 ## Objective iii: Examine the consequences of partiality
 

@@ -1,0 +1,10 @@
+[
+ [
+  "A12-01-money-market-equilibrium-graph",
+  "A standard line graph illustrating the Money Market. The horizontal axis is and the vertical axis is \"Interest Rate (r)\". A vertical straight line represents the fixed Money Supply set by the central bank. A downward-sloping curve (Liquidity Preference) represents Money Demand. The intersection of Ms and Md is marked with a dashed line leading to the equilibrium interest rate \"r*\" on the vertical axis."
+ ],
+ [
+  "A12-02-demand-pull-cost-push",
+  "Two side-by-side graphs illustrating Demand-Pull and Cost-Push inflation. Left graph (Demand-Pull): An upward-sloping Aggregate Supply (AS) curve and a downward-sloping Aggregate Demand (AD1) curve intersecting at price level P1. A new curve AD2 is shifted to the right, creating a new intersection at a higher price level P2 and higher output. Right graph (Cost-Push): A downward-sloping AD curve and an upward-sloping AS1 curve intersecting at P1. A new curve AS2 is shifted to the left (upwards), creating a new intersection at a higher price level P2 and lower output."
+ ]
+]

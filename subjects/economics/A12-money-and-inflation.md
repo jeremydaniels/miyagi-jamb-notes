@@ -93,7 +93,7 @@ The supply of money refers to the total amount of money in circulation in an eco
 * **Cash Reserve Ratio (CRR):** The percentage of deposits commercial banks must keep in cash. A higher CRR means banks have less money to lend, reducing the money supply.
 * **Government borrowing and printing money:** If the government prints more money to fund its budget deficit, the money supply increases.
 
-[IMAGE: A standard line graph illustrating the Money Market. The horizontal axis is labeled "Quantity of Money" and the vertical axis is "Interest Rate (r)". A vertical straight line labeled "Ms" represents the fixed Money Supply set by the central bank. A downward-sloping curve labeled "Md" (Liquidity Preference) represents Money Demand. The intersection of Ms and Md is marked with a dashed line leading to the equilibrium interest rate "r*" on the vertical axis. Clean flat textbook style, white background.]
+![Graph of the money market showing a vertical money supply line intersecting a downward-sloping money demand line at equilibrium interest rate r star.](images/A12-01-money-market-equilibrium-graph.png)
 
 ## Relationship between the value of money and the price level
 
@@ -143,7 +143,7 @@ There are several types of inflation:
 4. **Creeping (Mild) inflation:** A slow, single-digit rate of inflation (e.g., 2% to 4% per year). A little creeping inflation is actually considered healthy because it encourages producers to produce more, expecting higher profits.
 5. **Imported inflation:** This occurs when a country imports goods from countries experiencing inflation, or when a country's currency depreciates, making all imported goods much more expensive in local currency.
 
-[IMAGE: Two side-by-side graphs illustrating Demand-Pull and Cost-Push inflation. Left graph (Demand-Pull): An upward-sloping Aggregate Supply (AS) curve and a downward-sloping Aggregate Demand (AD1) curve intersecting at price level P1. A new curve AD2 is shifted to the right, creating a new intersection at a higher price level P2 and higher output. Right graph (Cost-Push): A downward-sloping AD curve and an upward-sloping AS1 curve intersecting at P1. A new curve AS2 is shifted to the left (upwards), creating a new intersection at a higher price level P2 and lower output. Clean flat textbook style, white background.]
+![Two side-by-side graphs showing demand-pull inflation with aggregate demand shifting right, and cost-push inflation with aggregate supply shifting left, both leading to higher price levels.](images/A12-02-demand-pull-cost-push.png)
 
 ## Causes and effects of inflation
 

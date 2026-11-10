@@ -1,0 +1,54 @@
+{
+ "template": "graph",
+ "title": "The Money Market",
+ "x_label": "Quantity of Money",
+ "y_label": "Interest Rate (r)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Ms",
+   "points": [
+    [
+     5,
+     1
+    ],
+    [
+     5,
+     9
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Md",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     8.5,
+     2.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "",
+   "y_text": "r*"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Structure of Government under the 1999 Constitution (Fourth Republic)",
+ "nodes": [
+  {
+   "id": "fed",
+   "text": "Federal Republic of Nigeria",
+   "shape": "oval",
+   "color": "teal"
+  },
+  {
+   "id": "exec",
+   "text": "Executive\n(President)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "leg",
+   "text": "Legislature\n(National Assembly:\nSenate & House of Reps)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "jud",
+   "text": "Judiciary\n(Supreme Court)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "states",
+   "text": "36 States & FCT",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "lgas",
+   "text": "774 Local Government Areas",
+   "shape": "box",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "fed",
+   "to": "exec"
+  },
+  {
+   "from": "fed",
+   "to": "leg"
+  },
+  {
+   "from": "fed",
+   "to": "jud"
+  },
+  {
+   "from": "exec",
+   "to": "states"
+  },
+  {
+   "from": "leg",
+   "to": "states"
+  },
+  {
+   "from": "jud",
+   "to": "states"
+  },
+  {
+   "from": "states",
+   "to": "lgas"
+  }
+ ]
+}

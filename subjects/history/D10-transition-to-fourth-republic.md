@@ -56,7 +56,7 @@ Tensions in the oil-producing Niger Delta escalated during this period. In Decem
 **4. Criticisms of the 1999 Constitution**
 Because the transition was rushed (lasting only eleven months), the CDCC had limited time to consult the public. When the 1999 Constitution was promulgated shortly before the handover, critics and civil society groups argued that it was imposed by the military. A common criticism was that its opening phrase, *"We the People of the Federal Republic of Nigeria..."*, was inaccurate, as the document had not been subjected to a national referendum.
 
-[IMAGE: A timeline spanning June 1998 to May 1999. Points on the timeline: June 1998 (Death of Abacha, Abubakar becomes Head of State); July 1998 (Death of M.K.O. Abiola); August 1998 (Creation of INEC); Dec 1998 (Local Government Elections / Kaiama Declaration); Feb 1999 (National Assembly and Presidential Elections); May 1999 (Promulgation of the 1999 Constitution and Handover to civilian rule). Style: clean, flat textbook illustration, white background, clear chronological order.]
+![A vertical timeline from June 1998 to May 1999 marking key milestones leading to Nigeria transition to civilian rule and the 1999 Constitution.](images/D10-01-fourth-republic-transition-timeline.png)
 
 ## Objective ii: Examine the role of the key actors in the transition process and the growth and development of the Fourth Republic
 
@@ -116,7 +116,7 @@ Despite its longevity, the Fourth Republic has faced persistent historical and s
 *   **Corruption and Governance:** Allegations of corruption in public office have remained a central theme in Nigerian politics. While anti-graft agencies such as the Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC) were created in the early years of the Fourth Republic, debates continue over their effectiveness and political independence.
 *   **Constitutional Debates:** The debate over the 1999 Constitution has never fully ended. Various groups continue to call for "restructuring," arguing for a new constitution or significant amendments that would transfer more powers and resources from the federal government to the states.
 
-[IMAGE: A simple diagram showing the structure of the Fourth Republic's government under the 1999 Constitution. A large circle at the top labelled "Federal Republic of Nigeria". Three branches branching out below it: "Executive (President)", "Legislature (National Assembly: Senate & House of Reps)", and "Judiciary (Supreme Court)". Below this, a tier labelled "36 States & FCT", and below that "774 Local Government Areas". Style: clean flat textbook illustration, white background.]
+![Flowchart of Nigerian government structure under the 1999 Constitution, showing federal executive, legislative, and judicial branches leading to 36 states and FCT, then local government areas.](images/D10-02-constitution-governance-hierarchy.png)
 
 ## Key terms
 

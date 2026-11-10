@@ -1,0 +1,36 @@
+{
+ "template": "timeline",
+ "title": "Transition to Civilian Rule (June 1998 – May 1999)",
+ "events": [
+  {
+   "when": "June 1998",
+   "title": "Death of Abacha",
+   "text": "Abubakar becomes Head of State"
+  },
+  {
+   "when": "July 1998",
+   "title": "Death of M.K.O. Abiola",
+   "text": "Prominent political turning point"
+  },
+  {
+   "when": "August 1998",
+   "title": "Creation of INEC",
+   "text": "Electoral commission established"
+  },
+  {
+   "when": "Dec 1998",
+   "title": "Local Elections",
+   "text": "LG Elections / Kaiama Declaration"
+  },
+  {
+   "when": "Feb 1999",
+   "title": "General Elections",
+   "text": "National Assembly and Presidential Elections"
+  },
+  {
+   "when": "May 1999",
+   "title": "Handover to Civilian Rule",
+   "text": "Promulgation of 1999 Constitution"
+  }
+ ]
+}

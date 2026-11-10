@@ -1,38 +1,29 @@
 {
  "A7-02-agricultural-infrastructure-types-composite": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
     "Transport (roads)",
-    [
-     199,
-     437
-    ],
-    "L"
+    258,
+    419
    ],
    [
-    "Communication (radio)",
-    [
-     670,
-     247
-    ],
-    "R"
+    "Communication\n(radio)",
+    768,
+    419
    ],
    [
-    "Water supply (irrigation)",
-    [
-     240,
-     677
-    ],
-    "L"
+    "Water supply\n(irrigation)",
+    259,
+    926
    ],
    [
     "Storage (silos)",
-    [
-     654,
-     783
-    ],
-    "R"
+    772,
+    901
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

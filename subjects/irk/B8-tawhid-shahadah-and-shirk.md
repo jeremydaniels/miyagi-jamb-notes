@@ -40,7 +40,7 @@ Islamic scholars traditionally analyse the concept of Tawhīd by dividing it int
 2. **Tawhīd al-Ulūhiyyah (Oneness of Worship):** The belief that Allah alone deserves to be worshipped. All acts of worship—such as prayer (salāh), fasting (sawm), charity (zakāh), and supplication (du'ā)—must be directed exclusively to Him. 
 3. **Tawhīd al-Asmā' wa as-Sifāt (Oneness of Names and Attributes):** The belief that Allah has perfect, unique names and attributes (such as The All-Knowing, The Most Merciful). These attributes belong solely to Him and cannot be compared to the attributes of human beings or creation.
 
-[IMAGE: A simple three-part diagram shaped like a triangle. At the top point: "Tawhīd (Oneness of Allah)". The three sides are labelled with the three categories: "1. Rubūbiyyah (Lordship - Creator and Sustainer)", "2. Ulūhiyyah (Worship - The Only One worthy of worship)", and "3. Asmā' wa as-Sifāt (Names and Attributes - Unique and Perfect)". Clean flat textbook style, white background.]
+![A triangular diagram with Tawhid at the top apex and three categories labelled along its sides: Rububiyyah, Uluhiyyah, and Asma wa as-Sifat.](images/B8-01-tawhid-categories-triangle.png)
 
 #### Importance and Lessons of Tawhīd
 - **Freedom and Dignity:** Tawhīd frees human beings from worshipping false deities, nature, objects, or other humans. A believer relies only on Allah, removing the fear of humans or evil spirits.
@@ -188,7 +188,7 @@ Superstition involves believing that certain objects, animals, or events bring g
 Fortune-tellers, astrologers, palm readers, and diviners (such as traditional *babalawo* or seers in Nigeria) claim to know the future or the unseen (*Al-Ghayb*). In Islam, knowledge of the unseen belongs exclusively to Allah. Consulting them is strictly prohibited.
 - **Q.15:16-18 & Q.37:6-10:** These verses explain that devils (shayātīn) attempt to eavesdrop on the angels in the heavens to steal snippets of information about the future. They are chased away by shooting stars (flaming fire). The devils mix one truth with a hundred lies and pass it to fortune-tellers.
 
-[IMAGE: A contrast diagram showing a scale. Left side (marked heavily with an 'X'): A crystal ball, tarot cards, and an amulet, labelled "Fortune-telling & Superstition (Shirk)". Right side (marked with a green checkmark): A person with hands raised in prayer (Du'a) and an open Qur'an, labelled "Trusting in Allah (Tawhīd)". Clean flat textbook style, white background.]
+![A balance scale with divination items marked with a red cross on one side and a person praying with an open Quran marked with a green checkmark.](images/B8-02-shirk-versus-tawhid-contrast.png)
 
 #### 3. Magic and Witchcraft (Sihr)
 Magic involves dealing with the jinn, casting spells, or performing rituals to cause harm, manipulate minds, or gain power. Learning, teaching, or practicing magic is a direct act of disbelief.

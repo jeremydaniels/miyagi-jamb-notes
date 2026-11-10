@@ -66,7 +66,7 @@ Nutrients are constantly recycled between the physical environment and living or
 - **Nitrification:** Ammonium is oxidised into nitrates in two steps. First, ***Nitrosomonas*** converts ammonia to nitrites. Second, ***Nitrobacter*** converts nitrites to nitrates, which plants absorb.
 - **Denitrification:** In waterlogged soils, ***Pseudomonas*** bacteria reduce soil fertility by breaking down nitrates and releasing free nitrogen gas back into the air.
 
-[IMAGE: A flowchart of the Nitrogen Cycle. Top: "Atmospheric Nitrogen (N2)". An arrow points down to legume roots labeled "Nitrogen Fixation by Rhizobium". Another path shows a dead animal pointing to "Ammonification" producing "Ammonium". An arrow goes from Ammonium to "Nitrites" labeled "Nitrosomonas", and from Nitrites to "Nitrates" labeled "Nitrobacter". An arrow goes from Nitrates back up to the atmosphere labeled "Denitrification by Pseudomonas". Clean flat textbook style, white background.]
+![A diagram of the nitrogen cycle showing nitrogen fixation into legume roots, ammonification from dead matter, nitrification into nitrites and nitrates, and denitrification returning to atmospheric nitrogen.](images/B3-02-nitrogen-cycle-flowchart.png)
 
 ## The living population of the soil (flora and fauna)
 

@@ -79,7 +79,7 @@ The prophets of Baal went first.
 - At the time of the evening sacrifice, Elijah prayed a simple prayer: *"LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant..."* (1 Kings 18:36).
 - Immediately, the fire of the Lord fell. It consumed the burnt sacrifice, the wood, the stones, the dust, and licked up all the water in the trench.
 
-[IMAGE: A dramatic scene on a rocky mountain top. On the right, a large stone altar made of 12 stones is engulfed in bright, intense fire coming down from a clear sky. The fire is so intense it is burning the wet wood, the sacrifice, and the water in the trench around it. On the left, Elijah stands with one arm raised to the sky in prayer. In the foreground, a crowd of Israelites are falling on their faces in awe. In the background, the prophets of Baal look on in shock and defeat. Labels to add later: "Fire of the Lord", "Altar of 12 stones", "Water trench dried up", "Elijah", "Israelites bowing". Clean flat textbook style, white background.]
+![Elijah raises his hand in prayer as divine fire consumes the sacrifice on a stone altar while Israelites bow in reverence.](images/B2-01-elijah-fire-mount-carmel.png)
 
 **5. The Aftermath:**
 When the people saw it, they fell on their faces and cried, *"The LORD, he is the God; the LORD, he is the God."* (1 Kings 18:39).

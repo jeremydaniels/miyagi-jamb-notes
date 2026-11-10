@@ -23,7 +23,7 @@ By the end of these notes, you should be able to:
 
 Production in agriculture is impossible without combining resources. These resources are known as the **factors of production**, and they are grouped into four categories: **Land**, **Labour**, **Capital**, and **Management** (or Entrepreneurship). 
 
-[IMAGE: A conceptual diagram showing four large puzzle pieces coming together to form a central circle labelled "Agricultural Production". The top-left puzzle piece is green, labelled "Land (Nature's gifts, soil, water)". The top-right piece is orange, labelled "Labour (Human effort, workers)". The bottom-left piece is blue, labelled "Capital (Money, machines, tools)". The bottom-right piece is purple, labelled "Management (The Farm Manager, planning, control)". Clean flat textbook style, white background.]
+![Diagram showing four factors of agricultural production, land, labour, capital, and management, surrounding and pointing toward a central circle labelled Agricultural Production.](images/D1-01-factors-production-schematic.png)
 
 ---
 
@@ -147,7 +147,7 @@ Capital is generally divided into two types:
 1. **Fixed Capital:** Assets that are not used up in one production cycle and last for a long time. Examples include farm buildings, tractors, incubators, farm tools, and breeding stock. (Note: In general economics, land is a separate factor, but in farm accounting, purchased land is often treated as a fixed asset).
 2. **Working (Operating) Capital:** Assets that are used up completely during a single production season. Examples include cash in hand, seeds, fertilizers, livestock feeds, fuel, and agrochemicals (pesticides).
 
-[IMAGE: A split illustration comparing fixed and working capital. On the left side, under the heading "Fixed Capital", show a red tractor, a large wooden barn, and a wheelbarrow. On the right side, under the heading "Working Capital", show a sack of NPK fertilizer, a bowl of maize seeds, a jerrycan of fuel, and a stack of Naira notes (₦). Clean flat textbook style, white background.]
+![A split illustration showing a tractor, barn, and wheelbarrow on the left, alongside a sack, bowl of seeds, jerrycan, and money stack on the right.](images/D1-02-fixed-versus-working-capital.png)
 
 ### Sources of Capital and Associated Problems
 

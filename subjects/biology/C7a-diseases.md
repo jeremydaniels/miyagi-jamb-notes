@@ -135,7 +135,7 @@ Meningitis is spread from person to person by droplets; it has no vector. Condit
 6. **Low vaccination coverage** and the arrival of new strains (serogroups) of the bacterium to which people have no immunity.
 7. **Poverty, malnutrition and other respiratory infections**, which weaken resistance.
 
-[IMAGE: A simplified map of Africa with a shaded east–west band across the semi-arid region south of the Sahara, from Senegal in the west to Ethiopia in the east, showing the meningitis belt. Nigeria outlined with its northern half inside the band. A small inset sun and dust cloud symbol for the dry harmattan season. Labels: "Meningitis belt", "Sahara Desert", "Nigeria", "Northern Nigeria (inside the belt)", "Dry season: about December to June". Soft earth tones for land, light orange for the belt. Clean flat textbook style, white background.]
+![Map of Africa highlighting the east-to-west meningitis belt across the Sahel, showing northern Nigeria situated within the zone alongside seasonal harmattan dry season symbols.](images/C7a-01-map-africa-meningitis-belt.png)
 
 ### Dracunculiasis (guinea worm disease)
 
@@ -460,7 +460,7 @@ The housefly is a **mechanical vector**. Pathogens do not develop inside it; it 
 | Larvae live in manure heaps | Cover manure and compost heaps; turn them so heat kills larvae |
 | Spreads germs from hands to mouth | **Wash hands** with soap before eating and after using the toilet; wash fruits and vegetables |
 
-[IMAGE: Life cycle of the housefly in a circle with arrows: a cluster of small white eggs on a heap of refuse; a white legless maggot; a brown barrel-shaped pupal case; an adult housefly. In the centre, a magnified housefly standing on a plate of food, with its hairy legs and sticky foot pads highlighted, small dots showing germs on its legs, and a droplet of vomit on the food. Labels: "Eggs in refuse", "Larva (maggot)", "Pupa (puparium)", "Adult housefly", "Hairy legs carry germs", "Sticky foot pads", "Sponging mouthparts", "Vomit on food". Clean flat textbook style, white background.]
+![Diagram showing the four life cycle stages of a housefly in a circle, with a central detailed view of an adult fly feeding on food.](images/C7a-08-housefly-life-cycle-disease.png)
 
 ### Agents that spread without a vector
 

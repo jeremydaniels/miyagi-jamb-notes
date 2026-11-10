@@ -402,5 +402,73 @@
     "R"
    ]
   ]
+ },
+ "C7a-08-housefly-life-cycle-disease": {
+  "labels": [
+   [
+    "Eggs in refuse",
+    [
+     227,
+     223
+    ],
+    "L"
+   ],
+   [
+    "Larva (maggot)",
+    [
+     796,
+     233
+    ],
+    "R"
+   ],
+   [
+    "Pupa (puparium)",
+    [
+     800,
+     798
+    ],
+    "R"
+   ],
+   [
+    "Adult housefly",
+    [
+     223,
+     811
+    ],
+    "L"
+   ],
+   [
+    "Hairy legs carry germs",
+    [
+     399,
+     538
+    ],
+    "L"
+   ],
+   [
+    "Sticky foot pads",
+    [
+     448,
+     638
+    ],
+    "L"
+   ],
+   [
+    "Sponging mouthparts",
+    [
+     649,
+     493
+    ],
+    "R"
+   ],
+   [
+    "Vomit on food",
+    [
+     630,
+     548
+    ],
+    "R"
+   ]
+  ]
  }
 }

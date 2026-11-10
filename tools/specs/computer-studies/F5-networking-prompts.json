@@ -1,0 +1,6 @@
+[
+ [
+  "F5-01-three-distinct-network-layouts",
+  "A diagram showing three distinct network layouts. 1) Star: A central switch in the middle with lines radiating out to four computers. 2) Bus: A single horizontal line with terminators at both ends, with four computers attached to it via short drop lines. 3) Ring: Four computers connected in a closed circle. Style: clean flat textbook illustration, white background with clear labels."
+ ]
+]

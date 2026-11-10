@@ -102,7 +102,7 @@ In a Ring topology, each computer is connected to exactly two other computers, f
 * **Advantage:** Data flows smoothly without collisions because it goes in one direction.
 * **Disadvantage:** If any single computer breaks down or a cable gets cut, the ring is broken, and the entire network stops working (unless it is a more expensive "dual-ring" setup).
 
-[IMAGE: A diagram showing three distinct network layouts. 1) Star: A central switch in the middle with lines radiating out to four computers. 2) Bus: A single horizontal line with terminators at both ends, with four computers attached to it via short drop lines. 3) Ring: Four computers connected in a closed circle. Style: clean flat textbook illustration, white background with clear labels.]
+![Diagram illustrating Star Bus and Ring network topologies with four computers each](images/F5-01-three-distinct-network-layouts.png)
 
 **Comparison of Star, Bus, and Ring Topologies:**
 

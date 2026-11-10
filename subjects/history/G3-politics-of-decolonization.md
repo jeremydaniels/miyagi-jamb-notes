@@ -53,7 +53,7 @@ The magnitude (scale and intensity) of African discontent was massive. Africans 
 3. **Strike actions:** African workers began to form trade unions and use strikes to protest low wages and bad working conditions. 
 4. **Formation of associations:** Educated elites formed political groups to write petitions, send delegations to Europe, and publish newspapers criticizing the colonial governments. 
 
-[IMAGE: A conceptual diagram illustrating the causes of African discontent. In the center is a large circle titled "African Discontent". Pointing into it are three large arrows. Arrow 1 (Political): "Loss of sovereignty, exclusion of elites, harsh laws like indigénat". Arrow 2 (Economic): "Land alienation, heavy taxation, forced labour, low prices for cash crops". Arrow 3 (Social): "Racial discrimination, poor education, separate settlements". Clean flat textbook style, white background.]
+![Conceptual diagram showing political, economic, and social causes pointing toward African discontent under colonial rule with detailed bullet points in each category.](images/G3-01-concept-cause-effect.png)
 
 ## The impact of the two World Wars
 
@@ -79,7 +79,7 @@ The impact of the Second World War on African nationalism was even more profound
 4. **The rise of Anti-Colonial Superpowers:** After 1945, the global balance of power shifted from Britain and France to the United States and the Soviet Union (USSR). Both new superpowers were anti-colonial—the USA because of its own history of fighting British rule and its desire for open global markets, and the USSR because communist ideology opposed imperialism. They pressured European powers to decolonize.
 5. **The United Nations (UN):** The UN replaced the League of Nations in 1945. It became a powerful international platform where anti-colonial views were loudly expressed, especially as Asian countries like India gained independence in 1947 and began supporting African nationalism at the UN.
 
-[IMAGE: An illustration showing returning African soldiers after World War II. In the foreground, two African soldiers in British military uniforms (slouch hats, khaki shorts) are stepping off a ship's gangway, greeted by a crowd of cheering African civilians. One civilian in traditional attire is holding up a newspaper with the bold headline "ATLANTIC CHARTER: SELF-DETERMINATION". The mood is energetic and determined. Clean flat textbook style, white background.]
+![African soldiers in British military uniforms disembark from a ship onto a gangway, welcomed by a cheerful crowd of civilians, one holding an unlabelled newspaper.](images/G3-02-historical-crowd-scene.png)
 
 ## Nationalist activities, political parties and associations
 
@@ -145,7 +145,7 @@ In some colonies, peaceful methods failed completely. White settlers refused to 
 - **Portuguese Colonies (Angola, Mozambique, Guinea-Bissau):** Portugal was ruled by a dictatorship that refused to even discuss decolonization, viewing its colonies as "overseas provinces." Africans formed liberation armies (like the MPLA in Angola, FRELIMO in Mozambique, and PAIGC in Guinea-Bissau) and fought long, bitter guerrilla wars from the 1960s until a revolution in Portugal in 1974 finally led to their independence in 1975.
 - **Zimbabwe (Southern Rhodesia):** The white minority government under Ian Smith illegally declared independence from Britain in 1965 (UDI) to ensure permanent white rule. African nationalists (ZANU and ZAPU) fought a long "bush war" until the white government was forced to negotiate, leading to independence in 1980.
 
-[IMAGE: A map of Africa in the 1960s/70s. Different colors distinguish how countries achieved independence. Countries in West Africa (Nigeria, Ghana, Senegal, Ivory Coast) are shaded light blue with a legend key reading "Constitutional/Peaceful Process". Countries like Algeria, Kenya, Angola, Mozambique, and Zimbabwe are shaded dark red with a legend key reading "Armed Struggle / Guerrilla War". Clean flat textbook style, white background.]
+![A map of Africa illustrating decolonisation routes in the 1960s and 1970s, categorising selected nations into peaceful constitutional transitions and armed struggles.](images/G3-03-thematic-decolonization-map-africa.png)
 
 ### Comparison of the two strategies
 

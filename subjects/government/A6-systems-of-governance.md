@@ -97,7 +97,7 @@ To clearly master **Objective i (distinguish between the different systems)**, u
 | **Responsibility** | **Individual:** Ministers answer to the President. | **Collective:** The whole cabinet shares blame and falls together if defeated. |
 | **Election of Leader** | President is elected by the whole country (direct mandate). | Prime Minister is appointed because they lead the majority party in parliament. |
 
-[IMAGE: Clean, flat textbook flowchart contrasting Presidential and Parliamentary Systems. Left side: "Presidential System". Box showing "The People" with two arrows pointing to separate boxes: "Elected President (Executive)" and "Elected Legislature". An arrow between Executive and Legislature labelled "Checks and Balances". Right side: "Parliamentary System". Box showing "The People" with an arrow to "Elected Legislature". Inside the Legislature box, an arrow points to a smaller box labelled "Prime Minister & Cabinet (Executive)", showing they are drawn from within. Labels to add: "Separate Elections", "Fusion of Powers". White background.]
+![Flowchart comparing presidential and parliamentary systems, showing separate elections with checks and balances alongside fusion of powers with the executive drawn directly from the legislature.](images/A6-01-presidential-versus-parliamentary-systems.png)
 
 ## The Monarchical System of Governance
 

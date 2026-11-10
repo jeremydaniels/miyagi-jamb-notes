@@ -68,7 +68,7 @@ These are two ways of describing the **same forms**. The table below shows all t
 | **Past** | I **cooked** | I **was cooking** | I **had cooked** | I **had been cooking** |
 | **Future** (will + …) | I **will cook** | I **will be cooking** | I **will have cooked** | I **will have been cooking** |
 
-[IMAGE: A horizontal timeline chart titled "Tense and aspect at a glance". A long arrow runs left to right labelled "PAST", "NOW" (a vertical red line in the centre) and "FUTURE". Above the line, four colour-coded rows: "Simple" (single dots), "Progressive" (wavy bars showing ongoing action around a point), "Perfect" (an arrow ending at a reference point) and "Perfect progressive" (a wavy bar ending in an arrow at a reference point). Each row has three small examples placed at past, present and future positions: e.g. "cooked / cook / will cook", "was cooking / am cooking / will be cooking", "had cooked / have cooked / will have cooked", "had been cooking / have been cooking / will have been cooking". Clean flat textbook style, white background, soft colours.]
+![Timeline chart illustrating English tense and aspect combinations across past, present, and future with visual symbols and example sentences for simple, progressive, perfect, and perfect progressive.](images/B5a-01-tense-aspect-timeline-chart.png)
 
 ## The present forms
 

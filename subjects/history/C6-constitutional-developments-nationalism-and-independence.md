@@ -53,7 +53,7 @@ The emergence of nationalism was driven by both internal conditions inside Niger
 *   **World War II:** The war was a massive turning point (explained in detail below).
 *   **Independence of other nations:** The independence of India in 1947 and Ghana in 1957 proved to Nigerians that freedom from British rule was possible.
 
-[IMAGE: A montage illustration showing the elements of early Nigerian nationalism: on the left, a vintage printing press producing a copy of the "West African Pilot" newspaper with a headline demanding self-rule; on the right, a crowd of workers and market women holding placards during a peaceful protest. Clean flat textbook style, white background.]
+![A vintage printing press producing newspapers on the left, alongside a crowd of workers and market women holding blank placards in peaceful protest on the right.](images/C6-01-early-nigerian-nationalism-montage.png)
 
 ## The 1922 Clifford Constitution and the First Political Party
 
@@ -170,7 +170,7 @@ The steady progression of these constitutions laid the step-by-step groundwork f
 | **Key Significance** | Introduced the **Elective Principle** (Lagos & Calabar) | Introduced **Regionalism** (3 Regions) and brought North and South into one council | Unprecedented **consultation**; gave regions limited law-making power | Formally established a **federal structure**; division of powers; regional Premiers |
 | **Main Criticism** | Excluded the North from the Legislative Council | Governor imposed it without consulting Nigerians | Quasi-federal structure caused friction between regions and center | Weakened the center by making regions too powerful and regionalizing the civil service |
 
-[IMAGE: A horizontal timeline from 1922 to 1960 showing key milestones in Nigeria's constitutional development. 1922: Clifford Constitution (Elective Principle). 1946: Richards Constitution (Regionalism). 1951: Macpherson Constitution (Quasi-Federalism). 1954: Lyttelton Constitution (True Federalism). 1957-1958: Constitutional Conferences. 1960: Independence. Clean flat textbook style, white background.]
+![Horizontal timeline illustrating Nigeria constitutional milestones from the 1922 Clifford Constitution to independence in 1960.](images/C6-03-timeline-nigerian-constitutional-development.png)
 
 ## Party Politics, Regionalism and the Minority Question
 

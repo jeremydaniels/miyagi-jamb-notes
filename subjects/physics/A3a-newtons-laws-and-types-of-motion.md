@@ -100,7 +100,7 @@ The second category of forces does not require physical contact. A **force field
   * **Electric attraction and repulsion:** The force between electric charges. For example, a plastic comb rubbed on dry hair attracts tiny pieces of paper from a distance.
   * **Magnetic attraction and repulsion:** The force exerted by a magnet on magnetic materials (like iron nails) or on other magnets.
 
-[IMAGE: A two-part diagram comparing contact and field forces. Left half titled "Contact Force": A person's hands physically pushing a heavy wooden box across a floor, with an arrow labeled "Push". Right half titled "Field Force": A U-shaped magnet held above some iron nails, with invisible curved magnetic field lines drawn and the nails jumping up towards the magnet without physical contact. Clean flat textbook illustration, white background.]
+![A comparison showing a person pushing a wooden crate illustrating contact force, and a horseshoe magnet lifting iron nails from a surface illustrating field force.](images/A3a-01-contact-versus-field-forces.png)
 
 ## Newton's laws of motion
 
@@ -224,7 +224,7 @@ If a force acting on a body is plotted against time on a graph, **the area under
 * For a constant force, the graph is a rectangle. Area = length $\times$ breadth = $F \times t$.
 * For a varying force that rises to a peak and drops to zero (like a kick or a punch), the graph forms a triangle. Area = $\frac{1}{2} \times \text{base} \times \text{height} = \frac{1}{2} \times t \times F_{\text{max}}$.
 
-[IMAGE: A graph with Force, F (in Newtons) on the vertical y-axis and time, t (in seconds) on the horizontal x-axis. A triangular plot starts at the origin (0,0), rises to a peak of 50 N at t=0.003 s, and drops back to the x-axis at t=0.006 s. The area under the triangle is shaded blue and boldly labelled "Area = Impulse = Change in Momentum". Clean flat textbook illustration, white background.]
+![A force versus time graph showing a triangular pulse peaking at 50 Newtons at 0.003 seconds, indicating that the shaded area equals impulse and change in momentum.](images/A3a-02-force-time-impulse-graph.png)
 
 ### Worked Example on Graph Interpretation
 

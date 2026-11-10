@@ -26,7 +26,7 @@ The unification happened in two major stages:
 - **The Appointment of Lugard:** In **1912**, Sir Frederick Lugard (later Lord Lugard) was appointed as Governor of both the Northern and Southern protectorates at the same time. The British Secretary of State for the Colonies, Lewis Harcourt, gave Lugard a specific mandate: to study the two territories and prepare a plan to merge them.
 - **The 1914 Amalgamation:** On **1 January 1914**, the two territories were formally joined to create a single entity called the **Colony and Protectorate of Nigeria**, with Lugard serving as its first Governor-General.
 
-[IMAGE: Map of the Nigeria area around 1910 showing two distinct territories: the Protectorate of Northern Nigeria in the north (shaded yellow) and the Colony and Protectorate of Southern Nigeria in the south (shaded green). The River Niger and River Benue are clearly marked in blue, dividing the landmass. A red dot marks Lagos on the coast. Clean flat textbook illustration, white background.]
+![Map of Nigeria circa 1910 showing the yellow Northern Nigeria Protectorate, green Southern Nigeria Protectorate, Niger and Benue rivers in blue, and Lagos marked with a red dot.](images/C2-01-map-nigeria-protectorates.png)
 
 ### Contrasting the North and South before 1914
 

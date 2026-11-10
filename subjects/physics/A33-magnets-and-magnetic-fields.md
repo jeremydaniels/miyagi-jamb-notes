@@ -158,7 +158,7 @@ Magnetic fields are represented using continuous lines called **magnetic lines o
 
 For a single isolated bar magnet, the flux lines curve outwards from the North pole, sweep through the air, and enter the South pole. 
 
-[IMAGE: A single horizontal bar magnet with 'N' on the left and 'S' on the right. Smooth curved lines with arrows pointing away from N and towards S. The lines are densely packed at the poles and spread out widely in the middle. Clean flat textbook style, white background.]
+![Diagram showing the magnetic field lines around a horizontal bar magnet, directed outward from the north pole and inward toward the south pole.](images/A33-02-bar-magnet-magnetic-field.png)
 
 ## Flux pattern of two magnets pole to pole
 

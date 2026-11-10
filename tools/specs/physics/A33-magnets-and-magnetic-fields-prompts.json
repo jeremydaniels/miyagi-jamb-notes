@@ -10,5 +10,9 @@
  [
   "A33-04-solenoid-magnetic-field",
   "A long solenoid coil with an electric current 'I' entering the left and exiting the right. Magnetic field lines are shown passing straight through the centre and curving around the outside, exactly like a bar magnet. At the left end, current circulates anti-clockwise, so it is labeled 'N'. At the right end, current circulates clockwise, so it is labeled 'S'. Right-hand grip rule is inset: a hand gripping the coil, fingers in direction of current, thumb pointing left towards 'N'."
+ ],
+ [
+  "A33-02-bar-magnet-magnetic-field",
+  "A single horizontal bar magnet with 'N' on the left and 'S' on the right. Smooth curved lines with arrows pointing away from N and towards S. The lines are densely packed at the poles and spread out widely in the middle."
  ]
 ]

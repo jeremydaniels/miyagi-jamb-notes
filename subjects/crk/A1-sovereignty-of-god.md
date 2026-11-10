@@ -55,7 +55,7 @@ The sequence of creation in Genesis 1 took place over six days, with God resting
 | **Day 6** | Land Animals and Mankind | God created cattle, creeping things, and beasts of the earth. Finally, God created man (male and female) in His own image and likeness. |
 | **Day 7** | Rest (The Sabbath) | God finished His work, rested on the seventh day, and blessed and sanctified it. |
 
-[IMAGE: A clean, flat textbook illustration showing the six days of creation in a grid of six panels. Panel 1: A striking contrast of bright golden light breaking through dark shadows. Panel 2: A clear blue sky separating clouds above from blue water below. Panel 3: Green rolling hills, trees with fruit, and blue seas. Panel 4: A bright sun, a crescent moon, and twinkling stars in space. Panel 5: Fish leaping from water and birds flying in the sky. Panel 6: Various land animals (lion, elephant, cattle) and the silhouettes of a man and woman standing together on the grass. Labels to add later: "Day 1: Light", "Day 2: Sky and Waters", "Day 3: Land and Plants", "Day 4: Sun, Moon, Stars", "Day 5: Birds and Fish", "Day 6: Animals and Mankind". White background.]
+![A six panel illustration showing the biblical creation days, including light, sky and waters, land and plants, celestial bodies, birds and fish, and land animals with humanity.](images/A1-01-six-days-creation-panels.png)
 
 **Note on textbook variation:** Genesis 2 presents what appears to be a different order, focusing strictly on mankind. In Genesis 2, God creates man (v. 7), then plants the garden of Eden (v. 8), then forms animals from the ground and brings them to Adam to name (v. 19), and finally creates woman (v. 22). The Christian teaching generally interprets Genesis 1 as the chronological order of the whole universe, and Genesis 2 as a detailed focus on the specific events in the Garden of Eden on the sixth day.
 
@@ -92,7 +92,7 @@ God uses the illustration of a craftsman to explain His absolute right over nati
 *   **The Application to Israel:** God then spoke to Jeremiah, comparing the nation of Israel to the clay: "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand" (Jeremiah 18:6). 
 *   **Conditional Sovereignty:** God explained that if He decides to pluck up, pull down, or destroy a nation, but that nation repents of its evil, God will change His mind and spare them. Conversely, if God plans to build and plant a nation, but they do evil and disobey His voice, He will withhold the good He intended for them. God acts as the Sovereign Judge over the morality of nations.
 
-[IMAGE: A scene in an ancient Middle Eastern workshop. A bearded potter sitting at a stone wheel, shaping a lump of wet brown clay with wet, muddy hands. Beside him, an assortment of finished clay jars and pots. In the background, a man (representing the prophet Jeremiah) dressed in simple robes stands watching intently. Labels to add later: "The Prophet Jeremiah", "The Potter", "The Clay", "Potter's Wheel". Clean flat textbook style, white background.]
+![An ancient Middle Eastern potter shapes clay on a spinning wheel while finished pottery sits nearby and Jeremiah stands watching in simple robes.](images/A1-02-potter-at-wheel-biblical.png)
 
 ### 4. God's Sovereignty in the Lives of Believers (Romans 8:28)
 In the New Testament, the Apostle Paul explains how God's sovereignty works for the individual Christian's benefit.

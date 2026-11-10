@@ -1,0 +1,90 @@
+{
+ "A1-01-six-days-creation-panels": {
+  "labels": [
+   [
+    "Day 1: Light",
+    [
+     272,
+     191
+    ],
+    "L"
+   ],
+   [
+    "Day 2: Sky and Waters",
+    [
+     751,
+     191
+    ],
+    "R"
+   ],
+   [
+    "Day 3: Land and Plants",
+    [
+     272,
+     512
+    ],
+    "L"
+   ],
+   [
+    "Day 4: Sun, Moon, Stars",
+    [
+     751,
+     512
+    ],
+    "R"
+   ],
+   [
+    "Day 5: Birds and Fish",
+    [
+     272,
+     831
+    ],
+    "L"
+   ],
+   [
+    "Day 6: Animals and Mankind",
+    [
+     751,
+     831
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A1-02-potter-at-wheel-biblical": {
+  "labels": [
+   [
+    "The Prophet Jeremiah",
+    [
+     754,
+     356
+    ],
+    "R"
+   ],
+   [
+    "The Potter",
+    [
+     352,
+     494
+    ],
+    "L"
+   ],
+   [
+    "The Clay",
+    [
+     596,
+     693
+    ],
+    "R"
+   ],
+   [
+    "Potter's Wheel",
+    [
+     573,
+     765
+    ],
+    "R"
+   ]
+  ]
+ }
+}

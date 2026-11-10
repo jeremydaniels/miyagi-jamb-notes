@@ -131,7 +131,7 @@ In a given year, a region produced 1,000 tonnes of cocoa. Ondo State produced 40
 To convert a value into a percentage instead of an angle:
 *   $\text{Percentage} = \left( \frac{\text{Value}}{\text{Total}} \right) \times 100\%$. For Ondo: $\left(\frac{400}{1000}\right) \times 100\% = 40\%$.
 
-[IMAGE: A pie chart showing cocoa production in four Nigerian states. The circle is divided into four sectors: Ondo at 144 degrees (labelled 'Ondo: 400 tonnes, 40%'), Osun at 108 degrees ('Osun: 300 tonnes, 30%'), Ekiti at 72 degrees ('Ekiti: 200 tonnes, 20%'), and Oyo at 36 degrees ('Oyo: 100 tonnes, 10%'). Clean flat textbook style, white background.]
+![A pie chart displaying cocoa production in Nigerian states with sectors for Ondo at 40 percent, Osun at 30 percent, Ekiti at 20 percent, and Oyo at 10 percent.](images/A4-02-cocoa-production-pie-chart.png)
 
 ### 4. Wind Roses
 A wind rose is a diagram used to show the direction and frequency of winds over a specific period (usually a month or a year) at a specific weather station. 
@@ -151,7 +151,7 @@ Scatter graphs are used to show the relationship (or correlation) between two se
 
 A **line of best fit** is often drawn through the middle of the scattered dots to highlight the general trend.
 
-[IMAGE: Scatter graph showing a positive correlation. X-axis labelled 'Annual Rainfall (mm)', Y-axis labelled 'Crop Yield (tonnes)'. Many small dots scattered but forming a clear upward-sloping trend from bottom-left to top-right. A line of best fit is drawn through the center of the dots. Clean flat textbook illustration, white background.]
+![A scatter plot showing a positive correlation between annual rainfall and crop yield, with data points and an upward-sloping line of best fit.](images/A4-04-rainfall-yield-scatter-plot.png)
 
 > **Common mistake in diagram interpretation:** 
 > Forgetting to add all the data categories together to find the "Total" before calculating pie chart angles. If you divide a component value by another component value instead of the total, your angles will be completely wrong.
@@ -192,7 +192,7 @@ A choropleth map uses different shades of colour, or different patterns of shadi
 | **Visual technique** | Identical dots placed to show precise locations. | Progressive shading within fixed administrative boundaries. |
 | **Showing distribution** | Shows actual distribution patterns accurately (dots can avoid empty areas like lakes). | Assumes uniform distribution across the whole shaded state, hiding empty areas. |
 
-[IMAGE: Two side-by-side maps of a made-up region. The left map is a Dot Map, showing clusters of small identical black dots concentrated in the centre. The right map is a Choropleth Map of the same region divided into four zones, with the central zone shaded very dark, and outer zones in progressively lighter shades of grey. A legend shows darker shades equal higher density. Clean flat textbook illustration, white background.]
+![Side-by-side comparison of a dot map and a choropleth map representing population density of a region, with higher densities concentrated in the central zone.](images/A4-05-dot-map-choropleth-comparison.png)
 
 ### 3. Isoline Maps (Isopleth Maps)
 An isoline is a line drawn on a map joining places that have the **same numerical value**. Isoline maps are excellent for showing a gradual change over space. To interpret them, you must interpolate (estimate) values between the lines. If lines are close together, the value changes rapidly (a steep gradient). If they are far apart, the change is gradual.
@@ -206,7 +206,7 @@ Important isolines you must know for JAMB:
 *   **Isoneph:** Join places with equal cloud cover.
 *   **Isohalines:** Join places with equal salinity in the ocean.
 
-[IMAGE: An isoline map showing isotherms over a landmass. Wavy lines cross the map labelled 24°C, 26°C, 28°C, and 30°C. Clean flat textbook illustration, white background.]
+![An isoline diagram showing wavy isotherms labelled from 24 degrees Celsius to 30 degrees Celsius bending across a central landmass flanked by sea.](images/A4-06-isotherm-contour-map.png)
 
 ### 4. Flow Line Maps
 Flow lines are used to show the **movement** of people, goods, or traffic between different places.

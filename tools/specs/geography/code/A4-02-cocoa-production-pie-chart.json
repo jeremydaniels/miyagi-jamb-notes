@@ -1,0 +1,23 @@
+{
+ "template": "chart",
+ "kind": "pie",
+ "title": "Cocoa Production in Nigerian States",
+ "categories": [
+  "Ondo: 400 tonnes, 40%",
+  "Osun: 300 tonnes, 30%",
+  "Ekiti: 200 tonnes, 20%",
+  "Oyo: 100 tonnes, 10%"
+ ],
+ "series": [
+  {
+   "label": "Production",
+   "values": [
+    400,
+    300,
+    200,
+    100
+   ]
+  }
+ ],
+ "values_shown": false
+}

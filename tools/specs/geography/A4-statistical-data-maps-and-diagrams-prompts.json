@@ -1,0 +1,18 @@
+[
+ [
+  "A4-02-cocoa-production-pie-chart",
+  "A pie chart showing cocoa production in four Nigerian states. The circle is divided into four sectors: Ondo at 144 degrees, Osun at 108 degrees ('Osun: 300 tonnes, 30%'), Ekiti at 72 degrees ('Ekiti: 200 tonnes, 20%'), and Oyo at 36 degrees ('Oyo: 100 tonnes, 10%')."
+ ],
+ [
+  "A4-04-rainfall-yield-scatter-plot",
+  "Scatter graph showing a positive correlation. X-axis labelled 'Annual Rainfall (mm)', Y-axis labelled 'Crop Yield (tonnes)'. Many small dots scattered but forming a clear upward-sloping trend from bottom-left to top-right. A line of best fit is drawn through the center of the dots. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-05-dot-map-choropleth-comparison",
+  "Two side-by-side maps of a made-up region. The left map is a Dot Map, showing clusters of small identical black dots concentrated in the centre. The right map is a Choropleth Map of the same region divided into four zones, with the central zone shaded very dark, and outer zones in progressively lighter shades of grey. A legend shows darker shades equal higher density. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-06-isotherm-contour-map",
+  "An isoline map showing isotherms over a landmass. Wavy lines cross the map labelled 24°C, 26°C, 28°C, and 30°C. Clean flat textbook illustration, white background."
+ ]
+]

@@ -33,7 +33,7 @@ To achieve this, the British actively discouraged local manufacturing and focuse
 - **Rural-Urban Migration:** Young men left their villages to seek wage labor in the cities, mines, or on the railways, altering traditional family structures and farming.
 - **New Social Classes:** A new class system emerged. It included a small Western-educated elite (clerks, teachers), a wage-earning working class (miners, railway workers), wealthy middlemen traders, and a large population of peasant farmers who produced cash crops.
 
-[IMAGE: A conceptual diagram showing the colonial extractive economy. A large map of Nigeria on the left has arrows pointing outward carrying "Raw Materials (Palm oil, Cocoa, Groundnut, Tin)" towards a factory in Great Britain on the right. Another set of arrows points back from Great Britain to Nigeria carrying "Manufactured Goods (Textiles, Soap, Machinery)". Labels to add later: "Colonial Nigeria (Source of raw materials and market)", "Great Britain (Industrial center)", "Raw materials exported", "Manufactured goods imported". Clean flat textbook style, white background.]
+![Diagram showing the colonial extractive economy with raw materials exported from Nigeria to Great Britain and manufactured goods shipped back in return.](images/C4-01-colonial-extractive-economy-flow.png)
 
 ## Currency, Taxation and Forced Labour (Content a)
 

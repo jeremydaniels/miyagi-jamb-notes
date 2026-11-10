@@ -365,7 +365,7 @@ Argumentative passages mix facts and opinions. JAMB often asks you to tell them 
 | Tone | Varies (admiring, gloomy, nostalgic…) | Varies with events | Neutral, factual | Firm, critical, urgent, passionate |
 | Everyday examples | Travel writing, character sketches | Stories, biographies, news events | Textbooks, manuals, health leaflets | Editorials, speeches, advertisements |
 
-[IMAGE: A four-panel educational infographic in a 2×2 grid, one panel per passage type. Panel 1 "Description": a large eye beside a sketch of a busy outdoor Nigerian market under a big tree, with small icons for the five senses (eye, ear, nose, tongue, hand). Panel 2 "Narration": a winding path with numbered stepping stones 1–5 leading from a small bus at a motor park to a figure waving, with a small clock icon. Panel 3 "Exposition": a lightbulb above a simple flow chart of four boxes connected by arrows (peel → grate → press → fry), with a magnifying glass. Panel 4 "Argumentation/Persuasion": a balance scale with "reasons" stones tipping one side, and a speaker with a megaphone. Under each panel a short caption line naming the key question: "What is it like?", "What happened?", "How/Why?", "What should we believe or do?". Clean flat educational illustration, soft consistent colours, white background.]
+![A four-panel educational infographic illustrating description, narration, exposition, and persuasion through a marketplace scene, stepping stones, a flowchart, and a balance scale.](images/A1-01-four-types-passages-infographic.png)
 
 ## Mixed passages: when a passage uses more than one type
 

@@ -1,0 +1,18 @@
+[
+ [
+  "C5-01-angles-elevation-depression",
+  "A diagram showing two observers. On the left, a person standing on flat ground looking up at an aeroplane in the sky; a dashed horizontal line goes forward from their eye, and a solid line goes up to the plane, with the angle between them labelled 'Angle of elevation'. On the right, a person standing on top of a tall cliff looking down at a boat on the water; a dashed horizontal line goes forward from their eye, and a solid line goes down to the boat, with the angle between them labelled 'Angle of depression'. A secondary dashed horizontal line is shown at the boat's level, showing the alternate angle is equal."
+ ],
+ [
+  "C5-02-bearings-geometry-compass",
+  "A bearing diagram showing a central point A with a North-South and East-West cross. A line extends from A to a point B in the South-East quadrant. A curved arrow starts from North and goes clockwise to the line AB, labelled '120° (True Bearing)'. Another curved arrow starts from the South line and goes counter-clockwise towards East to the line AB, labelled '60°' to demonstrate the compass bearing S60°E."
+ ],
+ [
+  "C5-03-standard-triangle-trigonometry",
+  "An arbitrary acute-angled triangle labelled with capital letters A, B, and C at its vertices. The side opposite angle A is labelled with a lowercase 'a', the side opposite angle B is labelled 'b', and the side opposite angle C is labelled 'c'."
+ ],
+ [
+  "C5-04-sine-cosine-curves",
+  "A 2D coordinate graph plotting y = sin(x) as a solid red curve and y = cos(x) as a dashed blue curve from x = 0° to 360°. The x-axis is labelled at 0°, 90°, 180°, 270°, and 360°. The y-axis ranges from -1.5 to 1.5, with grid lines at 1 and -1. The sine curve starts at (0, 0), peaks at (90°, 1), crosses at (180°, 0), drops to (270°, -1), and ends at (360°, 0). The cosine curve starts at (0, 1), crosses at (90°, 0), drops to (180°, -1), crosses at (270°, 0), and ends at (360°, 1)."
+ ]
+]

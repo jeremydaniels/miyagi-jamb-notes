@@ -140,7 +140,7 @@ Trigonometry is very useful for finding the heights of objects (like trees or to
 
 Because the horizontal lines at the top and bottom are parallel, the **angle of elevation is always equal to the angle of depression** (they form alternate interior angles, or Z-angles).
 
-[IMAGE: A diagram showing two observers. On the left, a person standing on flat ground looking up at an aeroplane in the sky; a dashed horizontal line goes forward from their eye, and a solid line goes up to the plane, with the angle between them labelled 'Angle of elevation'. On the right, a person standing on top of a tall cliff looking down at a boat on the water; a dashed horizontal line goes forward from their eye, and a solid line goes down to the boat, with the angle between them labelled 'Angle of depression'. A secondary dashed horizontal line is shown at the boat's level, showing the alternate angle is equal. Clean flat textbook style, white background.]
+![Diagram comparing angle of elevation looking up at an aeroplane with angle of depression looking down at a boat, including the equal alternate horizontal angle.](images/C5-01-angles-elevation-depression.png)
 
 **Common mistake:** Students often measure the angle of depression from the vertical wall or cliff instead of drawing a horizontal line first. Always draw a dashed horizontal line from the observer's eye before marking the angle.
 
@@ -182,7 +182,7 @@ If town B is on a certain bearing from town A, the direction from B back to A is
 - If the original bearing is less than $180^\circ$, **add $180^\circ$**.
 - If the original bearing is greater than or equal to $180^\circ$, **subtract $180^\circ$**.
 
-[IMAGE: A bearing diagram showing a central point A with a North-South and East-West cross. A line extends from A to a point B in the South-East quadrant. A curved arrow starts from North and goes clockwise to the line AB, labelled '120° (True Bearing)'. Another curved arrow starts from the South line and goes counter-clockwise towards East to the line AB, labelled '60°' to demonstrate the compass bearing S60°E. Clean flat textbook style, white background.]
+![A bearing diagram showing true bearing 120 degrees clockwise from North and compass bearing South 60 degrees East from South to line AB.](images/C5-02-bearings-geometry-compass.png)
 
 ### Worked Examples
 
@@ -212,7 +212,7 @@ For triangles that do not have a $90^\circ$ angle, we cannot use SOH CAH TOA or 
 
 By convention, angles are labelled with capital letters ($A$, $B$, $C$) and the sides directly opposite them are labelled with the corresponding lowercase letters ($a$, $b$, $c$).
 
-[IMAGE: An arbitrary acute-angled triangle labelled with capital letters A, B, and C at its vertices. The side opposite angle A is labelled with a lowercase 'a', the side opposite angle B is labelled 'b', and the side opposite angle C is labelled 'c'. Clean flat textbook style, white background.]
+![An acute-angled triangle with vertices labelled A, B, and C, and opposite sides labelled with lowercase letters a, b, and c respectively.](images/C5-03-standard-triangle-trigonometry.png)
 
 ### The Sine Rule
 The Sine Rule states that the ratio of a side to the sine of its opposite angle is constant for all three sides:
@@ -309,7 +309,7 @@ Let us look at the standard equations $y = \sin x$ and $y = \cos x$ for $0^\circ
   - $y = \sin x$ crosses the x-axis ($y=0$) at $0^\circ$, $180^\circ$, and $360^\circ$.
   - $y = \cos x$ crosses the x-axis ($y=0$) at $90^\circ$ and $270^\circ$.
 
-[IMAGE: A 2D coordinate graph plotting y = sin(x) as a solid red curve and y = cos(x) as a dashed blue curve from x = 0° to 360°. The x-axis is labelled at 0°, 90°, 180°, 270°, and 360°. The y-axis ranges from -1.5 to 1.5, with grid lines at 1 and -1. The sine curve starts at (0, 0), peaks at (90°, 1), crosses at (180°, 0), drops to (270°, -1), and ends at (360°, 0). The cosine curve starts at (0, 1), crosses at (90°, 0), drops to (180°, -1), crosses at (270°, 0), and ends at (360°, 1). Clean flat textbook style, white background.]
+![Coordinate plot of y = sin(x) in red and y = cos(x) in dashed blue from 0 to 360 degrees, with key points marked.](images/C5-04-sine-cosine-curves.png)
 
 **Transformations (Simple cases only):**
 If the equation is written as $y = A \sin(Bx)$:

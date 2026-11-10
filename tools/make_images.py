@@ -45,7 +45,11 @@ OVERRIDES = {  # image name -> (model, extra prompt text): the four pilot proble
 }
 
 
-ACCEPT = set()          # image names whose raw picture I have looked at and accepted despite the automatic check (human override)
+ACCEPT = set()
+ROUNDS = 2            # AI generation rounds (--rounds 1: one more try only)
+CODE_ATTEMPTS = None  # limit code attempts (--code-attempts)
+PRO_CODE = False      # use the Pro text model from the first code attempt
+SIMPLIFIED = {}       # name -> simplified description (cleanup retries)          # image names whose raw picture I have looked at and accepted despite the automatic check (human override)
 CODE_OVERRIDE = {       # AI placeholders better drawn in code: name -> extra instructions
     "B9c-10-coleoptile-phototropism-experiments": "Draw each of the seven experiments as a coleoptile (a pale green tube with a rounded tip) standing in a small pot, in ONE row, with yellow light arrows from the RIGHT in experiments 1 to 6 and a grey panel (darkness) behind experiment 7. Experiment 4: black sleeve around the stem BELOW the tip and the coleoptile bends towards the light (right). Experiment 6: a thin grey mica sheet drawn VERTICALLY inside the stem on its left (shaded) side just below the tip; the coleoptile stays straight. Number the experiments 1 to 7 under the pots and give each a short caption.",
 }
@@ -112,6 +116,8 @@ def load_jobs(subject, prefixes):
                 labels = json.loads(c["parts"]); regions = json.loads(c.get("regions") or "[]"); caption = c.get("caption", "")
             base = dict(subject=subject, file=fname, topic=topic, slot=slot, name=name, kind=c.get("kind", ""), prompt=body, full=full,
                         labels=labels, regions=regions, caption=caption, template=c.get("template", ""), model=FLASH_IMG, sensitive=subject in SENSITIVE)
+            if name in SIMPLIFIED:
+                base["prompt"] = SIMPLIFIED[name]; base["full"] = SIMPLIFIED[name]
             if grp == "SKIP":
                 jobs.append(dict(base, group="SKIP", code=False, skip=True)); continue
             code = grp in ("CODE", "FLAG")
@@ -360,13 +366,13 @@ def run_ai(jobs, workers, use_batch=True, pre_generated=()):
     fb = {}; chks = {}; active = list(jobs); passed = []
     def prompt_of(j):
         return clean_prompt(j["prompt"]) + ("" if j["name"] not in fb else " IMPORTANT corrections from the previous attempt (fix these): " + fb[j["name"]])
-    for rnd in range(2):
+    for rnd in range(ROUNDS):
         if not active or STOP.is_set():
             break
         need = [j for j in active if not os.path.exists(raw_path(j))]
         pro_round = rnd > 0
         for model in (FLASH_IMG, PRO_IMG):
-            grp = [j for j in need if (PRO_IMG if rnd >= 1 else (j["model"] if rnd == 0 and j["name"] in OVERRIDES else FLASH_IMG)) == model]
+            grp = [j for j in need if (PRO_IMG if rnd >= 1 else j["model"]) == model]
             if not grp:
                 continue
             ok = {}
@@ -532,6 +538,7 @@ def process_code(job):
     name = job["name"]; st["status"] = "working"; st.setdefault("log", [])
     tpl_first = job["template"] in TEMPLATE_NAMES
     routes = ["tpl", "tpl", "tpl", "free", "free"] if tpl_first else ["free"] * 3      # a template that cannot express the figure falls back to free-form code
+    if CODE_ATTEMPTS: routes = routes[:CODE_ATTEMPTS]
     code = ""; problems = []; out = None; last = None
     for attempt, route in enumerate(routes):
         use_tpl = route == "tpl"
@@ -539,9 +546,9 @@ def process_code(job):
         last = route
         try:
             if use_tpl:
-                code = write_spec(job, code, problems, pro=attempt == 2); out = run_spec(job, code)
+                code = write_spec(job, code, problems, pro=PRO_CODE or attempt == 2); out = run_spec(job, code)
             else:
-                code = write_code(job, code, problems, pro=attempt >= len(routes) - 1); out = run_code(job, code)
+                code = write_code(job, code, problems, pro=PRO_CODE or attempt >= len(routes) - 1); out = run_code(job, code)
         except Capped:
             raise
         except Exception as e:
@@ -611,7 +618,8 @@ def finalize_file(topic, jobs, push=False):
         if specs: add.append(os.path.join("tools", "specs", subject, topic + "-labels.json"))
         for j, st in done:
             add.append(os.path.join("subjects", subject, "images", j["name"] + ".png"))
-            if j["code"]: add.append(os.path.join("tools", "specs", subject, "code", j["name"] + "." + st.get("code_ext", "py")))
+            cf = os.path.join("tools", "specs", subject, "code", j["name"] + "." + st.get("code_ext", "py"))
+            if j["code"] and os.path.exists(os.path.join(REPO, cf)): add.append(cf)
         subprocess.run(["git", "add"] + add, cwd=REPO)
         n_ai = sum(1 for j, _ in done if not j["code"]); n_code = len(done) - n_ai
         subprocess.run(["git", "commit", "-q", "-m", f"Add images to {subject} {topic}: {n_ai} AI, {n_code} code-drawn\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01AuzkMMKKHsgCscpXnvCsGG"], cwd=REPO, capture_output=True)
@@ -669,13 +677,17 @@ def main():
     ap.add_argument("--chunk", type=int, default=45, help="images per chunk (whole notes files)")
     ap.add_argument("--only", nargs="*", help="only these image names")
     ap.add_argument("--accept", nargs="*", default=[], help="names of raw images accepted after I looked at them")
+    ap.add_argument("--rounds", type=int, default=2); ap.add_argument("--code-attempts", type=int); ap.add_argument("--pro", action="store_true", help="Pro for AI round 0 and for code from the first attempt"); ap.add_argument("--simplified", help="JSON file name -> simplified description")
     ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
     ap.add_argument("--retry-failed", choices=["code", "ai", "all"], help="reset failed jobs of this kind to pending and run them again (new generation, new tries)")
     a = ap.parse_args()
     ACCEPT.update(a.accept)
-    global SUBJECT, SUBJ
-    SUBJECT = a.subject; SUBJ = a.subject + "-images2"
+    global SUBJECT, SUBJ, ROUNDS, CODE_ATTEMPTS, PRO_CODE
+    SUBJECT = a.subject; SUBJ = a.subject + "-images2"; ROUNDS = a.rounds; CODE_ATTEMPTS = a.code_attempts; PRO_CODE = a.pro
+    if a.simplified: SIMPLIFIED.update(json.load(open(a.simplified)))
     jobs = load_jobs(a.subject, a.files)
+    if a.pro:
+        for j in jobs: j["model"] = PRO_IMG
     if a.only: jobs = [j for j in jobs if j["name"] in a.only]
     if a.no_code: jobs = [j for j in jobs if not j["code"]]
     if a.no_ai: jobs = [j for j in jobs if j["code"]]

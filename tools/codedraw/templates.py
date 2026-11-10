@@ -18,7 +18,9 @@ overlaps and is always readable on a phone. Templates (spec["template"]):
   timeline   {"events":[{"when","title","text"}], "title"}
   taccount   {"accounts":[{"title","left_head":"Dr","right_head":"Cr","left":[[date,particulars,amount],...],"right":[...]}], "title"}
 """
-import math, textwrap
+import math, os, sys, textwrap
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+from textfmt import fmt
 import numpy as np
 from matplotlib.patches import FancyBboxPatch, Polygon, Ellipse, FancyArrowPatch, Rectangle
 from style import plt, INK, GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, DEEP
@@ -30,11 +32,22 @@ CYCLE = [BLUE, GREEN, CREAM, PINK, LAV, ORANGE, GREY]
 EDGE = "#4a5160"
 
 
+def ink_on(fill):
+    """Dark text on light fills, white text on dark fills."""
+    from matplotlib.colors import to_rgb
+    try:
+        r, g, b = to_rgb(fill)
+    except ValueError:
+        return INK
+    return INK if 0.299 * r + 0.587 * g + 0.114 * b > 0.5 else "#ffffff"
+
+
 def col(c, default=CREAM):
     return PALETTE.get(c, c) if c else default
 
 
 def W(s, n):
+    s = fmt(str(s))
     return "\n".join(textwrap.fill(p, n) for p in str(s).split("\n"))
 
 
@@ -57,6 +70,11 @@ def txt_size(s, pt=MIN_PT, weight="medium"):
 
 
 def finish(fig, out, tight=False):
+    from matplotlib.text import Text
+    for tx in fig.findobj(Text):
+        s = tx.get_text()
+        if s and fmt(s) != s:
+            tx.set_text(fmt(s))
     if tight:
         fig.savefig(out, facecolor="white", dpi=150, bbox_inches="tight", pad_inches=0.3)
     else:
@@ -174,9 +192,9 @@ def flowchart(spec, out):
             pass
         else:
             ax.add_patch(FancyBboxPatch((x - w / 2, y - h / 2), w, h, boxstyle=f"round,pad=0,rounding_size={0.18 if shape=='round' else 0.07}", fc=c, ec=EDGE, lw=1.6, zorder=3))
-        ax.text(x, y, t, ha="center", va="center", fontsize=MIN_PT, color=INK, zorder=4, linespacing=1.25)
+        ax.text(x, y, t, ha="center", va="center", fontsize=MIN_PT, color=ink_on(c) if shape != "plain" else INK, zorder=4, linespacing=1.25)
         boxes[n["id"]] = (x, y, w, h)
-    labels = []
+    labels = []; seen = {}
     for e in edges:
         a, b = e["from"], e["to"]
         if a not in boxes or b not in boxes: continue
@@ -202,6 +220,9 @@ def flowchart(spec, out):
         ax.add_patch(FancyArrowPatch(p, q, arrowstyle="-|>", mutation_scale=22, lw=2.0, color=EDGE, connectionstyle=f"arc3,rad={rad}", zorder=2, shrinkA=1, shrinkB=1))
         if e.get("label"):
             mx, my = (p[0] + q[0]) / 2, (p[1] + q[1]) / 2
+            if e["label"] in seen.get(a, []):      # the same label on several edges from one box: show it once
+                continue
+            seen.setdefault(a, []).append(e["label"])
             labels.append(ax.text(mx + 0.5 * rad * (q[1] - p[1]), my - 0.5 * rad * (q[0] - p[0]), W(e["label"], 16), ha="center", va="center", fontsize=MIN_PT - 1, color=INK,
                                   bbox=dict(fc="white", ec="none", pad=1.5), zorder=5))
     declutter(fig, labels, ax)
@@ -211,7 +232,7 @@ def flowchart(spec, out):
 # ---------------------------------------------------------------- cycle and hub
 def _node(ax, x, y, w, h, text, c, pt=MIN_PT):
     ax.add_patch(FancyBboxPatch((x - w / 2, y - h / 2), w, h, boxstyle="round,pad=0,rounding_size=0.15", fc=c, ec=EDGE, lw=1.6, zorder=3))
-    ax.text(x, y, text, ha="center", va="center", fontsize=pt, color=INK, zorder=4, linespacing=1.25)
+    ax.text(x, y, text, ha="center", va="center", fontsize=pt, color=ink_on(c), zorder=4, linespacing=1.25)
 
 
 def cycle(spec, out):

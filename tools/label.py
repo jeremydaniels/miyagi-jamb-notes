@@ -45,13 +45,11 @@ def crop_box(im):
     return max(0, l - 20), max(0, t - 20), min(im.width, r + 20), min(im.height, b + 20)
 
 
-SUB = str.maketrans("0123456789+-", "₀₁₂₃₄₅₆₇₈₉₊₋")
+from textfmt import fmt, strip_junk
 
 
 def clean(text):
-    """Strip stray quotes left by the placeholder parser and turn CO_2 style subscripts into real subscripts."""
-    text = text.strip().strip("\"'").strip()
-    return re.sub(r"_\{?([0-9+-]+)\}?", lambda m: m.group(1).translate(SUB), text)
+    return fmt(strip_junk(text))
 
 
 def wrap(text, width=WRAP):
@@ -85,26 +83,59 @@ def segs_cross(p1, p2, p3, p4):
     return d1 * d2 < 0 and d3 * d4 < 0
 
 
+def _pt_seg(p, a, b):
+    ax, ay = a; bx, by = b; px, py = p
+    dx, dy = bx - ax, by - ay
+    t = 0 if dx == dy == 0 else max(0, min(1, ((px - ax) * dx + (py - ay) * dy) / (dx * dx + dy * dy)))
+    return math.hypot(px - (ax + t * dx), py - (ay + t * dy))
+
+
+def conflicts(group, sx):
+    """Pairs of leader lines that cross, or where one line passes within 12 px of the other's dot."""
+    n = 0
+    segs = [((sx, d["top"] + d["h"] / 2), d["dot"]) for d in group]
+    for i in range(len(group)):
+        for j in range(i + 1, len(group)):
+            if segs_cross(*segs[i], *segs[j]) or _pt_seg(segs[j][1], *segs[i]) < 12 or _pt_seg(segs[i][1], *segs[j]) < 12:
+                n += 1
+    return n
+
+
 def uncross(group, sx, lo, hi):
-    """Swap which label sits in which slot until no two leader lines cross (each swap shortens the total
-    line length, so this ends). Slots keep their positions; the labels move between them."""
-    slots = [(d["top"], d["top"] + d["h"] / 2) for d in group]     # (top, centre y) per slot, in slot order
-    order = list(range(len(group)))                               # order[slot] = label index
-    def line(slot):
-        return ((sx, slots[slot][1]), group[order[slot]]["dot"])
-    for _ in range(200):
-        changed = False
-        for i in range(len(order)):
-            for j in range(i + 1, len(order)):
-                if segs_cross(*line(i), *line(j)):
-                    order[i], order[j] = order[j], order[i]; changed = True
-        if not changed:
+    """Swap which label sits in which slot, restack (labels differ in height) and repeat, keeping the arrangement with the fewest
+    crossing or dot-grazing leader lines."""
+    best = None
+    cur = list(group)
+    for _ in range(8):
+        slots = [(d["top"] + d["h"] / 2) for d in cur]            # slot centres in order
+        order = list(range(len(cur)))
+        def line(slot):
+            return ((sx, slots[slot]), cur[order[slot]]["dot"])
+        for _ in range(100):
+            changed = False
+            for i in range(len(order)):
+                for j in range(i + 1, len(order)):
+                    a, b = line(i), line(j)
+                    if segs_cross(*a, *b) or _pt_seg(b[1], *a) < 12 or _pt_seg(a[1], *b) < 12:
+                        order[i], order[j] = order[j], order[i]
+                        a2, b2 = line(i), line(j)
+                        if segs_cross(*a2, *b2) or _pt_seg(b2[1], *a2) < 12 or _pt_seg(a2[1], *b2) < 12:
+                            order[i], order[j] = order[j], order[i]   # the swap did not help
+                        else:
+                            changed = True
+            if not changed:
+                break
+        res = []
+        for slot, li in enumerate(order):
+            d = cur[li]; d["y"] = slots[slot]; res.append(d)
+        layout(res, lo, hi)
+        sc = conflicts(res, sx)
+        if best is None or sc < best[0]:
+            best = (sc, [dict(d) for d in res])
+        if sc == 0:
             break
-    res = []
-    for slot, li in enumerate(order):                 # labels differ in height: restack them in slot order
-        d = group[li]; d["y"] = slots[slot][1]; res.append(d)
-    layout(res, lo, hi)
-    return res
+        cur = res
+    return best[1]
 
 
 def count_cross(group, sx):

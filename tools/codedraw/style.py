@@ -1,5 +1,6 @@
 """Shared look for code-drawn images (matplotlib): same fonts and soft palette as the AI images."""
 import os
+import sys
 import logging
 logging.getLogger("matplotlib.font_manager").setLevel(logging.ERROR)
 import matplotlib
@@ -33,7 +34,17 @@ def save(fig, path):
     """Save with a text lint: every text is raised to at least MIN_PT and overlapping texts are nudged apart."""
     from matplotlib.text import Text
     texts = [t for t in fig.findobj(Text) if t.get_text().strip() and t.get_visible()]
+    try:
+        sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
+        from textfmt import fmt
+    except Exception:
+        fmt = lambda s: s
     for t in texts:
+        new = fmt(t.get_text())
+        if new != t.get_text():
+            if os.environ.get("FMT_REPORT"):
+                open(os.environ["FMT_REPORT"], "a").write(repr(t.get_text()) + " -> " + repr(new) + "\n")
+            t.set_text(new)
         if t.get_fontsize() < MIN_PT:
             t.set_fontsize(MIN_PT)
     try:
@@ -41,6 +52,9 @@ def save(fig, path):
         declutter(fig, [t for t in texts if t.axes is not None], None)
     except Exception:
         pass
+    w, h = fig.get_size_inches()
+    if max(w, h) > 18:                       # a runaway canvas would exceed the image size limit
+        k = 18 / max(w, h); fig.set_size_inches(w * k, h * k)
     fig.savefig(path, facecolor="white", bbox_inches="tight", pad_inches=0.25)
     plt.close(fig)
 

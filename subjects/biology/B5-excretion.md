@@ -197,7 +197,7 @@ The flame cell system is a simple type of excretory organ called a **protonephri
 
 **Why uric acid?** Insects are small land animals with a large surface area, so they are in constant danger of drying out. Excreting **uric acid** as an almost dry paste, and reabsorbing nearly all the water in the rectum, is an important **adaptation for conserving water**. (Their waxy cuticle and spiracles that can close also save water.) Insects lose CO₂ through their **tracheae** and **spiracles**, not through the Malpighian tubules.
 
-[IMAGE: Simplified dissection of the alimentary canal of a grasshopper or cockroach seen from the side, showing the crop, gizzard, midgut (stomach) with gastric caeca, many fine yellowish Malpighian tubules attached where the midgut joins the hindgut and spreading out into the surrounding haemolymph, then the hindgut, rectum and anus. An inset shows one tubule enlarged, with arrows showing water, salts and urate entering from the haemolymph, passing into the gut, water being reabsorbed in the rectum, and dry uric acid pellets leaving. Labels: crop, gizzard, gastric caeca, midgut, Malpighian tubules, haemolymph, hindgut, rectum, anus, uric acid. Clean flat textbook style, white background.]
+![Diagram showing the insect digestive system with crop, gizzard, midgut, gastric caeca, Malpighian tubules, and hindgut, with an inset illustrating waste and water transport.](images/B5-04-insect-excretory-system.png)
 
 ### 5. The kidney
 
@@ -271,7 +271,7 @@ The urinary system is made up of:
 
 **Blood supply:** the kidneys receive a very large share of the blood pumped by the heart, about a fifth to a quarter of it at rest. All of the body's blood passes through the kidneys many times every day, so they can keep it clean.
 
-[IMAGE: Front view of the human urinary system in an outline of the lower trunk. Show the two bean-shaped dark red kidneys at the back of the abdomen on either side of the vertebral column, the right kidney slightly lower; small yellow adrenal glands on top; the aorta (red) and posterior vena cava (blue) running down the middle with renal arteries and renal veins branching to each kidney; two ureters running down to the bladder; the bladder with a sphincter at its neck; and the urethra. Labels: kidney, adrenal gland, aorta, posterior vena cava, renal artery, renal vein, ureter, urinary bladder, sphincter muscle, urethra. Clean flat textbook style, white background.]
+![Front view diagram of the human urinary system showing kidneys, adrenal glands, renal vessels, aorta, vena cava, ureters, urinary bladder with sphincter, and urethra.](images/B5-06-human-urinary-system.png)
 
 ### External and internal structure of the kidney
 
@@ -287,7 +287,7 @@ The urinary system is made up of:
 
 You can see this easily by cutting open a goat's or cow's kidney bought from the market (butchers often sell them with the fat around them; remove the fat first).
 
-[IMAGE: Longitudinal section of a mammalian kidney. Show the fibrous capsule, the dark red granular cortex, the paler striped medulla divided into several cone-shaped pyramids with papillae pointing inwards, the white funnel-shaped pelvis leading into the ureter at the hilum, and the renal artery and renal vein entering and leaving at the hilum with branches running between the pyramids. Draw one tiny nephron (exaggerated in size) spanning cortex and medulla to show where nephrons lie. Labels: capsule, cortex, medulla, pyramid, papilla, pelvis, hilum, renal artery, renal vein, ureter, nephron (enlarged). Clean flat textbook style, white background.]
+![Longitudinal diagram of a mammalian kidney showing the cortex, medulla pyramids, pelvis, ureter, renal blood vessels, capsule, and an enlarged nephron spanning cortex and medulla.](images/B5-07-kidney-longitudinal-section.png)
 
 ### The nephron: the working unit of the kidney
 
@@ -566,7 +566,7 @@ The amount of sweat produced depends mainly on the body's **temperature**: much 
 | **Sebaceous gland** | Gland opening into the hair follicle | Secretes oily **sebum** that keeps skin and hair soft and waterproof (a secretion, not an excretion) |
 | **Subcutaneous fat** | Layer of fat below the dermis | Insulation, food store |
 
-[IMAGE: Vertical section through human skin. Show the epidermis with a cornified layer of flat dead cells on top, a granular layer and a Malpighian (germinative) layer with dark melanin granules at the base; the dermis with a coiled sweat gland surrounded by red capillaries, a sweat duct spiralling up through the epidermis to a sweat pore on the surface; a hair in a hair follicle with a sebaceous gland and a hair erector muscle; nerve endings; arteriole and venule; and a yellow subcutaneous fat layer at the bottom. Small droplets of sweat on the surface at the pore. Labels: cornified layer, granular layer, Malpighian layer, epidermis, dermis, sweat pore, sweat duct, sweat gland, blood capillaries, hair, hair follicle, sebaceous gland, erector muscle, nerve ending, subcutaneous fat. Clean flat textbook style, white background.]
+![Diagram of human skin cross section showing epidermis, dermis, and subcutaneous fat layers, along with a hair follicle, sweat gland, erector muscle, nerve endings, and blood vessels.](images/B5-12-human-skin-cross-section.png)
 
 ### Functions of the skin
 
@@ -759,7 +759,7 @@ Plants excrete much less, and much more slowly, than animals. They have no kidne
 3. **Chewing gum** was traditionally made from chicle, the latex of the sapodilla tree.
 4. **Harmful effects:** the latex of some plants (e.g. some *Euphorbia* species) is **poisonous** and irritates the skin and eyes.
 
-[IMAGE: A grid of six small illustrations of plant excretory products and their uses: (1) a rubber tree trunk with a sloping tapping cut and white latex dripping into a cup, beside a tyre; (2) an Acacia senegal tree with amber lumps of gum arabic on its bark, beside postage stamps and sweets; (3) pods of Acacia nilotica beside a piece of tanned leather (a Kano-style leather bag); (4) a pine trunk oozing golden resin, beside a tin of varnish; (5) Cinchona bark beside quinine tablets, kola nuts and coffee beans beside a cup of coffee, and tobacco leaves; (6) okra pods cut open showing slimy mucilage, beside a pot of soup. Labels: latex, rubber, gum arabic, tannins, leather, resin, varnish, quinine (Cinchona bark), caffeine (kola nut, coffee), nicotine (tobacco), mucilage (okra). Clean flat textbook style, white background.]
+![Six illustrations showing plant excretory products alongside their practical uses, including rubber latex, gum arabic, tannins for leather, pine resin for varnish, alkaloid sources, and okra mucilage.](images/B5-13-plant-excretory-products-illustrations.png)
 
 ### Summary table: economic importance of plant excretory products
 

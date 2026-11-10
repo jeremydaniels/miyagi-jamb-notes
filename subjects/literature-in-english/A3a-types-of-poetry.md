@@ -32,7 +32,7 @@ Before looking at the specific types of poems JAMB requires, it is helpful to kn
 2. **Narrative Poetry:** This is poetry that **tells a story**. It has characters, a setting, and a plot (a beginning, middle, and end), just like a prose novel, but it is written in verse. Examples include the epic and the ballad.
 3. **Dramatic Poetry:** This is poetry written in the voice of one or more characters, often meant to be spoken or acted on stage. The poet's own voice is hidden. An example is a dramatic monologue or the verse dialogues found in William Shakespeare's plays.
 
-[IMAGE: A split illustration contrasting Lyric and Narrative poetry. On the left side (Lyric): a person sitting thoughtfully by an open window looking up at a large moon, with musical notes floating around, expressing emotion. On the right side (Narrative): a sequence of actions shown in a scroll—a knight riding a horse, fighting a dragon, and returning to a castle, showing a story unfolding. Labels to add later: "Lyric Poetry: Expresses personal emotion", "Narrative Poetry: Tells a story". Clean flat textbook style, white background.]
+![A split illustration contrasting lyric poetry with a person looking at the moon with floating musical notes against narrative poetry showing a knight's journey on a scroll.](images/A3a-01-lyric-versus-narrative-poetry.png)
 
 ## Types of poetry
 

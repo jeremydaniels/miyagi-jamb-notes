@@ -89,7 +89,7 @@ Students often think bookkeeping and accounting are the same thing. While they a
 | **Output** | Ledgers and Trial Balance. | Financial statements (Statement of Profit or Loss, Statement of Financial Position). |
 | **Decision Making** | Management cannot make big decisions based on bookkeeping alone. | Provides the full picture needed for management to make big decisions. |
 
-[IMAGE: A step-by-step flowchart showing the accounting cycle. Step 1 (Bookkeeping): Source Documents → Journals (Day Books) → Ledgers → Trial Balance. Step 2 (Accounting): Trial Balance → Financial Statements (Profit or Loss, Financial Position) → Analysis & Interpretation → Decision Making by Users. The first half is shaded in light blue and labeled "Bookkeeping Phase", and the second half is shaded in light green and labeled "Accounting Phase". Clean flat textbook style, white background.]
+![A vertical flowchart of the accounting cycle showing four bookkeeping steps in light blue boxes leading to three accounting steps in light green boxes.](images/A1-01-accounting-cycle-flowchart.png)
 
 ## Types and Branches of Accounting
 
@@ -127,7 +127,7 @@ These are people or organizations outside the daily operations of the business.
 * **Government and Tax Authorities (FIRS/LIRS):** They use the declared profits to calculate how much tax the business must pay.
 * **Customers / The Public:** Customers want to know if a company will survive long-term (especially if they rely on it for spare parts or warranties). Researchers and journalists also analyze corporate data.
 
-[IMAGE: A central circle labeled "Accounting Information" with arrows pointing outwards to various users. Internal users (Management, Employees) are grouped in a green box on the left. External users (Investors, Banks, Government/FIRS, Creditors, Public) are grouped in a blue box on the right. Clean flat textbook style, white background.]
+![Diagram showing accounting information in a central circle directing arrows outward to internal users on the left and external users on the right.](images/A1-02-accounting-information-users.png)
 
 ### Characteristics of good accounting information
 For accounting information to be useful to these users, it must possess certain qualitative characteristics:

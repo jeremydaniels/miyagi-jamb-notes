@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "The Accounting Cycle",
+ "nodes": [
+  {
+   "id": "source",
+   "text": "Source Documents\n(Bookkeeping Phase)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "journals",
+   "text": "Journals (Day Books)\n(Bookkeeping Phase)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "ledgers",
+   "text": "Ledgers\n(Bookkeeping Phase)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "tb",
+   "text": "Trial Balance\n(Bookkeeping Phase)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "fs",
+   "text": "Financial Statements\n(Accounting Phase)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "analysis",
+   "text": "Analysis & Interpretation\n(Accounting Phase)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "decisions",
+   "text": "Decision Making by Users\n(Accounting Phase)",
+   "shape": "box",
+   "color": "lightgreen"
+  }
+ ],
+ "edges": [
+  {
+   "from": "source",
+   "to": "journals"
+  },
+  {
+   "from": "journals",
+   "to": "ledgers"
+  },
+  {
+   "from": "ledgers",
+   "to": "tb"
+  },
+  {
+   "from": "tb",
+   "to": "fs"
+  },
+  {
+   "from": "fs",
+   "to": "analysis"
+  },
+  {
+   "from": "analysis",
+   "to": "decisions"
+  }
+ ]
+}

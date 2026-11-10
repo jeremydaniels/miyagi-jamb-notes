@@ -1,6 +1,6 @@
 {
  "C6-01-livestock-management-systems-comparison": {
-  "caption_below": "Extensive system free-roaming semi-intensive fenced with shelter intensive system total confinement"
+  "caption_below": "Extensive system: free-roaming. Semi-intensive: fenced with shelter. Intensive system: total confinement."
  },
  "C6-02-piglet-routine-management-practices": {
   "caption_below": "Teeth clipping iron injection for anaemia and ear notching identification"
@@ -58,6 +58,38 @@
      696
     ],
     "L"
+   ]
+  ]
+ },
+ "C6-03-rabbit-handling-housing": {
+  "caption_below": "Correct handling hold scruff and support rump never hold by ears",
+  "regions": [
+   "Nest box"
+  ],
+  "labels": [
+   [
+    "Raised hutch",
+    [
+     518,
+     677
+    ],
+    "R"
+   ],
+   [
+    "Wire mesh floor",
+    [
+     741,
+     726
+    ],
+    "R"
+   ],
+   [
+    "Nest box",
+    [
+     794,
+     619
+    ],
+    "R"
    ]
   ]
  }

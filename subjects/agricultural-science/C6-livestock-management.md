@@ -133,7 +133,7 @@ Rabbits eat roughages (like *Tridax*, sweet potato vines, and *Centrosema*) and 
 4. **Weaning and Sexing:** Kits are weaned at 4-6 weeks. Males and females must be sexed and separated to prevent early inbreeding.
 5. **Slaughter:** Rabbits are killed humanely by striking the back of the neck (stunning) or dislocating the neck, before bleeding and skinning.
 
-[IMAGE: Proper rabbit handling and housing. Left: A person correctly holding a rabbit by grasping the scruff of its neck with one hand and supporting its rump with the other hand. Right: A wooden rabbit hutch raised on sturdy legs with a sloping roof, a wire-mesh front, and a wooden nest box inside. Labels: "Correct handling: hold scruff and support rump", "Never hold by ears", "Raised hutch", "Wire mesh floor", "Nest box". Clean flat textbook style, white background.]
+![Diagram illustrating handling of a rabbit alongside an elevated wooden rabbit hutch with a wire mesh front and inner nest box.](images/C6-03-rabbit-handling-housing.png)
 
 ---
 

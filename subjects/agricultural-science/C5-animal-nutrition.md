@@ -100,7 +100,7 @@ Formulate $100\text{ kg}$ of a pig ration containing $16\%$ Crude Protein (CP) u
 
 **Answer:** Mix $90\text{ kg}$ of Sorghum with $10\text{ kg}$ of Fish meal to get $100\text{ kg}$ of feed with $16\%$ CP.
 
-[IMAGE: Diagram of a Pearson Square. A large square box. In the exact centre is the number "16% (Target)". At the top left corner outside the box is "Sorghum (10%)". At the bottom left is "Fish meal (70%)". Diagonal arrows cross the box: from 70 up to the top right, and from 10 down to the bottom right. At the top right corner is the calculation "70 - 16 = 54 parts of Sorghum". At the bottom right corner is "16 - 10 = 6 parts of Fish meal". Below the square is written: "Total parts = 54 + 6 = 60". Clean flat textbook style, white background.]
+![Pearson square diagram calculating feed formulation proportions with sorghum and fish meal around a 16 percent target, showing parts calculations and total parts equal to 60.](images/C5-01-pearson-square-ration-calculation.png)
 
 ### Common pasture and forage crops
 
@@ -135,7 +135,7 @@ During the dry season in West Africa, fresh pasture dries up and loses its nutri
 4. **Sealing:** The silo is covered with heavy plastic sheets and soil to make it airtight and watertight.
 5. **Fermentation:** Inside the sealed silo, lactic acid bacteria convert plant sugars into lactic acid. This lowers the pH (making it acidic), which preserves the silage. It is ready in a few weeks and can last for years if sealed.
 
-[IMAGE: Split illustration showing forage conservation methods. On the left (Hay making): a sunny field where a farmer is turning dry, yellowish cut grass with a pitchfork, and rectangular bales are stacked in a wooden shed. On the right (Silage making): a trench dug into the ground filled with chopped green maize plants; a tractor is driving over it to compact it, and one section is covered with a black plastic sheet weighted down with soil. Labels to add: "Hay: sun-dried below 15% moisture", "Silage: compacted green forage", "Silo (trench)", "Anaerobic fermentation". Clean flat textbook style, white background.]
+![Split illustration showing haymaking on the left with a farmer turning cut grass near a bale shed, and silage making on the right with a tractor compacting chopped forage in a trench silo.](images/C5-02-hay-silage-conservation.png)
 
 ### Relating types of rations to different classes of livestock
 

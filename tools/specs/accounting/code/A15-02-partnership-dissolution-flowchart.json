@@ -1,0 +1,70 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Three-Step Accounting Process of Dissolution",
+ "nodes": [
+  {
+   "id": "step1",
+   "text": "Realisation Account\n(Assets & Expenses vs. Cash Received)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "tag1",
+   "text": "Profit or Loss on Realisation",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "step2",
+   "text": "Capital Accounts\n(Adjusted for Profit/Loss)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "tag2",
+   "text": "Final Capital Balance",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "step3",
+   "text": "Bank Account\n(Cash Paid to Partners)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "final",
+   "text": "Balance = Exactly Zero\n(Books Closed)",
+   "shape": "oval",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "step1",
+   "to": "tag1",
+   "label": "Balance"
+  },
+  {
+   "from": "tag1",
+   "to": "step2",
+   "label": "Transferred to"
+  },
+  {
+   "from": "step2",
+   "to": "tag2",
+   "label": "Leaves"
+  },
+  {
+   "from": "tag2",
+   "to": "step3",
+   "label": "Settled via"
+  },
+  {
+   "from": "step3",
+   "to": "final",
+   "label": "Results in"
+  }
+ ]
+}

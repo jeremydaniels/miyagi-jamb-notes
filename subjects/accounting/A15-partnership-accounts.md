@@ -75,7 +75,7 @@ This is used to record the day-to-day transactions between the partner and the f
 ### 3. Drawings Account
 When partners take cash or goods from the business for personal use, it is recorded as Drawings. At the end of the year, the total drawings and the agreed **interest on drawings** are transferred to the debit side of the partner's Current Account.
 
-[IMAGE: A flowchart showing the Fixed Capital System. On the left, a bold box labelled "Permanent Capital Contributions" points down into a vault labelled "Capital Account (Stays Fixed)". On the right, various boxes labelled "Share of Profit", "Partner Salaries", and "Interest on Capital" point down into a flowing river, while arrows labelled "Drawings" and "Interest on Drawings" point out of it. The river flows into a pool labelled "Current Account (Fluctuates yearly)". Clean flat textbook style, white background.]
+![A flowchart of the Fixed Capital System showing permanent capital flowing into the Capital Account, while profits, salaries, and interest minus drawings flow into the Current Account.](images/A15-01-fixed-capital-system-flowchart.png)
 
 ## Partnership final accounts
 
@@ -267,7 +267,7 @@ Share of Loss:
 During dissolution, a partner's capital account might end up with a debit balance (they owe the firm). If this partner is bankrupt (insolvent) and cannot pay the money they owe, the loss must be borne by the remaining **solvent** partners. 
 The famous legal case *Garner v. Murray* established that this deficiency is shared among the solvent partners **in the ratio of their last agreed capital balances**, NOT in their normal profit-sharing ratio.
 
-[IMAGE: A three-step flowchart of Dissolution. Step 1 (left): "Realisation Account" showing a scale balancing Book Value of Assets + Expenses against Cash Received, pointing to a "Profit or Loss" tag. Step 2 (middle): "Capital Accounts" taking in the Profit/Loss and leaving a Final Balance. Step 3 (right): "Bank Account" showing cash being paid out to settle the Capital Accounts, bringing the balance to exactly zero. Clean flat textbook style, white background.]
+![Flowchart showing three steps of dissolution: Realisation Account determining profit or loss, transfer to Capital Accounts yielding final balance, settled via Bank Account to reach zero balance.](images/A15-02-partnership-dissolution-flowchart.png)
 
 ## Key terms
 

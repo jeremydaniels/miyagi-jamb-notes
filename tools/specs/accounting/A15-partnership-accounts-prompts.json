@@ -1,0 +1,10 @@
+[
+ [
+  "A15-01-fixed-capital-system-flowchart",
+  "A flowchart showing the Fixed Capital System. On the left, a bold box points down into a vault. On the right, various boxes, \"Partner Salaries\", and \"Interest on Capital\" point down into a flowing river, while arrows and \"Interest on Drawings\" point out of it. The river flows into a pool."
+ ],
+ [
+  "A15-02-partnership-dissolution-flowchart",
+  "A three-step flowchart of Dissolution. Step 1 (left): \"Realisation Account\" showing a scale balancing Book Value of Assets + Expenses against Cash Received, pointing to a \"Profit or Loss\" tag. Step 2 (middle): \"Capital Accounts\" taking in the Profit/Loss and leaving a Final Balance. Step 3 (right): \"Bank Account\" showing cash being paid out to settle the Capital Accounts, bringing the balance to exactly zero."
+ ]
+]

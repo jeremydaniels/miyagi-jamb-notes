@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "title": "Fixed Capital System",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "perm_cap",
+   "text": "Permanent Capital Contributions",
+   "shape": "box"
+  },
+  {
+   "id": "cap_acc",
+   "text": "Capital Account (Stays Fixed)",
+   "shape": "round"
+  },
+  {
+   "id": "profit",
+   "text": "Share of Profit",
+   "shape": "box"
+  },
+  {
+   "id": "salary",
+   "text": "Partner Salaries",
+   "shape": "box"
+  },
+  {
+   "id": "interest_cap",
+   "text": "Interest on Capital",
+   "shape": "box"
+  },
+  {
+   "id": "river",
+   "text": "Flowing River (Annual Adjustments)",
+   "shape": "plain"
+  },
+  {
+   "id": "drawings_out",
+   "text": "Outflows: Drawings & Interest on Drawings",
+   "shape": "box"
+  },
+  {
+   "id": "curr_acc",
+   "text": "Current Account (Fluctuates yearly)",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "perm_cap",
+   "to": "cap_acc"
+  },
+  {
+   "from": "profit",
+   "to": "river"
+  },
+  {
+   "from": "salary",
+   "to": "river"
+  },
+  {
+   "from": "interest_cap",
+   "to": "river"
+  },
+  {
+   "from": "river",
+   "to": "drawings_out",
+   "label": "Withdrawals"
+  },
+  {
+   "from": "river",
+   "to": "curr_acc",
+   "label": "Net balance flows into"
+  }
+ ]
+}

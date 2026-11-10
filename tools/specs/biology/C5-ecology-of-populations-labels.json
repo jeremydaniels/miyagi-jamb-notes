@@ -1,0 +1,250 @@
+{
+ "C5-03-quadrat-sampling-field-method": {
+  "labels": [
+   [
+    "quadrat (1 m \u00d7 1 m)",
+    [
+     783,
+     245
+    ],
+    "R"
+   ],
+   [
+    "random placement",
+    [
+     473,
+     785
+    ],
+    "L"
+   ],
+   [
+    "plants counted inside quadrat",
+    [
+     735,
+     296
+    ],
+    "R"
+   ],
+   [
+    "field (total area 400 m\u00b2)",
+    [
+     307,
+     614
+    ],
+    "L"
+   ],
+   [
+    "density = mean number per quadrat \u00f7 area of quadrat",
+    [
+     819,
+     655
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C5-05-ecological-niche-partitioning": {
+  "labels": [
+   [
+    "bird A feeds in top canopy",
+    [
+     182,
+     131
+    ],
+    "L"
+   ],
+   [
+    "bird B feeds in middle branches",
+    [
+     329,
+     396
+    ],
+    "L"
+   ],
+   [
+    "bird C feeds on lower branches",
+    [
+     169,
+     584
+    ],
+    "L"
+   ],
+   [
+    "bird D feeds on forest floor",
+    [
+     157,
+     915
+    ],
+    "L"
+   ],
+   [
+    "zebra eats tall coarse grass tops",
+    [
+     677,
+     538
+    ],
+    "R"
+   ],
+   [
+    "wildebeest eats middle leafy parts",
+    [
+     861,
+     663
+    ],
+    "R"
+   ],
+   [
+    "gazelle eats short new shoots",
+    [
+     670,
+     846
+    ],
+    "R"
+   ],
+   [
+    "goat browses shrubs",
+    [
+     619,
+     339
+    ],
+    "R"
+   ],
+   [
+    "cattle graze grass",
+    [
+     904,
+     314
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C5-06-primary-succession-lithosere-sequence": {
+  "labels": [
+   [
+    "bare rock",
+    [
+     97,
+     729
+    ],
+    "L"
+   ],
+   [
+    "pioneer stage: lichens",
+    [
+     234,
+     732
+    ],
+    "L"
+   ],
+   [
+    "moss stage",
+    [
+     371,
+     710
+    ],
+    "L"
+   ],
+   [
+    "herbs, ferns and grasses",
+    [
+     509,
+     696
+    ],
+    "L"
+   ],
+   [
+    "shrub stage",
+    [
+     648,
+     670
+    ],
+    "R"
+   ],
+   [
+    "young trees",
+    [
+     785,
+     440
+    ],
+    "R"
+   ],
+   [
+    "climax community (forest)",
+    [
+     921,
+     307
+    ],
+    "R"
+   ],
+   [
+    "soil depth increases",
+    [
+     648,
+     834
+    ],
+    "R"
+   ],
+   [
+    "seral stages",
+    [
+     509,
+     512
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C5-08-secondary-ecological-succession-sequence": {
+  "labels": [
+   [
+    "abandoned farmland (soil present)",
+    [
+     97,
+     572
+    ],
+    "L"
+   ],
+   [
+    "annual weeds (pioneers)",
+    [
+     262,
+     559
+    ],
+    "L"
+   ],
+   [
+    "grasses and Siam weed",
+    [
+     429,
+     502
+    ],
+    "L"
+   ],
+   [
+    "shrubs",
+    [
+     593,
+     486
+    ],
+    "R"
+   ],
+   [
+    "young secondary forest (umbrella tree)",
+    [
+     760,
+     439
+    ],
+    "R"
+   ],
+   [
+    "climax rainforest",
+    [
+     926,
+     404
+    ],
+    "R"
+   ]
+  ]
+ }
+}

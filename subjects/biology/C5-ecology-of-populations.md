@@ -191,7 +191,7 @@ It is usually impossible to count every plant or slow-moving animal in a large a
 
 **Precautions:** place quadrats randomly; use enough quadrats; count carefully; identify species correctly.
 
-[IMAGE: A grassy school field seen from above with a grid of faint lines. Several 1 m square wooden quadrat frames lie at random positions, each containing a few small Tridax plants (yellow-centred flowers) drawn as dots. One quadrat is enlarged in a circle at the side showing 4 plants counted inside it. A student with a notebook stands beside the field. Labels: "quadrat (1 m × 1 m)", "random placement", "plants counted inside quadrat", "field (total area 400 m²)", "density = mean number per quadrat ÷ area of quadrat". Soft greens and browns. Clean flat textbook style, white background.]
+![An illustration showing quadrats placed randomly across a gridded grassy field with a student taking notes, alongside an inset circular view counting four plants in a quadrat.](images/C5-03-quadrat-sampling-field-method.png)
 
 ### Estimating population size of moving animals: the capture–recapture method
 
@@ -416,7 +416,7 @@ Niche differentiation can also reduce competition **between members of the same 
 4. **Seed dispersal in plants:** seeds carried away from the parent plant (by wind, animals, water or explosion) do not compete with the parent or with each other for light, water and nutrients.
 5. **Migration:** some members of a population move to other areas when food runs short.
 
-[IMAGE: Two panels illustrating niche differentiation. Left: a tall tree divided into horizontal zones by dashed lines, with a different small insect-eating bird feeding in each zone (top canopy, middle branches near the trunk, lower branches, forest floor). Right: a savanna scene with a tall zebra eating the tops of tall grass, a wildebeest eating the middle parts and a small gazelle eating short shoots near the ground; in the background, a goat standing on its hind legs browsing a shrub and cattle grazing grass. Labels: "bird A feeds in top canopy", "bird B feeds in middle branches", "bird C feeds on lower branches", "bird D feeds on forest floor", "zebra eats tall coarse grass tops", "wildebeest eats middle leafy parts", "gazelle eats short new shoots", "goat browses shrubs", "cattle graze grass". Soft greens, browns and yellows. Clean flat textbook style, white background.]
+![Two panels illustrating niche differentiation with birds feeding at different tree levels on the left and various savanna herbivores grazing distinct plant strata on the right.](images/C5-05-ecological-niche-partitioning.png)
 
 ## Factors affecting population size
 
@@ -677,7 +677,7 @@ It is **very slow**, often taking hundreds to thousands of years, because soil m
 
 **Summary sequence:** bare rock → lichens (pioneers) → mosses → ferns, herbs and grasses → shrubs → trees → climax forest (or savanna woodland).
 
-[IMAGE: A horizontal sequence of seven panels showing primary succession on bare rock in a tropical setting, each panel slightly later in time and joined by arrows. (1) Bare grey rock under a hot sun. (2) The rock with patches of grey-green and orange crusty lichens and tiny cracks. (3) Green cushions of moss growing in a thin layer of dark soil in cracks. (4) Ferns, small herbs and grasses in thicker soil. (5) Bushy shrubs among the grasses. (6) Young trees overtopping the shrubs. (7) A tall, dense climax forest with several layers. Under each panel, a strip showing the soil layer getting deeper from none to thick. A long arrow beneath labelled "time (hundreds of years)". Labels: "bare rock", "pioneer stage: lichens", "moss stage", "herbs, ferns and grasses", "shrub stage", "young trees", "climax community (forest)", "soil depth increases", "seral stages". Soft greys, greens and browns. Clean flat textbook style, white background.]
+![A diagram of primary succession across seven panels from bare rock, lichens, mosses, herbs and ferns, shrubs, young trees, to climax forest with increasing soil depth.](images/C5-06-primary-succession-lithosere-sequence.png)
 
 #### Primary succession in water (hydrosere)
 
@@ -720,7 +720,7 @@ In the **savanna** zone, abandoned farmland passes through similar weed and gras
 
 **Note:** the system of **bush fallowing** used by Nigerian farmers depends on secondary succession: farmland is left to rest so that the regrowing vegetation can restore soil fertility (humus and nutrients) before the land is cleared and farmed again.
 
-[IMAGE: A horizontal sequence of six panels showing secondary succession on abandoned farmland in southern Nigeria, joined by arrows. (1) A recently harvested farm with bare soil, old yam mounds and a few tree stumps. (2) Short annual weeds with small yellow and white flowers (Tridax, goat weed) covering the soil. (3) Tall spear grass and guinea grass with Siam weed shrubs. (4) Bushy shrubs and coppice shoots from old stumps rising above the grass. (5) Young secondary forest with umbrella trees (Musanga) with large hand-shaped leaves and oil palms. (6) Tall, dense climax rainforest. A long arrow beneath labelled "time (years to decades)". Labels: "abandoned farmland (soil present)", "annual weeds (pioneers)", "grasses and Siam weed", "shrubs", "young secondary forest (umbrella tree)", "climax rainforest". Soft greens and browns. Clean flat textbook style, white background.]
+![A six-stage illustration of secondary succession from bare abandoned farmland with tree stumps through annual weeds, tall grasses, shrubs, young secondary forest, to climax rainforest.](images/C5-08-secondary-ecological-succession-sequence.png)
 
 ### Primary and secondary succession compared
 

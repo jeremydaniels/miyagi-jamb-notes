@@ -782,7 +782,7 @@ The explanation is called the **cohesion–tension theory**, put forward by **He
 
 **Textbook variation:** the size of root pressure quoted varies between books (from "less than 1 atmosphere" up to about 2 atmospheres, or about 0.1–0.2 MPa). All agree it is too small to raise water to the top of a tall tree.
 
-[IMAGE: Root pressure demonstration: a well-watered potted plant whose stem has been cut a few centimetres above the soil, with a rubber tube connecting the stump to a J-shaped glass manometer tube containing mercury (silver). The mercury level in the open arm is higher than in the arm next to the stump, and a little sap is visible above the stump inside the tube. Labels to add: "cut stem (stump)", "rubber tubing", "sap exuded by root pressure", "mercury", "rise in mercury level", "well-watered soil", "pot". Clean flat textbook style, white background.]
+![A diagram demonstrating root pressure with a cut potted plant stem connected by rubber tubing to a manometer containing mercury, with higher mercury in the open arm.](images/B3b-15-root-pressure-manometer-experiment.png)
 
 ### Capillarity (capillary action)
 

@@ -1035,5 +1035,53 @@
     "R"
    ]
   ]
+ },
+ "B3b-15-root-pressure-manometer-experiment": {
+  "caption_below": "Rise in mercury level from sap exuded by root pressure.",
+  "regions": [
+   "well-watered soil"
+  ],
+  "labels": [
+   [
+    "cut stem (stump)",
+    [
+     414,
+     522
+    ],
+    "L"
+   ],
+   [
+    "rubber tubing",
+    [
+     421,
+     425
+    ],
+    "L"
+   ],
+   [
+    "mercury",
+    [
+     811,
+     435
+    ],
+    "R"
+   ],
+   [
+    "well-watered soil",
+    [
+     466,
+     571
+    ],
+    "L"
+   ],
+   [
+    "pot",
+    [
+     437,
+     764
+    ],
+    "L"
+   ]
+  ]
  }
 }

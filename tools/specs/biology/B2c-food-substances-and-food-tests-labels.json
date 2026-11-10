@@ -60,64 +60,51 @@
   ]
  },
  "B2c-05-food-groups-market-display": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    365,
+    120
+   ],
+   [
+    684,
+    120
+   ]
+  ],
+  "captions": [
    [
     "carbohydrates",
-    [
-     276,
-     215
-    ],
-    "L"
+    271,
+    373
    ],
    [
     "proteins",
-    [
-     752,
-     245
-    ],
-    "R"
+    753,
+    373
    ],
    [
     "fats and oils",
-    [
-     276,
-     573
-    ],
-    "L"
+    276,
+    692
    ],
    [
-    "vitamins (fruits)",
-    [
-     752,
-     552
-    ],
-    "R"
+    "vitamins (fruits);\nvitamins",
+    753,
+    692
    ],
    [
-    "vitamins",
-    [
-     721,
-     573
-    ],
-    "R"
-   ],
-   [
-    "minerals and roughage (vegetables)",
-    [
-     276,
-     849
-    ],
-    "L"
+    "minerals and roughage\n(vegetables)",
+    273,
+    987
    ],
    [
     "water",
-    [
-     655,
-     834
-    ],
-    "R"
+    752,
+    987
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-06-food-energy-calorimetry-apparatus": {
   "labels": [
@@ -138,7 +125,7 @@
     "L"
    ],
    [
-    "water (20 cm\u00b3)",
+    "water (20 cm³)",
     [
      456,
      486
@@ -190,22 +177,6 @@
  "B2c-08-rickets-skeletal": {
   "labels": [
    [
-    "normal straight legs",
-    [
-     241,
-     684
-    ],
-    "L"
-   ],
-   [
-    "bow legs (rickets)",
-    [
-     643,
-     706
-    ],
-    "R"
-   ],
-   [
     "soft bent leg bones",
     [
      681,
@@ -221,7 +192,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "normal straight legs",
+    270,
+    976
+   ],
+   [
+    "bow legs (rickets)",
+    752,
+    976
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-09-goitre-medical": {
   "labels": [
@@ -249,7 +234,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-10-balanced-diet-plate": {
   "labels": [
@@ -363,7 +351,7 @@
      419,
      256
     ],
-    "L"
+    "T"
    ],
    [
     "tube B (starch + boiled saliva, control)",
@@ -371,15 +359,7 @@
      603,
      256
     ],
-    "R"
-   ],
-   [
-    "water bath at 37 \u00b0C",
-    [
-     312,
-     532
-    ],
-    "L"
+    "T"
    ],
    [
     "thermometer",
@@ -388,40 +368,27 @@
      358
     ],
     "R"
-   ],
-   [
-    "iodine: yellow-brown",
-    [
-     151,
-     844
-    ],
-    "L"
-   ],
-   [
-    "Benedict's: brick-red",
-    [
-     273,
-     844
-    ],
-    "L"
-   ],
-   [
-    "iodine: blue-black",
-    [
-     754,
-     844
-    ],
-    "R"
-   ],
-   [
-    "Benedict's: blue",
-    [
-     870,
-     844
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "water bath at 37 °C;\nBenedict's: brick-red;\niodine: blue-black",
+    506,
+    891
+   ],
+   [
+    "iodine:\nyellow-brown",
+    151,
+    947
+   ],
+   [
+    "Benedict's:\nblue",
+    870,
+    947
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-12-benedicts-reducing-sugar-test": {
   "labels": [
@@ -502,14 +469,6 @@
  "B2c-13-protein-biuret-millons-tests": {
   "labels": [
    [
-    "Biuret test",
-    [
-     241,
-     505
-    ],
-    "L"
-   ],
-   [
     "sodium hydroxide",
     [
      481,
@@ -542,14 +501,6 @@
     "L"
    ],
    [
-    "Millon's test",
-    [
-     778,
-     528
-    ],
-    "R"
-   ],
-   [
     "water bath",
     [
      678,
@@ -565,18 +516,24 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Biuret test",
+    308,
+    796
+   ],
+   [
+    "Millon's test",
+    769,
+    798
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-14-lipid-food-tests-results": {
   "labels": [
-   [
-    "Sudan III test",
-    [
-     159,
-     307
-    ],
-    "L"
-   ],
    [
     "red-stained oil layer",
     [
@@ -594,20 +551,12 @@
     "L"
    ],
    [
-    "grease-spot test",
-    [
-     448,
-     430
-    ],
-    "L"
-   ],
-   [
     "translucent spot (oil)",
     [
      389,
      514
     ],
-    "L"
+    "T"
    ],
    [
     "opaque area (water control)",
@@ -615,15 +564,7 @@
      519,
      509
     ],
-    "R"
-   ],
-   [
-    "emulsion test",
-    [
-     804,
-     312
-    ],
-    "R"
+    "T"
    ],
    [
     "cloudy white emulsion (fat present)",
@@ -641,19 +582,30 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Sudan III test",
+    160,
+    741
+   ],
+   [
+    "grease-spot test",
+    449,
+    651
+   ],
+   [
+    "emulsion test",
+    806,
+    741
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2c-07-kwashiorkor-marasmus": {
   "caption_below": "No oedema.",
   "labels": [
-   [
-    "kwashiorkor",
-    [
-     272,
-     356
-    ],
-    "L"
-   ],
    [
     "oedema of feet",
     [
@@ -684,7 +636,7 @@
      272,
      110
     ],
-    "L"
+    "T"
    ],
    [
     "visible ribs",
@@ -708,7 +660,7 @@
      772,
      153
     ],
-    "R"
+    "T"
    ],
    [
     "old-looking face",
@@ -718,6 +670,15 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "kwashiorkor",
+    272,
+    986
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

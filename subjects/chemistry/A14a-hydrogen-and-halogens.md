@@ -49,7 +49,7 @@ Hydrogen is prepared in the lab by the action of dilute acids on active metals.
 - **Equation:** $\text{Zn(s)} + 2\text{HCl(aq)} \rightarrow \text{ZnCl}_2\text{(aq)} + \text{H}_2\text{(g)}$
 - **Method:** The gas is collected **over water** because it is practically insoluble in water. Alternatively, it can be collected by **upward delivery** (downward displacement of air) because it is much lighter (less dense) than air.
 
-[IMAGE: Laboratory preparation of hydrogen. A flat-bottom flask contains zinc granules. A thistle funnel passes through the rubber bung, its stem dipping below the dilute acid. A delivery tube leads from the flask into a pneumatic trough filled with water, bubbling gas into an inverted gas jar. Labels: "thistle funnel", "dilute HCl or H₂SO₄", "zinc granules", "delivery tube", "hydrogen gas collected over water". Clean flat textbook illustration, white background.]
+![Diagram showing the laboratory preparation of hydrogen gas using zinc granules and dilute acid in a flask, collected over water into an inverted gas jar.](images/A14a-01-hydrogen-gas-laboratory-preparation.png)
 
 **Industrial Preparation (From Water Gas - Bosch Process):**
 - **Reagents:** Coke (carbon) and steam ($\text{H}_2\text{O}$).
@@ -79,7 +79,7 @@ Chlorine is prepared by the **oxidation of concentrated hydrochloric acid**. Sin
   $$2\text{KMnO}_4\text{(s)} + 16\text{HCl(aq, conc.)} \rightarrow 2\text{KCl(aq)} + 2\text{MnCl}_2\text{(aq)} + 8\text{H}_2\text{O(l)} + 5\text{Cl}_2\text{(g)}$$
 - **Purification and Collection:** The chlorine gas produced contains water vapour and $\text{HCl}$ fumes. It is passed through a wash bottle containing water (to dissolve the very soluble $\text{HCl}$ fumes) and then through a wash bottle containing concentrated $\text{H}_2\text{SO}_4$ (to dry the gas). The dry gas is denser than air, so it is collected by **downward delivery** (upward displacement of air).
 
-[IMAGE: Laboratory preparation of chlorine. A round-bottom flask on a tripod over a Bunsen burner. It contains MnO₂ and conc. HCl added via a thistle funnel. The delivery tube passes through two wash bottles: the first containing water, the second containing concentrated H₂SO₄. The final dry Cl₂ is collected by downward delivery into a gas jar. Labels: "MnO₂ + conc HCl", "heat", "water (removes HCl fumes)", "conc H₂SO₄ (dries the gas)", "dry chlorine gas", "downward delivery". Clean flat textbook illustration, white background.]
+![Textbook diagram showing the laboratory preparation of chlorine gas using a heated flask, two wash bottles for purification and drying, and a gas jar for collection.](images/A14a-02-chlorine-gas-laboratory-preparation.png)
 
 **Industrial Preparation (Electrolysis):**
 - **Reagent:** Concentrated sodium chloride solution (**brine**).

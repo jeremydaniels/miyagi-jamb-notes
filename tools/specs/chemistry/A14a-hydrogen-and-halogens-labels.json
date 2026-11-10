@@ -1,0 +1,93 @@
+{
+ "A14a-01-hydrogen-gas-laboratory-preparation": {
+  "regions": [
+   "dilute HCl or H\u2082SO\u2084",
+   "hydrogen gas collected over water"
+  ],
+  "labels": [
+   [
+    "thistle funnel",
+    [
+     294,
+     185
+    ],
+    "L"
+   ],
+   [
+    "dilute HCl or H\u2082SO\u2084",
+    [
+     380,
+     708
+    ],
+    "L"
+   ],
+   [
+    "zinc granules",
+    [
+     305,
+     790
+    ],
+    "L"
+   ],
+   [
+    "delivery tube",
+    [
+     494,
+     390
+    ],
+    "L"
+   ],
+   [
+    "hydrogen gas collected over water",
+    [
+     749,
+     438
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A14a-02-chlorine-gas-laboratory-preparation": {
+  "caption_below": "Heat and downward delivery.",
+  "regions": [
+   "water (removes HCl fumes)",
+   "conc H\u2082SO\u2084 (dries the gas)",
+   "dry chlorine gas",
+   "MnO\u2082 + conc HCl"
+  ],
+  "labels": [
+   [
+    "MnO\u2082 + conc HCl",
+    [
+     218,
+     571
+    ],
+    "L"
+   ],
+   [
+    "water (removes HCl fumes)",
+    [
+     492,
+     811
+    ],
+    "L"
+   ],
+   [
+    "conc H\u2082SO\u2084 (dries the gas)",
+    [
+     654,
+     816
+    ],
+    "R"
+   ],
+   [
+    "dry chlorine gas",
+    [
+     865,
+     762
+    ],
+    "R"
+   ]
+  ]
+ }
+}

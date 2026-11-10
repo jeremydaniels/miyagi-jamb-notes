@@ -41,7 +41,7 @@ The Caliphate was divided into two main empires:
 #### Structural Organization of the Emirate
 The Fulani political system was **highly centralised**, **authoritarian**, and **theocratic** (ruled by religious laws, specifically Islamic Sharia). The conquered states were turned into *Emirates*.
 
-[IMAGE: An organisational chart of the Fulani Emirate System. At the top is a box for the 'Emir'. Below it, a horizontal row of boxes connected to the Emir: 'Waziri (Prime Minister)', 'Madawaki (Army Commander)', 'Galadima (Capital Administrator)', 'Maaji (Treasurer)', 'Sarkin Fada (Head of Palace Workers)', 'Sarkin Yan Doka (Police Chief)', and 'Alkali (Judge)'. Further down, arrows lead from the Emir to 'Hakimi (District Head)', then to 'Dagaci (Village Head)'. Style: Clean flat textbook illustration, white background, crisp boxes and lines.]
+![Organizational chart of the Fulani Emirate System showing the Emir at top, council officials in a row beneath, and territorial administration leading to Hakimi then Dagaci.](images/B1-01-fulani-emirate-system-organization.png)
 
 #### Functions of the Political Institutions
 

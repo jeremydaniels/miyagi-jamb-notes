@@ -86,7 +86,7 @@ Formulated by Antoine Lavoisier in 1789, this law states that **in any chemical 
 - **Example:** If $24.0 \text{ g}$ of magnesium wire is burned completely inside a sealed flask containing oxygen to produce exactly $40.0 \text{ g}$ of magnesium oxide, the mass of oxygen used up from the air inside the flask must be $40.0 \text{ g} - 24.0 \text{ g} = 16.0 \text{ g}$.
 - **Experimental proof:** Hans Landolt proved this by placing two solutions (e.g., silver trioxonitrate(V) and sodium chloride) in an H-shaped tube. He weighed it, tilted it to mix the solutions to form a white precipitate of silver chloride, and weighed it again. The mass remained identical.
 
-[IMAGE: A balanced beam scale showing 24 g of Mg and 16 g of O2 on the left pan, and 40 g of MgO on the right pan. Both sides are perfectly balanced. Labels: "Reactants: 24g Mg + 16g O2 = 40g", "Products: 40g MgO". Clean flat textbook style, white background.]
+![A balanced beam scale illustrating conservation of mass with reactants totaling 40 grams on the left pan balancing 40 grams of products on the right pan.](images/A2-01-conservation-mass-balance-scale.png)
 
 ### Laws of definite, multiple and reciprocal proportions
 
@@ -104,7 +104,7 @@ Proposed by John Dalton in 1804 to support his atomic theory, this law states th
   - In nitrogen(IV) oxide ($\text{NO}_2$), $14.0 \text{ g}$ of N combines with $32.0 \text{ g}$ of O.
   - The ratio of the masses of oxygen combining with the fixed $14.0 \text{ g}$ of nitrogen is $8.0 : 16.0 : 32.0$, which simplifies perfectly to the simple whole numbers **1:2:4**.
 
-[IMAGE: A diagram showing two carbon oxides to illustrate the Law of Multiple Proportions. Top row: CO molecule (one black C atom, one red O atom). Bottom row: CO2 molecule (one black C atom, two red O atoms). Labels showing the mass ratio: "In CO, 12g C combines with 16g O", "In CO2, 12g C combines with 32g O", "Ratio of oxygen masses = 16:32 = 1:2". Clean flat textbook style, white background.]
+![Diagram illustrating the Law of Multiple Proportions using carbon monoxide and carbon dioxide models along with their combining mass ratios.](images/A2-02-multiple-proportions-molecular.png)
 
 **3. Law of reciprocal proportions**
 Formulated by Jeremias Richter in 1792, this law states that **the masses of two elements A and B that combine separately with a fixed mass of a third element C, are in the same ratio (or a simple multiple of the ratio) in which they combine with each other**.
@@ -120,7 +120,7 @@ Formulated by Jeremias Richter in 1792, this law states that **the masses of two
 - **Multiple Proportions:** Involves **two** elements forming **two or more** compounds (e.g., $\text{SO}_2$ and $\text{SO}_3$).
 - **Reciprocal Proportions:** Involves **three** elements forming **three** compounds (e.g., $\text{H}_2\text{S}$, $\text{H}_2\text{O}$, $\text{SO}_2$).
 
-[IMAGE: Triangle diagram illustrating the Law of Reciprocal Proportions for S, H, and O. At the vertices: S, H, O. Sides connect S to H (H2S), S to O (SO2), and H to O (H2O). Labels around the edges show the mass combinations: "32g S + 2g H", "32g S + 32g O", and "2g H + 16g O (which scales to 32g O)". Clean flat textbook style, white background.]
+![Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H2S, SO2, and H2O alongside reacting mass ratios.](images/A2-03-reciprocal-proportions-triangle.png)
 
 ## Relative atomic mass based on $^{12}\text{C}=12$
 
@@ -169,7 +169,7 @@ Avogadro's Law states that equal volumes of all gases at the same temperature an
 At **standard temperature and pressure (s.t.p.)**—which means a temperature of $273 \text{ K}$ ($0 \text{ }^\circ\text{C}$) and a pressure of $1 \text{ atm}$ ($760 \text{ mmHg}$)—one mole of *any* ideal gas occupies a volume of **$22.4 \text{ dm}^3$** (or $22,400 \text{ cm}^3$). 
 *(Textbook variation: The modern IUPAC value for molar volume is $22.7 \text{ dm}^3 \text{ mol}^{-1}$ because standard pressure was slightly redefined, but JAMB expects you to use $22.4 \text{ dm}^3 \text{ mol}^{-1}$. Always check the given constants in the exam).*
 
-[IMAGE: Visual breakdown of the mole concept: A central circle labelled "1 Mole", with three arrows pointing outwards. Arrow 1 points to "Mass in grams (Molar Mass)". Arrow 2 points to "6.02 × 10²³ particles (Avogadro's Number)". Arrow 3 points to "22.4 dm³ of gas at s.t.p. (Molar Volume)". Clean flat textbook style, white background.]
+![A diagram representing the mole concept with one mole branching outward to molar mass in grams, Avogadros number of particles, and molar volume at standard conditions.](images/A2-04-mole-concept-schematic.png)
 
 ### Master Mole Formulas
 You can easily convert between mass, moles, volume, and particles using these core relationships:

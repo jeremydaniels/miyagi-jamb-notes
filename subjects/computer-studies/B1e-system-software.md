@@ -81,7 +81,7 @@ The way a user communicates with the OS is called the **User Interface (UI)**. T
    This is the modern interface we use today. It uses pictures and graphics to represent programs and files. It is often described using the acronym **WIMP**, which stands for **W**indows, **I**cons, **M**enus, and **P**ointers. It is highly user-friendly because you simply use a mouse or touch screen to click on what you want.
    *Example:* Microsoft Windows, Android, macOS.
 
-[IMAGE: A split illustration showing a Command Line Interface on the left (black screen with white text like `C:\> dir`) and a Graphical User Interface on the right (a colourful desktop with folder icons, a start menu, and a mouse pointer). Style: clean flat textbook illustration, white background.]
+![A split diagram showing a Command Line Interface on the left with text commands and a Graphical User Interface on the right with icons and a mouse pointer](images/B1e-01-split-command-line-interface.png)
 
 ## Examples of Operating Systems
 

@@ -42,7 +42,7 @@ After the Israelites were initially defeated at Ai (due to Achan's sin), God gav
 5. At God's command, Joshua stretched out his spear toward Ai. This was the signal for the men in ambush to rise, enter the city, and set it on fire.
 6. When the men of Ai looked back and saw the smoke, they lost heart. Joshua's retreating army turned back to fight them, and the ambush squad came out of the city, trapping the men of Ai in the middle. The Israelites completely defeated them.
 
-[IMAGE: A tactical map illustration of the Battle of Ai. It shows a walled city (Ai) with a red arrow pointing out from it representing the King of Ai's army chasing a blue arrow (Joshua's main force) feigning retreat toward the wilderness. Another blue arrow, labeled 'Ambush (30,000 men)', points from behind a hill into the undefended city. Clean flat textbook style, white background.]
+![A tactical map of the Battle of Ai showing Joshua feigning retreat into the wilderness pursued by Ai forces while an ambush force attacks the undefended city.](images/A4-01-tactical-battle-movement-map.png)
 
 ### Spiritual Guidance through Prophets and Jesus
 The syllabus includes two New Testament passages to show how God guides humanity spiritually:
@@ -117,7 +117,7 @@ During the reign of King Ahab, the prophet Elijah announced a severe drought as 
 1. **At the Brook Cherith:** God told Elijah to hide by the Brook Cherith (east of the Jordan). God commanded **ravens** to bring him bread and meat every morning and evening, and he drank from the brook.
 2. **At Zarephath:** When the brook dried up because there was no rain, God sent Elijah to Zarephath (in Sidon) to a widow. When Elijah arrived, the widow was gathering sticks to cook a final meal of a handful of meal (flour) and a little oil for herself and her son before they died of starvation. Elijah told her not to fear, but to make a small cake for him *first*, promising that according to God's word, her jar of meal and cruse of oil would not run out until the rain returned. She obeyed, and God miraculously multiplied the food; it did not fail for many days.
 
-[IMAGE: A split scene showing God's provision for Elijah. On the left, Elijah sits by a small stream (Brook Cherith) while a large black raven flies down carrying a piece of flatbread in its beak. On the right, Elijah stands speaking to a poor widow in Zarephath, who is holding a small jar of flour and a clay flask of oil near an empty cooking fire. Clean flat textbook style, white background.]
+![A split scene showing Elijah fed by a raven with bread by a brook on the left, and speaking with a widow holding jars near a stone hearth on the right.](images/A4-02-gods-provision-elijah-split.png)
 
 ### Water from the Rock: Rephidim vs. Kadesh
 God provided water from a rock on two different occasions, which students often confuse. The syllabus requires knowledge of both (Exodus 17 and Numbers 20).

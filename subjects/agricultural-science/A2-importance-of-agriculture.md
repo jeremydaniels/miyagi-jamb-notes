@@ -42,7 +42,7 @@ An **agro-allied industry** (or agro-based industry) is any manufacturing indust
 
 Without agricultural production, these manufacturing plants cannot exist. The farms act as the foundational supply chain for industrialization. In return, these industries provide a ready, large-scale market for the farmer's produce, preventing wastage and encouraging the farmer to produce in commercial quantities. 
 
-[IMAGE: A flowchart showing the relationship between agriculture and an agro-allied industry. On the left, a farmer harvesting yellow cocoa pods from a tree. An arrow points to the middle showing dried brown cocoa beans in a jute sack being transported by a truck. Another arrow points to the right showing a modern factory (beverage industry) producing tins of chocolate drink. Labels to add later: "Raw material production (Farm)", "Transportation of Cocoa beans", "Agro-allied industry (Beverage processing)", "Finished product (Chocolate drink)". Clean flat textbook style, white background.]
+![A diagram depicting cocoa farming, transportation of cocoa beans by truck, and factory processing into canned chocolate drink products.](images/A2-01-cocoa-value-chain.png)
 
 ## Agro-allied industries and their respective raw materials
 
@@ -90,7 +90,7 @@ Agriculture drives rural development in the following specific ways:
 - **Social Services:** Building of schools, markets, and health centres to cater to the families of farmers and farm workers.
 - **Reduction of rural-urban migration:** When agriculture is profitable and rural areas are developed with good amenities, young people are more likely to stay in their villages to farm, rather than migrating to crowded cities to look for scarce white-collar jobs.
 
-[IMAGE: A split scene contrasting an undeveloped and a developed rural farming community. Left side (undeveloped): a muddy, impassable bush path, farmers carrying heavy baskets of yam on their heads, dim lighting. Right side (developed through agriculture): a smooth, graded asphalt feeder road, a small truck carrying neat crates of produce, a modern storage silo in the background, and electric poles lining the road. Labels to add later: "Before agricultural investment", "After agricultural investment (Rural Development)", "Feeder road", "Storage silo", "Electricity". Clean flat textbook style, white background.]
+![A split scene comparing farmers carrying heavy baskets along a muddy rural path with a modern asphalt feeder road carrying produce by truck alongside utility poles and a silo.](images/A2-02-farming-community-development-comparison.png)
 
 ## Contributions of agriculture to economic development
 

@@ -242,66 +242,18 @@
  "B6b-13-skeletal-disorders-comparison": {
   "labels": [
    [
-    "rickets (bowed legs)",
-    [
-     157,
-     280
-    ],
-    "L"
-   ],
-   [
-    "normal legs",
-    [
-     378,
-     280
-    ],
-    "L"
-   ],
-   [
-    "simple fracture",
-    [
-     661,
-     275
-    ],
-    "R"
-   ],
-   [
-    "compound fracture",
-    [
-     866,
-     287
-    ],
-    "R"
-   ],
-   [
     "skin",
     [
      702,
      271
     ],
-    "R"
-   ],
-   [
-    "healthy joint",
-    [
-     401,
-     754
-    ],
-    "L"
+    "T"
    ],
    [
     "smooth cartilage",
     [
      399,
      716
-    ],
-    "L"
-   ],
-   [
-    "arthritic joint",
-    [
-     161,
-     754
     ],
     "L"
    ],
@@ -329,7 +281,47 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "split": [
+   [
+    499,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "rickets (bowed\nlegs)",
+    156,
+    507
+   ],
+   [
+    "normal legs",
+    378,
+    503
+   ],
+   [
+    "simple\nfracture",
+    664,
+    503
+   ],
+   [
+    "compound\nfracture",
+    871,
+    503
+   ],
+   [
+    "healthy joint",
+    399,
+    944
+   ],
+   [
+    "arthritic\njoint",
+    160,
+    944
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6b-01-insect-exoskeleton-anatomy": {
   "labels": [
@@ -355,7 +347,7 @@
      261,
      204
     ],
-    "L"
+    "T"
    ],
    [
     "epidermis",
@@ -363,7 +355,7 @@
      337,
      256
     ],
-    "L"
+    "T"
    ],
    [
     "sclerite",
@@ -396,24 +388,17 @@
      675
     ],
     "L"
-   ],
-   [
-    "exoskeleton",
-    [
-     655,
-     491
-    ],
-    "R"
-   ],
-   [
-    "moulted cuticle",
-    [
-     865,
-     512
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "exoskeleton;\nmoulted cuticle",
+    697,
+    917
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6b-02-bone-structure-osteon": {
   "labels": [
@@ -930,14 +915,6 @@
  "B6b-11-types-synovial-joints": {
   "labels": [
    [
-    "ball and socket joint (hip)",
-    [
-     215,
-     256
-    ],
-    "L"
-   ],
-   [
     "head of femur",
     [
      237,
@@ -954,20 +931,12 @@
     "L"
    ],
    [
-    "hinge joint (elbow)",
-    [
-     655,
-     363
-    ],
-    "R"
-   ],
-   [
     "humerus",
     [
      650,
      220
     ],
-    "R"
+    "T"
    ],
    [
     "ulna",
@@ -978,28 +947,12 @@
     "R"
    ],
    [
-    "pivot joint (atlas and axis)",
-    [
-     261,
-     732
-    ],
-    "L"
-   ],
-   [
     "odontoid process",
     [
      220,
      716
     ],
     "L"
-   ],
-   [
-    "gliding joint (wrist)",
-    [
-     691,
-     773
-    ],
-    "R"
    ],
    [
     "carpals",
@@ -1009,7 +962,31 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "ball and socket\njoint (hip)",
+    273,
+    462
+   ],
+   [
+    "hinge joint\n(elbow)",
+    773,
+    442
+   ],
+   [
+    "pivot joint (atlas\nand axis)",
+    274,
+    945
+   ],
+   [
+    "gliding joint\n(wrist)",
+    746,
+    944
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B6b-05-human-vertebral-column": {
   "regions": [

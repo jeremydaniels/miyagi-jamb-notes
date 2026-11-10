@@ -36,7 +36,7 @@ Because King Saul had repeatedly disobeyed God (see `A6-obedience-and-disobedien
 5.  **The Anointing:** When David was brought in—described as ruddy, with beautiful eyes, and handsome—the Lord said to Samuel, "Arise, anoint him: for this is he." Samuel took the horn of oil and anointed David in the presence of his brothers. 
 6.  **The Spirit's presence:** From that day forward, the Spirit of the Lord came mightily upon David, while the Spirit of the Lord departed from Saul.
 
-[IMAGE: A young, ruddy David, dressed as a shepherd with a staff leaning on his shoulder, kneeling slightly while the elderly prophet Samuel pours oil from an animal horn over his head. In the background, Jesse and David's older, taller brothers watch with varying expressions of surprise. Clean flat textbook illustration, white background.]
+![Elderly prophet Samuel pours anointing oil over kneeling young shepherd David while his surprised brothers and father Jesse watch in the background.](images/A7-01-samuel-anointing-young-david.png)
 
 ### David and Goliath (1 Sam. 17)
 
@@ -104,7 +104,7 @@ David refused to take the throne by his own hand. He left vengeance and the timi
 
 Standing on a faraway hill, David called out to Abner, rebuking him for failing to protect the king, and showed them the spear and jug. Once again, Saul recognized David's voice, admitted he had "played the fool," and promised to harm him no more.
 
-[IMAGE: A tense night scene in a desert camp. King Saul is sleeping heavily on the ground. Next to his head stands a spear stuck in the dirt and a water jug. Two figures crouch nearby: Abishai, holding a weapon and gesturing eagerly toward Saul, and David, holding up a hand firmly to stop him, looking serious. Clean flat textbook illustration, white background.]
+![King Saul sleeps beside his spear and jug while David holds up a hand to stop Abishai from attacking him in a desert camp.](images/A7-02-david-sparing-sleeping-saul.png)
 
 ### Accepting the death of the child (2 Sam. 12:15-25)
 

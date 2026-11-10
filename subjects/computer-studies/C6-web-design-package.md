@@ -103,7 +103,7 @@ This is the true, primary purpose of Dreamweaver.
 * **Landing Pages:** When an advert consultant runs a PPC campaign, they need the advertisement to link to a highly specific, optimized web page (called a **landing page**). 
 * **The Process:** The web designer uses Dreamweaver to design this landing page. They will use Dreamweaver to arrange the **Content**, improve the **Visual design**, and add strong **Interaction** features (like an email signup form) to ensure high **Conversion** (turning the ad clicker into a paying customer).
 
-[IMAGE: A conceptual flowchart showing how these concepts connect. Left box: "PPC Ad on Google / Social Media Post". Arrow pointing to a middle box: "Custom Landing Page Built in Dreamweaver". Arrow pointing to a right box: "Customer Conversion (Purchase/Signup)". Style: clean flat textbook illustration, white background.]
+![Flowchart showing a PPC Ad or Social Media Post leading to a Custom Landing Page Built in Dreamweaver which leads to Customer Conversion like a purchase or signup.](images/C6-02-conceptual-flowchart-how-these.png)
 
 ## Key terms
 

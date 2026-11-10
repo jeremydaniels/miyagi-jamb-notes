@@ -1,0 +1,31 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "nodes": [
+  {
+   "id": "ad",
+   "text": "PPC Ad on Google /\nSocial Media Post",
+   "shape": "box"
+  },
+  {
+   "id": "landing_page",
+   "text": "Custom Landing Page\nBuilt in Dreamweaver",
+   "shape": "box"
+  },
+  {
+   "id": "conversion",
+   "text": "Customer Conversion\n(Purchase/Signup)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ad",
+   "to": "landing_page"
+  },
+  {
+   "from": "landing_page",
+   "to": "conversion"
+  }
+ ]
+}

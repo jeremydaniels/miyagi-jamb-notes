@@ -1,0 +1,123 @@
+{
+ "template": "graph",
+ "title": "Changes in Fresh Mass and Dry Mass During Germination",
+ "x_label": "days after sowing",
+ "y_label": "mass",
+ "xmax": 20,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "fresh mass (water absorbed)",
+   "points": [
+    [
+     0,
+     1.0
+    ],
+    [
+     3,
+     2.5
+    ],
+    [
+     7,
+     4.8
+    ],
+    [
+     12,
+     7.2
+    ],
+    [
+     16,
+     8.8
+    ],
+    [
+     20,
+     9.8
+    ]
+   ],
+   "smooth": true,
+   "color": "blue",
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "dry mass",
+   "points": [
+    [
+     0,
+     3.5
+    ],
+    [
+     3,
+     2.8
+    ],
+    [
+     7,
+     2.0
+    ],
+    [
+     12,
+     4.0
+    ],
+    [
+     16,
+     6.5
+    ],
+    [
+     20,
+     8.5
+    ]
+   ],
+   "smooth": true,
+   "color": "green",
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "points": [
+  {
+   "x": 7,
+   "y": 2.0,
+   "text": "first leaves begin photosynthesis",
+   "dx": 0,
+   "dy": -0.8
+  }
+ ],
+ "notes": [
+  {
+   "x": 3.5,
+   "y": 1.5,
+   "text": "dry mass falls (food used in respiration)"
+  },
+  {
+   "x": 14,
+   "y": 5.0,
+   "text": "dry mass rises (photosynthesis)"
+  }
+ ],
+ "xticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   4,
+   "4"
+  ],
+  [
+   7,
+   "7"
+  ],
+  [
+   12,
+   "12"
+  ],
+  [
+   16,
+   "16"
+  ],
+  [
+   20,
+   "20"
+  ]
+ ]
+}

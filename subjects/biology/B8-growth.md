@@ -144,7 +144,7 @@ Insects and other **arthropods** have a hard, non-living **exoskeleton** that ca
 
 When a seed germinates, its **dry mass at first falls**, because the stored food is being used up in respiration (which releases carbon (IV) oxide, CO₂, and water, which are lost). The seedling's dry mass only **starts to rise** once its first green leaves are photosynthesising and making more food than it uses. The **fresh mass**, by contrast, rises from the start, because the seed absorbs water.
 
-[IMAGE: Line graph with "days after sowing" on the horizontal axis (0 to 20) and "mass" on the vertical axis. Two curves: a blue curve for fresh mass rising steadily from day 0; and a green curve for dry mass that falls slightly from day 0 to a low point at about day 7, then rises steadily after. Add a small marker at the low point labelled "first leaves begin photosynthesis". Labels: fresh mass (water absorbed), dry mass, dry mass falls (food used in respiration), dry mass rises (photosynthesis). Clean flat textbook style, white background.]
+![Line graph showing fresh mass steadily increasing and dry mass dipping until day seven before rising as germination and photosynthesis occur.](images/B8-04-seed-germination-mass-change.png)
 
 ### Factors affecting growth
 

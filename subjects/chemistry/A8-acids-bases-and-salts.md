@@ -121,7 +121,7 @@ The method used to prepare a salt depends on whether it is soluble or insoluble 
   Aqueous solutions of two soluble salts are mixed. They exchange ions to form one soluble salt and one insoluble salt (the precipitate).
   $$\text{AgNO}_3\text{(aq)} + \text{NaCl(aq)} \rightarrow \text{AgCl(s)} + \text{NaNO}_3\text{(aq)}$$
 
-[IMAGE: Three-step illustration of precipitation (double decomposition). 1: Two beakers containing clear colourless solutions (labelled "AgNO₃(aq)" and "NaCl(aq)"). 2: One solution is poured into the other, instantly forming a thick white cloudy solid. 3: The mixture is poured through a filter funnel lined with filter paper into a conical flask; a white solid (labelled "AgCl(s) residue") remains on the paper, and a clear liquid (labelled "NaNO₃(aq) filtrate") collects below. Clean flat textbook style, white background.]
+![Three-step diagram showing two solutions mixed to form a white precipitate, which is then separated by pouring through a filter funnel into a flask.](images/A8-01-chemical-precipitation-process-steps.png)
 
 ### Classification of salts
 
@@ -238,7 +238,7 @@ During a titration, you must select an indicator whose colour change occurs at t
 
 A titration curve plots the $\text{pH}$ of the solution in the flask against the volume of acid or base added from the burette. The steep, vertical part of the curve shows where the $\text{pH}$ changes drastically with a single drop.
 
-[IMAGE: Four graphs arranged in a 2x2 grid showing titration curves (pH on the y-axis from 0 to 14, Volume of base added on the x-axis). Top left: Strong Acid vs Strong Base, starting at pH 1, with a long steep vertical line from pH 3 to 11, equivalence point at 7. Top right: Weak Acid vs Strong Base, starting at pH 3, steep line from pH 7 to 11, equivalence point > 7. Bottom left: Strong Acid vs Weak Base, starting at pH 1, steep line from pH 3 to 7, equivalence point < 7. Bottom right: Weak Acid vs Weak Base, starting at pH 3, with a gradual S-curve and no sharp vertical section. Clean flat textbook illustration, white background with blue and red graph lines.]
+![A set of four titration curves comparing strong and weak acid-base combinations, showing their pH trajectories, inflection shapes, and equivalence points relative to pH 7.](images/A8-02-titration-curves-grid-graph.png)
 
 ### Calculations based on the mole concept (titration)
 

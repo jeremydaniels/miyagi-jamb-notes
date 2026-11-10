@@ -803,7 +803,7 @@ Mineral salts are lost from the soil in several ways:
 
 **Effects of erosion on fertility:** loss of the humus-rich, nutrient-rich topsoil and its organisms; exposure of the poorer subsoil; loss of soil depth; formation of gullies that destroy farmland; silting of rivers, dams and reservoirs; and flooding downstream.
 
-[IMAGE: A three-panel illustration of soil erosion on a sloping farm. Panel 1: raindrops striking bare soil and splashing particles (splash erosion). Panel 2: a thin film of muddy water flowing evenly over a bare slope (sheet erosion) and small parallel channels cut into the slope (rill erosion). Panel 3: a deep, wide, steep-sided red-earth gully cutting through farmland, with a house and a palm tree close to its edge. Labels: "Splash erosion", "Sheet erosion", "Rill erosion", "Gully erosion", "Bare soil", "Topsoil washed away". Soft earthy colours with blue water. Clean flat textbook style, white background.]
+![Three-panel illustration showing soil erosion stages: raindrops causing splash erosion, runoff forming sheet and rill erosion on a slope, and severe gully erosion near a house.](images/C6-12-soil-erosion-types-stages.png)
 
 ### 5. Repeated cropping with one variety (monocropping)
 

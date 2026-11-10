@@ -695,5 +695,57 @@
   ],
   "fixed_sides": true,
   "capsize": 0
+ },
+ "C6-12-soil-erosion-types-stages": {
+  "labels": [
+   [
+    "Splash erosion",
+    [
+     883,
+     143
+    ],
+    "R"
+   ],
+   [
+    "Sheet erosion",
+    [
+     239,
+     473
+    ],
+    "L"
+   ],
+   [
+    "Rill erosion",
+    [
+     596,
+     528
+    ],
+    "R"
+   ],
+   [
+    "Gully erosion",
+    [
+     492,
+     854
+    ],
+    "L"
+   ],
+   [
+    "Bare soil",
+    [
+     278,
+     223
+    ],
+    "L"
+   ],
+   [
+    "Topsoil washed away",
+    [
+     775,
+     421
+    ],
+    "R"
+   ]
+  ]
  }
 }

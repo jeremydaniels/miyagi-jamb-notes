@@ -24,7 +24,7 @@ Allah declares the Qur'an's primary purpose at its very beginning. In Surah al-B
 
 The importance of the Qur'an lies in its comprehensive nature. It does not just teach people how to pray; it provides a complete framework for every aspect of life. It heals the mind, regulates society, ensures justice, and outlines the path to success in this world and the Hereafter.
 
-[IMAGE: A concept map diagram titled "The Qur'an: A Complete Guide to Life". At the center is a drawing of an open Qur'an on a wooden stand (Rihal). Five arrows point outward from it to five labeled circles: "Spiritual (Worship & Belief)", "Moral (Character & Ethics)", "Economic (Wealth & Trade)", "Political (Governance & Justice)", and "Socio-Cultural (Family & Community)". Clean flat textbook illustration, white background.]
+![Concept map titled The Quran: A Complete Guide to Life showing five connected domains: Spiritual, Moral, Economic, Political, and Socio-Cultural around a central Quran on a stand.](images/A1c-01-radial-concept-map.png)
 
 ## The Qur'an as a source of guidance
 

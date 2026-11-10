@@ -48,7 +48,7 @@ Marketing is evaluated positively because it creates:
 
 **Evaluation Conclusion:** If we evaluate agricultural marketing, we see that it dictates what the farmer will produce. If a specific crop commands a high price and has a good marketing system, farmers are motivated to grow more of it. If the marketing system fails, farmers will abandon farming. Therefore, agricultural marketing is evaluated to be just as critical as the physical planting and harvesting of crops.
 
-[IMAGE: A four-panel illustration showing the four marketing utilities. Panel 1 (Place Utility): A truck carrying baskets of tomatoes from a rural farm to a city market. Panel 2 (Time Utility): Large metal silos storing grains during a rainy season to be used later. Panel 3 (Form Utility): A machine processing fresh cassava tubers into dry garri flakes. Panel 4 (Possession Utility): A market trader exchanging a bunch of plantains for Naira notes with a customer. Clean flat textbook style, white background with clear, bold text labels for each utility.]
+![Four panels illustrating marketing utilities: a truck transporting tomatoes to a city, grain silos in the rain, a machine processing cassava into garri flakes, and plantains being sold.](images/D5-01-four-marketing-utilities.png)
 
 ## Marketing channels
 

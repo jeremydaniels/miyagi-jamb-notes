@@ -31,7 +31,7 @@
      292,
      90
     ],
-    "L"
+    "T"
    ],
    [
     "Gas flare",
@@ -39,7 +39,7 @@
      468,
      186
     ],
-    "L"
+    "T"
    ],
    [
     "Vehicle exhaust",
@@ -55,7 +55,7 @@
      274,
      494
     ],
-    "L"
+    "T"
    ],
    [
     "Oil slick",
@@ -95,7 +95,7 @@
      726,
      800
     ],
-    "R"
+    "L"
    ],
    [
     "Noise",
@@ -113,7 +113,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7c-02-gas-flare-soot-pollution": {
   "labels": [
@@ -243,7 +246,7 @@
      567,
      247
     ],
-    "R"
+    "T"
    ],
    [
     "Light blocked",
@@ -277,7 +280,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7c-08-sanitary-landfill-cross-section": {
   "labels": [

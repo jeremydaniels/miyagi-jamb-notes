@@ -101,7 +101,7 @@ To interpret a parable is to decode its symbols and understand its core spiritua
 *   **The Thorns:** Someone who hears the word, but the cares of the world and the deceitfulness of riches choke it, making them unfruitful.
 *   **The Good Soil:** Someone who hears the word, understands it, and bears much spiritual fruit.
 
-[IMAGE: A four-panel illustration showing the Parable of the Sower. Panel 1: A seed on a hard dirt path being eaten by a crow. Panel 2: A small green shoot withering under a blazing yellow sun on stony ground. Panel 3: A green plant being strangled by thorny vines. Panel 4: A tall, healthy stalk of wheat full of grain in rich brown soil. Labels to add later: "Path (snatched away)", "Rocky Ground (withers in hardship)", "Thorns (choked by riches/cares)", "Good Soil (bears fruit)". Clean flat textbook style, white background.]
+![A four-panel illustration depicting the Parable of the Sower showing a seed eaten by a bird on a path, a withered shoot on rocky soil, thorns choking a plant, and healthy wheat.](images/C5-01-parable-sower-panels.png)
 
 #### 2. The Weeds / Tares (Matthew 13:24-30, 36-43)
 **The Story:** A man sowed good seed in his field. While his men were sleeping, his enemy came, sowed weeds (tares) among the wheat, and went away. When the plants grew, the weeds appeared too. The servants asked if they should pull out the weeds. The master said, "No; lest in gathering the weeds you root up the wheat along with them." He ordered them to let both grow together until the harvest. At harvest time, the reapers would gather the weeds to be burned, and gather the wheat into the barn.
@@ -155,7 +155,7 @@ The elder son was angry, complaining he had served faithfully for years without 
 *   **The Elder Son:** The self-righteous Pharisees who were angry at God's grace toward sinners.
 **Meaning:** God is a loving Father who eagerly waits for sinners to return and restores them fully without making them earn their way back.
 
-[IMAGE: A scene of the Prodigal Son's return. An older, bearded man (the father) is running down a dirt road with his arms outstretched. Meeting him is a young man on his knees, dressed in torn, dirty rags, looking up with a sorrowful expression. In the background, a large house and servants bringing a fine robe and a ring. Labels to add later: "The Father (God's unconditional love)", "The Prodigal Son (The repentant sinner)". Clean flat textbook style, white background.]
+![A father runs with open arms toward his kneeling, repentant son dressed in rags, with servants holding a robe and ring near a house in the background.](images/C5-02-return-prodigal-son.png)
 
 ### Parables about love for one another
 

@@ -17,7 +17,7 @@
      510,
      454
     ],
-    "T"
+    "L"
    ],
    [
     "dry clay",
@@ -33,7 +33,7 @@
      512,
      563
     ],
-    "T"
+    "R"
    ],
    [
     "drained water",
@@ -43,9 +43,6 @@
     ],
     "L"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

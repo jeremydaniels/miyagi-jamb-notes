@@ -1,0 +1,442 @@
+{
+ "C7c-01-environmental-pollution-categories-landscape": {
+  "labels": [
+   [
+    "Air pollution",
+    [
+     315,
+     312
+    ],
+    "L"
+   ],
+   [
+    "Water pollution",
+    [
+     520,
+     587
+    ],
+    "R"
+   ],
+   [
+    "Soil pollution",
+    [
+     435,
+     901
+    ],
+    "L"
+   ],
+   [
+    "Factory smoke",
+    [
+     292,
+     90
+    ],
+    "L"
+   ],
+   [
+    "Gas flare",
+    [
+     468,
+     186
+    ],
+    "L"
+   ],
+   [
+    "Vehicle exhaust",
+    [
+     775,
+     291
+    ],
+    "R"
+   ],
+   [
+    "Effluent",
+    [
+     274,
+     494
+    ],
+    "L"
+   ],
+   [
+    "Oil slick",
+    [
+     454,
+     538
+    ],
+    "L"
+   ],
+   [
+    "Algal bloom",
+    [
+     702,
+     570
+    ],
+    "R"
+   ],
+   [
+    "Refuse dump",
+    [
+     247,
+     785
+    ],
+    "L"
+   ],
+   [
+    "Oil spill on land",
+    [
+     529,
+     745
+    ],
+    "R"
+   ],
+   [
+    "Pesticide spraying",
+    [
+     726,
+     800
+    ],
+    "R"
+   ],
+   [
+    "Noise",
+    [
+     68,
+     516
+    ],
+    "L"
+   ],
+   [
+    "Thermal pollution",
+    [
+     954,
+     829
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7c-02-gas-flare-soot-pollution": {
+  "labels": [
+   [
+    "Gas flare",
+    [
+     227,
+     208
+    ],
+    "L"
+   ],
+   [
+    "Illegal refinery (kpo-fire)",
+    [
+     483,
+     663
+    ],
+    "L"
+   ],
+   [
+    "Black soot",
+    [
+     356,
+     107
+    ],
+    "L"
+   ],
+   [
+    "Soot on buildings and cars",
+    [
+     292,
+     854
+    ],
+    "L"
+   ],
+   [
+    "Soot particles enter lungs",
+    [
+     640,
+     223
+    ],
+    "R"
+   ],
+   [
+    "Respiratory illness",
+    [
+     669,
+     800
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7c-05-oil-spill-creek-ecosystem": {
+  "labels": [
+   [
+    "Leaking pipeline",
+    [
+     227,
+     727
+    ],
+    "L"
+   ],
+   [
+    "Oil slick",
+    [
+     531,
+     684
+    ],
+    "R"
+   ],
+   [
+    "Oil blocks oxygen and light",
+    [
+     861,
+     859
+    ],
+    "R"
+   ],
+   [
+    "Dying mangroves",
+    [
+     208,
+     278
+    ],
+    "L"
+   ],
+   [
+    "Oiled bird",
+    [
+     352,
+     461
+    ],
+    "L"
+   ],
+   [
+    "Dead fish",
+    [
+     775,
+     693
+    ],
+    "R"
+   ],
+   [
+    "Contaminated soil",
+    [
+     410,
+     501
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C7c-06-eutrophication-process-stages": {
+  "labels": [
+   [
+    "Fertiliser run-off (nitrates, phosphates)",
+    [
+     198,
+     240
+    ],
+    "L"
+   ],
+   [
+    "Algal bloom",
+    [
+     567,
+     247
+    ],
+    "R"
+   ],
+   [
+    "Light blocked",
+    [
+     861,
+     157
+    ],
+    "R"
+   ],
+   [
+    "Plants and algae die",
+    [
+     760,
+     357
+    ],
+    "R"
+   ],
+   [
+    "Bacteria decompose and use up oxygen",
+    [
+     404,
+     826
+    ],
+    "L"
+   ],
+   [
+    "Fish die from lack of oxygen",
+    [
+     626,
+     686
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7c-08-sanitary-landfill-cross-section": {
+  "labels": [
+   [
+    "Clay and plastic liner",
+    [
+     138,
+     564
+    ],
+    "L"
+   ],
+   [
+    "Compacted refuse",
+    [
+     402,
+     619
+    ],
+    "L"
+   ],
+   [
+    "Daily soil cover",
+    [
+     402,
+     571
+    ],
+    "L"
+   ],
+   [
+    "Leachate collection pipe",
+    [
+     461,
+     735
+    ],
+    "L"
+   ],
+   [
+    "Leachate tank",
+    [
+     742,
+     749
+    ],
+    "R"
+   ],
+   [
+    "Methane vent",
+    [
+     609,
+     186
+    ],
+    "R"
+   ],
+   [
+    "Bulldozer compacting refuse",
+    [
+     347,
+     377
+    ],
+    "L"
+   ],
+   [
+    "Final soil and grass cover",
+    [
+     777,
+     390
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7c-09-vip-latrine-septic-tank": {
+  "labels": [
+   [
+    "Vent pipe",
+    [
+     385,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Fly screen",
+    [
+     385,
+     198
+    ],
+    "L"
+   ],
+   [
+    "Squat hole",
+    [
+     261,
+     538
+    ],
+    "L"
+   ],
+   [
+    "Pit",
+    [
+     240,
+     640
+    ],
+    "L"
+   ],
+   [
+    "Air flow",
+    [
+     245,
+     479
+    ],
+    "L"
+   ],
+   [
+    "Water closet",
+    [
+     578,
+     508
+    ],
+    "R"
+   ],
+   [
+    "Septic tank",
+    [
+     703,
+     655
+    ],
+    "R"
+   ],
+   [
+    "Sludge",
+    [
+     670,
+     689
+    ],
+    "R"
+   ],
+   [
+    "Scum",
+    [
+     670,
+     633
+    ],
+    "R"
+   ],
+   [
+    "Soakaway",
+    [
+     846,
+     677
+    ],
+    "R"
+   ],
+   [
+    "Well (at a safe distance)",
+    [
+     943,
+     605
+    ],
+    "R"
+   ]
+  ]
+ }
+}

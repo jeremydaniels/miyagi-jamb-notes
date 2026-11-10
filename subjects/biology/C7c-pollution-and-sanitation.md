@@ -67,7 +67,7 @@ Pollution is categorised according to the part of the environment that is pollut
 
 **Textbook variation:** some textbooks treat noise, radiation and thermal pollution as kinds of air or water pollution; others list them as separate categories. The syllabus asks you to categorise pollution into air, water and soil, so learn those three first.
 
-[IMAGE: A single landscape scene divided into three zones to show the categories of pollution. Top zone (sky): a factory chimney and a gas flare releasing dark smoke and a car and generator releasing exhaust fumes. Middle zone (river): a pipe discharging dirty effluent into a river, an oil slick on the water, dead fish floating, green algae near a farm. Bottom zone (land): a refuse dump with plastic bags and cans, an oil-soaked patch of ground near a broken pipeline, a farmer spraying pesticide. Small icons at the side for noise (a loudspeaker with sound waves) and heat (a thermometer by a power station outlet). Labels: "Air pollution", "Water pollution", "Soil pollution", "Factory smoke", "Gas flare", "Vehicle exhaust", "Effluent", "Oil slick", "Algal bloom", "Refuse dump", "Oil spill on land", "Pesticide spraying", "Noise", "Thermal pollution". Clean flat textbook style, white background.]
+![An environmental illustration showing sources of air, water, and soil pollution, accompanied by side icons depicting noise and thermal pollution.](images/C7c-01-environmental-pollution-categories-landscape.png)
 
 ## Effects of common pollutants on human health and the environment
 
@@ -116,7 +116,7 @@ Pollution is categorised according to the part of the environment that is pollut
 
 **Gas flaring:** in the Niger Delta, natural gas that comes up with crude oil has for decades been **burned off** (flared) in huge open flames, instead of being used. Gas flares release CO₂, methane (from incomplete burning), soot, SO₂, NOx and other pollutants, as well as **heat, light and noise**. Nearby communities complain of acid rain, damage to crops, respiratory illness, and constant light and heat. Nigeria has long been among the countries that flare the most gas in the world, and the government has repeatedly set deadlines and programmes to end routine flaring and capture the gas for use.
 
-[IMAGE: A Niger Delta scene with a tall gas flare stack burning a large orange flame and releasing thick black smoke, a small illegal refinery with metal drums and a fire emitting black smoke in a mangrove creek, and in the foreground a house with black soot on its walls, a car with a soot-covered windscreen and a person coughing. A magnified circular inset shows tiny black soot particles entering a person's airways and alveoli. Labels: "Gas flare", "Illegal refinery (kpo-fire)", "Black soot", "Soot on buildings and cars", "Soot particles enter lungs", "Respiratory illness". Clean flat textbook style, white background.]
+![A landscape with a gas flare and illegal refinery producing soot, coating a car and house while a coughing person has soot entering lung alveoli in inset.](images/C7c-02-gas-flare-soot-pollution.png)
 
 #### Lead
 
@@ -178,7 +178,7 @@ Pollution is categorised according to the part of the environment that is pollut
 - **Effects on people:** loss of **fishing and farming livelihoods**, causing poverty and conflict; drinking contaminated water and eating contaminated fish exposes people to poisonous hydrocarbons such as **benzene** (which can cause cancer); skin and eye irritation, breathing problems; destruction of community life.
 - **Ogoniland:** Ogoniland is an area of **Rivers State** in the Niger Delta, home of the Ogoni people. In **2011**, the **United Nations Environment Programme (UNEP)** published a major scientific report, the *Environmental Assessment of Ogoniland*. It found widespread and severe **oil contamination** of soils, swamps, creeks, mangroves and groundwater, the result of decades of spills. In some communities, drinking water from wells was contaminated with **benzene** at levels far above WHO guidelines. UNEP said that full clean-up could take **25 to 30 years**. In response, the Federal Government set up the **Hydrocarbon Pollution Remediation Project (HYPREP)** to carry out the clean-up, which formally began in 2016 and is still in progress.
 
-[IMAGE: A Niger Delta creek scene affected by an oil spill. A broken, leaking pipeline in the foreground releases dark oil onto the water. A rainbow-sheened black oil slick spreads across the creek. Mangrove trees at the edge with blackened stilt roots and dying yellow leaves. A waterbird with oil-soaked, matted feathers on the bank. Dead fish floating, and a small canoe with an upset fisherman. A small inset shows a cross-section of the water surface with the oil layer blocking oxygen and light from entering the water. Labels: "Leaking pipeline", "Oil slick", "Oil blocks oxygen and light", "Dying mangroves", "Oiled bird", "Dead fish", "Contaminated soil". Clean flat textbook style, white background.]
+![Illustration of an oil spill in a mangrove creek showing a broken pipeline, an oil slick, oiled bird, dead fish, and an inset diagram.](images/C7c-05-oil-spill-creek-ecosystem.png)
 
 #### Sewage
 
@@ -204,7 +204,7 @@ Pollution is categorised according to the part of the environment that is pollut
   8. The water becomes smelly, lifeless and unfit for use; some algal blooms also produce **toxins** harmful to animals and people.
 - **Effects on health:** high **nitrate** levels in drinking water are dangerous for babies (they can reduce the blood's ability to carry oxygen, causing "blue baby syndrome"); algal toxins can poison people and livestock.
 
-[IMAGE: A five-step flow diagram of eutrophication shown as a series of small pond scenes from left to right connected by arrows. 1: a farm field next to a pond, with arrows of run-off carrying fertiliser into the pond. 2: the pond surface covered by a thick green algal bloom. 3: sunlight blocked from reaching rooted plants below, which turn brown and die. 4: dead algae and plants sinking to the bottom, with many bacteria decomposing them. 5: dead fish floating on the surface, with bubbles showing low oxygen. Labels: "Fertiliser run-off (nitrates, phosphates)", "Algal bloom", "Light blocked", "Plants and algae die", "Bacteria decompose and use up oxygen", "Fish die from lack of oxygen". Clean flat textbook style, white background.]
+![A five-step diagram of eutrophication showing nutrient runoff, algal bloom, blocked sunlight, bacterial decomposition of organic matter, and fish dying from oxygen depletion.](images/C7c-06-eutrophication-process-stages.png)
 
 #### Pesticides, DDT and biomagnification
 
@@ -427,7 +427,7 @@ Many pollutants already described also pollute soil:
 
 **Good household practice:** keep refuse in **covered bins**; separate waste (organic, plastics, glass, metal); hand it to approved collectors (in many states, licensed private collectors work with state waste agencies); never dump refuse in drains, roadsides or rivers; never burn plastics.
 
-[IMAGE: A cross-section of a sanitary landfill. A large excavated pit lined with a thick clay layer and a plastic liner at the bottom. Refuse placed in compacted layers, each covered by a layer of soil. A bulldozer compacting the top layer. Pipes at the bottom collecting leachate into a tank, and vertical pipes venting methane gas to a small flare or collection unit. A fence and a growing grass cover on a finished section. Labels: "Clay and plastic liner", "Compacted refuse", "Daily soil cover", "Leachate collection pipe", "Leachate tank", "Methane vent", "Bulldozer compacting refuse", "Final soil and grass cover". Clean flat textbook style, white background.]
+![A cross-section illustration of a sanitary landfill showing lined waste layers, soil covers, leachate collection, methane vents with a flare, and a bulldozer.](images/C7c-08-sanitary-landfill-cross-section.png)
 
 ### Sewage and its disposal
 
@@ -447,7 +447,7 @@ Many pollutants already described also pollute soil:
 
 **Open defecation in Nigeria:** a large number of Nigerians still practise open defecation, one of the highest numbers of any country in the world. The Federal Government launched the "**Clean Nigeria: Use the Toilet**" campaign in **2019** to make Nigeria free of open defecation, and many local government areas have been working to be certified "open defecation free" (ODF).
 
-[IMAGE: Two side-by-side cross-section diagrams. Left: a ventilated improved pit (VIP) latrine: a small superstructure (hut) over a concrete slab with a squat hole, a deep pit below containing waste, and a tall black vent pipe rising from the pit above the roof, topped with a fly screen; arrows show air flowing in through the door, down the hole and up the pipe; a fly trapped at the screen. Right: a house with a flush toilet connected by a pipe to an underground septic tank with two chambers (sludge at the bottom, scum at the top, liquid in between), and an outlet pipe leading to a soakaway pit filled with stones. A well drawn at a safe distance with a distance arrow. Labels: "Vent pipe", "Fly screen", "Squat hole", "Pit", "Air flow", "Water closet", "Septic tank", "Sludge", "Scum", "Soakaway", "Well (at a safe distance)". Clean flat textbook style, white background.]
+![Cross-section diagrams showing a ventilated improved pit latrine with air flow and vent pipe alongside a septic tank system connected to a soakaway and distant well.](images/C7c-09-vip-latrine-septic-tank.png)
 
 #### Sewage treatment
 

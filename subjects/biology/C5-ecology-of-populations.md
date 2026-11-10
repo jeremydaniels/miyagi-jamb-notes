@@ -100,7 +100,7 @@ In a **J-shaped curve**, the population grows **exponentially** (faster and fast
 | Final population | Stabilises at the carrying capacity | Falls sharply (crashes) |
 | Examples | Yeast in a flask; *Tilapia* in a new pond; most natural populations | Algal blooms; some insect populations; the steep growth of the human population |
 
-[IMAGE: Two population growth graphs side by side, both with "time" on the horizontal axis and "number of individuals (population size)" on the vertical axis. Left: an S-shaped (sigmoid) curve with five shaded and labelled phases from left to right: lag phase (flat start), exponential (log) phase (steep rise), deceleration phase (bending), stationary phase (flat plateau), and a slight downward death phase at the end. A dashed horizontal line at the plateau labelled carrying capacity (K). Right: a J-shaped curve rising slowly and then very steeply, followed by a sudden sharp drop (crash). Labels: "S-shaped (sigmoid) growth curve", "lag phase", "exponential (log) phase", "deceleration phase", "stationary phase", "death phase", "carrying capacity (K)", "J-shaped growth curve", "exponential growth", "population crash", "time", "population size". Soft blue and soft green lines. Clean flat textbook style, white background.]
+![Diagram comparing S-shaped and J-shaped population growth curves over time, highlighting growth phases, carrying capacity, exponential growth, and population crash.](images/C5-01-sigmoid-j-shaped-population.png)
 
 ### Age structure and age pyramids
 
@@ -114,7 +114,7 @@ An **age pyramid** (population pyramid) is a bar graph that shows the number or 
 
 **Nigeria's population is very young:** roughly 40% or more of Nigerians are under 15 years old, according to estimates from the National Population Commission and the United Nations. This means a large number of people will reach childbearing age in the coming years, so the population will keep growing for a long time (population momentum). It also means a large proportion of the population depends on the working-age adults for food, schooling and health care (a high **dependency ratio**).
 
-[IMAGE: Three population (age) pyramids side by side, each a horizontal bar chart with age groups (0–4 at the bottom up to 80+ at the top) on a central vertical axis, males on the left in soft blue and females on the right in soft pink. Left: expanding pyramid with a very broad base and a narrow peak. Middle: stable pyramid with nearly straight vertical sides narrowing only near the top. Right: contracting pyramid with a narrower base than its middle. Labels: "expanding (e.g. Nigeria)", "stable", "contracting (e.g. Japan)", "males", "females", "age group", "high birth rate", "low birth rate", "young people", "old people". Clean flat textbook style, white background.]
+![Three population pyramids showing expanding, stable, and contracting demographics with age groups from zero to eighty plus divided into males and females.](images/C5-02-demographic-population-age-pyramids.png)
 
 ## Population density and overcrowding
 
@@ -689,7 +689,7 @@ Succession can also begin in a **pond or lake** (a **hydrosere**):
 4. The pond fills up and becomes a **swamp or marsh**, then moist land with grasses and shrubs.
 5. Finally, **trees** grow and the area becomes part of the **climax forest** (or savanna woodland) of the region.
 
-[IMAGE: Four cross-sections of the same pond over time, left to right, joined by arrows, showing a hydrosere. (1) Open pond with phytoplankton and submerged plants and a thin layer of mud. (2) Shallower pond with water lilies and floating plants and thicker mud. (3) Mostly filled marsh with reeds, sedges and Typha spreading inwards and a small pool left. (4) Dry land with grasses, shrubs and young trees, and a forest in the background. Labels: "open water with submerged plants", "floating-leaved plants", "mud builds up", "reeds and sedges (marsh)", "grasses and shrubs", "trees (towards climax)", "time". Soft blues, greens and browns. Clean flat textbook style, white background.]
+![Four cross-section diagrams showing stages of hydrosere ecological succession from open water pond to floating plants, marshland with reeds, and finally terrestrial woodland.](images/C5-07-hydrosere-pond-succession-sequence.png)
 
 **Textbook variation:** primary succession on dry rock is called a **xerosere** (or lithosere), and succession in water a **hydrosere**. Not all textbooks use these terms.
 

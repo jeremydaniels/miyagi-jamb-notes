@@ -246,5 +246,61 @@
     "R"
    ]
   ]
+ },
+ "C5-07-hydrosere-pond-succession-sequence": {
+  "caption_below": "Progression over time during pond succession.",
+  "regions": [
+   "mud builds up"
+  ],
+  "labels": [
+   [
+    "open water with submerged plants",
+    [
+     244,
+     312
+    ],
+    "L"
+   ],
+   [
+    "floating-leaved plants",
+    [
+     709,
+     241
+    ],
+    "R"
+   ],
+   [
+    "mud builds up",
+    [
+     774,
+     354
+    ],
+    "R"
+   ],
+   [
+    "reeds and sedges (marsh)",
+    [
+     349,
+     636
+    ],
+    "L"
+   ],
+   [
+    "grasses and shrubs",
+    [
+     794,
+     672
+    ],
+    "R"
+   ],
+   [
+    "trees (towards climax)",
+    [
+     866,
+     577
+    ],
+    "R"
+   ]
+  ]
  }
 }

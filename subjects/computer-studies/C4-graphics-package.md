@@ -46,7 +46,7 @@ The syllabus lists the following specific examples that you must know:
 4. **AutoCAD:** A computer-aided design (CAD) package. (The "Auto" in the name comes from its maker, Autodesk. Some textbooks expand it as "Automatic Computer-Aided Design", but that is not its official meaning.) It is a complex software used mostly by architects, engineers, and drafters to create precise 2D and 3D technical drawings (like building plans and machine parts).
 5. **Harvard Graphics:** An early presentation and graphics software originally created for MS-DOS computers in the 1980s. Though it is obsolete today, JAMB still lists it as a classic example of a graphics package.
 
-[IMAGE: A simple comparison graphic showing the logos or typical screens of Paint (simple drawing), CorelDraw (vector logo design with nodes), Photoshop (editing a photograph), and AutoCAD (a blueprint of a house). Clean flat textbook illustration, white background.]
+![Comparison graphic showing typical screens for Paint CorelDraw Photoshop and AutoCAD to illustrate different software uses.](images/C4-01-simple-comparison-graphic-logos.png)
 
 ---
 
@@ -80,7 +80,7 @@ CorelDraw is a powerful application for vector illustration and page layout. The
 *   **Font Filtering and Search:** A feature that saves time by letting you search for fonts based on categories. Instead of scrolling through hundreds of fonts, you can filter by "Handwritten", "Bold", or "Serif" to find the exact text style you need.
 *   **Corel Font Manager:** A standalone application included in the Corel package that lets designers explore, organize, and manage their font collections without having to install all the fonts into the Windows operating system.
 
-[IMAGE: A diagram of a curved line in CorelDraw. Point to a small square on the line and label it "Node". Point to a dotted line extending from the node with an arrow at the end and label it "Control Handle". Clean flat textbook illustration, white background.]
+![Diagram of a bezier curve in CorelDraw pointing out a node and a dotted control handle line.](images/C4-02-curved-line-coreldraw-point.png)
 
 ---
 

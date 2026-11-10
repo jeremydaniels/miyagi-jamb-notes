@@ -64,5 +64,62 @@
     "R"
    ]
   ]
+ },
+ "C4-01-cow-female-reproductive-tract": {
+  "regions": [
+   "Uterine horn (where embryo implants in livestock)",
+   "Cervix",
+   "Vagina"
+  ],
+  "labels": [
+   [
+    "Ovary (produces eggs)",
+    [
+     798,
+     369
+    ],
+    "R"
+   ],
+   [
+    "Fallopian tube (site of fertilization)",
+    [
+     828,
+     208
+    ],
+    "R"
+   ],
+   [
+    "Uterine horn (where embryo implants in livestock)",
+    [
+     596,
+     335
+    ],
+    "R"
+   ],
+   [
+    "Cervix",
+    [
+     538,
+     571
+    ],
+    "R"
+   ],
+   [
+    "Vagina",
+    [
+     512,
+     726
+    ],
+    "R"
+   ],
+   [
+    "Vulva",
+    [
+     509,
+     871
+    ],
+    "L"
+   ]
+  ]
  }
 }

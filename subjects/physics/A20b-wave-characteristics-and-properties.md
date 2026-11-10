@@ -34,7 +34,7 @@ To study how waves behave in two dimensions, physicists often use a **ripple tan
 - **In a ripple tank:** Refraction is demonstrated by placing a flat glass block underwater to create a "shallow" region next to a "deep" region. Water waves travel **faster in deep water** and **slower in shallow water**.
 - As a wave moves from deep to shallow water, its speed decreases. Because $f$ is constant, the equation $v = f\lambda$ means the wavelength must also decrease. The wave crests squash closer together. If they enter the shallow water at an angle, they also bend **towards the normal**.
 
-[IMAGE: A diagram showing refraction of water waves in a ripple tank. Straight waves in a "Deep water" region (widely spaced) travel towards a boundary line. They cross into a "Shallow water" region (closely spaced). The direction arrows show the waves bending towards the normal line as they cross the boundary. Labels indicate "Fast, long wavelength" in deep water and "Slow, short wavelength" in shallow water. Clean flat textbook style, white background.]
+![Diagram showing water waves refracting at a boundary between deep and shallow water, with wavefronts becoming closer together and bending towards the normal line.](images/A20b-02-wave-refraction.png)
 
 #### 3. Diffraction
 **Diffraction** is the spreading out or bending of waves as they pass through a narrow gap, slit, or go around the edge of an obstacle.
@@ -43,7 +43,7 @@ To study how waves behave in two dimensions, physicists often use a **ripple tan
 - If the gap is much wider than the wavelength ($a \gg \lambda$), the wave passes straight through with only very slight curving at the extreme edges.
 - This is why you can hear someone talking from around a corner (sound has a long wavelength comparable to doorways, so it diffracts easily), but you cannot see them (light has a microscopic wavelength, so it does not noticeably diffract around large everyday objects).
 
-[IMAGE: Two side-by-side panels showing diffraction in a ripple tank. Left panel: straight waves passing through a gap much wider than the spacing between the waves. The emerging waves remain mostly straight, with only slight curves at the edges. Right panel: straight waves passing through a very narrow gap (width roughly equal to the wave spacing). The emerging waves spread out into full semi-circles. Labels: "Wide gap: minimal diffraction", "Narrow gap: maximum diffraction". Clean flat textbook style, white background.]
+![Diagram comparing diffraction through a wide gap with minimal wave curvature to diffraction through a narrow gap where emerging waves form semicircles.](images/A20b-03-wave-diffraction-slit.png)
 
 #### 4. Plane Polarization
 **Polarization** is the restriction of a wave's vibrations to a single plane.
@@ -51,7 +51,7 @@ To study how waves behave in two dimensions, physicists often use a **ripple tan
 - **Crucial JAMB Fact:** **Only transverse waves can be polarized.** Longitudinal waves (like sound) cannot be polarized because their particles vibrate back and forth *parallel* to the direction of travel; a slit would either let the whole wave through or block it entirely.
 - Polarization is the definitive test to prove whether a wave is transverse or longitudinal. It proves that light is a transverse wave.
 
-[IMAGE: A diagram showing a transverse wave travelling along a rope. It vibrates in all directions (starburst arrows). It passes through a vertical slit (Polarizer A) and emerges vibrating only up and down (plane-polarized). It then hits a horizontal slit (Polarizer B). The wave cannot pass through the horizontal slit and is completely blocked. Labels: "Unpolarized wave", "Vertical polarizer", "Plane-polarized wave", "Horizontal analyzer", "Wave blocked". Clean flat textbook style, white background.]
+![Diagram showing an unpolarized transverse wave passing through a vertical polarizer to become plane-polarized, then being completely blocked by a perpendicular horizontal analyzer.](images/A20b-04-wave-polarization-schematic.png)
 
 #### Summary Comparison Table
 
@@ -82,7 +82,7 @@ Whether interference is constructive or destructive at a specific point depends 
   $$\text{Path difference} = \left(n + \frac{1}{2}\right)\lambda \quad (\text{where } n = 0, 1, 2, \dots)$$
   The phase difference is $\pi, 3\pi, 5\pi$ radians.
 
-[IMAGE: An interference pattern in a ripple tank generated from two point sources. Two small circular dippers are generating overlapping expanding circular waves. Distinct solid lines (antinodes where constructive interference occurs) and blurry calm lines (nodes where destructive interference occurs) radiate outwards from the sources in a symmetrical pattern. Clean flat textbook style, white background.]
+![Ripple tank interference pattern showing circular waves from two point sources, highlighting symmetrical solid antinodal lines and dashed nodal lines of calm water.](images/A20b-05-two-point-source-wave.png)
 
 ### Numerical Problems on Waves and the Phenomenon of Beats
 

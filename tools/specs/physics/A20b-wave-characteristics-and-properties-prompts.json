@@ -1,0 +1,18 @@
+[
+ [
+  "A20b-02-wave-refraction",
+  "A diagram showing refraction of water waves in a ripple tank. Straight waves in a \"Deep water\" region (widely spaced) travel towards a boundary line. They cross into a \"Shallow water\" region (closely spaced). The direction arrows show the waves bending towards the normal line as they cross the boundary. Labels indicate \"Fast, long wavelength\" in deep water and \"Slow, short wavelength\" in shallow water."
+ ],
+ [
+  "A20b-03-wave-diffraction-slit",
+  "Two side-by-side panels showing diffraction in a ripple tank. Left panel: straight waves passing through a gap much wider than the spacing between the waves. The emerging waves remain mostly straight, with only slight curves at the edges. Right panel: straight waves passing through a very narrow gap (width roughly equal to the wave spacing). The emerging waves spread out into full semi-circles."
+ ],
+ [
+  "A20b-04-wave-polarization-schematic",
+  "A diagram showing a transverse wave travelling along a rope. It vibrates in all directions (starburst arrows). It passes through a vertical slit (Polarizer A) and emerges vibrating only up and down (plane-polarized). It then hits a horizontal slit (Polarizer B). The wave cannot pass through the horizontal slit and is completely blocked."
+ ],
+ [
+  "A20b-05-two-point-source-wave",
+  "An interference pattern in a ripple tank generated from two point sources. Two small circular dippers are generating overlapping expanding circular waves. Distinct solid lines (antinodes where constructive interference occurs) and blurry calm lines (nodes where destructive interference occurs) radiate outwards from the sources in a symmetrical pattern."
+ ]
+]

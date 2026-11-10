@@ -1,0 +1,158 @@
+{
+ "template": "graph",
+ "title": "Short-Run Cost Curves",
+ "x_label": "Quantity (Q)",
+ "y_label": "Cost (₦)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "AFC",
+   "points": [
+    [
+     1.2,
+     5.0
+    ],
+    [
+     2.0,
+     3.0
+    ],
+    [
+     3.0,
+     2.0
+    ],
+    [
+     4.5,
+     1.3
+    ],
+    [
+     6.5,
+     0.9
+    ],
+    [
+     9.0,
+     0.6
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "AVC",
+   "points": [
+    [
+     1.5,
+     5.8
+    ],
+    [
+     3.0,
+     4.2
+    ],
+    [
+     4.5,
+     3.8
+    ],
+    [
+     6.0,
+     4.3
+    ],
+    [
+     7.5,
+     5.2
+    ],
+    [
+     9.0,
+     6.4
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "AC",
+   "points": [
+    [
+     1.5,
+     9.5
+    ],
+    [
+     2.5,
+     7.3
+    ],
+    [
+     4.0,
+     5.6
+    ],
+    [
+     6.0,
+     4.9
+    ],
+    [
+     7.5,
+     5.7
+    ],
+    [
+     9.0,
+     7.0
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "MC",
+   "points": [
+    [
+     1.2,
+     5.0
+    ],
+    [
+     2.2,
+     3.2
+    ],
+    [
+     3.2,
+     2.8
+    ],
+    [
+     4.5,
+     3.8
+    ],
+    [
+     6.0,
+     4.9
+    ],
+    [
+     7.8,
+     7.5
+    ],
+    [
+     9.0,
+     9.8
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "points": [
+  {
+   "x": 4.5,
+   "y": 3.8,
+   "text": "Min AVC",
+   "dx": 0,
+   "dy": -12
+  },
+  {
+   "x": 6.0,
+   "y": 4.9,
+   "text": "Min AC",
+   "dx": 0,
+   "dy": -12
+  }
+ ]
+}

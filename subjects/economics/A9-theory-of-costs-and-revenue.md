@@ -176,7 +176,7 @@ Why? Think of your Grade Point Average (GPA). If your newest test score (your *M
 * Whenever $MC > AC$, the AC curve is rising.
 * Consequently, the exact point where AC switches from falling to rising (its lowest point) must be exactly where $MC = AC$.
 
-[IMAGE: A graph showing short-run cost curves. The horizontal axis is Quantity (Q) and the vertical axis is Cost in Naira. There is a continuously falling AFC curve at the bottom, resembling a rectangular hyperbola. Above it is a U-shaped AVC curve. Above that is a U-shaped AC curve, getting closer to the AVC curve as it moves to the right. An MC curve swoops down and rises sharply, cutting the AVC curve precisely at its lowest point, and then cutting the AC curve precisely at its lowest point. Clean flat textbook illustration, white background, all curves clearly labelled.]
+![Short-run cost curves showing marginal cost intersecting average variable cost and average total cost at their respective minimum points, with average fixed cost declining continuously.](images/A9-01-short-run-cost-curves.png)
 
 #### The Long-Run Cost Curves and Economies of Scale
 
@@ -224,7 +224,7 @@ The exact point where Price equals the minimum point of the AC curve is called t
 **Conclusion:**
 Because the firm produces zero when the price is below AVC, **the short-run supply curve of a perfectly competitive firm is only the portion of its Marginal Cost (MC) curve that lies entirely above the minimum point of its Average Variable Cost (AVC) curve.**
 
-[IMAGE: A graph illustrating the firm's short-run supply curve. The horizontal axis is Quantity and the vertical axis is Price/Cost. There is a U-shaped AVC curve and a U-shaped AC curve above it. A J-shaped MC curve cuts through the lowest points of both. The lowest point of the AVC curve is marked with a horizontal dashed line labelled "Shut-down point ($P = min AVC$)". The lowest point of the AC curve is marked with a horizontal dashed line labelled "Break-even point". The portion of the MC curve that lies *below* the shut-down point is drawn as a thin, dashed grey line. The portion of the MC curve that starts from the shut-down point and goes upwards is highlighted with a thick, bold coloured line and labelled "Firm's Short-Run Supply Curve". Clean flat textbook illustration, white background.]
+![Graph showing a firm short-run supply curve as the portion of the marginal cost curve lying above the minimum average variable cost shutdown point.](images/A9-03-firm-short-run-supply.png)
 
 ## The concepts of revenue
 
@@ -263,7 +263,7 @@ Because the price is perfectly constant, every single extra unit sold brings in 
 
 * **Notice:** Under perfect competition, $Price = AR = MR$. If drawn on a graph, the firm's AR and MR curves merge into a single, perfectly horizontal straight line at the market price level. 
 
-[IMAGE: A graph for revenue under perfect competition. The horizontal axis is Quantity and the vertical axis is Revenue/Price. A perfectly horizontal straight line originates from the price level on the vertical axis (e.g., at ₦20) extending to the right. The line is labelled "P = AR = MR = Demand Curve". The Total Revenue curve would be a straight line sloping upward from the origin. Clean flat textbook illustration, white background.]
+![A graph illustrating revenue under perfect competition with an upward-sloping Total Revenue curve and a horizontal line representing price, average revenue, marginal revenue, and demand.](images/A9-04-perfect-competition-revenue-graph.png)
 
 #### Revenue under Imperfect Competition (Monopoly)
 In an imperfect market, such as a monopoly or monopolistic competition, the firm is a **price maker**. However, it still faces the law of demand. To sell a larger quantity of goods, the firm must lower its price. 
@@ -279,7 +279,7 @@ In an imperfect market, such as a monopoly or monopolistic competition, the firm
 * **Notice:** To sell the second unit, the firm had to lower the price from ₦100 to ₦90. It doesn't just sell the second unit for ₦90; it has to sell *both* units for ₦90. The TR went from 100 to 180, so the extra revenue (MR) is only 80, which is less than the price of 90. 
 * **Conclusion:** Under imperfect competition, the **MR curve is always below the AR (Price) curve**. Both slope downwards from left to right. For a straight-line demand curve, the MR curve falls twice as fast as the AR curve (it sits exactly halfway between the vertical axis and the AR curve).
 
-[IMAGE: A graph for revenue under imperfect competition. The horizontal axis is Quantity and the vertical axis is Revenue/Price. There are two downward-sloping lines starting from the same point on the vertical axis. The upper line is less steep and labelled "AR = Price = Demand". The lower line is steeper (falling twice as fast) and labelled "MR". Clean flat textbook illustration, white background.]
+![A graph showing revenue under imperfect competition with downward-sloping AR and MR curves starting from the same vertical axis point, where MR falls twice as fast as AR.](images/A9-05-imperfect-competition-revenue-graph.png)
 
 #### A Note on Marginal Revenue and Price Elasticity of Demand
 There is a profound mathematical relationship between Marginal Revenue and the Price Elasticity of Demand ($e$).

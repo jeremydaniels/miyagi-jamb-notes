@@ -102,7 +102,7 @@ West Africa produced and hosted brilliant minds whose writings shaped the region
 | **Sultan Muhammad Bello** (1781–1837) | Sokoto (Nigeria) | The son of Usman Danfodio and the second Sultan of Sokoto. He was an outstanding scholar who wrote extensively on history, medicine, geography, and theology. His most famous book is ***Infaq al-Maysur***, a detailed history of the Fulani Jihad and the establishment of the Sokoto Caliphate. |
 | **Ibn Battuta** (1304–1369) | Morocco | One of history's greatest travellers. While not a teacher in West Africa, his intellectual contribution was his travelogue (*Rihla*). He visited the Mali Empire in 1352 and wrote down detailed observations of their society. He praised the Malian Muslims for their immense dedication to educating their children in the Qur'an, noting that parents would put their children in chains until they memorised it perfectly! |
 
-[IMAGE: A map of West Africa overlaid with the iconic mud-brick architecture of the Sankore Mosque in Timbuktu. Icons point to Kano (associating it with Al-Maghili) and Sokoto (associating it with Usman Danfodio). Clean flat textbook style, warm earthy colours, white background.]
+![Map of West Africa highlighting Islamic scholarship centers: Timbuktu featuring the Sankore Mosque, Sokoto linked to Usman Danfodio, and Kano linked to Muhammad Al-Maghili.](images/C20-02-map-west-african-islamic.png)
 
 ---
 

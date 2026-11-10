@@ -190,7 +190,7 @@ A **direct current (d.c.) motor** is a machine that converts electrical energy i
 
 **Note on Back EMF:** As the armature rotates within the magnetic field, it acts like a generator and induces an electromotive force (EMF) in the coil. By Lenz's Law, this induced EMF opposes the applied voltage from the battery, and is called **back EMF**. It prevents the motor from drawing too much current once it reaches its operating speed.
 
-[IMAGE: A simple d.c. motor diagram. A rectangular wire coil labeled "Armature" sits horizontally between curved North and South magnetic poles. The ends of the coil connect to a split copper ring (the "Commutator"). Two rectangular blocks labeled "Carbon Brushes" touch the commutator and connect to a battery circuit. Arrows show the path of the current from the battery, through the coil, and back, alongside curved arrows showing the rotation direction. Clean flat textbook illustration, white background.]
+![A diagram of a simple direct current motor showing a rectangular wire coil between curved magnet poles, attached to a split-ring commutator, brushes, and battery circuit.](images/A34-03-simple-dc-motor.png)
 
 ## Electromagnets and Their Applications
 

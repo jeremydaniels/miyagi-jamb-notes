@@ -1,0 +1,104 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Classification of Business Units",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "Business Units",
+   "shape": "round"
+  },
+  {
+   "id": "private",
+   "text": "Private Enterprises",
+   "shape": "box"
+  },
+  {
+   "id": "public",
+   "text": "Public Enterprises",
+   "shape": "box"
+  },
+  {
+   "id": "sole",
+   "text": "Sole Proprietorship",
+   "shape": "box"
+  },
+  {
+   "id": "partner",
+   "text": "Partnership",
+   "shape": "box"
+  },
+  {
+   "id": "llc",
+   "text": "Limited Liability Companies",
+   "shape": "box"
+  },
+  {
+   "id": "coop",
+   "text": "Cooperative Societies",
+   "shape": "box"
+  },
+  {
+   "id": "pvt_ltd",
+   "text": "Private Ltd",
+   "shape": "plain"
+  },
+  {
+   "id": "pub_plc",
+   "text": "Public Plc",
+   "shape": "plain"
+  },
+  {
+   "id": "pub_corp",
+   "text": "Public Corporations",
+   "shape": "box"
+  },
+  {
+   "id": "state_owned",
+   "text": "State-Owned Companies",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "private"
+  },
+  {
+   "from": "root",
+   "to": "public"
+  },
+  {
+   "from": "private",
+   "to": "sole"
+  },
+  {
+   "from": "private",
+   "to": "partner"
+  },
+  {
+   "from": "private",
+   "to": "llc"
+  },
+  {
+   "from": "private",
+   "to": "coop"
+  },
+  {
+   "from": "llc",
+   "to": "pvt_ltd"
+  },
+  {
+   "from": "llc",
+   "to": "pub_plc"
+  },
+  {
+   "from": "public",
+   "to": "pub_corp"
+  },
+  {
+   "from": "public",
+   "to": "state_owned"
+  }
+ ]
+}

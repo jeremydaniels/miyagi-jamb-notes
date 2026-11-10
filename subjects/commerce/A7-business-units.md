@@ -29,7 +29,7 @@ A business unit (or business organisation) is an enterprise set up by an individ
 
 In Nigeria, business units are generally divided into **private enterprises** (owned by individuals or groups) and **public enterprises** (owned by the government). 
 
-[IMAGE: A tree diagram showing the classification of business units. At the top: "Business Units". It splits into two main branches: "Private Enterprises" and "Public Enterprises". The Private Enterprises branch splits into "Sole Proprietorship", "Partnership", "Limited Liability Companies" (sub-divided into Private Ltd and Public Plc), and "Cooperative Societies". The Public Enterprises branch points to "Public Corporations" and "State-Owned Companies". Clean flat textbook style, white background.]
+![A tree diagram classifying business units into private and public enterprises, each branching into specific business structures like sole proprietorships, companies, and public corporations.](images/A7-01-business-units-classification-tree.png)
 
 ### 1. Sole Proprietorship (One-man business)
 A sole proprietorship is a business owned, managed, and controlled by a single individual. It is the oldest, most common, and simplest form of business in Nigeria. Examples include the local tailor, the market woman selling garri, the vulcanizer by the roadside, and the barber in your neighbourhood.

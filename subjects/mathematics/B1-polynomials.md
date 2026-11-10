@@ -336,7 +336,7 @@ The graph of a quadratic polynomial $y = ax^2 + bx + c$ is a curve called a **pa
 - If $a$ (the coefficient of $x^2$) is **positive**, the curve is a U-shape. It has a lowest point called a **minimum**.
 - If $a$ is **negative**, the curve is an n-shape (like a hill). It has a highest point called a **maximum**.
 
-![A coordinate plane showing the parabola y = x^2 - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).](images/B1-01-quadratic-parabola-curve-plot.png)
+![A coordinate plane showing the parabola y = x² - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).](images/B1-01-quadratic-parabola-curve-plot.png)
 
 #### Finding the maximum or minimum value
 The turning point (vertex) of a quadratic graph occurs at the $x$-coordinate given by the formula:

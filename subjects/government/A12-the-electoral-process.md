@@ -150,7 +150,7 @@ This system is used for electing a legislature (parliament). Seats are awarded t
 | It gives minority parties representation in government. | It often leads to a coalition government (no single party has a majority), which can be weak and unstable. |
 | It discourages election rigging at local levels since total national votes matter. | The bond between the voter and their local representative is lost, as people often vote for a party list, not an individual. |
 
-[IMAGE: A comparative graphic showing FPTP vs Proportional Representation (PR). On the left (FPTP): A bar chart where Party A gets 40% of votes but takes 100% of a district's single seat (a large trophy icon). On the right (PR): A pie chart of votes (Party A 40%, Party B 35%, Party C 25%) next to a Parliament seating chart colored exactly to match the pie chart (40% blue seats, 35% red seats, 25% green seats). Labels to add later: "First-Past-The-Post: Winner takes all", "Proportional Representation: Seats match vote percentage". Clean flat textbook style, white background.]
+![Diagram comparing First-Past-The-Post, where a 40 percent plurality wins the single seat, against Proportional Representation, where parliament seats directly match each party vote percentage.](images/A12-02-fptp-vs-pr-comparison.png)
 
 ### 4. Alternative Vote (Preferential Voting) System
 Voters do not just mark one candidate. They rank the candidates in order of preference (1st choice, 2nd choice, 3rd choice). If no one gets an absolute majority of 1st choices, the candidate with the fewest votes is eliminated, and their votes are transferred to the voters' 2nd choices, until someone reaches 50%.

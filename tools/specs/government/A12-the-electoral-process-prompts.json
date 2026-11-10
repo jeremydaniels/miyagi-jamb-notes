@@ -6,5 +6,9 @@
  [
   "A12-03-electoral-process-stage-flowchart",
   "A flowchart of the electoral process from start to finish. Boxes connected by arrows: 1. Delimitation of Constituencies -> 2. Voter Registration -> 3. Party Primaries -> 4. Political Campaigns -> 5. Accreditation & Voting -> 6. Counting & Collation -> 7. Declaration of Results. Use clean flat textbook style, white background, with a small relevant icon in each box (e.g., a map for delimitation, a megaphone for campaigns, a ballot box for voting)."
+ ],
+ [
+  "A12-02-fptp-vs-pr-comparison",
+  "A comparative graphic showing FPTP vs Proportional Representation (PR). On the left (FPTP): A bar chart where Party A gets 40% of votes but takes 100% of a district's single seat (a large trophy icon). On the right (PR): A pie chart of votes (Party A 40%, Party B 35%, Party C 25%) next to a Parliament seating chart colored exactly to match the pie chart (40% blue seats, 35% red seats, 25% green seats)."
  ]
 ]

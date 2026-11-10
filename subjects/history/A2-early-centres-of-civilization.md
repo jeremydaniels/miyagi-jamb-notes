@@ -49,7 +49,7 @@ The Nok culture was discovered in central Nigeria (covering parts of present-day
 *   It shows that the people of the Nigeria area transitioned directly from the Stone Age to the Iron Age, without going through a "Bronze Age" (which happened in Europe and Asia).
 *   The high quality of the terracotta art suggests a complex society with specialised craftsmen and religious beliefs (the figures were likely used as shrine objects).
 
-[IMAGE: A classic Nok terracotta human head. It has triangular eyes with deep holes for the pupils, flared nostrils, parted lips, and an elaborate bun-like hairstyle with carved geometric patterns. The clay is reddish-brown and textured to look old and slightly weathered. Labels: "Triangular eyes", "Pierced pupils and lips", "Elaborate hairstyle". Clean flat textbook style, white background.]
+![Illustration of a classic Nok terracotta head featuring triangular eyes with pierced pupils, flared nostrils, parted lips, and an elaborate geometric bun hairstyle.](images/A2-02-nok-terracotta-human-head.png)
 
 ### 3. Daima (Lake Chad Region)
 

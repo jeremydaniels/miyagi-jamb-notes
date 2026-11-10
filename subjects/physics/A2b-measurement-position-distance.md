@@ -131,7 +131,7 @@ In everyday English, people use "distance" and "displacement" to mean the same t
 | **Dependence on path** | Depends heavily on the path taken | Independent of the path taken; depends only on initial and final positions |
 | **Values** | Always positive | Can be positive, negative, or zero (if you return to start) |
 
-[IMAGE: A diagram illustrating distance vs displacement. Point A (House) is on the left, Point B (School) is on the right. A winding, curvy dotted line connects A to B (labeled "Distance: actual path"). A thick, straight red arrow points directly from A to B (labeled "Displacement: straight-line vector"). Clean flat textbook illustration, white background.]
+![A diagram comparing distance, shown as a curved dashed path between House and School, to displacement, shown as a straight red arrow directly connecting them.](images/A2b-02-distance-vs-displacement.png)
 
 ## Identifying distance traveled in a specified direction
 
@@ -213,7 +213,7 @@ The most common system for locating points on a flat surface (2D) is the **Carte
 If an object moves from position $P(x_1, y_1)$ to position $Q(x_2, y_2)$, we can find the magnitude of its straight-line displacement (distance between the two points) using a formula derived from the Pythagoras theorem:
 $$d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$
 
-[IMAGE: A Cartesian coordinate graph. An x-axis and a y-axis meet at origin O. Two points are plotted: P(x1, y1) and Q(x2, y2). A straight diagonal line 'd' connects P to Q. Dotted lines form a right-angled triangle under the line PQ, with the horizontal leg labelled (x2 - x1) and the vertical leg labelled (y2 - y1). Clean flat textbook illustration, white background.]
+![A Cartesian coordinate graph illustrating the distance formula with points P and Q connected by line d forming a right triangle with legs x2 minus x1 and y2 minus y1.](images/A2b-03-cartesian-coordinate-distance-graph.png)
 
 **Example 7: Distance from the origin**
 Find the displacement of a particle that moves from the origin to a point with coordinates $(6, 8)$ in metres.

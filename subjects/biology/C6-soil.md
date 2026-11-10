@@ -199,7 +199,7 @@ Soils are named after the particles that are most important in them.
 
 **Textbook variation (very important for porosity):** in school biology and agriculture textbooks, **porosity** is usually used to mean how freely air and water can pass through a soil. In that sense, sandy soil is called "most porous" and clay "least porous", and this is the answer JAMB expects. In strict soil science, porosity means the **total volume of pore space**. Because clay has a huge number of tiny pores, a clay soil actually has a **larger total pore space** (often about 50% or more) than a sandy soil (often about 35 to 45%), even though its pores are too small for water to drain through quickly. The ability to let water pass through is properly called **permeability**. In the exam, use the textbook meaning: sand = high porosity, good aeration, fast drainage; clay = low porosity, poor aeration, slow drainage.
 
-[IMAGE: Three side-by-side magnified circular views of soil, each inside a round "magnifying lens" frame. Left: "sandy soil" with large rounded pale-yellow grains, big gaps filled with air (pale) and only thin water films. Middle: "loamy soil" with a mixture of large, medium and tiny grains clumped into crumbs with dark brown humus, medium air spaces and some water. Right: "clayey soil" with very many tiny, flat, tightly packed reddish-brown particles, tiny spaces mostly filled with blue water and almost no air. Labels: "Sandy soil", "Loamy soil", "Clayey soil", "Sand grain", "Air space", "Water film", "Humus", "Soil crumb", "Clay particles". Clean flat textbook style, white background.]
+![Three circular magnified views showing microscopic structures of sandy soil with large grains, loamy soil with mixed particle crumbs, and clayey soil with dense tiny flat particles.](images/C6-03-soil-texture-particle-comparison.png)
 
 ### Soil structure
 
@@ -235,7 +235,7 @@ Particles are held together in aggregates by **humus**, **clay**, gums and slime
 - **Improved by:** adding organic manure and compost, mulching, growing grasses and legumes, encouraging earthworms, liming acid soils, and tilling only when the soil is moist (not wet).
 - **Damaged by:** loss of humus (from burning and continuous cropping), **compaction** by heavy machinery and trampling animals, ploughing when the soil is too wet, and the hammering of raindrops on bare soil.
 
-[IMAGE: Four small square soil blocks shown side by side as simple 3D cubes, each showing a different soil structure. 1: crumb structure with small rounded porous crumbs and visible gaps; 2: single-grained structure with loose separate sand grains; 3: platy structure with thin horizontal plates; 4: blocky structure with angular blocks separated by cracks. Labels: "Crumb (granular)", "Single-grained", "Platy", "Blocky". Earthy brown tones. Clean flat textbook style, white background.]
+![Illustration of four soil structures shown as cubes side by side, depicting crumb, single-grained, platy, and blocky soil structures.](images/C6-04-soil-structure-types.png)
 
 ## Physical properties of soil types: simple measurements
 

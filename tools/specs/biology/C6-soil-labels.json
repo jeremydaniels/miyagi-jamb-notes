@@ -690,5 +690,121 @@
     "R"
    ]
   ]
+ },
+ "C6-03-soil-texture-particle-comparison": {
+  "regions": [
+   "Air space",
+   "Humus"
+  ],
+  "labels": [
+   [
+    "Sandy soil",
+    [
+     56,
+     509
+    ],
+    "L"
+   ],
+   [
+    "Loamy soil",
+    [
+     517,
+     509
+    ],
+    "R"
+   ],
+   [
+    "Clayey soil",
+    [
+     967,
+     509
+    ],
+    "R"
+   ],
+   [
+    "Sand grain",
+    [
+     114,
+     396
+    ],
+    "L"
+   ],
+   [
+    "Air space",
+    [
+     112,
+     513
+    ],
+    "L"
+   ],
+   [
+    "Water film",
+    [
+     132,
+     539
+    ],
+    "L"
+   ],
+   [
+    "Humus",
+    [
+     640,
+     442
+    ],
+    "R"
+   ],
+   [
+    "Soil crumb",
+    [
+     625,
+     463
+    ],
+    "R"
+   ],
+   [
+    "Clay particles",
+    [
+     928,
+     528
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C6-04-soil-structure-types": {
+  "labels": [
+   [
+    "Crumb (granular)",
+    [
+     142,
+     509
+    ],
+    "L"
+   ],
+   [
+    "Single-grained",
+    [
+     389,
+     509
+    ],
+    "L"
+   ],
+   [
+    "Platy",
+    [
+     634,
+     512
+    ],
+    "R"
+   ],
+   [
+    "Blocky",
+    [
+     880,
+     509
+    ],
+    "R"
+   ]
+  ]
  }
 }

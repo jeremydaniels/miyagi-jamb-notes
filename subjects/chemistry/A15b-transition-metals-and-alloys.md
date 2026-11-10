@@ -63,7 +63,7 @@ A complex ion consists of a central metal ion surrounded by molecules or negativ
 - They have a **small size and high positive charge density**, which strongly attracts electron pairs.
 - They have **vacant d-orbitals** of low energy that can accept lone pairs of electrons from ligands to form coordinate (dative) covalent bonds.
 
-[IMAGE: Diagram of a complex ion, tetraamminecopper(II) ion. A central Cu2+ ion is surrounded by four NH3 molecules arranged in a square plane. An arrow points from the nitrogen atom of each NH3 molecule to the central Cu2+ ion, representing the donation of a lone pair of electrons (coordinate bond). The entire structure is enclosed in large square brackets with a "2+" charge outside. Clean flat textbook style, white background.]
+![Diagram of tetraamminecopper II complex ion showing central copper two plus ion coordinated by four ammonia ligands in a square planar arrangement inside brackets with two plus charge.](images/A15b-01-complex-ion-coordinate-bonding.png)
 
 #### 4. Formation of Coloured Ions
 When ligands attach to a transition metal ion to form a complex, their electric fields cause the five normally equal-energy 3d orbitals to split into two slightly different energy levels. Because the d-orbitals are *partially filled*, an electron can absorb a specific wavelength of visible light to jump from the lower d-level to the higher d-level (a **d-d electron transition**). The colour we see is the complementary colour of the light that was absorbed. 
@@ -134,7 +134,7 @@ Iron is extracted from its ores by **reduction** with carbon (coke) in a huge, t
    $\text{CaO(s)} + \text{SiO}_2\text{(s)} \rightarrow \text{CaSiO}_3\text{(l)}$
 5. The molten slag is less dense than the molten iron. It floats on top of the liquid iron pool at the bottom of the furnace, protecting the iron from being re-oxidised by the incoming hot air blast. The iron and slag are tapped off separately.
 
-[IMAGE: Diagram of a Blast Furnace. A tall tapering tower structure. At the top, a hopper feeds in 'Iron ore, Coke, Limestone'. An exhaust pipe at the top lets out 'Waste gases (CO2, N2)'. Near the bottom, pipes blow in 'Hot air blast'. Inside, label three temperature zones: top (about 400°C), middle (about 1000°C), bottom (about 1500°C). At the very bottom, two separate tap-holes: the upper one drains 'Molten slag', the lower one drains 'Molten iron'. Clean flat textbook style, white background.]
+![A diagram of a blast furnace showing the hopper at top, internal temperature zones, hot air blast pipes, and separate outlets for slag and molten iron.](images/A15b-02-blast-furnace-cross-section.png)
 
 **Worked Example 3: Extraction calculation for Iron**
 What mass of iron is produced from $1.6 \text{ kg}$ of pure haematite ($\text{Fe}_2\text{O}_3$)? [$\text{Fe} = 56, \text{O} = 16$]
@@ -262,7 +262,7 @@ Because copper metal cannot displace hydrogen, it cannot be used directly with d
 - Used as the electrolyte in copper electroplating and purification.
 - When heated heavily, the blue crystals lose their water of crystallization to become a **white powder** (anhydrous $\text{CuSO}_4$). This white powder is used in the laboratory to **test for the presence of water**, as adding even a drop of water immediately turns it blue again.
 
-[IMAGE: Flow diagram of CuSO4 crystal preparation. Panel 1: A beaker on a tripod over a Bunsen burner, a spatula adding black CuO powder into dilute H2SO4. Panel 2: The mixture being filtered through a filter funnel lined with filter paper into a conical flask; black solid stays in the paper, blue liquid drips through. Panel 3: The blue liquid in an evaporating dish being heated gently. Panel 4: The dish removed from heat, showing bright blue diamond-shaped crystals forming. Clean flat textbook style, white background.]
+![Four-step diagram showing copper sulfate crystal preparation: reacting copper oxide with heated acid, filtering excess solid, gently evaporating solution, and crystallization upon cooling.](images/A15b-03-copper-sulphate-crystallization-procedure.png)
 
 ## Common Alloys
 

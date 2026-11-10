@@ -2,14 +2,6 @@
  "E1-01-farm-surveying-tools-collection": {
   "labels": [
    [
-    "Gunter's chain",
-    [
-     225,
-     204
-    ],
-    "L"
-   ],
-   [
     "brass handle",
     [
      107,
@@ -34,22 +26,6 @@
     "L"
    ],
    [
-    "measuring tape",
-    [
-     619,
-     521
-    ],
-    "R"
-   ],
-   [
-    "ranging poles",
-    [
-     915,
-     528
-    ],
-    "R"
-   ],
-   [
     "red and white bands",
     [
      828,
@@ -65,6 +41,25 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Gunter's chain",
+    279,
+    915
+   ],
+   [
+    "measuring tape",
+    608,
+    830
+   ],
+   [
+    "ranging poles",
+    872,
+    971
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

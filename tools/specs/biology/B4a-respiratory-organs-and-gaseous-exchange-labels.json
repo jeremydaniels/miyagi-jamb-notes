@@ -1149,5 +1149,64 @@
     "L"
    ]
   ]
+ },
+ "B4a-07-avian-respiratory-system-air": {
+  "caption_below": "One-way flow of air through lung.",
+  "regions": [
+   "lung",
+   "anterior air sacs",
+   "posterior air sacs",
+   "air sac in hollow bone"
+  ],
+  "labels": [
+   [
+    "trachea",
+    [
+     239,
+     312
+    ],
+    "L"
+   ],
+   [
+    "lung",
+    [
+     464,
+     564
+    ],
+    "L"
+   ],
+   [
+    "anterior air sacs",
+    [
+     322,
+     335
+    ],
+    "L"
+   ],
+   [
+    "posterior air sacs",
+    [
+     658,
+     658
+    ],
+    "R"
+   ],
+   [
+    "air sac in hollow bone",
+    [
+     501,
+     398
+    ],
+    "L"
+   ],
+   [
+    "sternum (breastbone)",
+    [
+     267,
+     611
+    ],
+    "L"
+   ]
+  ]
  }
 }

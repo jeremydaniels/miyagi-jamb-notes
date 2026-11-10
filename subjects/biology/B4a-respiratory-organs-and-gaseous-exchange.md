@@ -220,7 +220,7 @@ Birds are very active, warm-blooded animals that fly, which needs a great deal o
 
 **Textbook variation:** the number of air sacs differs between bird species (commonly nine, but from about seven to twelve). Some school textbooks simply say birds have "lungs with air sacs" without describing the one-way flow.
 
-[IMAGE: Simplified side view of a bird's body outline showing a pair of small spongy lungs near the backbone and ribs, connected to several balloon-like air sacs (anterior air sacs in front, posterior air sacs behind and in the abdomen) and extensions into a hollow wing bone. Arrows show a one-way flow of air from the trachea to the posterior air sacs, through the lungs, to the anterior air sacs and out. Labels to add: "trachea", "lung", "anterior air sacs", "posterior air sacs", "air sac in hollow bone", "one-way flow of air through lung", "sternum (breastbone)". Clean flat textbook style, white background.]
+![Simplified side view of a bird showing its respiratory system with trachea, lungs, anterior and posterior air sacs, pneumatic wing bone, and breastbone.](images/B4a-07-avian-respiratory-system-air.png)
 
 ### Stomata
 

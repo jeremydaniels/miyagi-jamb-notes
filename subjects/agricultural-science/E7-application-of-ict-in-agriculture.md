@@ -45,7 +45,7 @@ Hardware refers to the physical components of the computer that you can see and 
 | **Output devices** | Used to display or present the processed information to the user. | **Monitor / Screen** (displays weather maps), **Printer** (prints out financial statements and invoices), **Actuators** (valves or motors controlled by the computer to release irrigation water). |
 | **Storage devices** | Used to save data permanently so it is not lost when the power goes off. | **Hard Disk Drive (HDD)**, Solid State Drive (SSD), **USB flash drives**, memory cards (used in drones). |
 
-[IMAGE: A block diagram showing the basic components of a computer system. On the left, a box labeled "Input Devices (Keyboard, Mouse, Sensors)" points with an arrow into a central, larger box labeled "Central Processing Unit (CPU)". Inside the CPU box are "Control Unit" and "Arithmetic Logic Unit". Below the CPU box is "Storage (Hard Drive, Flash Drive)" with a two-way arrow connecting it to the CPU. On the right, an arrow points from the CPU out to a box labeled "Output Devices (Monitor, Printer)". Clean flat textbook illustration, white background.]
+![Block diagram of computer components showing input devices pointing to a central processing unit containing control and arithmetic logic units, connected with storage and pointing to output devices.](images/E7-01-computer-system-block.png)
 
 ### 2. Software
 Software consists of the programs and codes that tell the hardware how to operate. It cannot be touched.
@@ -100,7 +100,7 @@ The mobile phone is the most revolutionary ICT tool in African agriculture becau
 *   **Smartphones:** Allow farmers to take photos of diseased plants, record videos, and use applications like WhatsApp to communicate with buyers and experts.
 *   **Mobile Money:** Services (like PoS systems or mobile wallets) allow farmers in unbanked villages to receive payments instantly and securely.
 
-[IMAGE: A rural Nigerian farmer standing in a maize field, holding a basic mobile phone. Above the phone is an enlarged speech bubble showing an SMS text: "Market Alert: Maize price is ₦35,000 per bag in Kano. Weather: Expect heavy rain." The farmer is smiling. Clean flat textbook illustration, white background.]
+![A smiling Nigerian farmer in a maize field looking at a phone with a speech bubble showing sacks of grain with a currency symbol and rain clouds.](images/E7-02-farmer-using-mobile-phone.png)
 
 ### The Internet
 The internet is a vast global network connecting millions of computers and devices. It provides access to limitless information. Farmers access the internet via smartphones, computers, or tablets.

@@ -76,7 +76,7 @@ In the early church at Thessalonica, some Christians misunderstood the teaching 
 7. He commanded and exhorted such people by the Lord Jesus Christ to work with quietness and eat their own bread.
 8. He encouraged the rest of the believers not to be weary in doing good. If anyone disobeyed this letter, they were to note that person and have no company with him, so that he might be ashamed. However, they were not to treat him as an enemy, but admonish (correct) him as a brother.
 
-[IMAGE: A scene inside a basic first-century workshop. Paul, dressed in simple ancient robes, is sitting on a low stool and stitching a large piece of heavy canvas/leather to make a tent. He looks focused and tired, but determined. Next to him is a completed tent section. A subtle ray of light highlights his honest manual labour, illustrating II Thessalonians 3:8. Clean flat textbook style, white background.]
+![A bearded man in ancient robes sits on a wooden stool sewing canvas next to a small tent in a workshop filled with fabrics.](images/D10-03-apostle-paul-tentmaking-scene.png)
 
 ### Working heartily as unto the Lord (Colossians 3:23-25)
 

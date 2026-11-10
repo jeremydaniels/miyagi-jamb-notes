@@ -61,7 +61,7 @@ The angular frequency $\omega$ is related to the ordinary frequency $f$ by the f
 $$\omega = 2\pi f$$
 where $f$ is the frequency in Hertz ($\text{Hz}$). In Nigeria, the standard frequency of the national a.c. supply is $50\ \text{Hz}$, which means the current completely reverses its direction and returns to its starting point 50 times every single second.
 
-[IMAGE: Two graphs placed side-by-side. The left graph shows d.c. voltage: a straight, flat horizontal line above the time (x) axis. The right graph shows a.c. voltage: a smooth, repeating sine wave curving smoothly above and below the horizontal time axis, with the maximum height of the crest labelled as V_0 (Peak Voltage). Both graphs have Voltage on the y-axis and Time on the x-axis. Clean flat textbook style, white background.]
+![Side-by-side comparison graphs of DC voltage showing a constant horizontal line and AC voltage showing a sinusoidal waveform with peak voltage labelled.](images/A36-01-dc-vs-ac-waveform.png)
 
 ---
 
@@ -125,7 +125,7 @@ When an alternating voltage is applied across a pure resistor ($R$):
 - Ohm's law applies directly: $V_{rms} = I_{rms} R$ or $V_0 = I_0 R$.
 - The current and the voltage reach their peaks and cross zero at exactly the same time. We say that the current and voltage are **in phase**. 
 
-[IMAGE: A circuit diagram of an a.c. source (a circle with a sine wave inside) connected in series with a resistor (a zig-zag line). Next to it, a graph showing two sine waves (Voltage and Current) that rise and fall exactly together in perfect synchronization. Clean flat textbook style, white background.]
+![A purely resistive AC circuit diagram alongside a waveform graph showing voltage and current oscillating in phase over one full cycle.](images/A36-02-ac-circuit-resistive-waveform.png)
 
 ### A.C. Source Connected To A Capacitor-Capacitive Reactance
 
@@ -167,7 +167,7 @@ To easily analyze and add a.c. voltages that are out of phase, we draw vector (o
 - For a **capacitor**, the current arrow points to the right (reference), while the voltage arrow ($V_C$) points **downwards** (lagging by $90^\circ$).
 - For an **inductor**, the current arrow points to the right (reference), while the voltage arrow ($V_L$) points **upwards** (leading by $90^\circ$).
 
-[IMAGE: A three-panel vector (phasor) diagram. Panel 1 (Resistor): Two horizontal arrows pointing right, labelled V_R and I. Panel 2 (Capacitor): A horizontal arrow pointing right labelled I, and a vertical arrow pointing down labelled V_C with a 90° angle. Panel 3 (Inductor): A horizontal arrow pointing right labelled I, and a vertical arrow pointing up labelled V_L with a 90° angle. Clean flat textbook style, white background.]
+![Three-panel phasor diagram showing current and voltage relationships for a resistor in phase, a capacitor with current leading by 90 degrees, and an inductor with voltage leading by 90 degrees.](images/A36-03-ac-components-phasor-diagrams.png)
 
 ---
 
@@ -247,7 +247,7 @@ By mapping $V_R$, $V_L$, and $V_C$ onto a single graph, we can find the **phase 
 From the combined vector diagram (using trigonometry: $\tan \theta = \frac{\text{Opposite}}{\text{Adjacent}}$), the phase angle is:
 $$\tan \theta = \frac{V_L - V_C}{V_R} = \frac{X_L - X_C}{R}$$
 
-[IMAGE: A combined vector (phasor) diagram for an R-L-C series circuit. A horizontal axis pointing right represents the Current (I) and V_R. A vertical axis pointing up represents V_L, and a vertical axis pointing down represents V_C. An arrow representing the net reactive voltage (V_L - V_C) points upwards (assuming V_L > V_C). A diagonal resultant vector drawn from the origin represents the Effective Voltage (V). The angle between the horizontal axis (V_R) and the resultant V is labelled as the phase angle theta (θ). Clean flat textbook style, white background.]
+![Phasor diagram of an R-L-C series circuit showing voltage vectors VR along the current axis, VL upwards, VC downwards, resultant reactive voltage VL minus VC, and effective voltage V.](images/A36-04-rlc-series-phasor.png)
 
 ### Determine The Instantaneous Power, Average Power And The Power Factor In A. C. Circuits
 
@@ -309,7 +309,7 @@ $$f_0 = \frac{1}{2\pi \sqrt{LC}}$$
 
 This is the **resonant frequency** formula. An everyday application of resonance is tuning a radio. By turning the tuning knob, you are changing the capacitance $C$ in the radio's circuit until its resonant frequency perfectly matches the frequency of the radio waves being broadcast by a station (e.g., $96.9\ \text{MHz}$). At that frequency, the current is maximum, and the radio picks up that station clearly.
 
-[IMAGE: A graph showing the Resonance Curve. The vertical y-axis is labelled "Current (I)" and the horizontal x-axis is labelled "Frequency (f)". A bell-shaped curve starts low, rises to a high peak, and falls low again. A dotted vertical line drops from the very peak of the curve down to the x-axis, marking the point as "Resonant Frequency (f_0)". Clean flat textbook style, white background.]
+![A resonance curve showing current plotted against frequency with a prominent central peak marked by a dashed line at the resonant frequency.](images/A36-05-ac-resonance-curve-graph.png)
 
 ### Recognize The Condition By Which The Circuit Is At Resonance
 

@@ -1,0 +1,22 @@
+[
+ [
+  "A36-01-dc-vs-ac-waveform",
+  "Two graphs placed side-by-side. The left graph shows d.c. voltage: a straight, flat horizontal line above the time (x) axis. The right graph shows a.c. voltage: a smooth, repeating sine wave curving smoothly above and below the horizontal time axis, with the maximum height of the crest labelled as V_0 (Peak Voltage). Both graphs have Voltage on the y-axis and Time on the x-axis."
+ ],
+ [
+  "A36-02-ac-circuit-resistive-waveform",
+  "A circuit diagram of an a.c. source (a circle with a sine wave inside) connected in series with a resistor (a zig-zag line). Next to it, a graph showing two sine waves (Voltage and Current) that rise and fall exactly together in perfect synchronization."
+ ],
+ [
+  "A36-03-ac-components-phasor-diagrams",
+  "A three-panel vector (phasor) diagram. Panel 1 (Resistor): Two horizontal arrows pointing right, labelled V_R and I. Panel 2 (Capacitor): A horizontal arrow pointing right labelled I, and a vertical arrow pointing down labelled V_C with a 90° angle. Panel 3 (Inductor): A horizontal arrow pointing right labelled I, and a vertical arrow pointing up labelled V_L with a 90° angle."
+ ],
+ [
+  "A36-04-rlc-series-phasor",
+  "A combined vector (phasor) diagram for an R-L-C series circuit. A horizontal axis pointing right represents the Current (I) and V_R. A vertical axis pointing up represents V_L, and a vertical axis pointing down represents V_C. An arrow representing the net reactive voltage (V_L - V_C) points upwards (assuming V_L > V_C). A diagonal resultant vector drawn from the origin represents the Effective Voltage (V). The angle between the horizontal axis (V_R) and the resultant V is labelled as the phase angle theta (θ)."
+ ],
+ [
+  "A36-05-ac-resonance-curve-graph",
+  "A graph showing the Resonance Curve. The vertical y-axis is and the horizontal x-axis is. A bell-shaped curve starts low, rises to a high peak, and falls low again. A dotted vertical line drops from the very peak of the curve down to the x-axis, marking the point as \"Resonant Frequency (f_0)\"."
+ ]
+]

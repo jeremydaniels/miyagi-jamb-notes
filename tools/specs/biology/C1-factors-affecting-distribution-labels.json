@@ -1,0 +1,722 @@
+{
+ "C1-04-altitudinal-zonation-mountain": {
+  "labels": [
+   [
+    "lowland (hot)",
+    [
+     241,
+     494
+    ],
+    "L"
+   ],
+   [
+    "montane forest",
+    [
+     476,
+     527
+    ],
+    "L"
+   ],
+   [
+    "montane grassland",
+    [
+     694,
+     354
+    ],
+    "R"
+   ],
+   [
+    "plateau top (cool)",
+    [
+     769,
+     244
+    ],
+    "R"
+   ],
+   [
+    "temperature falls as altitude increases",
+    [
+     49,
+     542
+    ],
+    "L"
+   ],
+   [
+    "cattle (few tsetse flies)",
+    [
+     658,
+     321
+    ],
+    "R"
+   ],
+   [
+    "tea and Irish potato grown",
+    [
+     866,
+     390
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-05-soil-structure-comparison": {
+  "labels": [
+   [
+    "sandy soil",
+    [
+     199,
+     459
+    ],
+    "L"
+   ],
+   [
+    "large particles",
+    [
+     142,
+     742
+    ],
+    "L"
+   ],
+   [
+    "large air spaces",
+    [
+     223,
+     619
+    ],
+    "L"
+   ],
+   [
+    "drains quickly",
+    [
+     167,
+     760
+    ],
+    "L"
+   ],
+   [
+    "loamy soil",
+    [
+     528,
+     463
+    ],
+    "R"
+   ],
+   [
+    "humus",
+    [
+     518,
+     538
+    ],
+    "R"
+   ],
+   [
+    "earthworm",
+    [
+     437,
+     571
+    ],
+    "L"
+   ],
+   [
+    "clay soil",
+    [
+     805,
+     675
+    ],
+    "R"
+   ],
+   [
+    "tiny particles",
+    [
+     787,
+     670
+    ],
+    "R"
+   ],
+   [
+    "waterlogged",
+    [
+     835,
+     473
+    ],
+    "R"
+   ],
+   [
+    "holds water",
+    [
+     823,
+     476
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-06-secchi-disc-turbidity-measurement": {
+  "labels": [
+   [
+    "Secchi disc (black and white quarters)",
+    [
+     550,
+     663
+    ],
+    "R"
+   ],
+   [
+    "weight",
+    [
+     550,
+     723
+    ],
+    "R"
+   ],
+   [
+    "calibrated rope",
+    [
+     551,
+     329
+    ],
+    "R"
+   ],
+   [
+    "water surface",
+    [
+     640,
+     490
+    ],
+    "R"
+   ],
+   [
+    "depth where disc disappears (D1)",
+    [
+     380,
+     670
+    ],
+    "L"
+   ],
+   [
+    "depth where disc reappears (D2)",
+    [
+     741,
+     615
+    ],
+    "R"
+   ],
+   [
+    "Secchi depth = (D1 + D2) \u00f7 2",
+    [
+     564,
+     566
+    ],
+    "R"
+   ],
+   [
+    "shady side",
+    [
+     412,
+     520
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C1-07-six-thermometer-apparatus": {
+  "labels": [
+   [
+    "bulb full of alcohol",
+    [
+     410,
+     223
+    ],
+    "L"
+   ],
+   [
+    "alcohol",
+    [
+     407,
+     437
+    ],
+    "L"
+   ],
+   [
+    "mercury",
+    [
+     508,
+     856
+    ],
+    "L"
+   ],
+   [
+    "steel index (minimum)",
+    [
+     405,
+     521
+    ],
+    "L"
+   ],
+   [
+    "steel index (maximum)",
+    [
+     619,
+     712
+    ],
+    "R"
+   ],
+   [
+    "minimum scale",
+    [
+     329,
+     518
+    ],
+    "L"
+   ],
+   [
+    "maximum scale",
+    [
+     689,
+     524
+    ],
+    "R"
+   ],
+   [
+    "vapour space",
+    [
+     617,
+     186
+    ],
+    "R"
+   ],
+   [
+    "magnet (for resetting)",
+    [
+     866,
+     899
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-08-rain-gauge-apparatus": {
+  "labels": [
+   [
+    "rain",
+    [
+     523,
+     150
+    ],
+    "R"
+   ],
+   [
+    "funnel",
+    [
+     493,
+     369
+    ],
+    "L"
+   ],
+   [
+    "rim (level, above ground)",
+    [
+     497,
+     252
+    ],
+    "L"
+   ],
+   [
+    "outer cylinder",
+    [
+     379,
+     815
+    ],
+    "L"
+   ],
+   [
+    "collecting bottle",
+    [
+     501,
+     571
+    ],
+    "L"
+   ],
+   [
+    "ground level",
+    [
+     247,
+     555
+    ],
+    "L"
+   ],
+   [
+    "measuring cylinder (graduated in mm)",
+    [
+     726,
+     327
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-09-hygrometer-apparatus": {
+  "labels": [
+   [
+    "dry bulb thermometer",
+    [
+     402,
+     390
+    ],
+    "L"
+   ],
+   [
+    "wet bulb thermometer",
+    [
+     619,
+     380
+    ],
+    "R"
+   ],
+   [
+    "muslin wick",
+    [
+     620,
+     640
+    ],
+    "R"
+   ],
+   [
+    "water reservoir (distilled water)",
+    [
+     619,
+     813
+    ],
+    "R"
+   ],
+   [
+    "evaporation cools the wet bulb",
+    [
+     555,
+     518
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-10-wind-vane-anemometer": {
+  "labels": [
+   [
+    "wind vane",
+    [
+     326,
+     390
+    ],
+    "L"
+   ],
+   [
+    "arrowhead (points to where the wind comes from)",
+    [
+     182,
+     262
+    ],
+    "L"
+   ],
+   [
+    "tail fin",
+    [
+     487,
+     283
+    ],
+    "L"
+   ],
+   [
+    "compass directions",
+    [
+     319,
+     492
+    ],
+    "L"
+   ],
+   [
+    "cup anemometer",
+    [
+     774,
+     397
+    ],
+    "R"
+   ],
+   [
+    "cups",
+    [
+     640,
+     268
+    ],
+    "R"
+   ],
+   [
+    "spindle",
+    [
+     774,
+     404
+    ],
+    "R"
+   ],
+   [
+    "counter (meter)",
+    [
+     774,
+     658
+    ],
+    "R"
+   ],
+   [
+    "wind",
+    [
+     157,
+     380
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C1-11-ecological-measurement-instruments-set": {
+  "labels": [
+   [
+    "pH meter",
+    [
+     100,
+     430
+    ],
+    "L"
+   ],
+   [
+    "probe (electrode)",
+    [
+     218,
+     571
+    ],
+    "L"
+   ],
+   [
+    "universal indicator paper",
+    [
+     95,
+     761
+    ],
+    "L"
+   ],
+   [
+    "colour chart",
+    [
+     274,
+     770
+    ],
+    "L"
+   ],
+   [
+    "light meter",
+    [
+     361,
+     547
+    ],
+    "L"
+   ],
+   [
+    "hydrometer",
+    [
+     522,
+     595
+    ],
+    "R"
+   ],
+   [
+    "scale on stem",
+    [
+     520,
+     390
+    ],
+    "R"
+   ],
+   [
+    "soil auger",
+    [
+     689,
+     464
+    ],
+    "R"
+   ],
+   [
+    "T-shaped handle",
+    [
+     670,
+     247
+    ],
+    "R"
+   ],
+   [
+    "spiral bit",
+    [
+     652,
+     702
+    ],
+    "R"
+   ],
+   [
+    "soil sample",
+    [
+     735,
+     719
+    ],
+    "R"
+   ],
+   [
+    "barometer",
+    [
+     883,
+     520
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-12-soil-drainage-experiment-apparatus": {
+  "labels": [
+   [
+    "sandy soil",
+    [
+     199,
+     390
+    ],
+    "L"
+   ],
+   [
+    "loamy soil",
+    [
+     512,
+     390
+    ],
+    "R"
+   ],
+   [
+    "clay soil",
+    [
+     822,
+     390
+    ],
+    "R"
+   ],
+   [
+    "funnel",
+    [
+     107,
+     335
+    ],
+    "L"
+   ],
+   [
+    "cotton wool plug",
+    [
+     198,
+     487
+    ],
+    "L"
+   ],
+   [
+    "measuring cylinder",
+    [
+     245,
+     636
+    ],
+    "L"
+   ],
+   [
+    "drained water",
+    [
+     512,
+     828
+    ],
+    "R"
+   ],
+   [
+    "most water drained",
+    [
+     199,
+     796
+    ],
+    "L"
+   ],
+   [
+    "least water drained",
+    [
+     823,
+     864
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C1-13-human-impact-ecosystems": {
+  "labels": [
+   [
+    "deforestation",
+    [
+     256,
+     128
+    ],
+    "L"
+   ],
+   [
+    "bush burning",
+    [
+     768,
+     128
+    ],
+    "R"
+   ],
+   [
+    "farming (monocropping and chemicals)",
+    [
+     256,
+     384
+    ],
+    "L"
+   ],
+   [
+    "urbanisation and roads",
+    [
+     768,
+     384
+    ],
+    "R"
+   ],
+   [
+    "dam and reservoir",
+    [
+     256,
+     640
+    ],
+    "L"
+   ],
+   [
+    "pollution (oil spill and gas flaring)",
+    [
+     768,
+     640
+    ],
+    "R"
+   ],
+   [
+    "overgrazing",
+    [
+     256,
+     896
+    ],
+    "L"
+   ],
+   [
+    "hunting",
+    [
+     768,
+     896
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -260,7 +260,7 @@ At 100% relative humidity, the air is **saturated** and cannot take in any more 
 
 **Nigerian examples (approximate heights):** the Jos Plateau averages over 1,200 m; the Obudu Plateau is roughly 1,500–1,600 m; the Mambilla Plateau averages about 1,500 m and includes **Chappal Waddi** (about 2,419 m), the highest point in Nigeria, on the border with Cameroon. Heights vary slightly between sources.
 
-[IMAGE: Side view of a mountain rising from a hot lowland plain on the left to a cool plateau top on the right, showing how vegetation changes with altitude. At the foot: tall lowland forest or savanna trees with a thermometer showing a high reading. Halfway up: denser, shorter montane forest with mist. At the top: open montane grassland with grazing cattle, a tea bush and a potato plant, and a thermometer showing a lower reading. A vertical arrow on the left side pointing upwards. Labels: "lowland (hot)", "montane forest", "montane grassland", "plateau top (cool)", "temperature falls as altitude increases", "cattle (few tsetse flies)", "tea and Irish potato grown". Soft greens and browns with pale blue sky. Clean flat textbook style, white background.]
+![An illustration showing altitudinal zonation on a mountain slope from warm lowland forest and savanna up through misty montane forest to cool grassland plateau with crops and livestock.](images/C1-04-altitudinal-zonation-mountain.png)
 
 ### 6. Salinity
 
@@ -384,7 +384,7 @@ Deep soils allow deep roots and large trees; thin soils on rocky hills support o
 
 **Summary of edaphic effects on distribution:** soil type, water, air, humus, minerals and pH together decide which plants grow in an area. For example, in Nigeria cocoa grows best on deep, well-drained, fertile loamy soils of the south-west; rice grows on clayey floodplains (fadama) of the Niger and Benue valleys and in states such as Kebbi, Niger and Ebonyi; groundnut and millet grow on the sandy soils of the north.
 
-[IMAGE: Three cut-away blocks of soil side by side, each showing particles, water and air spaces. Left: sandy soil with large rounded particles, large air spaces and water draining away downwards, with a millet plant on top. Middle: loamy soil with mixed particle sizes, dark humus pieces, an earthworm and a healthy maize plant on top. Right: clay soil with very small tightly packed particles, a layer of standing water on top and a rice plant. Labels: "sandy soil", "large particles", "large air spaces", "drains quickly", "loamy soil", "humus", "earthworm", "clay soil", "tiny particles", "waterlogged", "holds water". Soft browns, tans and greys with blue water. Clean flat textbook style, white background.]
+![Three cross-sectional soil blocks showing sandy soil with draining water under millet, loamy soil with humus and earthworm under maize, and clay soil with pooled water under rice.](images/C1-05-soil-structure-comparison.png)
 
 ### 10. Other abiotic factors
 
@@ -504,7 +504,7 @@ The **Secchi disc** is used to measure the **turbidity** (cloudiness) of water, 
 
 **Limitations:** the result depends on the observer's eyesight, the amount of sunlight and the surface conditions (waves). It cannot be used where the water is too shallow for the disc to disappear (the disc reaches the bottom while still visible).
 
-[IMAGE: A person kneeling on a small wooden jetty over a pond, lowering a Secchi disc on a marked rope into green-brown water. Show a cut-away side view of the water: the round disc with four alternating black and white quarters, a small weight underneath, sinking down; the disc fades as it goes deeper. A ruler-style scale along the rope. Two dotted horizontal lines in the water, one where the disc disappears on lowering and one slightly higher where it reappears on raising. Labels: "Secchi disc (black and white quarters)", "weight", "calibrated rope", "water surface", "depth where disc disappears (D1)", "depth where disc reappears (D2)", "Secchi depth = (D1 + D2) ÷ 2", "shady side". Soft blues, greens and browns. Clean flat textbook style, white background.]
+![Illustration of a person kneeling on a wooden dock lowering a black and white Secchi disc with a calibrated rope into pond water to measure water clarity.](images/C1-06-secchi-disc-turbidity-measurement.png)
 
 ### 2. The thermometer (measuring temperature)
 
@@ -545,7 +545,7 @@ Ecologists usually want to know the **highest** and **lowest** temperatures in a
 
 **Worked example:** a maximum and minimum thermometer in a school garden in Kano records a maximum of 38 °C and a minimum of 22 °C. The daily temperature range = 38 − 22 = **16 °C**.
 
-[IMAGE: Front view of a U-shaped maximum and minimum (Six's) thermometer mounted on a white backing board. Left limb with a completely full alcohol bulb at the top; right limb with a partly filled bulb at the top with a vapour space. A silver mercury thread fills the bottom of the U-bend. A small dark steel index rests above the mercury in each limb. A scale beside each limb (the minimum scale numbers increase downwards; the maximum scale numbers increase upwards). A small horseshoe magnet beside the thermometer. Labels: "bulb full of alcohol", "alcohol", "mercury", "steel index (minimum)", "steel index (maximum)", "minimum scale", "maximum scale", "vapour space", "magnet (for resetting)". Soft blue alcohol, silver mercury, grey board. Clean flat textbook style, white background.]
+![Diagram of a U-shaped maximum and minimum thermometer mounted on a board with alcohol bulbs, mercury thread, steel indices, scale bars, and a reset magnet.](images/C1-07-six-thermometer-apparatus.png)
 
 ### 3. The rain gauge (measuring rainfall)
 
@@ -572,7 +572,7 @@ A **rain gauge** measures the amount of **rainfall**, in **millimetres (mm)**. A
 
 **Uses:** recording the rainfall pattern of an area; deciding planting dates; comparing the rainfall of different places (for example, Port Harcourt and Kano) to explain differences in vegetation.
 
-[IMAGE: Cut-away side view of a standard rain gauge set in the ground in an open grassy area, with rain falling. Show the outer metal cylinder with part of it below ground, a funnel at the top with its rim level, rain drops entering the funnel and running down into a glass collecting bottle inside. Beside the gauge, a separate tall measuring cylinder marked in millimetres, with collected water in it. Labels: "rain", "funnel", "rim (level, above ground)", "outer cylinder", "collecting bottle", "ground level", "measuring cylinder (graduated in mm)". Grey metal, pale blue water, green grass. Clean flat textbook style, white background.]
+![Cutaway diagram of a rain gauge in the ground with funnel and collecting bottle, alongside a graduated measuring cylinder with collected rainwater.](images/C1-08-rain-gauge-apparatus.png)
 
 ### 4. Hygrometer and the wet-and-dry bulb thermometer (measuring relative humidity)
 
@@ -593,7 +593,7 @@ A **hygrometer** measures **relative humidity**. The most common type in schools
 
 A **whirling hygrometer** (sling psychrometer) has the same two thermometers on a frame that is whirled around to move air quickly past the wet bulb, giving a more accurate reading. A **hair hygrometer** uses human hair, which lengthens when the air is humid and shortens when it is dry, to move a pointer. Digital hygrometers are also common.
 
-[IMAGE: Front view of a wet-and-dry bulb hygrometer: two identical thermometers mounted side by side on a white board. The right thermometer's bulb is wrapped in white muslin whose tail dips into a small container of water below. The left thermometer shows a higher reading than the right. Small curved lines rising from the muslin to show evaporation. Labels: "dry bulb thermometer", "wet bulb thermometer", "muslin wick", "water reservoir (distilled water)", "evaporation cools the wet bulb". Soft blues and greys. Clean flat textbook style, white background.]
+![Diagram of a wet-and-dry bulb hygrometer with two thermometers mounted side by side, the right bulb wrapped in a wick dipping into water with evaporation lines.](images/C1-09-hygrometer-apparatus.png)
 
 ### 5. Wind vane and anemometer (measuring wind direction and speed)
 
@@ -619,7 +619,7 @@ An **anemometer** measures **wind speed**.
 
 Wind speed can also be estimated without an instrument by observing its effects on trees, smoke and flags, using the **Beaufort scale** (from 0, calm, to 12, hurricane).
 
-[IMAGE: A wind vane and a cup anemometer standing side by side on poles on top of a building, against a white background. The wind vane has an arrowhead, a broad tail fin and fixed compass arms marked N, S, E and W below. The cup anemometer has three cups on horizontal arms spinning on a vertical spindle with a small box (counter) at the base. Small curved lines show the wind blowing from the left. Labels: "wind vane", "arrowhead (points to where the wind comes from)", "tail fin", "compass directions", "cup anemometer", "cups", "spindle", "counter (meter)", "wind". Soft greys and blues. Clean flat textbook style, white background.]
+![Illustration of a wind vane with an arrowhead, fin, and compass arms beside a cup anemometer with three cups and a meter, mounted on a rooftop.](images/C1-10-wind-vane-anemometer.png)
 
 ### 6. pH meter and indicator paper (measuring pH)
 
@@ -666,7 +666,7 @@ The samples can then be tested for water content, humus content, air content, pH
 - **Water sampling bottle:** collects water from a chosen depth for testing (oxygen, pH, salinity, temperature).
 - **Quadrats, transects, sweep nets, pitfall traps, Tullgren funnels:** these collect and count **organisms** (biotic factors) rather than measuring abiotic factors.
 
-[IMAGE: A neat set of five ecological instruments arranged in a row on a white background: (1) a pH meter with a probe dipped in a beaker of water and a strip of universal indicator paper with a colour chart; (2) a handheld light meter with a dial; (3) a glass hydrometer floating in a tall cylinder of water; (4) a soil auger with a T-shaped handle and a spiral bit, with a core of soil beside it; (5) a barometer with a round dial. Labels: "pH meter", "probe (electrode)", "universal indicator paper", "colour chart", "light meter", "hydrometer", "scale on stem", "soil auger", "T-shaped handle", "spiral bit", "soil sample", "barometer". Soft greys, blues and browns. Clean flat textbook style, white background.]
+![Five ecological instruments arranged in a row: a pH meter with probe and indicator strips, a handheld light meter, a hydrometer in water, a soil auger with core sample, and a dial barometer.](images/C1-11-ecological-measurement-instruments-set.png)
 
 ### Summary table of instruments
 
@@ -728,7 +728,7 @@ JAMB sometimes asks about experiments to find the water, air and humus content o
 - **Observation:** most water drains through the sandy soil, least through the clay soil.
 - **Conclusion:** sandy soil has the **largest particles and air spaces**, so it drains fastest and **retains least water**; clay soil **retains most water**; loamy soil is in between.
 
-[IMAGE: Three identical funnels side by side, each plugged with cotton wool and resting in a measuring cylinder. The left funnel holds pale yellow sandy soil, the middle one dark brown loamy soil, the right one grey-brown clay soil. Water is being poured into each. Below, the cylinders contain different volumes of drained water: the most under the sandy soil, a moderate amount under the loam and the least under the clay. Labels: "sandy soil", "loamy soil", "clay soil", "funnel", "cotton wool plug", "measuring cylinder", "drained water", "most water drained", "least water drained". Soft yellows, browns and blues. Clean flat textbook style, white background.]
+![Three funnels with sandy, loamy, and clay soil draining water into cylinders, showing the highest water volume under sand, moderate under loam, and least under clay.](images/C1-12-soil-drainage-experiment-apparatus.png)
 
 ## How the activities of plants and animals (particularly humans) affect distribution
 
@@ -866,7 +866,7 @@ Conservation measures (national parks, game reserves, laws against poaching) are
 - **Introduction of new species:** humans have brought in plants and animals that spread and harm local species, such as the water hyacinth in southern waterways.
 - **Conservation:** humans can also **improve** the distribution of organisms by planting trees (afforestation and reforestation, such as shelterbelts in the north), protecting habitats in national parks (Yankari Game Reserve, Kainji Lake National Park, Cross River National Park, Old Oyo National Park), and controlling pollution.
 
-[IMAGE: A single landscape scene divided into panels showing human activities that change the distribution of organisms in Nigeria: (1) a cleared forest with tree stumps and a log truck; (2) bush burning in dry savanna grass with smoke and birds flying away; (3) a large flat farm of one crop with a tractor spraying chemicals; (4) a city with buildings and a road cutting through bush; (5) a dam across a river with a large lake behind it; (6) an oil spill in a mangrove creek with dead fish and an oil-coated bird, and a gas flare in the background; (7) bare, trampled land with too many cattle and goats; (8) a hunter carrying bushmeat. Labels: "deforestation", "bush burning", "farming (monocropping and chemicals)", "urbanisation and roads", "dam and reservoir", "pollution (oil spill and gas flaring)", "overgrazing", "hunting". Soft natural colours. Clean flat textbook style, white background.]
+![An eight panel illustration showing human impacts on ecosystems including deforestation, bush burning, farming, urbanization, a dam, oil pollution, overgrazing, and hunting.](images/C1-13-human-impact-ecosystems.png)
 
 ## Key terms
 

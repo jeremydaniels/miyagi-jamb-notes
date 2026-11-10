@@ -129,7 +129,7 @@ The journey from a pollen grain on the stigma to fertilization in the ovule happ
    - **First fusion:** One male gamete (n) fuses with the **egg cell** (n) to form a diploid **zygote** (2n). This zygote will eventually develop into the plant **embryo**.
    - **Second fusion:** The second male gamete (n) moves to the centre of the embryo sac and fuses with the diploid **secondary nucleus** (2n) to form a triploid (3n) cell called the **primary endosperm nucleus**. This will develop into the **endosperm**, which stores food for the growing seed.
 
-[IMAGE: A diagram illustrating the process of double fertilization in a flower. Show a pollen grain on the stigma with a long pollen tube growing down the style, entering the ovary, and penetrating the ovule via the micropyle. Inside the pollen tube, show the two male nuclei. Inside the embryo sac, show one male nucleus fusing with the egg cell, and the other male nucleus fusing with the two polar nuclei. Labels: "pollen grain", "stigma", "style", "pollen tube", "male nuclei", "micropyle", "egg cell", "secondary (polar) nucleus". Clean flat textbook style, white background.]
+![Diagram showing double fertilization in a flower carpel, with a pollen tube growing into the ovule and sperm nuclei reaching the egg cell and polar nuclei.](images/B6-02-double-fertilization-process.png)
 
 ## Embryo formation and development
 

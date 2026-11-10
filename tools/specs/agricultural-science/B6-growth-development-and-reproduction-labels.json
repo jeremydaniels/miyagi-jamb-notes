@@ -1,4 +1,72 @@
 {
  "B6-01-gametogenesis-floral-cross-section": {},
- "B6-03-flower-fruit-development": {}
+ "B6-03-flower-fruit-development": {},
+ "B6-02-double-fertilization-process": {
+  "labels": [
+   [
+    "pollen grain",
+    [
+     544,
+     81
+    ],
+    "R"
+   ],
+   [
+    "stigma",
+    [
+     493,
+     115
+    ],
+    "L"
+   ],
+   [
+    "style",
+    [
+     495,
+     369
+    ],
+    "L"
+   ],
+   [
+    "pollen tube",
+    [
+     528,
+     357
+    ],
+    "R"
+   ],
+   [
+    "male nuclei",
+    [
+     640,
+     813
+    ],
+    "R"
+   ],
+   [
+    "micropyle",
+    [
+     513,
+     864
+    ],
+    "R"
+   ],
+   [
+    "egg cell",
+    [
+     527,
+     813
+    ],
+    "R"
+   ],
+   [
+    "secondary (polar) nucleus",
+    [
+     517,
+     726
+    ],
+    "R"
+   ]
+  ]
+ }
 }

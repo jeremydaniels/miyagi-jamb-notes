@@ -195,7 +195,7 @@ Like the short-run AC curve, the long-run LRAC curve is broadly **U-shaped** (or
    * **Managerial diseconomies:** Communication breaks down, bureaucracy increases, and it takes too long to make decisions in a massive organization.
    * **Labor diseconomies:** Workers in massive factories may feel alienated, leading to low morale, laziness, and frequent strikes.
 
-[IMAGE: A graph showing the Long-Run Average Cost curve. The horizontal axis is Quantity (Q) and the vertical axis is Average Cost. There are several small U-shaped short-run average cost curves labelled SRAC1, SRAC2, SRAC3, and SRAC4. A large, wider U-shaped curve, labelled LRAC (Envelope Curve), touches the bottom edges of these SRAC curves. Text labels point to the downward-sloping left side indicating "Economies of Scale" and the upward-sloping right side indicating "Diseconomies of Scale". Clean flat textbook illustration, white background.]
+![A graph of the Long-Run Average Cost envelope curve encompassing four short-run curves, indicating regions of economies of scale and diseconomies of scale.](images/A9-02-long-run-average-cost.png)
 
 ## The marginal cost and the supply curve of a firm
 

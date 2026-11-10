@@ -263,7 +263,7 @@ In the early 1900s, the British scientist **George Nuttall** compared the **bloo
 
 **Conclusion:** humans are **most closely related to the great apes** (chimpanzees and gorillas), then to monkeys, and more distantly to other mammals. This matches the relationships worked out from anatomy and fossils.
 
-[IMAGE: A horizontal bar chart showing the relative amount of precipitate formed when rabbit anti-human serum is mixed with serum from different animals. Bars from longest to shortest: human (100), chimpanzee (very long, slightly shorter than human), gorilla (very long), baboon (Old World monkey, medium-long), spider monkey (New World monkey, medium), dog (short), pig (short), chicken (almost none). Beside the chart, a small row of test tubes with decreasing cloudiness. Labels to add later: "relative amount of precipitate (%)", "human", "chimpanzee", "gorilla", "baboon", "spider monkey", "dog", "pig", "chicken", "more precipitate = more closely related to humans", "precipitin test". The bar lengths show the pattern only, no exact numbers other than human = 100. Clean flat textbook style, white background.]
+![Horizontal bar chart showing precipitin test results with decreasing precipitate from humans to primates, other mammals, and chickens, alongside test tubes showing corresponding decreasing cloudiness.](images/E2-08-serological-relationship-bar-chart.png)
 
 **Textbook variation:** textbooks reproduce Nuttall's results with slightly different percentages, and some show only the pattern. Learn the **pattern** (apes > Old World monkeys > New World monkeys > other mammals > birds), not exact numbers.
 
@@ -416,7 +416,7 @@ The animal groups are described in detail in `A2c-evolution-animals.md`. In orde
 | Parental care | Little (some exceptions) | Little | Little (some exceptions) | Much: incubation, feeding | **Most**: pregnancy, suckling, long care |
 | Brain | Small | Small | Larger | Large (especially the parts controlling flight) | **Largest** relative to body size, with a large cerebrum |
 
-[IMAGE: An evolutionary tree of animals drawn as a branching tree on a soft background. At the base: a single-celled protozoan (Amoeba). Branches rising in order: Hydra (coelenterate), tapeworm (flatworm), roundworm (nematode), earthworm (annelid), then a branch splitting to an insect (arthropod) and a snail (mollusc). A main trunk continues to vertebrates: a fish, then a frog (amphibian), then a lizard (reptile), which splits into two branches ending in a bird and a mammal (goat). Water shown at the lower part of the tree, land above. Labels to add later: "Protozoa", "Coelenterata", "Platyhelminthes", "Nematoda", "Annelida", "Arthropoda", "Mollusca", "Pisces", "Amphibia", "Reptilia", "Aves", "Mammalia", "invertebrates", "vertebrates", "common ancestor", "water to land". Clean flat textbook style, white background.]
+![Diagram of an animal evolutionary tree showing progression from single-celled Amoeba through aquatic invertebrates and fish, transitioning across a water boundary to terrestrial vertebrates, birds, and mammals.](images/E2-12-animal-phylogenetic-evolutionary-tree.png)
 
 **Main evolutionary trends in animals:**
 
@@ -486,7 +486,7 @@ Deletions and insertions often have **large effects** because they shift the "re
 
 **Example: sickle-cell anaemia.** It is caused by a **substitution** of a single base in the gene for the **beta chain of haemoglobin** on chromosome 11. In the DNA, the codon for the sixth amino acid is changed from **GAG** to **GTG** (A replaced by T). As a result, the amino acid **glutamic acid** is replaced by **valine** at that position in the protein. This single change makes the haemoglobin molecules stick together at low oxygen levels, so the red cells become sickle-shaped (see `D2b-applications-of-heredity.md`).
 
-[IMAGE: Diagram of the sickle-cell mutation in three linked rows. Top row: two short DNA strands side by side as coloured base sequences, normal (…C T G A G G…) and sickle (…C T G T G G…), with the single changed base A to T highlighted in red. Middle row: the corresponding short chains of amino acid beads, with the sixth bead labelled "glutamic acid" (blue) in the normal chain and "valine" (red) in the sickle chain. Bottom row: a normal round biconcave red blood cell beside a sickle-shaped red blood cell. Labels to add later: "normal DNA: GAG", "mutated DNA: GTG", "base substitution (A → T)", "glutamic acid", "valine", "normal haemoglobin (HbA)", "sickle haemoglobin (HbS)", "normal red cell", "sickled red cell". Clean flat textbook style, white background.]
+![Diagram showing the sickle-cell mutation from DNA base substitution A to T, resulting in valine replacing glutamic acid in haemoglobin, causing sickled red blood cells.](images/E2-13-sickle-cell-molecular-mutation.png)
 
 Other examples of gene mutations: **albinism** (a gene for making melanin no longer works), **haemophilia**, **colour blindness**, the **dark form** of the peppered moth, and **antibiotic resistance** in bacteria.
 

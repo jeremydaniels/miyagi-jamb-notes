@@ -57,7 +57,7 @@ Shaka's success was largely due to his revolutionary military innovations and hi
 | **Formation** | Disorganized frontal attacks. | The **"cow-horn" formation** (*Impondo zankomo*) designed to encircle and trap the enemy. |
 | **Army structure** | Temporary clan-based militias called up for specific raids. | Permanent, celibate, age-grade regiments (*amabutho*) living in military settlements (*amakhanda*). |
 
-[IMAGE: Diagram of Shaka Zulu's cow-horn military formation (Impondo zankomo). An overhead view showing enemy forces at the top as a solid block. Below, the Zulu forces are arranged in a crescent shape: a thick central block labeled "Chest (Isifuba)" facing the enemy directly, two extending curved flanks labeled "Horns (Izimpondo)" wrapping around the enemy's sides, and a reserve force seated behind the chest labeled "Loins (Umuva)". Clean flat textbook illustration, white background.]
+![Diagram of Shaka Zulu's cow-horn formation showing the enemy force flanked by the left and right horns, directly engaged by the chest, and supported by reserves behind.](images/F2-01-military-tactical-formation.png)
 
 ### Political and social factors
 

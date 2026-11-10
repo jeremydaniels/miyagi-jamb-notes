@@ -1,0 +1,70 @@
+{
+ "C19-01-mansa-musa-hajj-caravan": {
+  "labels": [
+   [
+    "Mansa Musa of Mali",
+    [
+     564,
+     390
+    ],
+    "R"
+   ],
+   [
+    "Camels carrying gold",
+    [
+     305,
+     570
+    ],
+    "L"
+   ],
+   [
+    "Hajj caravan (1324)",
+    [
+     266,
+     357
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C19-02-timbuktu-trade-sankore-mosque": {
+  "regions": [
+   "Timbuktu market",
+   "Sankore Mosque"
+  ],
+  "labels": [
+   [
+    "Timbuktu market",
+    [
+     369,
+     498
+    ],
+    "L"
+   ],
+   [
+    "Trade in Arabic manuscripts",
+    [
+     524,
+     883
+    ],
+    "R"
+   ],
+   [
+    "Slabs of salt from Taghaza",
+    [
+     908,
+     654
+    ],
+    "R"
+   ],
+   [
+    "Sankore Mosque",
+    [
+     336,
+     247
+    ],
+    "L"
+   ]
+  ]
+ }
+}

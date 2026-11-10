@@ -45,7 +45,7 @@ The Mali Empire replaced Ghana as the dominant power in the region. Unlike Ghana
 - **Islamic Law and Education:** Mansa Musa introduced Maliki law (a school of Islamic jurisprudence) into the state's administration. He also returned from Hajj with Muslim scholars, poets, and architects, which transformed the socio-political landscape.
 - **Architecture:** The Andalusian (Spanish-Arab) architect **Abu Ishaq al-Sahili**, who returned with Mansa Musa, introduced the use of burnt bricks and flat roofs in West Africa. He built the famous Djingareyber Mosque in Timbuktu and a royal palace for the emperor.
 
-[IMAGE: A majestic illustration of Mansa Musa on horseback during his Hajj journey. He is dressed in rich flowing robes and a golden crown, holding a gold staff. Behind him, a long caravan of camels carrying heavy sacks of gold, and attendants in desert clothing. The background shows sweeping desert dunes. Labels to add later: "Mansa Musa of Mali", "Camels carrying gold", "Hajj caravan (1324)". Clean flat textbook style, white background.]
+![Mansa Musa in royal robes and a golden crown riding a horse across desert dunes, followed by attendants and camels bearing cargo during his Hajj caravan journey.](images/C19-01-mansa-musa-hajj-caravan.png)
 
 ### 3. Songhai Empire
 
@@ -95,7 +95,7 @@ Timbuktu began as a seasonal camp for Tuareg nomads but grew into the most famou
 - **The Book Trade:** Because Islam places a huge emphasis on knowledge, Timbuktu became a center of learning (home to the Sankore University). The most profitable items traded in Timbuktu were not just gold and salt, but **books and handwritten Arabic manuscripts**. Scholars acted as merchants, and a massive "student economy" developed around housing, feeding, and supplying paper to thousands of students and scholars.
 - **Standardization of Currency:** Islamic economic influence saw the formalization of currencies, such as cowrie shells and gold mithqals, making trade smoother than simple barter.
 
-[IMAGE: A bustling marketplace scene in ancient Timbuktu. In the foreground, two merchants in turbans are carefully inspecting a stack of leather-bound Arabic manuscripts. In the background, camels are being unloaded of large white slabs of salt, and the mud-brick architecture of the Sankore Mosque is visible against a clear blue sky. Labels to add later: "Timbuktu market", "Trade in Arabic manuscripts", "Slabs of salt from Taghaza", "Sankore Mosque". Clean flat textbook style, white background.]
+![An ancient Timbuktu market scene featuring faceless merchants inspecting manuscripts, camels unloaded with salt slabs, and the Sankore Mosque in the background.](images/C19-02-timbuktu-trade-sankore-mosque.png)
 
 #### 2. Kano
 

@@ -37,6 +37,7 @@ New subjects go in `subjects/<subject>/`, with `syllabus.md` inside.
 | [Geography](subjects/geography/syllabus.md) | 24 topic files covering Parts I to IV | Placeholders only. |
 | [Agricultural Science](subjects/agricultural-science/syllabus.md) | 45 topic files covering Sections A to E | Placeholders only. |
 | [History](subjects/history/syllabus.md) | 42 topic files covering Sections A to G | Placeholders only. |
+| [Computer Studies](subjects/computer-studies/syllabus.md) | 42 topic files covering Sections A to I (verified) | 78 of 86 placeholders have images; 8 still carry `[IMAGE: ...]` placeholders. Gallery: `subjects/computer-studies/images/GALLERY-computer-studies.md`. |
 
 History facts that could not be confirmed are listed in `HISTORY-VERIFICATION-LOG.md`.
 

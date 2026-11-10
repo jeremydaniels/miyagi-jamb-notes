@@ -399,7 +399,7 @@ Most vertebrae share the same basic plan:
 
 **Function:** the atlas (with the skull) **rotates (pivots)** around the odontoid process of the axis, allowing the head to turn **from side to side** (as in saying "no"). This is a **pivot joint**.
 
-[IMAGE: Front-and-top views of three cervical vertebrae side by side: (1) the atlas, ring-shaped with no centrum, wide wing-like transverse processes, large articular facets for the occipital condyles and a large neural canal; (2) the axis, with the peg-like odontoid process sticking up from its centrum and a large blade-like neural spine; (3) a typical cervical vertebra with a small centrum, short neural spine, wide neural canal and transverse processes each pierced by a vertebrarterial canal. Labels: atlas, articular facet for occipital condyle, transverse process, neural canal, axis, odontoid process, neural spine, centrum, typical cervical vertebra, vertebrarterial canal (transverse foramen), neural arch, zygapophysis. Clean flat textbook style, white background.]
+![Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.](images/B6b-06-cervical-vertebrae-comparison.png)
 
 #### The thoracic vertebrae (chest)
 
@@ -726,7 +726,7 @@ A muscle that bends a joint is called a **flexor**; one that straightens it is a
 
 **The arm as a lever:** the forearm works as a **lever**. The **elbow joint** is the **fulcrum** (pivot); the **biceps** provides the **effort**, pulling at its insertion close to the elbow; the **load** is the weight of the forearm and anything held in the hand. Because the effort is applied close to the fulcrum, a small contraction of the biceps produces a large, fast movement of the hand.
 
-[IMAGE: Two side-by-side diagrams of the human arm showing antagonistic muscles. Left ("arm bent"): the biceps on the front of the upper arm drawn short and bulging (contracted, in red), the triceps behind drawn long and thin (relaxed, in light pink), the forearm raised; tendons connecting the biceps to the scapula and radius and the triceps to the scapula/humerus and the olecranon process of the ulna. Right ("arm straight"): triceps short and fat (contracted), biceps long and thin (relaxed), forearm lowered. Mark the elbow joint as a fulcrum with a small triangle. Labels: scapula, humerus, biceps (contracted), triceps (relaxed), tendon, radius, ulna, olecranon process, elbow joint (hinge, fulcrum), biceps (relaxed), triceps (contracted), arm bent, arm straight. Clean flat textbook style, white background.]
+![Anatomical diagrams comparing antagonistic biceps and triceps muscle action during arm flexion and extension, showing bone attachments and elbow joint fulcrums.](images/B6b-12-antagonistic-arm-muscles.png)
 
 ## Functions of the skeleton and the wellbeing of the animal
 

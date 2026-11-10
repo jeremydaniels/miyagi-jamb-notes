@@ -1071,5 +1071,218 @@
     "R"
    ]
   ]
+ },
+ "B6b-12-antagonistic-arm-muscles": {
+  "labels": [
+   [
+    "scapula",
+    [
+     107,
+     315
+    ],
+    "L"
+   ],
+   [
+    "humerus",
+    [
+     258,
+     457
+    ],
+    "L"
+   ],
+   [
+    "biceps (contracted)",
+    [
+     305,
+     437
+    ],
+    "L"
+   ],
+   [
+    "triceps (relaxed)",
+    [
+     229,
+     457
+    ],
+    "L"
+   ],
+   [
+    "tendon",
+    [
+     247,
+     315
+    ],
+    "L"
+   ],
+   [
+    "radius",
+    [
+     439,
+     402
+    ],
+    "L"
+   ],
+   [
+    "ulna",
+    [
+     441,
+     464
+    ],
+    "L"
+   ],
+   [
+    "olecranon process",
+    [
+     379,
+     619
+    ],
+    "L"
+   ],
+   [
+    "elbow joint (hinge, fulcrum)",
+    [
+     347,
+     603
+    ],
+    "L"
+   ],
+   [
+    "biceps (relaxed)",
+    [
+     735,
+     471
+    ],
+    "R"
+   ],
+   [
+    "triceps (contracted)",
+    [
+     655,
+     459
+    ],
+    "R"
+   ],
+   [
+    "arm bent",
+    [
+     296,
+     410
+    ],
+    "L"
+   ],
+   [
+    "arm straight",
+    [
+     719,
+     493
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6b-06-cervical-vertebrae-comparison": {
+  "regions": [
+   "atlas",
+   "axis",
+   "typical cervical vertebra"
+  ],
+  "labels": [
+   [
+    "atlas",
+    [
+     202,
+     348
+    ],
+    "L"
+   ],
+   [
+    "articular facet for occipital condyle",
+    [
+     129,
+     252
+    ],
+    "L"
+   ],
+   [
+    "transverse process",
+    [
+     63,
+     262
+    ],
+    "L"
+   ],
+   [
+    "neural canal",
+    [
+     202,
+     303
+    ],
+    "L"
+   ],
+   [
+    "axis",
+    [
+     532,
+     389
+    ],
+    "R"
+   ],
+   [
+    "odontoid process",
+    [
+     532,
+     176
+    ],
+    "R"
+   ],
+   [
+    "neural spine",
+    [
+     532,
+     414
+    ],
+    "R"
+   ],
+   [
+    "centrum",
+    [
+     840,
+     333
+    ],
+    "R"
+   ],
+   [
+    "typical cervical vertebra",
+    [
+     839,
+     337
+    ],
+    "R"
+   ],
+   [
+    "vertebrarterial canal (transverse foramen)",
+    [
+     761,
+     324
+    ],
+    "R"
+   ],
+   [
+    "neural arch",
+    [
+     890,
+     245
+    ],
+    "R"
+   ],
+   [
+    "zygapophysis",
+    [
+     773,
+     708
+    ],
+    "R"
+   ]
+  ]
  }
 }

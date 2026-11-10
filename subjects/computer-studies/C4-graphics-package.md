@@ -43,7 +43,7 @@ The syllabus lists the following specific examples that you must know:
 1. **CorelDraw:** A popular **vector graphics editor** widely used in Nigeria by printers, sign-makers, and graphic designers to create logos, banners, business cards, and flyers.
 2. **Photoshop (Adobe Photoshop):** The industry standard for editing **raster (bitmap) graphics**. It is heavily used by photographers and designers for photo retouching, color correction, and digital painting.
 3. **Paint (Microsoft Paint):** A very simple raster graphics drawing program that comes built into the Microsoft Windows operating system. It is used for basic drawing, cropping, and saving images.
-4. **AutoCAD:** Stands for *Automatic Computer-Aided Design*. It is a complex software used mostly by architects, engineers, and drafters to create precise 2D and 3D technical drawings (like building plans and machine parts).
+4. **AutoCAD:** A computer-aided design (CAD) package. (The "Auto" in the name comes from its maker, Autodesk. Some textbooks expand it as "Automatic Computer-Aided Design", but that is not its official meaning.) It is a complex software used mostly by architects, engineers, and drafters to create precise 2D and 3D technical drawings (like building plans and machine parts).
 5. **Harvard Graphics:** An early presentation and graphics software originally created for MS-DOS computers in the 1980s. Though it is obsolete today, JAMB still lists it as a classic example of a graphics package.
 
 [IMAGE: A simple comparison graphic showing the logos or typical screens of Paint (simple drawing), CorelDraw (vector logo design with nodes), Photoshop (editing a photograph), and AutoCAD (a blueprint of a house). Clean flat textbook illustration, white background.]
@@ -256,7 +256,7 @@ Certificates of merit or attendance require a formal layout, usually in landscap
 - C. AutoCAD
 - D. Adobe Photoshop
 
-**Answer: C.** AutoCAD (Automatic Computer-Aided Design) is specifically built for technical drafting, engineering, and architectural modeling.
+**Answer: C.** AutoCAD (a computer-aided design package) is specifically built for technical drafting, engineering, and architectural modeling.
 
 **7. When designing the Nigerian National Flag in CorelDraw, a designer draws a large rectangle. What is the most efficient next step?**
 - A. Divide it into two equal vertical sections and color both green.

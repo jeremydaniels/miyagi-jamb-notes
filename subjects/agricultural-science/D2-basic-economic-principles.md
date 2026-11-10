@@ -60,7 +60,7 @@ Graphs are used in economics to visually represent the laws of demand and supply
 - **The Supply Curve:** Because high prices encourage high quantity supplied, and low prices mean low quantity supplied, the supply curve slopes **upwards** from left to right.
 - **Equilibrium:** When you draw both curves on the same graph, the point where they cross (intersect) is the **equilibrium point**. 
 
-[IMAGE: A graph showing the demand and supply curves for an agricultural product. The vertical y-axis is labelled 'Price (₦)' and the horizontal x-axis is labelled 'Quantity'. A blue line slopes downwards from top-left to bottom-right, labelled 'Demand (D)'. A red line slopes upwards from bottom-left to top-right, labelled 'Supply (S)'. The point where they cross in the middle is marked 'Equilibrium (E)'. Dashed lines run from this point to the y-axis (labelled 'Equilibrium Price') and to the x-axis (labelled 'Equilibrium Quantity'). Clean flat textbook style, white background.]
+![Demand and supply curve graph for an agricultural product showing intersecting downward sloping demand and upward sloping supply curves at market equilibrium.](images/D2-01-supply-demand-equilibrium.png)
 
 **Movements vs. Shifts:**
 - **Movement along the curve:** If only the price of the produce changes, the quantity moves along the existing line.

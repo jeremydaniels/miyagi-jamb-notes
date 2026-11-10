@@ -1,0 +1,59 @@
+{
+ "template": "graph",
+ "title": "Demand and Supply Curves for an Agricultural Product",
+ "x_label": "Quantity",
+ "y_label": "Price (₦)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Demand (D)",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     8.5,
+     1.5
+    ]
+   ],
+   "color": "blue",
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Supply (S)",
+   "points": [
+    [
+     1.5,
+     1.5
+    ],
+    [
+     8.5,
+     8.5
+    ]
+   ],
+   "color": "red",
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5.0,
+   "y": 5.0,
+   "x_text": "Equilibrium Quantity",
+   "y_text": "Equilibrium Price"
+  }
+ ],
+ "points": [
+  {
+   "x": 5.0,
+   "y": 5.0,
+   "text": "Equilibrium (E)",
+   "dx": 0.8,
+   "dy": 0.0
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "template": "flowchart",
+ "title": "Results of the British Conquest",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "British Conquest",
+   "shape": "box"
+  },
+  {
+   "id": "pol",
+   "text": "Political",
+   "shape": "round"
+  },
+  {
+   "id": "pol1",
+   "text": "Loss of Sovereignty",
+   "shape": "box"
+  },
+  {
+   "id": "pol2",
+   "text": "Colonial Administration",
+   "shape": "box"
+  },
+  {
+   "id": "pol3",
+   "text": "Indirect Rule",
+   "shape": "box"
+  },
+  {
+   "id": "econ",
+   "text": "Economic",
+   "shape": "round"
+  },
+  {
+   "id": "econ1",
+   "text": "Cash Crop Economy",
+   "shape": "box"
+  },
+  {
+   "id": "econ2",
+   "text": "New Currency & Taxes",
+   "shape": "box"
+  },
+  {
+   "id": "econ3",
+   "text": "Railways Built",
+   "shape": "box"
+  },
+  {
+   "id": "soc",
+   "text": "Social",
+   "shape": "round"
+  },
+  {
+   "id": "soc1",
+   "text": "Spread of Western Education",
+   "shape": "box"
+  },
+  {
+   "id": "soc2",
+   "text": "End of Internal Slavery",
+   "shape": "box"
+  },
+  {
+   "id": "soc3",
+   "text": "Urbanization",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "pol"
+  },
+  {
+   "from": "root",
+   "to": "econ"
+  },
+  {
+   "from": "root",
+   "to": "soc"
+  },
+  {
+   "from": "pol",
+   "to": "pol1"
+  },
+  {
+   "from": "pol",
+   "to": "pol2"
+  },
+  {
+   "from": "pol",
+   "to": "pol3"
+  },
+  {
+   "from": "econ",
+   "to": "econ1"
+  },
+  {
+   "from": "econ",
+   "to": "econ2"
+  },
+  {
+   "from": "econ",
+   "to": "econ3"
+  },
+  {
+   "from": "soc",
+   "to": "soc1"
+  },
+  {
+   "from": "soc",
+   "to": "soc2"
+  },
+  {
+   "from": "soc",
+   "to": "soc3"
+  }
+ ]
+}

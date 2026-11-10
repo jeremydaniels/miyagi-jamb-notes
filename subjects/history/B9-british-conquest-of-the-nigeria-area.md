@@ -52,7 +52,7 @@ After Akitoye died in 1853, his son **Dosunmu** became Oba. The British eventual
 
 Lagos officially became a British Crown Colony in 1862. From this coastal base, the British gradually expanded their influence into the Yoruba hinterland over the next forty years, using treaties, military threats, and mediation in the Yoruba civil wars to secure trade routes.
 
-[IMAGE: A 19th-century map illustration of the Bight of Benin showing Lagos island, the lagoon, Badagry, and Epe. Two distinct points should be marked: "1851: Bombardment (Kosoko ousted)" and "1861: Annexation (Dosunmu cedes Lagos)". A small drawing of British naval ships offshore. Style: clean flat textbook illustration, white background.]
+![A 19th-century map of the Bight of Benin and Lagos Lagoon showing Badagry, Epe, Lagos Island, offshore British ships, and key dates for bombardment and annexation.](images/B9-01-map-lagos-bombardment-annexation.png)
 
 ---
 
@@ -87,7 +87,7 @@ The British did not conquer the Nigeria area in a single battle. They used a com
 | **Military Expeditions (Force)** | When rulers refused treaties or resisted British trade monopolies, the British launched violent military campaigns. They possessed vastly superior weapons, particularly the **Maxim gun** (an early machine gun) and artillery, which devastated local armies armed with older muskets, bows, or swords. | The Ijebu Expedition (1892), the Benin Punitive Expedition (1897), the Anglo-Aro War (1901-1902), and the Kano-Sokoto campaigns (1903). |
 | **Deportation and Exile** | Removing strong, independent traditional rulers from their domains and exiling them to distant places. This broke the spirit of local resistance. | Jaja of Opobo exiled to the West Indies; Ovonramwen of Benin exiled to Calabar. |
 
-[IMAGE: An illustration showing two contrasting scenes of conquest methods. On the left, a British agent in colonial dress sitting with a local chief, both pointing at a piece of paper on a table (Treaty). On the right, a British gunboat on a river with its cannons pointed towards a coastal settlement (Gunboat Diplomacy). Labels: "Method 1: Treaties of Protection", "Method 2: Gunboat Diplomacy". Clean flat textbook style, white background.]
+![Two panels illustrating colonial conquest methods with a British officer signing a treaty alongside a local leader on the left and a gunboat patrolling a coastal village on the right](images/B9-02-colonial-conquest-methods-comparison.png)
 
 ---
 
@@ -162,7 +162,7 @@ The British conquest fundamentally changed the political, economic, and social l
 2. **Abolition of Certain Practices:** The conquest ended the internal slave trade and stopped practices the British found objectionable, such as human sacrifice and the killing of twins.
 3. **Urbanization and Migration:** The colonial economy and new administrative centers caused rapid urbanization. People began migrating to new colonial cities like Lagos, Port Harcourt, Kaduna, and Jos looking for wage labor.
 
-[IMAGE: A flow chart titled "Results of the British Conquest". The main box "British Conquest" splits into three branches. Branch 1: "Political" pointing to "Loss of Sovereignty", "Colonial Administration", "Indirect Rule". Branch 2: "Economic" pointing to "Cash Crop Economy", "New Currency & Taxes", "Railways Built". Branch 3: "Social" pointing to "Spread of Western Education", "End of Internal Slavery", "Urbanization". Clean flat textbook style, white background with neat connecting lines.]
+![A flowchart showing the results of the British Conquest divided into political, economic, and social impacts, each branching into three specific outcomes.](images/B9-03-results-conquest-flowchart.png)
 
 ---
 

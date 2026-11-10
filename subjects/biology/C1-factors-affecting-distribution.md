@@ -185,7 +185,7 @@ These changes are why the vegetation changes from mangrove swamps and rainforest
 
 **Nigerian example (approximate figures, which vary between sources and from year to year):** parts of the Niger Delta coast receive more than 3,000 mm of rain a year, and some coastal places around 4,000 mm. Lagos receives roughly 1,500–2,000 mm. Rainfall falls steadily northwards, to roughly 500–700 mm or less in the far north-east around Lake Chad. The rainy season lasts about 8–10 months in the far south but only about 3–4 months in the far north.
 
-[IMAGE: A simple outline map of Nigeria with rainfall shown by colour bands running roughly east to west: dark blue along the southern coast and the Niger Delta (highest rainfall), then lighter blue, pale green, pale yellow, and pale orange-brown in the far north and north-east (lowest rainfall). A wide arrow down the side pointing from south to north. Small icons: rainforest trees and cocoa pods in the south, yam and cassava in the middle belt, millet heads and groundnut plants in the north, and a camel in the far north-east. Labels: "highest rainfall (over 3,000 mm in parts of the Niger Delta)", "moderate rainfall", "low rainfall (about 500 mm or less near Lake Chad)", "rainfall decreases northwards", "Atlantic Ocean", "Lake Chad". Soft blues to soft browns. Clean flat textbook style, white background.]
+![Map of Nigeria showing east-west rainfall bands decreasing northwards from over 3000 mm to under 500 mm, with associated crops, livestock, and vegetation icons across regions.](images/C1-03-nigeria-rainfall-vegetation-map.png)
 
 ### 3. Relative humidity
 

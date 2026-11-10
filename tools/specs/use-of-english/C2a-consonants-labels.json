@@ -1,0 +1,24 @@
+{
+ "C2a-01-vocal-tract-anatomy-sagittal": {},
+ "C2a-04-consonant-articulation-mouth-diagrams": {
+  "caption_below": "/s/ lips spread, tongue tip forward; /\u0283/ lips rounded, tongue further back",
+  "labels": [
+   [
+    "alveolar ridge",
+    [
+     338,
+     521
+    ],
+    "L"
+   ],
+   [
+    "tongue",
+    [
+     390,
+     571
+    ],
+    "L"
+   ]
+  ]
+ }
+}

@@ -84,7 +84,7 @@ The nasals /m n ŋ/, /l/, /r/, /w/ and /j/ are all voiced and have no voiceless 
 
 ### 2. Place of articulation
 
-[IMAGE: A side-view cross-section (sagittal section) of the human head showing the speech organs, in a clean flat style with soft pinks for the tongue and lips, light beige for the teeth, and pale grey for bone. Show: upper and lower lips, upper and lower teeth, the alveolar ridge (the bump just behind the upper front teeth), the hard palate, the soft palate (velum) with the uvula hanging at its end, the tongue (with tip, blade, front and back marked as zones), the pharynx, the larynx with the vocal cords, the nasal cavity above, and the oral cavity. Small numbered dots on each place of articulation, with labels: "1 Lips (bilabial)", "2 Lower lip + upper teeth (labiodental)", "3 Teeth (dental)", "4 Alveolar ridge (alveolar)", "5 Behind the alveolar ridge (post-alveolar / palato-alveolar)", "6 Hard palate (palatal)", "7 Soft palate (velar)", "8 Vocal cords / glottis (glottal)". White background, like a modern textbook.]
+![A sagittal cross section diagram of the human vocal tract showing the nasal cavity, oral cavity, lips, teeth, palate, tongue, pharynx, and larynx.](images/C2a-01-vocal-tract-anatomy-sagittal.png)
 
 | Place | Organs used | Consonants | Example words |
 | --- | --- | --- | --- |
@@ -606,7 +606,7 @@ Some speakers (this is often reported for some Yoruba speakers' English) use [s]
 
 **Fix:** for /s/, the lips are spread and the tongue tip is close to the alveolar ridge (a high, sharp hiss). For /ʃ/, the lips are rounded and pushed forward and the tongue is pulled a little further back (a lower, "hushing" sound).
 
-[IMAGE: Two front-and-side views of the mouth comparing /s/ and /ʃ/. Left: /s/ as in "see", lips spread slightly in a smile, side view showing the tongue tip close to the alveolar ridge with a narrow groove, small straight arrows for a sharp jet of air. Right: /ʃ/ as in "she", lips rounded and pushed forward, side view showing the tongue blade raised just behind the alveolar ridge (further back than for /s/), with a wider stream of air shown by softer arrows. Labels: "/s/ lips spread, tongue tip forward", "/ʃ/ lips rounded, tongue further back", "alveolar ridge", "tongue". Clean flat educational illustration, white background.]
+![Anatomical comparison showing front lip shapes and sagittal cross sections of the mouth cavity and tongue position for the s and sh consonant sounds.](images/C2a-04-consonant-articulation-mouth-diagrams.png)
 
 | /ʃ/ | /s/ |
 | --- | --- |

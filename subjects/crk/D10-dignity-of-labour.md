@@ -38,7 +38,7 @@ The biblical concept of the dignity of labour rejects this division. It teaches 
 - Dignity comes from the **honesty** of the work and the **attitude** of the worker, not from the prestige of the job title or the size of the salary.
 - What actually destroys personal dignity is not manual labour, but **idleness, begging, stealing, or engaging in corrupt practices** (such as fraud or "yahoo-yahoo") to survive.
 
-[IMAGE: Two workers standing side by side. On the left, a farmer in simple work clothes holding a hoe, with crops behind him. On the right, a professional in a smart suit holding a briefcase, with a modern office building behind him. Both have calm, dignified expressions and are standing on the exact same ground level, illustrating that both manual and office work carry equal personal dignity. Clean flat textbook illustration, white background.]
+![A farmer in traditional attire holding a hoe beside a businessman in a suit holding a briefcase, standing at equal level to show work dignity.](images/D10-01-dignity-labour.png)
 
 ## Biblical teachings on labour
 
@@ -61,7 +61,7 @@ Jesus told this parable to explain the kingdom of heaven, focusing on God's grac
 - All the labourers, whether they worked for one hour or twelve hours, contributed to the vineyard and were treated with dignity and paid a living wage. 
 - While the primary theological lesson is about God's sovereign grace and the equality of salvation for all believers (whether they turn to God early or late in life), it also shows that employers must honour the wage agreements they make with their labourers.
 
-[IMAGE: A sequence illustration in two panels. Panel 1 (left): Early morning in a biblical marketplace. A wealthy landowner (householder) is shaking hands with a group of workers, agreeing on a wage. Panel 2 (right): Evening time. The householder stands by his steward, who is handing a single silver coin (a denarius/penny) to a worker who arrived late, while the workers who arrived early look on with surprised and slightly unhappy expressions. Clean flat textbook style, white background.]
+![Two-panel biblical illustration showing a landowner hiring workers in a morning marketplace, and later distributing a silver coin wage to workers in the evening.](images/D10-02-parable-vineyard-labourers.png)
 
 ### Warning against idleness (II Thessalonians 3:6-15)
 

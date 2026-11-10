@@ -96,7 +96,7 @@ Most countries in the world today, including Nigeria, the United Kingdom, and So
 * **Inefficiency of Public Enterprises:** State-owned businesses in a mixed economy (like the old NITEL or NEPA in Nigeria) are often corrupt, poorly managed, and inefficient.
 * **Over-regulation:** Too much government interference, heavy taxation, or changing policies can discourage private investors.
 
-[IMAGE: A three-circle Venn diagram or a horizontal spectrum line showing the three economic systems. Left side (Blue): Free Enterprise/Capitalism, with icons of a dollar sign and a factory. Right side (Red): Centrally Planned/Command Economy, with icons of a government building and gears. Middle (Purple): Mixed Economy, showing a handshake between a businessperson and a government official. Labels underneath each indicating "Private ownership", "State ownership", and "Joint ownership". Clean flat textbook illustration, white background.]
+![An economic systems spectrum showing capitalism with private ownership on the left, mixed economy with joint ownership in the middle, and command economy with state ownership on the right.](images/A2-01-economic-systems-comparison-spectrum.png)
 
 ---
 

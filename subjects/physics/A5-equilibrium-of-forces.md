@@ -174,7 +174,7 @@ where:
 **The Principle of Moments** states that for a body to be in rotational equilibrium, the sum of the clockwise moments about any point must equal the sum of the anticlockwise moments about that same point.
 $$\text{Sum of clockwise moments} = \text{Sum of anticlockwise moments}$$
 
-[IMAGE: A uniform metre rule balanced on a triangular wedge (pivot) exactly at the 50 cm mark. A block labeled "60 g" hangs from the 30 cm mark. A block labeled "40 g" hangs from the 80 cm mark. Curved arrows show the counter-clockwise moment on the left and clockwise moment on the right. White background.]
+![A metre rule balanced on a pivot at 50 cm with a 60 g mass at 30 cm and a 40 g mass at 80 cm showing moments.](images/A5-04-principle-moments-balance.png)
 
 ### Worked Example 4: Principle of moments on a metre rule
 A uniform metre rule is balanced perfectly on a pivot at the $50\ \text{cm}$ mark. A load of mass $60\ \text{g}$ is suspended at the $30\ \text{cm}$ mark. At what mark on the rule must a mass of $40\ \text{g}$ be suspended to restore balance?

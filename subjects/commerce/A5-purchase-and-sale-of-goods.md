@@ -40,7 +40,7 @@ The seller packs the goods and sends them to the buyer. The goods are accompanie
 **Step 5: Invoice**
 The seller sends an **invoice** to the buyer. This is a very important document that details the quantity, description, unit price, and total cost of the goods supplied, minus any trade discounts. **The invoice is a demand for payment.**
 
-[IMAGE: A sample commercial Invoice from 'Chukwudi & Sons Electronics, Alaba International Market, Lagos' addressed to 'Bisi Retails, Ikeja'. The document has a header 'INVOICE', an invoice number 'INV-1024', and date '15th May'. A table shows Quantity: 10, Description: Sumec Firman Generators, Unit Price: ₦150,000, Total: ₦1,500,000; Quantity: 5, Description: LG Split Air Conditioners, Unit Price: ₦200,000, Total: ₦1,000,000. Sub-total: ₦2,500,000. Less 10% Trade Discount: ₦250,000. Net Total Due: ₦2,250,000. At the bottom, the letters 'E. & O.E.' are printed small. Clean flat textbook style, black text on white background with neat table lines.]
+![A commercial invoice from Chukwudi and Sons Electronics to Bisi Retails detailing quantities, unit prices, totals, a trade discount, and net total due.](images/A5-01-commercial-invoice-template-layout.png)
 
 **Step 6: Statement of Accounts**
 If the buyer and seller trade frequently on credit, the seller will not demand payment for every single invoice immediately. Instead, at the end of the month, the seller sends a **statement of accounts**. This document summarizes all the invoices, payments, and returns made during the month and shows the final balance the buyer owes.

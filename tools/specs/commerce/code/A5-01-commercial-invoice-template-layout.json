@@ -1,0 +1,56 @@
+{
+ "template": "table",
+ "title": "INVOICE",
+ "columns": [
+  "Quantity",
+  "Description",
+  "Unit Price",
+  "Total"
+ ],
+ "rows": [
+  [
+   "Seller:",
+   "Chukwudi & Sons Electronics, Lagos",
+   "Invoice No:",
+   "INV-1024"
+  ],
+  [
+   "Buyer:",
+   "Bisi Retails, Ikeja",
+   "Date:",
+   "15th May"
+  ],
+  [
+   "10",
+   "Sumec Firman Generators",
+   "₦150,000",
+   "₦1,500,000"
+  ],
+  [
+   "5",
+   "LG Split Air Conditioners",
+   "₦200,000",
+   "₦1,000,000"
+  ],
+  [
+   "",
+   "Sub-total",
+   "",
+   "₦2,500,000"
+  ],
+  [
+   "",
+   "Less 10% Trade Discount",
+   "",
+   "₦250,000"
+  ],
+  [
+   "",
+   "Net Total Due",
+   "",
+   "₦2,250,000"
+  ]
+ ],
+ "first_col_bold": false,
+ "caption": "E. & O.E."
+}

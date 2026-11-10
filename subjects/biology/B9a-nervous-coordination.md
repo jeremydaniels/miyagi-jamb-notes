@@ -573,7 +573,7 @@ The pathway taken by the impulses in a reflex action is called a **reflex arc**.
 
 The reflex arc is the **shortest** pathway between a receptor and an effector, with very few synapses, which is why reflexes are so fast.
 
-![A diagram of a spinal reflex arc showing a finger touching a hot pot, sensory nerve pathway to spinal cord, relay neuron, and motor neuron to muscle.](images/B9a-11-spinal-reflex-arc.png)
+[IMAGE: Classic diagram of a spinal reflex arc for withdrawing the hand from a hot object. On the left, a hand touching a hot pot on a flame, with a receptor in the skin of the fingertip. A sensory neurone (drawn in blue) runs from the receptor up the arm into a transverse section of the spinal cord on the right, entering through the dorsal root with its cell body in the dorsal root ganglion. Inside the H-shaped grey matter, a short relay neurone (green) connects to a motor neurone (red), whose cell body is in the ventral horn; the motor neurone leaves through the ventral root and runs back to the biceps muscle of the upper arm. Show a thin branch of the relay pathway going up the white matter towards the brain (with an arrow labelled "to brain"). Arrows along all neurones show the direction of the impulse. Labels: stimulus (heat), receptor in skin, sensory neurone, dorsal root, dorsal root ganglion, relay neurone, grey matter, white matter, motor neurone, ventral root, effector (biceps muscle), response (arm bends, hand withdrawn), synapse, to brain. Clean flat textbook style, white background.]
 
 ### Illustrating reflex actions
 

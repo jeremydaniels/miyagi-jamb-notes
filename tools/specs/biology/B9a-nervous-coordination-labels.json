@@ -5,74 +5,74 @@
    [
     "scalp",
     [
-     619,
-     152
+     522,
+     150
     ],
     "R"
    ],
    [
     "skull (cranium)",
     [
-     524,
-     278
+     518,
+     263
     ],
     "R"
    ],
    [
     "dura mater",
     [
-     573,
-     335
+     518,
+     361
     ],
     "R"
    ],
    [
     "arachnoid mater",
     [
-     592,
-     351
+     241,
+     421
     ],
-    "R"
+    "L"
    ],
    [
     "subarachnoid space with cerebrospinal fluid",
     [
-     666,
-     402
+     76,
+     596
     ],
-    "R"
+    "L"
    ],
    [
     "pia mater",
     [
-     674,
-     457
+     369,
+     547
     ],
-    "R"
+    "L"
    ],
    [
     "blood vessel",
     [
-     538,
-     464
+     533,
+     460
     ],
     "R"
    ],
    [
     "grey matter (cerebral cortex)",
     [
-     654,
-     571
+     437,
+     658
     ],
-    "R"
+    "L"
    ],
    [
     "white matter",
     [
-     749,
-     676
+     390,
+     883
     ],
-    "R"
+    "L"
    ]
   ]
  },
@@ -81,7 +81,7 @@
    [
     "cerebrum",
     [
-     437,
+     380,
      247
     ],
     "L"
@@ -89,63 +89,63 @@
    [
     "cerebral cortex",
     [
-     463,
-     145
+     493,
+     152
     ],
     "L"
    ],
    [
     "corpus callosum",
     [
-     493,
-     338
+     437,
+     312
     ],
     "L"
    ],
    [
     "thalamus",
     [
-     500,
-     445
+     528,
+     430
     ],
-    "L"
+    "R"
    ],
    [
     "hypothalamus",
     [
-     439,
-     508
+     445,
+     493
     ],
     "L"
    ],
    [
     "pituitary gland",
     [
-     396,
-     596
+     402,
+     587
     ],
     "L"
    ],
    [
     "midbrain",
     [
-     529,
-     541
+     547,
+     533
     ],
     "R"
    ],
    [
     "pons",
     [
-     524,
-     658
+     527,
+     640
     ],
     "R"
    ],
    [
     "medulla oblongata",
     [
-     584,
+     579,
      766
     ],
     "R"
@@ -153,16 +153,16 @@
    [
     "cerebellum",
     [
-     735,
-     654
+     747,
+     655
     ],
     "R"
    ],
    [
     "spinal cord",
     [
-     636,
-     901
+     619,
+     883
     ],
     "R"
    ]
@@ -241,64 +241,64 @@
    [
     "white matter",
     [
-     352,
+     663,
      493
     ],
-    "L"
+    "R"
    ],
    [
     "grey matter",
     [
-     573,
-     547
+     560,
+     497
     ],
     "R"
    ],
    [
     "dorsal horn",
     [
-     592,
-     445
+     428,
+     422
     ],
-    "R"
+    "L"
    ],
    [
     "ventral horn",
     [
-     430,
-     557
+     437,
+     528
     ],
     "L"
    ],
    [
     "central canal",
     [
-     512,
-     517
+     510,
+     494
     ],
-    "R"
+    "L"
    ],
    [
     "dorsal root",
     [
      689,
-     396
+     404
     ],
     "R"
    ],
    [
     "dorsal root ganglion",
     [
-     806,
-     517
+     794,
+     487
     ],
     "R"
    ],
    [
     "ventral root",
     [
-     723,
-     640
+     691,
+     599
     ],
     "R"
    ],
@@ -306,157 +306,41 @@
     "spinal nerve (mixed)",
     [
      904,
-     640
+     580
     ],
     "R"
    ],
    [
     "meninges",
     [
-     735,
-     572
+     726,
+     501
     ],
     "R"
    ],
    [
     "vertebra",
     [
-     538,
-     826
+     506,
+     811
     ],
-    "R"
+    "L"
    ],
    [
     "dorsal side (back)",
     [
-     512,
-     122
+     510,
+     148
     ],
-    "R"
+    "L"
    ],
    [
     "ventral side (front)",
     [
-     512,
-     901
-    ],
-    "R"
-   ]
-  ]
- },
- "B9a-11-spinal-reflex-arc": {
-  "labels": [
-   [
-    "stimulus (heat)",
-    [
-     173,
+     510,
      883
     ],
     "L"
-   ],
-   [
-    "receptor in skin",
-    [
-     194,
-     529
-    ],
-    "L"
-   ],
-   [
-    "sensory neurone",
-    [
-     437,
-     571
-    ],
-    "L"
-   ],
-   [
-    "dorsal root",
-    [
-     601,
-     186
-    ],
-    "R"
-   ],
-   [
-    "dorsal root ganglion",
-    [
-     519,
-     247
-    ],
-    "R"
-   ],
-   [
-    "relay neurone",
-    [
-     754,
-     285
-    ],
-    "R"
-   ],
-   [
-    "grey matter",
-    [
-     866,
-     333
-    ],
-    "R"
-   ],
-   [
-    "white matter",
-    [
-     677,
-     278
-    ],
-    "R"
-   ],
-   [
-    "motor neurone",
-    [
-     538,
-     476
-    ],
-    "R"
-   ],
-   [
-    "ventral root",
-    [
-     619,
-     380
-    ],
-    "R"
-   ],
-   [
-    "effector (biceps muscle)",
-    [
-     710,
-     684
-    ],
-    "R"
-   ],
-   [
-    "response (arm bends, hand withdrawn)",
-    [
-     315,
-     542
-    ],
-    "L"
-   ],
-   [
-    "synapse",
-    [
-     749,
-     292
-    ],
-    "R"
-   ],
-   [
-    "to brain",
-    [
-     947,
-     131
-    ],
-    "R"
    ]
   ]
  },

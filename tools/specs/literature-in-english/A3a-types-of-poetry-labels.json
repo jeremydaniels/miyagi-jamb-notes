@@ -1,22 +1,19 @@
 {
  "A3a-01-lyric-versus-narrative-poetry": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Lyric Poetry: Expresses personal emotion",
-    [
-     229,
-     524
-    ],
-    "L"
+    "Lyric Poetry: Expresses\npersonal emotion",
+    256,
+    909
    ],
    [
-    "Narrative Poetry: Tells a story",
-    [
-     775,
-     538
-    ],
-    "R"
+    "Narrative Poetry:\nTells a story",
+    768,
+    973
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -49,7 +49,7 @@ The 19th century in Benin saw a series of Obas who had to navigate civil wars, s
 - **Oba Adolo (c. 1848–1888):** His reign was relatively peaceful internally, though he faced external threats from the Nupe jihadists invading from the north. He was known for encouraging trade, establishing markets, and being a generous ruler, though he struggled to control his ambitious Iyase.
 - **Oba Ovonramwen Nogbaisi (1888–1897):** To secure his throne, Ovonramwen had to execute several powerful chiefs who opposed him. While this centralized his power, it created internal fears and divisions. He was the last independent Oba of the 19th century and had to face the British invasion.
 
-[IMAGE: A timeline spanning the 19th century, highlighting the reigns of Oba Obanosa (1804-1816), Oba Osemwende (1816-1848), Oba Adolo (1848-1888), and Oba Ovonramwen (1888-1897). Include small icons: crossed swords for Obanosa's internal struggles, a map pin on Akure for Osemwende's victory, a market stall for Adolo's economic focus, and a British ship for Ovonramwen's reign. Clean flat textbook style, white background.]
+![Timeline of 19th-century Benin showing the reigns of Obas Obanosa, Osemwende, Adolo and Ovonramwen between 1804 and 1897.](images/B4-01-timeline-th-century-benin.png)
 
 ### Cultural Development in the 19th Century
 

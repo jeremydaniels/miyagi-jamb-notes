@@ -2,54 +2,43 @@
  "E2-01-fossil-formation-stages": {
   "labels": [
    [
-    "1 organism dies and sinks",
-    [
-     131,
-     726
-    ],
-    "L"
-   ],
-   [
-    "2 buried quickly by sediment",
-    [
-     315,
-     677
-    ],
-    "L"
-   ],
-   [
-    "3 soft parts decay, hard parts remain",
-    [
-     518,
-     655
-    ],
-    "R"
-   ],
-   [
-    "4 layers become rock; minerals replace bone",
-    [
-     708,
-     626
-    ],
-    "R"
-   ],
-   [
-    "5 uplift and erosion expose fossil",
-    [
-     883,
-     609
-    ],
-    "R"
-   ],
-   [
     "sedimentary rock layers",
     [
      702,
      437
     ],
-    "R"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1 organism\ndies and sinks",
+    117,
+    858
+   ],
+   [
+    "2 buried\nquickly by\nsediment",
+    314,
+    859
+   ],
+   [
+    "3 soft parts\ndecay, hard\nparts remain",
+    510,
+    859
+   ],
+   [
+    "4 layers\nbecome rock;\nminerals\nreplace bone",
+    706,
+    859
+   ],
+   [
+    "5 uplift and\nerosion expose\nfossil",
+    901,
+    859
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-02-sedimentary-rock-fossil-strata": {
   "labels": [
@@ -250,54 +239,6 @@
  "E2-09-vertebrate-embryo-development-grid": {
   "labels": [
    [
-    "fish",
-    [
-     117,
-     828
-    ],
-    "L"
-   ],
-   [
-    "amphibian",
-    [
-     315,
-     829
-    ],
-    "L"
-   ],
-   [
-    "reptile",
-    [
-     520,
-     838
-    ],
-    "R"
-   ],
-   [
-    "bird",
-    [
-     705,
-     833
-    ],
-    "R"
-   ],
-   [
-    "mammal (human)",
-    [
-     908,
-     829
-    ],
-    "R"
-   ],
-   [
-    "early stage: very similar",
-    [
-     508,
-     173
-    ],
-    "L"
-   ],
-   [
     "pharyngeal (gill) pouches",
     [
      136,
@@ -312,67 +253,60 @@
      263
     ],
     "L"
+   ]
+  ],
+  "split": [
+   [
+    305,
+    120
    ],
    [
-    "later stages: differences appear",
-    [
-     508,
-     492
-    ],
-    "L"
+    635,
+    120
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "fish",
+    121,
+    979
+   ],
+   [
+    "amphibian",
+    317,
+    972
+   ],
+   [
+    "reptile",
+    511,
+    953
+   ],
+   [
+    "bird",
+    714,
+    962
+   ],
+   [
+    "mammal (human)",
+    898,
+    976
+   ],
+   [
+    "early stage:\nvery similar",
+    510,
+    309
+   ],
+   [
+    "later stages:\ndifferences\nappear",
+    511,
+    639
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-05-homologous-pentadactyl-forelimbs-comparison": {
   "labels": [
-   [
-    "human (grasping)",
-    [
-     107,
-     494
-    ],
-    "L"
-   ],
-   [
-    "bat (flying)",
-    [
-     263,
-     501
-    ],
-    "L"
-   ],
-   [
-    "bird (flying)",
-    [
-     454,
-     498
-    ],
-    "L"
-   ],
-   [
-    "whale (swimming)",
-    [
-     609,
-     522
-    ],
-    "R"
-   ],
-   [
-    "horse (running)",
-    [
-     768,
-     522
-    ],
-    "R"
-   ],
-   [
-    "frog (landing)",
-    [
-     926,
-     502
-    ],
-    "R"
-   ],
    [
     "humerus",
     [
@@ -421,7 +355,41 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "human\n(grasping)",
+    98,
+    857
+   ],
+   [
+    "bat (flying)",
+    268,
+    856
+   ],
+   [
+    "bird (flying)",
+    451,
+    664
+   ],
+   [
+    "whale\n(swimming)",
+    613,
+    857
+   ],
+   [
+    "horse\n(running)",
+    769,
+    859
+   ],
+   [
+    "frog (landing)",
+    910,
+    858
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-11-plant-phylogenetic-evolutionary-tree": {
   "caption_below": "Water to land evolutionary trends with vascular tissue, seeds, and flowers appearance.",
@@ -472,46 +440,6 @@
   "caption_below": "Increase in size from forest to grassland",
   "labels": [
    [
-    "Hyracotherium (Eohippus), about 55 million years ago",
-    [
-     173,
-     749
-    ],
-    "L"
-   ],
-   [
-    "Mesohippus",
-    [
-     357,
-     640
-    ],
-    "L"
-   ],
-   [
-    "Merychippus",
-    [
-     500,
-     494
-    ],
-    "L"
-   ],
-   [
-    "Pliohippus",
-    [
-     663,
-     357
-    ],
-    "R"
-   ],
-   [
-    "Equus (modern horse)",
-    [
-     829,
-     186
-    ],
-    "R"
-   ],
-   [
     "4 toes",
     [
      176,
@@ -525,7 +453,7 @@
      380,
      836
     ],
-    "L"
+    "R"
    ],
    [
     "1 toe (hoof)",
@@ -543,7 +471,36 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Hyracotherium\n(Eohippus),\nabout 55\nmillion years\nago",
+    157,
+    972
+   ],
+   [
+    "Mesohippus",
+    365,
+    903
+   ],
+   [
+    "Merychippus",
+    531,
+    796
+   ],
+   [
+    "Pliohippus",
+    676,
+    675
+   ],
+   [
+    "Equus (modern\nhorse)",
+    826,
+    673
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-06-analogous-insect-bird-wings": {
   "caption_below": "Same function flight different structure origin analogous structures convergent evolution",

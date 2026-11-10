@@ -122,7 +122,7 @@ At the end of the conference, the nations signed an agreement containing several
 2. **It accelerated the Scramble:** Because of the "Effective Occupation" rule, countries could no longer sit back and trade from the coast. They were forced to quickly send armies inland to physically occupy the land before their rivals did. This turned the scramble into a frantic military race.
 3. **It formalized the partition:** It laid down the internationally accepted rules for carving up Africa. The arbitrary borders drawn on maps during and after the conference divided ethnic groups and forced enemy groups together, creating border problems that still affect African nations today.
 
-[IMAGE: A political cartoon from the late 19th century recreated in a clean textbook illustration style. It shows a large table with a huge map of Africa laid flat on it. Around the table stand several European men in 19th-century military uniforms and top hats (representing Bismarck and other leaders), holding large knives and carving forks, preparing to cut the map like a cake. No Africans are present in the room. Labels to add later: "Otto von Bismarck", "Map of Africa", "The Scramble". Clean flat textbook style, white background.]
+![Illustration of European leaders including Bismarck surrounding a table with a map of Africa, holding knives and forks as if carving it like a cake.](images/G1-02-political-cartoon.png)
 
 ## The Occupation and Resistance by Africans
 

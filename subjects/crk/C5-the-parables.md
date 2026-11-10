@@ -101,7 +101,7 @@ To interpret a parable is to decode its symbols and understand its core spiritua
 *   **The Thorns:** Someone who hears the word, but the cares of the world and the deceitfulness of riches choke it, making them unfruitful.
 *   **The Good Soil:** Someone who hears the word, understands it, and bears much spiritual fruit.
 
-[IMAGE: A four-panel illustration showing the Parable of the Sower. Panel 1: A seed on a hard dirt path being eaten by a crow. Panel 2: A small green shoot withering under a blazing yellow sun on stony ground. Panel 3: A green plant being strangled by thorny vines. Panel 4: A tall, healthy stalk of wheat full of grain in rich brown soil. Labels to add later: "Path (snatched away)", "Rocky Ground (withers in hardship)", "Thorns (choked by riches/cares)", "Good Soil (bears fruit)". Clean flat textbook style, white background.]
+![A four-panel illustration depicting the Parable of the Sower showing a seed eaten by a bird on a path, a withered shoot on rocky soil, thorns choking a plant, and healthy wheat.](images/C5-01-parable-sower-panels.png)
 
 #### 2. The Weeds / Tares (Matthew 13:24-30, 36-43)
 **The Story:** A man sowed good seed in his field. While his men were sleeping, his enemy came, sowed weeds (tares) among the wheat, and went away. When the plants grew, the weeds appeared too. The servants asked if they should pull out the weeds. The master said, "No; lest in gathering the weeds you root up the wheat along with them." He ordered them to let both grow together until the harvest. At harvest time, the reapers would gather the weeds to be burned, and gather the wheat into the barn.

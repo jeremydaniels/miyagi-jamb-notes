@@ -1,0 +1,14 @@
+[
+ [
+  "B1b-01-block-relationship-between-hardware",
+  "A block diagram showing the relationship between hardware components. Arrows point from an 'Input Devices' box into a central 'Central Processing Unit' box. Inside the CPU box are ALU and Control Unit. Below the CPU is a 'Storage Media' box with a two-way arrow connecting it to the CPU. An arrow points out from the CPU to an 'Output Devices' box. Clean flat textbook illustration, white background."
+ ],
+ [
+  "B1b-02-four-output-devices-flat",
+  "An illustration showing four output devices: a flat-screen LED monitor, a desktop inkjet printer with a printed page coming out, a pair of computer speakers, and a large architectural plotter drawing a blueprint. Clean flat textbook illustration, white background."
+ ],
+ [
+  "B1b-03-ram-stick-long-rectangular",
+  "A side-by-side illustration showing a RAM stick (a long, rectangular green circuit board with black chips and gold pins along the bottom edge) and a ROM chip (a small, square or rectangular black chip attached directly to a motherboard, sometimes with a shiny manufacturer sticker on it). Clean flat textbook illustration, white background."
+ ]
+]

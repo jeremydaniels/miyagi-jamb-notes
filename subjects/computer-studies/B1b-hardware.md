@@ -60,7 +60,7 @@ Computer hardware is broadly grouped into three main functional components, foll
    - **Output devices:** Devices used to present the processed information out of the computer to the user.
 3. **Storage Media:** Devices used to keep data, instructions, and information either temporarily while the computer is running (Primary Memory) or permanently for future use (Secondary Storage).
 
-[IMAGE: A block diagram showing the relationship between hardware components. Arrows point from an 'Input Devices' box into a central 'Central Processing Unit' box. Inside the CPU box are ALU and Control Unit. Below the CPU is a 'Storage Media' box with a two-way arrow connecting it to the CPU. An arrow points out from the CPU to an 'Output Devices' box. Clean flat textbook illustration, white background.]
+![Block diagram of computer hardware architecture showing Input Devices connecting to a Central Processing Unit containing ALU and CU. CPU connects bidirectionally to Storage Media and outputs to Output Devices.](images/B1b-01-block-relationship-between-hardware.png)
 
 ## Differences Between Input and Output Devices
 
@@ -156,7 +156,7 @@ Each major output device has distinct types, features, and uses:
 - **Types and Features:** A specialised, large-format printing device. Traditional plotters use actual pens moving on mechanical arms to draw continuous lines. Modern plotters often use wide-format inkjet technology. 
 - **Uses:** Used by architects, engineers, and mapmakers to produce very large, highly accurate line drawings, such as building blueprints and large advertising banners.
 
-[IMAGE: An illustration showing four output devices: a flat-screen LED monitor, a desktop inkjet printer with a printed page coming out, a pair of computer speakers, and a large architectural plotter drawing a blueprint. Clean flat textbook illustration, white background.]
+![Illustration showing four output devices a monitor a desktop printer with a printed page computer speakers and a large plotter drawing a blueprint](images/B1b-02-four-output-devices-flat.png)
 
 ## Similarities and Differences Among Inkjet, Laser and Line Printers
 
@@ -233,7 +233,7 @@ Both are primary memory, but they serve completely different purposes.
 | **Read/Write Ability** | Read and Write: The CPU can constantly read from it and write new data to it. | Read-Only: The CPU can only read from it; users cannot easily change or write new data to it. |
 | **Function** | Holds current programs and data currently in use by the user. | Holds the startup instructions (bootstrap loader) needed to turn the computer on. |
 
-[IMAGE: A side-by-side illustration showing a RAM stick (a long, rectangular green circuit board with black chips and gold pins along the bottom edge) and a ROM chip (a small, square or rectangular black chip attached directly to a motherboard, sometimes with a shiny manufacturer sticker on it). Clean flat textbook illustration, white background.]
+![A side-by-side illustration showing a RAM stick with black chips and gold pins next to a square ROM chip on a small piece of motherboard.](images/B1b-03-ram-stick-long-rectangular.png)
 
 ## Functions of Secondary Storage
 

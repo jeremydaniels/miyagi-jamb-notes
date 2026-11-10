@@ -1,0 +1,224 @@
+{
+ "template": "graph",
+ "title": "Exothermic vs Endothermic Reaction Profiles",
+ "x_label": "Reaction Pathway",
+ "y_label": "Enthalpy (H)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "",
+   "points": [
+    [
+     0.5,
+     6.0
+    ],
+    [
+     1.5,
+     6.0
+    ],
+    [
+     2.5,
+     8.5
+    ],
+    [
+     3.8,
+     2.5
+    ],
+    [
+     4.6,
+     2.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "color": "blue"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     5.4,
+     2.5
+    ],
+    [
+     6.2,
+     2.5
+    ],
+    [
+     7.5,
+     8.8
+    ],
+    [
+     8.8,
+     6.0
+    ],
+    [
+     9.5,
+     6.0
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "color": "red"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     2.5,
+     6.0
+    ],
+    [
+     2.5,
+     8.4
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "blue"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     4.2,
+     6.0
+    ],
+    [
+     4.2,
+     2.7
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "blue"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     1.5,
+     6.0
+    ],
+    [
+     4.2,
+     6.0
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "gray"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     6.2,
+     2.5
+    ],
+    [
+     8.5,
+     2.5
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "gray"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     8.5,
+     2.5
+    ],
+    [
+     8.5,
+     5.9
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "red"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     5.0,
+     0.5
+    ],
+    [
+     5.0,
+     9.5
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "color": "gray"
+  }
+ ],
+ "notes": [
+  {
+   "x": 1.1,
+   "y": 6.4,
+   "text": "Reactants"
+  },
+  {
+   "x": 4.1,
+   "y": 2.1,
+   "text": "Products"
+  },
+  {
+   "x": 2.5,
+   "y": 8.5,
+   "text": "▲"
+  },
+  {
+   "x": 2.5,
+   "y": 9.0,
+   "text": "Activation Energy (E_a)"
+  },
+  {
+   "x": 4.2,
+   "y": 2.5,
+   "text": "▼"
+  },
+  {
+   "x": 3.4,
+   "y": 4.3,
+   "text": "ΔH (negative)"
+  },
+  {
+   "x": 2.5,
+   "y": 0.8,
+   "text": "Left: Exothermic"
+  },
+  {
+   "x": 5.8,
+   "y": 2.1,
+   "text": "Reactants"
+  },
+  {
+   "x": 9.1,
+   "y": 6.4,
+   "text": "Products"
+  },
+  {
+   "x": 8.5,
+   "y": 6.0,
+   "text": "▲"
+  },
+  {
+   "x": 7.7,
+   "y": 4.3,
+   "text": "ΔH (positive)"
+  },
+  {
+   "x": 7.5,
+   "y": 0.8,
+   "text": "Right: Endothermic"
+  }
+ ]
+}

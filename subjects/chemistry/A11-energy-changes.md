@@ -69,7 +69,7 @@ In an exothermic reaction, the chemical system loses heat. Therefore, the produc
 **Interpreting Endothermic Diagrams:**
 In an endothermic reaction, the chemical system absorbs heat. Therefore, the products are drawn at a **higher energy level** than the reactants. The arrow for $\Delta \text{H}$ points upwards from the reactants line to the products line, representing a positive mathematical value.
 
-[IMAGE: Two side-by-side energy profile diagrams. Left diagram (Exothermic): A curve starting at a high horizontal line labelled "Reactants", rising slightly to a peak, then falling steeply to a low horizontal line labelled "Products". A vertical arrow from the reactants line up to the peak is labelled "Activation Energy (E_a)". A downward vertical arrow between the reactant and product levels is labelled "ΔH (negative)". Right diagram (Endothermic): A curve starting at a low horizontal line labelled "Reactants", rising steeply to a high peak, then dropping slightly to a mid-level horizontal line labelled "Products". An upward vertical arrow between the reactant and product levels is labelled "ΔH (positive)". Both graphs have the y-axis labelled "Enthalpy (H)" and the x-axis labelled "Reaction Pathway". Clean flat textbook illustration, white background.]
+![Side-by-side reaction energy profiles comparing exothermic and endothermic reactions, highlighting activation energy, enthalpy changes, and relative reactant and product energy levels.](images/A11-01-energy-profile.png)
 
 ## Entropy as an order-disorder phenomenon
 

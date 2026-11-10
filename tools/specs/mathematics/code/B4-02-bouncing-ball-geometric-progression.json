@@ -1,0 +1,120 @@
+{
+ "template": "graph",
+ "title": "Geometric Progression of a Bouncing Ball",
+ "x_label": "Horizontal Distance",
+ "y_label": "Height",
+ "xmax": 10,
+ "ymax": 12,
+ "series": [
+  {
+   "label": "",
+   "points": [
+    [
+     0.0,
+     10
+    ],
+    [
+     1.0,
+     0
+    ],
+    [
+     2.0,
+     5
+    ],
+    [
+     3.0,
+     0
+    ],
+    [
+     4.0,
+     2.5
+    ],
+    [
+     5.0,
+     0
+    ],
+    [
+     6.0,
+     1.25
+    ],
+    [
+     7.0,
+     0
+    ],
+    [
+     7.5,
+     0.625
+    ],
+    [
+     8.0,
+     0
+    ],
+    [
+     8.3,
+     0.3125
+    ],
+    [
+     8.6,
+     0
+    ]
+   ],
+   "smooth": true,
+   "color": "blue",
+   "style": "solid"
+  }
+ ],
+ "notes": [
+  {
+   "x": 0.5,
+   "y": 8.5,
+   "text": "10m"
+  },
+  {
+   "x": 2.0,
+   "y": 3.5,
+   "text": "5m"
+  },
+  {
+   "x": 4.0,
+   "y": 1.5,
+   "text": "2.5m"
+  },
+  {
+   "x": 8.0,
+   "y": 4.0,
+   "text": "Summing all these heights to infinity"
+  },
+  {
+   "x": 8.0,
+   "y": 3.0,
+   "text": "gives a finite total distance"
+  }
+ ],
+ "points": [
+  {
+   "x": 8.0,
+   "y": 2.0,
+   "text": "↓",
+   "dx": 0,
+   "dy": -0.5
+  }
+ ],
+ "yticks": [
+  [
+   0,
+   "0m"
+  ],
+  [
+   2.5,
+   "2.5m"
+  ],
+  [
+   5,
+   "5m"
+  ],
+  [
+   10,
+   "10m"
+  ]
+ ]
+}

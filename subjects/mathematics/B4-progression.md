@@ -87,7 +87,7 @@ How many terms are in the A.P. $5, 2, -1, \dots, -67$?
    $$n = 24 + 1 = 25$$
 There are 25 terms in the sequence.
 
-[IMAGE: Two side-by-side graphs comparing an Arithmetic Progression (A.P.) and a Geometric Progression (G.P.). The left graph (A.P.) shows a straight line passing through points (1, 2), (2, 4), (3, 6), (4, 8), forming a steady linear staircase. The right graph (G.P.) shows a curve passing through points (1, 2), (2, 4), (3, 8), (4, 16), curving sharply upwards in exponential growth. Both graphs have the x-axis labelled "Term number (n)" and the y-axis labelled "Value of term". Clean flat textbook illustration, white background.]
+![Side-by-side graphs comparing an arithmetic progression showing linear growth with staircase steps and a geometric progression showing a rapid exponential growth curve.](images/B4-01-ap-versus-gp-comparison.png)
 
 #### 2. Geometric Progression (G.P.)
 
@@ -259,7 +259,7 @@ Where $-1 < r < 1$.
 
 *(Note: If $r \ge 1$ or $r \le -1$, the sum to infinity does not exist because the series diverges).*
 
-[IMAGE: Illustration of a bouncing ball demonstrating a geometric progression converging to zero. A ball drops from a height of 10m on the left. It bounces to 5m, then 2.5m, then 1.25m, moving slightly to the right with each bounce. An arc traces its path. The heights are labelled "10m", "5m", "2.5m" underneath each peak. An arrow points towards the smaller and smaller bounces fading out on the right with the text "Summing all these heights to infinity gives a finite total distance". Clean flat textbook illustration, white background.]
+![A graph plotting a bouncing ball path dropping from 10 meters, with successive bounces at 5 meters and 2.5 meters demonstrating geometric progression convergence.](images/B4-02-bouncing-ball-geometric-progression.png)
 
 **Worked Example 12**
 Find the sum to infinity of the G.P. $18, 6, 2, \dots$

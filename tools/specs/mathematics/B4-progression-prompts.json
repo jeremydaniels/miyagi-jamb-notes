@@ -1,0 +1,10 @@
+[
+ [
+  "B4-01-ap-versus-gp-comparison",
+  "Two side-by-side graphs comparing an Arithmetic Progression (A.P.) and a Geometric Progression (G.P.). The left graph (A.P.) shows a straight line passing through points (1, 2), (2, 4), (3, 6), (4, 8), forming a steady linear staircase. The right graph (G.P.) shows a curve passing through points (1, 2), (2, 4), (3, 8), (4, 16), curving sharply upwards in exponential growth. Both graphs have the x-axis and the y-axis. Clean flat textbook illustration, white background."
+ ],
+ [
+  "B4-02-bouncing-ball-geometric-progression",
+  "Illustration of a bouncing ball demonstrating a geometric progression converging to zero. A ball drops from a height of 10m on the left. It bounces to 5m, then 2.5m, then 1.25m, moving slightly to the right with each bounce. An arc traces its path. The heights are, \"5m\", \"2.5m\" underneath each peak. An arrow points towards the smaller and smaller bounces fading out on the right with the text \"Summing all these heights to infinity gives a finite total distance\". Clean flat textbook illustration, white background."
+ ]
+]

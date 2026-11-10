@@ -163,7 +163,7 @@ Knowledge of computing can be used to teach others or to start a new business.
 **5. The career path that involves setting up, maintaining, and troubleshooting Local Area Networks (LANs) and Wide Area Networks (WANs) is:**
 
 - A. Network Engineer
-- B. Software Test Engineer
+- B. System Administrator
 - C. Social Media Manager
 - D. Computer Instructor
 

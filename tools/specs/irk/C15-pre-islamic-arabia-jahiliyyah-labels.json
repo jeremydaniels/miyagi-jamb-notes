@@ -6,14 +6,6 @@
   ],
   "labels": [
    [
-    "Jahiliyyah",
-    [
-     268,
-     49
-    ],
-    "L"
-   ],
-   [
     "Gambling and Idolatry",
     [
      222,
@@ -30,20 +22,12 @@
     "L"
    ],
    [
-    "Islam",
-    [
-     749,
-     51
-    ],
-    "R"
-   ],
-   [
     "Brotherhood in Salah",
     [
      709,
      217
     ],
-    "R"
+    "T"
    ],
    [
     "Fair Trade",
@@ -61,6 +45,20 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Jahiliyyah",
+    262,
+    1010
+   ],
+   [
+    "Islam",
+    761,
+    1010
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

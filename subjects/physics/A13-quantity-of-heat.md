@@ -132,7 +132,7 @@ Below are the experimental steps and the exact equations you must use to "determ
 
 ### Determining Specific Heat Capacity by the Method of Mixtures (Solid in Liquid)
 
-[IMAGE: Diagram of the method of mixtures apparatus. A well-insulated copper calorimeter containing water and a thermometer, with a hot metal block being dropped into it from a thread. Labels: "insulating lid", "lagging (cotton wool)", "copper calorimeter", "water", "thermometer", "stirrer", "hot solid block". Clean flat textbook style, white background.]
+![A diagram of a method of mixtures calorimeter showing an insulated container with water, a thermometer, a stirrer, and a suspended solid block ready to enter.](images/A13-01-calorimeter-method-mixtures-apparatus.png)
 
 **Procedure:**
 1. Weigh the solid block to find its mass ($m_s$).

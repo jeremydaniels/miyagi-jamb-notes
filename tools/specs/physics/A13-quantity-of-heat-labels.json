@@ -1,0 +1,66 @@
+{
+ "A13-01-calorimeter-method-mixtures-apparatus": {
+  "regions": [
+   "water",
+   "lagging (cotton wool)"
+  ],
+  "labels": [
+   [
+    "insulating lid",
+    [
+     522,
+     454
+    ],
+    "R"
+   ],
+   [
+    "lagging (cotton wool)",
+    [
+     693,
+     677
+    ],
+    "R"
+   ],
+   [
+    "copper calorimeter",
+    [
+     668,
+     761
+    ],
+    "R"
+   ],
+   [
+    "water",
+    [
+     500,
+     708
+    ],
+    "L"
+   ],
+   [
+    "thermometer",
+    [
+     379,
+     329
+    ],
+    "L"
+   ],
+   [
+    "stirrer",
+    [
+     568,
+     749
+    ],
+    "R"
+   ],
+   [
+    "hot solid block",
+    [
+     512,
+     261
+    ],
+    "R"
+   ]
+  ]
+ }
+}

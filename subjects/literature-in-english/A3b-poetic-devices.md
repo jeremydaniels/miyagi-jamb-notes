@@ -39,7 +39,7 @@ Good imagery makes the abstract themes of a poem feel real and relatable. For ex
 5. **Tactile Imagery (Touch):** Describes physical textures or temperature. *Example:* "Her rough, calloused hands felt like sandpaper."
 6. **Kinesthetic Imagery (Movement):** Describes a sense of motion or physical tension. *Example:* "The trees whipped back and forth in the violent wind."
 
-[IMAGE: A mind map or wheel showing the word "IMAGERY" in the centre. Six branches lead to simple icons representing the types of imagery: an eye (Visual), an ear (Auditory), a nose (Olfactory), a tongue/mouth (Gustatory), a hand (Tactile), and a person running (Kinesthetic). Clean flat textbook illustration, white background.]
+![A mind map with IMAGERY at the center branching out to six types: Visual, Auditory, Olfactory, Gustatory, Tactile, and Kinesthetic, each paired with an icon.](images/A3b-01-sensory-imagery-mind-map.png)
 
 ## Sound Devices
 

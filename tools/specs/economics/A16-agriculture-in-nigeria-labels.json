@@ -1,22 +1,19 @@
 {
  "A16-01-subsistence-commercial-farming-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Subsistence Farming: Small scale, simple tools",
-    [
-     274,
-     493
-    ],
-    "L"
+    "Subsistence Farming:\nSmall scale, simple\ntools",
+    275,
+    858
    ],
    [
-    "Commercial Farming: Large scale, modern machinery",
-    [
-     749,
-     526
-    ],
-    "R"
+    "Commercial Farming:\nLarge scale, modern\nmachinery",
+    748,
+    858
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

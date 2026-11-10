@@ -1,0 +1,14 @@
+[
+ [
+  "A29-01-parallel-plate-capacitor",
+  "A clean textbook illustration showing a parallel plate capacitor. Two parallel vertical rectangular metal plates, one marked with positive signs (+) and the other with negative signs (-). A battery is connected across them with wires. Uniform electric field lines (straight arrows) point from the positive plate to the negative plate."
+ ],
+ [
+  "A29-02-parallel-plate-capacitor-schematic",
+  "A diagram illustrating the factors affecting a parallel plate capacitor. Two rectangular plates are shown in 3D perspective. The overlapping area is shaded and labeled 'Area (A)'. The small gap between them is labeled 'Distance (d)'. A solid block representing an insulating medium is partially inserted between the plates, labeled 'Dielectric (permittivity ε)'."
+ ],
+ [
+  "A29-03-capacitors-series-parallel-circuit",
+  "Circuit diagrams comparing capacitors in series and parallel. Left side: Three capacitors (C1, C2, C3) connected in a single straight line (series) to a voltage source. Right side: Three capacitors (C1, C2, C3) connected in separate parallel branches to a voltage source."
+ ]
+]

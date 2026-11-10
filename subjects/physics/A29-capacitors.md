@@ -55,7 +55,7 @@ The simplest and most common theoretical model of a capacitor is the **parallel 
 
 It consists of two flat, parallel conducting plates, each with an area $A$, separated by a small distance $d$. The space between the plates is filled with a dielectric (which can simply be air or a vacuum, or a material like glass, paper, or plastic).
 
-[IMAGE: A clean textbook illustration showing a parallel plate capacitor. Two parallel vertical rectangular metal plates, one marked with positive signs (+) and the other with negative signs (-). A battery is connected across them with wires. Uniform electric field lines (straight arrows) point from the positive plate to the negative plate. Labels to add later: "Positive plate (+Q)", "Negative plate (-Q)", "Electric field E", "Distance d", "Battery (V)". Clean flat textbook style, white background.]
+![Diagram of a parallel plate capacitor connected to a battery, showing uniform electric field lines directed from the positive plate to the negative plate across distance d.](images/A29-01-parallel-plate-capacitor.png)
 
 ### How it works
 When the plates are connected to the terminals of a battery of voltage $V$:
@@ -125,7 +125,7 @@ Where:
 * $d$ = Distance of separation in metres ($\text{m}$)
 * $\varepsilon$ = Permittivity of the dielectric material in Farads per metre ($\text{F m}^{-1}$)
 
-[IMAGE: A diagram illustrating the factors affecting a parallel plate capacitor. Two rectangular plates are shown in 3D perspective. The overlapping area is shaded and labeled 'Area (A)'. The small gap between them is labeled 'Distance (d)'. A solid block representing an insulating medium is partially inserted between the plates, labeled 'Dielectric (permittivity ε)'. Clean flat textbook style, white background.]
+![Diagram of a parallel plate capacitor in perspective showing plate area A, plate separation distance d, and a partially inserted dielectric block of permittivity epsilon.](images/A29-02-parallel-plate-capacitor-schematic.png)
 
 ### Understanding permittivity and dielectrics
 
@@ -166,7 +166,7 @@ If you insert a dielectric of relative permittivity $\varepsilon_r$ into a capac
 
 In circuits, capacitors can be combined to achieve a desired total capacitance. The rules for calculating the equivalent (total) capacitance of capacitors are the **exact opposite** of the rules for resistors.
 
-[IMAGE: Circuit diagrams comparing capacitors in series and parallel. Left side: Three capacitors (C1, C2, C3) connected in a single straight line (series) to a voltage source. Right side: Three capacitors (C1, C2, C3) connected in separate parallel branches to a voltage source. Labels to add later: "Series Connection", "1/C = 1/C1 + 1/C2 + 1/C3", "Parallel Connection", "C = C1 + C2 + C3". Clean flat textbook style, white background.]
+![Diagram comparing three capacitors in series and parallel, showing circuit schematics, equivalent capacitance formulas, and voltage sources for both configurations.](images/A29-03-capacitors-series-parallel-circuit.png)
 
 ### 1. Capacitors in parallel
 When capacitors are connected in parallel, they are connected across the same two points. 

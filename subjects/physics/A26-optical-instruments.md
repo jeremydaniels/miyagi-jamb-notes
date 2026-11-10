@@ -37,7 +37,7 @@ Optical instruments use mirrors, prisms, and most commonly **lenses** to manipul
 ### 1. The Simple Microscope (Magnifying Glass)
 A simple microscope is just a single **convex lens**. When an object (like a tiny insect or a small word in a textbook) is placed between the optical centre and the principal focus ($F$) of the lens, the lens produces an image that is **virtual, erect, and magnified**. 
 
-[IMAGE: A convex lens with a small upright object arrow placed between the focal point F and the lens. Rays from the top of the object diverge after passing through the lens. Dashed lines trace these rays backwards to meet and form a much larger, upright virtual image arrow behind the object. Labels: "Object", "Virtual, erect, magnified image", "Focal point F". Clean flat textbook illustration, white background.]
+![Ray diagram showing formation of a magnified, erect virtual image behind an object placed between the focal point and a convex lens.](images/A26-01-magnifying-glass-lens-ray.png)
 
 ### 2. The Compound Microscope
 A compound microscope uses two convex lenses to achieve much higher magnification than a simple magnifying glass. 
@@ -202,7 +202,7 @@ When the eye loses its normal range of accommodation, or if the eyeball is the w
 - **Cause:** The eyeball is too long, or the eye lens is too converging (too thick). As a result, parallel light rays from a distant object are focused **in front of the retina**.
 - **Correction:** A **diverging (concave) lens**. The lens spreads out the incoming light rays just enough so that the eye lens focuses them exactly on the retina. 
 
-[IMAGE: Two eyeball diagrams for Myopia. Top: Parallel rays from infinity enter the eye and cross (converge) before reaching the retina, leaving a blurred circle on the back of the eye. Bottom: A concave lens is placed in front of the eye. The parallel rays diverge slightly as they pass through it, so the eye lens now brings them to a sharp focus exactly on the retina. Clean flat textbook illustration, white background.]
+![Two diagrams showing myopia correction: uncorrected parallel rays focus before the retina causing blur, whereas a concave lens diverges rays to focus sharply on the retina.](images/A26-03-myopia-correction-ray.png)
 
 ### 2. Hypermetropia (Long-sightedness)
 - **Symptom:** A person can see distant objects clearly but cannot focus on near objects (like reading a book). Their near point is further away than the normal $25\ \text{cm}$.

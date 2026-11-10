@@ -30,5 +30,25 @@
  [
   "B4b-13-yeast-industrial-fermentation-products",
   "An illustrated panel of everyday products made with yeast, arranged around a central drawing of oval budding yeast cells: a loaf of bread and a bowl of puff-puff, a bottle of beer and a calabash of burukutu, a gourd of palm wine beside an oil palm tree with a tapping container, a bottle of ethanol fuel beside cassava roots and sugarcane, a jar of yeast extract with a \"B\" vitamin symbol, and a bag of animal feed. A small separate corner shows a mouth with white patches representing thrush, marked as harmful."
+ ],
+ [
+  "B4b-03-krebs-citric-acid-cycle",
+  "Circular diagram of the Krebs cycle inside a pale mitochondrion matrix shape. Acetyl CoA (two circles) enters at the top and joins oxaloacetic acid (four circles) to form citric acid (six circles). Arrows go round the circle clockwise: citric acid (6C) to a 5C acid with CO₂ and NADH leaving; 5C to 4C with a second CO₂ and NADH leaving; then through 4C acids with ATP, FADH₂ and NADH leaving; back to oxaloacetic acid. Above the cycle, pyruvic acid (3C) from glycolysis is shown changing to acetyl CoA (2C) with CO₂ and NADH leaving (link reaction). Small outward arrows for CO₂ coloured grey, NADH and FADH₂ coloured orange, and ATP coloured green."
+ ],
+ [
+  "B4b-05-aerobic-cellular-respiration-overview",
+  "Overview flow diagram of the whole of aerobic respiration in a cell. On the left, a cell's cytoplasm with glucose entering and glycolysis producing 2 pyruvic acid, 2 ATP and 2 NADH. An arrow leads into a large mitochondrion on the right, showing the link reaction (pyruvic acid to acetyl CoA, releasing CO₂), the Krebs cycle as a circle in the matrix (releasing CO₂, NADH, FADH₂ and 2 ATP), and the electron transport chain on the cristae, where oxygen enters and water leaves and many ATP (34) are produced. A total box at the bottom reads the sum."
+ ],
+ [
+  "B4b-06-pyruvic-acid-fate-branching",
+  "Branching flow diagram of the fate of pyruvic acid. At the top, glucose in the cytoplasm changing to 2 pyruvic acid by glycolysis with \"2 ATP\" beside the arrow. Three branches lead down: left branch \"with oxygen\" going into a mitochondrion to give carbon dioxide and water and many ATP; middle branch \"no oxygen: yeast and plants\" giving ethanol and carbon dioxide (small yeast cell icon); right branch \"no oxygen: animal muscle\" giving lactic acid (small muscle icon)."
+ ],
+ [
+  "B4b-08-plant-respiration-carbon-dioxide",
+  "Experimental set-up to show that carbon dioxide is produced in respiration, drawn left to right: air entering a flask of potassium hydroxide solution through a tube that dips into the liquid; a delivery tube to a flask of clear lime water; a delivery tube to a bell jar on a glass plate covered with a dark cloth, containing a small potted plant (its pot wrapped in polythene); a delivery tube to a flask of milky lime water; and finally a tube to an aspirator (a large bottle with a tap releasing water). Arrows show the direction of air flow."
+ ],
+ [
+  "B4b-11-simple-respirometer-germinating-seeds",
+  "Simple respirometer set-up shown as two boiling tubes side by side in a water bath. Each tube has potassium hydroxide solution at the bottom, a wire gauze platform above it, and a rubber bung with a bent capillary tube leading to a horizontal scale with a drop of coloured liquid (index). The experimental tube contains germinating seeds on the gauze; its index has moved towards the tube (arrow). The control tube contains glass beads; its index has not moved."
  ]
 ]

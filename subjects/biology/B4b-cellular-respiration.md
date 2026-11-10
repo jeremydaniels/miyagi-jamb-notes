@@ -213,7 +213,7 @@ The **Krebs cycle** is named after the scientist **Sir Hans Krebs**, who worked 
 
 **Main job of the Krebs cycle:** to **strip hydrogen** from the food molecule and pass it to the carriers (NAD and FAD), which take it to the electron transport chain where most of the ATP is made. Only a little ATP is made directly in the cycle.
 
-[IMAGE: Circular diagram of the Krebs cycle inside a pale mitochondrion matrix shape. Acetyl CoA (two circles) enters at the top and joins oxaloacetic acid (four circles) to form citric acid (six circles). Arrows go round the circle clockwise: citric acid (6C) to a 5C acid with CO₂ and NADH leaving; 5C to 4C with a second CO₂ and NADH leaving; then through 4C acids with ATP, FADH₂ and NADH leaving; back to oxaloacetic acid. Above the cycle, pyruvic acid (3C) from glycolysis is shown changing to acetyl CoA (2C) with CO₂ and NADH leaving (link reaction). Small outward arrows for CO₂ coloured grey, NADH and FADH₂ coloured orange, and ATP coloured green. Labels to add: "pyruvic acid (3C)", "link reaction", "acetyl CoA (2C)", "oxaloacetic acid (4C)", "citric acid (6C)", "5C acid", "4C acid", "CO₂", "NADH", "FADH₂", "ATP", "Krebs cycle", "mitochondrial matrix". Clean flat textbook style, white background.]
+![Diagram showing the link reaction and Krebs cycle in the mitochondrial matrix, detailing carbon counts and the release of carbon dioxide, NADH, FADH2, and ATP.](images/B4b-03-krebs-citric-acid-cycle.png)
 
 ### Stage 4: The electron transport chain
 
@@ -260,7 +260,7 @@ So, in the traditional textbook calculation, one molecule of glucose gives a **m
 
 **Efficiency:** using the traditional figures, 38 ATP × about 30.5 kJ ≈ 1,160 kJ is captured out of 2,880 kJ, an efficiency of about **40%**. The remaining 60% or so is released as **heat**.
 
-[IMAGE: Overview flow diagram of the whole of aerobic respiration in a cell. On the left, a cell's cytoplasm with glucose entering and glycolysis producing 2 pyruvic acid, 2 ATP and 2 NADH. An arrow leads into a large mitochondrion on the right, showing the link reaction (pyruvic acid to acetyl CoA, releasing CO₂), the Krebs cycle as a circle in the matrix (releasing CO₂, NADH, FADH₂ and 2 ATP), and the electron transport chain on the cristae, where oxygen enters and water leaves and many ATP (34) are produced. A total box at the bottom reads the sum. Labels to add: "glucose", "glycolysis (cytoplasm)", "2 pyruvic acid", "2 ATP", "link reaction", "acetyl CoA", "Krebs cycle (matrix)", "2 ATP", "NADH and FADH₂", "electron transport chain (cristae)", "34 ATP", "oxygen in", "water out", "carbon dioxide out", "total: 38 ATP (traditional figure)". Clean flat textbook style, white background.]
+![Diagram showing aerobic respiration across cytoplasm and mitochondrion: glycolysis, link reaction, Krebs cycle, and electron transport chain, yielding a total of 38 ATP.](images/B4b-05-aerobic-cellular-respiration-overview.png)
 
 ## Anaerobic respiration
 
@@ -321,7 +321,7 @@ C₆H₁₂O₆ → 2C₃H₆O₃ + energy (about 150 kJ per mole of glucose; 2 
 | **Facultative anaerobes** | Respire aerobically when oxygen is present, but can switch to anaerobic respiration when it is absent | **Yeast**; many bacteria (e.g. *Escherichia coli*); human muscle cells can do this for short periods |
 | **Obligate anaerobes** | Can live only without oxygen; oxygen is poisonous to them | Some bacteria, e.g. *Clostridium tetani* (causes tetanus, and grows in deep, dirty wounds with little oxygen), and the methane-producing bacteria in swamps, rubbish dumps and the stomachs of cattle |
 
-[IMAGE: Branching flow diagram of the fate of pyruvic acid. At the top, glucose in the cytoplasm changing to 2 pyruvic acid by glycolysis with "2 ATP" beside the arrow. Three branches lead down: left branch "with oxygen" going into a mitochondrion to give carbon dioxide and water and many ATP; middle branch "no oxygen: yeast and plants" giving ethanol and carbon dioxide (small yeast cell icon); right branch "no oxygen: animal muscle" giving lactic acid (small muscle icon). Labels to add: "glucose", "glycolysis (cytoplasm)", "pyruvic acid", "aerobic: carbon dioxide + water (38 ATP)", "anaerobic in yeast: ethanol + carbon dioxide (2 ATP)", "anaerobic in muscle: lactic acid (2 ATP)", "mitochondrion", "yeast", "muscle". Clean flat textbook style, white background.]
+![Flowchart showing glucose undergoing glycolysis to form pyruvic acid, which branches into aerobic respiration in mitochondria, anaerobic fermentation in yeast, and lactic acid fermentation in muscle.](images/B4b-06-pyruvic-acid-fate-branching.png)
 
 ### Aerobic and anaerobic respiration compared
 
@@ -452,7 +452,7 @@ JAMB often shows a diagram of an experiment and asks what it shows, what a parti
 
 **Variation:** instead of lime water, **hydrogencarbonate indicator** can be used: it turns from **red to yellow** as CO₂ from respiration is added. Small organisms (e.g. maggots, woodlice or germinating seeds) can be placed on a gauze platform in a test tube above the indicator, with a control tube containing glass beads.
 
-[IMAGE: Experimental set-up to show that carbon dioxide is produced in respiration, drawn left to right: air entering a flask of potassium hydroxide solution through a tube that dips into the liquid; a delivery tube to a flask of clear lime water; a delivery tube to a bell jar on a glass plate covered with a dark cloth, containing a small potted plant (its pot wrapped in polythene); a delivery tube to a flask of milky lime water; and finally a tube to an aspirator (a large bottle with a tap releasing water). Arrows show the direction of air flow. Labels to add: "air in", "potassium hydroxide solution (absorbs carbon dioxide)", "lime water stays clear", "bell jar", "black cloth (prevents photosynthesis)", "potted plant", "polythene bag over pot", "lime water turns milky", "to aspirator (draws air through)", "direction of air flow". Clean flat textbook style, white background.]
+![An experimental setup demonstrating carbon dioxide production in plant respiration, featuring flasks with solutions, a covered bell jar with a plant, and an aspirator connected in series.](images/B4b-08-plant-respiration-carbon-dioxide.png)
 
 ### Experiment 2: to compare the CO₂ in inhaled and exhaled air
 
@@ -540,7 +540,7 @@ The RQ is about **1.0** for carbohydrates, about **0.7** for fats and about **0.
 
 **Another simple set-up:** germinating seeds are placed in a flask whose mouth is closed with a bung carrying a bent tube dipping into a beaker of coloured water, with a small tube of KOH hanging inside the flask. As the seeds use oxygen and the KOH absorbs the CO₂, the coloured water **rises up the tube**.
 
-[IMAGE: Simple respirometer set-up shown as two boiling tubes side by side in a water bath. Each tube has potassium hydroxide solution at the bottom, a wire gauze platform above it, and a rubber bung with a bent capillary tube leading to a horizontal scale with a drop of coloured liquid (index). The experimental tube contains germinating seeds on the gauze; its index has moved towards the tube (arrow). The control tube contains glass beads; its index has not moved. Labels to add: "experiment: germinating seeds", "control: glass beads", "potassium hydroxide (absorbs carbon dioxide)", "wire gauze", "rubber bung", "capillary tube", "scale", "coloured liquid index", "index moves towards seeds (oxygen used)", "index does not move", "water bath (constant temperature)". Clean flat textbook style, white background.]
+![A simple respirometer setup showing two boiling tubes in a water bath, one with germinating seeds and moving droplet, the other with glass beads as a control.](images/B4b-11-simple-respirometer-germinating-seeds.png)
 
 ### How to deduce answers from experimental set-ups
 

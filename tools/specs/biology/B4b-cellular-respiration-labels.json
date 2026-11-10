@@ -362,5 +362,127 @@
     "L"
    ]
   ]
+ },
+ "B4b-08-plant-respiration-carbon-dioxide": {
+  "caption_below": "Air in, direction of air flow to aspirator; lime water stays clear then turns milky.",
+  "labels": [
+   [
+    "potassium hydroxide solution (absorbs carbon dioxide)",
+    [
+     145,
+     654
+    ],
+    "L"
+   ],
+   [
+    "bell jar",
+    [
+     601,
+     645
+    ],
+    "R"
+   ],
+   [
+    "black cloth (prevents photosynthesis)",
+    [
+     592,
+     494
+    ],
+    "R"
+   ],
+   [
+    "potted plant",
+    [
+     517,
+     509
+    ],
+    "R"
+   ],
+   [
+    "polythene bag over pot",
+    [
+     506,
+     631
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B4b-11-simple-respirometer-germinating-seeds": {
+  "caption_below": "Index moves towards seeds (oxygen used) while index does not move.",
+  "labels": [
+   [
+    "experiment: germinating seeds",
+    [
+     404,
+     726
+    ],
+    "L"
+   ],
+   [
+    "control: glass beads",
+    [
+     619,
+     726
+    ],
+    "R"
+   ],
+   [
+    "potassium hydroxide (absorbs carbon dioxide)",
+    [
+     404,
+     830
+    ],
+    "L"
+   ],
+   [
+    "wire gauze",
+    [
+     404,
+     749
+    ],
+    "L"
+   ],
+   [
+    "rubber bung",
+    [
+     404,
+     315
+    ],
+    "L"
+   ],
+   [
+    "capillary tube",
+    [
+     405,
+     228
+    ],
+    "L"
+   ],
+   [
+    "scale",
+    [
+     201,
+     218
+    ],
+    "L"
+   ],
+   [
+    "coloured liquid index",
+    [
+     267,
+     176
+    ],
+    "L"
+   ],
+   [
+    "water bath (constant temperature)",
+    [
+     258,
+     636
+    ],
+    "L"
+   ]
+  ]
  }
 }

@@ -1,0 +1,91 @@
+{
+ "template": "flowchart",
+ "title": "Fate of Pyruvic Acid in Respiration",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "glucose",
+   "text": "glucose",
+   "shape": "box",
+   "color": "#a2c4c9"
+  },
+  {
+   "id": "glycolysis",
+   "text": "glycolysis (cytoplasm)\n2 ATP",
+   "shape": "plain"
+  },
+  {
+   "id": "pyruvate",
+   "text": "pyruvic acid",
+   "shape": "box",
+   "color": "#fce5cd"
+  },
+  {
+   "id": "with_o2",
+   "text": "with oxygen",
+   "shape": "plain"
+  },
+  {
+   "id": "no_o2_yeast",
+   "text": "no oxygen: yeast and plants",
+   "shape": "plain"
+  },
+  {
+   "id": "no_o2_muscle",
+   "text": "no oxygen: animal muscle",
+   "shape": "plain"
+  },
+  {
+   "id": "aerobic",
+   "text": "mitochondrion\naerobic: carbon dioxide + water (38 ATP)",
+   "shape": "round",
+   "color": "#d9ead3"
+  },
+  {
+   "id": "yeast",
+   "text": "yeast\nanaerobic in yeast: ethanol + carbon dioxide (2 ATP)",
+   "shape": "round",
+   "color": "#c9daf8"
+  },
+  {
+   "id": "muscle",
+   "text": "muscle\nanaerobic in muscle: lactic acid (2 ATP)",
+   "shape": "round",
+   "color": "#f9cb9c"
+  }
+ ],
+ "edges": [
+  {
+   "from": "glucose",
+   "to": "glycolysis"
+  },
+  {
+   "from": "glycolysis",
+   "to": "pyruvate"
+  },
+  {
+   "from": "pyruvate",
+   "to": "with_o2"
+  },
+  {
+   "from": "with_o2",
+   "to": "aerobic"
+  },
+  {
+   "from": "pyruvate",
+   "to": "no_o2_yeast"
+  },
+  {
+   "from": "no_o2_yeast",
+   "to": "yeast"
+  },
+  {
+   "from": "pyruvate",
+   "to": "no_o2_muscle"
+  },
+  {
+   "from": "no_o2_muscle",
+   "to": "muscle"
+  }
+ ]
+}

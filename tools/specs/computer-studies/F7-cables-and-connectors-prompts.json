@@ -1,0 +1,18 @@
+[
+ [
+  "F7-01-three-panel-cross-sections",
+  "A three-panel diagram showing the cross-sections of network cables. Left: Twisted Pair showing four pairs of coloured wires twisted together. Middle: Coaxial cable stripped back to show the solid copper core, white insulation, braided metal shield, and black outer jacket. Right: Fibre optic cable showing thin glass strands emitting blue light at the tips. Clean flat textbook illustration, white background."
+ ],
+ [
+  "F7-02-network-connectors-left-rj",
+  "Illustration of network connectors. Left: RJ45 connector showing 8 gold pins. Middle: RJ11 connector, visibly narrower with 4 or 6 visible gold pins. Right: A metallic BNC T-connector showing one peg in the middle and two barrel ends."
+ ],
+ [
+  "F7-03-contrasting-male-female-connectors",
+  "Diagram contrasting male and female connectors. Left: A male VGA cable end with visible metal pins protruding. Right: A female VGA port on a computer with matching small holes. Arrows indicate the male pins go into the female holes."
+ ],
+ [
+  "F7-04-composite-computer-cables-clockwise",
+  "A composite illustration of computer cables. Clockwise from top left: A thick black power cable plug (kettle lead type), a red SATA internal data cable, a standard rectangular USB Type-A connector, an older blue VGA monitor cable showing 15 pins, and a wide parallel printer cable connector."
+ ]
+]

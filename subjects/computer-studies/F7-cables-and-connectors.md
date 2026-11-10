@@ -39,7 +39,7 @@ There are three main types of network cables tested by JAMB:
   * **Advantages:** Because it uses light, it is completely immune to electrical interference. It is extremely fast, has an enormous bandwidth, and can carry data over very long distances without losing signal strength.
   * **Uses:** Used for high-speed internet backbones and telecommunications (for example, the heavy undersea cables like MainOne or Glo-1 that bring international internet traffic to Nigeria).
 
-[IMAGE: A three-panel diagram showing the cross-sections of network cables. Left: Twisted Pair showing four pairs of coloured wires twisted together. Middle: Coaxial cable stripped back to show the solid copper core, white insulation, braided metal shield, and black outer jacket. Right: Fibre optic cable showing thin glass strands emitting blue light at the tips. Clean flat textbook illustration, white background.]
+![A three-panel diagram showing cross-sections of network cables: twisted pair with four pairs of wires, coaxial cable stripped to show layers, and fibre optic cable with glowing strands.](images/F7-01-three-panel-cross-sections.png)
 
 **Comparison of Network Cables**
 
@@ -66,7 +66,7 @@ A connector is the physical plug or socket at the end of a cable that allows it 
   * It is used exclusively with **coaxial cables** in older networks that used a bus topology (specifically networks called Thinnet or 10Base2). 
   * The middle peg of the "T" plugs into the computer's network card, while the two horizontal ends allow the main network cable to connect and continue travelling to the next computer in the line.
 
-[IMAGE: Illustration of network connectors. Left: RJ45 connector showing 8 gold pins. Middle: RJ11 connector, visibly narrower with 4 or 6 visible gold pins. Right: A metallic BNC T-connector showing one peg in the middle and two barrel ends. Clean flat textbook style, white background.]
+![Illustration showing three network connectors RJ45 RJ11 and a BNC T connector.](images/F7-02-network-connectors-left-rj.png)
 
 ## Computer Cables and Connectors
 
@@ -91,7 +91,7 @@ In electronics, connectors are designed with specific physical shapes to ensure 
 
 *Note:* When you connect a peripheral to a computer, you are almost always inserting a male cable end into a female computer port.
 
-[IMAGE: Diagram contrasting male and female connectors. Left: A male VGA cable end with visible metal pins protruding. Right: A female VGA port on a computer with matching small holes. Arrows indicate the male pins go into the female holes. Clean flat textbook style, white background.]
+![Illustration showing a male VGA cable with pins on the left and a female VGA port with holes on the right.](images/F7-03-contrasting-male-female-connectors.png)
 
 #### 2. Types of Computer Cables
 
@@ -135,7 +135,7 @@ The JAMB syllabus expects you to be familiar with the following specific compute
 | **Main historical use** | Old mice, modems | Old printers |
 | **Replaced today by** | USB | USB |
 
-[IMAGE: A composite illustration of computer cables. Clockwise from top left: A thick black power cable plug (kettle lead type), a red SATA internal data cable, a standard rectangular USB Type-A connector, an older blue VGA monitor cable showing 15 pins, and a wide parallel printer cable connector. Clean flat textbook style, white background.]
+![An illustration showing various computer cables including a power cable SATA cable USB connector VGA cable and parallel printer cable.](images/F7-04-composite-computer-cables-clockwise.png)
 
 ## Key terms
 

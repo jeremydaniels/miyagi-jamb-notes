@@ -1,0 +1,714 @@
+{
+ "B9c-01-human-endocrine-system": {
+  "labels": [
+   [
+    "hypothalamus",
+    [
+     347,
+     161
+    ],
+    "L"
+   ],
+   [
+    "pituitary gland",
+    [
+     361,
+     205
+    ],
+    "L"
+   ],
+   [
+    "thyroid gland",
+    [
+     346,
+     421
+    ],
+    "L"
+   ],
+   [
+    "parathyroid glands",
+    [
+     601,
+     328
+    ],
+    "R"
+   ],
+   [
+    "trachea",
+    [
+     328,
+     477
+    ],
+    "L"
+   ],
+   [
+    "adrenal glands",
+    [
+     420,
+     761
+    ],
+    "L"
+   ],
+   [
+    "kidney",
+    [
+     445,
+     826
+    ],
+    "L"
+   ],
+   [
+    "pancreas",
+    [
+     326,
+     849
+    ],
+    "L"
+   ],
+   [
+    "stomach",
+    [
+     365,
+     790
+    ],
+    "L"
+   ],
+   [
+    "duodenum",
+    [
+     278,
+     898
+    ],
+    "L"
+   ],
+   [
+    "ovary",
+    [
+     702,
+     881
+    ],
+    "R"
+   ],
+   [
+    "uterus",
+    [
+     661,
+     891
+    ],
+    "R"
+   ],
+   [
+    "testis",
+    [
+     864,
+     933
+    ],
+    "R"
+   ],
+   [
+    "scrotum",
+    [
+     884,
+     944
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-03-pituitary-gland-anatomy-section": {
+  "labels": [
+   [
+    "hypothalamus",
+    [
+     538,
+     223
+    ],
+    "R"
+   ],
+   [
+    "pituitary stalk",
+    [
+     524,
+     437
+    ],
+    "R"
+   ],
+   [
+    "anterior pituitary",
+    [
+     436,
+     726
+    ],
+    "L"
+   ],
+   [
+    "posterior pituitary",
+    [
+     611,
+     677
+    ],
+    "R"
+   ],
+   [
+    "blood vessels carrying releasing hormones",
+    [
+     526,
+     279
+    ],
+    "R"
+   ],
+   [
+    "nerve fibres carrying ADH and oxytocin",
+    [
+     604,
+     335
+    ],
+    "R"
+   ],
+   [
+    "skull bone",
+    [
+     274,
+     584
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9c-04-pituitary-disorders-comparison": {
+  "labels": [
+   [
+    "gigantism (too much growth hormone in childhood)",
+    [
+     167,
+     390
+    ],
+    "L"
+   ],
+   [
+    "normal",
+    [
+     414,
+     492
+    ],
+    "L"
+   ],
+   [
+    "pituitary dwarfism (too little growth hormone in childhood)",
+    [
+     619,
+     640
+    ],
+    "R"
+   ],
+   [
+    "normal hand",
+    [
+     877,
+     315
+    ],
+    "R"
+   ],
+   [
+    "acromegaly hand (too much growth hormone in adults)",
+    [
+     883,
+     741
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-06-adrenal-gland-anatomy-section": {
+  "labels": [
+   [
+    "adrenal gland",
+    [
+     253,
+     262
+    ],
+    "L"
+   ],
+   [
+    "kidney",
+    [
+     173,
+     493
+    ],
+    "L"
+   ],
+   [
+    "adrenal cortex (aldosterone, cortisol)",
+    [
+     619,
+     356
+    ],
+    "R"
+   ],
+   [
+    "adrenal medulla (adrenaline)",
+    [
+     623,
+     487
+    ],
+    "R"
+   ],
+   [
+    "blood vessel",
+    [
+     775,
+     498
+    ],
+    "R"
+   ],
+   [
+    "nerve",
+    [
+     492,
+     764
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9c-07-pancreas-islet-histology": {
+  "labels": [
+   [
+    "stomach",
+    [
+     393,
+     335
+    ],
+    "L"
+   ],
+   [
+    "pancreas",
+    [
+     360,
+     538
+    ],
+    "L"
+   ],
+   [
+    "duodenum",
+    [
+     140,
+     677
+    ],
+    "L"
+   ],
+   [
+    "pancreatic duct",
+    [
+     305,
+     518
+    ],
+    "L"
+   ],
+   [
+    "enzyme-secreting cells",
+    [
+     901,
+     493
+    ],
+    "R"
+   ],
+   [
+    "islet of Langerhans",
+    [
+     749,
+     528
+    ],
+    "R"
+   ],
+   [
+    "beta cells (insulin)",
+    [
+     679,
+     540
+    ],
+    "R"
+   ],
+   [
+    "alpha cells (glucagon)",
+    [
+     785,
+     464
+    ],
+    "R"
+   ],
+   [
+    "blood capillary",
+    [
+     760,
+     527
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-08-gonads-endocrine-histology": {
+  "labels": [
+   [
+    "testis",
+    [
+     116,
+     81
+    ],
+    "L"
+   ],
+   [
+    "seminiferous tubule",
+    [
+     263,
+     292
+    ],
+    "L"
+   ],
+   [
+    "interstitial cells (testosterone)",
+    [
+     176,
+     412
+    ],
+    "L"
+   ],
+   [
+    "blood capillary",
+    [
+     129,
+     512
+    ],
+    "L"
+   ],
+   [
+    "ovary",
+    [
+     689,
+     200
+    ],
+    "R"
+   ],
+   [
+    "developing follicle (oestrogen)",
+    [
+     741,
+     289
+    ],
+    "R"
+   ],
+   [
+    "mature follicle",
+    [
+     684,
+     487
+    ],
+    "R"
+   ],
+   [
+    "egg released at ovulation",
+    [
+     613,
+     789
+    ],
+    "R"
+   ],
+   [
+    "corpus luteum (progesterone)",
+    [
+     904,
+     820
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-11-auxin-tropisms-mechanism": {
+  "labels": [
+   [
+    "light",
+    [
+     494,
+     186
+    ],
+    "L"
+   ],
+   [
+    "shaded side with more auxin",
+    [
+     227,
+     430
+    ],
+    "L"
+   ],
+   [
+    "cells elongate more",
+    [
+     208,
+     658
+    ],
+    "L"
+   ],
+   [
+    "shoot bends towards light",
+    [
+     379,
+     311
+    ],
+    "L"
+   ],
+   [
+    "gravity",
+    [
+     908,
+     702
+    ],
+    "R"
+   ],
+   [
+    "auxin collects on lower side",
+    [
+     707,
+     645
+    ],
+    "R"
+   ],
+   [
+    "shoot grows upwards (negative geotropism)",
+    [
+     848,
+     564
+    ],
+    "R"
+   ],
+   [
+    "root grows downwards (positive geotropism)",
+    [
+     794,
+     785
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-12-klinostat-geotropism-experiment-apparatus": {
+  "labels": [
+   [
+    "rotating klinostat (control)",
+    [
+     268,
+     243
+    ],
+    "L"
+   ],
+   [
+    "stationary klinostat",
+    [
+     675,
+     528
+    ],
+    "R"
+   ],
+   [
+    "disc",
+    [
+     290,
+     390
+    ],
+    "L"
+   ],
+   [
+    "seedling",
+    [
+     380,
+     492
+    ],
+    "L"
+   ],
+   [
+    "root grows straight",
+    [
+     276,
+     500
+    ],
+    "L"
+   ],
+   [
+    "shoot grows straight",
+    [
+     445,
+     491
+    ],
+    "L"
+   ],
+   [
+    "root bends down",
+    [
+     752,
+     528
+    ],
+    "R"
+   ],
+   [
+    "shoot bends up",
+    [
+     915,
+     454
+    ],
+    "R"
+   ],
+   [
+    "moist cotton wool",
+    [
+     312,
+     592
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9c-13-gibberellin-effect-seed-germination": {
+  "labels": [
+   [
+    "dwarf pea (untreated)",
+    [
+     150,
+     677
+    ],
+    "L"
+   ],
+   [
+    "dwarf pea treated with gibberellin",
+    [
+     380,
+     437
+    ],
+    "L"
+   ],
+   [
+    "long internodes",
+    [
+     365,
+     619
+    ],
+    "L"
+   ],
+   [
+    "embryo",
+    [
+     703,
+     766
+    ],
+    "R"
+   ],
+   [
+    "gibberellin",
+    [
+     696,
+     636
+    ],
+    "R"
+   ],
+   [
+    "aleurone layer",
+    [
+     883,
+     239
+    ],
+    "R"
+   ],
+   [
+    "amylase",
+    [
+     867,
+     303
+    ],
+    "R"
+   ],
+   [
+    "endosperm (starch to sugar)",
+    [
+     805,
+     390
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9c-15-leaf-abscission-zone-anatomy": {
+  "labels": [
+   [
+    "stem",
+    [
+     596,
+     829
+    ],
+    "R"
+   ],
+   [
+    "petiole",
+    [
+     275,
+     391
+    ],
+    "L"
+   ],
+   [
+    "auxin (prevents abscission)",
+    [
+     279,
+     459
+    ],
+    "L"
+   ],
+   [
+    "abscission zone",
+    [
+     292,
+     611
+    ],
+    "L"
+   ],
+   [
+    "ethylene",
+    [
+     626,
+     654
+    ],
+    "R"
+   ],
+   [
+    "separation layer breaking down",
+    [
+     663,
+     649
+    ],
+    "R"
+   ],
+   [
+    "protective cork layer",
+    [
+     689,
+     764
+    ],
+    "R"
+   ],
+   [
+    "leaf scar",
+    [
+     677,
+     619
+    ],
+    "R"
+   ],
+   [
+    "vascular bundle",
+    [
+     315,
+     775
+    ],
+    "L"
+   ]
+  ]
+ }
+}

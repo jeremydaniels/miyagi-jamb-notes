@@ -6,5 +6,45 @@
  [
   "B9c-09-auxin-growth-response-curves",
   "Line graph of the effect of auxin concentration on the growth of roots, buds and stems. The x-axis shows auxin concentration increasing from left to right on a logarithmic scale (no numbers needed, just low to high). The y-axis shows growth response, with a horizontal zero line in the middle: above the line is stimulation, below the line is inhibition. Three bell-shaped curves in three colours: the root curve (brown) peaks at the lowest concentration and falls below zero early; the bud curve (green) peaks at a middle concentration; the stem curve (blue) peaks at the highest concentration, at a point where the root curve is well below zero."
+ ],
+ [
+  "B9c-01-human-endocrine-system",
+  "Front view outline of a human body (gender-neutral upper body and abdomen, with a separate small inset of the male and female lower abdomen) showing the positions of the main endocrine glands in distinct soft colours. Show the brain outline with the hypothalamus and the pea-sized pituitary gland hanging below it at the base of the brain, the butterfly-shaped thyroid gland in the neck in front of the trachea below the larynx, four tiny parathyroid glands shown as dots on the back of the thyroid (drawn in a small enlarged inset viewed from behind), the two adrenal glands as small caps on top of each kidney, the pancreas lying behind the stomach in the curve of the duodenum, and in the insets the two ovaries on either side of the uterus (female) and the two testes in the scrotum (male). Organs such as the trachea, stomach, kidneys and uterus drawn faintly in grey for reference."
+ ],
+ [
+  "B9c-03-pituitary-gland-anatomy-section",
+  "Side section of the hypothalamus and pituitary gland at the base of the brain. Show the lower part of the brain with the hypothalamus region shaded, the narrow pituitary stalk below it, and the pea-sized pituitary gland sitting in a small cup-shaped hollow of skull bone (sphenoid). Divide the pituitary into a larger front anterior lobe (shaded pink, with tiny blood vessels connecting it to the hypothalamus) and a smaller back posterior lobe (shaded lilac, with yellow nerve fibres running down from nerve cell bodies in the hypothalamus and ending in it)."
+ ],
+ [
+  "B9c-04-pituitary-disorders-comparison",
+  "Simple side-by-side comparison drawing of three standing figures and a hand, without faces showing distress, in a respectful medical illustration style: a very tall but well-proportioned young person (gigantism), a person of average height, and a short but well-proportioned child-sized adult (pituitary dwarfism); next to them a pair of hands comparing a normal adult hand with a large, broad, thick-fingered hand typical of acromegaly. A height scale in metres runs behind the figures."
+ ],
+ [
+  "B9c-06-adrenal-gland-anatomy-section",
+  "Diagram of the adrenal gland. Left: a kidney in outline with a small yellowish cap-shaped adrenal gland sitting on its top. Right: an enlarged section cut through the adrenal gland showing the thick outer cortex in light yellow and the inner medulla in reddish-brown, with a blood vessel entering and a vein leaving and a thin yellow nerve fibre entering the medulla."
+ ],
+ [
+  "B9c-07-pancreas-islet-histology",
+  "Two-part diagram of the pancreas. Left: the pancreas drawn as a long, soft, pinkish-cream organ lying behind and below the stomach (drawn faintly), with its head in the C-shaped curve of the duodenum, and the pancreatic duct joining the duodenum. Right: an enlarged microscope-style view of pancreatic tissue showing many rounded clusters of enzyme-producing cells (acini) in pink around small ducts, and one paler round island of cells in the middle (islet of Langerhans) containing two types of cells shown in two colours (beta cells in purple, alpha cells in green), with red blood capillaries running through the islet."
+ ],
+ [
+  "B9c-08-gonads-endocrine-histology",
+  "Two-part labelled diagram of the gonads as endocrine glands. Left: a section through a testis showing coiled seminiferous tubules with small clusters of interstitial cells shaded orange between the tubules, and a small capillary beside them. Right: a section through an ovary showing follicles at different stages of development (small primary follicles, a large mature follicle with a fluid-filled space and an egg), a follicle releasing an egg (ovulation), and a yellow corpus luteum."
+ ],
+ [
+  "B9c-11-auxin-tropisms-mechanism",
+  "Two-part diagram showing auxin and tropisms. Left part titled phototropism: a young shoot lit by yellow arrows from the right side, with small orange dots representing auxin concentrated on the left shaded side, longer elongated cells drawn on the shaded side and shorter cells on the lit side, and the shoot bending towards the light. Right part titled geotropism: a bean seedling laid horizontally, with orange auxin dots collected on the lower side of both the shoot and the root; the shoot tip curving upwards and the root tip curving downwards; a grey downward arrow for gravity."
+ ],
+ [
+  "B9c-12-klinostat-geotropism-experiment-apparatus",
+  "Klinostat experiment set-up with two klinostats side by side in side view. Left: a klinostat with its disc rotating slowly (shown by a curved arrow), with a bean seedling pinned to the disc, its root and shoot both still growing horizontally and straight. Right: an identical klinostat that is not rotating, with the seedling's root curving downwards and its shoot curving upwards. A small piece of moist cotton wool beside each seedling."
+ ],
+ [
+  "B9c-13-gibberellin-effect-seed-germination",
+  "Two-part diagram about gibberellins. Left: two pea plants side by side growing in pots, a short bushy dwarf pea plant labelled as untreated, and a tall pea plant with long internodes that was sprayed with gibberellin. Right: a longitudinal section of a cereal grain (maize or barley style) showing the embryo, the endosperm full of starch and the thin aleurone layer around the edge, with small arrows showing gibberellin moving from the embryo to the aleurone layer, and further arrows showing amylase moving from the aleurone layer into the endosperm, where starch is changed into sugar that moves back to the embryo."
+ ],
+ [
+  "B9c-15-leaf-abscission-zone-anatomy",
+  "Longitudinal section through the base of a leaf stalk where it joins a stem, at two stages. Left: a young healthy leaf, with orange dots representing auxin flowing down the petiole and an intact band of small cells in the abscission zone. Right: an old yellowing leaf, with few auxin dots and small grey wavy arrows representing ethylene, the separation layer cells breaking apart, a thin brown layer of cork forming on the stem side, and the leaf starting to fall away. Show the vascular bundle (xylem) running through the petiole into the stem."
  ]
 ]

@@ -101,7 +101,7 @@ The endocrine glands are found in different parts of the body, from the head to 
 - **Kidneys:** make **erythropoietin**, which stimulates red blood cell production.
 - **Placenta:** during pregnancy, makes hormones including **progesterone**, **oestrogen** and **human chorionic gonadotrophin (hCG)** (the hormone detected by pregnancy tests).
 
-[IMAGE: Front view outline of a human body (gender-neutral upper body and abdomen, with a separate small inset of the male and female lower abdomen) showing the positions of the main endocrine glands in distinct soft colours. Show the brain outline with the hypothalamus and the pea-sized pituitary gland hanging below it at the base of the brain, the butterfly-shaped thyroid gland in the neck in front of the trachea below the larynx, four tiny parathyroid glands shown as dots on the back of the thyroid (drawn in a small enlarged inset viewed from behind), the two adrenal glands as small caps on top of each kidney, the pancreas lying behind the stomach in the curve of the duodenum, and in the insets the two ovaries on either side of the uterus (female) and the two testes in the scrotum (male). Organs such as the trachea, stomach, kidneys and uterus drawn faintly in grey for reference. Labels: hypothalamus, pituitary gland, thyroid gland, parathyroid glands, trachea, adrenal glands, kidney, pancreas, stomach, duodenum, ovary, uterus, testis, scrotum. Clean flat textbook style, white background.]
+![Diagram showing positions of main human endocrine glands in the body, with insets for parathyroid glands and male and female reproductive organs.](images/B9c-01-human-endocrine-system.png)
 
 ## Hormones of each gland and their functions
 
@@ -135,7 +135,7 @@ The pituitary gland is small but very important. It has two main parts, which ma
 - The **anterior pituitary** (front lobe) is true glandular tissue. It **makes** its own hormones, under the control of releasing hormones from the hypothalamus.
 - The **posterior pituitary** (back lobe) is really an extension of the brain. It **stores and releases** two hormones (ADH and oxytocin) that are **made in the hypothalamus** and carried down nerve fibres in the stalk.
 
-[IMAGE: Side section of the hypothalamus and pituitary gland at the base of the brain. Show the lower part of the brain with the hypothalamus region shaded, the narrow pituitary stalk below it, and the pea-sized pituitary gland sitting in a small cup-shaped hollow of skull bone (sphenoid). Divide the pituitary into a larger front anterior lobe (shaded pink, with tiny blood vessels connecting it to the hypothalamus) and a smaller back posterior lobe (shaded lilac, with yellow nerve fibres running down from nerve cell bodies in the hypothalamus and ending in it). Labels: hypothalamus, pituitary stalk, anterior pituitary, posterior pituitary, blood vessels carrying releasing hormones, nerve fibres carrying ADH and oxytocin, skull bone. Clean flat textbook style, white background.]
+![Diagram showing a sagittal section of the hypothalamus and pituitary gland resting in the sella turcica, highlighting anterior and posterior lobes with portal vessels and neurosecretory fibres.](images/B9c-03-pituitary-gland-anatomy-section.png)
 
 #### Hormones of the anterior pituitary
 
@@ -204,7 +204,7 @@ The pituitary gland is often called the **master gland** of the endocrine system
 
 **Other pituitary disorders:** too little FSH and LH causes **delayed puberty** and **infertility**; too much prolactin can cause milk production in a person who is not breastfeeding and can disturb the menstrual cycle; damage to the whole anterior pituitary causes many glands to fail at once.
 
-[IMAGE: Simple side-by-side comparison drawing of three standing figures and a hand, without faces showing distress, in a respectful medical illustration style: a very tall but well-proportioned young person (gigantism), a person of average height, and a short but well-proportioned child-sized adult (pituitary dwarfism); next to them a pair of hands comparing a normal adult hand with a large, broad, thick-fingered hand typical of acromegaly. A height scale in metres runs behind the figures. Labels: gigantism (too much growth hormone in childhood), normal, pituitary dwarfism (too little growth hormone in childhood), normal hand, acromegaly hand (too much growth hormone in adults). Clean flat textbook style, white background.]
+![Comparison of three human figures showing gigantism, normal height, and pituitary dwarfism against a height scale, alongside a comparison between a normal hand and an acromegaly hand.](images/B9c-04-pituitary-disorders-comparison.png)
 
 ### 2. The thyroid gland
 
@@ -324,7 +324,7 @@ Each adrenal gland is really two glands in one, with different origins and diffe
 - The **adrenal cortex** (outer layer) makes **steroid hormones** (corticosteroids). It is controlled by **ACTH** from the pituitary (and, for aldosterone, mainly by the salt and water balance of the blood).
 - The **adrenal medulla** (inner core) makes **adrenaline** and **noradrenaline**. It is controlled by **nerves** of the sympathetic nervous system, so it can respond within seconds.
 
-[IMAGE: Diagram of the adrenal gland. Left: a kidney in outline with a small yellowish cap-shaped adrenal gland sitting on its top. Right: an enlarged section cut through the adrenal gland showing the thick outer cortex in light yellow and the inner medulla in reddish-brown, with a blood vessel entering and a vein leaving and a thin yellow nerve fibre entering the medulla. Labels: adrenal gland, kidney, adrenal cortex (aldosterone, cortisol), adrenal medulla (adrenaline), blood vessel, nerve. Clean flat textbook style, white background.]
+![Diagram showing a kidney with an adrenal gland on top, alongside an enlarged cross-section revealing the cortex, medulla, blood vessels, and nerve fibre.](images/B9c-06-adrenal-gland-anatomy-section.png)
 
 #### Hormones of the adrenal medulla: adrenaline
 
@@ -394,7 +394,7 @@ Insulin and glucagon are an **antagonistic pair** of hormones: they have opposit
 
 **Textbook variation:** do not confuse **glucagon** (the hormone) with **glycogen** (the storage carbohydrate). They are spelt similarly, and JAMB options often use both.
 
-[IMAGE: Two-part diagram of the pancreas. Left: the pancreas drawn as a long, soft, pinkish-cream organ lying behind and below the stomach (drawn faintly), with its head in the C-shaped curve of the duodenum, and the pancreatic duct joining the duodenum. Right: an enlarged microscope-style view of pancreatic tissue showing many rounded clusters of enzyme-producing cells (acini) in pink around small ducts, and one paler round island of cells in the middle (islet of Langerhans) containing two types of cells shown in two colours (beta cells in purple, alpha cells in green), with red blood capillaries running through the islet. Labels: stomach, pancreas, duodenum, pancreatic duct, enzyme-secreting cells, islet of Langerhans, beta cells (insulin), alpha cells (glucagon), blood capillary. Clean flat textbook style, white background.]
+![Diagram showing gross anatomy of the pancreas situated near the stomach and duodenum on the left, and a microscopic cross section of pancreatic acini and islet cells on the right.](images/B9c-07-pancreas-islet-histology.png)
 
 #### Diabetes mellitus (lack of insulin or failure of insulin to work)
 
@@ -506,7 +506,7 @@ If no pregnancy occurs, the corpus luteum breaks down, progesterone falls, the u
 
 **Misuse of hormones:** some athletes and bodybuilders take synthetic testosterone-like drugs (**anabolic steroids**) to build muscle. These are banned in sport and can cause liver damage, heart disease, infertility, shrinking of the testes in men, and deepening of the voice and growth of facial hair in women.
 
-[IMAGE: Two-part labelled diagram of the gonads as endocrine glands. Left: a section through a testis showing coiled seminiferous tubules with small clusters of interstitial cells shaded orange between the tubules, and a small capillary beside them. Right: a section through an ovary showing follicles at different stages of development (small primary follicles, a large mature follicle with a fluid-filled space and an egg), a follicle releasing an egg (ovulation), and a yellow corpus luteum. Labels: testis, seminiferous tubule, interstitial cells (testosterone), blood capillary, ovary, developing follicle (oestrogen), mature follicle, egg released at ovulation, corpus luteum (progesterone). Clean flat textbook style, white background.]
+![Diagram showing cross sections of a testis with seminiferous tubules and interstitial cells alongside an ovary with developing follicles ovulation and a corpus luteum](images/B9c-08-gonads-endocrine-histology.png)
 
 ### Summary of the endocrine glands and their hormones
 
@@ -669,9 +669,9 @@ Consider a young bean seedling laid **horizontally** on its side.
 - **Observation (after 1 to 2 days):** on the **stationary** klinostat, the roots have **bent downwards** and the shoots have **bent upwards**. On the **rotating** klinostat, the roots and shoots have continued to grow **straight**, horizontally.
 - **Conclusion:** on the rotating klinostat, gravity acts equally on all sides, so auxin is spread evenly and no bending occurs. On the stationary one, gravity acts from one side only, so auxin collects on the lower side and causes bending. Roots are **positively geotropic** and shoots are **negatively geotropic**.
 
-[IMAGE: Two-part diagram showing auxin and tropisms. Left part titled phototropism: a young shoot lit by yellow arrows from the right side, with small orange dots representing auxin concentrated on the left shaded side, longer elongated cells drawn on the shaded side and shorter cells on the lit side, and the shoot bending towards the light. Right part titled geotropism: a bean seedling laid horizontally, with orange auxin dots collected on the lower side of both the shoot and the root; the shoot tip curving upwards and the root tip curving downwards; a grey downward arrow for gravity. Labels: light, shaded side with more auxin, cells elongate more, shoot bends towards light, gravity, auxin collects on lower side, shoot grows upwards (negative geotropism), root grows downwards (positive geotropism). Clean flat textbook style, white background.]
+![A two-part diagram illustrating phototropism with a shoot bending toward directional light, and geotropism with a horizontal seedling showing shoot growing upward and root downward.](images/B9c-11-auxin-tropisms-mechanism.png)
 
-[IMAGE: Klinostat experiment set-up with two klinostats side by side in side view. Left: a klinostat with its disc rotating slowly (shown by a curved arrow), with a bean seedling pinned to the disc, its root and shoot both still growing horizontally and straight. Right: an identical klinostat that is not rotating, with the seedling's root curving downwards and its shoot curving upwards. A small piece of moist cotton wool beside each seedling. Labels: rotating klinostat (control), stationary klinostat, disc, seedling, root grows straight, shoot grows straight, root bends down, shoot bends up, moist cotton wool. Clean flat textbook style, white background.]
+![A diagram comparing a rotating klinostat with a straight bean seedling and a stationary klinostat where the seedling root curves downward and shoot curves upward.](images/B9c-12-klinostat-geotropism-experiment-apparatus.png)
 
 ### 2. Gibberellins
 
@@ -692,7 +692,7 @@ Consider a young bean seedling laid **horizontally** on its side.
 
 **Interaction with abscisic acid:** gibberellins and abscisic acid have **opposite effects** on seed dormancy: abscisic acid keeps seeds dormant, and gibberellins break dormancy. The balance between them decides when a seed germinates.
 
-[IMAGE: Two-part diagram about gibberellins. Left: two pea plants side by side growing in pots, a short bushy dwarf pea plant labelled as untreated, and a tall pea plant with long internodes that was sprayed with gibberellin. Right: a longitudinal section of a cereal grain (maize or barley style) showing the embryo, the endosperm full of starch and the thin aleurone layer around the edge, with small arrows showing gibberellin moving from the embryo to the aleurone layer, and further arrows showing amylase moving from the aleurone layer into the endosperm, where starch is changed into sugar that moves back to the embryo. Labels: dwarf pea (untreated), dwarf pea treated with gibberellin, long internodes, embryo, gibberellin, aleurone layer, amylase, endosperm (starch to sugar). Clean flat textbook style, white background.]
+![A comparison showing a short untreated dwarf pea plant next to a tall gibberellin-treated pea plant, alongside a seed section illustrating gibberellin action during germination.](images/B9c-13-gibberellin-effect-seed-germination.png)
 
 ### 3. Cytokinins
 
@@ -775,7 +775,7 @@ Consider a young bean seedling laid **horizontally** on its side.
 7. The leaf is now held only by the xylem vessels and is easily broken off by **wind** or its own **weight**.
 8. A layer of **cork** cells forms on the stem side, sealing the wound and leaving a **leaf scar**, which protects the plant from water loss and infection.
 
-[IMAGE: Longitudinal section through the base of a leaf stalk where it joins a stem, at two stages. Left: a young healthy leaf, with orange dots representing auxin flowing down the petiole and an intact band of small cells in the abscission zone. Right: an old yellowing leaf, with few auxin dots and small grey wavy arrows representing ethylene, the separation layer cells breaking apart, a thin brown layer of cork forming on the stem side, and the leaf starting to fall away. Show the vascular bundle (xylem) running through the petiole into the stem. Labels: stem, petiole, auxin (prevents abscission), abscission zone, ethylene, separation layer breaking down, protective cork layer, leaf scar, vascular bundle. Clean flat textbook style, white background.]
+![Longitudinal diagram comparing a healthy green leaf petiole with auxin preventing abscission to an aging yellow leaf showing ethylene action, separation layer breakdown, and cork formation.](images/B9c-15-leaf-abscission-zone-anatomy.png)
 
 ### Effects of the phytohormones on growth, tropism, flowering, fruit ripening and leaf abscission
 

@@ -134,14 +134,6 @@
     "L"
    ],
    [
-    "flame cell",
-    [
-     596,
-     437
-    ],
-    "R"
-   ],
-   [
     "nucleus",
     [
      693,
@@ -181,7 +173,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "flame cell",
+    755,
+    865
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B5-05-stoma-lenticel-plant": {
   "labels": [
@@ -675,7 +676,7 @@
      702,
      237
     ],
-    "R"
+    "T"
    ],
    [
     "tannins",
@@ -731,7 +732,7 @@
      589,
      882
     ],
-    "R"
+    "L"
    ],
    [
     "mucilage (okra)",
@@ -741,7 +742,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B5-11-inhaled-exhaled-air-apparatus": {
   "caption_below": "Clear and milky lime water test results.",
@@ -812,15 +816,7 @@
      179,
      110
     ],
-    "L"
-   ],
-   [
-    "flame cell",
-    [
-     653,
-     101
-    ],
-    "R"
+    "T"
    ],
    [
     "cilia",
@@ -828,7 +824,7 @@
      658,
      211
     ],
-    "R"
+    "T"
    ],
    [
     "excretory canal",
@@ -910,7 +906,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "flame cell",
+    766,
+    500
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B5-03-earthworm-nephridium-excretory-structure": {
   "regions": [

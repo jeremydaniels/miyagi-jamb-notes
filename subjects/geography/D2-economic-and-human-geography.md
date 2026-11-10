@@ -101,7 +101,7 @@ Manufacturing industries are broadly grouped into **light industries** (producin
 5. **Food and Beverages (Light):** Processes agricultural products into beer, soft drinks, flour, and packaged foods. Found heavily in major cities like **Lagos**, **Ibadan**, **Kano**, and **Aba**.
 6. **Vehicle Assembly (Heavy):** Assembles imported parts. Examples include Peugeot in **Kaduna**, Volkswagen in **Lagos**, and Innoson Motors in **Nnewi** (Anambra).
 
-[IMAGE: Map of Nigeria showing the locations of major manufacturing industries. Symbols marking Cement factories (Obajana, Ewekoro, Sokoto, Nkalagu), Textile mills (Kano, Kaduna), Petroleum refineries (Port Harcourt, Warri, Kaduna, Lagos), and Iron & Steel (Ajaokuta, Aladja). Include a legend explaining the symbols. Clean flat textbook style, white background.]
+![A thematic map of Nigeria highlighting locations of cement factories, textile mills, petroleum refineries, and iron and steel industries with a clear explanatory legend.](images/D2-02-nigeria-manufacturing-industries-map.png)
 
 ### Factors of industrial location and problems associated with industries
 

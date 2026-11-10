@@ -526,5 +526,130 @@
     "L"
    ]
   ]
+ },
+ "B2e-09-pepsin-ph-experiment-tubes": {
+  "labels": [
+   [
+    "A: acid",
+    [
+     321,
+     491
+    ],
+    "L"
+   ],
+   [
+    "clear (protein digested); B: neutral",
+    [
+     450,
+     532
+    ],
+    "L"
+   ],
+   [
+    "cloudy; C: alkaline",
+    [
+     580,
+     532
+    ],
+    "R"
+   ],
+   [
+    "cloudy; D: boiled pepsin",
+    [
+     710,
+     532
+    ],
+    "R"
+   ],
+   [
+    "cloudy (control); water bath at 37 \u00b0C; thermometer",
+    [
+     831,
+     358
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2e-11-nutrient-absorption-pathway": {
+  "caption_below": "Glucose and amino acids, fatty acids and glycerol.",
+  "regions": [
+   "liver",
+   "heart"
+  ],
+  "labels": [
+   [
+    "villus",
+    [
+     233,
+     315
+    ],
+    "L"
+   ],
+   [
+    "blood capillaries",
+    [
+     290,
+     437
+    ],
+    "L"
+   ],
+   [
+    "lacteal",
+    [
+     231,
+     494
+    ],
+    "L"
+   ],
+   [
+    "hepatic portal vein",
+    [
+     437,
+     634
+    ],
+    "L"
+   ],
+   [
+    "liver",
+    [
+     654,
+     636
+    ],
+    "R"
+   ],
+   [
+    "lymph vessel",
+    [
+     454,
+     461
+    ],
+    "L"
+   ],
+   [
+    "thoracic duct",
+    [
+     637,
+     231
+    ],
+    "R"
+   ],
+   [
+    "vein near the neck (subclavian vein)",
+    [
+     600,
+     280
+    ],
+    "R"
+   ],
+   [
+    "heart",
+    [
+     855,
+     369
+    ],
+    "R"
+   ]
+  ]
  }
 }

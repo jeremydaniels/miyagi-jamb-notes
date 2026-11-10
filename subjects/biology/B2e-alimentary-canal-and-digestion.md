@@ -435,7 +435,7 @@ When an enzyme is **denatured** by heat or extreme pH, the shape of its active s
 - **Observation:** only tube **A** becomes **clear**; the others stay cloudy.
 - **Conclusion:** pepsin digests protein (the cloudy egg white) into soluble products only in **acid** conditions (optimum about pH 2). Boiling destroys pepsin (tube D).
 
-[IMAGE: Experiment on the effect of pH on pepsin: four test tubes labelled A, B, C and D standing in a water bath at 37 °C with a thermometer. Tube A (egg white + pepsin + hydrochloric acid) is clear; tubes B (egg white + pepsin + water), C (egg white + pepsin + sodium hydroxide) and D (egg white + boiled pepsin + hydrochloric acid) are cloudy white. Labels: A: acid, clear (protein digested); B: neutral, cloudy; C: alkaline, cloudy; D: boiled pepsin, cloudy (control); water bath at 37 °C; thermometer. Clean flat textbook style, white background.]
+![A diagram of four test tubes in a heated water bath with a thermometer, showing one tube clear and three tubes containing cloudy white liquid.](images/B2e-09-pepsin-ph-experiment-tubes.png)
 
 ## Enzymes in the digestion of carbohydrates, proteins and fats
 
@@ -586,7 +586,7 @@ A sheep ingests grass by gripping it between its lower incisors and dental pad a
 
 **After absorption:** the blood capillaries of the villi join to form the **hepatic portal vein**, which carries the absorbed glucose, amino acids, minerals and vitamins straight to the **liver**. The liver processes them before the blood flows on to the heart and the rest of the body.
 
-[IMAGE: Diagram showing the routes of absorbed food. On the left, a villus with arrows showing glucose and amino acids entering the blood capillaries and fatty acids and glycerol entering the central lacteal. From the capillaries, a blue vessel labelled hepatic portal vein leads to the liver, then to the heart. From the lacteal, a yellow lymph vessel leads up to the thoracic duct, which joins a large vein near the neck and then the heart. Labels: villus, blood capillaries, lacteal, glucose and amino acids, fatty acids and glycerol, hepatic portal vein, liver, lymph vessel, thoracic duct, vein near the neck (subclavian vein), heart. Clean flat textbook style, white background.]
+![Diagram showing the absorption pathways of nutrients from an intestinal villus via blood vessels to the liver and heart and via a lacteal to the thoracic duct.](images/B2e-11-nutrient-absorption-pathway.png)
 
 ### 4. Assimilation
 

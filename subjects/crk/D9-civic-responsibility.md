@@ -45,7 +45,7 @@ Paul concludes that Christians must submit to authorities for two main reasons:
 1. **To avoid wrath (punishment):** So they do not get arrested or penalized by the law.
 2. **For conscience's sake:** So they maintain a clear, guilt-free conscience before God, knowing they have done the right thing.
 
-[IMAGE: A diagram showing the biblical chain of civil authority according to Romans 13. At the top, a glowing symbol representing God. An arrow points down to a government building and a judge holding a gavel, with the text "God ordains governing authorities." Below that, an arrow points down to ordinary citizens obeying a traffic light and paying taxes. Labels to add later: "God (Source of all power)", "Government (Minister of God for good / bears the sword to punish evil)", "Citizens (Submit for conscience sake)". Clean flat textbook style, white background.]
+![Diagram illustrating the biblical chain of authority from Romans 13, showing God ordaining governing authorities, who then oversee citizens obeying laws and paying taxes.](images/D9-01-civil-authority-hierarchy.png)
 
 ## Requirements of good citizenship
 
@@ -88,7 +88,7 @@ The goal of praying for leaders is so that citizens "may lead a quiet and peacea
 ### 5. Submission to human institutions (1 Peter 2:13-17)
 The Apostle Peter reinforces Paul's teachings, telling Christians to submit to every ordinance of man for the Lord's sake—whether it is to the king (as supreme) or to governors who punish evildoers and praise those who do well. Peter summarizes the Christian civic duty in four commands: "Honour all men. Love the brotherhood. Fear God. Honour the king."
 
-[IMAGE: A split conceptual illustration showing practical civic duties. Left side: A citizen handing a tax form and currency to an official behind a desk with a Nigerian flag. Right side: A diverse group of people in a church with heads bowed, praying; above them is a subtle thought bubble showing the Nigerian Coat of Arms. Labels to add later: "Paying taxes and custom", "Praying for leaders and national peace". Clean flat textbook style, white background.]
+![A split illustration showing a citizen paying taxes at a desk on the left, and a congregation praying for Nigeria in church on the right.](images/D9-02-civic-duties-dual-scene.png)
 
 ## Key terms
 

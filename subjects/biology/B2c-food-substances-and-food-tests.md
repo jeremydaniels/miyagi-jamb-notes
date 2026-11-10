@@ -52,7 +52,7 @@ The syllabus lists **six classes of food**:
 
 **Textbook variation:** many textbooks add **roughage (dietary fibre)** as a **seventh class**. Others say roughage is not a true nutrient, because it is not digested or absorbed by humans, and treat it as a part of the diet rather than a class of food. The syllabus does not list it, but JAMB questions often ask about its function (preventing constipation), so learn it. In these notes it is covered after water.
 
-[IMAGE: Chart of the classes of food arranged as seven coloured circles around a central plate. Each circle holds a simple drawing of typical Nigerian foods: carbohydrates (yam tuber, garri, rice, bread), proteins (beans, egg, fish, meat), fats and oils (bottle of red palm oil, groundnuts, butter), vitamins (orange, carrot, green ugwu leaves), mineral salts (salt shaker, milk, crayfish), water (glass of water), roughage (okro, whole fruits, vegetables). Labels: carbohydrates, proteins, fats and oils, vitamins, mineral salts, water, roughage (dietary fibre). Soft pastel colours, each class in a different colour. Clean flat textbook style, white background.]
+![Educational chart showing seven colored circles around an empty central plate, depicting the food classes: carbohydrates, proteins, fats and oils, vitamins, minerals, water, and roughage.](images/B2c-01-food-classes-chart.png)
 
 ### Carbohydrates
 
@@ -533,7 +533,7 @@ Energy per gram = energy released ÷ mass of food burned
 
 **Control/fair test:** use the same mass of food, the same volume of water, the same distance between the flame and the tube, and the same tube for each food.
 
-[IMAGE: Laboratory set-up for measuring the energy in food: a clamp stand holding a boiling tube containing water with a thermometer in it; below the tube, a burning groundnut on the tip of a mounted needle held in a cork. A Bunsen burner sits to one side. Labels: clamp stand, boiling tube, water (20 cm³), thermometer, burning groundnut, mounted needle, cork, Bunsen burner. Clean flat textbook style, white background.]
+![Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.](images/B2c-06-food-energy-calorimetry-apparatus.png)
 
 ### Factors that change the nutritional value of food
 

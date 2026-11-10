@@ -506,5 +506,133 @@
     "R"
    ]
   ]
+ },
+ "B2c-01-food-classes-chart": {
+  "labels": [
+   [
+    "carbohydrates",
+    [
+     562,
+     180
+    ],
+    "R"
+   ],
+   [
+    "proteins",
+    [
+     813,
+     360
+    ],
+    "R"
+   ],
+   [
+    "fats and oils",
+    [
+     818,
+     657
+    ],
+    "R"
+   ],
+   [
+    "vitamins",
+    [
+     586,
+     841
+    ],
+    "R"
+   ],
+   [
+    "mineral salts",
+    [
+     299,
+     774
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     179,
+     517
+    ],
+    "L"
+   ],
+   [
+    "roughage (dietary fibre)",
+    [
+     281,
+     253
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B2c-06-food-energy-calorimetry-apparatus": {
+  "labels": [
+   [
+    "clamp stand",
+    [
+     262,
+     563
+    ],
+    "L"
+   ],
+   [
+    "boiling tube",
+    [
+     473,
+     307
+    ],
+    "L"
+   ],
+   [
+    "water (20 cm³)",
+    [
+     456,
+     486
+    ],
+    "L"
+   ],
+   [
+    "thermometer",
+    [
+     434,
+     204
+    ],
+    "L"
+   ],
+   [
+    "burning groundnut",
+    [
+     435,
+     671
+    ],
+    "L"
+   ],
+   [
+    "mounted needle",
+    [
+     435,
+     732
+    ],
+    "L"
+   ],
+   [
+    "cork",
+    [
+     435,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Bunsen burner",
+    [
+     690,
+     727
+    ],
+    "R"
+   ]
+  ]
  }
 }

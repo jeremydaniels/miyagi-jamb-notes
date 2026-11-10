@@ -23,7 +23,7 @@ By the end of these notes, you should be able to:
 
 Before modern states and empires emerged, the area that is now Nigeria was home to several advanced early cultures. Archaeologists have discovered tools, weapons, art, and human remains that show how early people lived, developed technology, and organised their societies. 
 
-[IMAGE: Map of Nigeria showing the locations of the early centres of civilization. Points marked and labelled: "Iwo Eleru" (south-west, near Akure), "Ife" (south-west), "Benin" (mid-west), "Igbo-Ukwu" (south-east, near Awka), "Nok" (central, north of the Niger-Benue confluence, covering parts of Kaduna/Plateau), and "Daima" (far north-east, south of Lake Chad). Clean flat textbook style, white background, clear regional outlines.]
+![Map of Nigeria showing early centres of civilization including Daima, Nok, Ife, Iwo Eleru, Benin, and Igbo-Ukwu along the Niger and Benue river systems.](images/A2-01-map-early-nigerian-civilizations.png)
 
 ### 1. Iwo Eleru (Late Stone Age)
 
@@ -76,7 +76,7 @@ Igbo-Ukwu is located in present-day Anambra State. In 1938, a man digging a toil
 *   The presence of thousands of beads suggests that the people of Igbo-Ukwu were involved in **long-distance trade**, possibly reaching as far as North Africa or the Middle East.
 *   The wealthy burial shows that complex, centralised socio-religious institutions (like the Nri hegemony) existed in Igboland by the 9th century.
 
-[IMAGE: An illustration of the famous Igbo-Ukwu roped bronze pot. A rounded bronze vessel sitting on a small stand, completely enclosed in a delicate, decorative net of bronze ropes tied in knots, cast as a single piece. The metal has a greenish-brown patina. Clean flat textbook style, white background.]
+![An illustration of the Igbo-Ukwu roped bronze pot, showing a rounded greenish-brown vessel encased in a bronze rope net sitting on an ornate circular stand.](images/A2-03-igbo-ukwu-roped-bronze.png)
 
 ### 5. Ife (Classical Period)
 
@@ -146,7 +146,7 @@ As early settlements grew into towns and empires, they built massive defensive p
 *   **Political Power:** The ability to build such massive structures shows that the rulers had the authority and economic power to organize thousands of laborers over long periods. 
 *   **Boundary Demarcation:** They clearly marked the physical and spiritual boundaries of the capital city.
 
-[IMAGE: A cross-section diagram of a traditional defensive moat and wall (like the Benin Iya). On the left, a deep, steep-sided V-shaped ditch (moat). The earth dug from the ditch is piled high on the right side to form a massive, steep earthen wall (bank). A tiny human figure stands at the bottom of the ditch to show the massive scale. Labels: "Deep ditch (Moat)", "Excavated earth piled up", "High defensive wall (Bank)", "Enemy approach side", "City side". Clean flat textbook style, white background.]
+![A cross-section illustration of a defensive earthwork showing a steep deep ditch with a tiny human figure at the bottom and a high earthen bank wall beside it.](images/A2-04-cross-section-defensive-moat.png)
 
 ### 4. Palaces
 

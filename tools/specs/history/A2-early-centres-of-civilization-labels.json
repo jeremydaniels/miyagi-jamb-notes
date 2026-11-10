@@ -1,0 +1,37 @@
+{
+ "A2-03-igbo-ukwu-roped-bronze": {},
+ "A2-04-cross-section-defensive-moat": {
+  "caption_below": "City side and enemy approach side.",
+  "regions": [
+   "Deep ditch (Moat)",
+   "Excavated earth piled up",
+   "High defensive wall (Bank)"
+  ],
+  "labels": [
+   [
+    "Deep ditch (Moat)",
+    [
+     326,
+     677
+    ],
+    "L"
+   ],
+   [
+    "Excavated earth piled up",
+    [
+     599,
+     390
+    ],
+    "R"
+   ],
+   [
+    "High defensive wall (Bank)",
+    [
+     821,
+     247
+    ],
+    "R"
+   ]
+  ]
+ }
+}

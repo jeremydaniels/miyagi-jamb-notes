@@ -17,7 +17,7 @@ The ING faced severe political challenges, widespread strikes, and a court rulin
 
 Upon taking power, General Abacha dissolved all democratic institutions that had been established during the Babangida transition programme. This included the National Assembly, the state assemblies, the state executive councils, and the two legal political parties (the SDP and the NRC). He replaced the state civilian governors with military administrators.
 
-[IMAGE: A simple timeline of the Abacha regime from 1993 to 1998. Key points on the line: Nov 1993 (Abacha takes power), May 1994 (NADECO formed), June 1994 (Abiola arrested), 1994-1995 (Constitutional Conference), Nov 1995 (Execution of Ogoni nine and Commonwealth suspension), Oct 1996 (Creation of 6 new states), 1997 (coup in Sierra Leone) and 1998 (ECOMOG ousts the junta; President Kabbah returns), June 1998 (Death of Abacha). Clean flat textbook illustration, white background.]
+![A vertical timeline of Nigeria's Abacha regime from 1993 to 1998 detailing key political milestones from taking power through his death in 1998.](images/D9-01-horizontal-political-timeline.png)
 
 ## Assessing the Regime: Documented Achievements
 

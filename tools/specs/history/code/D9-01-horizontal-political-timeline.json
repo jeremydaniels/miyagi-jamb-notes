@@ -1,0 +1,51 @@
+{
+ "template": "timeline",
+ "title": "Timeline of the Abacha Regime (1993–1998)",
+ "events": [
+  {
+   "when": "Nov 1993",
+   "title": "Takes Power",
+   "text": "Abacha takes power"
+  },
+  {
+   "when": "May 1994",
+   "title": "NADECO Formed",
+   "text": "Pro-democracy coalition established"
+  },
+  {
+   "when": "June 1994",
+   "title": "Abiola Arrested",
+   "text": "Moshood Abiola detained"
+  },
+  {
+   "when": "1994–1995",
+   "title": "Constitutional Conference",
+   "text": "National Constitutional Conference held"
+  },
+  {
+   "when": "Nov 1995",
+   "title": "Ogoni Nine Executed",
+   "text": "Commonwealth suspends Nigeria"
+  },
+  {
+   "when": "Oct 1996",
+   "title": "New States",
+   "text": "Creation of 6 new states"
+  },
+  {
+   "when": "1997",
+   "title": "Sierra Leone Coup",
+   "text": "Military coup in Sierra Leone"
+  },
+  {
+   "when": "1998",
+   "title": "ECOMOG Intervention",
+   "text": "Junta ousted, President Kabbah returns"
+  },
+  {
+   "when": "June 1998",
+   "title": "Death of Abacha",
+   "text": "Regime ends with Abacha's death"
+  }
+ ]
+}

@@ -253,7 +253,7 @@ A **floral diagram** is a ground plan of the flower as if seen from above, with 
 
 **Textbook variation:** the symbols used in floral formulae vary between textbooks. Some use "P" for perianth, some write the ovary position as a bar and others in words, and some use different signs for symmetry and sex. JAMB rarely asks you to write a full floral formula; it is more important to know what each part does and to recognise terms such as superior ovary, zygomorphic and syncarpous.
 
-[IMAGE: Floral diagram (ground plan from above) of a Hibiscus flower. Show a small circle at the top for the mother axis, an outer ring of five small bract shapes for the epicalyx, then five joined crescent-shaped sepals, then five free petal shapes overlapping, then a ring of many small two-lobed anther shapes joined by a circle (staminal tube), and in the centre the ovary in cross-section with five chambers, each with ovules on the central axis. Labels: mother axis, epicalyx, calyx (5, joined), corolla (5, free), staminal tube with anthers, ovary (5 carpels, axile placentation). Soft green, pink and yellow palette. Clean flat textbook style, white background.]
+![Floral diagram of a Hibiscus flower illustrating the mother axis, epicalyx, calyx, corolla, staminal tube with anthers, and five-locular ovary in cross section.](images/B7b-07-floral-hibiscus.png)
 
 ## Pollination
 

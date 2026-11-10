@@ -31,7 +31,7 @@ The **scope of commerce** refers to the boundaries of what commerce covers. Comm
    *   **Foreign Trade (International Trade):** Buying and selling across national borders (e.g., Nigeria exporting crude oil or cocoa and importing cars). It includes Import, Export, and Entrepot trade.
 2. **Aids to Trade:** These are the support services that make trade possible and easier. They include Banking, Insurance, Communication, Advertising, Transportation, Warehousing, and Tourism. (These will be covered in detail in `A6a-aids-to-trade-advertising-banking-communication.md` and `A6b-aids-to-trade-insurance-tourism-transportation-warehousing.md`).
 
-[IMAGE: A tree diagram showing the scope and branches of Commerce. The top box says "COMMERCE". Two branches lead down to "TRADE" and "AIDS TO TRADE". Under Trade, two branches lead to "Home Trade" (with sub-branches Wholesale and Retail) and "Foreign Trade" (with sub-branches Import, Export, Entrepot). Under Aids to Trade, seven boxes are listed side-by-side: "Banking", "Insurance", "Transportation", "Warehousing", "Advertising", "Communication", "Tourism". Clean flat textbook illustration, neatly aligned with a white background.]
+![A tree diagram dividing commerce into trade and aids to trade, showing subcategories of home and foreign trade, alongside seven aids to trade.](images/A1-01-branches-commerce-chart.png)
 
 ## Differentiating Commerce from related subjects
 

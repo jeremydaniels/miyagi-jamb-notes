@@ -72,7 +72,7 @@ The Swedish chemist Svante Arrhenius proposed the theory of electrolytic dissoci
     *   **At the cathode:** Cations **gain** electrons (this is a reduction reaction). For example, copper ions become solid copper metal: $Cu^{2+} + 2e^- \rightarrow Cu$.
     *   **At the anode:** Anions **lose** electrons (this is an oxidation reaction) to the circuit, or the anode itself dissolves into the solution.
 
-[IMAGE: An electrolytic cell setup. A glass beaker contains a blue liquid labelled "Copper (II) tetraoxosulphate (VI) solution". Two rectangular metal plates are partially submerged. The left plate is labelled "Anode (+)" and is connected by a wire to the positive long line of a battery symbol. The right plate is labelled "Cathode (-)" and is connected to the negative short line. Inside the liquid, an arrow shows a positive $Cu^{2+}$ ion moving towards the Cathode, and a negative $SO_4^{2-}$ ion moving towards the Anode. Clean flat textbook illustration, white background.]
+![An electrolytic cell diagram with two electrodes submerged in a blue solution connected to a battery, showing positive and negative ions migrating in opposite directions.](images/A37-01-electrolytic-cell-circuit.png)
 
 #### Preferential Discharge of Ions
 
@@ -204,7 +204,7 @@ As the vacuum pump gradually reduces the pressure inside the tube, a fascinating
 *   **At $\sim 0.01\text{ mmHg}$:** The positive column shrinks towards the anode. A new dark space, the *Crookes dark space*, expands from the cathode.
 *   **Below $0.001\text{ mmHg}$ (Extreme Vacuum):** The glow inside the gas disappears completely. The tube looks dark. However, invisible streams of fast-moving electrons shoot straight out from the cathode. These are called **cathode rays**. When they hit the glass walls at the opposite end of the tube, they cause the glass to glow (fluoresce) with a bright yellow-green light.
 
-[IMAGE: A long cylindrical glass discharge tube connected to a high voltage induction coil. A side pipe connects downwards to a vacuum pump. Inside the tube, the pressure is very low, showing alternating dark and glowing bands (striations) in the positive column. Labels to add: "Cathode (-)", "Anode (+)", "High Voltage Source (10,000 V)", "To Vacuum Pump", "Striations", "Faraday Dark Space". Clean flat textbook illustration, white background.]
+![A diagram of a gas discharge tube showing striations connected to an induction coil and a vacuum pump on a white background.](images/A37-02-discharge-tube-schematic.png)
 
 #### Properties of Cathode Rays
 Cathode rays were identified by J.J. Thomson (1897) as streams of electrons. Their properties include:

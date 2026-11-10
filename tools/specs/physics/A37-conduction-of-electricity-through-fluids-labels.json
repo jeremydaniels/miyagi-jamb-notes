@@ -1,0 +1,43 @@
+{
+ "A37-01-electrolytic-cell-circuit": {},
+ "A37-02-discharge-tube-schematic": {
+  "regions": [
+   "Striations",
+   "Faraday Dark Space"
+  ],
+  "labels": [
+   [
+    "Cathode (-)",
+    [
+     142,
+     495
+    ],
+    "L"
+   ],
+   [
+    "Anode (+)",
+    [
+     883,
+     495
+    ],
+    "R"
+   ],
+   [
+    "High Voltage Source (10,000 V)",
+    [
+     775,
+     742
+    ],
+    "R"
+   ],
+   [
+    "To Vacuum Pump",
+    [
+     361,
+     804
+    ],
+    "L"
+   ]
+  ]
+ }
+}

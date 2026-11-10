@@ -73,7 +73,7 @@ Before writing actual computer code, the programmer plans the logic of the solut
 *   **Flowchart:** A diagram that uses standard symbols (ovals, rectangles, diamonds) to show the flow of logic. 
 (These are covered fully in `G3-algorithm-and-flowcharts.md`).
 
-[IMAGE: A staircase diagram showing the 8 steps of program development from top to bottom: Problem Definition -> Problem Analysis -> Design -> Program Coding -> Program Compilation -> Program Testing/Debugging -> Program Documentation -> Program Maintenance. Clean flat textbook style, white background with bold text and downward pointing arrows.]
+![Flowchart showing 8 steps of program development starting with Problem Definition and ending with Program Maintenance.](images/G5-01-staircase-steps-program-development.png)
 
 ### 4. Program coding
 This is the stage where the logic designed in the previous step is translated into a specific **programming language** (like Python, C++, or BASIC). The programmer writes the actual instructions, which are known as the **source code**. 
@@ -126,7 +126,7 @@ These languages primarily use a compiler to run:
 **Why is Java on both lists?**
 As mentioned earlier, Java is unique. When a programmer writes Java code, it is first **compiled** into an intermediate code called "bytecode". Then, when the user runs the program, a Java Virtual Machine (JVM) **interprets** that bytecode line by line for the specific computer hardware. Because it uses both processes, JAMB correctly lists Java under both interpreted and compiled programs.
 
-[IMAGE: A simple block diagram comparing a Compiler and an Interpreter. Top path: Source Code -> Compiler (translates all) -> Machine Code -> Output. Bottom path: Source Code -> Interpreter (translates line-by-line) -> Output. Clean flat textbook style, white background.]
+![Diagram comparing compiler and interpreter translation flows from source code to output.](images/G5-02-simple-block-comparing-compiler.png)
 
 ## Key terms
 

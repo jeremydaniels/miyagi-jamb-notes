@@ -1,0 +1,10 @@
+[
+ [
+  "G5-01-staircase-steps-program-development",
+  "A staircase diagram showing the 8 steps of program development from top to bottom: Problem Definition -> Problem Analysis -> Design -> Program Coding -> Program Compilation -> Program Testing/Debugging -> Program Documentation -> Program Maintenance."
+ ],
+ [
+  "G5-02-simple-block-comparing-compiler",
+  "A simple block diagram comparing a Compiler and an Interpreter. Top path: Source Code -> Compiler (translates all) -> Machine Code -> Output. Bottom path: Source Code -> Interpreter (translates line-by-line) -> Output."
+ ]
+]

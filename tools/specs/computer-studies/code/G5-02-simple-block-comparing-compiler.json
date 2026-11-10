@@ -1,0 +1,64 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Compiler vs Interpreter",
+ "nodes": [
+  {
+   "id": "src1",
+   "text": "Source Code",
+   "shape": "box"
+  },
+  {
+   "id": "comp",
+   "text": "Compiler\n(translates all)",
+   "shape": "round"
+  },
+  {
+   "id": "mach",
+   "text": "Machine Code",
+   "shape": "box"
+  },
+  {
+   "id": "out1",
+   "text": "Output",
+   "shape": "oval"
+  },
+  {
+   "id": "src2",
+   "text": "Source Code",
+   "shape": "box"
+  },
+  {
+   "id": "interp",
+   "text": "Interpreter\n(translates line-by-line)",
+   "shape": "round"
+  },
+  {
+   "id": "out2",
+   "text": "Output",
+   "shape": "oval"
+  }
+ ],
+ "edges": [
+  {
+   "from": "src1",
+   "to": "comp"
+  },
+  {
+   "from": "comp",
+   "to": "mach"
+  },
+  {
+   "from": "mach",
+   "to": "out1"
+  },
+  {
+   "from": "src2",
+   "to": "interp"
+  },
+  {
+   "from": "interp",
+   "to": "out2"
+  }
+ ]
+}

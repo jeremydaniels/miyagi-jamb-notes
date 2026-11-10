@@ -71,7 +71,7 @@ Based on the Qur'an and Hadith, seeking knowledge is crucial because:
 *   **Scholars are highly respected:** Islamic tradition holds that "scholars are the inheritors of the prophets." Since prophets leave behind knowledge rather than wealth, scholars are the guardians of society.
 *   **It benefits society:** Scientific and worldly knowledge improves health, infrastructure, and justice in the community.
 
-[IMAGE: A beautifully illuminated Qur'an open on a wooden stand (Rihal), next to an old-fashioned inkwell and a bamboo pen (Qalam), symbolising the Qur'anic command "Who teacheth by the pen". Clean flat textbook illustration, white background.]
+![An illuminated Quran resting open on a carved wooden rihal stand alongside a glass inkwell and a bamboo reed pen.](images/C20-01-quran-rihal-qalam.png)
 
 ---
 
@@ -160,7 +160,7 @@ A **polymath** is a person whose knowledge spans a wide number of subjects. Isla
 *   **Sociology:** He introduced the concept of ***'Asabiyyah*** (social cohesion or group solidarity). He explained how societies rise, peak, and inevitably fall when their social cohesion decays, often corrupted by luxury.
 *   **Writing History:** Before Ibn Khaldun, history was mostly just a list of kings and dates. Ibn Khaldun changed this by insisting that a historian must analyse the *causes* of events, understand the geography and economics of the society, and critically check sources for bias or exaggeration.
 
-[IMAGE: A composite illustration of Muslim polymaths' contributions. Left: An open medical text showing anatomy (Ibn Sina). Centre: An astrolabe and a set of balanced scales representing logic and law (Ibn Rushd). Right: A scroll depicting the rise and fall of city walls, symbolising social cohesion (Ibn Khaldun). Clean flat textbook style, white background.]
+![An illustration showing an open anatomy textbook on the left, an astrolabe and balance scales in the centre, and an unfurled scroll showing the rise and fall of cities on the right.](images/C20-03-composite-muslim-polymaths.png)
 
 ---
 

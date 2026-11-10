@@ -151,7 +151,7 @@ Where $c_w$ and $c_c$ are the specific heat capacities of water and the calorime
 
 ### Determining Specific Heat Capacity by the Electrical Method (For a Liquid)
 
-[IMAGE: Diagram of the electrical method for determining specific heat capacity of a liquid. An insulated calorimeter containing a liquid. Inside the liquid is an electrical immersion heater connected to a DC power supply, a switch, an ammeter in series, and a voltmeter in parallel. A thermometer and a stirrer are also in the liquid. Labels: "thermometer", "stirrer", "immersion heater", "liquid", "lagged calorimeter", "V", "A". Clean flat textbook style, white background.]
+![Diagram showing the electrical method to measure specific heat capacity of a liquid using a lagged calorimeter, immersion heater, thermometer, stirrer, and electric circuit.](images/A13-02-electrical-calorimeter-circuit.png)
 
 **Procedure:**
 1. Measure the mass of the liquid ($m$) and place it in a lagged calorimeter.

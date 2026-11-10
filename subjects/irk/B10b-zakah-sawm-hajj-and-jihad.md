@@ -67,7 +67,7 @@ The **eight categories of recipients** are explicitly listed in **Q.9:60**:
 7. **Fī Sabīlillāh (For the cause of Allah):** Generally applied to those striving to defend Islam or spread its message, or working for public welfare.
 8. **Ibn as-Sabīl (The Wayfarer):** A stranded traveller who has run out of money, even if they are wealthy back in their home country.
 
-[IMAGE: A colourful infographic chart showing a large circle divided into eight slices, representing the 8 categories of Zakah recipients. Each slice contains an icon (e.g., a person with empty pockets for Al-Fuqara, a broken chain for Fir-Riqab, a traveller with a bag for Ibn as-Sabil) and the Arabic term alongside the English translation. The center of the circle says "Q.9:60 Zakah Beneficiaries". Clean flat textbook style, white background.]
+![A circular infographic divided into eight colorful slices representing the eight Zakah beneficiaries from Quran 9:60, each labeled with an icon, Arabic transliteration, and English translation.](images/B10b-01-zakah-beneficiaries-circular-chart.png)
 
 ### Objective d(iii): Distinguish between Zakāh and Sadaqah
 
@@ -166,7 +166,7 @@ The essentials (*Arkān*) of Hajj are the core pillars of the pilgrimage. **If a
 
 *(Note: Some schools of thought, like the Shafi'i, also include Halq/Taqsīr—shaving or trimming the hair—as an absolute essential, while others class it as highly obligatory [Wajib]).*
 
-[IMAGE: A simple geographical map diagram of the Hajj locations. It shows Makkah (with a small Ka'bah icon), Mina (showing a cluster of tents), Arafah (showing a small hill, Mount of Mercy), and Muzdalifah in between Mina and Arafah. Dotted arrows show the path of the pilgrims starting from Makkah to Mina, to Arafah, back to Muzdalifah, then Mina, and finally back to Makkah. Clean flat textbook style, white background.]
+![Diagram of the Hajj pilgrimage route showing Makkah, Mina, Muzdalifah, and Arafah with icons and numbered dashed paths indicating the sequence of travel across key days.](images/B10b-02-hajj-pilgrimage-route-schematic.png)
 
 ### Objective f(ii): Differentiate between the types of Hajj
 

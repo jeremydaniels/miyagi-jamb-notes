@@ -123,7 +123,7 @@ Surah al-Qāri'ah ("The Calamity" or "The Striking Hour") is a Makkan surah cont
 ### Translation summary
 "The Calamity! What is the Calamity?" (Pickthall). The surah describes the Day of Judgement as a time when mankind will be scattered like moths in confusion, and massive mountains will be reduced to floating carded wool. Those whose scales of good deeds are heavy will enjoy a pleasant life in Paradise. But for those whose scales are light, "The bereft and hungry one will be his mother" (Pickthall's figurative translation for *Hāwiyah*, meaning they will fall headfirst into a bottomless pit). The surah concludes by defining it as a Raging Fire.
 
-[IMAGE: A flat textbook illustration of a traditional balance scale (Mīzān). One side of the scale contains a glowing light representing good deeds and is heavy, pulling downwards. The other side is empty and high in the air. This visually represents the concept from Surah al-Qāri'ah of heavy scales of good works. Clean flat textbook style, white background.]
+![A decorative traditional balance scale with the left pan heavy and low holding a glowing light, while the empty right pan is raised.](images/A4a-01-mizan-balance-scales-deeds.png)
 
 ### Lessons and teachings
 - **The Terror of the Last Day:** The universe as we know it will be violently destroyed.

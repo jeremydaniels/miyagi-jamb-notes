@@ -425,7 +425,7 @@ Words like *although*, *even though*, *despite* and *in spite of* show that some
    - "The convoy left Kaduna long after the bridge collapsed." → wrong order and wrong timing.
 5. **Choose:** "The bridge collapsed just after the convoy left Kaduna."
 
-[IMAGE: A simple flowchart titled "Sentence Interpretation in 5 Steps", drawn as five rounded boxes connected by downward arrows. Box 1: "Read the sentence twice" with an open-book icon. Box 2: "Find the trigger: idiom, conditional, negative, time, comparison, modal" with a magnifying-glass icon. Box 3: "Rewrite it in simple words" with a pencil icon. Box 4: "Test each option: same? more? less? opposite? literal?" with a checklist icon. Box 5: "Choose the exact match" with a green tick icon. Soft blue and green palette, clean flat textbook style, white background.]
+![A vertical flowchart titled Sentence Interpretation in 5 Steps displaying five sequential boxes connected by arrows from reading the sentence twice to choosing the exact match.](images/B8-01-sentence-interpretation-flowchart.png)
 
 ## Key terms
 

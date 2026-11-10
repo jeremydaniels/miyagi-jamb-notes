@@ -1,0 +1,55 @@
+{
+ "template": "flowchart",
+ "title": "Sentence Interpretation in 5 Steps",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "step1",
+   "text": "Read the sentence twice",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "step2",
+   "text": "Find the trigger: idiom, conditional, negative, time, comparison, modal",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "step3",
+   "text": "Rewrite it in simple words",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "step4",
+   "text": "Test each option: same? more? less? opposite? literal?",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "step5",
+   "text": "Choose the exact match",
+   "shape": "round",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "step1",
+   "to": "step2"
+  },
+  {
+   "from": "step2",
+   "to": "step3"
+  },
+  {
+   "from": "step3",
+   "to": "step4"
+  },
+  {
+   "from": "step4",
+   "to": "step5"
+  }
+ ]
+}

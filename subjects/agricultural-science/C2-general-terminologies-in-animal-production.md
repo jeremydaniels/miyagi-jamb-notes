@@ -51,7 +51,7 @@ Cattle are large ruminant animals kept for meat, milk, and draught power (work).
 | **Meat (Young)** | Veal | Meat from a young calf. |
 | **Group Name** | Herd | A group of cattle. |
 
-[IMAGE: A clear, clean chart showing the life cycle and naming of cattle. Top left: a large muscular bull. Top right: a mature cow with an udder. Bottom center: a young calf. Arrows show "serving" between bull and cow, and "calving" pointing to the calf. Text labels clearly define Bull, Cow, Calf, Heifer (a smaller cow without an udder), and Steer (a male without the massive neck of a bull). Clean flat textbook illustration, white background.]
+![Diagram showing five cattle of different stages and sexes: a bull, a cow with an udder, a heifer, a steer, and a small calf at the bottom.](images/C2-01-cattle-lifecycle-terminology-chart.png)
 
 ### 2. Sheep (Ovines)
 Sheep are small ruminants mostly kept for meat, wool, and sometimes milk. A common Nigerian breed is the Yankasa or Balami.
@@ -97,7 +97,7 @@ Pigs are non-ruminant animals raised primarily for meat.
 | **Meat** | Pork / Bacon / Ham| Pork is fresh pig meat. Bacon is cured meat from the back/sides. Ham is from the thigh. |
 | **Group Name** | Drove / Herd | A group of pigs. |
 
-[IMAGE: An illustration showing different cuts of farm animal meat to visually distinguish them. On the left: a thick red raw steak labeled "Beef (Adult Cattle)". Next to it: a smaller pale cut labeled "Veal (Calf)". In the middle: a leg of lamb/mutton labeled "Mutton (Adult Sheep)" and a smaller leg labeled "Chevon (Goat)". On the right: a slab of raw belly meat labeled "Pork/Bacon (Pig)". Clean flat textbook illustration, white background.]
+![An illustration showing various raw meat cuts against a white background, including a beef steak, a smaller pale cut, two legs of lamb, and pork belly.](images/C2-02-farm-animal-meat-cuts.png)
 
 ### 5. Poultry (Fowls / Avians)
 Poultry refers to domesticated birds kept for eggs or meat, especially chickens.

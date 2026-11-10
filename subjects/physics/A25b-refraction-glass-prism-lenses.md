@@ -53,7 +53,7 @@ When a ray of monochromatic light (light of a single colour, like from a red las
 - **Refracting Angle ($A$):** The top angle of the prism where the two refracting faces meet.
 - **Angle of Deviation ($D$):** The angle between the original path of the incident ray and the final path of the emergent ray. It measures how much the light has been "bent" out of its original path.
 
-[IMAGE: A ray diagram showing a single ray of light passing through a triangular glass prism. The ray strikes the left face at angle $i$ to the dashed normal line, bends towards the normal inside the glass, and hits the right face. It emerges, bending away from the normal at angle $e$. Dotted lines extend the initial incident ray forward and the final emergent ray backward to show the angle of deviation $D$ where they cross. The top angle of the prism is labelled $A$. Clean flat textbook illustration, white background.]
+![Ray diagram showing refraction of light through a triangular glass prism, illustrating the angle of incidence, angle of emergence, prism angle, and angle of deviation.](images/A25b-01-prism-refraction-angle-deviation.png)
 
 *Note: If white light is used instead of monochromatic light, the prism will separate it into its component colours (dispersion) because different colours bend by different amounts. This is covered fully in `A27-dispersion-and-electromagnetic-spectrum.md`.*
 

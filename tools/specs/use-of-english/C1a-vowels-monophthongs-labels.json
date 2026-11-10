@@ -1,0 +1,39 @@
+{
+ "C1a-02-vowel-articulation-sagittal-cross": {},
+ "C1a-03-lip-positions-vowels": {
+  "labels": [
+   [
+    "/i\u02d0/ spread",
+    [
+     292,
+     283
+    ],
+    "L"
+   ],
+   [
+    "/u\u02d0/ tightly rounded",
+    [
+     768,
+     286
+    ],
+    "R"
+   ],
+   [
+    "/\u025c\u02d0/ neutral, relaxed",
+    [
+     294,
+     726
+    ],
+    "L"
+   ],
+   [
+    "/\u0254\u02d0/ rounded, open",
+    [
+     770,
+     722
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -112,9 +112,9 @@ The length mark **ː** (like a colon) after a symbol shows a **long** vowel.
 
 **Important:** the long and short pairs (/iː/–/ɪ/, /uː/–/ʊ/, /ɔː/–/ɒ/) differ in **quality** (mouth position) as well as length. /ɪ/ is not just a shorter /iː/; the tongue is lower and further back. That is why the symbols are different, not just the length marks.
 
-[IMAGE: The English vowel quadrilateral (vowel chart) for the 12 RP monophthongs. A trapezium shape (wider at the top, sloping inwards on the right-hand back side at the bottom) drawn in soft grey lines, with "Front", "Central" and "Back" written across the top, and "Close", "Close-mid", "Open-mid" and "Open" down the left side. Coloured dots placed at the approximate positions: /iː/ top-left corner; /ɪ/ slightly lower and in from the front; /e/ front, between close-mid and open-mid; /æ/ front, just above open; /ʌ/ central, just above open; /ɜː/ central, mid; /ə/ central, mid (slightly below /ɜː/); /ɑː/ back, open; /ɒ/ back, open (slightly rounded, just next to /ɑː/); /ɔː/ back, between close-mid and open-mid; /ʊ/ near-close, slightly in from the back; /uː/ top-right corner (back, close). Long vowels shown in blue dots, short vowels in orange dots. Small key word beside each dot: "see", "sit", "bed", "cat", "cup", "bird", "about", "car", "hot", "law", "book", "food". A small side note: "Front of mouth on the left". Clean flat educational illustration, white background, soft colour palette, like a modern textbook.]
+![A textbook diagram of the English vowel quadrilateral showing positions and example words for twelve RP monophthong vowels, distinguishing between long and short vowels.](images/C1a-01-english-vowel-quadrilateral-chart.png)
 
-[IMAGE: Three side-view (cross-section) heads in a row showing tongue positions for the vowels /iː/ (tongue high and forward, jaw nearly closed, lips spread), /ɑː/ (tongue low and back, jaw wide open, lips neutral) and /uː/ (tongue high and back, lips rounded and pushed forward). Each head shows the lips, teeth, hard palate, soft palate and tongue clearly, with the tongue shaded in a soft pink. Labels under each head: "/iː/ as in see", "/ɑː/ as in car", "/uː/ as in food". Labels pointing to "tongue", "lips", "hard palate", "soft palate". Clean flat educational illustration, white background.]
+![Three cross-section diagrams of the human head showing vocal tract and tongue configurations for pronouncing the vowels i, ah, and oo.](images/C1a-02-vowel-articulation-sagittal-cross.png)
 
 ## The 12 monophthongs one by one
 
@@ -466,7 +466,7 @@ Many speakers say a full vowel in unstressed syllables. Compare (RP on the left)
 | famous | /ˈfeɪməs/ | [femɔs] |
 | support | /səˈpɔːt/ | [sɔpɔt] |
 
-[IMAGE: Two cartoon-style mouth fronts (lips only, front view) side by side, one for /iː/ with lips spread wide as in a smile, and one for /uː/ with lips tightly rounded and pushed forward. Under them, a second row showing /ɜː/ with lips neutral and relaxed, and /ɔː/ with lips rounded but more open than /uː/. Labels: "/iː/ spread", "/uː/ tightly rounded", "/ɜː/ neutral, relaxed", "/ɔː/ rounded, open". Clean flat educational illustration, white background, soft palette.]
+![Educational diagram showing four cartoon lip shapes arranged in two rows, illustrating spread, tightly rounded, neutral, and open rounded vowel articulations.](images/C1a-03-lip-positions-vowels.png)
 
 ## How to answer JAMB vowel questions (objective iii: correct pronunciation of individual words)
 

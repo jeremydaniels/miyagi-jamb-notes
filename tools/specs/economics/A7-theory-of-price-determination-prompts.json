@@ -1,0 +1,14 @@
+[
+ [
+  "A7-01-price-ceiling-shortage-graph",
+  "A graph showing a Maximum Price. A standard supply and demand graph where the horizontal axis is Quantity and the vertical axis is Price. The equilibrium price P_e and quantity Q_e are shown where the upward-sloping Supply and downward-sloping Demand curves intersect. A horizontal line representing the Maximum Price (Price Ceiling) is drawn strictly below P_e. At this lower price line, the quantity supplied (Q_s) on the supply curve is much less than the quantity demanded (Q_d) on the demand curve, resulting in a horizontal bracket between Q_s and Q_d labeled 'Shortage (Excess Demand)'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A7-02-price-floor-surplus-graph",
+  "A graph showing a Minimum Price. A standard supply and demand graph. The equilibrium price P_e and quantity Q_e are shown where Supply and Demand intersect. A horizontal line representing the Minimum Price (Price Floor) is drawn strictly above P_e. At this higher price line, the quantity demanded (Q_d) on the demand curve is much less than the quantity supplied (Q_s) on the supply curve, resulting in a horizontal bracket between Q_d and Q_s labeled 'Surplus (Excess Supply)'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A7-03-demand-curve-shift-graph",
+  "A supply and demand graph showing a shift in demand. The original demand curve D1 and supply curve S intersect at E1 (Price P1, Quantity Q1). A new demand curve D2 is drawn to the right of D1. The new intersection with supply S is at E2, showing a higher price P2 and a higher quantity Q2. Arrows point from D1 to D2 (rightward shift), from P1 to P2 (upward movement), and from Q1 to Q2 (rightward movement). Clean flat textbook illustration, white background."
+ ]
+]

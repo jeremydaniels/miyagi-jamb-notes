@@ -1,0 +1,126 @@
+{
+ "template": "graph",
+ "title": "Maximum Price (Price Ceiling)",
+ "x_label": "Quantity",
+ "y_label": "Price",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Demand",
+   "points": [
+    [
+     1,
+     9
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     8.5,
+     1.5
+    ]
+   ],
+   "color": "blue",
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Supply",
+   "points": [
+    [
+     1,
+     1
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     8.5,
+     8.5
+    ]
+   ],
+   "color": "red",
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Maximum Price",
+   "points": [
+    [
+     0,
+     3
+    ],
+    [
+     8.5,
+     3
+    ]
+   ],
+   "color": "black",
+   "style": "dashed",
+   "label_at": "mid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "Q_e",
+   "y_text": "P_e"
+  },
+  {
+   "x": 3,
+   "y": 3,
+   "x_text": "Q_s",
+   "y_text": "P_max"
+  },
+  {
+   "x": 7,
+   "y": 3,
+   "x_text": "Q_d",
+   "y_text": ""
+  }
+ ],
+ "points": [
+  {
+   "x": 5,
+   "y": 5,
+   "text": "Equilibrium",
+   "dx": 10,
+   "dy": -10
+  }
+ ],
+ "notes": [
+  {
+   "x": 5,
+   "y": 2.3,
+   "text": "Shortage (Excess Demand)"
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     3,
+     3
+    ],
+    [
+     7,
+     3
+    ],
+    [
+     7,
+     2.8
+    ],
+    [
+     3,
+     2.8
+    ]
+   ],
+   "text": "",
+   "color": "orange"
+  }
+ ]
+}

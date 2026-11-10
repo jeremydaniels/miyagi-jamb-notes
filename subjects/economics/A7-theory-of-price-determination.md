@@ -112,7 +112,7 @@ A **maximum price** (or price ceiling) is a legal limit set by the government st
     3.  **Non-price rationing:** Because there is not enough of the good to go around, sellers might ration goods through long queues (first-come, first-served) or favouritism (selling only to family and friends).
 *   **Nigerian example:** The regulation of Premium Motor Spirit (PMS/petrol) prices in Nigeria for many years. The government set a maximum pump price below the true market price, paying subsidies to cover the difference. When this system failed, it resulted in fuel scarcity, long queues at filling stations, and black marketers selling petrol in jerrycans at highly inflated prices. Rent control laws in cities like Lagos are another example.
 
-[IMAGE: A graph showing a Maximum Price. A standard supply and demand graph where the horizontal axis is Quantity and the vertical axis is Price. The equilibrium price P_e and quantity Q_e are shown where the upward-sloping Supply and downward-sloping Demand curves intersect. A horizontal line representing the Maximum Price (Price Ceiling) is drawn strictly below P_e. At this lower price line, the quantity supplied (Q_s) on the supply curve is much less than the quantity demanded (Q_d) on the demand curve, resulting in a horizontal bracket between Q_s and Q_d labeled 'Shortage (Excess Demand)'. Clean flat textbook illustration, white background.]
+![Supply and demand diagram illustrating a maximum price set below equilibrium, creating a shortage where quantity demanded exceeds quantity supplied.](images/A7-01-price-ceiling-shortage-graph.png)
 
 #### Minimum price legislation (Price floor)
 
@@ -124,7 +124,7 @@ A **minimum price** (or price floor) is a legal limit set by the government stat
     1.  **In product markets (Agriculture):** Farmers produce more crops than consumers want to buy at that high price. To prevent the price from collapsing, the government often has to step in and buy up the surplus, storing it (e.g., using agricultural marketing boards) or destroying it.
     2.  **In factor markets (Minimum Wage):** If the government sets a National Minimum Wage higher than the equilibrium wage for unskilled labour, more people want to work (higher supply of labour). However, firms want to hire fewer workers because labour is now more expensive (lower demand for labour). This surplus of labour results in **unemployment**.
 
-[IMAGE: A graph showing a Minimum Price. A standard supply and demand graph. The equilibrium price P_e and quantity Q_e are shown where Supply and Demand intersect. A horizontal line representing the Minimum Price (Price Floor) is drawn strictly above P_e. At this higher price line, the quantity demanded (Q_d) on the demand curve is much less than the quantity supplied (Q_s) on the supply curve, resulting in a horizontal bracket between Q_d and Q_s labeled 'Surplus (Excess Supply)'. Clean flat textbook illustration, white background.]
+![Supply and demand graph illustrating a minimum price set above equilibrium, resulting in quantity supplied exceeding quantity demanded, creating a market surplus.](images/A7-02-price-floor-surplus-graph.png)
 
 #### Comparison Table: Maximum vs. Minimum Price
 
@@ -149,7 +149,7 @@ When demand increases (due to higher consumer incomes, successful advertising, o
 *   Buyers bid the price up to get the goods.
 *   **Result:** The new Equilibrium Price **increases** and Equilibrium Quantity **increases**.
 
-[IMAGE: A supply and demand graph showing a shift in demand. The original demand curve D1 and supply curve S intersect at E1 (Price P1, Quantity Q1). A new demand curve D2 is drawn to the right of D1. The new intersection with supply S is at E2, showing a higher price P2 and a higher quantity Q2. Arrows point from D1 to D2 (rightward shift), from P1 to P2 (upward movement), and from Q1 to Q2 (rightward movement). Clean flat textbook illustration, white background.]
+![Supply and demand graph showing a rightward shift from demand curve D1 to D2, increasing equilibrium price from P1 to P2 and quantity from Q1 to Q2.](images/A7-03-demand-curve-shift-graph.png)
 
 ### 2. Decrease in Demand
 When demand decreases (due to falling incomes or a change in tastes away from the product), the demand curve shifts to the **left**.

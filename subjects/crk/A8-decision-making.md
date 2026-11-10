@@ -35,7 +35,7 @@ Desperate for answers, Saul made a terrible decision. He ordered his servants to
 3. **The Woman's Fear:** The woman hesitated, reminding him that King Saul had cut off mediums from the land, and she feared this was a trap to kill her. Saul swore an oath by the LORD that no punishment would come to her.
 4. **Calling up Samuel:** Saul asked her to bring up **Samuel**. When the woman saw the spirit, she cried out loudly, suddenly realising that her disguised client was King Saul himself. Saul calmed her and asked what she saw. She said she saw a divine being coming up out of the earth—an old man wrapped in a robe. Saul knew it was Samuel and bowed his face to the ground.
 
-[IMAGE: A dark, shadowy scene inside a mud-brick house at night, lit by a small oil lamp. On the left, a terrified woman in ancient Middle Eastern clothing points towards a glowing, faint apparition of an old man in a robe emerging from the ground. On the right, King Saul, wearing a disguise over his royal armor, is bowing deeply with his face to the dirt floor. Two nervous servants stand in the background. Style: clean flat textbook illustration, moody lighting.]
+![King Saul bows low before the glowing apparition of the prophet Samuel summoned by a terrified woman in a dim room with two servants watching.](images/A8-01-saul-witch-endor.png)
 
 ### Samuel's Final Prophecy
 Samuel asked Saul, "Why have you disturbed me by bringing me up?" 
@@ -76,7 +76,7 @@ Solomon made a shocking decision to reveal the truth. He called for a sword and 
 
 Solomon immediately pointed to the woman who wanted to save the baby and said, "Give the living child to her, and by no means slay it; she is its mother." When all Israel heard of this judgment, they stood in awe of the king, perceiving that the wisdom of God was in him.
 
-[IMAGE: A bright throne room scene. King Solomon sits on an elevated, ornate throne, pointing downward with authority. Below him, a royal guard holds a baby in one arm and raises a sword with the other. One woman is kneeling on the floor, weeping and reaching out desperately toward the baby, while the other woman stands coldly nearby with her arms crossed. Style: clean flat textbook illustration, bright colors.]
+![King Solomon sits on his ornate throne commanding a soldier holding a baby and sword, while one woman weeps on her knees and another stands coldly with crossed arms.](images/A8-02-judgment-king-solomon-scene.png)
 
 ### The Extent of Solomon's Wisdom (1 Kings 4:29-34)
 God gave Solomon wisdom and understanding beyond measure, "like the sand on the seashore." 

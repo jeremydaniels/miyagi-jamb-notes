@@ -302,7 +302,7 @@ Other traditional fermented drinks and foods include **burukutu** and **pito** (
 3. The **CO₂ bubbles** are trapped by the stretchy **gluten** protein in the dough, so the dough **rises** (becomes light and spongy).
 4. During **baking**, the heat kills the yeast, the bubbles expand further, the ethanol **evaporates**, and the bread sets.
 
-[IMAGE: Three-panel diagram of bread making with yeast. Panel 1: a bowl of freshly kneaded dough, small and dense, with an inset circle showing oval budding yeast cells among starch grains. Panel 2: the same dough in a warm place, risen to twice its size, with a cut-away showing many trapped gas bubbles and an inset showing yeast cells releasing tiny CO2 bubbles. Panel 3: a baked brown loaf sliced to show the spongy, airy crumb, with wavy lines rising from it. Labels to add later: "1 dough: flour, water, sugar and yeast (Saccharomyces)", "yeast cells", "2 proving: yeast ferments sugar", "carbon (IV) oxide bubbles trapped by gluten", "dough rises", "3 baking: yeast killed, alcohol evaporates", "spongy bread". Clean flat textbook style, white background.]
+![Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.](images/D3-07-bread-making-yeast-fermentation.png)
 
 ### 3. Yoghurt
 

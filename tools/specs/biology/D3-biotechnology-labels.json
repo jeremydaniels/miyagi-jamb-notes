@@ -335,5 +335,34 @@
     "R"
    ]
   ]
+ },
+ "D3-07-bread-making-yeast-fermentation": {
+  "caption_below": "Proving: yeast ferments sugar, carbon dioxide bubbles are trapped and the dough rises. Baking: yeast is killed and alcohol evaporates.",
+  "labels": [
+   [
+    "1 dough: flour, water, sugar and yeast (Saccharomyces)",
+    [
+     173,
+     413
+    ],
+    "L"
+   ],
+   [
+    "yeast cells",
+    [
+     112,
+     684
+    ],
+    "L"
+   ],
+   [
+    "spongy bread",
+    [
+     823,
+     492
+    ],
+    "R"
+   ]
+  ]
  }
 }

@@ -1,0 +1,54 @@
+{
+ "A38b-03-electron-diffraction-apparatus-schematic": {
+  "labels": [
+   [
+    "Heated cathode",
+    [
+     227,
+     513
+    ],
+    "L"
+   ],
+   [
+    "Anode",
+    [
+     347,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Electron beam",
+    [
+     439,
+     509
+    ],
+    "L"
+   ],
+   [
+    "Thin crystal (e.g., graphite)",
+    [
+     560,
+     512
+    ],
+    "R"
+   ],
+   [
+    "Fluorescent screen",
+    [
+     886,
+     390
+    ],
+    "R"
+   ],
+   [
+    "Diffraction rings",
+    [
+     854,
+     445
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -80,7 +80,7 @@ When an unstable nucleus decays, it can emit three main types of radiation.
 | **Penetrating power** | **Lowest:** Stopped by a sheet of paper or a few centimetres of air. | **Moderate:** Stopped by a few millimetres of aluminium. | **Highest:** Requires thick lead or thick concrete to be stopped. |
 | **Deflection by fields** | Deflected towards the negative plate in an electric field. | Deflected strongly towards the positive plate in an electric field. | **Not deflected** by electric or magnetic fields. |
 
-[IMAGE: Diagram showing a lead block with a radioactive source emitting a beam of radiation into a uniform electric field between two horizontal parallel plates (positive plate on top, negative plate on bottom). The beam splits into three. The alpha ray bends slightly downwards towards the negative plate. The beta ray bends sharply upwards towards the positive plate (bending more than alpha because it is much lighter). The gamma ray goes straight through without bending. Labels: "Radioactive source", "Lead block", "+ Positive plate", "- Negative plate", "Alpha (\alpha) particle", "Beta (\beta) particle", "Gamma (\gamma) ray". Clean flat textbook illustration, white background.]
+![Diagram showing radiation from a radioactive source in a lead block splitting in an electric field: alpha bends downwards, beta bends upwards, and gamma passes straight through.](images/A38b-01-radiation-deflection-electric-field.png)
 
 ## Relate Half-Life and Decay Constant of a Radioactive Element
 
@@ -154,7 +154,7 @@ Both fusion and fission are nuclear reactions that release massive amounts of en
 - **The catch:** Because both nuclei are positively charged, they repel each other strongly. To force them together, they must collide at tremendously high speeds. This requires astronomical temperatures (millions of degrees), which is why fusion is called a **thermonuclear reaction**.
 - **Applications:** Fusion is the process that powers the Sun and all stars. It is also the mechanism behind the hydrogen bomb. Scientists are actively trying to build fusion reactors for clean energy on Earth.
 
-[IMAGE: A split diagram comparing nuclear fission and nuclear fusion. Left side (Fission): A small neutron hits a large Uranium-235 nucleus, which elongates and splits into two smaller nuclei (Barium and Krypton) plus three individual neutrons and a starburst representing energy. Right side (Fusion): Two small nuclei (Deuterium and Tritium) collide and fuse to form a larger Helium nucleus, releasing one neutron and a massive starburst representing energy. Labels to add: "Fission", "Neutron", "Uranium-235", "Fission products", "Energy", "Fusion", "Deuterium", "Tritium", "Helium-4", "Energy". Clean flat textbook style, white background.]
+![Diagram comparing nuclear fission of uranium into barium, krypton, and neutrons on the left with nuclear fusion of deuterium and tritium into helium-4 and a neutron on the right.](images/A38b-02-fission-fusion-schematic-comparison.png)
 
 ## Determine Binding Energy, Mass Defect and Einstein's Equation
 
@@ -257,7 +257,7 @@ This **diffraction pattern** is exactly what light waves do. It provided the ult
 
 **Application:** The principles of electron diffraction led to the invention of the **Electron Microscope**. Because the de Broglie wavelength of moving electrons is much shorter than the wavelength of visible light, an electron microscope has an incredibly high resolving power, allowing scientists to see individual viruses and even atoms, which optical microscopes cannot resolve.
 
-[IMAGE: Diagram showing an electron diffraction experiment. A heated filament (cathode) emits electrons which are accelerated by an anode into a fine beam. The beam passes through a very thin graphite or nickel crystal and hits a fluorescent screen on the right. On the screen, a pattern of concentric bright and dark rings is visible. Labels: "Heated cathode", "Anode", "Electron beam", "Thin crystal (e.g., graphite)", "Fluorescent screen", "Diffraction rings". Clean flat textbook illustration, white background.]
+![A diagram of an electron diffraction tube showing a heated cathode, anode, thin crystal target, and concentric diffraction rings forming on a fluorescent screen.](images/A38b-03-electron-diffraction-apparatus-schematic.png)
 
 ## Uncertainty Principle and Wave-Particle Problems
 

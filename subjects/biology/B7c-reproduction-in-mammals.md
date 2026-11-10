@@ -35,7 +35,7 @@ Mammals reproduce **sexually**. Their main features are:
 
 ## The male reproductive system
 
-[IMAGE: Side view (longitudinal section) of the human male reproductive system and nearby organs. Show the urinary bladder at the top, the two seminal vesicles behind the bladder, the prostate gland below the bladder surrounding the start of the urethra, a small bulbourethral (Cowper's) gland below the prostate, the urethra running through the penis to the opening at the tip, erectile tissue inside the penis, the scrotum hanging outside the body containing one testis with the coiled epididymis on its back, and the sperm duct (vas deferens) looping up from the epididymis over the bladder to join the urethra through the ejaculatory duct. Also show the ureter coming down to the bladder and the rectum and backbone outline faintly behind. Labels: ureter, urinary bladder, seminal vesicle, prostate gland, Cowper's gland, sperm duct (vas deferens), ejaculatory duct, urethra, penis, erectile tissue, glans (tip of penis), scrotum, testis, epididymis. Soft pastel colours: pale blue ducts, light pink organs, yellow glands. Clean flat textbook style, white background.]
+![A clean sagittal section diagram showing the male reproductive system including the urinary bladder, prostate, testis, epididymis, vas deferens, and penis.](images/B7c-01-male-reproductive-system-section.png)
 
 ### Parts of the male reproductive system and their functions
 
@@ -110,11 +110,11 @@ A human sperm is a tiny cell, about 0.05–0.06 mm (50–60 micrometres) long, m
 
 Sperm have very little cytoplasm and no food store, so they cannot live long. Inside the female body they can survive for up to about **five days**.
 
-[IMAGE: Two cells drawn side by side but not to scale. Left: a human sperm cell drawn large and horizontally, with an oval head containing a nucleus, a cap-like acrosome at the front, a middle piece with spiral mitochondria, and a long thin tail. Right: a human egg cell (secondary oocyte) as a large round cell with a central nucleus, granular cytoplasm with tiny yolk droplets, the cell membrane, a clear thick layer (zona pellucida) around it, and an outer ring of small follicle cells (corona radiata). Labels on sperm: acrosome, head, nucleus, middle piece, mitochondria, tail (flagellum). Labels on egg: corona radiata (follicle cells), zona pellucida (jelly coat), cell membrane, cytoplasm, nucleus, yolk droplets. Add the note "not to scale" under the two cells. Soft blue sperm, peach-coloured egg. Clean flat textbook style, white background.]
+![Diagram showing a human sperm cell with head, midpiece, and tail on the left alongside a human egg cell with corona radiata and zona pellucida on the right.](images/B7c-02-sperm-egg-cell-comparison.png)
 
 ## The female reproductive system
 
-[IMAGE: Front view of the human female reproductive system. Show the uterus in the centre as a pear-shaped muscular organ cut open to reveal its thick muscular wall and inner lining, a Fallopian tube (oviduct) curving out from each top corner of the uterus and ending in a funnel with finger-like fimbriae, an oval ovary close to each funnel (one ovary cut open to show follicles at different stages and a released egg), the narrow neck of the uterus (cervix) at the bottom, and the vagina below opening to the outside. Labels: ovary, follicle, egg being released, Fallopian tube (oviduct), funnel, fimbriae, uterus, endometrium (lining of uterus), myometrium (muscle of uterus), cervix, vagina. Soft pink and peach colours. Clean flat textbook style, white background.]
+![Anatomical cross section diagram of the human female reproductive system showing the uterus, cervix, vagina, fallopian tubes, and ovaries with one cut open displaying follicles and ovulation.](images/B7c-03-female-reproductive-system.png)
 
 ### Parts of the female reproductive system and their functions
 
@@ -286,7 +286,7 @@ From puberty to menopause, a woman's body goes through a regular monthly cycle t
 
 **Twins:** **identical (monozygotic) twins** form when **one zygote** splits into two separate embryos early on; they have the same genes and are always the same sex. **Non-identical (fraternal, dizygotic) twins** form when **two eggs** are released and each is fertilised by a **different sperm**; they are no more alike than other brothers and sisters. Nigeria, especially among the Yoruba of the south-west (for example Igbo-Ora in Oyo State, often called the "twin capital of the world"), has one of the highest twinning rates in the world, mostly of non-identical twins.
 
-[IMAGE: Sequence of four panels showing fertilisation. Panel 1: many small sperm swimming around a large round egg with its outer corona radiata of follicle cells and clear zona pellucida. Panel 2: close-up of one sperm head at the zona pellucida, with its acrosome releasing enzymes (shown as small dots) digesting a path. Panel 3: the sperm head entering the egg cytoplasm, with the zona pellucida thickening into a fertilisation membrane and other sperm blocked outside. Panel 4: the male and female nuclei meeting and fusing in the centre to form the zygote nucleus, with a small polar body at the edge. Labels: sperm, corona radiata, zona pellucida, acrosome enzymes, egg cell membrane, sperm nucleus entering, fertilisation membrane, egg nucleus, male nucleus, zygote (2n), polar body. Panel titles: 1 sperm reach egg, 2 acrosome reaction, 3 one sperm enters, 4 nuclei fuse. Soft blue sperm, peach egg, purple nuclei. Clean flat textbook style, white background.]
+![Four-panel scientific diagram showing fertilisation stages: sperm approaching egg, acrosome reaction releasing enzymes, one sperm entering while others are blocked, and fusion of male and female pronuclei.](images/B7c-05-mammalian-fertilisation-stages.png)
 
 ## Development from zygote to birth
 
@@ -317,7 +317,7 @@ At about **6–7 days** after fertilisation, the blastocyst sinks into the thick
 
 **Textbook variation:** textbooks give slightly different days for these stages (for example, implantation "about a week after fertilisation", "day 6–10"). The order of the stages is what matters.
 
-[IMAGE: Front-view diagram of the female reproductive tract showing the journey from ovulation to implantation. On the right, an ovary releasing an egg into the funnel of the oviduct; along the oviduct, a numbered sequence of small drawings: fertilisation (sperm meeting egg) in the upper third of the oviduct, the zygote, 2-cell stage, 4-cell stage, 8-cell stage, morula (solid ball), then entering the uterus as a blastocyst (hollow ball with an inner cell mass), and finally the blastocyst embedding in the thick endometrium on the uterine wall. Labels: ovary, ovulation, oviduct, fertilisation, zygote, 2-cell stage, 4-cell stage, 8-cell stage, morula (day 3–4), blastocyst (day 4–5), inner cell mass, trophoblast, implantation (day 6–7), endometrium, uterus. Soft pink tract with lilac embryos. Clean flat textbook style, white background.]
+![Diagram of human female reproductive tract showing ovulation from the ovary, fertilization in the fallopian tube, cleavage stages, blastocyst development, and implantation in the uterine wall.](images/B7c-06-ovulation-implantation-pathway.png)
 
 #### 5. The embryo (up to about week 8)
 
@@ -526,7 +526,7 @@ Some germs cross the placenta or infect the baby during birth.
 
 **Disadvantages of IVF:** it is **expensive** (often several attempts are needed); the success rate per attempt is limited and falls sharply as the woman gets older; there is a higher chance of **multiple births** (twins, triplets) if more than one embryo is transferred; the hormone treatment can cause side effects (rarely, a serious over-stimulation of the ovaries); and it raises ethical and religious questions (for example, about what happens to spare embryos).
 
-[IMAGE: A numbered flow diagram of IVF in six steps arranged left to right in two rows. 1. A woman receiving a hormone injection, with a small drawing of an ovary containing several large follicles. 2. Egg collection: a fine needle guided by an ultrasound probe through the vagina into an ovary, with eggs being drawn up. 3. A sperm sample in a small container, with sperm being washed in a tube. 4. A glass petri dish in which eggs are surrounded by sperm, inside an incubator. 5. A microscope view of an early embryo dividing (2-cell, 4-cell and 8-cell stages, then a blastocyst). 6. Embryo transfer: a thin catheter passed through the cervix placing an embryo in the uterus. Labels: hormone injection, ovary with many follicles, egg collection needle, ultrasound probe, sperm sample, petri dish, egg, sperm, incubator (37 °C), early embryo, blastocyst, catheter, cervix, uterus. Step titles: 1 stimulate ovaries, 2 collect eggs, 3 collect sperm, 4 fertilise in dish, 5 grow embryos, 6 transfer embryo. Soft pastel colours. Clean flat textbook style, white background.]
+![Six-step diagram of in vitro fertilisation showing hormone injection, egg retrieval, sperm preparation, fertilisation in a dish, embryo cleavage stages, and embryo transfer into the uterus.](images/B7c-08-vitro-fertilisation-steps.png)
 
 ### Artificial insemination
 

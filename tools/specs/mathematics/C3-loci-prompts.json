@@ -1,0 +1,18 @@
+[
+ [
+  "C3-01-locus-equidistant-from-point",
+  "A fixed central point O, with a moving point P on a dotted circular path around it. A straight line segment connects O to P, labelled 'r'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C3-02-locus-parallel-lines",
+  "A solid straight horizontal line AB in the centre. Above it, at distance d, is a dotted straight line parallel to AB. Below it, also at distance d, is another dotted straight line parallel to AB. Vertical dashed lines with right-angle squares indicate the distance d. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C3-03-perpendicular-bisector-locus",
+  "Two solid dots A and B joined by a solid line segment. A dotted straight line passes through the exact middle of AB at a 90-degree angle. A moving point P is shown on the dotted line, with dashed lines PA and PB connecting it to A and B. Marks show PA = PB, and the two halves of AB are marked equal. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C3-04-angle-bisector-locus",
+  "Two solid straight lines intersecting to form an 'X'. Two dotted lines pass through the intersection point, bisecting the four angles exactly in half. Small arcs with matching tick marks indicate the equal angles. Clean flat textbook illustration, white background."
+ ]
+]

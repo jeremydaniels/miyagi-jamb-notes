@@ -30,7 +30,7 @@ This section covers the four foundational rules of loci tested by JAMB, along wi
 
 **The Path:** A **circle** with its centre at the fixed point $O$ and a radius equal to the constant distance $r$.
 
-[IMAGE: A fixed central point O, with a moving point P on a dotted circular path around it. A straight line segment connects O to P, labelled 'r'. Clean flat textbook illustration, white background.]
+![A fixed central point O connected by a radius line segment r to a moving point P traveling along a dotted circular trajectory.](images/C3-01-locus-equidistant-from-point.png)
 
 **Worked Example 1 (Pure Geometry):**
 A goat is tethered to a peg in the middle of a grassy field by a rope $4$ m long. Describe the locus of the farthest points the goat can reach when the rope is fully stretched.
@@ -71,7 +71,7 @@ Describe the locus given by the equation $(x - 3)^2 + (y + 2)^2 = 16$.
 
 **The Path:** A **pair of parallel lines**, one on each side of the given line $L$, both at a distance $d$ from it.
 
-[IMAGE: A solid straight horizontal line AB in the centre. Above it, at distance d, is a dotted straight line parallel to AB. Below it, also at distance d, is another dotted straight line parallel to AB. Vertical dashed lines with right-angle squares indicate the distance d. Clean flat textbook illustration, white background.]
+![Horizontal line segment AB centered between two parallel dashed lines, each at a perpendicular distance d indicated by vertical dimension lines with right-angle markers.](images/C3-02-locus-parallel-lines.png)
 
 **Worked Example 1 (Pure Geometry):**
 What is the locus of a point which is always $3$ cm away from a fixed straight line $XY$?
@@ -106,7 +106,7 @@ Find the equation of the locus of a point equidistant from the parallel lines $x
 
 **The Path:** The **perpendicular bisector** of the straight line segment joining $A$ and $B$. This means the locus is a straight line that cuts the line $AB$ exactly in half at a $90^\circ$ angle.
 
-[IMAGE: Two solid dots A and B joined by a solid line segment. A dotted straight line passes through the exact middle of AB at a 90-degree angle. A moving point P is shown on the dotted line, with dashed lines PA and PB connecting it to A and B. Marks show PA = PB, and the two halves of AB are marked equal. Clean flat textbook illustration, white background.]
+![Diagram showing the perpendicular bisector of segment AB, with a point P on the bisector equidistant from endpoints A and B such that PA equals PB.](images/C3-03-perpendicular-bisector-locus.png)
 
 **Worked Example 1 (Pure Geometry):**
 Two towns, Aba and Owerri, are $60$ km apart. A new telecommunication mast is to be built such that it is exactly the same distance from both towns. Describe the locus of all possible positions for the mast.
@@ -161,7 +161,7 @@ We can solve the exact same problem as Example 2 using gradients, because we kno
 
 **The Path:** A **pair of angle bisectors**. When two straight lines cross, they form four angles. The locus consists of two lines that cut exactly through the middle of these angles, forming a cross.
 
-[IMAGE: Two solid straight lines intersecting to form an 'X'. Two dotted lines pass through the intersection point, bisecting the four angles exactly in half. Small arcs with matching tick marks indicate the equal angles. Clean flat textbook illustration, white background.]
+![Two solid lines intersect to form four angles, with perpendicular dashed angle bisectors dividing each angle into equal halves marked by matching arc ticks.](images/C3-04-angle-bisector-locus.png)
 
 **Worked Example 1 (Pure Geometry):**
 A gardener wants to lay a water pipe so that it is always equidistant from two straight intersecting boundary walls. Describe the locus of the pipe.

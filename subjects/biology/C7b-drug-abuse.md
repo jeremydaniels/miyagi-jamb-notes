@@ -413,7 +413,7 @@ In Nigeria, treatment is offered by federal **neuropsychiatric hospitals** (for 
 
 **Note:** people who are dependent on drugs should not be chained, beaten or locked up, which is still done in some unregulated "prayer camps" and "rehabilitation homes". Drug dependence is a health condition that needs proper, humane treatment.
 
-[IMAGE: A circular flow diagram of drug rehabilitation with seven steps around a circle connected by arrows: 1 a person talking to a family member ("Seeking help"), 2 a doctor with a clipboard ("Assessment"), 3 a patient in a hospital bed with a nurse ("Detoxification"), 4 a counsellor and a group sitting in a circle ("Counselling"), 5 a young person at a sewing machine or carpentry bench ("Skills training"), 6 the person welcomed by family at home ("Reintegration"), 7 a small support group meeting ("After-care"). Labels: "Seeking help", "Assessment", "Detoxification", "Counselling and therapy", "Skills training", "Reintegration", "After-care and support". Warm soft colours. Clean flat textbook style, white background.]
+![A circular diagram detailing the seven stages of the drug rehabilitation process, from seeking help through assessment, detoxification, counselling, skills training, reintegration, and after-care.](images/C7b-05-drug-rehabilitation-flow.png)
 
 ## Key terms
 

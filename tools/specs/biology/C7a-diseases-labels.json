@@ -2,78 +2,54 @@
  "C7a-03-anopheles-culex-comparison": {
   "labels": [
    [
-    "Anopheles",
-    [
-     272,
-     63
-    ],
-    "L"
-   ],
-   [
-    "Culex",
-    [
-     754,
-     63
-    ],
-    "R"
-   ],
-   [
-    "Eggs single with floats",
-    [
-     385,
-     228
-    ],
-    "L"
-   ],
-   [
-    "Egg raft",
-    [
-     754,
-     182
-    ],
-    "R"
-   ],
-   [
-    "Larva parallel to surface",
-    [
-     278,
-     472
-    ],
-    "L"
-   ],
-   [
-    "Larva at an angle",
-    [
-     748,
-     560
-    ],
-    "R"
-   ],
-   [
     "Siphon",
     [
      805,
      437
     ],
     "R"
+   ]
+  ],
+  "split": [
+   [
+    317,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "Anopheles; Eggs single\nwith floats",
+    268,
+    321
+   ],
+   [
+    "Culex; Egg raft",
+    752,
+    321
+   ],
+   [
+    "Larva parallel to\nsurface",
+    269,
+    590
+   ],
+   [
+    "Larva at an angle",
+    752,
+    676
    ],
    [
     "Adult at an angle",
-    [
-     247,
-     813
-    ],
-    "L"
+    292,
+    981
    ],
    [
-    "Adult parallel to surface",
-    [
-     752,
-     838
-    ],
-    "R"
+    "Adult parallel to\nsurface",
+    752,
+    981
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7a-04-plasmodium-life-cycle": {
   "labels": [
@@ -83,7 +59,7 @@
      361,
      256
     ],
-    "L"
+    "T"
    ],
    [
     "Liver cell",
@@ -163,25 +139,23 @@
      631,
      151
     ],
-    "R"
-   ],
-   [
-    "Human (intermediate host)",
-    [
-     197,
-     421
-    ],
-    "L"
-   ],
-   [
-    "Mosquito (definitive host)",
-    [
-     775,
-     355
-    ],
-    "R"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Human (intermediate\nhost)",
+    279,
+    950
+   ],
+   [
+    "Mosquito (definitive\nhost)",
+    744,
+    980
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7a-05-cyclops-anatomy-guinea-worm": {
   "labels": [

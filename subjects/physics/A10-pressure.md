@@ -61,7 +61,7 @@ While the Pascal is the standard unit, JAMB questions sometimes use other units 
 - **Millimetres of mercury ($\text{mmHg}$):** Used in barometers and for medical blood pressure measurements. Standard atmospheric pressure is $760\text{ mmHg}$.
 - **Bar:** Often used in meteorology. $1\text{ bar} = 1.0 \times 10^{5}\text{ Pa}$.
 
-[IMAGE: A solid rectangular block resting on its largest flat face (labelled 'Minimum pressure, largest area') next to the same block standing upright on its smallest face (labelled 'Maximum pressure, smallest area'). Clean flat textbook illustration, white background.]
+![Diagram comparing pressure from a rectangular block resting horizontally on its largest area versus vertically on its smallest area.](images/A10-01-pressure-contact-area.png)
 
 **Worked Example 1: Pressure exerted by a solid block**
 A rectangular block of mass $20\text{ kg}$ has dimensions $0.1\text{ m} \times 0.2\text{ m} \times 0.5\text{ m}$. Calculate the maximum pressure it can exert on a flat horizontal table. (Take $g = 10\text{ m s}^{-2}$)
@@ -85,7 +85,7 @@ A barometer is an instrument that measures atmospheric pressure. The simple merc
 - **Reading:** At sea level, the vertical height of the mercury column is usually **$76\text{ cm}$ (or $760\text{ mm}$)**. This is why standard atmospheric pressure is often stated as $760\text{ mmHg}$.
 - **Note on tilt:** If the glass tube is tilted, the *vertical* height of the mercury remains exactly $76\text{ cm}$, even though the length of mercury measured along the slanted tube will increase.
 
-[IMAGE: A simple mercury barometer. A long glass tube is inverted in a reservoir (dish) of mercury. Arrows point down on the mercury surface in the dish, labelled 'Atmospheric pressure'. A vertical bracket measures the height of the mercury in the tube from the dish's liquid surface to the top of the column, labelled 'h = 760 mm'. The empty space at the very top of the closed tube is labelled 'Torricellian vacuum'. Clean flat textbook style, white background.]
+![Diagram of a simple mercury barometer showing a glass tube inverted in a mercury reservoir with a vacuum at the top and a height measurement bracket.](images/A10-02-simple-mercury-barometer.png)
 
 #### 2. The Aneroid Barometer
 "Aneroid" translates to "without liquid". This is a highly portable barometer that uses no mercury or water.
@@ -93,7 +93,7 @@ A barometer is an instrument that measures atmospheric pressure. The simple merc
 - **Display:** These tiny physical movements of the box are magnified by a complex system of delicate levers and springs, which rotate a pointer across a calibrated dial.
 - **Advantages:** Because it contains no easily spilled liquids, it is portable, robust, and safe (mercury is highly toxic). It is the standard type of barometer used in aircraft, ships, and homes.
 
-[IMAGE: A cross-section diagram of an aneroid barometer. Shows a corrugated metallic capsule (partially evacuated box) connected to a strong leaf spring. A mechanical lever and gear system connects the spring to a pointer moving over a circular dial marked with pressure values. Clean flat textbook style, white background.]
+![Cross section diagram of an aneroid barometer showing the corrugated capsule, leaf spring, lever and gear system, pointer, and circular measurement scale dial.](images/A10-03-aneroid-barometer-mechanism-cross.png)
 
 #### 3. The Manometer
 A manometer is an instrument used to measure the pressure of a confined gas or liquid.
@@ -104,7 +104,7 @@ A manometer is an instrument used to measure the pressure of a confined gas or l
   $$P_{\text{gas}} = P_{\text{atm}} + \rho g h$$
   (Where $\rho$ is the density of the liquid in the manometer, $g$ is gravity, and $h$ is the difference in liquid levels between the two arms).
 
-[IMAGE: A U-tube manometer. The left arm is connected to a round gas flask labelled 'Gas pressure (P_gas)'. The right arm is open to the air, with an arrow labelled 'Atmospheric pressure (P_atm)' pointing in. The liquid (e.g., mercury) is pushed down in the left arm and up in the right arm. A horizontal dotted line shows the lower liquid level in the left arm continuing across to the right arm. A vertical bracket measures the height difference 'h' between the liquid level in the right arm and the dotted line. Clean flat textbook style, white background.]
+![A U-tube manometer connected to a gas flask on the left and open to atmospheric pressure on the right, showing a height difference h between the liquid levels.](images/A10-04-u-tube-manometer.png)
 
 **Worked Example 2: Calculating gas pressure with a manometer**
 A U-tube manometer contains mercury of density $13,600\text{ kg m}^{-3}$. One end is connected to a gas cylinder and the other is open to the atmosphere. The mercury level in the open limb is $10\text{ cm}$ higher than the level in the closed limb connected to the gas. Calculate the absolute pressure of the gas. ($P_{\text{atm}} = 1.0 \times 10^{5}\text{ Pa}, g = 10\text{ m s}^{-2}$)
@@ -197,7 +197,7 @@ This principle is the foundation of **Hydraulic machines**. By utilizing cylinde
 - **Hydraulic Jacks:** Used by mechanics to easily lift heavy cars with a small manual effort.
 - **Hydraulic Car Brakes:** A small push from the driver's foot on the brake pedal transmits pressure through the brake fluid to push heavily on the brake pads at all four wheels.
 
-[IMAGE: Diagram of a hydraulic press. Two vertical cylinders are connected by a horizontal pipe, all filled with a blue liquid. The left cylinder is narrow with a small piston (labelled 'Area A1, Force F1 pointing down'). The right cylinder is wide with a large piston (labelled 'Area A2, Force F2 pointing up'). Dotted lines in the fluid show pressure is equal throughout. Clean flat textbook style, white background.]
+![Diagram of a hydraulic press with a narrow cylinder on the left and a wider cylinder on the right connected by fluid, demonstrating Pascal principle.](images/A10-05-hydraulic-press-schematic.png)
 
 **The Mathematics of the Hydraulic Press**
 Because pressure is transmitted equally, the pressure generated at the small piston ($P_1$) is equal to the pressure exerted at the large piston ($P_2$):

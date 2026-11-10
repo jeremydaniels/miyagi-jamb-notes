@@ -54,7 +54,7 @@ Dust is one of the biggest enemies of a computer system. When dust builds up ins
    - For a modern optical mouse, use a cotton bud to gently wipe the sensor hole at the bottom.
    - Wipe the top surface and click-buttons with a microfibre cloth.
 
-[IMAGE: A computer maintenance scene showing a student using a can of compressed air to blow dust out of an open desktop computer case, while wearing a face mask. Beside the computer, a microfibre cloth and a bottle of isopropyl alcohol are placed on the table. Style: clean flat textbook illustration, white background.]
+![A student wearing a face mask uses compressed air to clean dust from an open desktop computer case. A microfiber cloth and isopropyl alcohol are nearby.](images/E2-01-computer-maintenance-scene-student.png)
 
 ---
 
@@ -126,7 +126,7 @@ If a cleaning disc does not work, the lens must be cleaned manually.
 - Use a dry cotton swab to gently dry the lens.
 - Close the drive and test it with a disc.
 
-[IMAGE: A close-up view of an open laptop CD/DVD tray. A hand is holding a cotton swab and gently dabbing the tiny, circular glass laser lens located on the tray. Style: clean flat textbook illustration, white background.]
+![Illustration of a hand holding a cotton swab and cleaning the laser lens of an open laptop disc drive.](images/E2-02-close-up-view-open.png)
 
 ---
 
@@ -205,7 +205,7 @@ If the computer will not power on at all, or the motherboard is burnt, you must 
 
 *Note: If the hard drive itself is physically damaged (e.g., making loud clicking or scratching noises, or dropping it on the floor), do not attempt to run it. Software tools cannot fix physical damage. The drive must be sent to a professional data recovery laboratory with a "clean room," which is a very expensive process.*
 
-[IMAGE: A step-by-step diagram showing data recovery: Step 1: A hard drive being removed from a dead desktop tower. Step 2: The hard drive being slid into a SATA-to-USB enclosure. Step 3: The enclosure plugged into a working laptop via USB, with files transferring on the screen. Style: clean flat textbook illustration, white background.]
+![A diagram illustrating data recovery. Hands remove a hard drive from a desktop computer, place it into an external enclosure, and connect it to a laptop to transfer files.](images/E2-03-step-step-data-recovery.png)
 
 ---
 

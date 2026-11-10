@@ -1,0 +1,1126 @@
+{
+ "C3-01-freshwater-ecological-zones-cross": {
+  "labels": [
+   [
+    "neuston (surface film)",
+    [
+     94,
+     178
+    ],
+    "L"
+   ],
+   [
+    "pond skater",
+    [
+     430,
+     143
+    ],
+    "L"
+   ],
+   [
+    "mosquito larva",
+    [
+     352,
+     245
+    ],
+    "L"
+   ],
+   [
+    "duckweed",
+    [
+     689,
+     186
+    ],
+    "R"
+   ],
+   [
+    "plankton",
+    [
+     524,
+     380
+    ],
+    "R"
+   ],
+   [
+    "phytoplankton",
+    [
+     704,
+     384
+    ],
+    "R"
+   ],
+   [
+    "zooplankton (water flea)",
+    [
+     674,
+     542
+    ],
+    "R"
+   ],
+   [
+    "nekton",
+    [
+     76,
+     479
+    ],
+    "L"
+   ],
+   [
+    "Tilapia",
+    [
+     292,
+     412
+    ],
+    "L"
+   ],
+   [
+    "frog",
+    [
+     445,
+     531
+    ],
+    "L"
+   ],
+   [
+    "benthos",
+    [
+     86,
+     841
+    ],
+    "L"
+   ],
+   [
+    "snail",
+    [
+     520,
+     790
+    ],
+    "R"
+   ],
+   [
+    "worm in mud",
+    [
+     384,
+     869
+    ],
+    "L"
+   ],
+   [
+    "dragonfly nymph",
+    [
+     677,
+     829
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C3-02-pond-community-habitat-cross": {
+  "labels": [
+   [
+    "Typha (emergent)",
+    [
+     904,
+     152
+    ],
+    "R"
+   ],
+   [
+    "water lily (floating leaves)",
+    [
+     380,
+     412
+    ],
+    "L"
+   ],
+   [
+    "long flexible leaf stalk",
+    [
+     275,
+     564
+    ],
+    "L"
+   ],
+   [
+    "water lettuce (free-floating)",
+    [
+     600,
+     357
+    ],
+    "R"
+   ],
+   [
+    "duckweed",
+    [
+     768,
+     437
+    ],
+    "R"
+   ],
+   [
+    "hornwort (submerged)",
+    [
+     142,
+     684
+    ],
+    "L"
+   ],
+   [
+    "Spirogyra",
+    [
+     380,
+     726
+    ],
+    "L"
+   ],
+   [
+    "pond skater",
+    [
+     445,
+     357
+    ],
+    "L"
+   ],
+   [
+    "mosquito larvae",
+    [
+     776,
+     495
+    ],
+    "R"
+   ],
+   [
+    "water boatman",
+    [
+     513,
+     559
+    ],
+    "R"
+   ],
+   [
+    "dragonfly nymph",
+    [
+     452,
+     708
+    ],
+    "L"
+   ],
+   [
+    "tadpole",
+    [
+     428,
+     513
+    ],
+    "L"
+   ],
+   [
+    "Tilapia",
+    [
+     631,
+     636
+    ],
+    "R"
+   ],
+   [
+    "water snail",
+    [
+     292,
+     839
+    ],
+    "L"
+   ],
+   [
+    "Hydra",
+    [
+     327,
+     638
+    ],
+    "L"
+   ],
+   [
+    "catfish",
+    [
+     538,
+     811
+    ],
+    "R"
+   ],
+   [
+    "mud",
+    [
+     492,
+     915
+    ],
+    "L"
+   ],
+   [
+    "frog",
+    [
+     883,
+     412
+    ],
+    "R"
+   ],
+   [
+    "kingfisher",
+    [
+     689,
+     130
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C3-03-hydrophyte-leaf-anatomical-adaptations": {
+  "labels": [
+   [
+    "floating leaf",
+    [
+     218,
+     265
+    ],
+    "L"
+   ],
+   [
+    "waxy upper surface",
+    [
+     351,
+     436
+    ],
+    "L"
+   ],
+   [
+    "stomata on upper surface",
+    [
+     455,
+     458
+    ],
+    "L"
+   ],
+   [
+    "air spaces (aerenchyma)",
+    [
+     329,
+     491
+    ],
+    "L"
+   ],
+   [
+    "long flexible leaf stalk",
+    [
+     194,
+     534
+    ],
+    "L"
+   ],
+   [
+    "water lettuce",
+    [
+     762,
+     357
+    ],
+    "R"
+   ],
+   [
+    "water-repellent hairs",
+    [
+     906,
+     610
+    ],
+    "R"
+   ],
+   [
+    "spongy air-filled tissue",
+    [
+     900,
+     720
+    ],
+    "R"
+   ],
+   [
+    "hanging roots",
+    [
+     742,
+     600
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C3-05-deep-lake-ecological-zones": {
+  "labels": [
+   [
+    "littoral zone",
+    [
+     274,
+     437
+    ],
+    "L"
+   ],
+   [
+    "limnetic (open-water) zone",
+    [
+     636,
+     454
+    ],
+    "R"
+   ],
+   [
+    "profundal (deep) zone",
+    [
+     596,
+     726
+    ],
+    "R"
+   ],
+   [
+    "benthic zone (lake bottom)",
+    [
+     684,
+     904
+    ],
+    "R"
+   ],
+   [
+    "rooted plants",
+    [
+     303,
+     542
+    ],
+    "L"
+   ],
+   [
+    "phytoplankton",
+    [
+     620,
+     445
+    ],
+    "R"
+   ],
+   [
+    "zooplankton",
+    [
+     749,
+     466
+    ],
+    "R"
+   ],
+   [
+    "Tilapia",
+    [
+     546,
+     549
+    ],
+    "R"
+   ],
+   [
+    "Nile perch",
+    [
+     826,
+     546
+    ],
+    "R"
+   ],
+   [
+    "light penetration limit",
+    [
+     741,
+     642
+    ],
+    "R"
+   ],
+   [
+    "dead material sinking",
+    [
+     745,
+     735
+    ],
+    "R"
+   ],
+   [
+    "pelican",
+    [
+     500,
+     335
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C3-06-rocky-seashore-zonation-profile": {
+  "labels": [
+   [
+    "splash zone",
+    [
+     247,
+     152
+    ],
+    "L"
+   ],
+   [
+    "upper shore",
+    [
+     312,
+     290
+    ],
+    "L"
+   ],
+   [
+    "middle shore",
+    [
+     338,
+     437
+    ],
+    "L"
+   ],
+   [
+    "lower shore",
+    [
+     239,
+     572
+    ],
+    "L"
+   ],
+   [
+    "sublittoral zone",
+    [
+     800,
+     726
+    ],
+    "R"
+   ],
+   [
+    "high tide level",
+    [
+     749,
+     239
+    ],
+    "R"
+   ],
+   [
+    "low tide level",
+    [
+     820,
+     533
+    ],
+    "R"
+   ],
+   [
+    "lichens",
+    [
+     129,
+     173
+    ],
+    "L"
+   ],
+   [
+    "periwinkles",
+    [
+     385,
+     312
+    ],
+    "L"
+   ],
+   [
+    "barnacles",
+    [
+     88,
+     292
+    ],
+    "L"
+   ],
+   [
+    "limpets",
+    [
+     107,
+     454
+    ],
+    "L"
+   ],
+   [
+    "mussels",
+    [
+     356,
+     439
+    ],
+    "L"
+   ],
+   [
+    "sea lettuce (Ulva)",
+    [
+     619,
+     445
+    ],
+    "R"
+   ],
+   [
+    "sea anemone",
+    [
+     75,
+     591
+    ],
+    "L"
+   ],
+   [
+    "starfish",
+    [
+     267,
+     636
+    ],
+    "L"
+   ],
+   [
+    "sea urchin",
+    [
+     355,
+     642
+    ],
+    "L"
+   ],
+   [
+    "crab",
+    [
+     584,
+     642
+    ],
+    "R"
+   ],
+   [
+    "seaweed holdfast",
+    [
+     689,
+     670
+    ],
+    "R"
+   ],
+   [
+    "Sargassum air bladders",
+    [
+     374,
+     846
+    ],
+    "L"
+   ],
+   [
+    "rock pool",
+    [
+     492,
+     519
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C3-07-mangrove-swamp-ecosystem-cross": {
+  "labels": [
+   [
+    "red mangrove (Rhizophora)",
+    [
+     228,
+     390
+    ],
+    "L"
+   ],
+   [
+    "stilt (prop) roots",
+    [
+     157,
+     684
+    ],
+    "L"
+   ],
+   [
+    "oysters on roots",
+    [
+     208,
+     493
+    ],
+    "L"
+   ],
+   [
+    "viviparous seedling (propagule)",
+    [
+     402,
+     418
+    ],
+    "L"
+   ],
+   [
+    "fallen propagule rooting in mud",
+    [
+     413,
+     658
+    ],
+    "L"
+   ],
+   [
+    "white mangrove (Avicennia)",
+    [
+     815,
+     521
+    ],
+    "R"
+   ],
+   [
+    "pneumatophores",
+    [
+     740,
+     652
+    ],
+    "R"
+   ],
+   [
+    "lenticels",
+    [
+     919,
+     335
+    ],
+    "R"
+   ],
+   [
+    "salt crystals excreted by leaves",
+    [
+     961,
+     414
+    ],
+    "R"
+   ],
+   [
+    "mudskipper",
+    [
+     463,
+     742
+    ],
+    "L"
+   ],
+   [
+    "fiddler crab",
+    [
+     611,
+     744
+    ],
+    "R"
+   ],
+   [
+    "burrow",
+    [
+     685,
+     735
+    ],
+    "R"
+   ],
+   [
+    "periwinkle",
+    [
+     547,
+     777
+    ],
+    "R"
+   ],
+   [
+    "soft anaerobic mud",
+    [
+     471,
+     881
+    ],
+    "L"
+   ],
+   [
+    "high tide level",
+    [
+     483,
+     652
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C3-08-tropical-rainforest-canopy": {
+  "labels": [
+   [
+    "orchid (epiphyte)",
+    [
+     232,
+     129
+    ],
+    "L"
+   ],
+   [
+    "aerial roots with velamen",
+    [
+     173,
+     369
+    ],
+    "L"
+   ],
+   [
+    "staghorn fern",
+    [
+     526,
+     293
+    ],
+    "R"
+   ],
+   [
+    "liana (climber)",
+    [
+     380,
+     677
+    ],
+    "L"
+   ],
+   [
+    "mona monkey",
+    [
+     826,
+     186
+    ],
+    "R"
+   ],
+   [
+    "grasping hands",
+    [
+     681,
+     198
+    ],
+    "R"
+   ],
+   [
+    "long tail for balance",
+    [
+     945,
+     493
+    ],
+    "R"
+   ],
+   [
+    "chameleon",
+    [
+     120,
+     571
+    ],
+    "L"
+   ],
+   [
+    "zygodactylous feet",
+    [
+     150,
+     600
+    ],
+    "L"
+   ],
+   [
+    "prehensile tail",
+    [
+     107,
+     689
+    ],
+    "L"
+   ],
+   [
+    "long sticky tongue",
+    [
+     274,
+     547
+    ],
+    "L"
+   ],
+   [
+    "tree frog",
+    [
+     193,
+     811
+    ],
+    "L"
+   ],
+   [
+    "adhesive toe pads",
+    [
+     223,
+     886
+    ],
+    "L"
+   ],
+   [
+    "hornbill",
+    [
+     545,
+     755
+    ],
+    "R"
+   ],
+   [
+    "anomalure (gliding membrane)",
+    [
+     800,
+     605
+    ],
+    "R"
+   ],
+   [
+    "weaver ant nest",
+    [
+     861,
+     826
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C3-09-savanna-field-ecosystem-landscape": {
+  "labels": [
+   [
+    "grass tufts",
+    [
+     828,
+     587
+    ],
+    "R"
+   ],
+   [
+    "spear grass",
+    [
+     140,
+     677
+    ],
+    "L"
+   ],
+   [
+    "underground rhizome",
+    [
+     363,
+     901
+    ],
+    "L"
+   ],
+   [
+    "shea tree (thick corky bark)",
+    [
+     189,
+     369
+    ],
+    "L"
+   ],
+   [
+    "baobab (water-storing trunk)",
+    [
+     755,
+     309
+    ],
+    "R"
+   ],
+   [
+    "Tridax (wind-dispersed seeds)",
+    [
+     590,
+     567
+    ],
+    "R"
+   ],
+   [
+    "termite mound",
+    [
+     380,
+     494
+    ],
+    "L"
+   ],
+   [
+    "grasshopper (camouflaged)",
+    [
+     278,
+     633
+    ],
+    "L"
+   ],
+   [
+    "variegated grasshopper (warning colours)",
+    [
+     547,
+     679
+    ],
+    "R"
+   ],
+   [
+    "Agama lizard",
+    [
+     658,
+     775
+    ],
+    "R"
+   ],
+   [
+    "grasscutter",
+    [
+     830,
+     685
+    ],
+    "R"
+   ],
+   [
+    "rat burrow",
+    [
+     821,
+     898
+    ],
+    "R"
+   ],
+   [
+    "hawk",
+    [
+     412,
+     152
+    ],
+    "L"
+   ],
+   [
+    "cattle egret",
+    [
+     693,
+     483
+    ],
+    "R"
+   ],
+   [
+    "cow",
+    [
+     854,
+     445
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C3-10-soil-subterranean-burrows-cross": {
+  "labels": [
+   [
+    "burrow entrance",
+    [
+     275,
+     223
+    ],
+    "L"
+   ],
+   [
+    "giant pouched rat",
+    [
+     247,
+     760
+    ],
+    "L"
+   ],
+   [
+    "nest chamber",
+    [
+     314,
+     696
+    ],
+    "L"
+   ],
+   [
+    "stored food",
+    [
+     380,
+     804
+    ],
+    "L"
+   ],
+   [
+    "earthworm",
+    [
+     310,
+     492
+    ],
+    "L"
+   ],
+   [
+    "chaetae (bristles)",
+    [
+     437,
+     449
+    ],
+    "L"
+   ],
+   [
+    "segments",
+    [
+     432,
+     405
+    ],
+    "L"
+   ],
+   [
+    "mole cricket",
+    [
+     749,
+     454
+    ],
+    "R"
+   ],
+   [
+    "spade-like front legs",
+    [
+     693,
+     494
+    ],
+    "R"
+   ],
+   [
+    "millipede",
+    [
+     573,
+     316
+    ],
+    "R"
+   ],
+   [
+    "centipede",
+    [
+     726,
+     331
+    ],
+    "R"
+   ],
+   [
+    "toad (aestivating)",
+    [
+     636,
+     749
+    ],
+    "R"
+   ],
+   [
+    "snake",
+    [
+     846,
+     661
+    ],
+    "R"
+   ],
+   [
+    "plant roots",
+    [
+     421,
+     320
+    ],
+    "L"
+   ],
+   [
+    "fungi",
+    [
+     854,
+     798
+    ],
+    "R"
+   ],
+   [
+    "dark, moist, cool",
+    [
+     523,
+     708
+    ],
+    "R"
+   ]
+  ]
+ }
+}

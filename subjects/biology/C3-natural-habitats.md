@@ -83,7 +83,7 @@ Aquatic organisms are grouped according to where and how they live in the water:
 
 **Textbook variation:** some books place free-floating plants such as water lettuce and duckweed in a separate group called **pleuston**; others include them with the neuston. Some books also list **periphyton** (algae and other organisms growing attached to plants and stones).
 
-[IMAGE: Cross-section of a freshwater pond showing the four ecological groups. At the surface: pond skaters standing on the water film, mosquito larvae hanging under the surface, and floating duckweed. In the open water: tiny green phytoplankton dots and small zooplankton (water fleas, Cyclops) drawn enlarged in a circle, and swimming Tilapia and a frog. On the muddy bottom: snails, worms, a dragonfly nymph and rooted plants. Brackets on the side mark each zone. Labels: "neuston (surface film)", "pond skater", "mosquito larva", "duckweed", "plankton", "phytoplankton", "zooplankton (water flea)", "nekton", "Tilapia", "frog", "benthos", "snail", "worm in mud", "dragonfly nymph". Soft blues, greens and browns. Clean flat textbook style, white background.]
+![Cross-section of a freshwater pond illustrating neuston at the surface, swimming nekton and magnified plankton in the open water, and benthic organisms along the muddy bottom.](images/C3-01-freshwater-ecological-zones-cross.png)
 
 ## Aquatic habitat 1: The pond
 
@@ -163,9 +163,9 @@ Pond plants (**hydrophytes**: plants adapted to living in water) are grouped by 
 10. **Mouth-brooding** in some *Tilapia*: the parent keeps the eggs and young in its mouth for protection.
 11. **Camouflage:** dark backs and pale bellies (countershading) in fish.
 
-[IMAGE: Cross-section of a Nigerian pond with its plants and animals. Edge: sedges and Typha bulrushes rooted in mud, a frog on the bank, a kingfisher on a branch. Surface: a water lily with round floating leaves on long stalks and a flower, floating water lettuce rosettes with hanging roots, duckweed, a pond skater, mosquito larvae hanging with siphons at the surface. Under water: submerged feathery hornwort, green Spirogyra filaments, tadpoles, water fleas, a water boatman, a dragonfly nymph, Tilapia, a water snail on a stem, Hydra attached to a leaf. Bottom: dark mud with a catfish and worms. Labels: "Typha (emergent)", "water lily (floating leaves)", "long flexible leaf stalk", "water lettuce (free-floating)", "duckweed", "hornwort (submerged)", "Spirogyra", "pond skater", "mosquito larvae", "water boatman", "dragonfly nymph", "tadpole", "Tilapia", "water snail", "Hydra", "catfish", "mud", "frog", "kingfisher". Soft blues, greens and browns. Clean flat textbook style, white background.]
+![Cross section diagram of a pond ecosystem showing emergent plants, floating vegetation, submerged plants, diverse aquatic animals, and muddy bottom organisms with a bank-side frog and kingfisher.](images/C3-02-pond-community-habitat-cross.png)
 
-[IMAGE: Two panels showing adaptations of hydrophytes. Left: a water lily leaf and its stalk, with a cut-away of the leaf showing stomata only on the upper surface and large air spaces in the leaf and stalk. Right: a water lettuce plant with a rosette of thick, ridged, hairy leaves floating on the surface and long feathery roots hanging below, with a cut-away of a leaf showing spongy air-filled tissue. Labels: "floating leaf", "waxy upper surface", "stomata on upper surface", "air spaces (aerenchyma)", "long flexible leaf stalk", "water lettuce", "water-repellent hairs", "spongy air-filled tissue", "hanging roots". Soft greens and blues. Clean flat textbook style, white background.]
+![Two-panel illustration comparing hydrophyte adaptations in a water lily with floating leaves, long stalk, and aerenchyma, and a water lettuce with hairy floating leaves and feathery roots.](images/C3-03-hydrophyte-leaf-anatomical-adaptations.png)
 
 ## Aquatic habitat 2: The stream
 
@@ -268,7 +268,7 @@ A **lake** is a large, often deep, body of **still (lentic) water**, usually fre
 - **Bottom-living organisms** of deep, oxygen-poor water may have haemoglobin (as in some midge larvae, called bloodworms), which helps them take up oxygen at low concentrations.
 - Lake shore plants have the same adaptations as pond plants (air spaces, floating leaves).
 
-[IMAGE: Cross-section of a deep lake showing its zones. Left side: a shallow sloping shore with reeds, papyrus and water lilies (littoral zone). Surface water across the middle with phytoplankton dots and zooplankton, Tilapia and a Nile perch (limnetic zone). Below it, darker deep water with no plants (profundal zone), with dead material drifting down. The muddy bottom with bacteria and midge larvae (benthic zone). A pelican on the surface and a fishing canoe. Light rays penetrating only the upper water. Labels: "littoral zone", "limnetic (open-water) zone", "profundal (deep) zone", "benthic zone (lake bottom)", "rooted plants", "phytoplankton", "zooplankton", "Tilapia", "Nile perch", "light penetration limit", "dead material sinking", "pelican". Shades of blue getting darker with depth, greens at the shore. Clean flat textbook style, white background.]
+![Cross-section of a deep freshwater lake displaying littoral, limnetic, profundal, and benthic zones with aquatic organisms, light penetration, and a boat on the surface.](images/C3-05-deep-lake-ecological-zones.png)
 
 ## Aquatic habitat 4: The seashore
 
@@ -336,7 +336,7 @@ Barnacles, periwinkles, limpets, mussels, oysters, crabs (ghost crabs, shore cra
 7. **Tolerance of salt:** marine animals have body fluids adapted to sea water (osmoregulation).
 8. **Ghost crabs** come out mostly at night (nocturnal) and have pale, sand-coloured bodies (camouflage); they run very fast.
 
-[IMAGE: Side view of a rocky seashore sloping down from the land on the left to the sea on the right, with horizontal bands marking the zones and two lines for high-tide and low-tide levels. Splash zone at the top with lichens and periwinkles. Upper shore with barnacles and periwinkles. Middle shore with limpets, mussels, oysters and green sea lettuce. Lower shore with sea anemones, starfish, sea urchins, crabs and red and brown seaweeds with holdfasts. Sublittoral zone below the low-tide line with large brown seaweed (Sargassum with air bladders) and fish. A rock pool in the middle shore with a small fish. Labels: "splash zone", "upper shore", "middle shore", "lower shore", "sublittoral zone", "high tide level", "low tide level", "lichens", "periwinkles", "barnacles", "limpets", "mussels", "sea lettuce (Ulva)", "sea anemone", "starfish", "sea urchin", "crab", "seaweed holdfast", "Sargassum air bladders", "rock pool". Soft blues, greys, greens and browns. Clean flat textbook style, white background.]
+![Zonation diagram of a rocky seashore showing splash zone, upper, middle, and lower shore, and sublittoral zone with characteristic organisms, tide lines, and a rock pool.](images/C3-06-rocky-seashore-zonation-profile.png)
 
 ## Aquatic habitat 5: The mangrove swamp
 
@@ -412,7 +412,7 @@ A **mangrove swamp** is a coastal forest of salt-tolerant trees (mangroves) that
 3. **Oysters and periwinkles:** shells that close tightly at low tide to prevent drying; oysters **cement** themselves to mangrove roots; periwinkles have an **operculum**.
 4. **Osmoregulation:** animals of brackish water can tolerate changes in salinity.
 
-[IMAGE: A Niger Delta mangrove swamp at low tide, side view with a cut-away of the mud. Left: a red mangrove (Rhizophora) with arching stilt roots growing from its trunk into the mud, oysters attached to the roots, and long green spear-like propagules hanging from its branches, with one fallen propagule stuck upright in the mud. Right: a white mangrove (Avicennia) with many pencil-like pneumatophores sticking up out of the mud from horizontal roots beneath, with small dots of lenticels and tiny white salt crystals on its leaves. On the mud: mudskippers with eyes on top of their heads propped on their pectoral fins, a fiddler crab with one huge claw beside its burrow, periwinkle snails. A heron in the shallow water. The cut-away shows dark grey anaerobic mud. Labels: "red mangrove (Rhizophora)", "stilt (prop) roots", "oysters on roots", "viviparous seedling (propagule)", "fallen propagule rooting in mud", "white mangrove (Avicennia)", "pneumatophores", "lenticels", "salt crystals excreted by leaves", "mudskipper", "fiddler crab", "burrow", "periwinkle", "soft anaerobic mud", "high tide level". Soft greens, greys and browns. Clean flat textbook style, white background.]
+![A diagram of a mangrove swamp showing a red mangrove with stilt roots and hanging propagules, a white mangrove with pneumatophores, mudskippers, a fiddler crab, and a cutaway of the mud.](images/C3-07-mangrove-swamp-ecosystem-cross.png)
 
 ## Terrestrial and arboreal habitat 1: Tree-tops
 
@@ -479,7 +479,7 @@ The **tree-tops** (the **canopy**) of a forest, or of large trees in the savanna
 5. **Climbers** have **tendrils, hooks, spines** or twining stems to climb towards the light without having to build thick trunks of their own.
 6. **Canopy trees** have tough, often waxy leaves with **drip tips** that shed rainwater quickly, and produce large crops of fruits that attract the animals that disperse their seeds.
 
-[IMAGE: The canopy of a Nigerian rainforest tree with branches covered in epiphytes and animals. Show: an epiphytic orchid with white aerial roots and a flower on a branch; a staghorn fern clasping the trunk; mosses and lichens on bark; a woody liana climbing up; a mona monkey with long limbs and a long tail holding a fruit; a chameleon on a twig gripping with zygodactylous feet, its tail coiled around the twig and its long tongue catching an insect; a tree frog with round toe pads on a leaf; a hornbill eating fruit; an anomalure gliding between trees with its skin membrane spread; weaver ants on a leaf nest. Labels: "orchid (epiphyte)", "aerial roots with velamen", "staghorn fern", "liana (climber)", "mona monkey", "grasping hands", "long tail for balance", "chameleon", "zygodactylous feet", "prehensile tail", "long sticky tongue", "tree frog", "adhesive toe pads", "hornbill", "anomalure (gliding membrane)", "weaver ant nest". Soft greens, browns and touches of colour. Clean flat textbook style, white background.]
+![Rainforest canopy showing epiphytes, lianas, a mona monkey, chameleon catching an insect, tree frog, hornbill eating fruit, gliding anomalure, and weaver ants building a leaf nest.](images/C3-08-tropical-rainforest-canopy.png)
 
 ## Terrestrial habitat 2: Abandoned farmland or a dry grassy (savanna) field
 
@@ -560,7 +560,7 @@ The syllabus groups two similar open, grassy habitats together:
 9. **Termites** build hard mounds that protect the colony from heat, drying and predators, and keep a steady temperature and humidity inside (topic A3).
 10. **Basking** in lizards (*Agama*) to warm up in the morning.
 
-[IMAGE: A dry grassy savanna field in Nigeria in the early dry season, with an abandoned farm patch in the foreground. Show: tall tufts of grass (some turning yellow), spear grass with a cut-away showing its underground rhizome, a shea tree with thick corky bark and a baobab with a fat trunk in the background, Tridax weeds with fluffy seed heads, a termite mound, a green grasshopper on a grass blade, a brown variegated grasshopper, an Agama lizard on a rock, a grasscutter in the grass, a rat at a burrow entrance, a hawk flying overhead, a cattle egret beside a grazing cow. Labels: "grass tufts", "spear grass", "underground rhizome", "shea tree (thick corky bark)", "baobab (water-storing trunk)", "Tridax (wind-dispersed seeds)", "termite mound", "grasshopper (camouflaged)", "variegated grasshopper (warning colours)", "Agama lizard", "grasscutter", "rat burrow", "hawk", "cattle egret", "cow". Soft yellows, greens and browns. Clean flat textbook style, white background.]
+![A savanna ecosystem illustration featuring a baobab, shea tree, termite mound, grazing cow with egret, flying hawk, grasscutter, rat burrow, agama lizard, insects, and grass with underground rhizome.](images/C3-09-savanna-field-ecosystem-landscape.png)
 
 ## Terrestrial habitat 3: Burrow or hole
 
@@ -630,7 +630,7 @@ A **burrow** is a tunnel or hole dug into the ground by an animal to live in. A 
 - **Toads and land snails:** burrow into the soil to aestivate in the dry season (topic A3).
 - **Bats** roosting in caves and holes use **echolocation** to find their way in the dark.
 
-[IMAGE: Cut-away side view of the soil under a savanna field showing several burrows. A giant pouched rat in a nest chamber at the end of a long tunnel with stored food; an earthworm in a narrow tunnel with its segments and bristles shown in an enlarged circle; a mole cricket with spade-like front legs digging; a millipede and a centipede in leaf litter; a toad buried in the soil; a snake entering a hole; plant roots running through the soil; fungi growing on dead matter. On the surface: grass and a burrow entrance. Labels: "burrow entrance", "giant pouched rat", "nest chamber", "stored food", "earthworm", "chaetae (bristles)", "segments", "mole cricket", "spade-like front legs", "millipede", "centipede", "toad (aestivating)", "snake", "plant roots", "fungi", "dark, moist, cool". Soft browns and greys with green grass on top. Clean flat textbook style, white background.]
+![A cutaway cross section of savanna soil showing underground burrows containing a giant pouched rat, an earthworm with magnified chaetae, a mole cricket, toad, snake, and soil organisms.](images/C3-10-soil-subterranean-burrows-cross.png)
 
 ## Associating plants and animals with each habitat
 

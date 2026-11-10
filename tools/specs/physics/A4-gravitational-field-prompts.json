@@ -2,5 +2,13 @@
  [
   "A4-02-earth-shape-gravity",
   "A cross-section of the Earth, slightly squashed so it looks wider than it is tall. An arrow points from the centre to the North Pole,. Another arrow points from the centre to the equator,. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-01-gravitational-attraction-force",
+  "Two spherical bodies, one labelled $m_1$ and the other $m_2$. A dashed line connects their centres, labelled $r$. Red arrows point from the centre of each sphere towards the other, labelled $F$, showing mutual attraction. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-03-geostationary-satellite-orbit",
+  "The Earth in the centre with an equator line drawn. A satellite is placed on a large circular orbital path directly above the equator. Curved arrows show the Earth rotating and the satellite revolving in the same direction, with text indicating both have a period of 24 hours. Clean flat textbook illustration, white background."
  ]
 ]

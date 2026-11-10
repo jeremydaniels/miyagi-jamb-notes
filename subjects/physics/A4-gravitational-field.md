@@ -55,7 +55,7 @@ $$G = 6.67 \times 10^{-11}\ \text{N m}^2 \text{kg}^{-2}$$
 
 Because $G$ is so small, you do not feel the gravitational pull between yourself and a car parked next to you. Gravity only becomes noticeably strong when at least one of the objects is massive, like a planet or a star.
 
-[IMAGE: Two spherical bodies, one labelled $m_1$ and the other $m_2$. A dashed line connects their centres, labelled $r$. Red arrows point from the centre of each sphere towards the other, labelled $F$, showing mutual attraction. Clean flat textbook illustration, white background.]
+![Two spheres labeled m1 and m2 exert attractive forces F on each other along a line connecting their centers separated by distance r.](images/A4-01-gravitational-attraction-force.png)
 
 ### Relating the Gravitational Force Expression
 
@@ -294,7 +294,7 @@ Satellites, like Nigeria's NIGCOMSAT, are launched into specific orbits to serve
 **Parking Orbit (Geostationary Orbit):**
 A parking orbit is a special circular orbit around the Earth's equator where a satellite has an orbital period of **exactly 24 hours**. Because the Earth also takes 24 hours to rotate on its axis, a satellite in a parking orbit appears to be completely stationary (parked) relative to a specific point on the Earth's surface. This is vital for satellite dishes on your roof; if the satellite moved relative to your house, you would have to constantly move your dish to track it!
 
-[IMAGE: The Earth in the centre with an equator line drawn. A satellite is placed on a large circular orbital path directly above the equator. Curved arrows show the Earth rotating and the satellite revolving in the same direction, with text indicating both have a period of 24 hours. Clean flat textbook illustration, white background.]
+![Diagram of Earth with an equatorial orbit showing a geostationary satellite revolving in the same direction as Earth rotates, both having a 24-hour period.](images/A4-03-geostationary-satellite-orbit.png)
 
 **Weightlessness:**
 When you see astronauts floating in the International Space Station, it is **not** because there is zero gravity in space. Gravity is what keeps the station in orbit! 

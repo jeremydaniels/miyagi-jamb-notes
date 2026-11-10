@@ -82,7 +82,7 @@ A **debenture** is a document issued by a company acknowledging a long-term loan
 *   **Secured debentures:** Backed by the company's assets. If the company fails to pay, the holders can sell the assets to recover their money.
 *   **Unsecured (Naked) debentures:** Not backed by any specific asset.
 
-[IMAGE: A hierarchy chart showing types of securities. At the top: "Securities". Two branches: "Ownership (Equity)" and "Debt (Loans)". Under Ownership: "Shares" (branching to Ordinary and Preference) and "Stocks". Under Debt: "Bonds (Gilt-edged)" and "Debentures". Clean flat textbook illustration, white background.]
+![Hierarchy chart categorizing securities into ownership equity like shares and stocks, and debt loans like bonds and debentures, with shares branching into ordinary and preference.](images/A11-01-types-securities-chart.png)
 
 ## Procedure of transactions and speculations
 
@@ -146,7 +146,7 @@ There are three main types of speculators on the stock exchange, named after ani
 | **Bear** | Sells now | Prices will **fall** | Buy back later at a lower price |
 | **Stag** | Applies for new shares | New shares will open at a **premium** | Sell new shares immediately for a profit |
 
-[IMAGE: An illustration showing the three types of stock market speculators. On the left, a muscular Bull charging upwards, with a green arrow pointing up (representing rising prices). In the middle, a large Bear swiping its paw downwards, with a red arrow pointing down (representing falling prices). On the right, a Stag (male deer with antlers) holding a sheet of paper labelled "New Issue / IPO" with a quick cash symbol next to it. Clean flat textbook style, white background.]
+![Illustration of three stock market speculators: a charging bull with upward green arrows, a bear swiping downward with a red arrow, and a stag holding financial papers.](images/A11-02-stock-market-speculators-cartoon.png)
 
 ## The Second-Tier Securities Market (SSM)
 

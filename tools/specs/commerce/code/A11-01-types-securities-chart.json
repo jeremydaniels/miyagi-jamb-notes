@@ -1,0 +1,86 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Types of Securities",
+ "nodes": [
+  {
+   "id": "sec",
+   "text": "Securities",
+   "shape": "box"
+  },
+  {
+   "id": "eq",
+   "text": "Ownership (Equity)",
+   "shape": "box"
+  },
+  {
+   "id": "debt",
+   "text": "Debt (Loans)",
+   "shape": "box"
+  },
+  {
+   "id": "shares",
+   "text": "Shares",
+   "shape": "round"
+  },
+  {
+   "id": "stocks",
+   "text": "Stocks",
+   "shape": "round"
+  },
+  {
+   "id": "bonds",
+   "text": "Bonds (Gilt-edged)",
+   "shape": "round"
+  },
+  {
+   "id": "deb",
+   "text": "Debentures",
+   "shape": "round"
+  },
+  {
+   "id": "ord",
+   "text": "Ordinary",
+   "shape": "plain"
+  },
+  {
+   "id": "pref",
+   "text": "Preference",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sec",
+   "to": "eq"
+  },
+  {
+   "from": "sec",
+   "to": "debt"
+  },
+  {
+   "from": "eq",
+   "to": "shares"
+  },
+  {
+   "from": "eq",
+   "to": "stocks"
+  },
+  {
+   "from": "debt",
+   "to": "bonds"
+  },
+  {
+   "from": "debt",
+   "to": "deb"
+  },
+  {
+   "from": "shares",
+   "to": "ord"
+  },
+  {
+   "from": "shares",
+   "to": "pref"
+  }
+ ]
+}

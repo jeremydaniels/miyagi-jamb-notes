@@ -1,0 +1,26 @@
+{
+ "E2-02-historical-social-impact": {
+  "regions": [
+   "Western Education (Mission Schools)",
+   "Western Medicine (Mission Dispensaries)"
+  ],
+  "labels": [
+   [
+    "Western Education (Mission Schools)",
+    [
+     266,
+     501
+    ],
+    "L"
+   ],
+   [
+    "Western Medicine (Mission Dispensaries)",
+    [
+     768,
+     501
+    ],
+    "R"
+   ]
+  ]
+ }
+}

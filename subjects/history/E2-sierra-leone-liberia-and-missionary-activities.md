@@ -59,7 +59,7 @@ Because the ACS was a private society and not a government, it could not legally
 | **New Elite Group** | The Creoles (Krios) | The Americo-Liberians |
 | **Political Status** | Became a British Crown Colony (1808) | Declared independence as a Republic (1847) |
 
-[IMAGE: A clean map of West Africa showing the Atlantic coast. Highlight the locations of Sierra Leone (capital: Freetown) and Liberia (capital: Monrovia) side by side on the coast. Use distinct colors for each. Draw arrows pointing from the Atlantic Ocean toward Freetown labeled "Liberated Africans (Recaptives) brought by British Navy" and arrows pointing toward Monrovia labeled "Free African Americans from the USA". Clean flat textbook illustration, white background.]
+![Map of West Africa illustrating 19th-century resettlement routes of Liberated Africans to Sierra Leone and Free African Americans to Liberia.](images/E2-01-historical-coastal-migration-map.png)
 
 ## The importance of Sierra Leone and Liberia in the spread of Christianity
 
@@ -108,7 +108,7 @@ Christian missionaries (from the CMS, Methodists, Baptists, Presbyterians, and C
 * **Introduction of Western Medicine:** Missionaries built clinics, dispensaries, and hospitals to treat tropical diseases, introducing modern healthcare, hygiene, and sanitation to local communities.
 * **Cultural Alienation:** On the negative side, missionaries often confused European culture with Christianity. They taught Africans to despise their own culture, promoting European names (baptismal names), European clothing (even in hot weather), and European forms of marriage, leading to a loss of African cultural identity.
 
-[IMAGE: A split illustration showing the social impact of missionaries. On the left side, a missionary teaching a group of African children in a simple wooden classroom with a blackboard showing the alphabet. On the right side, a missionary nurse in a small dispensary handing medicine to a local woman holding a baby. Labels: "Western Education (Mission Schools)", "Western Medicine (Mission Dispensaries)". Clean flat textbook style, white background.]
+![A split illustration showing a missionary teaching children in a wooden classroom on the left, and a missionary nurse providing medicine to a mother and baby on the right.](images/E2-02-historical-social-impact.png)
 
 ### 4. Economic Impact
 * **Promotion of Legitimate Trade:** Missionaries actively encouraged Africans to farm cash crops like cocoa, palm produce, cotton, and groundnuts instead of trading in slaves. They believed legitimate trade would raise the standard of living and make the slave trade unnecessary.

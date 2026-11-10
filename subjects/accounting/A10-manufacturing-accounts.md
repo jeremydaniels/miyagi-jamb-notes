@@ -76,7 +76,7 @@ To find the final **Total Cost (of Sales)**, we take the Cost of Goods Sold (whi
 
 $ \text{Total Cost of Sales} = \text{Cost of Goods Sold} + \text{Administrative Overheads} + \text{Selling \& Distribution Overheads} $
 
-[IMAGE: A flowchart showing the build-up of manufacturing costs. Three boxes at the top labeled "Direct Materials", "Direct Labour", and "Direct Expenses" point down to a box labeled "Prime Cost". Another box labeled "Factory Overheads" points down alongside the "Prime Cost" box to a larger box labeled "Total Factory Cost". From there, an arrow points to a box labeled "Adjust for Work-in-Progress (WIP)" which finally leads to a large bold box labeled "Cost of Production". Clean flat textbook illustration, white background, using blue and grey tones for the boxes.]
+![Flowchart showing direct materials, labour, and expenses combining into prime cost, which joins factory overheads into total factory cost, finally adjusting for WIP into cost of production.](images/A10-01-manufacturing-costs-flowchart.png)
 
 ## Cost apportionment
 
@@ -108,7 +108,7 @@ Alhaji Musa Bakery pays a total rent of ₦60,000 for the year. The total floor 
 *   **Factory Rent** = $ \frac{2}{3} \times ₦60,000 = ₦40,000 $. (This goes to Factory Overheads).
 *   **Office Rent** = $ \frac{1}{3} \times ₦60,000 = ₦20,000 $. (This goes to the Profit or Loss Account).
 
-[IMAGE: A visual representation of cost apportionment. A single stack of coins representing "Total Rent ₦60,000" is split into two piles based on a floor plan diagram. A larger pile points to a "Factory (400 sq m)" taking ₦40,000, and a smaller pile points to an "Office (200 sq m)" taking ₦20,000. Clear labels and arrows showing the 2:1 ratio. Clean flat textbook illustration, white background.]
+![Diagram showing rent apportionment where ₦60,000 total rent is divided 2:1 between a 400 sq m factory taking ₦40,000 and a 200 sq m office taking ₦20,000.](images/A10-02-cost-apportionment-block.png)
 
 ## Preparation of a manufacturing account
 

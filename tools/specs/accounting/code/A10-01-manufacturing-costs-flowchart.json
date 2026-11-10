@@ -1,0 +1,85 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Build-Up of Manufacturing Costs",
+ "nodes": [
+  {
+   "id": "dm",
+   "text": "Direct Materials",
+   "shape": "box",
+   "color": "lightgrey"
+  },
+  {
+   "id": "dl",
+   "text": "Direct Labour",
+   "shape": "box",
+   "color": "lightgrey"
+  },
+  {
+   "id": "de",
+   "text": "Direct Expenses",
+   "shape": "box",
+   "color": "lightgrey"
+  },
+  {
+   "id": "prime",
+   "text": "Prime Cost",
+   "shape": "round",
+   "color": "lightblue"
+  },
+  {
+   "id": "foh",
+   "text": "Factory Overheads",
+   "shape": "box",
+   "color": "lightgrey"
+  },
+  {
+   "id": "tfc",
+   "text": "Total Factory Cost",
+   "shape": "round",
+   "color": "lightblue"
+  },
+  {
+   "id": "wip",
+   "text": "Adjust for Work-in-Progress (WIP)",
+   "shape": "box",
+   "color": "lightgrey"
+  },
+  {
+   "id": "cop",
+   "text": "Cost of Production",
+   "shape": "round",
+   "color": "blue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "dm",
+   "to": "prime"
+  },
+  {
+   "from": "dl",
+   "to": "prime"
+  },
+  {
+   "from": "de",
+   "to": "prime"
+  },
+  {
+   "from": "prime",
+   "to": "tfc"
+  },
+  {
+   "from": "foh",
+   "to": "tfc"
+  },
+  {
+   "from": "tfc",
+   "to": "wip"
+  },
+  {
+   "from": "wip",
+   "to": "cop"
+  }
+ ]
+}

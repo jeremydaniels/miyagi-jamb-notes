@@ -337,7 +337,7 @@ First, we generate the cumulative frequencies and upper boundaries. We include a
 | 89.5 | 95 |
 | 99.5 | 100 |
 
-[IMAGE: A cumulative frequency curve (Ogive) plotted on a graph. The horizontal x-axis is labelled "Weight (kg)" with upper class boundary marks: 39.5, 49.5, 59.5, 69.5, 79.5, 89.5, 99.5. The vertical y-axis is labelled "Cumulative Frequency" from 0 to 100 in steps of 10. The curve starts smoothly at (39.5, 0), rises smoothly through (49.5, 5), (59.5, 20), (69.5, 60), (79.5, 85), (89.5, 95) and ends at (99.5, 100). Dashed lines show the Median (from 50 on the y-axis horizontally to the curve, then vertically down to 67.0 on the x-axis), Lower Quartile Q1 (from 25 on the y-axis to 60.75 on the x-axis), and Upper Quartile Q3 (from 75 on the y-axis to 75.5 on the x-axis). Clean flat textbook style, white background.]
+![A cumulative frequency ogive plotting weight against cumulative frequency, showing dashed lines and labels to determine the lower quartile, median, and upper quartile values.](images/E2-01-cumulative-frequency-ogive-curve.png)
 
 **Interpreting the Ogive:**
 1. **Median ($N = 100$):** Look for position $\frac{100}{2} = 50$ on the $y$-axis. Draw a horizontal line to the curve, then a vertical line straight down. It lands at approximately **$67.0$ kg**.

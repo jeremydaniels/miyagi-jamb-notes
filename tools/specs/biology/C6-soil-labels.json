@@ -143,7 +143,7 @@
      518,
      428
     ],
-    "R"
+    "T"
    ],
    [
     "Clayey soil",
@@ -193,18 +193,13 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-07-air-soil-experiment-apparatus": {
   "labels": [
-   [
-    "Tin of soil (known volume)",
-    [
-     237,
-     760
-    ],
-    "L"
-   ],
    [
     "Measuring cylinder",
     [
@@ -245,7 +240,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Tin of soil (known\nvolume)",
+    262,
+    893
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-08-soil-water-humus-determination": {
   "labels": [
@@ -258,7 +262,7 @@
     "L"
    ],
    [
-    "Oven at about 100 \u00b0C (water driven off)",
+    "Oven at about 100 °C (water driven off)",
     [
      315,
      312
@@ -304,16 +308,17 @@
      513
     ],
     "R"
-   ],
+   ]
+  ],
+  "captions": [
    [
     "Balance",
-    [
-     582,
-     677
-    ],
-    "R"
+    592,
+    752
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-09-soil-capillarity-experiment-apparatus": {
   "labels": [
@@ -391,7 +396,7 @@
      445,
      700
     ],
-    "L"
+    "T"
    ],
    [
     "Lime water turns milky",
@@ -407,7 +412,7 @@
      445,
      591
     ],
-    "L"
+    "T"
    ],
    [
     "Lamp",
@@ -415,7 +420,7 @@
      772,
      189
     ],
-    "R"
+    "T"
    ],
    [
     "Leaf litter on wire gauze",
@@ -449,7 +454,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-11-soil-organisms-ecosystem-block": {
   "labels": [
@@ -698,30 +706,6 @@
   ],
   "labels": [
    [
-    "Sandy soil",
-    [
-     56,
-     509
-    ],
-    "L"
-   ],
-   [
-    "Loamy soil",
-    [
-     517,
-     509
-    ],
-    "R"
-   ],
-   [
-    "Clayey soil",
-    [
-     967,
-     509
-    ],
-    "R"
-   ],
-   [
     "Sand grain",
     [
      114,
@@ -751,7 +735,7 @@
      640,
      442
     ],
-    "R"
+    "T"
    ],
    [
     "Soil crumb",
@@ -759,7 +743,7 @@
      625,
      463
     ],
-    "R"
+    "T"
    ],
    [
     "Clay particles",
@@ -769,42 +753,52 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Sandy soil",
+    128,
+    766
+   ],
+   [
+    "Loamy soil",
+    516,
+    764
+   ],
+   [
+    "Clayey soil",
+    899,
+    765
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-04-soil-structure-types": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Crumb (granular)",
-    [
-     142,
-     509
-    ],
-    "L"
+    "Crumb\n(granular)",
+    143,
+    636
    ],
    [
     "Single-grained",
-    [
-     389,
-     509
-    ],
-    "L"
+    388,
+    636
    ],
    [
     "Platy",
-    [
-     634,
-     512
-    ],
-    "R"
+    635,
+    636
    ],
    [
     "Blocky",
-    [
-     880,
-     509
-    ],
-    "R"
+    880,
+    636
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

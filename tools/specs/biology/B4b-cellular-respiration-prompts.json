@@ -1,0 +1,14 @@
+[
+ [
+  "B4b-01-atp-adp-cycle-schematic",
+  "Simple diagram of the ATP–ADP cycle. On the left, an ATP molecule drawn as an adenine shape (hexagon pair), a ribose pentagon, and three phosphate circles in a row. On the right, ADP with two phosphate circles and a separate single phosphate circle. A circular pair of arrows joins them: the top arrow (ADP + phosphate to ATP) fed by \"energy from respiration\" coming from a small mitochondrion icon, and the bottom arrow (ATP to ADP + phosphate) giving out \"energy for cell work\" with small icons for a muscle, a dividing cell and a protein chain."
+ ],
+ [
+  "B4b-02-glycolysis-pathway-flowchart",
+  "Simple flow diagram of glycolysis drawn inside a pale cytoplasm-coloured box. At the top, a chain of six circles representing glucose (6C). An arrow shows 2 ATP being used to give a 6C sugar phosphate (six circles with a small phosphate tag at each end). This splits into two chains of three circles (triose phosphate). Each then passes down an arrow giving off NADH and 2 ATP, ending as pyruvic acid (three circles) at the bottom. On the right side, a tally box shows \"ATP used: 2\", \"ATP made: 4\", \"net gain: 2 ATP\"."
+ ],
+ [
+  "B4b-07-oxygen-deficit-exercise-line",
+  "Line graph of oxygen consumption against time for a person before, during and after a short period of vigorous exercise. The horizontal axis shows time in minutes with three marked zones (rest, exercise, recovery); the vertical axis shows oxygen uptake. The line is low and flat at rest, rises during exercise to a plateau, then falls gradually back to the resting level during recovery. A shaded area at the start of exercise (where uptake lags behind need) is marked as the oxygen deficit, and the shaded area under the curve during recovery above the resting level is marked as the oxygen debt. A dashed line shows the oxygen actually needed during exercise above the plateau."
+ ]
+]

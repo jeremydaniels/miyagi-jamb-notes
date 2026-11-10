@@ -68,7 +68,7 @@ ATP is called the **"energy currency"** of the cell because, like money, it is m
 
 **Textbook variation:** the energy released when one mole of ATP is broken down to ADP is given as about **30.5 kJ**, **30.6 kJ**, **31 kJ** or **34 kJ** in different books (about 7.3 kcal). All agree it is a small, convenient "packet" of energy compared with the energy in one glucose molecule.
 
-[IMAGE: Simple diagram of the ATP–ADP cycle. On the left, an ATP molecule drawn as an adenine shape (hexagon pair), a ribose pentagon, and three phosphate circles in a row. On the right, ADP with two phosphate circles and a separate single phosphate circle. A circular pair of arrows joins them: the top arrow (ADP + phosphate to ATP) fed by "energy from respiration" coming from a small mitochondrion icon, and the bottom arrow (ATP to ADP + phosphate) giving out "energy for cell work" with small icons for a muscle, a dividing cell and a protein chain. Labels to add: "ATP (adenosine triphosphate)", "ADP (adenosine diphosphate)", "adenine", "ribose", "phosphate", "energy from respiration", "energy for muscle contraction, active transport, growth", "phosphate added", "phosphate removed". Clean flat textbook style, white background.]
+![Diagram of the ATP and ADP cycle showing ATP conversion to ADP releasing energy, and ADP phosphorylation back to ATP using energy from cellular respiration.](images/B4b-01-atp-adp-cycle-schematic.png)
 
 ## The significance of respiration
 
@@ -170,7 +170,7 @@ glucose (6C) → 2 pyruvic acid (3C) + 2 ATP (net) + 2 NADH
 - **With oxygen:** pyruvic acid enters the **mitochondrion** and is completely oxidised (link reaction, Krebs cycle and electron transport chain). This is aerobic respiration.
 - **Without oxygen:** pyruvic acid stays in the cytoplasm and is changed into **ethanol and CO₂** (in yeast and plants) or **lactic acid** (in animal muscles and some bacteria). This is anaerobic respiration (see below).
 
-[IMAGE: Simple flow diagram of glycolysis drawn inside a pale cytoplasm-coloured box. At the top, a chain of six circles representing glucose (6C). An arrow shows 2 ATP being used to give a 6C sugar phosphate (six circles with a small phosphate tag at each end). This splits into two chains of three circles (triose phosphate). Each then passes down an arrow giving off NADH and 2 ATP, ending as pyruvic acid (three circles) at the bottom. On the right side, a tally box shows "ATP used: 2", "ATP made: 4", "net gain: 2 ATP". Labels to add: "cytoplasm", "glucose (6C)", "2 ATP used", "6C sugar phosphate", "2 triose phosphate (3C)", "2 NADH", "4 ATP made", "2 pyruvic acid (3C)", "no oxygen needed". Clean flat textbook style, white background.]
+![Flow diagram of glycolysis in the cytoplasm converting glucose to two pyruvic acid molecules, yielding two NADH with a net gain of two ATP.](images/B4b-02-glycolysis-pathway-flowchart.png)
 
 ### Stage 2: The link reaction
 
@@ -400,7 +400,7 @@ The **oxygen debt** is the **extra oxygen** that the body needs **after** vigoro
 
 **Textbook variation on cramp and fatigue:** school textbooks link **cramp** and **fatigue** to the build-up of lactic acid, and this is the answer JAMB expects. Modern research suggests that fatigue and cramp have **several causes** (for example, loss of salts and water in sweat, tiredness of the nerves controlling the muscle, and changes in the muscle cells), and that lactic acid is not the only, or even the main, cause. Give the textbook answer in the exam.
 
-[IMAGE: Line graph of oxygen consumption against time for a person before, during and after a short period of vigorous exercise. The horizontal axis shows time in minutes with three marked zones (rest, exercise, recovery); the vertical axis shows oxygen uptake. The line is low and flat at rest, rises during exercise to a plateau, then falls gradually back to the resting level during recovery. A shaded area at the start of exercise (where uptake lags behind need) is marked as the oxygen deficit, and the shaded area under the curve during recovery above the resting level is marked as the oxygen debt. A dashed line shows the oxygen actually needed during exercise above the plateau. Labels to add: "rest", "exercise", "recovery", "oxygen uptake", "time", "oxygen needed by muscles", "oxygen deficit (anaerobic respiration, lactic acid builds up)", "oxygen debt repaid (lactic acid removed)", "resting level". Clean flat textbook style, white background.]
+![Line graph showing oxygen uptake before, during, and after exercise, highlighting oxygen deficit at the start of exercise and oxygen debt repaid during recovery.](images/B4b-07-oxygen-deficit-exercise-line.png)
 
 ### Other effects of insufficient oxygen
 

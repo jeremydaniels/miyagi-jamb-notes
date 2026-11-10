@@ -197,7 +197,7 @@ The **channel of distribution** is the path or route through which goods pass fr
     **Manufacturer $\rightarrow$ Agent $\rightarrow$ Wholesaler $\rightarrow$ Retailer $\rightarrow$ Consumer**
     *   Often used in foreign trade (imports) or agriculture, where agents or brokers are needed to assemble goods or handle complex negotiations before wholesalers take over.
 
-[IMAGE: A flowchart showing the four channels of distribution. Row 1: Manufacturer box with an arrow pointing directly to Consumer box. Label: "Direct Sales". Row 2: Manufacturer box -> Retailer box -> Consumer box. Row 3: Manufacturer box -> Wholesaler box -> Retailer box -> Consumer box. Label: "Traditional Channel". Row 4: Manufacturer box -> Agent box -> Wholesaler box -> Retailer box -> Consumer box. Style: Clean flat textbook illustration, white background, distinct colours for Manufacturer, Middlemen, and Consumer boxes.]
+![Flowchart titled Channels of Distribution showing four distinct distribution channels from manufacturer to consumer, utilizing color-coded boxes for manufacturers, intermediaries, and consumers.](images/A4a-01-distribution-channels-flowchart.png)
 
 ## Functions of wholesalers
 

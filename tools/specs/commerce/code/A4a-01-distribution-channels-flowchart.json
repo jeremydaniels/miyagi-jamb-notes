@@ -1,0 +1,169 @@
+{
+ "template": "flowchart",
+ "title": "Channels of Distribution",
+ "direction": "LR",
+ "nodes": [
+  {
+   "id": "lbl1",
+   "text": "Direct Sales Channel",
+   "shape": "plain"
+  },
+  {
+   "id": "m1",
+   "text": "Manufacturer",
+   "shape": "box",
+   "color": "#4A90E2"
+  },
+  {
+   "id": "c1",
+   "text": "Consumer",
+   "shape": "box",
+   "color": "#E94E77"
+  },
+  {
+   "id": "lbl2",
+   "text": "Retailer Channel",
+   "shape": "plain"
+  },
+  {
+   "id": "m2",
+   "text": "Manufacturer",
+   "shape": "box",
+   "color": "#4A90E2"
+  },
+  {
+   "id": "r2",
+   "text": "Retailer",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "c2",
+   "text": "Consumer",
+   "shape": "box",
+   "color": "#E94E77"
+  },
+  {
+   "id": "lbl3",
+   "text": "Traditional Channel",
+   "shape": "plain"
+  },
+  {
+   "id": "m3",
+   "text": "Manufacturer",
+   "shape": "box",
+   "color": "#4A90E2"
+  },
+  {
+   "id": "w3",
+   "text": "Wholesaler",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "r3",
+   "text": "Retailer",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "c3",
+   "text": "Consumer",
+   "shape": "box",
+   "color": "#E94E77"
+  },
+  {
+   "id": "lbl4",
+   "text": "Agent Channel",
+   "shape": "plain"
+  },
+  {
+   "id": "m4",
+   "text": "Manufacturer",
+   "shape": "box",
+   "color": "#4A90E2"
+  },
+  {
+   "id": "a4",
+   "text": "Agent",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "w4",
+   "text": "Wholesaler",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "r4",
+   "text": "Retailer",
+   "shape": "box",
+   "color": "#F5A623"
+  },
+  {
+   "id": "c4",
+   "text": "Consumer",
+   "shape": "box",
+   "color": "#E94E77"
+  }
+ ],
+ "edges": [
+  {
+   "from": "lbl1",
+   "to": "m1"
+  },
+  {
+   "from": "m1",
+   "to": "c1"
+  },
+  {
+   "from": "lbl2",
+   "to": "m2"
+  },
+  {
+   "from": "m2",
+   "to": "r2"
+  },
+  {
+   "from": "r2",
+   "to": "c2"
+  },
+  {
+   "from": "lbl3",
+   "to": "m3"
+  },
+  {
+   "from": "m3",
+   "to": "w3"
+  },
+  {
+   "from": "w3",
+   "to": "r3"
+  },
+  {
+   "from": "r3",
+   "to": "c3"
+  },
+  {
+   "from": "lbl4",
+   "to": "m4"
+  },
+  {
+   "from": "m4",
+   "to": "a4"
+  },
+  {
+   "from": "a4",
+   "to": "w4"
+  },
+  {
+   "from": "w4",
+   "to": "r4"
+  },
+  {
+   "from": "r4",
+   "to": "c4"
+  }
+ ]
+}

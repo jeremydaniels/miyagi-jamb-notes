@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**63 images placed.** 2 placeholders are still in the notes (listed at the end).
+**64 images placed.** 1 placeholders are still in the notes (listed at the end).
 
 
 ## A1-number-bases-modular-arithmetic
@@ -37,6 +37,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing scientific notation decimal point jumps moving six places left to form 4.5 times 10 to the sixth, and four places right to form 3.2 times 10 to the negative fourth.*
 
+![Diagram comparing exponential and logarithmic forms showing base index and result positions in 2 cubed equals 8 and log base 2 of 8 equals 3.](A3-02-index-logarithmic-form-mapping.png)
+
+*Diagram comparing exponential and logarithmic forms showing base index and result positions in 2 cubed equals 8 and log base 2 of 8 equals 3.*
+
 
 ## A4-sets
 
@@ -55,9 +59,9 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B1-polynomials
 
-![A coordinate plane showing the parabola y = x^2 - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).](B1-01-quadratic-parabola-curve-plot.png)
+![A coordinate plane showing the parabola y = x² - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).](B1-01-quadratic-parabola-curve-plot.png)
 
-*A coordinate plane showing the parabola y = x^2 - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).*
+*A coordinate plane showing the parabola y = x² - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).*
 
 ![Graph of cubic curve y equals x cubed minus 3x squared with local maximum at the origin, local minimum at 2, -4, and x-intercept at 3, 0.](B1-02-cubic-polynomial-graph.png)
 
@@ -328,5 +332,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
-- `A3-indices-logarithms-and-surds`: A diagram showing the conversion between index form and logarithmic form. On the left, the equation "2^3 = 8" is written. Arrows point from th...
 - `B6-matrices-and-determinants`: A diagram showing the expansion of a 3x3 matrix determinant along the top row. The top row has '+, -, +' written above its elements. Three sma...

@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**100 images placed.** 3 placeholders are still in the notes (listed at the end).
+**103 images placed.** 0 placeholders are still in the notes (listed at the end).
 
 **All images in this subject need teacher review** (religious scenes drawn under the rules in IMAGES-PLAN.md).
 
@@ -30,6 +30,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A3-leadership-qualities
+
+![Biblical illustration of Joseph interpreting Pharaohs dream, showing Pharaoh on a throne and Joseph gesturing, with thought clouds above depicting healthy cows and gaunt cows.](A3-01-joseph-interpreting-pharaoh-dream.png)
+
+*Biblical illustration of Joseph interpreting Pharaohs dream, showing Pharaoh on a throne and Joseph gesturing, with thought clouds above depicting healthy cows and gaunt cows.* - **Needs teacher review**
 
 ![An ancient Hebrew family wearing sandals and holding staffs stands around a table eating the Passover meal inside a home with blood on the doorframe.](A3-02-passover-meal-night-scene.png)
 
@@ -112,6 +116,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B2-the-supremacy-of-god
 
+![Elijah raises his hand in prayer as divine fire consumes the sacrifice on a stone altar while Israelites bow in reverence.](B2-01-elijah-fire-mount-carmel.png)
+
+*Elijah raises his hand in prayer as divine fire consumes the sacrifice on a stone altar while Israelites bow in reverence.* - **Needs teacher review**
+
 
 ## B3-religious-reforms-in-judah
 
@@ -173,6 +181,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![An illustration of Isaiah kneeling in awe inside a smoky temple before the glowing throne of the Lord, flanked by hovering six-winged seraphim.](B8-01-isaiah-temple-vision.png)
 
 *An illustration of Isaiah kneeling in awe inside a smoky temple before the glowing throne of the Lord, flanked by hovering six-winged seraphim.* - **Needs teacher review**
+
+![Ezekiel kneeling and reaching up as a scroll comes down from a cloud of glowing light; a honeycomb beside him shows the word was sweet as honey.](B8-02-prophet-ezekiel-calling-scene.png)
+
+*Ezekiel kneeling and reaching up as a scroll comes down from a cloud of glowing light; a honeycomb beside him shows the word was sweet as honey.* - **Needs teacher review**
 
 
 ## B9-punishment-and-hope
@@ -562,9 +574,3 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A split illustration showing a citizen paying taxes at a desk on the left, and a congregation praying for Nigeria in church on the right.* - **Needs teacher review**
 
-
-## Not made (placeholder still in the notes)
-
-- `A3-leadership-qualities`: A majestic Egyptian throne room. On the left, Pharaoh sits on a golden throne, leaning forward intently. On the right, Joseph, a young Hebrew...
-- `B2-the-supremacy-of-god`: A dramatic scene on a rocky mountain top. On the right, a large stone altar made of 12 stones is engulfed in bright, intense fire coming down...
-- `B8-holiness-and-divine-call`: An illustration of the prophet Ezekiel receiving his call. A hand descends from a glowing cloud at the top, holding out an ancient rolled-up p...

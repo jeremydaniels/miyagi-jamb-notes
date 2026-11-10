@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**67 images placed.** 1 placeholders are still in the notes (listed at the end).
+**68 images placed.** 0 placeholders are still in the notes (listed at the end).
 
 
 ## A1-separation-of-mixtures
@@ -26,9 +26,9 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of an electrolytic cell showing an anode and cathode connected to a DC battery and switch, with ions in electrolyte migrating toward oppositely charged electrodes.*
 
-![Diagram showing electroplating of a spoon with silver using an AgNO3 solution, a pure silver anode connected to the positive terminal, and a spoon cathode.](A10-02-spoon-electroplating-cell-schematic.png)
+![Diagram showing electroplating of a spoon with silver using an AgNO₃ solution, a pure silver anode connected to the positive terminal, and a spoon cathode.](A10-02-spoon-electroplating-cell-schematic.png)
 
-*Diagram showing electroplating of a spoon with silver using an AgNO3 solution, a pure silver anode connected to the positive terminal, and a spoon cathode.*
+*Diagram showing electroplating of a spoon with silver using an AgNO₃ solution, a pure silver anode connected to the positive terminal, and a spoon cathode.*
 
 
 ## A11-energy-changes
@@ -81,6 +81,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Textbook diagram showing the laboratory preparation of chlorine gas using a heated flask, two wash bottles for purification and drying, and a gas jar for collection.](A14a-02-chlorine-gas-laboratory-preparation.png)
 
 *Textbook diagram showing the laboratory preparation of chlorine gas using a heated flask, two wash bottles for purification and drying, and a gas jar for collection.*
+
+![An illustration of the fountain experiment showing an inverted flask spraying a red fountain connected via a tube to a beaker of blue liquid.](A14a-03-hydrogen-chloride-fountain-experiment.png)
+
+*An illustration of the fountain experiment showing an inverted flask spraying a red fountain connected via a tube to a beaker of blue liquid.*
 
 
 ## A14b-oxygen-and-sulphur
@@ -232,9 +236,9 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram illustrating the Law of Multiple Proportions using carbon monoxide and carbon dioxide models along with their combining mass ratios.*
 
-![Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H2S, SO2, and H2O alongside reacting mass ratios.](A2-03-reciprocal-proportions-triangle.png)
+![Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H₂S, SO₂, and H₂O alongside reacting mass ratios.](A2-03-reciprocal-proportions-triangle.png)
 
-*Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H2S, SO2, and H2O alongside reacting mass ratios.*
+*Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H₂S, SO₂, and H₂O alongside reacting mass ratios.*
 
 ![A diagram representing the mole concept with one mole branching outward to molar mass in grams, Avogadros number of particles, and molar volume at standard conditions.](A2-04-mole-concept-schematic.png)
 
@@ -296,9 +300,9 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Three beakers showing unsaturated solution with crystals dissolving from a spoon, saturated solution with undissolved crystals at the bottom, and supersaturated solution with radiating crystal growth.*
 
-![A graph titled Solubility Curves showing solubility versus temperature for KNO3 rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.](A6-02-solubility-curves-line-graph.png)
+![A graph titled Solubility Curves showing solubility versus temperature for KNO₃ rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.](A6-02-solubility-curves-line-graph.png)
 
-*A graph titled Solubility Curves showing solubility versus temperature for KNO3 rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.*
+*A graph titled Solubility Curves showing solubility versus temperature for KNO₃ rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.*
 
 ![Illustration of a flashlight shining a light beam through three beakers containing a solution, a colloid displaying the Tyndall effect, and a suspension.](A6-03-tyndall-effect-comparison-beakers.png)
 
@@ -341,7 +345,3 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A dropper dispensing purple potassium permanganate solution into a clamped test tube containing a clear liquid solution.*
 
-
-## Not made (placeholder still in the notes)
-
-- `A14a-hydrogen-and-halogens`: The fountain experiment. An inverted round-bottom flask filled with HCl gas is held on a retort stand. The flask is sealed with a two-hole sto...

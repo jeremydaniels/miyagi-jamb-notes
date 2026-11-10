@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**60 images placed.** 2 placeholders are still in the notes (listed at the end).
+**61 images placed.** 1 placeholders are still in the notes (listed at the end).
 
 
 ## A1-definition-and-scope-of-government
@@ -129,6 +129,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A7-political-ideologies
+
+![Pyramid of the feudal system with the king at the top, then nobles and lords, knights and vassals, and peasants and serfs at the base, with arrows for land granted down and loyalty and labour up.](A7-01-feudal-system-social-pyramid.png)
+
+*Pyramid of the feudal system with the king at the top, then nobles and lords, knights and vassals, and peasants and serfs at the base, with arrows for land granted down and loyalty and labour up.*
 
 ![A split comparison of capitalism and socialism economic systems, showing factories, distribution of wealth to workers, and state funding of public institutions.](A7-02-capitalism-versus-socialism-infographic.png)
 
@@ -346,5 +350,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
-- `A7-political-ideologies`: A triangle/pyramid diagram illustrating the Feudal System. The pyramid is divided into four horizontal layers. Top layer: a King wearing a cro...
 - `B3-process-of-decolonization`: A 2x4 grid showing simple, recognizable portraits of the 8 nationalist leaders mentioned above (Macaulay, Azikiwe, Awolowo, Bello, Solanke, Am...

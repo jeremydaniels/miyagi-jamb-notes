@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**78 images placed.** 12 placeholders are still in the notes (listed at the end).
+**82 images placed.** 8 placeholders are still in the notes (listed at the end).
 
 
 ## A1-land-and-peoples-of-the-nigeria-area
@@ -103,6 +103,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B4-benin
 
+![Timeline of 19th-century Benin showing the reigns of Obas Obanosa, Osemwende, Adolo and Ovonramwen between 1804 and 1897.](B4-01-timeline-th-century-benin.png)
+
+*Timeline of 19th-century Benin showing the reigns of Obas Obanosa, Osemwende, Adolo and Ovonramwen between 1804 and 1897.*
+
 ![Diagram showing the Kingdom of Benin in the center with outward directional arrows pointing to surrounding regions including Yorubaland, Nupe, Afenmai, Esan, Western Igbo, Urhobo, and Itsekiri.](B4-02-historical-map-benin-relations.png)
 
 *Diagram showing the Kingdom of Benin in the center with outward directional arrows pointing to surrounding regions including Yorubaland, Nupe, Afenmai, Esan, Western Igbo, Urhobo, and Itsekiri.*
@@ -143,6 +147,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B8-european-penetration-and-impact
 
+![Map of West Africa showing explorer routes: Mungo Park to Bussa, Lander brothers to the Niger Delta, and Heinrich Barth looping through Sokoto and Lake Chad.](B8-01-map-european-niger-explorers.png)
+
+*Map of West Africa showing explorer routes: Mungo Park to Bussa, Lander brothers to the Niger Delta, and Heinrich Barth looping through Sokoto and Lake Chad.*
+
 ![An illustration of a nineteenth-century missionary and African teacher standing beside a blackboard, instructing seated pupils holding slates outside a wooden school building.](B8-02-missionary-school-classroom-scene.png)
 
 *An illustration of a nineteenth-century missionary and African teacher standing beside a blackboard, instructing seated pupils holding slates outside a wooden school building.*
@@ -165,6 +173,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## C1-establishment-of-colonial-rule-up-to-1914
 
+![Sketch map of Nigeria around 1906 showing the Northern and Southern Nigeria protectorates, the dashed boundary between them, the Niger and Benue rivers, the Satiru uprising and the Asaba hinterland resistance.](C1-01-map-nigeria-protectorates.png)
+
+*Sketch map of Nigeria around 1906 showing the Northern and Southern Nigeria protectorates, the dashed boundary between them, the Niger and Benue rivers, the Satiru uprising and the Asaba hinterland resistance.*
+
 ![Flowchart of the Northern Protectorate administration linking British officials downwards to the District Officer, connecting across to Native Authorities who oversee Native Courts and Treasuries.](C1-02-colonial-administrative-hierarchy-chart.png)
 
 *Flowchart of the Northern Protectorate administration linking British officials downwards to the District Officer, connecting across to Native Authorities who oversee Native Courts and Treasuries.*
@@ -175,6 +187,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Map of Nigeria circa 1910 showing the yellow Northern Nigeria Protectorate, green Southern Nigeria Protectorate, Niger and Benue rivers in blue, and Lagos marked with a red dot.](C2-01-map-nigeria-protectorates.png)
 
 *Map of Nigeria circa 1910 showing the yellow Northern Nigeria Protectorate, green Southern Nigeria Protectorate, Niger and Benue rivers in blue, and Lagos marked with a red dot.*
+
+![Outline map of Nigeria divided into Northern and Southern Provinces by a dashed line, showing railway connections from Lagos to Kano and Port Harcourt to Enugu.](C2-03-map-colonial-railways.png)
+
+*Outline map of Nigeria divided into Northern and Southern Provinces by a dashed line, showing railway connections from Lagos to Kano and Port Harcourt to Enugu.*
 
 
 ## C3-colonial-administration-after-amalgamation
@@ -446,11 +462,7 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ## Not made (placeholder still in the notes)
 
 - `A1-land-and-peoples-of-the-nigeria-area`: Map of the Nigeria area showing horizontal bands of vegetation. From bottom to top: a dark green coastal strip (Mangrove Swamp), a wider green...
-- `B4-benin`: A timeline spanning the 19th century, highlighting the reigns of Oba Obanosa (1804-1816), Oba Osemwende (1816-1848), Oba Adolo (1848-1888), an...
-- `B8-european-penetration-and-impact`: Map of West Africa showing the routes of early European explorers. A dotted red line shows Mungo Park's route from the Gambia to the Niger (fl...
-- `C1-establishment-of-colonial-rule-up-to-1914`: Map of the Nigeria area around 1906, clearly showing the boundary dividing the Northern Nigeria Protectorate and the Southern Nigeria Protecto...
 - `C2-amalgamation-of-1914`: A portrait-style illustration of Lord Frederick Lugard, wearing a colonial governor's uniform with medals and a high collar. He has a prominen...
-- `C2-amalgamation-of-1914`: Map of Nigeria after 1914 showing the unified Colony and Protectorate of Nigeria. A thick railway line runs from Lagos on the southwestern coa...
 - `C5-social-development-under-colonial-rule`: A map of colonial Nigeria showing the two main railway lines. The western line runs from Lagos through Ibadan and Minna to Kano. The colonial-...
 - `D11-nigeria-in-international-organizations`: Map of West Africa highlighting the ECOWAS member states in pale green, with Nigeria and Togo highlighted in darker green to show the two foun...
 - `D2-nigerian-civil-war`: Map of Nigeria in 1967 showing the 12 states created by Gowon. A highlighted section in the southeast shows the borders of the Republic of Bia...

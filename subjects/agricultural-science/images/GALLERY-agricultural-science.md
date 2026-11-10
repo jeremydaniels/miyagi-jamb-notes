@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**107 images placed.** 1 placeholders are still in the notes (listed at the end).
+**108 images placed.** 0 placeholders are still in the notes (listed at the end).
 
 
 ## A1-meaning-and-scope-of-agriculture
@@ -372,6 +372,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Three panels illustrating routine piglet management practices: clipping needle teeth with clippers, injecting into the neck muscle with a syringe, and an ear with a V-shaped identification notch.*
 
+![Diagram illustrating handling of a rabbit alongside an elevated wooden rabbit hutch with a wire mesh front and inner nest box.](C6-03-rabbit-handling-housing.png)
+
+*Diagram illustrating handling of a rabbit alongside an elevated wooden rabbit hutch with a wire mesh front and inner nest box.*
+
 ![Diagram comparing poultry housing: top shows chickens on wood shavings with hanging feeders and drinkers; bottom shows hens in tiered battery cages with sloped floors and egg trays.](C6-04-poultry-housing-systems-comparison.png)
 
 *Diagram comparing poultry housing: top shows chickens on wood shavings with hanging feeders and drinkers; bottom shows hens in tiered battery cages with sloped floors and egg trays.*
@@ -567,7 +571,3 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a randomized complete block design showing three blocks along a soil fertility gradient with randomized plot assignments for two treatments and a control.*
 
-
-## Not made (placeholder still in the notes)
-
-- `C6-livestock-management`: Proper rabbit handling and housing. Left: A person correctly holding a rabbit by grasping the scruff of its neck with one hand and supporting...

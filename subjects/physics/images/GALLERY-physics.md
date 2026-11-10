@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**147 images placed.** 7 placeholders are still in the notes (listed at the end).
+**152 images placed.** 2 placeholders are still in the notes (listed at the end).
 
 
 ## A1-measurements-and-units
@@ -142,6 +142,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Textbook diagram of Brownian motion illustrating a jagged smoke particle bombarded by air molecules, with a dashed line tracing its random zig-zag path.*
 
+![Illustration comparing capillary action in water and mercury showing concave meniscus with capillary rise versus convex meniscus with capillary depression.](A18-02-capillary-action-meniscus-comparison.png)
+
+*Illustration comparing capillary action in water and mercury showing concave meniscus with capillary rise versus convex meniscus with capillary depression.*
+
 ![Three diagrams comparing particle arrangement and movement in solid, liquid, and gas states, illustrating lattice packing, irregular moderate movement, and widely spaced rapid particles.](A18-03-states-matter-particle.png)
 
 *Three diagrams comparing particle arrangement and movement in solid, liquid, and gas states, illustrating lattice packing, irregular moderate movement, and widely spaced rapid particles.*
@@ -170,6 +174,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A20b-wave-characteristics-and-properties
+
+![Diagram illustrating wave reflection at an inclined barrier, showing incident and reflected wave fronts, rays, the perpendicular normal line, and angles of incidence and reflection.](A20b-01-wave-reflection-ray.png)
+
+*Diagram illustrating wave reflection at an inclined barrier, showing incident and reflected wave fronts, rays, the perpendicular normal line, and angles of incidence and reflection.*
 
 ![Diagram showing water waves refracting at a boundary between deep and shallow water, with wavefronts becoming closer together and bending towards the normal line.](A20b-02-wave-refraction.png)
 
@@ -246,6 +254,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing the laws of reflection with an incident ray, reflected ray, normal line, angle of incidence i, angle of reflection r, and glancing angle g on a plane mirror.](A24-01-law-reflection-ray.png)
 
 *Diagram showing the laws of reflection with an incident ray, reflected ray, normal line, angle of incidence i, angle of reflection r, and glancing angle g on a plane mirror.*
+
+![Ray diagram for a concave mirror showing real, inverted image formation between center of curvature C and focal point F using two rays from an object beyond C.](A24-02-concave-mirror-image-ray.png)
+
+*Ray diagram for a concave mirror showing real, inverted image formation between center of curvature C and focal point F using two rays from an object beyond C.*
 
 ![Ray diagram for a convex mirror showing image formation of an upright object, with rays diverging to form a smaller, upright, virtual image between the pole and focus.](A24-03-convex-mirror-image-ray.png)
 
@@ -354,6 +366,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A2b-measurement-position-distance
+
+![Diagram of a vernier caliper showing main scale reading of 3.1 cm, vernier reading of 0.04 cm, and total reading of 3.14 cm.](A2b-01-vernier-caliper-reading.png)
+
+*Diagram of a vernier caliper showing main scale reading of 3.1 cm, vernier reading of 0.04 cm, and total reading of 3.14 cm.*
 
 ![A diagram comparing distance, shown as a curved dashed path between House and School, to displacement, shown as a straight red arrow directly connecting them.](A2b-02-distance-vs-displacement.png)
 
@@ -657,6 +673,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Textbook diagram of Lamis theorem showing three concurrent forces F1, F2, and F3 with opposite angles alpha, beta, and gamma, and the corresponding formula.*
 
+![A metre rule balanced on a pivot at 50 cm with a 60 g mass at 30 cm and a 40 g mass at 80 cm showing moments.](A5-04-principle-moments-balance.png)
+
+*A metre rule balanced on a pivot at 50 cm with a 60 g mass at 30 cm and a 40 g mass at 80 cm showing moments.*
+
 ![Three cones illustrating states of equilibrium: stable resting on its flat base, unstable balanced on its tip, and neutral resting on its side, with centres of gravity marked.](A5-05-states-equilibrium-cones.png)
 
 *Three cones illustrating states of equilibrium: stable resting on its flat base, unstable balanced on its tip, and neutral resting on its side, with centres of gravity marked.*
@@ -739,10 +759,5 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
-- `A18-structure-of-matter-kinetic-theory`: Two identical narrow glass tubes standing vertically, one in a beaker of water and one in a beaker of mercury. In the water tube, the liquid l...
-- `A20b-wave-characteristics-and-properties`: A ripple tank diagram showing wave reflection. Straight, parallel wave lines approach a diagonal flat barrier. A solid arrow shows the directi...
-- `A24-reflection-of-light`: Six small panels showing ray diagrams for a concave mirror as an object arrow moves closer. Panel 1: Object at infinity, rays converge at F. P...
 - `A25b-refraction-glass-prism-lenses`: Two ray diagrams side by side. Left: A convex lens with an upright arrow object placed beyond 2F. A ray parallel to the axis passes through F...
-- `A2b-measurement-position-distance`: A close-up view of a vernier caliper scale. The main scale is marked in cm (from 2 to 4). The zero of the vernier scale is past the 3.1 cm mar...
 - `A34-force-on-current-carrying-conductor`: A diagram showing a left hand with the thumb, first finger, and second finger held at 90 degrees to each other. The thumb is pointing up, labe...
-- `A5-equilibrium-of-forces`: A uniform metre rule balanced on a triangular wedge (pivot) exactly at the 50 cm mark. A block labeled "60 g" hangs from the 30 cm mark. A blo...

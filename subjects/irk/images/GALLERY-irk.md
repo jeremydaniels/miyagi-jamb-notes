@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**42 images placed.** 8 placeholders are still in the notes (listed at the end).
+**43 images placed.** 7 placeholders are still in the notes (listed at the end).
 
 **All images in this subject need teacher review** (religious scenes drawn under the rules in IMAGES-PLAN.md).
 
@@ -153,6 +153,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A diagram explaining the four pillars of Qiyas: Wine connects to Modern Drugs via the shared cause of Intoxication, deriving the ruling of Prohibited from the original case.* - **Needs teacher review**
 
+![Map showing the distribution of four Sunni legal schools: Maliki in North-West Africa, Hanafi in Central and South Asia, Hanbali in Arabia, and Shafi'i in East Africa and Southeast Asia.](B12-03-islamic-madhhab-distribution-map.png)
+
+*Map showing the distribution of four Sunni legal schools: Maliki in North-West Africa, Hanafi in Central and South Asia, Hanbali in Arabia, and Shafi'i in East Africa and Southeast Asia.* - **Needs teacher review**
+
 
 ## B13-islamic-economic-system
 
@@ -264,5 +268,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `A6a-hadith-sciences-and-collections`: A diagram showing the structure of a Hadīth. A speech bubble is divided into two parts. The top part is labelled "Isnād (Chain)" with small ic...
 - `A6a-hadith-sciences-and-collections`: A stylised illustration showing a book with an ornate Arabic calligraphy cover titled "Al-Muwatta" resting on a wooden stand. Next to the stan...
 - `A6b-selected-ahadith-of-an-nawawi`: A classical Islamic manuscript open on a wooden stand (Rihal), showing elegant Arabic calligraphy of "Al-Arba'un an-Nawawiyyah" on the right p...
-- `B12-sources-and-schools-of-law`: A map of the Muslim world (Africa, Middle East, Asia) colour-coded to show the dominant regions of the four schools of thought. North and West...
 - `B9-articles-of-faith`: Four ancient, closed books lined up on a shelf, with glowing Arabic text floating above them. From left to right, the books are labelled: "Taw...

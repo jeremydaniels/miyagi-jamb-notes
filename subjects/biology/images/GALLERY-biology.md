@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**431 images placed.** 20 placeholders are still in the notes (listed at the end).
+**441 images placed.** 10 placeholders are still in the notes (listed at the end).
 
 
 ## B1-internal-structure
@@ -46,6 +46,14 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Anatomical diagram of a human torso showing major internal organs including trachea, lungs, heart, diaphragm, liver, stomach, intestines, kidneys, and bladder in soft colors.](B1-10-human-torso-internal-organs.png)
 
 *Anatomical diagram of a human torso showing major internal organs including trachea, lungs, heart, diaphragm, liver, stomach, intestines, kidneys, and bladder in soft colors.*
+
+![Anatomical diagram of a rabbit digestive system showing the oesophagus, stomach, liver, duodenum with pancreas, coiled intestines, colon with faecal pellets, and rectum.](B1-11-rabbit-digestive-system-dissection.png)
+
+*Anatomical diagram of a rabbit digestive system showing the oesophagus, stomach, liver, duodenum with pancreas, coiled intestines, colon with faecal pellets, and rectum.*
+
+![Ventral diagram of mammalian urinary system showing kidneys, adrenal glands, abdominal aorta, inferior vena cava, ureters, urinary bladder, and urethra within a torso outline.](B1-12-mammalian-urinary-system.png)
+
+*Ventral diagram of mammalian urinary system showing kidneys, adrenal glands, abdominal aorta, inferior vena cava, ureters, urinary bladder, and urethra within a torso outline.*
 
 ![Anatomical diagram of the male mammalian urogenital system showing kidneys, ureters, bladder, urethra, testes with epididymis inside scrotal sacs, vas deferens, and accessory glands.](B1-13-male-rabbit-reproductive-system.png)
 
@@ -270,6 +278,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Longitudinal diagram of an intestinal villus showing columnar epithelium with microvilli, goblet cells, central lacteal, blood capillaries, crypts, and muscle layers, with an inset of one epithelial cell.*
 
+![Diagram showing the liver, gallbladder, stomach, pancreas, and duodenum along with their associated duct systems in a front view.](B2e-06-hepatobiliary-pancreatic-ducts.png)
+
+*Diagram showing the liver, gallbladder, stomach, pancreas, and duodenum along with their associated duct systems in a front view.*
+
 ![Two line graphs showing enzyme activity. Left graph shows temperature dependence peaking at 37 degrees Celsius. Right graph shows pH dependence for pepsin, salivary amylase, and trypsin.](B2e-07-enzyme-activity-rate-graphs.png)
 
 *Two line graphs showing enzyme activity. Left graph shows temperature dependence peaking at 37 degrees Celsius. Right graph shows pH dependence for pepsin, salivary amylase, and trypsin.*
@@ -419,6 +431,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Cross section diagram of a dicot leaf showing transpiration with water moving from the vein through mesophyll cells and evaporating out through a stoma.](B3b-12-dicot-leaf-transverse-section.png)
 
 *Cross section diagram of a dicot leaf showing transpiration with water moving from the vein through mesophyll cells and evaporating out through a stoma.*
+
+![Diagram of a bubble potometer setup showing a leafy shoot in a flask, a capillary tube with scale and bubble, a reservoir with tap, and a beaker.](B3b-13-bubble-potometer-apparatus.png)
+
+*Diagram of a bubble potometer setup showing a leafy shoot in a flask, a capillary tube with scale and bubble, a reservoir with tap, and a beaker.*
 
 ![Diagram showing the transpiration stream in a tree with magnified insets of a stoma, xylem vessel with water cohesion and adhesion, and a root hair absorbing water.](B3b-14-transpiration-pull-whole-plant.png)
 
@@ -828,6 +844,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Botanical illustration of a cashew apple with attached cashew nut hanging from a branch, alongside a cross-section of the nut showing its shell and seed.](B7b-15-cashew-apple-nut-structure.png)
 
 *Botanical illustration of a cashew apple with attached cashew nut hanging from a branch, alongside a cross-section of the nut showing its shell and seed.*
+
+![Six panels showing fruit and seed dispersal adaptations including wind dispersal with pappus and wings, fibrous coconut in water, bird eating guava, burr in fur, and explosive pod.](B7b-16-fruit-seed-dispersal-mechanisms.png)
+
+*Six panels showing fruit and seed dispersal adaptations including wind dispersal with pappus and wings, fibrous coconut in water, bird eating guava, burr in fur, and explosive pod.*
 
 
 ## B7c-reproduction-in-mammals
@@ -1436,6 +1456,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Map of Africa highlighting the east-to-west meningitis belt across the Sahel, showing northern Nigeria situated within the zone alongside seasonal harmattan dry season symbols.*
 
+![Diagram illustrating the life cycle of the Anopheles mosquito, showing the egg stage with inset, larva, pupa, emerging adult, and resting adult.](C7a-02-anopheles-mosquito-life-cycle.png)
+
+*Diagram illustrating the life cycle of the Anopheles mosquito, showing the egg stage with inset, larva, pupa, emerging adult, and resting adult.*
+
 ![Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.](C7a-03-anopheles-culex-comparison.png)
 
 *Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.*
@@ -1604,6 +1628,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Three bar charts showing sample data for 40 pupils: tongue rolling ability, PTC tasting ability, and ABO blood group distribution.*
 
+![Diagram of ABO blood groups: O donates to A, B and AB; A and B each donate to AB; AB is the universal recipient.](D1-12-abo-blood-transfusion-compatibility.png)
+
+*Diagram of ABO blood groups: O donates to A, B and AB; A and B each donate to AB; AB is the universal recipient.*
+
 ![Paternity diagram showing blood type inheritance where a group A mother and group B child exclude a group O man while a group B man could be the father.](D1-13-blood-group-paternity-exclusion.png)
 
 *Paternity diagram showing blood type inheritance where a group A mother and group B child exclude a group O man while a group B man could be the father.*
@@ -1634,6 +1662,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Side-by-side comparison diagram of mitosis producing two identical diploid cells and meiosis producing four genetically diverse haploid cells from a parent cell with four chromosomes.](D2a-05-mitosis-versus-meiosis-comparison.png)
 
 *Side-by-side comparison diagram of mitosis producing two identical diploid cells and meiosis producing four genetically diverse haploid cells from a parent cell with four chromosomes.*
+
+![A monohybrid inheritance diagram showing parents Father Aa and Mother Aa producing gametes that combine into offspring genotypes AA, Aa, Aa, and aa.](D2a-06-monohybrid-gene-transmission.png)
+
+*A monohybrid inheritance diagram showing parents Father Aa and Mother Aa producing gametes that combine into offspring genotypes AA, Aa, Aa, and aa.*
 
 ![A chart showing Mendels seven pairs of contrasting traits in pea plants arranged in two columns of seven rows representing dominant and recessive traits.](D2a-07-mendel-pea-plant-traits.png)
 
@@ -1689,6 +1721,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram comparing normal round red blood cells flowing through a capillary with sickle-shaped cells jammed together and blocking flow in a narrow capillary.](D2b-04-sickle-cell-capillary-blockage.png)
 
 *Diagram comparing normal round red blood cells flowing through a capillary with sickle-shaped cells jammed together and blocking flow in a narrow capillary.*
+
+![A Punnett square for two carrier parents AS showing offspring genotypes: AA normal, two AS carriers, and SS sickle cell.](D2b-05-sickle-cell-trait-counselling.png)
+
+*A Punnett square for two carrier parents AS showing offspring genotypes: AA normal, two AS carriers, and SS sickle cell.*
 
 ![Three-stage diagram showing haemolytic disease of the newborn across a first pregnancy, maternal sensitization producing anti-D antibodies, and a second pregnancy where antibodies cross the placenta destroying fetal red cells.](D2b-06-haemolytic-disease-newborn-stages.png)
 
@@ -1807,6 +1843,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.*
 
+![A comparison of an insect wing showing membrane with branching veins alongside a bird wing with internal limb bones and external feathers.](E2-06-analogous-insect-bird-wings.png)
+
+*A comparison of an insect wing showing membrane with branching veins alongside a bird wing with internal limb bones and external feathers.*
+
 ![A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.](E2-07-human-vestigial-organs.png)
 
 *A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.*
@@ -1842,14 +1882,9 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
-- `B1-internal-structure`: Digestive system of a rabbit spread out after dissection, as in a practical drawing. Show the oesophagus passing through the diaphragm to a be...
-- `B1-internal-structure`: Urinary (excretory) system of a mammal in ventral view, shown on its own against an outline of the back wall of the abdomen. Two bean-shaped d...
 - `B2d-mammalian-teeth`: The four types of human teeth drawn side by side as single whole teeth (not sections), each in side view and with its crown also shown from ab...
-- `B2e-alimentary-canal-and-digestion`: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with the hepatic...
-- `B3b-transport-in-plants`: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. Th...
 - `B6a-support-and-movement-in-plants`: A two-row diagram of classic coleoptile experiments with light coming from the right in the top row. Top row (Darwin): five coleoptiles labell...
 - `B7b-reproduction-in-flowering-plants`: A grid of six ovary cross-sections (and one longitudinal section where needed), each drawn as a simple outline with green ovary walls and smal...
-- `B7b-reproduction-in-flowering-plants`: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with a feathery...
 - `B7c-reproduction-in-mammals`: A chart-style panel of birth control methods arranged in five labelled boxes. Box 1 natural: a calendar with some days shaded red (menstruatio...
 - `B9c-hormonal-control`: Circular flow diagram of negative feedback control of thyroxine. At the top, a small brain outline with the hypothalamus highlighted; an arrow...
 - `B9d-homeostasis`: Flow diagram of the control of blood water content by ADH, drawn as two loops around a central normal band. Upper loop (shown in orange) for t...
@@ -1857,8 +1892,3 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `C2-symbiotic-interactions-and-energy-flow`: A carbon cycle diagram in a landscape setting. Centre top: a cloud labelled carbon (IV) oxide in the air. Left: green trees and grass taking C...
 - `C2-symbiotic-interactions-and-energy-flow`: A nitrogen cycle diagram. Top: a cloud labelled "nitrogen gas in the air (78%)" with a lightning bolt and rain. Left: a legume plant (cowpea)...
 - `C4-nigerian-biomes`: Outline map of Nigeria showing state boundaries, with each state lightly shaded in the colour of its main biome: dark green for mangrove and s...
-- `C7a-diseases`: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half of the diag...
-- `D1-variation-in-population`: Arrow diagram of ABO transfusion compatibility. Four large circles arranged in a diamond: O at the top, A on the left, B on the right, AB at t...
-- `D2a-heredity-principles`: Diagram of transmission of one gene from parents to offspring. Top: a father cell and a mother cell, each showing one pair of homologous chrom...
-- `D2b-applications-of-heredity`: Genetic counselling diagram for two carrier parents. Top: a man and a woman, each with a small badge showing "AS" and a red blood cell icon th...
-- `E2-evidence-of-evolution`: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; o...

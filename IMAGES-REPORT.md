@@ -1,29 +1,51 @@
-# Images report: Biology leftovers and 14 subjects
+# Images report: Biology leftovers and 14 subjects (updated after the cleanup pass)
 
-Run finished. **1331 of 1399 placeholders now have an image** (95%); **68 placeholders are still in the notes** (9 skipped by rule, the rest failed the checks after three tries). Spend for this run: **$57.60** of the $120 cap (the cap was not reached). Galleries for your phone: `subjects/<subject>/images/GALLERY-<subject>.md`.
+**1362 of 1399 placeholders now have an image** (97%); **37 placeholders are still in the notes** (9 skipped by rule, 28 failed the checks). Spend: **$57.60** for the main run plus **$5.80** for the cleanup pass (cap $10) = **$63.40**; the $120 cap was never near. Galleries for your phone: `subjects/<subject>/images/GALLERY-<subject>.md`.
 
-Scope: Biology Sections B to E (451 placeholders, 353 already placed before this run) plus the other 14 subjects. Biology Section A and the remaining 10 subjects were left alone, and no notes text was edited (only alt text, which came with the image placement).
+## Cleanup pass (second task)
+
+**1. Junk scan (labels, captions, alt text, text inside code drawings).** New `tools/textfmt.py` turns formulas, ions, units and caret/underscore notation into real subscripts and superscripts (CO₂, H₂SO₄, KClO₃, Ca(OH)₂, Fe²⁺, m², cm³, s⁻¹, x², 2³). It leaves names and variables alone (vitamin B12, F1, Q1, IC1, s1, quotations). It is used by `label.py`, by every code template and by `style.save`.
+- Labelled pictures: 17 re-rendered from the saved coordinates: stray quotes and `CO_2` (Chemistry A12-03), `KClO3 + MnO2`, `O3`, `O2`, `N2`, `Rh+`, a junk `"1` label (Geography B7-01, label removed), and 11 captions (below).
+- Captions: 2 captions were only junk (`"1`, `"1.`: Government A1-01, CRK B9-02), removed; 9 run-on captions without punctuation (FIFO/LIFO, livestock systems, bread making, Pasteur, suffrage timeline, colonial rule, At-tatfif, Majlis ash-Shura, Shari'ah v Western) were rewritten using only the words they already had.
+- Code drawings: 4 template drawings re-rendered with subscripts (Contact process, Solvay, fractional distillation, binary place values); 4 free-form drawings redrawn and passed the check (Biology C7c-04, Chemistry A2-01 and A2-02, Mathematics D1-01). **One not fixed:** Biology C2-11 (greenhouse effect) still has plain "CO2" in the picture, because the redraw came out stretched and failed the check; the old picture was kept.
+- A real defect found on the way: 14 template flowcharts had dark text on dark fills (teal, red, dark grey). Templates now choose white text on dark fills; those 14 were re-rendered.
+- Alt text: 4 files fixed (AgNO₃, H₂S/SO₂/H₂O, KNO₃, x²). Numbers in step labels such as "1 peel" and "2 cm cube" are real content and were left.
+- Not changed: variables such as F1, L1, m1 and D1 stay as typed in the drawings.
+
+**2. Biology relabel scars.** I tried a Gemini vision check on every recovered picture (4 zoomed tiles each, 318 images). It flagged 284 of 318 images with 2,885 marks, mostly ordinary outlines, so it cannot be trusted and I did not use it to decide anything. I looked at crops at 4x myself instead and found the real problem: the first repair left soft, blurred bands (about 9 px) where a leader line had crossed an outline. I replaced the repair: each line is removed by interpolating across a thin band (11 px, from the line geometry replayed from the old layout) in the direction that crosses the line, dots are filled from their surroundings. All 262 images were rebuilt again from the originals in git (`tools/rebuild_all.py`). At normal viewing size I see no marks in the 12 images I looked at; **at 4x zoom a faint soft band remains where a line crossed a dark outline.** I did not flag single images because I could not measure this reliably.
+
+**3. Label lines.** The final Gemini check of all 296 changed images reported something for 124 images, again mostly noise, but it led me to a real fault in my label layout: two lines could share a corridor or run through another label's dot (Ascaris male/female, the Benedict tubes). `label.py` now also counts "line passes within 12 px of another dot" as a conflict, swaps slots until there is none, and restacks. All 507 labelled images in all subjects were re-rendered with it and compressed.
+
+**4. The 59 failed placeholders.** I looked at every rejected picture (39 AI generations and 37 code drawings) myself.
+- **Accepted, check was too strict (15):** B1-11 rabbit digestive system (try 0 has all parts; the failed try had printed labels), B1-12 urinary system (vessels on the correct sides; kidney height is a nitpick), B2e-06 hepatobiliary ducts (stomach does join the duodenum), B3b-13 potometer (arrow and reservoir correct in try 0), B7b-16 seed dispersal (try 0 has six clean panels), C7a-02 Anopheles life cycle (larva lies flat under the surface), A5-02 prismatic compass (the "N" was on the other try), B5-04 oxbow lake (a good four-stage sequence), C6-03 rabbit handling (two hands, not three), B2-01 Elijah on Carmel (altar, fire, steaming trench; stone count cannot be verified), B8-02 Ezekiel (no hand of God, by the CRK rule; the label "Hand of God offering the word" was left out); and 4 code drawings: D1-12 ABO compatibility (correct, self-donation loops missing), A7-01 feudal pyramid, C1-01 Nigeria protectorates sketch map, B4-01 Benin timeline.
+- **Retried once with Pro and a simplified description (44):** the description was rewritten by Gemini Flash (fewer labels, no legends or callouts, no state borders on maps, no counts above four), then one Pro generation or two Pro code attempts. **16 of the 44 passed** and are placed.
+- **Still placeholders (28 failed + 9 skipped):** see the table below. Accepted images carry a note in this report only; nothing else marks them.
+- Cost of the cleanup pass: $5.80 of the $10 cap (retries, the scar and recheck calls, simplified descriptions).
+
+**5. Other changes.** `tools/rebuild_raw.py` now uses one temporary file per process (parallel runs could collide); `make_images.py` has `--rounds`, `--code-attempts`, `--pro` and `--simplified`; the stretched-canvas guard in `style.save` (18 in maximum) fixed a Mathematics drawing that exceeded Pillow's size limit. "My notes" had nothing to add.
 
 ## Images placed and left per subject
 
-| Subject | Placeholders | Placed | Left | AI pictures (planned) | Code drawings (planned) | Cost |
+| Subject | Placeholders | Placed | Left | AI pictures (planned) | Code drawings (planned) | Cost (main run) |
 |---|---|---|---|---|---|---|
-| Biology (B to E) | 451 | 431 | 20 | 333 | 118 | $10.89 |
-| Physics | 154 | 147 | 7 | 35 | 119 | $7.59 |
-| Chemistry | 68 | 67 | 1 | 27 | 41 | $2.87 |
-| Mathematics | 65 | 63 | 2 | 0 | 65 | $1.87 |
-| Economics | 61 | 58 | 3 | 3 | 58 | $3.65 |
-| Government | 62 | 60 | 2 | 11 | 50 | $2.77 |
-| Use of English | 31 | 28 | 3 | 10 | 21 | $1.76 |
+| Biology (B to E) | 451 | 441 | 10 | 333 | 118 | $14.69 |
+| Physics | 154 | 152 | 2 | 35 | 119 | $8.18 |
+| Chemistry | 68 | 68 | 0 | 27 | 41 | $2.95 |
+| Mathematics | 65 | 64 | 1 | 0 | 65 | $1.96 |
+| Economics | 61 | 58 | 3 | 3 | 58 | $3.84 |
+| Government | 62 | 61 | 1 | 11 | 50 | $2.77 |
+| Use of English | 31 | 29 | 2 | 10 | 21 | $1.93 |
 | Literature in English | 26 | 26 | 0 | 12 | 14 | $1.05 |
-| CRK | 103 | 100 | 3 | 95 | 8 | $5.36 |
-| IRK | 50 | 42 | 8 | 18 | 25 | $1.75 |
-| Accounting | 36 | 35 | 1 | 2 | 34 | $0.95 |
-| Commerce | 27 | 26 | 1 | 9 | 18 | $1.11 |
-| Geography | 67 | 63 | 4 | 25 | 42 | $4.42 |
-| Agricultural Science | 108 | 107 | 1 | 92 | 16 | $6.20 |
-| History | 90 | 78 | 12 | 24 | 65 | $5.00 |
-| **Total** | **1399** | **1331** | **68** | | | **$57.60** |
+| CRK | 103 | 103 | 0 | 95 | 8 | $5.45 |
+| IRK | 50 | 43 | 7 | 18 | 25 | $1.82 |
+| Accounting | 36 | 35 | 1 | 2 | 34 | $0.97 |
+| Commerce | 27 | 26 | 1 | 9 | 18 | $1.14 |
+| Geography | 67 | 66 | 1 | 25 | 42 | $4.49 |
+| Agricultural Science | 108 | 108 | 0 | 92 | 16 | $6.21 |
+| History | 90 | 82 | 8 | 24 | 65 | $5.55 |
+| **Total** | **1399** | **1362** | **37** | | | **$63.40** |
+
+(The cost column is the running spend per subject including the cleanup pass work that was logged against that subject; the total includes reclassification.)
 
 Cost per subject includes image generation, code-drawing, checks and label placement. The total also includes $0.35 for reclassifying all placeholders. Re-rendering the Biology labels cost nothing (no pictures were regenerated). Prices are the unverified list prices in `tools/gemini_pricing.json`; Batch is assumed to be half price.
 
@@ -52,84 +74,52 @@ Gemini Flash re-read all 1,046 unplaced placeholders (cost $0.35). 53 moved from
 
 | Reason | Count |
 |---|---|
-| code drawing failed the layout/content check | 37 |
-| picture failed the structure check (3 generations) | 19 |
+| code drawing failed the layout/content check | 22 |
 | skipped by rule (real-person portrait or Arabic script) | 9 |
+| picture failed the structure check | 4 |
 | labels could not be placed on the right parts | 2 |
-| error: Image size (305357220 pixels) exceeds limit of 178956 | 1 |
 
-Rules were followed: every image was generated with no text, checked, labelled in code from Gemini's positions, checked again, and flagged after repeated failure (two re-rolls, then one more fresh pass). I did not override the automatic checks. Many raw-check failures are about complex anatomy or apparatus (rib counts, tube connections, organ positions) where Gemini draws plausible but wrong pictures; a few are strict. Skipped by rule: 7 IRK images that need Arabic script, 1 Government portrait grid and 1 History portrait of a real person.
+Skipped by rule: 7 IRK images that need Arabic script, 1 Government portrait grid and 1 History portrait of a real person. The rest failed the structure or layout checks after three tries and, for the 44 retried in the cleanup pass, after one more Pro try. Most are complex anatomy or apparatus, and maps with many places or regions.
 
 | Subject | Notes file | Image | Why it is still a placeholder |
 |---|---|---|---|
-| Biology | `B1-internal-structure` | `B1-11-rabbit-digestive-system-dissection` | raw check: Image contains text labels and leader lines throughout, violating the rule that the picture must contain no text or labels. |
-| Biology | `B1-internal-structure` | `B1-12-mammalian-urinary-system` | raw check: In ventral view the right kidney should be on the viewer left and drawn slightly more cranial than the left, but here the kidney on the viewer left is drawn lower than the one on the right; |
 | Biology | `B2d-mammalian-teeth` | `B2d-02-types-human-teeth` | labels still wrong after 3 placements: one long root; premolar; one or two roots; molar |
-| Biology | `B2e-alimentary-canal-and-digestion` | `B2e-06-hepatobiliary-pancreatic-ducts` | raw check: The stomach is disconnected from the duodenum rather than connecting via the pyloric sphincter.; The bile duct connects into the pancreatic duct outside the duodenum rather than emptying to |
-| Biology | `B3b-transport-in-plants` | `B3b-13-bubble-potometer-apparatus` | raw check: The arrow shows the bubble moving away from the shoot towards the beaker instead of towards the shoot; The cut stem of the leafy shoot does not reach into the water inside the flask; The fl |
-| Biology | `B6a-support-and-movement-in-plants` | `B6a-18-coleoptile-tropism-experiments` | raw check: In the top row, the second coleoptile has a severed tip floating above it rather than being a decapitated coleoptile with the tip removed; In the bottom row, the agar blocks are disproporti |
-| Biology | `B7b-reproduction-in-flowering-plants` | `B7b-12-fruit-placentation-types` | labels still wrong after 3 placements: free-central; central column; titles under each: marginal; axile; basal; parietal; superficial |
-| Biology | `B7b-reproduction-in-flowering-plants` | `B7b-16-fruit-seed-dispersal-mechanisms` | raw check: The middle left section is empty; only five panels are present instead of six distinct rounded boxes grouped properly. |
-| Biology | `B7c-reproduction-in-mammals` | `B7c-09-contraceptive-methods-overview` | raw check: The chart has six boxes instead of the five requested, splitting the IUD category across two separate boxes. |
-| Biology | `B9c-hormonal-control` | `B9c-02-negative-feedback-flow` | code image: Legend box boundary line overlaps the main title text |
-| Biology | `B9d-homeostasis` | `B9d-07-osmoregulation-adh-feedback-flowchart` | code image: Arrow overlaps directly with text in the small volume of concentrated urine box; Box for urine volumes overlaps the collecting duct boxes |
-| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-07-savanna-food-web-network` | code image: Missing arrow from rat to snake; Missing arrow from praying mantis to Agama lizard; Incorrect arrow from praying mantis to snake; The label secondary consumers overlaps the connector line  |
-| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-10-carbon-cycle-schematic` | code image: the code failed: *map(cbook.sanitize_sequence, args),         **{k: cbook.sanitize_sequence(v) for k, v in kwargs.items()})   File "/usr/local/lib/python3.13/site-packages/matplotlib/axes/ |
-| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-13-nitrogen-cycle-flow` | code image: Text label nitric acid in rain is cut off behind the goat box; Text label ammonification by putrefying bacteria overlaps the nitrites box border; Multiple arrows cross through text labels  |
-| Biology | `C4-nigerian-biomes` | `C4-08-map-nigeria-state-biomes` | code image: Sahel savanna is depicted as a full-width horizontal strip placing Sokoto in the Sahel, contradicting the description where Sahel is only in northern Borno and Yobe and Sokoto belongs to t |
-| Biology | `C7a-diseases` | `C7a-02-anopheles-mosquito-life-cycle` | raw check: The larva is drawn floating deep underwater and tilted diagonally rather than lying flat and parallel just below the water surface, and it incorrectly has a prominent breathing siphon typic |
-| Biology | `D1-variation-in-population` | `D1-12-abo-blood-transfusion-compatibility` | code image: Curved self-donation arrows on each circle are missing or failed to render properly |
-| Biology | `D2a-heredity-principles` | `D2a-06-monohybrid-gene-transmission` | code image: Fertilisation arrows to the second zygote (Aa) are incorrect: sperm with A does not connect to it, and it incorrectly receives two arrows from the maternal eggs instead of one from each pa |
-| Biology | `D2b-applications-of-heredity` | `D2b-05-sickle-cell-trait-counselling` | code image: Gamete circles A and S above the second column overlap heavily with each other and with the label Mother's gametes; Label in bottom right cell reads $S instead of SS and overlaps the verti |
-| Biology | `E2-evidence-of-evolution` | `E2-06-analogous-insect-bird-wings` | raw check: The bird wing skeleton incorrectly depicts a five-fingered human-like hand instead of the fused hand bones and reduced digits characteristic of avian wings. |
-| Physics | `A18-structure-of-matter-kinetic-theory` | `A18-02-capillary-action-meniscus-comparison` | raw check: In the mercury tube on the right, the liquid level inside the tube is shown higher than the beaker level instead of lower than the beaker level. |
-| Physics | `A20b-wave-characteristics-and-properties` | `A20b-01-wave-reflection-ray` | code image: Angle labels 'i' and 'r' overlap with blue wavefront lines; The arc marking the angle of reflection is drawn inconsistently and crosses the normal line; The incident wave direction ray col |
-| Physics | `A24-reflection-of-light` | `A24-02-concave-mirror-image-ray` | code image: Panel 1 reflected rays do not all converge at focal point F; Panel 2 ray tracing is incomplete and erroneous with a ray ending in empty space; Panel 4 ray tracing is physically incorrect w |
-| Physics | `A25b-refraction-glass-prism-lenses` | `A25b-02-convex-concave-lens-rays` | code image: In both diagrams, the image arrows do not align with or reach the intersection points of the traced rays.; In the left diagram, the image arrow is placed before the intersection point of t |
-| Physics | `A2b-measurement-position-distance` | `A2b-01-vernier-caliper-reading` | code image: Numbers 4 and 5 overlap on the vernier scale; The bottom boundary line cuts directly through the Vernier Scale text label |
-| Physics | `A34-force-on-current-carrying-conductor` | `A34-01-fleming-left-hand-rule` | raw check: The second finger (middle finger) is curled into the palm instead of being extended at 90 degrees to the thumb and first finger |
-| Physics | `A5-equilibrium-of-forces` | `A5-04-principle-moments-balance` | code image: Missing triangular wedge pivot at the 50 cm mark; Missing hanging block of 60 g at the 30 cm mark; Missing hanging block of 40 g at the 80 cm mark; Text overlap between Counter-clockwise m |
-| Chemistry | `A14a-hydrogen-and-halogens` | `A14a-03-hydrogen-chloride-fountain-experiment` | raw check: The flask is drawn with two separate necks instead of a single-necked round-bottom flask with a two-hole stopper; The water dropper is inserted into a side branch rather than through a two- |
-| Mathematics | `A3-indices-logarithms-and-surds` | `A3-02-index-logarithmic-form-mapping` | code image: Connecting lines intersect and overlap the text log; Redundant disconnected label boxes appear in the center of the diagram |
-| Mathematics | `B6-matrices-and-determinants` | `B6-02-determinant-expansion-schematic` | error: Image size (305357220 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack. |
-| Economics | `A10-market-structures` | `A10-02-short-run-competitive-firm` | code image: The image completely fails to match the description; it shows chemistry plots of Period 3 atomic and ionic radii instead of economics graphs for a perfectly competitive firm |
-| Economics | `A14-public-finance` | `A14-01-tax-incidence-supply-demand` | code image: In Panel A, the dashed line S2 passes directly through the text 'Consumer's burden', causing text and line overlap. |
-| Economics | `A17-industry-and-industrialization` | `A17-01-map-nigeria-industrial-clusters` | code image: The map outline of Nigeria is completely missing, leaving the icons and labels floating in empty space. |
-| Government | `A7-political-ideologies` | `A7-01-feudal-system-social-pyramid` | code image: The label King - owns all land extends outside the top layer and overlaps the pyramid borders; Missing figures described in each layer including the king with crown, nobles, knights in arm |
+| Biology | `B6a-support-and-movement-in-plants` | `B6a-18-coleoptile-tropism-experiments` | raw check: In the bottom row, the second shoot has an intact curved tip with the block resting on the side, rather than a flat decapitated cut top with the block placed on the left half. |
+| Biology | `B7b-reproduction-in-flowering-plants` | `B7b-12-fruit-placentation-types` | raw check: The 2-by-3 grid is missing the bottom row middle diagram showing basal placentation with a single ovule at the base. |
+| Biology | `B7c-reproduction-in-mammals` | `B7c-09-contraceptive-methods-overview` | labels still wrong after 3 placements: male condom; oviduct cut and tied; box titles: natural; barrier; implant; intrauterine device; uterus; hormonal; female condom |
+| Biology | `B9c-hormonal-control` | `B9c-02-negative-feedback-flow` | code image: the code failed: er     TEMPLATES[spec["template"]](spec, out)     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/tools/codedraw/templates.py", line  |
+| Biology | `B9d-homeostasis` | `B9d-07-osmoregulation-adh-feedback-flowchart` | code image: Diagram is structured into two vertical downward branches instead of upper and lower circular loops around a central box; Neither Concentrated Urine nor Dilute Urine connects bac |
+| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-07-savanna-food-web-network` | code image: The vertical layout is upside-down: Grass is at the top and Hawk is at the bottom, contradicting the bottom-to-top level specifications.; Agama Lizard is placed on a separate fif |
+| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-10-carbon-cycle-schematic` | code image: Missing pictorial elements including cloud, tree, goat, factory, underground layer, dead log, and volcano; Elements arranged in an abstract circular flowchart instead of a landsc |
+| Biology | `C2-symbiotic-interactions-and-energy-flow` | `C2-13-nitrogen-cycle-flow` | code image: the code failed: er     TEMPLATES[spec["template"]](spec, out)     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/tools/codedraw/templates.py", line  |
+| Biology | `C4-nigerian-biomes` | `C4-08-map-nigeria-state-biomes` | code image: the code failed: es=vertices)     ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^   File "/usr/local/lib/python3.13/site-packages/matplotlib/_api/__init__.py", line 259, in check_ |
+| Physics | `A25b-refraction-glass-prism-lenses` | `A25b-02-convex-concave-lens-rays` | code image: In the right diagram, the central ray reflects off the lens instead of passing straight through undeflected; In both diagrams, the label Image overlaps the ray line |
+| Physics | `A34-force-on-current-carrying-conductor` | `A34-01-fleming-left-hand-rule` | raw check: The middle finger is folded into the palm instead of being fully extended and pointing horizontally to the right at right angles to the thumb and index finger.; Only index finger  |
+| Mathematics | `B6-matrices-and-determinants` | `B6-02-determinant-expansion-schematic` | code image: The arrow labeled Expand points to the left instead of pointing to the right |
+| Economics | `A10-market-structures` | `A10-02-short-run-competitive-firm` | code image: Plots share a single set of axes instead of each having its own P and Q axes; In the Loss plot, the shaded loss rectangle does not reach the ATC curve at the profit-maximizing qu |
+| Economics | `A14-public-finance` | `A14-01-tax-incidence-supply-demand` | code image: Panel B lacks separate vertical and horizontal axes; Shaded tax rectangles do not start from the vertical axis in either panel; Line S2 overlaps the Consumer label in both panels |
+| Economics | `A17-industry-and-industrialization` | `A17-01-map-nigeria-industrial-clusters` | code image: The label Ikeja: IT & Manufacturing overlaps with the label Nnewi: Auto parts; Missing prominent dot for Ikeja near the southwest coast |
 | Government | `B3-process-of-decolonization` | `B3-02-nigerian-nationalist-leaders-portraits` | portrait of a real person or Arabic script: placeholder kept |
-| Use of English | `C1b-diphthongs-and-triphthongs` | `C1b-01-diphthongs-vowel-quadrilateral-chart` | code image: Labels for /əʊ/ ('go') and /ɔɪ/ ('boy') are swapped, incorrectly labeling the glide trajectories. |
-| Use of English | `C2a-consonants` | `C2a-02-rp-consonant-classification-chart` | code image: The label (zoo) overlaps the horizontal grid line between the Fricative and Affricate rows; The labels (shoe) and (chair) cross over the cell border lines into the rows below; The phonetic |
-| Use of English | `C2a-consonants` | `C2a-03-consonant-articulation-sagittal-diagrams` | raw check: In the left diagram, the tongue tip is positioned behind the lower teeth instead of resting between the upper and lower teeth with air flowing over it; In the right diagram, the tongue tip  |
-| CRK | `A3-leadership-qualities` | `A3-01-joseph-interpreting-pharaoh-dream` | raw check: Thought bubbles show only three cows each instead of seven fat cows and seven thin cows as required by the narrative description. |
-| CRK | `B2-the-supremacy-of-god` | `B2-01-elijah-fire-mount-carmel` | raw check: Water trench is filled with boiling water rather than dried up as required by the label specifications |
-| CRK | `B8-holiness-and-divine-call` | `B8-02-prophet-ezekiel-calling-scene` | raw check: Hand of God offering the word is missing; Ezekiel is not reaching up with open mouth to eat the scroll as described |
+| Use of English | `C1b-diphthongs-and-triphthongs` | `C1b-01-diphthongs-vowel-quadrilateral-chart` | code image: The label /ɔɪ/ at the top-left is upside down.; Lines severely overlap text labels (/eɪ/, /ʊə/, /aʊ/, and /əʊ/ are all crossed by arrow shafts).; Labels and arrowheads are jumble |
+| Use of English | `C2a-consonants` | `C2a-03-consonant-articulation-sagittal-diagrams` | raw check: In the right diagram, the tongue tip does not press firmly against the gum ridge directly behind the upper front teeth; instead, the tongue is retracted and cupped, leaving a gap  |
 | IRK | `A1b-preservation-of-the-glorious-quran` | `A1b-01-ancient-writing-materials` | portrait of a real person or Arabic script: placeholder kept |
 | IRK | `A1d-divine-authenticity-of-the-glorious-quran` | `A1d-02-manuscript-evolution-pictorial` | portrait of a real person or Arabic script: placeholder kept |
 | IRK | `A4b-suwar-al-kawthar-to-an-nas` | `A4b-01-surah-al-kawthar-quranic` | portrait of a real person or Arabic script: placeholder kept |
 | IRK | `A6a-hadith-sciences-and-collections` | `A6a-02-hadith-isnad-matn-structure` | portrait of a real person or Arabic script: placeholder kept |
 | IRK | `A6a-hadith-sciences-and-collections` | `A6a-03-al-muwatta-book-stand` | portrait of a real person or Arabic script: placeholder kept |
 | IRK | `A6b-selected-ahadith-of-an-nawawi` | `A6b-01-nawawi-forty-hadith-manuscript` | portrait of a real person or Arabic script: placeholder kept |
-| IRK | `B12-sources-and-schools-of-law` | `B12-03-islamic-madhhab-distribution-map` | code image: Legend labels are misaligned with color swatches: the green swatch has no text, the blue swatch is paired with Maliki, and Hanafi lacks a dedicated swatch; Legend box covers part of West A |
 | IRK | `B9-articles-of-faith` | `B9-02-revealed-holy-books-display` | portrait of a real person or Arabic script: placeholder kept |
-| Accounting | `A18-information-technology-in-accounting` | `A18-02-data-processing-cycle-flowchart` | code image: Connecting circular loop is missing arrowheads to indicate the direction of the cycle; Stage icons are missing and represented as literal bracketed text placeholders |
-| Commerce | `A6a-aids-to-trade-advertising-banking-communication` | `A6a-01-communication-process-loop-flowchart` | code image: The red noise lightning bolt line overlaps and crosses directly through the text Message |
-| Geography | `A5-elementary-surveying` | `A5-02-prismatic-compass` | raw check: The distant ranging pole is misaligned with the sighting axis between the prism and sighting vane; The sighting axis points away from the ranging pole rather than directly through the sight |
-| Geography | `B5-water-bodies` | `B5-04-oxbow-lake-sequential` | raw check: Panel 1 shows an impossible self-intersecting or bifurcating loop instead of a normal river meander.; Panel 2 shows an enclosed kidney-bean shaped loop that has no river flowing in or out.; |
-| Geography | `D1-broad-outline-of-nigeria` | `D1-01-nigeria-states-political-map` | code image: The 36 states of Nigeria are not shown; instead, arbitrary wavy lines are drawn across the map. |
-| Geography | `D2-economic-and-human-geography` | `D2-01-nigeria-cash-crop-distribution` | code image: Legend box overlaps and cuts off the Groundnut & Cotton text label in the north; Lacks clear state boundaries required by the description; State name labels are extremely faint and partial |
-| Agricultural Science | `C6-livestock-management` | `C6-03-rabbit-handling-housing` | raw check: The person holding the rabbit has three hands: one supporting the rump, one on top of the head or scruff, and an extra disembodied hand gripping the rabbit's chest. |
-| History | `A1-land-and-peoples-of-the-nigeria-area` | `A1-01-vegetation-map-nigeria-area` | code image: the code failed: raw(sys.argv[1])     ~~~~^^^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/.image-work/code/gen/A1-01-vegetation-map-nigeria-area.py", line 16, in draw     if not raw_pol |
-| History | `B4-benin` | `B4-01-timeline-th-century-benin` | code image: Text Economic prosperity & overlaps the left border line of the Oba Adolo box; Text British naval expedition overlaps the left border line of the Oba Ovonramwen box |
-| History | `B8-european-penetration-and-impact` | `B8-01-map-european-niger-explorers` | code image: Title at the top is partially cut off and overlapped by the legend box |
-| History | `C1-establishment-of-colonial-rule-up-to-1914` | `C1-01-map-nigeria-protectorates` | code image: Bottom caption text Sketch map: zones are approximate overlaps the map border line; Protectorate boundary dashed line stops abruptly in the center instead of spanning across the territory |
+| Accounting | `A18-information-technology-in-accounting` | `A18-02-data-processing-cycle-flowchart` | code image: Connecting lines lack arrowheads to indicate the direction of the cycle |
+| Commerce | `A6a-aids-to-trade-advertising-banking-communication` | `A6a-01-communication-process-loop-flowchart` | code image: the code failed: er     TEMPLATES[spec["template"]](spec, out)     ~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/tools/codedraw/templates.py", line  |
+| Geography | `D2-economic-and-human-geography` | `D2-01-nigeria-cash-crop-distribution` | code image: the code failed: ^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/.image-work/code/gen/D2-01-nigeria-cash-crop-distribution.py", line 24, in draw     ax.plot(poly[:, 0], poly[:,  |
+| History | `A1-land-and-peoples-of-the-nigeria-area` | `A1-01-vegetation-map-nigeria-area` | code image: the code failed:  raise ValueError("'codes' must be a 1D list or array with the "     ...<2 lines>...                      f"but your codes have shape {codes.shape}") ValueError: |
 | History | `C2-amalgamation-of-1914` | `C2-02-portrait-lord-frederick-lugard` | portrait of a real person or Arabic script: placeholder kept |
-| History | `C2-amalgamation-of-1914` | `C2-03-map-colonial-railways` | code image: The blue railway line to Kano overlaps directly over the text Northern Provinces; The blue railway line between Port Harcourt and Enugu overlaps directly over the text Southern Provinces |
-| History | `C5-social-development-under-colonial-rule` | `C5-01-map-colonial-rail-resources` | code image: The legend box overlaps and partially obscures the Jos label and the branch line; The western railway line ends prematurely and does not reach the Kano label; The icons for train, ship, co |
-| History | `D11-nigeria-in-international-organizations` | `D11-01-map-ecowas-member-states` | code image: Senegal, The Gambia, and Guinea-Bissau are incorrectly shaded as non-member states (tan) instead of ECOWAS member states (pale green); In the legend, the star symbol is misaligned below it |
-| History | `D2-nigerian-civil-war` | `D2-02-map-nigerian-civil-war` | code image: Callout box for Federal Advance overlaps the Benue-Plateau state label; Sweeping offensive arrow into Mid-West is reduced to a faint, barely visible dashed line; Lagos label lacks a point  |
-| History | `D7-babangida-regime` | `D7-02-historical-map-nigeria-states` | code image: The external national borders and coastline of Nigeria are missing, leaving outer state boundaries open and incomplete; An unexplained blue circle is shown next to Rivers |
-| History | `D9-abacha-regime` | `D9-02-map-nigeria-states` | code image: Legend text in the upper left overlaps heavily with the country border line; State polygons are fragmented, poorly aligned with borders, and leave large gaps rather than forming a complete |
-| History | `G1-new-imperialism-and-european-occupation` | `G1-01-historical-colonial-map-africa` | code image: Legend text labels are vertically misaligned with the color swatches, incorrectly pairing colors with colonial powers; Stray blue line fragments appear floating above the northern boundary |
+| History | `C5-social-development-under-colonial-rule` | `C5-01-map-colonial-rail-resources` | code image: the code failed: ])     ~~~~^^^^^^^^^^^^^   File "/home/user/miyagi-jamb-notes/.image-work/code/gen/C5-01-map-colonial-rail-resources.py", line 15, in draw     ax.plot(poly[:, 0] |
+| History | `D11-nigeria-in-international-organizations` | `D11-01-map-ecowas-member-states` | code image: Internal national borders are drawn across ECOWAS member states instead of showing them merged without internal lines; Côte d'Ivoire is omitted from the ECOWAS shading, leaving a |
+| History | `D2-nigerian-civil-war` | `D2-02-map-nigerian-civil-war` | code image: Outer country outline of Nigeria is completely missing; Red arrow bypasses rather than passes through Benin City; Red arrow overlaps the label Ore |
+| History | `D7-babangida-regime` | `D7-02-historical-map-nigeria-states` | code image: The outer outline of Nigeria is completely missing |
+| History | `D9-abacha-regime` | `D9-02-map-nigeria-states` | code image: Bayelsa label overlaps the southern border line of the map |
+| History | `G1-new-imperialism-and-european-occupation` | `G1-01-historical-colonial-map-africa` | code image: Internal borders are drawn throughout the continent despite requesting none; The German East Africa region is uncolored white rather than matching Cameroon; Extra disclaimer text |
 
 ## Needs teacher review
 
@@ -142,22 +132,10 @@ Rules were followed: every image was generated with no text, checked, labelled i
 
 | Item | Cost |
 |---|---|
-| Biology | $10.89 |
-| Physics | $7.59 |
-| Chemistry | $2.87 |
-| Mathematics | $1.87 |
-| Economics | $3.65 |
-| Government | $2.77 |
-| Use of English | $1.76 |
-| Literature in English | $1.05 |
-| CRK | $5.36 |
-| IRK | $1.75 |
-| Accounting | $0.95 |
-| Commerce | $1.11 |
-| Geography | $4.42 |
-| Agricultural Science | $6.20 |
-| History | $5.00 |
-| Reclassification | $0.35 |
-| **Total this run** | **$57.60** |
+| Main run: image generation, code drawing, checks, label placement (15 subjects) | $57.25 |
+| Main run: reclassification | $0.35 |
+| **Main run total** | **$57.60** |
+| Cleanup pass (retries, simplified descriptions, rechecks, scar check; cap $10) | $5.80 |
+| **Total** | **$63.40** |
 
-Per placed image this run cost about $0.059. Batch mode was used for all picture generation (about $0.034 per Flash image at the assumed half price).
+Per-subject figures are in the table near the top. Re-rendering labels, the text formatter and the repairs cost nothing (no pictures were regenerated except the 16 retried placeholders). Batch mode was used for picture generation (about $0.034 per Flash image at the assumed half price); prices are the unverified list prices in `tools/gemini_pricing.json`.

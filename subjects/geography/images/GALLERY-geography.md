@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**63 images placed.** 4 placeholders are still in the notes (listed at the end).
+**66 images placed.** 1 placeholders are still in the notes (listed at the end).
 
 
 ## A1-maps
@@ -86,6 +86,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Illustration of chain surveying equipment arranged horizontally including a metric steel chain with handles, surveyor arrows, two ranging poles, a measuring tape, and a wooden cross-staff.](A5-01-chain-surveying-equipment-set.png)
 
 *Illustration of chain surveying equipment arranged horizontally including a metric steel chain with handles, surveyor arrows, two ranging poles, a measuring tape, and a wooden cross-staff.*
+
+![Diagram of a prismatic compass on a tripod showing an eye sighting through the prism towards a vane, with a circular ring and magnetic needle.](A5-02-prismatic-compass.png)
+
+*Diagram of a prismatic compass on a tripod showing an eye sighting through the prism towards a vane, with a circular ring and magnetic needle.*
 
 ![Diagram comparing an open traverse alongside a winding river with a closed pentagonal traverse showing an error of closure between the final and starting stations.](A5-03-open-closed-traverse-diagrams.png)
 
@@ -218,6 +222,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Cross section of a waterfall showing hard rock over undercut soft rock, creating an overhang as water plunges into a deep plunge pool with swirling rocks.*
 
+![Four-step diagram illustrating ox-bow lake formation from a meandering river, ending with sediment deposition sealing off an abandoned meander loop alongside a straightened channel.](B5-04-oxbow-lake-sequential.png)
+
+*Four-step diagram illustrating ox-bow lake formation from a meandering river, ending with sediment deposition sealing off an abandoned meander loop alongside a straightened channel.*
+
 
 ## B6-weather-and-climate
 
@@ -314,6 +322,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## D1-broad-outline-of-nigeria
 
+![An outline map of Nigeria showing Abuja FCT in the center, a compass rose in the top right, and latitude and longitude coordinate lines along the edges.](D1-01-nigeria-states-political-map.png)
+
+*An outline map of Nigeria showing Abuja FCT in the center, a compass rose in the top right, and latitude and longitude coordinate lines along the edges.*
+
 
 ## D2-economic-and-human-geography
 
@@ -331,7 +343,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
-- `A5-elementary-surveying`: A detailed diagram of a prismatic compass mounted on a tripod. Key parts are labelled: the sighting slit and hair (on one side), the magnifyin...
-- `B5-water-bodies`: Four small sequential diagrams showing the formation of an ox-bow lake. 1: A river flowing in a wide horseshoe loop (meander) with arrows show...
-- `D1-broad-outline-of-nigeria`: Map of Nigeria showing the 36 states and the FCT. The map includes grid lines for latitude 4°N to 14°N and longitude 3°E to 15°E. The surround...
 - `D2-economic-and-human-geography`: Map of Nigeria showing the distribution of major cash crops. Regions shaded or symbolized: Cocoa in the South-West, Oil palm in the South-East...

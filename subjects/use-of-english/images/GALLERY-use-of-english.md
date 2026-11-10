@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**28 images placed.** 3 placeholders are still in the notes (listed at the end).
+**29 images placed.** 2 placeholders are still in the notes (listed at the end).
 
 
 ## A1-types-of-passages
@@ -117,6 +117,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A sagittal cross section diagram of the human vocal tract showing the nasal cavity, oral cavity, lips, teeth, palate, tongue, pharynx, and larynx.*
 
+![A table categorizing English consonants by type: plosive, fricative, affricate, nasal, lateral, and approximant, with corresponding letter representations.](C2a-02-rp-consonant-classification-chart.png)
+
+*A table categorizing English consonants by type: plosive, fricative, affricate, nasal, lateral, and approximant, with corresponding letter representations.*
+
 ![Anatomical comparison showing front lip shapes and sagittal cross sections of the mouth cavity and tongue position for the s and sh consonant sounds.](C2a-04-consonant-articulation-mouth-diagrams.png)
 
 *Anatomical comparison showing front lip shapes and sagittal cross sections of the mouth cavity and tongue position for the s and sh consonant sounds.*
@@ -177,5 +181,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ## Not made (placeholder still in the notes)
 
 - `C1b-diphthongs-and-triphthongs`: An RP vowel quadrilateral (trapezium-shaped vowel chart) with "Front", "Central", "Back" across the top and "Close", "Close-mid", "Open-mid",...
-- `C2a-consonants`: A colour-coded consonant chart (grid) for the 24 RP consonants, matching the table in the notes. Columns across the top: Bilabial, Labiodental...
 - `C2a-consonants`: Two side-view close-up diagrams of the front of the mouth, side by side. Left: /θ/ as in "thin", showing the tongue tip resting lightly betwee...

@@ -77,7 +77,7 @@ Religion and politics were inseparable. The Oba was divine.
 
 In the 19th century, the borders of the Benin Empire had shrunk from their peak, but Benin still claimed authority or significant influence over a wide area. Relations with neighbours involved a mix of trade, tribute collection, cultural exchange, and military conflict.
 
-[IMAGE: A map of the Nigeria area in the mid-19th century showing the Kingdom of Benin in the center. Arrows pointing outwards indicate Benin's relations with its neighbours: West towards Akure and Ekiti (Yorubaland), North towards Afenmai and Nupe, Northeast towards Esan (Ishan), East across the Niger River to Asaba/Agbor (Western Igbo), and South towards the Niger Delta (Itsekiri, Urhobo). Labels: "Benin Empire", "Yorubaland", "Nupe", "Afenmai", "Esan", "Western Igbo", "Itsekiri", "Urhobo", "Niger River". Clean flat textbook style, white background.]
+![Diagram showing the Kingdom of Benin in the center with outward directional arrows pointing to surrounding regions including Yorubaland, Nupe, Afenmai, Esan, Western Igbo, Urhobo, and Itsekiri.](images/B4-02-historical-map-benin-relations.png)
 
 ### 1. Relations with Yorubaland (The West)
 Benin shared its western border with eastern Yoruba states like Ekiti, Ondo, and Akure. 

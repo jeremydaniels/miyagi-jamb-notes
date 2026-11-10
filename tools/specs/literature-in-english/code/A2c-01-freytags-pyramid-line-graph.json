@@ -1,0 +1,65 @@
+{
+ "template": "graph",
+ "title": "Freytag's Pyramid",
+ "x_label": "",
+ "y_label": "",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "",
+   "points": [
+    [
+     1.0,
+     1.5
+    ],
+    [
+     2.0,
+     1.5
+    ],
+    [
+     5.0,
+     8.5
+    ],
+    [
+     8.0,
+     2.0
+    ],
+    [
+     9.0,
+     2.0
+    ]
+   ],
+   "smooth": false,
+   "color": "blue",
+   "style": "solid"
+  }
+ ],
+ "notes": [
+  {
+   "x": 1.5,
+   "y": 0.8,
+   "text": "Exposition"
+  },
+  {
+   "x": 3.0,
+   "y": 5.5,
+   "text": "Rising Action"
+  },
+  {
+   "x": 5.0,
+   "y": 9.2,
+   "text": "Climax"
+  },
+  {
+   "x": 7.0,
+   "y": 5.5,
+   "text": "Falling Action"
+  },
+  {
+   "x": 8.5,
+   "y": 1.2,
+   "text": "Resolution (Denouement)"
+  }
+ ]
+}

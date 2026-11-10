@@ -67,7 +67,7 @@ Most novels follow a standard plot structure, often visualised as a triangle or 
 4.  **Falling Action:** The events that happen immediately after the climax. The tension begins to drop, and the consequences of the climax are shown.
 5.  **Resolution (Denouement):** The conclusion of the story. The conflicts are finally resolved (happily or tragically), loose ends are tied up, and a new normal is established for the characters.
 
-[IMAGE: A line graph showing Freytag's Pyramid. The line starts low on the left at "Exposition", slopes upward through "Rising Action", peaks at a sharp point labelled "Climax" at the top, slopes downward through "Falling Action", and levels out on the right at "Resolution (Denouement)". Clean flat textbook style, white background, black text and bold blue line.]
+![A line graph illustrating Freytags Pyramid with stages labelled exposition, rising action, climax at the peak, falling action, and resolution denouement.](images/A2c-01-freytags-pyramid-line-graph.png)
 
 When answering questions about the plot of your prescribed texts, you will need to know the specific sequence of events: what triggered the conflict, what the climax was, and how it all ended.
 
@@ -89,7 +89,7 @@ This is the historical period, time of day, or season when the story takes place
 *   **Specific timing:** Does the story take place over a few days, a month, or spanning twenty years? Is it set during the rainy season or the harmattan? 
 *   *How to identify it:* Look for dates, historical events mentioned in the background, the type of technology characters use (e.g., mobile phones vs. telegrams), or descriptions of the time of day.
 
-[IMAGE: A two-part illustration explaining Setting. On the left side, under the heading "Spatial (Place)", a drawing of a rural African village with round thatched huts, a large baobab tree, and a dusty path. On the right side, under the heading "Temporal (Time)", a drawing of a calendar page showing "1960", an old-fashioned clock, and a rising sun. Clean flat textbook style, white background.]
+![An illustration showing place with round thatched huts, a baobab tree, and a path, alongside time represented by a calendar grid, a clock, and a rising sun.](images/A2c-02-spatial-temporal-setting.png)
 
 #### The Function of Setting
 *   **Creates Mood/Atmosphere:** A story set in a dark, raining, abandoned house will have a scary atmosphere, while one set at a sunny village festival will feel joyful.

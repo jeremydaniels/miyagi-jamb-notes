@@ -66,5 +66,641 @@
     "L"
    ]
   ]
+ },
+ "B4a-01-respiratory-surface-exchange": {
+  "labels": [
+   [
+    "air or water",
+    [
+     194,
+     430
+    ],
+    "L"
+   ],
+   [
+    "moist surface",
+    [
+     322,
+     571
+    ],
+    "L"
+   ],
+   [
+    "thin layer (one cell thick)",
+    [
+     380,
+     404
+    ],
+    "L"
+   ],
+   [
+    "blood capillary",
+    [
+     774,
+     593
+    ],
+    "R"
+   ],
+   [
+    "red blood cell",
+    [
+     831,
+     476
+    ],
+    "R"
+   ],
+   [
+    "oxygen diffuses in",
+    [
+     542,
+     291
+    ],
+    "R"
+   ],
+   [
+    "carbon dioxide diffuses out",
+    [
+     488,
+     735
+    ],
+    "L"
+   ],
+   [
+    "large surface area, many folds",
+    [
+     532,
+     460
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-03-fish-gill-structure-countercurrent": {
+  "labels": [
+   [
+    "mouth",
+    [
+     148,
+     350
+    ],
+    "L"
+   ],
+   [
+    "operculum (cut away)",
+    [
+     414,
+     302
+    ],
+    "L"
+   ],
+   [
+    "gills",
+    [
+     348,
+     343
+    ],
+    "L"
+   ],
+   [
+    "water in",
+    [
+     81,
+     337
+    ],
+    "L"
+   ],
+   [
+    "water out",
+    [
+     399,
+     435
+    ],
+    "L"
+   ],
+   [
+    "gill arch",
+    [
+     768,
+     368
+    ],
+    "R"
+   ],
+   [
+    "gill rakers",
+    [
+     701,
+     419
+    ],
+    "R"
+   ],
+   [
+    "gill filaments",
+    [
+     855,
+     394
+    ],
+    "R"
+   ],
+   [
+    "lamellae",
+    [
+     773,
+     696
+    ],
+    "R"
+   ],
+   [
+    "blood capillaries",
+    [
+     847,
+     793
+    ],
+    "R"
+   ],
+   [
+    "direction of water flow",
+    [
+     773,
+     757
+    ],
+    "R"
+   ],
+   [
+    "direction of blood flow (countercurrent)",
+    [
+     865,
+     655
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-05-cockroach-tracheal-system-anatomy": {
+  "labels": [
+   [
+    "spiracle",
+    [
+     802,
+     823
+    ],
+    "R"
+   ],
+   [
+    "thoracic spiracles (2 pairs)",
+    [
+     443,
+     373
+    ],
+    "L"
+   ],
+   [
+    "abdominal spiracles (8 pairs)",
+    [
+     479,
+     626
+    ],
+    "L"
+   ],
+   [
+    "trachea",
+    [
+     653,
+     140
+    ],
+    "R"
+   ],
+   [
+    "longitudinal tracheal trunk",
+    [
+     436,
+     520
+    ],
+    "L"
+   ],
+   [
+    "spiral chitin thickening",
+    [
+     693,
+     200
+    ],
+    "R"
+   ],
+   [
+    "tracheoles",
+    [
+     787,
+     296
+    ],
+    "R"
+   ],
+   [
+    "fluid at tracheole end",
+    [
+     835,
+     358
+    ],
+    "R"
+   ],
+   [
+    "muscle cell",
+    [
+     917,
+     352
+    ],
+    "R"
+   ],
+   [
+    "valve",
+    [
+     811,
+     780
+    ],
+    "R"
+   ],
+   [
+    "hairs (filter dust)",
+    [
+     816,
+     680
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-06-human-respiratory-system-anatomy": {
+  "labels": [
+   [
+    "nasal cavity",
+    [
+     337,
+     227
+    ],
+    "L"
+   ],
+   [
+    "nostril",
+    [
+     263,
+     253
+    ],
+    "L"
+   ],
+   [
+    "pharynx",
+    [
+     421,
+     327
+    ],
+    "L"
+   ],
+   [
+    "epiglottis",
+    [
+     380,
+     364
+    ],
+    "L"
+   ],
+   [
+    "larynx",
+    [
+     407,
+     409
+    ],
+    "L"
+   ],
+   [
+    "trachea",
+    [
+     421,
+     522
+    ],
+    "L"
+   ],
+   [
+    "cartilage rings",
+    [
+     421,
+     555
+    ],
+    "L"
+   ],
+   [
+    "bronchus",
+    [
+     473,
+     635
+    ],
+    "L"
+   ],
+   [
+    "bronchiole",
+    [
+     555,
+     690
+    ],
+    "R"
+   ],
+   [
+    "lung",
+    [
+     319,
+     657
+    ],
+    "L"
+   ],
+   [
+    "pleural membranes",
+    [
+     454,
+     762
+    ],
+    "L"
+   ],
+   [
+    "rib",
+    [
+     220,
+     803
+    ],
+    "L"
+   ],
+   [
+    "intercostal muscles",
+    [
+     216,
+     773
+    ],
+    "L"
+   ],
+   [
+    "diaphragm",
+    [
+     431,
+     814
+    ],
+    "L"
+   ],
+   [
+    "alveoli",
+    [
+     750,
+     653
+    ],
+    "R"
+   ],
+   [
+    "capillary network",
+    [
+     843,
+     709
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-08-leaf-epidermis-stomata-structure": {
+  "labels": [
+   [
+    "epidermal cell",
+    [
+     399,
+     199
+    ],
+    "L"
+   ],
+   [
+    "guard cell",
+    [
+     220,
+     312
+    ],
+    "L"
+   ],
+   [
+    "chloroplast",
+    [
+     303,
+     266
+    ],
+    "L"
+   ],
+   [
+    "stoma (open)",
+    [
+     254,
+     305
+    ],
+    "L"
+   ],
+   [
+    "stoma (closed)",
+    [
+     547,
+     430
+    ],
+    "R"
+   ],
+   [
+    "thick inner wall",
+    [
+     235,
+     307
+    ],
+    "L"
+   ],
+   [
+    "thin outer wall",
+    [
+     179,
+     305
+    ],
+    "L"
+   ],
+   [
+    "substomatal air space",
+    [
+     819,
+     793
+    ],
+    "R"
+   ],
+   [
+    "spongy mesophyll",
+    [
+     878,
+     870
+    ],
+    "R"
+   ],
+   [
+    "grass stoma (dumbbell-shaped guard cells)",
+    [
+     874,
+     172
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-09-lenticels-mangrove-pneumatophores": {
+  "labels": [
+   [
+    "twig",
+    [
+     272,
+     133
+    ],
+    "L"
+   ],
+   [
+    "lenticel",
+    [
+     259,
+     310
+    ],
+    "L"
+   ],
+   [
+    "cork (bark)",
+    [
+     117,
+     665
+    ],
+    "L"
+   ],
+   [
+    "loosely packed cells",
+    [
+     240,
+     665
+    ],
+    "L"
+   ],
+   [
+    "air spaces",
+    [
+     276,
+     573
+    ],
+    "L"
+   ],
+   [
+    "cork cambium",
+    [
+     271,
+     875
+    ],
+    "L"
+   ],
+   [
+    "living cells of stem",
+    [
+     271,
+     931
+    ],
+    "L"
+   ],
+   [
+    "oxygen in",
+    [
+     250,
+     450
+    ],
+    "L"
+   ],
+   [
+    "carbon dioxide out",
+    [
+     291,
+     445
+    ],
+    "L"
+   ],
+   [
+    "mangrove pneumatophores",
+    [
+     757,
+     307
+    ],
+    "R"
+   ],
+   [
+    "waterlogged mud",
+    [
+     634,
+     849
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-13-bell-jar-lung-model": {
+  "labels": [
+   [
+    "bell jar (chest wall)",
+    [
+     83,
+     563
+    ],
+    "L"
+   ],
+   [
+    "Y-tube (trachea and bronchi)",
+    [
+     273,
+     450
+    ],
+    "L"
+   ],
+   [
+    "balloons (lungs)",
+    [
+     366,
+     593
+    ],
+    "L"
+   ],
+   [
+    "rubber sheet (diaphragm)",
+    [
+     273,
+     829
+    ],
+    "L"
+   ],
+   [
+    "sheet pulled down: balloons inflate (inspiration)",
+    [
+     273,
+     829
+    ],
+    "L"
+   ],
+   [
+    "sheet pushed up: balloons deflate (expiration)",
+    [
+     749,
+     742
+    ],
+    "R"
+   ],
+   [
+    "air in",
+    [
+     273,
+     143
+    ],
+    "L"
+   ],
+   [
+    "air out",
+    [
+     750,
+     143
+    ],
+    "R"
+   ]
+  ]
  }
 }

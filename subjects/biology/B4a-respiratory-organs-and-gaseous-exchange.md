@@ -46,7 +46,7 @@ Every respiratory surface, in any organism, has most of these features. They all
 6. **Ventilated** (in active animals): fresh air or water is moved over it, again keeping the gradient steep.
 7. **Protected** from damage and drying out (e.g. lungs inside the chest, gills under the operculum, tracheae inside the body).
 
-[IMAGE: A simple close-up diagram of a generalised respiratory surface: a thin moist layer of cells one cell thick between the outside (air or water) on the left and a blood capillary with red blood cells on the right. Arrows show oxygen diffusing from the outside into the blood and carbon dioxide diffusing from the blood to the outside. A thin film of moisture lines the outer surface. Labels to add: "air or water", "moist surface", "thin layer (one cell thick)", "blood capillary", "red blood cell", "oxygen diffuses in", "carbon dioxide diffuses out", "large surface area, many folds". Clean flat textbook style, white background.]
+![Diagram of a respiratory surface showing an external environment on the left, a folded thin cell layer lined with moisture, and a blood capillary containing red blood cells.](images/B4a-01-respiratory-surface-exchange.png)
 
 ## Respiratory organs and surfaces
 
@@ -117,7 +117,7 @@ The same applies to *Paramecium*, *Euglena* and *Chlamydomonas*, and to small, t
 
 **Note:** cartilaginous fish such as sharks and rays have no operculum; their gill slits (usually five pairs) open directly to the outside.
 
-[IMAGE: Two parts. Left: the head of a Tilapia fish in side view with the operculum cut away to reveal four curved gills, with an arrow showing water entering the mouth and leaving under the operculum. Right: an enlarged single gill showing the curved bony gill arch, short pale gill rakers on its inner side, two rows of bright red gill filaments on its outer side, and an inset of one filament with thin lamellae and capillaries, with arrows showing water flowing one way and blood flowing the opposite way. Labels to add: "mouth", "operculum (cut away)", "gills", "water in", "water out", "gill arch", "gill rakers", "gill filaments", "lamellae", "blood capillaries", "direction of water flow", "direction of blood flow (countercurrent)". Clean flat textbook style, white background.]
+![Diagram showing a fish head with gills exposed and water flow arrows, alongside an enlarged gill arch with rakers, filaments, and an inset of countercurrent exchange.](images/B4a-03-fish-gill-structure-countercurrent.png)
 
 #### Gills of a tadpole
 
@@ -157,7 +157,7 @@ Insects (e.g. the **cockroach**, grasshopper, housefly, bee) breathe by a system
 
 **Limitation:** diffusion along tracheae works well only over short distances. This is one reason why insects are small.
 
-[IMAGE: Top view (dorsal view) of a cockroach outline showing the tracheal system in silver-white: ten pairs of spiracles along the sides (two on the thorax, eight on the abdomen), each leading to short tracheae that join two main longitudinal tracheal trunks along each side, with branches to the legs, head and organs. An inset shows an enlarged trachea with spiral chitin thickening branching into very fine tracheoles ending among muscle cells, with a little fluid at the tracheole ends. Another inset shows a spiracle with hairs and a valve. Labels to add: "spiracle", "thoracic spiracles (2 pairs)", "abdominal spiracles (8 pairs)", "trachea", "longitudinal tracheal trunk", "spiral chitin thickening", "tracheoles", "fluid at tracheole end", "muscle cell", "valve", "hairs (filter dust)". Clean flat textbook style, white background.]
+![Diagram of a cockroach tracheal system showing spiracles and tracheal trunks, with insets of tracheoles terminating at muscle cells and a detailed spiracle structure with valve and hairs.](images/B4a-05-cockroach-tracheal-system-anatomy.png)
 
 ### Lungs
 
@@ -191,7 +191,7 @@ Insects (e.g. the **cockroach**, grasshopper, housefly, bee) breathe by a system
 
 **Textbook variation:** the number of alveoli in human lungs is given as about **300 million**, **300–500 million** or **about 700 million**, and their total area as about **50–100 m²** (often "about 70 m²"). All books agree that the area is enormous, many times the area of the skin.
 
-[IMAGE: Front view of the human respiratory system: head in side profile showing the nasal cavity, pharynx, epiglottis and larynx, then the trachea with visible C-shaped cartilage rings running down into the chest, dividing into two bronchi and branching bronchioles inside two lungs (one lung drawn cut open to show branching). The ribs (shown in section), intercostal muscles and dome-shaped diaphragm below the lungs, and the pleural membranes around the lungs. An inset shows a cluster of alveoli at the end of a bronchiole, wrapped in red and blue capillaries. Labels to add: "nasal cavity", "nostril", "pharynx", "epiglottis", "larynx", "trachea", "cartilage rings", "bronchus", "bronchiole", "lung", "pleural membranes", "rib", "intercostal muscles", "diaphragm", "alveoli", "capillary network". Clean flat textbook style, white background.]
+![Diagram of human respiratory system displaying nasal cavity, pharynx, larynx, trachea, lungs, ribs, diaphragm, and an inset of alveoli with capillaries.](images/B4a-06-human-respiratory-system-anatomy.png)
 
 #### Lungs of toads (and frogs)
 
@@ -244,7 +244,7 @@ Birds are very active, warm-blooded animals that fly, which needs a great deal o
 - They lead to an extensive system of **air spaces**, giving the mesophyll cells a huge, **moist** surface.
 - They can **open and close** to balance the need for CO₂ (photosynthesis) against the danger of losing too much water.
 
-[IMAGE: Surface view of a piece of lower leaf epidermis showing irregular, jigsaw-shaped epidermal cells without chloroplasts and several stomata, each between two kidney-shaped guard cells containing green chloroplasts; one stoma drawn open and one closed. Beside it, a small vertical section through a stoma showing the guard cells, the pore and the substomatal air space leading into the spongy mesophyll. A small inset shows dumbbell-shaped guard cells of a grass. Labels to add: "epidermal cell", "guard cell", "chloroplast", "stoma (open)", "stoma (closed)", "thick inner wall", "thin outer wall", "substomatal air space", "spongy mesophyll", "grass stoma (dumbbell-shaped guard cells)". Clean flat textbook style, white background.]
+![Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.](images/B4a-08-leaf-epidermis-stomata-structure.png)
 
 ### Lenticels
 
@@ -267,7 +267,7 @@ Birds are very active, warm-blooded animals that fly, which needs a great deal o
 - On the skin of **Irish potato tubers** (small pale dots) and some fruits such as apples and pears.
 - On the **pneumatophores** (breathing roots) and stilt roots of **mangrove** trees in the **Niger Delta** and coastal lagoons of Nigeria. Mangrove roots grow in waterlogged mud, which has almost no oxygen. The black mangrove (*Avicennia*) sends up vertical pneumatophores that stick out of the mud, and the red mangrove (*Rhizophora*) has arching stilt roots; both are covered with lenticels through which air enters, and the air then diffuses down through air spaces to the buried roots.
 
-[IMAGE: Two panels. Left: a young woody twig with small raised pale lenticels dotted on its brown bark, and an enlarged vertical section through one lenticel showing tightly packed brown cork cells on either side, a mass of loosely packed round cells with air spaces pushing up through a split in the bark, the cork cambium below, and arrows showing oxygen entering and carbon dioxide leaving. Right: mangrove pneumatophores sticking up from grey waterlogged mud, with lenticels on them. Labels to add: "twig", "lenticel", "cork (bark)", "loosely packed cells", "air spaces", "cork cambium", "living cells of stem", "oxygen in", "carbon dioxide out", "mangrove pneumatophores", "waterlogged mud". Clean flat textbook style, white background.]
+![Diagram showing a woody twig with lenticels, an enlarged cross section of a lenticel with loosely packed cells, and mangrove pneumatophores emerging from mud.](images/B4a-09-lenticels-mangrove-pneumatophores.png)
 
 ### Stomata and lenticels compared
 
@@ -599,7 +599,7 @@ The structures involved are:
 3. The balloons do not fill the jar; in the body, the lungs fill the chest cavity and the pleural space is tiny and contains fluid.
 4. The balloons are not made of many alveoli and do not exchange gases.
 
-[IMAGE: The bell jar model of the lungs in two states side by side. Each shows a bell jar with a rubber stopper and Y-shaped glass tube at the top, two balloons on the arms of the tube inside, and a rubber sheet tied across the bottom with a small knob. Left: rubber sheet pulled down, balloons inflated, arrow showing air entering the tube. Right: rubber sheet pushed up, balloons deflated, arrow showing air leaving. Labels to add: "bell jar (chest wall)", "Y-tube (trachea and bronchi)", "balloons (lungs)", "rubber sheet (diaphragm)", "sheet pulled down: balloons inflate (inspiration)", "sheet pushed up: balloons deflate (expiration)", "air in", "air out". Clean flat textbook style, white background.]
+![Diagram showing the bell jar lung model with inflated balloons when the rubber diaphragm is pulled down and deflated balloons when pushed up.](images/B4a-13-bell-jar-lung-model.png)
 
 #### Gaseous exchange in the alveoli, step by step
 

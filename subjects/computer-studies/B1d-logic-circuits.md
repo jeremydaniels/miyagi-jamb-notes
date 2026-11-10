@@ -154,7 +154,7 @@ To understand this, we must look at how these two gates behave:
 
 This specific combination (an XOR followed by a NOT/NOR) creates what is officially known as an **XNOR (Exclusive NOR) gate**, which is the standard digital logic equality comparator. 
 
-[IMAGE: Block diagram of a simple comparator circuit. On the left, two inputs A and B enter an XOR gate (shield shape with a curved double-line at the back). The output of the XOR gate splits and goes into both inputs of a NOR gate (shield shape with a small circle at the tip). The final output on the right is labelled "A = B (Equality)". Clean flat textbook illustration, white background.]
+![Diagram of a comparator circuit showing inputs A and B entering an XOR gate which feeds a NOR gate yielding equality output](images/B1d-02-block-simple-comparator-circuit.png)
 
 ## Key terms
 

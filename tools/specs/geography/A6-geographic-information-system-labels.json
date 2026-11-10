@@ -2,43 +2,45 @@
  "A6-03-gis-map-scanning-digitizing": {
   "labels": [
    [
-    "Raster image output",
+    "Map Scanning",
     [
-     397,
-     223
+     335,
+     258
     ],
-    "T"
+    "L"
    ],
    [
-    "Digitizing tablet and puck",
+    "Raster image output",
     [
-     794,
-     564
+     805,
+     188
     ],
     "R"
    ],
    [
-    "Vector line output",
+    "Map Digitizing",
     [
-     620,
-     278
+     437,
+     828
     ],
-    "T"
-   ]
-  ],
-  "captions": [
-   [
-    "Map Scanning",
-    265,
-    901
+    "L"
    ],
    [
-    "Map Digitizing",
-    758,
-    931
+    "Digitizing tablet and puck",
+    [
+     433,
+     742
+    ],
+    "L"
+   ],
+   [
+    "Vector line output",
+    [
+     801,
+     677
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

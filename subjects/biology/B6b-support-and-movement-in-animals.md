@@ -474,7 +474,7 @@ Most vertebrae share the same basic plan:
    - The **flexible costal cartilages** and the **joints between the ribs and vertebrae** make these movements possible.
 3. **Support:** supports the chest wall and gives attachment to the muscles of the chest, back and shoulders (and the pectoral girdle).
 
-[IMAGE: Front view of the human rib cage showing the thoracic vertebrae at the back, 12 pairs of ribs curving round to the front, the sternum with manubrium, body and xiphoid process, the costal cartilages in pale blue joining the ribs to the sternum, and the two floating ribs at the bottom. Brackets mark true ribs (1 to 7), false ribs (8 to 10) and floating ribs (11 to 12). Add a small side inset showing the rib cage moving up and out during inspiration (arrows) with the diaphragm flattening. Labels: thoracic vertebra, rib, sternum, manubrium, body of sternum, xiphoid process, costal cartilage, true ribs, false ribs, floating ribs, intercostal muscles, diaphragm, ribs move up and out (inspiration). Clean flat textbook style, white background.]
+![Anatomical diagram of the human rib cage showing the sternum, thoracic vertebrae, costal cartilages, true, false, and floating ribs, with side view insets showing breathing mechanics.](images/B6b-08-human-rib-cage.png)
 
 ### The appendicular skeleton
 

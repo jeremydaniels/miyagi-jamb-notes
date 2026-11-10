@@ -1402,5 +1402,111 @@
     "R"
    ]
   ]
+ },
+ "B6b-08-human-rib-cage": {
+  "caption_below": "Ribs move up and out during inspiration.",
+  "regions": [
+   "true ribs",
+   "false ribs",
+   "floating ribs"
+  ],
+  "labels": [
+   [
+    "thoracic vertebra",
+    [
+     467,
+     677
+    ],
+    "L"
+   ],
+   [
+    "rib",
+    [
+     702,
+     437
+    ],
+    "R"
+   ],
+   [
+    "sternum",
+    [
+     465,
+     390
+    ],
+    "L"
+   ],
+   [
+    "manubrium",
+    [
+     472,
+     239
+    ],
+    "L"
+   ],
+   [
+    "body of sternum",
+    [
+     467,
+     391
+    ],
+    "L"
+   ],
+   [
+    "xiphoid process",
+    [
+     468,
+     546
+    ],
+    "L"
+   ],
+   [
+    "costal cartilage",
+    [
+     573,
+     564
+    ],
+    "R"
+   ],
+   [
+    "true ribs",
+    [
+     153,
+     352
+    ],
+    "L"
+   ],
+   [
+    "false ribs",
+    [
+     150,
+     685
+    ],
+    "L"
+   ],
+   [
+    "floating ribs",
+    [
+     153,
+     837
+    ],
+    "L"
+   ],
+   [
+    "intercostal muscles",
+    [
+     858,
+     186
+    ],
+    "R"
+   ],
+   [
+    "diaphragm",
+    [
+     883,
+     257
+    ],
+    "R"
+   ]
+  ]
  }
 }

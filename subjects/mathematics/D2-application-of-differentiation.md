@@ -49,7 +49,7 @@ Most real-world changes happen over time ($t$). For example, if a circular pool 
 To solve this, we link the rates together using the **Chain Rule**:
 $$\frac{dA}{dt} = \frac{dA}{dr} \times \frac{dr}{dt}$$
 
-[IMAGE: Three concentric circles representing expanding ripples on water. A straight line is drawn from the centre to the outermost edge, labelled 'r'. An outward-pointing arrow on the outer circle is labelled 'dr/dt' to show expansion. Clean flat textbook style, white background.]
+![Three concentric circular ripples with a radius line labelled r from the center to the outer edge, and an outward arrow labelled dr/dt showing expansion.](images/D2-01-expanding-ripples-geometry.png)
 
 **Example 2**
 The radius of a circular metal plate is increasing at a rate of $0.5 \text{ cm/s}$ when heated. Find the rate of increase of its area when the radius is $10 \text{ cm}$.
@@ -152,7 +152,7 @@ Once you find a stationary point, how do you know if it is a maximum or a minimu
 
 *Common mistake: Students often think "negative" means minimum and "positive" means maximum. It is the exact opposite! A negative second derivative means the gradient is decreasing (curving downwards like a frown), which creates a maximum peak.*
 
-[IMAGE: A graph plotted on Cartesian axes showing a smooth curve y = f(x). The curve rises to a peak (local maximum) and then falls to a valley (local minimum). At both the peak and the valley, horizontal dashed lines are drawn to represent the tangents. Labels indicate "Local Maximum, dy/dx = 0, d²y/dx² < 0" at the peak and "Local Minimum, dy/dx = 0, d²y/dx² > 0" at the valley. Clean flat textbook style, white background.]
+![A Cartesian graph of y equals f of x showing horizontal tangent lines and derivative conditions at a local maximum and a local minimum.](images/D2-02-curve-turning-points-graph.png)
 
 ### Finding maximum and minimum values
 
@@ -207,7 +207,7 @@ Optimization involves using maxima and minima to find the best possible outcome 
 **Example 8 (Maximizing Area)**
 A farmer in Kano has $40 \text{ m}$ of wire netting to enclose a rectangular pen against a solid straight wall. He only needs to fence three sides because the wall acts as the fourth side. Find the maximum area he can enclose.
 
-[IMAGE: A diagram showing a rectangular enclosure built against an existing straight wall. The straight wall forms one side of the rectangle. The opposite side is labelled 'y' and the two adjacent sides are labelled 'x'. The area inside is shaded. The text reads 'Total length of fence = 2x + y'. Clean flat textbook style, white background.]
+![Diagram of a rectangular enclosure built against an existing wall with sides labelled x and bottom side labelled y, showing total fence length equals 2x plus y.](images/D2-03-rectangular-enclosure-optimization.png)
 
 **Solution:**
 1. Let the two perpendicular sides be $x$ and the parallel side be $y$.

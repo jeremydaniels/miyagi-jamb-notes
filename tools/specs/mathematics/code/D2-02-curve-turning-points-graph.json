@@ -1,0 +1,123 @@
+{
+ "template": "graph",
+ "title": "Local Extrema and Second Derivative Test",
+ "x_label": "x",
+ "y_label": "y",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "y = f(x)",
+   "points": [
+    [
+     1,
+     2.8
+    ],
+    [
+     2,
+     5.8
+    ],
+    [
+     2.6,
+     7.3
+    ],
+    [
+     3.2,
+     7.5
+    ],
+    [
+     3.8,
+     7.3
+    ],
+    [
+     4.5,
+     6.2
+    ],
+    [
+     5.5,
+     4.0
+    ],
+    [
+     6.3,
+     2.2
+    ],
+    [
+     6.8,
+     2.0
+    ],
+    [
+     7.3,
+     2.2
+    ],
+    [
+     8.2,
+     3.5
+    ],
+    [
+     9,
+     6.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid"
+  },
+  {
+   "label": "Tangent at Maximum",
+   "points": [
+    [
+     2.0,
+     7.5
+    ],
+    [
+     4.4,
+     7.5
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed"
+  },
+  {
+   "label": "Tangent at Minimum",
+   "points": [
+    [
+     5.6,
+     2.0
+    ],
+    [
+     8.0,
+     2.0
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed"
+  }
+ ],
+ "points": [
+  {
+   "x": 3.2,
+   "y": 7.5,
+   "text": "Local Maximum",
+   "dx": 0,
+   "dy": 25
+  },
+  {
+   "x": 6.8,
+   "y": 2.0,
+   "text": "Local Minimum",
+   "dx": 0,
+   "dy": -25
+  }
+ ],
+ "notes": [
+  {
+   "x": 3.2,
+   "y": 8.3,
+   "text": "dy/dx = 0, d²y/dx² < 0"
+  },
+  {
+   "x": 6.8,
+   "y": 1.2,
+   "text": "dy/dx = 0, d²y/dx² > 0"
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+[
+ [
+  "D2-01-expanding-ripples-geometry",
+  "Three concentric circles representing expanding ripples on water. A straight line is drawn from the centre to the outermost edge, labelled 'r'. An outward-pointing arrow on the outer circle is labelled 'dr/dt' to show expansion."
+ ],
+ [
+  "D2-02-curve-turning-points-graph",
+  "A graph plotted on Cartesian axes showing a smooth curve y = f(x). The curve rises to a peak (local maximum) and then falls to a valley (local minimum). At both the peak and the valley, horizontal dashed lines are drawn to represent the tangents. Labels indicate \"Local Maximum, dy/dx = 0, d²y/dx² < 0\" at the peak and \"Local Minimum, dy/dx = 0, d²y/dx² > 0\" at the valley."
+ ],
+ [
+  "D2-03-rectangular-enclosure-optimization",
+  "A diagram showing a rectangular enclosure built against an existing straight wall. The straight wall forms one side of the rectangle. The opposite side is labelled 'y' and the two adjacent sides are labelled 'x'. The area inside is shaded. The text reads 'Total length of fence = 2x + y'."
+ ]
+]

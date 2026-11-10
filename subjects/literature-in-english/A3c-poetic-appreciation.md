@@ -44,7 +44,7 @@ If a short poem describes a greedy chief who hoards yams while his villagers sta
 *   **Subject matter:** A greedy chief losing his yams to a fire.
 *   **Thematic preoccupation:** The destructive nature of greed; the certainty of natural justice.
 
-[IMAGE: A flowchart showing the steps to finding a poem's theme. Top box: "Read the Poem (Literal Meaning)". Arrow down to: "Identify the Subject Matter (What is it about?)". Arrow down to: "Analyse Tone and Imagery (How does the poet feel?)". Final arrow pointing to a brightly coloured bottom box: "Deduce the Theme (The universal message)". Clean flat textbook style, white background with blue and green boxes.]
+![A four-step flowchart showing how to find a poem theme: read the poem, identify subject matter, analyse tone and imagery, and deduce the theme.](images/A3c-01-poetic-theme-deduction-flowchart.png)
 
 ## Appraising poetry as an art with moral values
 

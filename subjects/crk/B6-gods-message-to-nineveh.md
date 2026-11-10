@@ -51,7 +51,7 @@ They questioned him about his occupation, his origin, and his people. Jonah answ
 
 Terrified by this, the sailors asked him what they should do to calm the sea. Jonah told them to pick him up and throw him into the sea, acknowledging that the great storm was his fault.
 
-[IMAGE: A dramatic scene on a wooden ship tossing on giant blue-green waves during a dark, stormy day. Terrified sailors in ancient Middle Eastern clothing are desperately holding onto ropes. In the centre, a calm but resolute Jonah is being lifted by two sailors to be thrown over the side into the raging waters. Lightning flashes in the dark sky above. Clean flat textbook style, white background.]
+![Biblical scene of sailors on a storm-tossed wooden ship lifting Jonah to cast him into the sea as a great fish waits in the waves below.](images/B6-01-jonah-thrown-into-stormy.png)
 
 ### Jonah Thrown Overboard
 The sailors did not want to kill Jonah. They tried hard to row back to land, but the sea grew even more violent. Finally, they prayed to Jonah's God, begging Him not to hold them guilty of innocent blood. They then picked Jonah up and threw him into the sea. Immediately, the raging sea became totally calm. Witnessing this, the sailors feared the LORD exceedingly, offered a sacrifice to Him, and made vows.

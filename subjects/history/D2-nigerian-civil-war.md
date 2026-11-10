@@ -77,7 +77,7 @@ The events of 1966 and early 1967 were the direct triggers that led to the seces
 7. **The Declaration of Biafra (May 30, 1967):**
    Three days after the creation of states, Ojukwu, backed by the Eastern Region's Consultative Assembly, declared the Eastern Region an independent, sovereign state named the **Republic of Biafra**. The Federal Government rejected this, declaring it an act of rebellion.
 
-[IMAGE: Timeline diagram from 1914 to 1967. Left to right. 1914: Amalgamation. 1946-1951: Regional Constitutions. 1960: Independence. 1962-65: Census and Election Crises. Jan 15, 1966: First Military Coup. May 1966: Unification Decree. July 29, 1966: Counter-Coup. Jan 1967: Aburi Accord. May 27, 1967: Creation of 12 States. May 30, 1967: Declaration of Biafra. Clean flat textbook style, white background.]
+![Horizontal timeline from 1914 to 1967 depicting key events in Nigerian history from Amalgamation through independence and military coups to the Declaration of Biafra.](images/D2-01-timeline-civil-war.png)
 
 ## The Course of the War
 

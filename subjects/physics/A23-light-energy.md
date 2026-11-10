@@ -96,7 +96,7 @@ The type of shadow formed depends on the size of the light source:
 - **Point source of light:** A very tiny source of light. It produces a sharp, completely dark shadow called the **umbra**.
 - **Extended source of light:** A larger, wider source of light (like an electric bulb or the Sun). It produces a central completely dark region (the **umbra**) surrounded by a partially dark, fuzzy outer region called the **penumbra**.
 
-[IMAGE: Two side-by-side diagrams. Left diagram: A tiny point source of light, a solid black sphere, and a screen showing a single, sharp black circular shadow labeled "Umbra". Right diagram: A large extended source (a wide light bulb), a solid black sphere, and a screen showing a dark central circle labeled "Umbra" surrounded by a lighter grey outer ring labeled "Penumbra". Clean flat textbook illustration, white background.]
+![Diagram comparing shadows from a point source forming only an umbra against an extended light source producing a central umbra surrounded by a penumbra.](images/A23-01-umbra-penumbra-shadow.png)
 
 #### Eclipses
 
@@ -108,7 +108,7 @@ This happens when the **Moon** comes directly between the **Sun** and the **Eart
 - People in the **penumbra** experience a **partial solar eclipse** (only part of the Sun is blocked).
 - Sometimes, the Moon is farther away from Earth in its orbit, so its umbra cone does not quite reach the Earth's surface. Observers directly underneath see an **annular eclipse**, where a bright ring (annulus) of the Sun is visible around the dark Moon.
 
-[IMAGE: Diagram of a solar eclipse. The bright Sun on the left, the small Moon in the middle, and the Earth on the right in a straight line. Light rays from the top and bottom of the Sun touch the edges of the Moon and form a dark, narrowing cone (umbra) that reaches a tiny spot on the Earth, and a lighter diverging region (penumbra) covering a larger area of the Earth. Labels: "Sun", "Moon", "Earth", "Umbra (Total eclipse)", "Penumbra (Partial eclipse)". Clean flat textbook style, white background.]
+![Textbook diagram of a solar eclipse showing the Moon casting a narrowing umbra cone and diverging penumbra onto Earth from the Sun.](images/A23-02-solar-eclipse-geometry.png)
 
 **2. Eclipse of the Moon (Lunar Eclipse)**
 This happens when the **Earth** comes directly between the **Sun** and the **Moon** ($S - E - M$). The Earth prevents sunlight from reaching the Moon by casting its massive shadow onto it. A total lunar eclipse occurs when the Moon passes entirely into the Earth's umbra.

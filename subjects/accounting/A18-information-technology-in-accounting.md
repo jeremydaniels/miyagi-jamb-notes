@@ -40,7 +40,7 @@ Here is a summary of the differences:
 | **Data storage** | Physical filing cabinets and shelves (takes up space, can be lost in a fire) | Digital storage on hard drives or the cloud (compact, easily backed up, and secure) |
 | **Cost** | Low setup cost (just buying books and stationery) | High initial cost (buying computers, software licenses, and training staff) |
 
-[IMAGE: Split illustration contrasting manual and computerized accounting. Left half: a wooden desk with huge physical ledger books, a calculator, a pen, and paper receipts scattered around. Right half: a neat desk with a modern computer monitor showing a colorful dashboard with charts, and a smartphone displaying a banking app. Labels to add later: "Manual Accounting", "Physical ledgers and calculators", "Computerized Accounting", "Digital dashboard and software". Clean flat textbook style, white background.]
+![A split comparison contrasting a cluttered wooden desk with paper ledgers, receipts, and an adding machine against a modern clean desk with a computer dashboard and smartphone.](images/A18-01-accounting-methods-comparison-scene.png)
 
 ### Advantages and disadvantages of computerized accounting processing systems
 

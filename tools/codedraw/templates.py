@@ -56,8 +56,11 @@ def txt_size(s, pt=MIN_PT, weight="medium"):
     r = measure(fig, s, pt, weight); plt.close(fig); return r
 
 
-def finish(fig, out):
-    fig.savefig(out, facecolor="white", dpi=150)
+def finish(fig, out, tight=False):
+    if tight:
+        fig.savefig(out, facecolor="white", dpi=150, bbox_inches="tight", pad_inches=0.3)
+    else:
+        fig.savefig(out, facecolor="white", dpi=150)
     plt.close(fig)
 
 
@@ -293,11 +296,11 @@ def graph(spec, out):
     for s in ("top", "right"): ax.spines[s].set_visible(False)
     for s in ("left", "bottom"): ax.spines[s].set_linewidth(2.4); ax.spines[s].set_color(INK)
     ax.set_xticks([]); ax.set_yticks([])
-    ax.set_xlabel(spec.get("x_label", ""), fontsize=MIN_PT + 2, color=INK, loc="right")
+    ax.set_xlabel(spec.get("x_label", ""), fontsize=MIN_PT + 2, color=INK, loc="right", labelpad=34)
     ax.set_ylabel(spec.get("y_label", ""), fontsize=MIN_PT + 2, color=INK, loc="top", rotation=0, labelpad=10)
     ax.plot(1, 0, ">k", transform=ax.transAxes, clip_on=False, ms=9); ax.plot(0, 1, "^k", transform=ax.transAxes, clip_on=False, ms=9)
     if spec.get("title"): fig.suptitle(spec["title"], fontsize=TITLE_PT, fontweight="semibold", color=INK, y=0.97)
-    texts = []
+    texts = []; curves = []
     for sh in spec.get("shades", []):
         ax.add_patch(Polygon(sh["polygon"], closed=True, fc=col(sh.get("color"), "#c8e6c9"), ec="none", alpha=0.7, zorder=1))
         if sh.get("text"):
@@ -307,7 +310,7 @@ def graph(spec, out):
     for k, s in enumerate(spec.get("series", [])):
         pts = s["points"]; c = col(s.get("color"), palette[k % 5]) if s.get("color") else palette[k % 5]
         x, y = _spline(pts) if s.get("smooth", True) and len(pts) > 2 else (np.array([p[0] for p in pts]), np.array([p[1] for p in pts]))
-        ax.plot(x, y, color=c, lw=3.4, ls="--" if s.get("style") == "dashed" else "-", zorder=3, solid_capstyle="round")
+        ax.plot(x, y, color=c, lw=3.4, ls="--" if s.get("style") == "dashed" else "-", zorder=3, solid_capstyle="round"); curves.append((x, y))
         if s.get("label"):
             at = s.get("label_at", "end"); i = {"end": -1, "start": 0, "mid": len(x) // 2}[at]
             ha = {"end": "left", "start": "right", "mid": "center"}[at]
@@ -317,6 +320,7 @@ def graph(spec, out):
     for gd in spec.get("guides", []):
         gx, gy = gd.get("x"), gd.get("y")
         if gx is not None and gy is not None:
+            curves.append((np.array([gx, gx]), np.array([0, gy]))); curves.append((np.array([0, gx]), np.array([gy, gy])))
             ax.plot([gx, gx], [0, gy], color="#7a8190", ls=(0, (5, 4)), lw=2, zorder=2); ax.plot([0, gx], [gy, gy], color="#7a8190", ls=(0, (5, 4)), lw=2, zorder=2)
             ax.plot([gx], [gy], "o", color=INK, ms=9, zorder=5)
         elif gx is not None:
@@ -338,8 +342,35 @@ def graph(spec, out):
                                  bbox=dict(fc="white", ec="none", pad=1.2, alpha=0.9)))
     for nt in spec.get("notes", []):
         texts.append(ax.text(nt["x"], nt["y"], W(nt["text"], 18), fontsize=MIN_PT, color=INK, ha="center", va="center", zorder=6, bbox=dict(fc="white", ec="none", pad=1.2, alpha=0.9)))
-    declutter(fig, texts, ax)
-    finish(fig, out)
+    avoid_placement(fig, ax, texts, curves)
+    finish(fig, out, tight=True)
+
+
+def avoid_placement(fig, ax, texts, curves):
+    """Move each label to the nearby spot that overlaps no curve, guide line or other label (and stays inside the axes)."""
+    r = fig.canvas.get_renderer(); fig.canvas.draw()
+    pts = []
+    for x, y in curves:
+        x, y = np.asarray(x, float), np.asarray(y, float)
+        xs = np.concatenate([np.linspace(x[i], x[i + 1], 25) for i in range(len(x) - 1)]); ys = np.concatenate([np.linspace(y[i], y[i + 1], 25) for i in range(len(y) - 1)])
+        pts.append(ax.transData.transform(np.c_[xs, ys]))
+    P = np.vstack(pts) if pts else np.zeros((0, 2))
+    axbb = ax.get_window_extent(r)
+    placed = []
+    cand = [(0, 0)] + [(dx, dy) for rad in (14, 28, 46, 70, 100, 140) for dx, dy in ((rad, 0), (-rad, 0), (0, rad), (0, -rad), (rad, rad), (-rad, rad), (rad, -rad), (-rad, -rad))]
+    for t in texts:
+        x0, y0 = t.get_position(); base = ax.transData.transform((x0, y0)); best = None
+        for dx, dy in cand:
+            t.set_position(ax.transData.inverted().transform(base + np.array([dx, dy])))
+            bb = t.get_window_extent(r).expanded(1.06, 1.18)
+            hit = int(((P[:, 0] > bb.x0) & (P[:, 0] < bb.x1) & (P[:, 1] > bb.y0) & (P[:, 1] < bb.y1)).sum()) if len(P) else 0
+            ov = sum(1 for o in placed if bb.overlaps(o))
+            outside = (bb.x0 < axbb.x0 - 60) + (bb.x1 > axbb.x1 + 40) + (bb.y1 > axbb.y1 + 30) + (bb.y0 < axbb.y0 - 60)
+            sc = hit * 3 + ov * 400 + outside * 400 + (abs(dx) + abs(dy)) * 0.2
+            if best is None or sc < best[0]: best = (sc, dx, dy)
+            if hit == 0 and ov == 0 and not outside: break
+        t.set_position(ax.transData.inverted().transform(base + np.array([best[1], best[2]])))
+        placed.append(t.get_window_extent(r).expanded(1.06, 1.18))
 
 
 # ---------------------------------------------------------------- chart (bar / pie / stacked)
@@ -355,7 +386,7 @@ def chart(spec, out):
             ang = math.radians((wedge.theta1 + wedge.theta2) / 2)
             ax.text(1.18 * math.cos(ang), 1.18 * math.sin(ang), W(f"{c}\n{v:g}{spec.get('unit', '%')}" if spec.get("values_shown", True) else c, 14), ha="center", va="center", fontsize=MIN_PT + 1, color=INK)
         ax.set_xlim(-1.7, 1.7); ax.set_ylim(-1.5, 1.5)
-        finish(fig, out); return
+        finish(fig, out, tight=True); return
     ax = fig.add_axes([0.13, 0.16, 0.82, 0.70])
     for s in ("top", "right"): ax.spines[s].set_visible(False)
     for s in ("left", "bottom"): ax.spines[s].set_linewidth(2); ax.spines[s].set_color(INK)
@@ -382,7 +413,7 @@ def chart(spec, out):
         ax.set_yticks(idx); ax.set_yticklabels([W(c, 14) for c in cats]); ax.invert_yaxis()
     ax.set_xlabel(spec.get("x_label", ""), fontsize=MIN_PT + 1, color=INK); ax.set_ylabel(spec.get("y_label", ""), fontsize=MIN_PT + 1, color=INK)
     if ns > 1: ax.legend(fontsize=MIN_PT, frameon=False, loc="lower left", bbox_to_anchor=(0, 1.0), ncol=ns)
-    finish(fig, out)
+    finish(fig, out, tight=True)
 
 
 # ---------------------------------------------------------------- table

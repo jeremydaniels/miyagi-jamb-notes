@@ -216,16 +216,19 @@ def gen_standard(job, model, prompt):
     return cost
 
 
-BATCH_REG = os.path.join(WORK, "batches.json")
+
+
+def _reg_path():
+    return os.path.join(WORK, f"batches-{SUBJECT}.json")          # one registry per subject, so parallel runs never touch each other's batches
 
 
 def _reg():
-    return json.load(open(BATCH_REG)) if os.path.exists(BATCH_REG) else {}
+    return json.load(open(_reg_path())) if os.path.exists(_reg_path()) else {}
 
 
 def _reg_save(r):
     with LOCK:
-        json.dump(r, open(BATCH_REG, "w"), indent=1)
+        json.dump(r, open(_reg_path(), "w"), indent=1)
 
 
 def _consume(resp, names, model):
@@ -663,6 +666,7 @@ def main():
     ap.add_argument("--only", nargs="*", help="only these image names")
     ap.add_argument("--accept", nargs="*", default=[], help="names of raw images accepted after I looked at them")
     ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
+    ap.add_argument("--retry-failed", choices=["code", "ai", "all"], help="reset failed jobs of this kind to pending and run them again (new generation, new tries)")
     a = ap.parse_args()
     ACCEPT.update(a.accept)
     global SUBJECT, SUBJ
@@ -672,6 +676,13 @@ def main():
     if a.no_code: jobs = [j for j in jobs if not j["code"]]
     if a.no_ai: jobs = [j for j in jobs if j["code"]]
     if a.limit: jobs = jobs[: a.limit]
+    if a.retry_failed:
+        for j in jobs:
+            st = load_state(j)
+            if st["status"] == "failed" and (a.retry_failed == "all" or (a.retry_failed == "code") == j["code"]):
+                for p in (os.path.join(RAW, j["name"] + ".png"),):
+                    if os.path.exists(p): os.remove(p)
+                save_state(j, {"status": "pending", "cost_note": 0, "retry": st.get("retry", 0) + 1})
     if a.status:
         c = {}
         for j in jobs: c[load_state(j)["status"]] = c.get(load_state(j)["status"], 0) + 1

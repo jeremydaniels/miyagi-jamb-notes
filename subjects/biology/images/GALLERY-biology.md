@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**353 images** from Sections B to E.
+**421 images placed.** 30 placeholders are still in the notes (listed at the end).
 
 
 ## B1-internal-structure
@@ -50,6 +50,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Anatomical diagram of the male mammalian urogenital system showing kidneys, ureters, bladder, urethra, testes with epididymis inside scrotal sacs, vas deferens, and accessory glands.](B1-13-male-rabbit-reproductive-system.png)
 
 *Anatomical diagram of the male mammalian urogenital system showing kidneys, ureters, bladder, urethra, testes with epididymis inside scrotal sacs, vas deferens, and accessory glands.*
+
+![Diagram comparing the female reproductive and urinary system of a rabbit showing duplex uterus, kidneys, bladder, and rectum with an inset of the human female reproductive system.](B1-14-female-rabbit-reproductive-system.png)
+
+*Diagram comparing the female reproductive and urinary system of a rabbit showing duplex uterus, kidneys, bladder, and rectum with an inset of the human female reproductive system.*
 
 
 ## B2a-modes-and-types-of-nutrition
@@ -109,6 +113,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a whole plant showing photosynthesis inputs and outputs, with sunlight, stomata gas exchange, xylem water transport from roots, and phloem sugar transport to roots and fruit.*
 
+![Diagram of photosynthesis showing light reactions in the thylakoid grana producing ATP and reduced NADP, which feed into the stroma Calvin cycle producing triose phosphate, glucose, and starch.](B2b-03-photosynthesis-stages-schematic.png)
+
+*Diagram of photosynthesis showing light reactions in the thylakoid grana producing ATP and reduced NADP, which feed into the stroma Calvin cycle producing triose phosphate, glucose, and starch.*
+
 ![Line graph showing rate of photosynthesis against light intensity across three temperature and carbon dioxide conditions, indicating light and other limiting factors along the lowest curve.](B2b-04-photosynthesis-rate-line-graph.png)
 
 *Line graph showing rate of photosynthesis against light intensity across three temperature and carbon dioxide conditions, indicating light and other limiting factors along the lowest curve.*
@@ -128,6 +136,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing photosynthesis apparatus with pondweed under an inverted funnel and test tube collecting gas in sunlight, with an inset of a splint relighting.](B2b-08-oxygen-production-photosynthesis-experiment.png)
 
 *Diagram showing photosynthesis apparatus with pondweed under an inverted funnel and test tube collecting gas in sunlight, with an inset of a splint relighting.*
+
+![Six-step diagram of the iodine test for starch in a leaf, showing boiling, ethanol decolorisation, rinsing, placing on a white tile, and adding iodine.](B2b-09-starch-test-leaf-steps.png)
+
+*Six-step diagram of the iodine test for starch in a leaf, showing boiling, ethanol decolorisation, rinsing, placing on a white tile, and adding iodine.*
 
 ![Diagram showing soil nitrification with decaying matter, Nitrosomonas, and Nitrobacter bacteria releasing energy, nitrate entering plant roots, and an inset showing chemosynthesis producing sugar.](B2b-10-chemosynthesis-soil-bacteria.png)
 
@@ -191,6 +203,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Illustration of protein tests showing a Biuret test with purple and blue tubes beside a dropper bottle, and Millons test in a water bath showing brick-red precipitate.](B2c-13-protein-biuret-millons-tests.png)
 
 *Illustration of protein tests showing a Biuret test with purple and blue tubes beside a dropper bottle, and Millons test in a water bath showing brick-red precipitate.*
+
+![Three tests for lipids: a test tube with red oil layer, filter paper showing grease spots, and test tubes comparing cloudy emulsion to clear control.](B2c-14-lipid-food-tests-results.png)
+
+*Three tests for lipids: a test tube with red oil layer, filter paper showing grease spots, and test tubes comparing cloudy emulsion to clear control.*
 
 ![An experiment showing two test tubes in a water bath with a thermometer, alongside small results tubes showing iodine and Benedict test results.](B2c-15-salivary-amylase-digestion-experiment.png)
 
@@ -258,9 +274,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram illustrating the lock-and-key model of enzyme action across four sequential stages, alongside a separate panel demonstrating how denaturation prevents substrate binding.*
 
+![A diagram of four test tubes in a heated water bath with a thermometer, showing one tube clear and three tubes containing cloudy white liquid.](B2e-09-pepsin-ph-experiment-tubes.png)
+
+*A diagram of four test tubes in a heated water bath with a thermometer, showing one tube clear and three tubes containing cloudy white liquid.*
+
 ![Diagram showing carbohydrate digestion along the alimentary canal, detailing enzymes and chemical reactions in the mouth, stomach, duodenum, and ileum leading to glucose absorption into blood.](B2e-10-carbohydrate-digestion-flowchart.png)
 
 *Diagram showing carbohydrate digestion along the alimentary canal, detailing enzymes and chemical reactions in the mouth, stomach, duodenum, and ileum leading to glucose absorption into blood.*
+
+![Diagram showing the absorption pathways of nutrients from an intestinal villus via blood vessels to the liver and heart and via a lacteal to the thoracic duct.](B2e-11-nutrient-absorption-pathway.png)
+
+*Diagram showing the absorption pathways of nutrients from an intestinal villus via blood vessels to the liver and heart and via a lacteal to the thoracic duct.*
 
 ![Diagram showing the four chambers of a ruminant stomach including the rumen with microbes, reticulum with honeycomb lining, omasum with leaf-like folds, and abomasum leading to the intestine.](B2e-12-ruminant-stomach-chambers.png)
 
@@ -272,6 +296,18 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram comparing surface area to volume ratios of three cubes with oxygen diffusion in a single-celled amoeba versus a larger multicellular organism.](B3a-01-surface-area-volume-cubes.png)
 
 *Diagram comparing surface area to volume ratios of three cubes with oxygen diffusion in a single-celled amoeba versus a larger multicellular organism.*
+
+![A beaker of dilute acid containing three pink agar cubes of different sizes beside three cubes cut to show diffusion: small fully colourless, medium and large with pink centres.](B3a-02-agar-cube-diffusion-experiment.png)
+
+*A beaker of dilute acid containing three pink agar cubes of different sizes beside three cubes cut to show diffusion: small fully colourless, medium and large with pink centres.*
+
+![Diagram of mammalian double circulation showing pulmonary and systemic circuits connecting the four heart chambers with the lungs and body organs, with arrows indicating blood flow.](B3a-03-double-circulatory-system-schematic.png)
+
+*Diagram of mammalian double circulation showing pulmonary and systemic circuits connecting the four heart chambers with the lungs and body organs, with arrows indicating blood flow.*
+
+![Diagram comparing fish single circulation and mammalian double circulation, showing blood flow between heart chambers, respiratory organs, and the body.](B3a-04-single-versus-double-circulation.png)
+
+*Diagram comparing fish single circulation and mammalian double circulation, showing blood flow between heart chambers, respiratory organs, and the body.*
 
 ![Diagram of a longitudinal section of the mammalian heart showing the four chambers, valves, septum, major vessels, and direction of blood flow.](B3a-05-mammalian-heart-internal-section.png)
 
@@ -297,6 +333,18 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Cross-sectional diagrams of an artery with thick walls, a vein with a wider lumen and thinner walls, and a capillary containing a single red blood cell.*
 
+![Simplified diagram of the human circulatory system showing major organs including the heart, lungs, liver, stomach, intestines, and kidneys, along with major arteries and veins.](B3a-11-systemic-blood-circulation-schematic.png)
+
+*Simplified diagram of the human circulatory system showing major organs including the heart, lungs, liver, stomach, intestines, and kidneys, along with major arteries and veins.*
+
+![Diagram showing circulation between the liver, kidneys, and small intestine with aorta, inferior vena cava, renal vessels, and hepatic portal vein.](B3a-12-hepatic-portal-circulation-schematic.png)
+
+*Diagram showing circulation between the liver, kidneys, and small intestine with aorta, inferior vena cava, renal vessels, and hepatic portal vein.*
+
+![Diagram showing centrifuged blood in a test tube separated into plasma, buffy coat, and red blood cells alongside a pie chart illustrating overall blood composition.](B3a-13-centrifuged-blood-composition-chart.png)
+
+*Diagram showing centrifuged blood in a test tube separated into plasma, buffy coat, and red blood cells alongside a pie chart illustrating overall blood composition.*
+
 ![Diagram of blood clotting cascade showing vessel injury with platelet plug formation, chemical cascade converting prothrombin to thrombin and fibrinogen to fibrin, and resulting fibrin mesh trapping red blood cells.](B3a-14-blood-clotting-cascade-flowchart.png)
 
 *Diagram of blood clotting cascade showing vessel injury with platelet plug formation, chemical cascade converting prothrombin to thrombin and fibrinogen to fibrin, and resulting fibrin mesh trapping red blood cells.*
@@ -308,6 +356,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing the human lymphatic system with lymph vessels, nodes, spleen, thymus, tonsils, and an inset of a lymph node and lymphatic valve.](B3a-16-human-lymphatic-system-anatomy.png)
 
 *Diagram showing the human lymphatic system with lymph vessels, nodes, spleen, thymus, tonsils, and an inset of a lymph node and lymphatic valve.*
+
+![Longitudinal diagram of an insect body displaying the open circulatory system, including the dorsal tubular heart, aorta extending to the head, haemocoel, and digestive tract.](B3a-17-cockroach-open-circulatory-system.png)
+
+*Longitudinal diagram of an insect body displaying the open circulatory system, including the dorsal tubular heart, aorta extending to the head, haemocoel, and digestive tract.*
 
 ![Diagram of an earthworms closed circulatory system showing dorsal and ventral blood vessels, five aortic arches looping around the digestive tract, and body wall capillaries.](B3a-18-earthworm-closed-circulatory-system.png)
 
@@ -379,6 +431,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a respiratory surface showing an external environment on the left, a folded thin cell layer lined with moisture, and a blood capillary containing red blood cells.*
 
+![Diagram comparing gas exchange in an amoeba surrounded by water with gas exchange across the vascularized moist skin of an earthworm.](B4a-02-amoeba-earthworm-respiration.png)
+
+*Diagram comparing gas exchange in an amoeba surrounded by water with gas exchange across the vascularized moist skin of an earthworm.*
+
 ![Diagram showing a fish head with gills exposed and water flow arrows, alongside an enlarged gill arch with rakers, filaments, and an inset of countercurrent exchange.](B4a-03-fish-gill-structure-countercurrent.png)
 
 *Diagram showing a fish head with gills exposed and water flow arrows, alongside an enlarged gill arch with rakers, filaments, and an inset of countercurrent exchange.*
@@ -419,6 +475,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing the bell jar lung model with inflated balloons when the rubber diaphragm is pulled down and deflated balloons when pushed up.*
 
+![Cross section of an alveolus wrapped by a pulmonary capillary, showing single-cell thick walls, red blood cells in plasma transitioning from blue to red, and gas exchange.](B4a-14-alveolus-gas-exchange-capillary.png)
+
+*Cross section of an alveolus wrapped by a pulmonary capillary, showing single-cell thick walls, red blood cells in plasma transitioning from blue to red, and gas exchange.*
+
 
 ## B4b-cellular-respiration
 
@@ -430,13 +490,29 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Flow diagram of glycolysis in the cytoplasm converting glucose to two pyruvic acid molecules, yielding two NADH with a net gain of two ATP.*
 
+![Diagram showing the link reaction and Krebs cycle in the mitochondrial matrix, detailing carbon counts and the release of carbon dioxide, NADH, FADH2, and ATP.](B4b-03-krebs-citric-acid-cycle.png)
+
+*Diagram showing the link reaction and Krebs cycle in the mitochondrial matrix, detailing carbon counts and the release of carbon dioxide, NADH, FADH2, and ATP.*
+
 ![A cut-away diagram of a mitochondrion showing outer membrane, cristae, and matrix, with a circular inset illustrating carrier proteins and the electron transport chain.](B4b-04-mitochondrion-electron-transport-chain.png)
 
 *A cut-away diagram of a mitochondrion showing outer membrane, cristae, and matrix, with a circular inset illustrating carrier proteins and the electron transport chain.*
 
+![Diagram showing aerobic respiration across cytoplasm and mitochondrion: glycolysis, link reaction, Krebs cycle, and electron transport chain, yielding a total of 38 ATP.](B4b-05-aerobic-cellular-respiration-overview.png)
+
+*Diagram showing aerobic respiration across cytoplasm and mitochondrion: glycolysis, link reaction, Krebs cycle, and electron transport chain, yielding a total of 38 ATP.*
+
+![Flowchart showing glucose undergoing glycolysis to form pyruvic acid, which branches into aerobic respiration in mitochondria, anaerobic fermentation in yeast, and lactic acid fermentation in muscle.](B4b-06-pyruvic-acid-fate-branching.png)
+
+*Flowchart showing glucose undergoing glycolysis to form pyruvic acid, which branches into aerobic respiration in mitochondria, anaerobic fermentation in yeast, and lactic acid fermentation in muscle.*
+
 ![Line graph showing oxygen uptake before, during, and after exercise, highlighting oxygen deficit at the start of exercise and oxygen debt repaid during recovery.](B4b-07-oxygen-deficit-exercise-line.png)
 
 *Line graph showing oxygen uptake before, during, and after exercise, highlighting oxygen deficit at the start of exercise and oxygen debt repaid during recovery.*
+
+![An experimental setup demonstrating carbon dioxide production in plant respiration, featuring flasks with solutions, a covered bell jar with a plant, and an aspirator connected in series.](B4b-08-plant-respiration-carbon-dioxide.png)
+
+*An experimental setup demonstrating carbon dioxide production in plant respiration, featuring flasks with solutions, a covered bell jar with a plant, and an aspirator connected in series.*
 
 ![Illustration of a student using a T-tube apparatus connected to two test tubes of limewater to compare inhaled and exhaled air.](B4b-09-exhaled-air-limewater-breathing.png)
 
@@ -445,6 +521,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Two inverted vacuum flasks on stands containing germinating seeds and boiled seeds, with thermometers showing higher temperature in the germinating seed flask.](B4b-10-germinating-seeds-heat-production.png)
 
 *Two inverted vacuum flasks on stands containing germinating seeds and boiled seeds, with thermometers showing higher temperature in the germinating seed flask.*
+
+![A simple respirometer setup showing two boiling tubes in a water bath, one with germinating seeds and moving droplet, the other with glass beads as a control.](B4b-11-simple-respirometer-germinating-seeds.png)
+
+*A simple respirometer setup showing two boiling tubes in a water bath, one with germinating seeds and moving droplet, the other with glass beads as a control.*
 
 ![An experiment comparing yeast fermentation in a warm water bath to a boiled yeast control, showing gas production and cloudy limewater on the active side.](B4b-12-yeast-anaerobic-fermentation-experiment.png)
 
@@ -481,9 +561,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a kidney nephron with blood vessels and collecting duct separated by a dashed boundary line representing cortex and medulla.*
 
+![Flow diagram showing urine formation along a nephron, detailing ultrafiltration, selective reabsorption, and water reabsorption under ADH regulation, resulting in urine delivered to the pelvis.](B5-09-urine-formation-schematic-flowchart.png)
+
+*Flow diagram showing urine formation along a nephron, detailing ultrafiltration, selective reabsorption, and water reabsorption under ADH regulation, resulting in urine delivered to the pelvis.*
+
 ![A negative feedback diagram showing the regulation of blood water content by ADH, with contrasting loops for dehydration and overhydration alongside anatomical illustrations.](B5-10-adh-negative-feedback-loop.png)
 
 *A negative feedback diagram showing the regulation of blood water content by ADH, with contrasting loops for dehydration and overhydration alongside anatomical illustrations.*
+
+![Diagram comparing inhaled and exhaled air using two boiling tubes of limewater in a rack connected by delivery tubes to a single Y-shaped mouthpiece.](B5-11-inhaled-exhaled-air-apparatus.png)
+
+*Diagram comparing inhaled and exhaled air using two boiling tubes of limewater in a rack connected by delivery tubes to a single Y-shaped mouthpiece.*
 
 ![Diagram of human skin cross section showing epidermis, dermis, and subcutaneous fat layers, along with a hair follicle, sweat gland, erector muscle, nerve endings, and blood vessels.](B5-12-human-skin-cross-section.png)
 
@@ -536,9 +624,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing phototaxis in Chlamydomonas swimming toward a light source and chemotaxis of plant sperm swimming toward the open neck of an archegonium.*
 
+![Comparison of day and night leaf positions in Bauhinia, flamboyant, and Mimosa pudica plants across six panels, with an inset showing an enlarged pulvinus.](B6a-11-nyctinastic-plant-movements.png)
+
+*Comparison of day and night leaf positions in Bauhinia, flamboyant, and Mimosa pudica plants across six panels, with an inset showing an enlarged pulvinus.*
+
 ![Longitudinal diagram of a plant root tip showing the root cap, cell division zone with mitotic stages, elongation zone, and maturation zone with root hairs and vascular tissues.](B6a-12-root-tip-longitudinal-section.png)
 
 *Longitudinal diagram of a plant root tip showing the root cap, cell division zone with mitotic stages, elongation zone, and maturation zone with root hairs and vascular tissues.*
+
+![Diagram comparing a germinating bean radicle marked with evenly spaced lines at the start and after growth showing elongation just behind the root tip.](B6a-13-root-growth-marking-experiment.png)
+
+*Diagram comparing a germinating bean radicle marked with evenly spaced lines at the start and after growth showing elongation just behind the root tip.*
 
 ![Longitudinal diagram of a plant shoot apex showing the apical meristem dome, leaf primordia, developing vascular strands, and distinct cellular growth zones along the stem.](B6a-14-shoot-tip-longitudinal-section.png)
 
@@ -551,6 +647,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing geotropism in a horizontally oriented bean seedling, illustrating auxin distribution and differential cell elongation in the root and shoot.](B6a-16-auxin-geotropism-response.png)
 
 *Diagram showing geotropism in a horizontally oriented bean seedling, illustrating auxin distribution and differential cell elongation in the root and shoot.*
+
+![A graph showing plant growth response to increasing auxin concentration, with separate curves illustrating stimulation and inhibition for root and shoot growth relative to a baseline.](B6a-17-auxin-concentration-response-curve.png)
+
+*A graph showing plant growth response to increasing auxin concentration, with separate curves illustrating stimulation and inhibition for root and shoot growth relative to a baseline.*
 
 
 ## B6b-support-and-movement-in-animals
@@ -571,9 +671,21 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Side view illustration of a human skull with color-coded cranial bones, sutures, orbit, zygomatic arch, mandible, teeth, and visible foramen magnum and occipital condyles at the base.*
 
+![Lateral view of the human vertebral column showing the cervical, thoracic, lumbar, sacral, and coccygeal regions with intervertebral discs beneath the skull outline.](B6b-05-human-vertebral-column.png)
+
+*Lateral view of the human vertebral column showing the cervical, thoracic, lumbar, sacral, and coccygeal regions with intervertebral discs beneath the skull outline.*
+
+![Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.](B6b-06-cervical-vertebrae-comparison.png)
+
+*Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.*
+
 ![Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.](B6b-07-mammalian-vertebrae-comparison.png)
 
 *Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.*
+
+![Anatomical comparison of the human pectoral girdle and upper limb on the left with the pelvic girdle and lower limb on the right.](B6b-09-pectoral-pelvic-girdles.png)
+
+*Anatomical comparison of the human pectoral girdle and upper limb on the left with the pelvic girdle and lower limb on the right.*
 
 ![A diagram of a longitudinal section through a synovial joint showing bones, articular cartilage, joint cavity with synovial fluid, capsule, ligaments, muscle, and tendon.](B6b-10-synovial-joint-cross-section.png)
 
@@ -673,9 +785,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Side-by-side comparison of an insect-pollinated flower with bright petals and a visiting bee, next to a wind-pollinated grass spikelet with feathery stigmas and dangling anthers.*
 
+![Cross-sectional diagrams of pin-eyed and thrum-eyed primrose flowers showing differing heights of stigmas and anthers, with dotted arrows illustrating cross-pollination between matching levels.](B7b-10-heterostyly-primrose-flowers.png)
+
+*Cross-sectional diagrams of pin-eyed and thrum-eyed primrose flowers showing differing heights of stigmas and anthers, with dotted arrows illustrating cross-pollination between matching levels.*
+
 ![Diagram of a carpel in longitudinal section showing a pollen tube delivering male nuclei to an ovule for double fertilisation.](B7b-11-double-fertilisation-angiosperms.png)
 
 *Diagram of a carpel in longitudinal section showing a pollen tube delivering male nuclei to an ovule for double fertilisation.*
+
+![Cross sections of four fleshy fruits in a row including a tomato, an orange, a mango cut lengthwise, and a coconut cut lengthwise.](B7b-13-fleshy-fruit-sections-comparison.png)
+
+*Cross sections of four fleshy fruits in a row including a tomato, an orange, a mango cut lengthwise, and a coconut cut lengthwise.*
 
 ![Diagram comparing three fruit types showing whole and sectioned soursop, whole and sectioned pineapple, and a sectioned pawpaw displaying internal seeds.](B7b-14-fruit-classification-comparison.png)
 
@@ -712,6 +832,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of human female reproductive tract showing ovulation from the ovary, fertilization in the fallopian tube, cleavage stages, blastocyst development, and implantation in the uterine wall.*
 
+![Cross section of a pregnant uterus showing a head-down fetus in the amniotic sac, placenta, umbilical cord, cervix, and a circular inset of chorionic villi.](B7c-07-foetus-pregnant-uterus.png)
+
+*Cross section of a pregnant uterus showing a head-down fetus in the amniotic sac, placenta, umbilical cord, cervix, and a circular inset of chorionic villi.*
+
 ![Six-step diagram of in vitro fertilisation showing hormone injection, egg retrieval, sperm preparation, fertilisation in a dish, embryo cleavage stages, and embryo transfer into the uterus.](B7c-08-vitro-fertilisation-steps.png)
 
 *Six-step diagram of in vitro fertilisation showing hormone injection, egg retrieval, sperm preparation, fertilisation in a dish, embryo cleavage stages, and embryo transfer into the uterus.*
@@ -730,6 +854,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Two graphs comparing continuous human growth with a sigmoidal curve from birth to adulthood against stepwise insect growth with flat intervals and rapid rises during moulting.](B8-03-human-vs-insect-growth.png)
 
 *Two graphs comparing continuous human growth with a sigmoidal curve from birth to adulthood against stepwise insect growth with flat intervals and rapid rises during moulting.*
+
+![Line graph showing fresh mass steadily increasing and dry mass dipping until day seven before rising as germination and photosynthesis occur.](B8-04-seed-germination-mass-change.png)
+
+*Line graph showing fresh mass steadily increasing and dry mass dipping until day seven before rising as germination and photosynthesis occur.*
 
 ![Three diagrams showing the external view of a kidney bean, an opened bean revealing the embryo axis on a cotyledon, and an isolated embryo axis.](B8-05-bean-seed-anatomy.png)
 
@@ -755,12 +883,20 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A diagram comparing epigeal germination on the left with cotyledons above ground, and hypogeal germination on the right with cotyledons remaining beneath the soil line.*
 
+![Diagram of food mobilisation in a germinating maize grain longitudinal section showing endosperm digestion into nutrients and their transport to the growing embryo.](B8-12-seed-food-mobilisation-flowchart.png)
+
+*Diagram of food mobilisation in a germinating maize grain longitudinal section showing endosperm digestion into nutrients and their transport to the growing embryo.*
+
 
 ## B9a-nervous-coordination
 
 ![Diagram showing the human nervous system with brain, spinal cord, branching nerves, and a branching hierarchy tree on the right.](B9a-01-human-nervous-system.png)
 
 *Diagram showing the human nervous system with brain, spinal cord, branching nerves, and a branching hierarchy tree on the right.*
+
+![Diagram showing three types of neurons stacked horizontally: sensory neuron at top, relay neuron in the middle, and motor neuron attached to muscle at bottom.](B9a-03-three-types-neurones.png)
+
+*Diagram showing three types of neurons stacked horizontally: sensory neuron at top, relay neuron in the middle, and motor neuron attached to muscle at bottom.*
 
 ![Cross section illustration of the human head showing layers from the scalp and cranium through the meninges, subarachnoid space, and cerebral cortex.](B9a-04-cranial-meninges-cross-section.png)
 
@@ -786,6 +922,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing action potential conduction along an axon membrane with ion movements above a graph plotting membrane potential in millivolts against time in milliseconds.*
 
+![Diagram of a synapse showing synaptic knob with mitochondria and neurotransmitter vesicles fusing to the membrane, releasing molecules into the cleft toward postsynaptic receptors.](B9a-10-synapse-structure.png)
+
+*Diagram of a synapse showing synaptic knob with mitochondria and neurotransmitter vesicles fusing to the membrane, releasing molecules into the cleft toward postsynaptic receptors.*
+
 ![A diagram of a spinal reflex arc showing a finger touching a hot pot, sensory nerve pathway to spinal cord, relay neuron, and motor neuron to muscle.](B9a-11-spinal-reflex-arc.png)
 
 *A diagram of a spinal reflex arc showing a finger touching a hot pot, sensory nerve pathway to spinal cord, relay neuron, and motor neuron to muscle.*
@@ -797,6 +937,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram of corneal blink reflex arc in a human head showing sensory pathway from cornea to brainstem, motor pathway to eyelid muscle, and an inset of blinking with a tear.](B9a-13-cranial-blink-reflex.png)
 
 *Diagram of corneal blink reflex arc in a human head showing sensory pathway from cornea to brainstem, motor pathway to eyelid muscle, and an inset of blinking with a tear.*
+
+![A three panel comic showing Pavlovs dog conditioning before during and after conditioning with food a bell and salivation response](B9a-14-conditioned-reflex-pavlov-experiment.png)
+
+*A three panel comic showing Pavlovs dog conditioning before during and after conditioning with food a bell and salivation response*
 
 
 ## B9b-sense-organs
@@ -852,6 +996,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Flow diagram showing the pathway of sound through the ear in eight stages from sound waves to the auditory cortex of the brain.](B9b-13-hearing-pathway-flowchart.png)
 
 *Flow diagram showing the pathway of sound through the ear in eight stages from sound waves to the auditory cortex of the brain.*
+
+![Diagram showing the inner ear vestibular system, an ampulla with cupula and hair cells, and the macula with otoliths in upright and tilted head positions.](B9b-14-inner-ear-balance-organs.png)
+
+*Diagram showing the inner ear vestibular system, an ampulla with cupula and hair cells, and the macula with otoliths in upright and tilted head positions.*
 
 ![Diagram comparing a concave diverging lens which spreads parallel light rays apart and a convex converging lens which focuses parallel light rays to a single focal point.](B9b-15-concave-convex-ray.png)
 
@@ -920,6 +1068,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A comparison showing a short untreated dwarf pea plant next to a tall gibberellin-treated pea plant, alongside a seed section illustrating gibberellin action during germination.*
 
+![Diagram showing five stages of banana ripening emitting ethylene gas, alongside a woven basket with cloth containing green plantains and a ripe yellow plantain releasing ethylene.](B9c-14-fruit-ripening-ethylene.png)
+
+*Diagram showing five stages of banana ripening emitting ethylene gas, alongside a woven basket with cloth containing green plantains and a ripe yellow plantain releasing ethylene.*
+
 ![Longitudinal diagram comparing a healthy green leaf petiole with auxin preventing abscission to an aging yellow leaf showing ethylene action, separation layer breakdown, and cork formation.](B9c-15-leaf-abscission-zone-anatomy.png)
 
 *Longitudinal diagram comparing a healthy green leaf petiole with auxin preventing abscission to an aging yellow leaf showing ethylene action, separation layer breakdown, and cork formation.*
@@ -927,9 +1079,21 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B9d-homeostasis
 
+![Negative feedback homeostasis loop showing a central normal set point range with upper rise and lower fall cycles through receptors, control centre, and effectors.](B9d-01-homeostasis-negative-feedback.png)
+
+*Negative feedback homeostasis loop showing a central normal set point range with upper rise and lower fall cycles through receptors, control centre, and effectors.*
+
 ![Diagram showing the human body outline with main organs of homeostasis including the brain, pituitary, thyroid, lungs, liver, pancreas, kidneys, adrenal glands, and skin outline.](B9d-02-homeostatic-organs-human-body.png)
 
 *Diagram showing the human body outline with main organs of homeostasis including the brain, pituitary, thyroid, lungs, liver, pancreas, kidneys, adrenal glands, and skin outline.*
+
+![A graph comparing body temperature of an endotherm, which remains constant around 37 degrees Celsius, to an ectotherm, whose body temperature increases proportionally with the surroundings.](B9d-03-thermoregulation-line-graph-comparison.png)
+
+*A graph comparing body temperature of an endotherm, which remains constant around 37 degrees Celsius, to an ectotherm, whose body temperature increases proportionally with the surroundings.*
+
+![Diagrammatic cross section of human skin showing the epidermis, dermis, hair follicle, erector muscle, sebaceous gland, sweat gland, blood vessels with shunt, and subcutaneous fat.](B9d-04-skin-section-temperature-regulation.png)
+
+*Diagrammatic cross section of human skin showing the epidermis, dermis, hair follicle, erector muscle, sebaceous gland, sweat gland, blood vessels with shunt, and subcutaneous fat.*
 
 ![Two skin cross-sections showing thermoregulation: vasodilation, sweating, and flat hair in heat compared to vasoconstriction, erect hair with trapped air, and inactive sweat gland in cold.](B9d-05-skin-vasodilation-vasoconstriction-comparison.png)
 
@@ -947,6 +1111,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A four-stage cyclical diagram showing the contractile vacuole cycle in an amoeba, from water intake by osmosis to vacuole filling, movement to the membrane, and water expulsion.*
 
+![A circular negative feedback diagram showing blood glucose regulation: insulin lowers high glucose after meals, while glucagon raises low glucose during fasting to maintain normal blood glucose.](B9d-10-blood-glucose-regulation-flowchart.png)
+
+*A circular negative feedback diagram showing blood glucose regulation: insulin lowers high glucose after meals, while glucagon raises low glucose during fasting to maintain normal blood glucose.*
+
 
 ## C1-factors-affecting-distribution
 
@@ -957,6 +1125,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Bell-shaped curve illustrating an organism tolerance range across an environmental factor, divided into an optimum range, zones of stress, and zones of intolerance bounded by tolerance limits.](C1-02-ecological-tolerance-curve-graph.png)
 
 *Bell-shaped curve illustrating an organism tolerance range across an environmental factor, divided into an optimum range, zones of stress, and zones of intolerance bounded by tolerance limits.*
+
+![Map of Nigeria showing east-west rainfall bands decreasing northwards from over 3000 mm to under 500 mm, with associated crops, livestock, and vegetation icons across regions.](C1-03-nigeria-rainfall-vegetation-map.png)
+
+*Map of Nigeria showing east-west rainfall bands decreasing northwards from over 3000 mm to under 500 mm, with associated crops, livestock, and vegetation icons across regions.*
 
 ![An illustration showing altitudinal zonation on a mountain slope from warm lowland forest and savanna up through misty montane forest to cool grassland plateau with crops and livestock.](C1-04-altitudinal-zonation-mountain.png)
 
@@ -1025,6 +1197,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Line graph showing predator and prey populations over time, where fluctuating prey numbers peak higher and just before predator numbers peak.*
 
+![Three ecological diagrams comparing an upright pyramid of numbers, an inverted pyramid of numbers with a single tree, and an upright pyramid of energy with heat loss.](C2-08-ecological-pyramids-comparison-charts.png)
+
+*Three ecological diagrams comparing an upright pyramid of numbers, an inverted pyramid of numbers with a single tree, and an upright pyramid of energy with heat loss.*
+
 ![A cross-section illustration of a pond ecosystem showing phytoplankton, water plants, insects, fish, a tadpole, a snail, a frog, and a kingfisher.](C2-09-freshwater-pond-food-web.png)
 
 *A cross-section illustration of a pond ecosystem showing phytoplankton, water plants, insects, fish, a tadpole, a snail, a frog, and a kingfisher.*
@@ -1036,6 +1212,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram illustrating the water cycle across a landscape, showing evaporation from the sea, cloud condensation, precipitation, transpiration, surface runoff, infiltration, groundwater, and animal water loss.](C2-12-hydrological-cycle-flow.png)
 
 *Diagram illustrating the water cycle across a landscape, showing evaporation from the sea, cloud condensation, precipitation, transpiration, surface runoff, infiltration, groundwater, and animal water loss.*
+
+![A diagram of a legume plant showing root nodules on the left and a detailed cutaway cross-section of a root nodule with vascular connections on the right.](C2-14-root-nodule-anatomy.png)
+
+*A diagram of a legume plant showing root nodules on the left and a detailed cutaway cross-section of a root nodule with vascular connections on the right.*
 
 
 ## C3-natural-habitats
@@ -1051,6 +1231,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Two-panel illustration comparing hydrophyte adaptations in a water lily with floating leaves, long stalk, and aerenchyma, and a water lettuce with hairy floating leaves and feathery roots.](C3-03-hydrophyte-leaf-anatomical-adaptations.png)
 
 *Two-panel illustration comparing hydrophyte adaptations in a water lily with floating leaves, long stalk, and aerenchyma, and a water lettuce with hairy floating leaves and feathery roots.*
+
+![Cross section of a fast flowing stream ecosystem showing organisms adapted to the current including a mayfly nymph caddisfly larva blackfly larvae flatworm limpet crab and fish](C3-04-stream-ecosystem-profile-cross.png)
+
+*Cross section of a fast flowing stream ecosystem showing organisms adapted to the current including a mayfly nymph caddisfly larva blackfly larvae flatworm limpet crab and fish*
 
 ![Cross-section of a deep freshwater lake displaying littoral, limnetic, profundal, and benthic zones with aquatic organisms, light penetration, and a boat on the surface.](C3-05-deep-lake-ecological-zones.png)
 
@@ -1078,6 +1262,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## C4-nigerian-biomes
+
+![Map of Nigeria displaying vegetation zones from coastal mangrove and rainforest in the south to Sahel savanna in the north, including major cities, rivers, and plateaus.](C4-01-map-nigerian-vegetation-belts.png)
+
+*Map of Nigeria displaying vegetation zones from coastal mangrove and rainforest in the south to Sahel savanna in the north, including major cities, rivers, and plateaus.*
 
 ![Diagram showing vertical stratification of a tropical rainforest with emergent trees, canopy, understorey, shrub layer, and forest floor, accompanied by rainforest wildlife and a height scale.](C4-02-rainforest-stratification-forest-profile.png)
 
@@ -1110,6 +1298,14 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## C5-ecology-of-populations
 
+![Diagram comparing S-shaped and J-shaped population growth curves over time, highlighting growth phases, carrying capacity, exponential growth, and population crash.](C5-01-sigmoid-j-shaped-population.png)
+
+*Diagram comparing S-shaped and J-shaped population growth curves over time, highlighting growth phases, carrying capacity, exponential growth, and population crash.*
+
+![Three population pyramids showing expanding, stable, and contracting demographics with age groups from zero to eighty plus divided into males and females.](C5-02-demographic-population-age-pyramids.png)
+
+*Three population pyramids showing expanding, stable, and contracting demographics with age groups from zero to eighty plus divided into males and females.*
+
 ![An illustration showing quadrats placed randomly across a gridded grassy field with a student taking notes, alongside an inset circular view counting four plants in a quadrat.](C5-03-quadrat-sampling-field-method.png)
 
 *An illustration showing quadrats placed randomly across a gridded grassy field with a student taking notes, alongside an inset circular view counting four plants in a quadrat.*
@@ -1125,6 +1321,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A diagram of primary succession across seven panels from bare rock, lichens, mosses, herbs and ferns, shrubs, young trees, to climax forest with increasing soil depth.](C5-06-primary-succession-lithosere-sequence.png)
 
 *A diagram of primary succession across seven panels from bare rock, lichens, mosses, herbs and ferns, shrubs, young trees, to climax forest with increasing soil depth.*
+
+![Four cross-section diagrams showing stages of hydrosere ecological succession from open water pond to floating plants, marshland with reeds, and finally terrestrial woodland.](C5-07-hydrosere-pond-succession-sequence.png)
+
+*Four cross-section diagrams showing stages of hydrosere ecological succession from open water pond to floating plants, marshland with reeds, and finally terrestrial woodland.*
 
 ![A six-stage illustration of secondary succession from bare abandoned farmland with tree stumps through annual weeds, tall grasses, shrubs, young secondary forest, to climax rainforest.](C5-08-secondary-ecological-succession-sequence.png)
 
@@ -1144,6 +1344,14 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A vertical soil profile diagram showing leaf litter on the surface, followed by topsoil with an earthworm, subsoil with roots, weathered rock fragments, and solid bedrock at the bottom.](C6-02-soil-profile-layers.png)
 
 *A vertical soil profile diagram showing leaf litter on the surface, followed by topsoil with an earthworm, subsoil with roots, weathered rock fragments, and solid bedrock at the bottom.*
+
+![Three circular magnified views showing microscopic structures of sandy soil with large grains, loamy soil with mixed particle crumbs, and clayey soil with dense tiny flat particles.](C6-03-soil-texture-particle-comparison.png)
+
+*Three circular magnified views showing microscopic structures of sandy soil with large grains, loamy soil with mixed particle crumbs, and clayey soil with dense tiny flat particles.*
+
+![Illustration of four soil structures shown as cubes side by side, depicting crumb, single-grained, platy, and blocky soil structures.](C6-04-soil-structure-types.png)
+
+*Illustration of four soil structures shown as cubes side by side, depicting crumb, single-grained, platy, and blocky soil structures.*
 
 ![A glass measuring cylinder containing settled soil layers: gravel at bottom, followed by coarse sand, fine sand, silt, clay, cloudy water, and floating humus at top.](C6-05-soil-sedimentation-measuring-cylinder.png)
 
@@ -1188,6 +1396,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## C7a-diseases
 
+![Map of Africa highlighting the east-to-west meningitis belt across the Sahel, showing northern Nigeria situated within the zone alongside seasonal harmattan dry season symbols.](C7a-01-map-africa-meningitis-belt.png)
+
+*Map of Africa highlighting the east-to-west meningitis belt across the Sahel, showing northern Nigeria situated within the zone alongside seasonal harmattan dry season symbols.*
+
 ![Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.](C7a-03-anopheles-culex-comparison.png)
 
 *Comparison of Anopheles and Culex mosquitoes showing differences in their eggs, larvae resting positions in water, and adult resting postures on a wall.*
@@ -1207,6 +1419,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Illustration of the Simulium blackfly life cycle in river rapids, from eggs, larvae, and pupae on submerged rocks to adult flies biting a leg with an inset of skin microfilariae.](C7a-07-simulium-blackfly-life-cycle.png)
 
 *Illustration of the Simulium blackfly life cycle in river rapids, from eggs, larvae, and pupae on submerged rocks to adult flies biting a leg with an inset of skin microfilariae.*
+
+![Diagram showing the four life cycle stages of a housefly in a circle, with a central detailed view of an adult fly feeding on food.](C7a-08-housefly-life-cycle-disease.png)
+
+*Diagram showing the four life cycle stages of a housefly in a circle, with a central detailed view of an adult fly feeding on food.*
 
 ![Diagram showing HIV structure, CD4 T-helper cell infection and budding, and a line graph tracking CD4 count decline and viral load progression toward AIDS over ten years.](C7a-09-hiv-structure-cd-course.png)
 
@@ -1235,6 +1451,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A circular diagram showing substance abuse at the center with outward arrows to nine health and social consequences, including organ damage, mental illness, accidents, dropout, and crime.*
 
+![A circular diagram detailing the seven stages of the drug rehabilitation process, from seeking help through assessment, detoxification, counselling, skills training, reintegration, and after-care.](C7b-05-drug-rehabilitation-flow.png)
+
+*A circular diagram detailing the seven stages of the drug rehabilitation process, from seeking help through assessment, detoxification, counselling, skills training, reintegration, and after-care.*
+
 
 ## C7c-pollution-and-sanitation
 
@@ -1245,6 +1465,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A landscape with a gas flare and illegal refinery producing soot, coating a car and house while a coughing person has soot entering lung alveoli in inset.](C7c-02-gas-flare-soot-pollution.png)
 
 *A landscape with a gas flare and illegal refinery producing soot, coating a car and house while a coughing person has soot entering lung alveoli in inset.*
+
+![Diagram showing the Earth surrounded by an ozone layer blocking UV rays on the left, but depleted by CFCs on the right allowing UV rays through.](C7c-03-ozone-layer-depletion-schematic.png)
+
+*Diagram showing the Earth surrounded by an ozone layer blocking UV rays on the left, but depleted by CFCs on the right allowing UV rays through.*
 
 ![Flow diagram showing acid rain formation from industrial and vehicle emissions rising into clouds, producing acid precipitation that damages trees, corrodes roofs, erodes statues, and harms aquatic lake life.](C7c-04-acid-rain-formation-process.png)
 
@@ -1359,9 +1583,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing a duplicated chromosome uncoiling into a condensed fiber, nucleosomes with histone proteins, and unwinding into a DNA double helix.*
 
+![A simplified human male karyotype diagram showing 22 numbered homologous autosomal chromosome pairs and the XY sex chromosomes.](D2a-02-human-male-karyotype.png)
+
+*A simplified human male karyotype diagram showing 22 numbered homologous autosomal chromosome pairs and the XY sex chromosomes.*
+
 ![Diagram showing the structure of a nucleotide with phosphate, deoxyribose sugar, and nitrogenous base, alongside four colored boxes representing adenine, thymine, guanine, and cytosine.](D2a-03-nucleotide-molecular-structure.png)
 
 *Diagram showing the structure of a nucleotide with phosphate, deoxyribose sugar, and nitrogenous base, alongside four colored boxes representing adenine, thymine, guanine, and cytosine.*
+
+![Diagram comparing an untwisted DNA ladder model showing antiparallel backbones and base pairs with a twisted double helix structure on the right.](D2a-04-dna-ladder-helix.png)
+
+*Diagram comparing an untwisted DNA ladder model showing antiparallel backbones and base pairs with a twisted double helix structure on the right.*
 
 ![Side-by-side comparison diagram of mitosis producing two identical diploid cells and meiosis producing four genetically diverse haploid cells from a parent cell with four chromosomes.](D2a-05-mitosis-versus-meiosis-comparison.png)
 
@@ -1391,6 +1623,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Sex determination diagram showing how maternal X eggs and paternal X or Y sperm combine to produce an equal ratio of XX female and XY male offspring.*
 
+![Punnett square diagram showing sex-linked haemophilia inheritance from a carrier mother and unaffected father, resulting in normal or carrier daughters, and normal or haemophiliac sons.](D2a-13-haemophilia-sex-linked-pedigree.png)
+
+*Punnett square diagram showing sex-linked haemophilia inheritance from a carrier mother and unaffected father, resulting in normal or carrier daughters, and normal or haemophiliac sons.*
+
 ![An Ishihara color test plate with the numeral 7 visible in green dots beside a simulated red-green color-blind view where no number is discernible.](D2a-14-ishihara-colour-blindness-test.png)
 
 *An Ishihara color test plate with the numeral 7 visible in green dots beside a simulated red-green color-blind view where no number is discernible.*
@@ -1401,6 +1637,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## D2b-applications-of-heredity
+
+![Seven-step flowchart illustrating a plant breeding programme from selecting parent plants, emasculation, and hand pollination to F1 and F2 generations, selection, field trials, and farmer release.](D2b-01-plant-breeding-programme-flowchart.png)
+
+*Seven-step flowchart illustrating a plant breeding programme from selecting parent plants, emasculation, and hand pollination to F1 and F2 generations, selection, field trials, and farmer release.*
 
 ![Diagram showing crossbreeding of a Friesian cow and a White Fulani cow to produce a crossbred cow with high milk yield and heat tolerance traits.](D2b-02-livestock-cross-breeding.png)
 
@@ -1457,12 +1697,28 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Six-step diagram showing garri production: peeling cassava, washing and grating, pressing mash under stones, microbial inset of bacteria and yeasts, sieving mash, and roasting over fire.*
 
+![Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.](D3-07-bread-making-yeast-fermentation.png)
+
+*Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.*
+
+![Cross-section of an underground biogas digester system showing the inlet tank, underground chamber with bacterial inset, gas pipe to a stove, and outlet to a garden.](D3-08-biogas-digester-cross-section.png)
+
+*Cross-section of an underground biogas digester system showing the inlet tank, underground chamber with bacterial inset, gas pipe to a stove, and outlet to a garden.*
+
 
 ## E1-theories-of-evolution
 
 ![Diagram showing adaptive radiation of mammals from a central shrew-like ancestor to a bat, whale, mole, monkey, antelope, and human.](E1-01-adaptive-radiation-mammal.png)
 
 *Diagram showing adaptive radiation of mammals from a central shrew-like ancestor to a bat, whale, mole, monkey, antelope, and human.*
+
+![Illustration of Francesco Redi experiment with three glass jars: open jar with maggots on meat, sealed jar with no maggots, and gauze-covered jar with fly eggs on gauze.](E1-02-redi-spontaneous-generation-experiment.png)
+
+*Illustration of Francesco Redi experiment with three glass jars: open jar with maggots on meat, sealed jar with no maggots, and gauze-covered jar with fly eggs on gauze.*
+
+![Diagram showing three stages of Pasteurs swan-neck flask experiment, from boiling broth to cooling with trapped dust, and finally neck broken with microbial growth.](E1-03-pasteur-swan-neck-flask.png)
+
+*Diagram showing three stages of Pasteurs swan-neck flask experiment, from boiling broth to cooling with trapped dust, and finally neck broken with microbial growth.*
 
 ![Three-panel illustration showing Lamarckian evolution of the giraffe neck from a short-necked ancestor stretching upwards, to an intermediate parent and offspring, to a modern long-necked giraffe feeding easily.](E1-04-lamarck-giraffe-neck-evolution.png)
 
@@ -1507,6 +1763,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Reconstruction of Archaeopteryx shown beside a limestone fossil slab revealing its skeleton, clawed wings, toothed jaws, and long feathered tail.*
 
+![A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.](E2-05-homologous-pentadactyl-forelimbs-comparison.png)
+
+*A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.*
+
 ![A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.](E2-07-human-vestigial-organs.png)
 
 *A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.*
@@ -1519,6 +1779,14 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Comparison grid showing vertebrate embryos of fish, salamander, turtle, chick, and human across three developmental stages from similar early embryos to distinct juvenile forms.*
 
+![A world map illustrating biogeographic evidence for continental drift with animal distributions across continents and an inset showing the reconstructed supercontinent Gondwana.](E2-10-biogeography-lungfish-world-map.png)
+
+*A world map illustrating biogeographic evidence for continental drift with animal distributions across continents and an inset showing the reconstructed supercontinent Gondwana.*
+
+![A phylogenetic tree rising from aquatic algae through bryophytes, ferns, and gymnosperms to an angiosperm flowering plant at the top.](E2-11-plant-phylogenetic-evolutionary-tree.png)
+
+*A phylogenetic tree rising from aquatic algae through bryophytes, ferns, and gymnosperms to an angiosperm flowering plant at the top.*
+
 ![Diagram of an animal evolutionary tree showing progression from single-celled Amoeba through aquatic invertebrates and fish, transitioning across a water boundary to terrestrial vertebrates, birds, and mammals.](E2-12-animal-phylogenetic-evolutionary-tree.png)
 
 *Diagram of an animal evolutionary tree showing progression from single-celled Amoeba through aquatic invertebrates and fish, transitioning across a water boundary to terrestrial vertebrates, birds, and mammals.*
@@ -1527,104 +1795,40 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing the sickle-cell mutation from DNA base substitution A to T, resulting in valine replacing glutamic acid in haemoglobin, causing sickled red blood cells.*
 
+![Diagram showing four types of chromosome mutations: deletion, duplication, inversion, and translocation, comparing normal banded chromosomes with their mutated forms.](E2-14-chromosome-structural-mutations.png)
+
+*Diagram showing four types of chromosome mutations: deletion, duplication, inversion, and translocation, comparing normal banded chromosomes with their mutated forms.*
+
 
 ## Not made (placeholder still in the notes)
 
-- `B1-internal-structure`: Digestive system of a rabbit spread out after dissection, as in a practical drawing. Show the oesophagus passing through the diaphra...
-- `B1-internal-structure`: Urinary (excretory) system of a mammal in ventral view, shown on its own against an outline of the back wall of the abdomen. Two bea...
-- `B1-internal-structure`: Female reproductive and urinary organs of a mammal (rabbit), ventral view, as a practical drawing. Show two kidneys at the top with...
-- `B2b-plant-nutrition`: Flow diagram of the two stages of photosynthesis inside a large oval chloroplast. Left half "light reactions (grana / thylakoids)":...
-- `B2b-plant-nutrition`: Step-by-step diagram of the iodine test for starch in a leaf, in six numbered panels in two rows. 1: a leaf in a beaker of boiling w...
-- `B2c-food-substances-and-food-tests`: Side-by-side medical illustration of two young African children, drawn respectfully in a simple non-photographic style. Left child w...
-- `B2c-food-substances-and-food-tests`: Three tests for fats and oils in a row. Left: Sudan III test, a test tube with a red-stained oil layer floating on top of colourless...
-- `B2d-mammalian-teeth`: The four types of human teeth drawn side by side as single whole teeth (not sections), each in side view and with its crown also sho...
-- `B2e-alimentary-canal-and-digestion`: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with th...
-- `B2e-alimentary-canal-and-digestion`: Experiment on the effect of pH on pepsin: four test tubes labelled A, B, C and D standing in a water bath at 37 °C with a thermomete...
-- `B2e-alimentary-canal-and-digestion`: Diagram showing the routes of absorbed food. On the left, a villus with arrows showing glucose and amino acids entering the blood ca...
-- `B3a-transport-in-animals`: Experimental set-up: a glass beaker of clear dilute acid containing three pink agar cubes of different sizes (small, medium, large)....
-- `B3a-transport-in-animals`: Simple schematic of the mammalian double circulation. The heart in the centre drawn as four boxes (right atrium and right ventricle...
-- `B3a-transport-in-animals`: Side-by-side comparison of a fish single circulation and a mammal double circulation. Left: a two-chambered heart (atrium and ventri...
-- `B3a-transport-in-animals`: Simplified plan of the human blood system in front view, with the heart in the chest, the lungs, liver, stomach and intestines, and...
-- `B3a-transport-in-animals`: Close-up diagram of the abdomen showing the small intestine with villi capillaries joining into the hepatic portal vein (purple) run...
-- `B3a-transport-in-animals`: A test tube of blood that has been spun in a centrifuge, showing a large pale yellow upper layer, a very thin whitish middle band, a...
-- `B3a-transport-in-animals`: Side view (longitudinal section) of a cockroach body (head, thorax and abdomen) showing the open circulatory system. A long tubular...
-- `B3b-transport-in-plants`: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum...
-- `B3b-transport-in-plants`: Root pressure demonstration: a well-watered potted plant whose stem has been cut a few centimetres above the soil, with a rubber tub...
-- `B4a-respiratory-organs-and-gaseous-exchange`: Two panels. Left: an Amoeba in pond water, with small arrows all round its outline showing oxygen diffusing in and carbon dioxide di...
-- `B4a-respiratory-organs-and-gaseous-exchange`: Simplified side view of a bird's body outline showing a pair of small spongy lungs near the backbone and ribs, connected to several...
-- `B4a-respiratory-organs-and-gaseous-exchange`: Close-up of a single alveolus in section with a capillary wrapped against its wall. The alveolus wall and capillary wall are each on...
-- `B4b-cellular-respiration`: Circular diagram of the Krebs cycle inside a pale mitochondrion matrix shape. Acetyl CoA (two circles) enters at the top and joins o...
-- `B4b-cellular-respiration`: Overview flow diagram of the whole of aerobic respiration in a cell. On the left, a cell's cytoplasm with glucose entering and glyco...
-- `B4b-cellular-respiration`: Branching flow diagram of the fate of pyruvic acid. At the top, glucose in the cytoplasm changing to 2 pyruvic acid by glycolysis wi...
-- `B4b-cellular-respiration`: Experimental set-up to show that carbon dioxide is produced in respiration, drawn left to right: air entering a flask of potassium h...
-- `B4b-cellular-respiration`: Simple respirometer set-up shown as two boiling tubes side by side in a water bath. Each tube has potassium hydroxide solution at th...
-- `B5-excretion`: A four-panel comparison of simple excretory structures. Panel 1: an Amoeba with one contractile vacuole, showing the vacuole full (l...
-- `B5-excretion`: One segment of an earthworm cut open (longitudinal view), showing a single nephridium. A ciliated funnel (nephrostome) opens into th...
-- `B5-excretion`: Flow diagram of urine formation along a simplified nephron. Arrows show: at the glomerulus and Bowman's capsule, "water, glucose, am...
-- `B5-excretion`: Experimental set-up for comparing inhaled and exhaled air. Two boiling tubes in a rack, each containing clear lime water, connected...
-- `B6a-support-and-movement-in-plants`: Day and night views of three leguminous plants, arranged in three columns (Bauhinia, flamboyant, Mimosa pudica), each with a "day" r...
-- `B6a-support-and-movement-in-plants`: Before and after diagram of the root-marking experiment. Left ("start"): a germinating bean seed with a straight radicle hanging dow...
-- `B6a-support-and-movement-in-plants`: A simple line graph with "auxin concentration (increasing)" on the horizontal axis (log scale) and "growth (stimulation above the li...
-- `B6a-support-and-movement-in-plants`: A two-row diagram of classic coleoptile experiments with light coming from the right in the top row. Top row (Darwin): five coleopti...
-- `B6b-support-and-movement-in-animals`: Side view of the human vertebral column showing its S-shaped curves, with the five regions coloured differently and bracketed: cervi...
-- `B6b-support-and-movement-in-animals`: Front-and-top views of three cervical vertebrae side by side: (1) the atlas, ring-shaped with no centrum, wide wing-like transverse...
-- `B6b-support-and-movement-in-animals`: Front view of the human rib cage showing the thoracic vertebrae at the back, 12 pairs of ribs curving round to the front, the sternu...
-- `B6b-support-and-movement-in-animals`: Two diagrams side by side. Left: the human pectoral girdle and right forelimb seen from the front: scapula with glenoid cavity and a...
-- `B7b-reproduction-in-flowering-plants`: Two primrose flowers cut lengthwise side by side, each with a long narrow corolla tube. Left (pin-eyed): long style reaching the mou...
-- `B7b-reproduction-in-flowering-plants`: A grid of six ovary cross-sections (and one longitudinal section where needed), each drawn as a simple outline with green ovary wall...
-- `B7b-reproduction-in-flowering-plants`: Four fleshy fruits cut open, arranged in a row. 1. Tomato cut across, showing skin, fleshy wall, chambers filled with jelly and seed...
-- `B7b-reproduction-in-flowering-plants`: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with...
-- `B7c-reproduction-in-mammals`: Longitudinal section of a pregnant uterus with a foetus about 6 months old, head downward, floating in the amniotic sac. Show the th...
-- `B7c-reproduction-in-mammals`: A chart-style panel of birth control methods arranged in five labelled boxes. Box 1 natural: a calendar with some days shaded red (m...
-- `B8-growth`: Line graph with "days after sowing" on the horizontal axis (0 to 20) and "mass" on the vertical axis. Two curves: a blue curve for f...
-- `B8-growth`: Two views of a maize grain side by side. 1. External view of a whole maize grain (flattened, wedge-shaped, yellow) showing the paler...
-- `B8-growth`: Flow diagram of food mobilisation in a germinating maize grain, drawn as a longitudinal section of the grain with arrows. Show the e...
-- `B9a-nervous-coordination`: A large, clear diagram of a motor neurone drawn horizontally. On the left, a star-shaped cell body with a round nucleus and dark spe...
-- `B9a-nervous-coordination`: The three types of neurones drawn one above the other, each horizontally, with arrows showing the direction of the impulse. Top: sen...
-- `B9a-nervous-coordination`: Enlarged diagram of a synapse. At the top, the end of the presynaptic neurone swelling into a rounded synaptic knob, containing seve...
-- `B9a-nervous-coordination`: Three-panel comic-style diagram of Pavlov's experiment with a dog. Panel 1 "before conditioning": a dog with a bowl of food in front...
-- `B9b-sense-organs`: Two-part diagram of the balance organs of the inner ear. Left: enlarged view of the three semicircular canals at right angles to eac...
-- `B9c-hormonal-control`: Circular flow diagram of negative feedback control of thyroxine. At the top, a small brain outline with the hypothalamus highlighted...
-- `B9c-hormonal-control`: Three-part diagram of the thyroid gland. Left: front view of the neck showing the larynx, the trachea and the butterfly-shaped thyro...
-- `B9c-hormonal-control`: Sequence of five bananas in a row from left to right showing ripening: hard dark green, light green, green-yellow, bright yellow, an...
-- `B9d-homeostasis`: Circular flow diagram of negative feedback in homeostasis. At the top, a horizontal band labelled as the normal range, with a wavy l...
-- `B9d-homeostasis`: Line graph comparing body temperature in an endotherm and an ectotherm. The x-axis shows the temperature of the surroundings from 0...
-- `B9d-homeostasis`: Vertical section through human skin showing the structures involved in temperature regulation. Show the epidermis (cornified layer,...
-- `B9d-homeostasis`: Flow diagram of the control of blood water content by ADH, drawn as two loops around a central normal band. Upper loop (shown in ora...
-- `B9d-homeostasis`: Circular flow diagram of the control of blood glucose by insulin and glucagon around a central band labelled normal blood glucose. U...
-- `C1-factors-affecting-distribution`: A simple outline map of Nigeria with rainfall shown by colour bands running roughly east to west: dark blue along the southern coast...
-- `C2-symbiotic-interactions-and-energy-flow`: A savanna food web diagram. At the bottom, grass and grass seeds (producers). Above them, primary consumers: grasshopper, rat, antel...
-- `C2-symbiotic-interactions-and-energy-flow`: Three ecological pyramids side by side, each with labelled horizontal bars stacked from bottom to top for producers, primary consume...
-- `C2-symbiotic-interactions-and-energy-flow`: A carbon cycle diagram in a landscape setting. Centre top: a cloud labelled carbon (IV) oxide in the air. Left: green trees and gras...
-- `C2-symbiotic-interactions-and-energy-flow`: A nitrogen cycle diagram. Top: a cloud labelled "nitrogen gas in the air (78%)" with a lightning bolt and rain. Left: a legume plant...
-- `C2-symbiotic-interactions-and-energy-flow`: Two panels. Left: a cowpea (or groundnut) plant pulled from the soil showing its root system with many small round root nodules. Rig...
-- `C3-natural-habitats`: Cross-section of a fast-flowing stream with water arrows showing the current. Large stones on the bottom covered in a thin green lay...
-- `C4-nigerian-biomes`: Outline map of Nigeria showing its vegetation belts as coloured bands running roughly west to east. From the south coast northwards:...
-- `C4-nigerian-biomes`: Outline map of Nigeria showing state boundaries, with each state lightly shaded in the colour of its main biome: dark green for mang...
-- `C5-ecology-of-populations`: Two population growth graphs side by side, both with "time" on the horizontal axis and "number of individuals (population size)" on...
-- `C5-ecology-of-populations`: Three population (age) pyramids side by side, each a horizontal bar chart with age groups (0–4 at the bottom up to 80+ at the top) o...
-- `C5-ecology-of-populations`: Four cross-sections of the same pond over time, left to right, joined by arrows, showing a hydrosere. (1) Open pond with phytoplankt...
-- `C6-soil`: Three side-by-side magnified circular views of soil, each inside a round "magnifying lens" frame. Left: "sandy soil" with large roun...
-- `C6-soil`: Four small square soil blocks shown side by side as simple 3D cubes, each showing a different soil structure. 1: crumb structure wit...
-- `C7a-diseases`: A simplified map of Africa with a shaded east–west band across the semi-arid region south of the Sahara, from Senegal in the west to...
-- `C7a-diseases`: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half o...
-- `C7a-diseases`: Life cycle of the housefly in a circle with arrows: a cluster of small white eggs on a heap of refuse; a white legless maggot; a bro...
-- `C7b-drug-abuse`: A circular flow diagram of drug rehabilitation with seven steps around a circle connected by arrows: 1 a person talking to a family...
-- `C7c-pollution-and-sanitation`: A diagram of the Earth with the atmosphere shown as layers. A thin pale blue band labelled as the ozone layer in the stratosphere. O...
-- `D1-variation-in-population`: Arrow diagram of ABO transfusion compatibility. Four large circles arranged in a diamond: O at the top, A on the left, B on the righ...
-- `D2a-heredity-principles`: A simplified human male karyotype: 22 pairs of purple X-shaped chromosomes arranged in rows in decreasing size, numbered 1 to 22, pl...
-- `D2a-heredity-principles`: Two views of DNA side by side. Left: an untwisted section of DNA drawn as a straight ladder, with two vertical sugar-phosphate backb...
-- `D2a-heredity-principles`: Diagram of transmission of one gene from parents to offspring. Top: a father cell and a mother cell, each showing one pair of homolo...
-- `D2a-heredity-principles`: Haemophilia inheritance diagram for a carrier mother and a normal father. Top: mother icon with chromosome pair X^H (normal X in pin...
-- `D2b-applications-of-heredity`: A flow chart of a plant breeding programme in seven boxes connected by arrows, top to bottom. Box 1: two parent cowpea plants, one w...
-- `D2b-applications-of-heredity`: Genetic counselling diagram for two carrier parents. Top: a man and a woman, each with a small badge showing "AS" and a red blood ce...
-- `D3-biotechnology`: Three-panel diagram of bread making with yeast. Panel 1: a bowl of freshly kneaded dough, small and dense, with an inset circle show...
-- `D3-biotechnology`: Cross-section of a simple underground biogas digester. On the left, a farmer pours a slurry of cow dung and water into an inlet tank...
-- `E1-theories-of-evolution`: Redi's experiment shown as three glass jars side by side, each containing a piece of red meat. Jar 1 is open, with flies landing on...
-- `E1-theories-of-evolution`: Pasteur's swan-neck flask experiment in three panels. Panel 1: a round glass flask of yellowish broth with a long S-shaped (swan) ne...
-- `E2-evidence-of-evolution`: Evolution of the horse in five steps from bottom-left to top-right, each showing a side view of the whole animal at relative size an...
-- `E2-evidence-of-evolution`: Comparison of pentadactyl forelimbs side by side: human arm, bat wing, bird wing, whale flipper, horse front leg and frog front leg....
-- `E2-evidence-of-evolution`: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and n...
-- `E2-evidence-of-evolution`: World map in soft flat colours with simple animal icons: lungfish icons in tropical Africa (including Nigeria), South America and Au...
-- `E2-evidence-of-evolution`: Plant evolution diagram shown as a branching tree rising from water at the bottom to dry land at the top. At the base, in water, a g...
-- `E2-evidence-of-evolution`: Four small diagrams of chromosome structure mutations, each showing a normal chromosome (a vertical bar divided into coloured bands...
+- `B1-internal-structure`: Digestive system of a rabbit spread out after dissection, as in a practical drawing. Show the oesophagus passing through the diaphragm to a be...
+- `B1-internal-structure`: Urinary (excretory) system of a mammal in ventral view, shown on its own against an outline of the back wall of the abdomen. Two bean-shaped d...
+- `B2c-food-substances-and-food-tests`: Side-by-side medical illustration of two young African children, drawn respectfully in a simple non-photographic style. Left child with kwashi...
+- `B2d-mammalian-teeth`: The four types of human teeth drawn side by side as single whole teeth (not sections), each in side view and with its crown also shown from ab...
+- `B2e-alimentary-canal-and-digestion`: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with the hepatic...
+- `B3b-transport-in-plants`: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. Th...
+- `B3b-transport-in-plants`: Root pressure demonstration: a well-watered potted plant whose stem has been cut a few centimetres above the soil, with a rubber tube connecti...
+- `B4a-respiratory-organs-and-gaseous-exchange`: Simplified side view of a bird's body outline showing a pair of small spongy lungs near the backbone and ribs, connected to several balloon-li...
+- `B5-excretion`: A four-panel comparison of simple excretory structures. Panel 1: an Amoeba with one contractile vacuole, showing the vacuole full (large) and...
+- `B5-excretion`: One segment of an earthworm cut open (longitudinal view), showing a single nephridium. A ciliated funnel (nephrostome) opens into the coelom i...
+- `B6a-support-and-movement-in-plants`: A two-row diagram of classic coleoptile experiments with light coming from the right in the top row. Top row (Darwin): five coleoptiles labell...
+- `B6b-support-and-movement-in-animals`: Front view of the human rib cage showing the thoracic vertebrae at the back, 12 pairs of ribs curving round to the front, the sternum with man...
+- `B7b-reproduction-in-flowering-plants`: A grid of six ovary cross-sections (and one longitudinal section where needed), each drawn as a simple outline with green ovary walls and smal...
+- `B7b-reproduction-in-flowering-plants`: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with a feathery...
+- `B7c-reproduction-in-mammals`: A chart-style panel of birth control methods arranged in five labelled boxes. Box 1 natural: a calendar with some days shaded red (menstruatio...
+- `B8-growth`: Two views of a maize grain side by side. 1. External view of a whole maize grain (flattened, wedge-shaped, yellow) showing the paler oval embr...
+- `B9a-nervous-coordination`: A large, clear diagram of a motor neurone drawn horizontally. On the left, a star-shaped cell body with a round nucleus and dark speckles (Nis...
+- `B9c-hormonal-control`: Circular flow diagram of negative feedback control of thyroxine. At the top, a small brain outline with the hypothalamus highlighted; an arrow...
+- `B9c-hormonal-control`: Three-part diagram of the thyroid gland. Left: front view of the neck showing the larynx, the trachea and the butterfly-shaped thyroid gland w...
+- `B9d-homeostasis`: Flow diagram of the control of blood water content by ADH, drawn as two loops around a central normal band. Upper loop (shown in orange) for t...
+- `C2-symbiotic-interactions-and-energy-flow`: A savanna food web diagram. At the bottom, grass and grass seeds (producers). Above them, primary consumers: grasshopper, rat, antelope, grass...
+- `C2-symbiotic-interactions-and-energy-flow`: A carbon cycle diagram in a landscape setting. Centre top: a cloud labelled carbon (IV) oxide in the air. Left: green trees and grass taking C...
+- `C2-symbiotic-interactions-and-energy-flow`: A nitrogen cycle diagram. Top: a cloud labelled "nitrogen gas in the air (78%)" with a lightning bolt and rain. Left: a legume plant (cowpea)...
+- `C4-nigerian-biomes`: Outline map of Nigeria showing state boundaries, with each state lightly shaded in the colour of its main biome: dark green for mangrove and s...
+- `C7a-diseases`: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half of the diag...
+- `D1-variation-in-population`: Arrow diagram of ABO transfusion compatibility. Four large circles arranged in a diamond: O at the top, A on the left, B on the right, AB at t...
+- `D2a-heredity-principles`: Diagram of transmission of one gene from parents to offspring. Top: a father cell and a mother cell, each showing one pair of homologous chrom...
+- `D2b-applications-of-heredity`: Genetic counselling diagram for two carrier parents. Top: a man and a woman, each with a small badge showing "AS" and a red blood cell icon th...
+- `E2-evidence-of-evolution`: Evolution of the horse in five steps from bottom-left to top-right, each showing a side view of the whole animal at relative size and, beneath...
+- `E2-evidence-of-evolution`: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; o...

@@ -539,5 +539,118 @@
     "R"
    ]
   ]
+ },
+ "B7c-07-foetus-pregnant-uterus": {
+  "caption_below": "Exchange of oxygen, food, carbon dioxide, and urea between mother and foetus.",
+  "regions": [
+   "amniotic fluid",
+   "uterine wall (myometrium)"
+  ],
+  "labels": [
+   [
+    "uterine wall (myometrium)",
+    [
+     754,
+     396
+    ],
+    "R"
+   ],
+   [
+    "placenta",
+    [
+     404,
+     199
+    ],
+    "L"
+   ],
+   [
+    "umbilical cord",
+    [
+     437,
+     380
+    ],
+    "L"
+   ],
+   [
+    "umbilical artery",
+    [
+     464,
+     357
+    ],
+    "L"
+   ],
+   [
+    "umbilical vein",
+    [
+     445,
+     253
+    ],
+    "L"
+   ],
+   [
+    "amnion",
+    [
+     702,
+     493
+    ],
+    "R"
+   ],
+   [
+    "amniotic fluid",
+    [
+     390,
+     432
+    ],
+    "L"
+   ],
+   [
+    "foetus",
+    [
+     596,
+     396
+    ],
+    "R"
+   ],
+   [
+    "cervix",
+    [
+     326,
+     708
+    ],
+    "L"
+   ],
+   [
+    "mucus plug",
+    [
+     349,
+     686
+    ],
+    "L"
+   ],
+   [
+    "vagina; inset labels: mother's blood space",
+    [
+     749,
+     847
+    ],
+    "R"
+   ],
+   [
+    "chorionic villus",
+    [
+     752,
+     800
+    ],
+    "R"
+   ],
+   [
+    "foetal capillaries",
+    [
+     823,
+     752
+    ],
+    "R"
+   ]
+  ]
  }
 }

@@ -93,7 +93,7 @@ Ruminants are animals that "chew the cud". They have a complex stomach divided i
 4. The animal chews the cud thoroughly for a long time to physically break down the tough plant fibres.
 5. The finely chewed cud is re-swallowed, allowing the microbes in the rumen to break it down more efficiently.
 
-[IMAGE: Outline of a cow showing the four compartments of its massive stomach filling the left side of the abdominal cavity. The oesophagus leads into the large Rumen (filling most of the space), which connects to the smaller Reticulum near the front. The Reticulum leads to the spherical Omasum, which connects to the elongated Abomasum at the bottom, finally leading into the intestines. Arrows indicate the flow of food, with a two-way arrow in the oesophagus to show regurgitation. Labels: Oesophagus, Rumen (Paunch), Reticulum (Honeycomb), Omasum (Manyplies), Abomasum (True stomach), Intestines. Clean flat textbook style, white background.]
+![An outline of a cow showing its digestive system, including the oesophagus, four stomach compartments (rumen, reticulum, omasum, and abomasum), and the intestines.](images/C3-02-ruminant-stomach-compartments.png)
 
 ### The Circulatory System
 The circulatory system acts as the body's transport network. It carries oxygen, digested nutrients, and hormones to all cells, and takes away carbon (IV) oxide and metabolic wastes. It consists of the **heart**, **blood vessels** (arteries carrying blood away from the heart, veins carrying blood back, and tiny capillaries where exchange occurs), and the **blood** itself.

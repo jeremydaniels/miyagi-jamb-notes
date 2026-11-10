@@ -81,5 +81,63 @@
     "R"
    ]
   ]
+ },
+ "C3-02-ruminant-stomach-compartments": {
+  "regions": [
+   "Rumen (Paunch)",
+   "Reticulum (Honeycomb)",
+   "Omasum (Manyplies)",
+   "Abomasum (True stomach)"
+  ],
+  "labels": [
+   [
+    "Oesophagus",
+    [
+     701,
+     357
+    ],
+    "R"
+   ],
+   [
+    "Rumen (Paunch)",
+    [
+     437,
+     369
+    ],
+    "L"
+   ],
+   [
+    "Reticulum (Honeycomb)",
+    [
+     619,
+     492
+    ],
+    "R"
+   ],
+   [
+    "Omasum (Manyplies)",
+    [
+     547,
+     458
+    ],
+    "R"
+   ],
+   [
+    "Abomasum (True stomach)",
+    [
+     501,
+     540
+    ],
+    "L"
+   ],
+   [
+    "Intestines",
+    [
+     240,
+     357
+    ],
+    "L"
+   ]
+  ]
  }
 }

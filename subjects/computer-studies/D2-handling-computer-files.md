@@ -36,7 +36,7 @@ Here are the basic operations you perform on computer files every day:
 8. **Retrieve:** Fetching a specific stored file from secondary storage (like a hard drive or flash drive) so that it can be processed or opened. It involves searching for the file and loading it.
 9. **Delete:** Removing a file from the computer's storage to free up space. On most systems, deleted files first go to a "Recycle Bin" or "Trash" before they are permanently erased.
 
-[IMAGE: A clean, textbook-style illustration showing computer folder icons with action symbols next to them: a plus sign for "Create", an open folder for "Open", an eye for "View", two overlapping pages for "Copy", and a trash can for "Delete". White background.]
+![Illustration of folder operations showing Create, Open, View, Copy, and Delete with corresponding folder icons and symbols.](images/D2-01-clean-textbook-style-computer.png)
 
 ## Causes of data loss
 
@@ -76,7 +76,7 @@ To protect computer systems, we use a mixture of software controls, hardware con
 - **Smoke Alarms:** Electronic devices mounted on the ceiling that detect smoke. They sound a loud alarm to give early warning of a fire so it can be stopped before it destroys the computers.
 - **Fire Extinguisher:** Portable cylinders used to put out small fires. **Important note:** You must never use water on an electrical fire. Computer rooms must be equipped with **Carbon dioxide ($CO_2$)** fire extinguishers, which smother the fire without damaging the delicate electronic circuits.
 
-[IMAGE: A grid of four illustrations showing security methods: 1. A finger pressing on a biometric fingerprint scanner. 2. A CCTV camera mounted on a wall. 3. A red CO2 fire extinguisher. 4. An external hard drive labelled "BACKUP". Clean flat textbook style, white background.]
+![A grid of four illustrations showing security methods a finger pressing a fingerprint scanner a CCTV camera a red fire extinguisher and an external hard drive](images/D2-02-grid-four-illustrations-security.png)
 
 ## Comparing computer and manual files
 

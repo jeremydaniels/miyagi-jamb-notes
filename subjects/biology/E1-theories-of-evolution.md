@@ -71,7 +71,7 @@ When one ancestral group spreads into many different habitats and evolves into m
 - **Darwin's finches** on the Galápagos Islands: from one ancestral species of finch, many species evolved with different beaks for eating seeds, insects, cactus flowers and so on (see below).
 - **Flowering plants:** they have radiated into trees, herbs, climbers, water plants, desert succulents and parasites.
 
-[IMAGE: Adaptive radiation diagram. In the centre, a small shrew-like ancestral mammal. Radiating outwards on curved branching lines are six modern mammals, each in its habitat: a bat flying, a whale swimming, a mole burrowing in soil, a monkey climbing a tree, an antelope running on grassland, and a human walking. Labels to add later: "common ancestor", "flying (bat)", "swimming (whale)", "burrowing (mole)", "climbing (monkey)", "running (antelope)", "walking upright (human)", "adaptive radiation". Clean flat textbook style, white background.]
+![Diagram showing adaptive radiation of mammals from a central shrew-like ancestor to a bat, whale, mole, monkey, antelope, and human.](images/E1-01-adaptive-radiation-mammal.png)
 
 ### General trends produced by evolution
 
@@ -187,7 +187,7 @@ Lamarck also believed that living things have an **inner tendency** to become mo
 5. Each generation stretched a bit more and passed on a slightly longer neck.
 6. After many generations, giraffes had the very **long necks** they have today.
 
-[IMAGE: Lamarck's explanation of the giraffe's neck as three panels in a left-to-right sequence. Panel 1: a short-necked ancestral giraffe stretching its neck upwards towards leaves on a tall acacia tree, with grass bare below. Panel 2: the same giraffe after a lifetime of stretching, with a slightly longer neck, standing beside its young, which is born with an equally longer neck (shown with an arrow from parent to young). Panel 3: after many generations, a modern long-necked giraffe feeding easily on high leaves. Labels to add later: "1 Ancestors had short necks", "2 Stretching lengthened the neck during life (use)", "acquired longer neck passed to offspring", "3 After many generations: long necks", "Lamarck's theory". Clean flat textbook style, white background.]
+![Three-panel illustration showing Lamarckian evolution of the giraffe neck from a short-necked ancestor stretching upwards, to an intermediate parent and offspring, to a modern long-necked giraffe feeding easily.](images/E1-04-lamarck-giraffe-neck-evolution.png)
 
 #### Other examples used by Lamarck or his followers
 
@@ -256,7 +256,7 @@ On the Galápagos Islands, Darwin collected small birds that were later recognis
 
 Darwin concluded that these finches had probably **descended from one ancestral species** that reached the islands from the South American mainland. On the different islands and in different habitats, populations became **adapted** to different foods, and eventually became **separate species**. This is a classic example of **adaptive radiation**. **Textbook variation:** the number of Darwin's finch species is given as 13, 14 or about 15, depending on the classification used.
 
-[IMAGE: Darwin's finches: six finch heads arranged in an arc around a small map outline of the Galápagos Islands, each finch with a different beak shape. Large ground finch with a big deep beak next to a large hard seed; small ground finch with a small short beak next to small seeds; cactus finch with a long pointed beak next to a cactus flower; warbler finch with a thin pointed beak next to a small insect; woodpecker finch holding a cactus spine in a straight beak next to a tree bark grub; vegetarian finch with a parrot-like curved beak next to a bud. A small mainland ancestor finch at the top with arrows spreading out to the six. Labels to add later: "ancestral finch from South America", "large ground finch: hard seeds", "small ground finch: small seeds", "cactus finch: cactus flowers", "warbler finch: insects", "woodpecker finch: grubs (uses a spine)", "vegetarian finch: buds and fruits", "Galápagos Islands". Clean flat textbook style, white background.]
+![Diagram showing an ancestral finch diversifying into six Darwin finch species with specialized beaks for seeds, buds, insects, grubs, and cactus flowers around the Galapagos Islands.](images/E1-05-darwin-finches-beak-adaptation.png)
 
 ### Darwin's theory of natural selection: step by step
 
@@ -293,7 +293,7 @@ Compare this with Lamarck's explanation:
 
 **The key difference:** Lamarck said the neck got longer **during each giraffe's life** by stretching, and this was inherited. Darwin said some giraffes were **born** with longer necks (inherited variation), and these were **selected** by nature.
 
-[IMAGE: Darwin's explanation of the giraffe's neck in three panels. Panel 1: a group of ancestral giraffes with a range of neck lengths (short, medium, slightly longer) standing under a tall acacia tree. Panel 2: during drought, the longer-necked giraffes feeding on high leaves while short-necked ones are thin and one lies dead. Panel 3: after many generations, a herd of long-necked giraffes. Labels to add later: "1 Natural variation in neck length (born that way)", "2 Struggle for food: longer-necked giraffes survive and reproduce", "short-necked giraffes die out", "3 After many generations: mostly long necks", "Darwin's theory (natural selection)". Clean flat textbook style, white background.]
+![Three-panel illustration showing natural selection in giraffes from variation in neck length, struggle for survival during drought with short-necked giraffes dying, to a herd of long-necked giraffes.](images/E1-07-darwin-giraffe-neck-natural.png)
 
 ### Artificial selection: Darwin's model
 
@@ -324,7 +324,7 @@ The **peppered moth** (*Biston betularia*) lives in Britain. It rests by day on 
 
 This change in the proportions of moth forms, caused by **bird predation** in a changed environment, is a clear example of **natural selection** in action. **Textbook variation:** some critics have questioned details of Kettlewell's experiments (for example, whether moths really rest on tree trunks). Later, larger studies (completed in the 2000s) confirmed that bird predation of the more visible form is the main cause of the changes.
 
-[IMAGE: Two side-by-side tree trunks. Left trunk: pale grey-green, covered in light lichen; a pale speckled peppered moth on it is almost invisible, while a dark moth on the same trunk stands out clearly, and a small bird approaches the dark moth. Right trunk: black and sooty, with a factory chimney and smoke in the background; the dark moth is almost invisible while the pale speckled moth stands out, and a bird approaches the pale moth. Labels to add later: "unpolluted area: lichen-covered bark", "polluted area: soot-covered bark", "light (speckled) form", "dark (melanic) form", "conspicuous moth eaten by birds", "camouflaged moth survives". Clean flat textbook style, white background.]
+![Two tree trunks showing natural selection in peppered moths in unpolluted and soot-covered industrial environments, with birds preying on conspicuous moths.](images/E1-08-peppered-moth-industrial-melanism.png)
 
 #### 2. Antibiotic resistance in bacteria
 
@@ -334,7 +334,7 @@ This change in the proportions of moth forms, caused by **bird predation** in a 
 4. Soon, most of the population is **resistant**, and the antibiotic no longer works.
 5. **Misuse** of antibiotics, such as buying them without a prescription, taking them for viral infections like colds, stopping the course too early, or using them routinely in animal feed, speeds up this process. Resistant bacteria such as **MRSA** (methicillin-resistant *Staphylococcus aureus*) are a serious problem in hospitals worldwide.
 
-[IMAGE: Four petri-dish style circles in a left-to-right sequence showing antibiotic resistance. Circle 1: many blue bacteria with a few red (resistant) ones scattered among them. Circle 2: antibiotic capsule icon added; blue bacteria shown faded or burst, red ones intact. Circle 3: only red bacteria remaining, starting to divide. Circle 4: the circle full of red resistant bacteria. Labels to add later: "1 Variation: a few bacteria resistant by mutation", "2 Antibiotic kills non-resistant bacteria", "3 Resistant bacteria survive", "4 Resistant bacteria multiply: antibiotic no longer works". Clean flat textbook style, white background.]
+![A four-step sequence of petri dishes showing the development of antibiotic resistance as resistant bacteria survive an antibiotic capsule and multiply to dominate the population.](images/E1-09-antibiotic-resistance-evolution-steps.png)
 
 #### 3. Resistance in malaria parasites and mosquitoes
 
@@ -427,7 +427,7 @@ A **species** is a group of organisms that can **interbreed** in nature to produ
 4. Over many generations, the groups become **genetically different**, with different adaptations.
 5. Eventually, they become so different that, even if they meet again, they **cannot interbreed** to produce fertile offspring (**reproductive isolation**). They are now **separate species**.
 
-[IMAGE: Speciation diagram in four horizontal stages. Stage 1: one population of brown beetles (or small birds) on a single landmass. Stage 2: a river or sea channel forms, dividing the landmass and the population into two groups. Stage 3: on the left side (dry and sandy), the group has become pale yellow; on the right side (forest), the group has become dark green, each with slightly different shapes. Stage 4: the barrier is gone, the two groups meet, but a red cross between them shows they cannot interbreed. Labels to add later: "1 One population", "2 Geographical barrier: no gene flow", "3 Different mutations and natural selection in each group", "4 Reproductive isolation: two species". Clean flat textbook style, white background.]
+![A four-stage speciation diagram showing beetles separated by a river, evolving into pale yellow and dark green forms in different environments, and remaining reproductively isolated upon reunion.](images/E1-10-allopatric-speciation-stages.png)
 
 ### Modern evidence for the theory
 

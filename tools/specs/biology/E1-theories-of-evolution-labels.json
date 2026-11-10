@@ -1,0 +1,350 @@
+{
+ "E1-01-adaptive-radiation-mammal": {
+  "labels": [
+   [
+    "common ancestor",
+    [
+     513,
+     510
+    ],
+    "R"
+   ],
+   [
+    "flying (bat)",
+    [
+     522,
+     198
+    ],
+    "R"
+   ],
+   [
+    "swimming (whale)",
+    [
+     828,
+     361
+    ],
+    "R"
+   ],
+   [
+    "burrowing (mole)",
+    [
+     839,
+     674
+    ],
+    "R"
+   ],
+   [
+    "climbing (monkey)",
+    [
+     535,
+     830
+    ],
+    "R"
+   ],
+   [
+    "running (antelope)",
+    [
+     237,
+     702
+    ],
+    "L"
+   ],
+   [
+    "walking upright (human)",
+    [
+     198,
+     357
+    ],
+    "L"
+   ],
+   [
+    "adaptive radiation",
+    [
+     513,
+     338
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E1-04-lamarck-giraffe-neck-evolution": {
+  "labels": [
+   [
+    "1 Ancestors had short necks",
+    [
+     182,
+     663
+    ],
+    "L"
+   ],
+   [
+    "2 Stretching lengthened the neck during life (use)",
+    [
+     531,
+     564
+    ],
+    "R"
+   ],
+   [
+    "acquired longer neck passed to offspring",
+    [
+     587,
+     760
+    ],
+    "R"
+   ],
+   [
+    "3 After many generations: long necks",
+    [
+     839,
+     611
+    ],
+    "R"
+   ],
+   [
+    "Lamarck's theory",
+    [
+     512,
+     40
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E1-05-darwin-finches-beak-adaptation": {
+  "labels": [
+   [
+    "ancestral finch from South America",
+    [
+     523,
+     131
+    ],
+    "R"
+   ],
+   [
+    "large ground finch: hard seeds",
+    [
+     338,
+     360
+    ],
+    "L"
+   ],
+   [
+    "small ground finch: small seeds",
+    [
+     663,
+     360
+    ],
+    "R"
+   ],
+   [
+    "cactus finch: cactus flowers",
+    [
+     866,
+     526
+    ],
+    "R"
+   ],
+   [
+    "warbler finch: insects",
+    [
+     715,
+     811
+    ],
+    "R"
+   ],
+   [
+    "woodpecker finch: grubs (uses a spine)",
+    [
+     430,
+     805
+    ],
+    "L"
+   ],
+   [
+    "vegetarian finch: buds and fruits",
+    [
+     263,
+     600
+    ],
+    "L"
+   ],
+   [
+    "Gal\u00e1pagos Islands",
+    [
+     454,
+     595
+    ],
+    "L"
+   ]
+  ]
+ },
+ "E1-07-darwin-giraffe-neck-natural": {
+  "labels": [
+   [
+    "1 Natural variation in neck length (born that way)",
+    [
+     404,
+     245
+    ],
+    "L"
+   ],
+   [
+    "2 Struggle for food: longer-necked giraffes survive and reproduce",
+    [
+     663,
+     500
+    ],
+    "R"
+   ],
+   [
+    "short-necked giraffes die out",
+    [
+     676,
+     626
+    ],
+    "R"
+   ],
+   [
+    "3 After many generations: mostly long necks",
+    [
+     437,
+     865
+    ],
+    "L"
+   ],
+   [
+    "Darwin's theory (natural selection)",
+    [
+     512,
+     20
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E1-08-peppered-moth-industrial-melanism": {
+  "labels": [
+   [
+    "unpolluted area: lichen-covered bark",
+    [
+     198,
+     208
+    ],
+    "L"
+   ],
+   [
+    "polluted area: soot-covered bark",
+    [
+     703,
+     214
+    ],
+    "R"
+   ],
+   [
+    "light (speckled) form",
+    [
+     176,
+     393
+    ],
+    "L"
+   ],
+   [
+    "dark (melanic) form",
+    [
+     670,
+     379
+    ],
+    "R"
+   ],
+   [
+    "conspicuous moth eaten by birds",
+    [
+     283,
+     571
+    ],
+    "L"
+   ],
+   [
+    "camouflaged moth survives",
+    [
+     157,
+     379
+    ],
+    "L"
+   ]
+  ]
+ },
+ "E1-09-antibiotic-resistance-evolution-steps": {
+  "labels": [
+   [
+    "1 Variation: a few bacteria resistant by mutation",
+    [
+     136,
+     512
+    ],
+    "L"
+   ],
+   [
+    "2 Antibiotic kills non-resistant bacteria",
+    [
+     386,
+     512
+    ],
+    "L"
+   ],
+   [
+    "3 Resistant bacteria survive",
+    [
+     636,
+     512
+    ],
+    "R"
+   ],
+   [
+    "4 Resistant bacteria multiply: antibiotic no longer works",
+    [
+     886,
+     512
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E1-10-allopatric-speciation-stages": {
+  "labels": [
+   [
+    "1 One population",
+    [
+     538,
+     131
+    ],
+    "R"
+   ],
+   [
+    "2 Geographical barrier: no gene flow",
+    [
+     523,
+     369
+    ],
+    "R"
+   ],
+   [
+    "3 Different mutations and natural selection in each group",
+    [
+     512,
+     631
+    ],
+    "R"
+   ],
+   [
+    "4 Reproductive isolation: two species",
+    [
+     508,
+     883
+    ],
+    "L"
+   ]
+  ]
+ }
+}

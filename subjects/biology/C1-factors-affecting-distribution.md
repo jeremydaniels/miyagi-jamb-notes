@@ -111,7 +111,7 @@ From the smallest to the largest:
 | Biome | A large region with similar climate and vegetation | The tropical rainforest of southern Nigeria |
 | Biosphere | All the parts of the Earth where life exists | The whole Earth's living layer |
 
-[IMAGE: A vertical "ladder" or set of nested boxes showing the levels of ecological organisation from smallest to largest. Six panels, each a little larger than the one before: (1) a single Tilapia fish; (2) a small school of Tilapia fish; (3) a pond scene with Tilapia, water lilies, a frog, a dragonfly and floating algae; (4) the same pond with the sun, water, mud and air shown around it; (5) a wide landscape of tropical rainforest; (6) the globe of the Earth. Arrows connect each panel to the next. Labels: "organism", "population", "community", "ecosystem", "biome", "biosphere". Soft greens and blues. Clean flat textbook style, white background.]
+![Diagram illustrating six levels of ecological organisation from smallest to largest: organism, population, community, ecosystem, biome, and biosphere, arranged vertically with connecting arrows.](images/C1-01-levels-ecological-organisation.png)
 
 ### Ecological factors
 
@@ -126,7 +126,7 @@ From the smallest to the largest:
 
 Every organism can survive only within a certain **range of tolerance** for each factor. For example, a fish may survive between about 10 °C and 35 °C but grow best within a narrower **optimum** range. Outside its range, the organism becomes stressed and then dies. A factor that is in short supply, or too extreme, and so stops a population from growing or spreading, is called a **limiting factor**. In the dry far north of Nigeria, water is the limiting factor for most plants; on the dark floor of the rainforest, light is the limiting factor.
 
-[IMAGE: A simple bell-shaped graph showing the range of tolerance of an organism for one environmental factor. The horizontal axis is the factor (for example temperature, from low to high); the vertical axis is the number of organisms (or growth). The curve is low at both ends and high in the middle. Shade the central high part as the optimum zone, the parts on each side as zones of stress, and the two ends where the curve meets the axis as zones of intolerance (no organisms). Labels: "optimum range", "zone of stress", "zone of stress", "zone of intolerance", "zone of intolerance", "lower limit of tolerance", "upper limit of tolerance", "environmental factor (e.g. temperature)", "number of organisms". Soft green curve, pale yellow and pale red shading. Clean flat textbook style, white background.]
+![Bell-shaped curve illustrating an organism tolerance range across an environmental factor, divided into an optimum range, zones of stress, and zones of intolerance bounded by tolerance limits.](images/C1-02-ecological-tolerance-curve-graph.png)
 
 ## Abiotic factors and the distribution of organisms
 

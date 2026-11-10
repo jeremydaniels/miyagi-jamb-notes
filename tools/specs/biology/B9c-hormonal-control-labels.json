@@ -7,7 +7,7 @@
      347,
      161
     ],
-    "L"
+    "T"
    ],
    [
     "pituitary gland",
@@ -15,7 +15,7 @@
      361,
      205
     ],
-    "L"
+    "T"
    ],
    [
     "thyroid gland",
@@ -31,7 +31,7 @@
      601,
      328
     ],
-    "R"
+    "T"
    ],
    [
     "trachea",
@@ -87,7 +87,7 @@
      702,
      881
     ],
-    "R"
+    "T"
    ],
    [
     "uterus",
@@ -95,7 +95,7 @@
      661,
      891
     ],
-    "R"
+    "T"
    ],
    [
     "testis",
@@ -113,7 +113,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9c-03-pituitary-gland-anatomy-section": {
   "labels": [
@@ -176,48 +179,36 @@
   ]
  },
  "B9c-04-pituitary-disorders-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "gigantism (too much growth hormone in childhood)",
-    [
-     167,
-     390
-    ],
-    "L"
+    "gigantism (too\nmuch growth\nhormone in\nchildhood)",
+    159,
+    997
    ],
    [
     "normal",
-    [
-     414,
-     492
-    ],
-    "L"
+    413,
+    997
    ],
    [
-    "pituitary dwarfism (too little growth hormone in childhood)",
-    [
-     619,
-     640
-    ],
-    "R"
+    "pituitary\ndwarfism (too\nlittle growth\nhormone in\nchildhood)",
+    622,
+    997
    ],
    [
     "normal hand",
-    [
-     877,
-     315
-    ],
-    "R"
+    864,
+    503
    ],
    [
-    "acromegaly hand (too much growth hormone in adults)",
-    [
-     883,
-     741
-    ],
-    "R"
+    "acromegaly\nhand (too much\ngrowth hormone\nin adults)",
+    866,
+    932
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9c-06-adrenal-gland-anatomy-section": {
   "labels": [
@@ -350,14 +341,6 @@
  "B9c-08-gonads-endocrine-histology": {
   "labels": [
    [
-    "testis",
-    [
-     116,
-     81
-    ],
-    "L"
-   ],
-   [
     "seminiferous tubule",
     [
      263,
@@ -380,14 +363,6 @@
      512
     ],
     "L"
-   ],
-   [
-    "ovary",
-    [
-     689,
-     200
-    ],
-    "R"
    ],
    [
     "developing follicle (oestrogen)",
@@ -421,7 +396,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "testis",
+    243,
+    979
+   ],
+   [
+    "ovary",
+    781,
+    942
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9c-11-auxin-tropisms-mechanism": {
   "labels": [
@@ -494,22 +483,6 @@
  "B9c-12-klinostat-geotropism-experiment-apparatus": {
   "labels": [
    [
-    "rotating klinostat (control)",
-    [
-     268,
-     243
-    ],
-    "L"
-   ],
-   [
-    "stationary klinostat",
-    [
-     675,
-     528
-    ],
-    "R"
-   ],
-   [
     "disc",
     [
      290,
@@ -565,33 +538,31 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "rotating klinostat\n(control)",
+    273,
+    816
+   ],
+   [
+    "stationary klinostat",
+    759,
+    816
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9c-13-gibberellin-effect-seed-germination": {
   "labels": [
-   [
-    "dwarf pea (untreated)",
-    [
-     150,
-     677
-    ],
-    "L"
-   ],
-   [
-    "dwarf pea treated with gibberellin",
-    [
-     380,
-     437
-    ],
-    "L"
-   ],
    [
     "long internodes",
     [
      365,
      619
     ],
-    "L"
+    "T"
    ],
    [
     "embryo",
@@ -633,7 +604,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "dwarf pea\n(untreated)",
+    147,
+    948
+   ],
+   [
+    "dwarf pea\ntreated with\ngibberellin",
+    362,
+    947
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9c-15-leaf-abscission-zone-anatomy": {
   "labels": [
@@ -738,14 +723,6 @@
     "L"
    ],
    [
-    "thyroid gland",
-    [
-     202,
-     559
-    ],
-    "L"
-   ],
-   [
     "left lobe",
     [
      278,
@@ -768,23 +745,26 @@
      564
     ],
     "L"
-   ],
-   [
-    "parathyroid glands",
-    [
-     431,
-     464
-    ],
-    "L"
-   ],
-   [
-    "goitre (enlarged thyroid)",
-    [
-     849,
-     689
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "thyroid gland",
+    203,
+    785
+   ],
+   [
+    "parathyroid\nglands",
+    513,
+    644
+   ],
+   [
+    "goitre (enlarged\nthyroid)",
+    805,
+    796
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

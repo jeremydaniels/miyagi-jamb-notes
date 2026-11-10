@@ -29,7 +29,7 @@ When a solid substance (the **solute**) is added to a liquid (the **solvent**), 
 2. **Saturated solution:** This is a solution that contains the maximum amount of solute it can hold at a given temperature, in the presence of undissolved solute. It is in a state of **dynamic equilibrium**: the rate at which solid particles leave the crystal to dissolve is exactly equal to the rate at which dissolved particles return to the solid to crystallize. If you add more solid to a saturated solution, it will just sink to the bottom and remain undissolved.
 3. **Supersaturated solution:** This is an unstable solution that contains *more* solute than it would normally be able to hold stably at that temperature. It is created by saturating a solution at a high temperature (where solubility is higher) and then cooling it very slowly and carefully without disturbing it. Because it is highly unstable, scratching the side of the container or dropping in a tiny piece of the solid (a **seed crystal**) will cause the excess solute to rapidly crystallize out, leaving behind a normal saturated solution.
 
-[IMAGE: Three glass beakers side-by-side. 1: "Unsaturated solution": a small spoon of blue copper(II) tetraoxosulphate(VI) crystals dissolving completely into a clear pale blue liquid. 2: "Saturated solution": a darker blue liquid with a pile of undissolved blue crystals resting on the bottom. 3: "Supersaturated solution": a very dark blue liquid with a single large seed crystal dropped in, triggering rapid crystal growth radiating outward. Clean flat textbook style, white background.]
+![Three beakers showing unsaturated solution with crystals dissolving from a spoon, saturated solution with undissolved crystals at the bottom, and supersaturated solution with radiating crystal growth.](images/A6-01-beakers-solution-saturation.png)
 
 ### Calculate the amount of solute that can dissolve
 
@@ -88,7 +88,7 @@ The amount of solute that can dissolve in a solvent depends heavily on the tempe
 
 A **solubility curve** is a graph that plots the solubility of a substance (on the vertical y-axis) against temperature (on the horizontal x-axis).
 
-[IMAGE: A line graph titled "Solubility Curves". The y-axis is "Solubility (mol dm⁻³)" and the x-axis is "Temperature (°C)". It shows three curves: a steep upward curve for KNO₃ showing solubility rising rapidly with temperature, a very flat nearly horizontal line for NaCl showing solubility barely changing, and a downward-sloping curve for a gas or Ca(OH)₂. Clean flat textbook style, white background.]
+![A graph titled Solubility Curves showing solubility versus temperature for KNO3 rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.](images/A6-02-solubility-curves-line-graph.png)
 
 **Important deductions from solubility curves:**
 1. **Finding exact solubility:** You can find the maximum amount of solute that will dissolve at any specific temperature by reading the value on the y-axis that corresponds to a temperature on the x-axis.
@@ -148,7 +148,7 @@ A false solution (colloid) behaves very differently from a true solution. The mo
 | **Appearance** | Clear and transparent | Often cloudy, translucent or opaque | Opaque |
 | **Tyndall effect** | Does not scatter light (no Tyndall effect) | Scatters light heavily (shows Tyndall effect) | May scatter or absorb light completely |
 
-[IMAGE: Three glass beakers side-by-side in a dark room. A flashlight shines a beam from the left through all three. The first beaker (True Solution, like salt water) shows no visible beam inside the clear liquid. The second beaker (Colloid, like dilute milk) shows a distinct, glowing solid beam of light passing through the slightly cloudy liquid (Tyndall effect). The third beaker (Suspension, like muddy water) shows a cloudy liquid with large particles settling at the bottom, heavily blocking and scattering the light randomly. Labels to add later: "Flashlight", "True Solution", "Colloid (Tyndall effect visible)", "Suspension". Clean flat textbook style.]
+![Illustration of a flashlight shining a light beam through three beakers containing a solution, a colloid displaying the Tyndall effect, and a suspension.](images/A6-03-tyndall-effect-comparison-beakers.png)
 
 ### Provide typical examples of suspensions and colloids
 

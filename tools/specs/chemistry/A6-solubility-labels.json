@@ -1,0 +1,32 @@
+{
+ "A6-01-beakers-solution-saturation": {},
+ "A6-03-tyndall-effect-comparison-beakers": {
+  "caption_below": "Colloid (Tyndall effect visible)",
+  "labels": [
+   [
+    "Flashlight",
+    [
+     106,
+     523
+    ],
+    "L"
+   ],
+   [
+    "True Solution",
+    [
+     338,
+     538
+    ],
+    "L"
+   ],
+   [
+    "Suspension",
+    [
+     849,
+     542
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -47,7 +47,7 @@ So about **half** of a good soil is solid, and about **half** is **pore space** 
 
 **Textbook variation:** these figures are a widely used guide, not fixed values. The share of air and water changes all the time with rainfall and drainage, and the organic matter of many tropical soils is less than 5%.
 
-[IMAGE: A pie chart showing the approximate composition by volume of a good loam soil. Four slices: mineral particles 45% (sandy brown), organic matter 5% (dark brown), water 25% (soft blue), air 25% (very pale grey-blue). Small simple icons beside each slice: tiny rock grains for minerals, a decaying leaf for organic matter, a water drop for water, a bubble for air. Labels: "Mineral particles 45%", "Organic matter 5%", "Water 25%", "Air 25%". Clean flat textbook style, white background.]
+![A pie chart showing loam soil composition by volume: 45 percent mineral particles, 5 percent organic matter, 25 percent water, and 25 percent air, with accompanying icons.](images/C6-01-soil-composition-pie-chart.png)
 
 ## How soil is formed
 

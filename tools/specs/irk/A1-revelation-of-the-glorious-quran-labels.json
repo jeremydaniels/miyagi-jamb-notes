@@ -1,0 +1,33 @@
+{
+ "A1-01-religious-historical-landscape": {
+  "regions": [
+   "Makkah"
+  ],
+  "labels": [
+   [
+    "Jabal an-N\u016br (Mountain of Light)",
+    [
+     390,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Cave Hira",
+    [
+     326,
+     315
+    ],
+    "L"
+   ],
+   [
+    "Makkah",
+    [
+     783,
+     564
+    ],
+    "R"
+   ]
+  ]
+ }
+}

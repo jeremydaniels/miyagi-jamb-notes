@@ -38,7 +38,7 @@ Cave Hira is a small cave located near the top of **Jabal an-Nūr** (The Mountai
 
 He would stay in the cave for days or weeks, especially during the month of Ramadān, returning to his wife, Khadījah (RA), only to collect more provisions before going back.
 
-[IMAGE: A wide landscape illustration of Jabal an-Nūr (Mountain of Light) outside Makkah under a starry night sky. The mountain is steep and rocky. Near the peak, a small, dark opening represents Cave Hira. Below in the distance, the ancient city of Makkah can be seen with the Ka'bah. Labels to add later: "Jabal an-Nūr (Mountain of Light)", "Cave Hira", "Makkah". Clean flat textbook style, muted night-time colours, white background.]
+![A night landscape showing the rocky Jabal an-Nur with Cave Hira near its summit, overlooking the ancient city of Makkah and the Kabah under a starry sky.](images/A1-01-religious-historical-landscape.png)
 
 ## The First Revelation and the Prophet's Reaction
 
@@ -110,7 +110,7 @@ The Qur'an itself addresses this method in two important ayāt:
 4. **Gradual Implementation of Laws:** The early Muslims needed time to change their deep-rooted habits from the days of Ignorance. For example, the prohibition of alcohol was not brought down all at once. It was revealed in three gradual stages to allow people time to adjust and willingly leave the habit.
 5. **To Prove its Divine Origin:** Despite being revealed over 23 years, in different places and varying circumstances, the Qur'an contains no contradictions and reads seamlessly as one unified book.
 
-[IMAGE: A timeline graphic. The left side shows a crescent moon and the label "610 CE: First Revelation in Makkah (Age 40)". A central line stretches to the right, divided into a "Makkan Period (13 Years)" section colored in warm sand tones, and a "Madinan Period (10 Years)" section colored in green. The right end of the line says "632 CE: Final Revelation in Madinah (Age 63)". Small icons along the line show a scroll (representing verses) being gradually unrolled. Labels to add later: "Total: 23 Years of Piecemeal Revelation", "Makkan phase: Focus on Faith", "Madinan phase: Focus on Laws". Clean flat textbook style, white background.]
+![Timeline of Quranic revelation showing the 13-year Makkan period focused on faith and the 10-year Madinan period focused on laws, spanning from 610 to 632 CE.](images/A1-02-two-phase-historical-timeline.png)
 
 ## Names and Attributes of the Glorious Qur'an
 

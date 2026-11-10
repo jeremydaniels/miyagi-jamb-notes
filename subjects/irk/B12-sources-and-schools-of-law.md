@@ -144,7 +144,7 @@ Each Imam contributed uniquely to the science of Islamic jurisprudence, leaving 
 * **Strict Reliance on Text:** Imam Ahmad's methodology was the most conservative of the four. He relied almost entirely on the Qur'an and Hadith. He was extremely reluctant to use Qiyas (analogy) or personal opinion, using them only as an absolute last resort if no text could be found.
 * **Geographic Spread:** The Hanbali school is the smallest of the four in terms of followers. It is the dominant school in Saudi Arabia and Qatar, and has followers in other parts of the Arabian Peninsula and Syria.
 
-[IMAGE: A map of the Muslim world (Africa, Middle East, Asia) colour-coded to show the dominant regions of the four schools of thought. North and West Africa (including Nigeria) are shaded green for Maliki. Turkey, Central Asia, and the Indian subcontinent are shaded blue for Hanafi. Egypt, East Africa, and Southeast Asia (Indonesia/Malaysia) are shaded orange for Shafi'i. The Arabian peninsula is shaded purple for Hanbali. A clear legend in the corner explains the colours. Clean flat textbook style, white background.]
+![Map showing the distribution of four Sunni legal schools: Maliki in North-West Africa, Hanafi in Central and South Asia, Hanbali in Arabia, and Shafi'i in East Africa and Southeast Asia.](images/B12-03-islamic-madhhab-distribution-map.png)
 
 ### Summary Table: The Four Sunni Schools of Law
 

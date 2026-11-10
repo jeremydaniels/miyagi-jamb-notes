@@ -208,7 +208,7 @@ The value of $g$ varies slightly from place to place due to four main factors:
 4.  **Depth (Distance below the surface):**
     If you go deep into a mine, you might think $g$ increases because you are closer to the centre. However, the mass of the Earth *above* you pulls upwards, cancelling out some of the downward pull. Ultimately, $g$ **decreases with depth** and becomes exactly zero at the centre of the Earth.
 
-[IMAGE: A cross-section of the Earth, slightly squashed so it looks wider than it is tall. An arrow points from the centre to the North Pole, labelled "Polar radius (shorter) -> higher g". Another arrow points from the centre to the equator, labelled "Equatorial radius (longer) -> lower g". Clean flat textbook illustration, white background.]
+![Cross-section of Earth showing a shorter polar radius resulting in higher gravitational acceleration and a longer equatorial radius resulting in lower gravitational acceleration.](images/A4-02-earth-shape-gravity.png)
 
 ---
 

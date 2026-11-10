@@ -1,0 +1,148 @@
+{
+ "B9d-02-homeostatic-organs-human-body": {
+  "labels": [
+   [
+    "hypothalamus",
+    [
+     518,
+     152
+    ],
+    "R"
+   ],
+   [
+    "pituitary gland",
+    [
+     497,
+     189
+    ],
+    "L"
+   ],
+   [
+    "thyroid gland",
+    [
+     513,
+     361
+    ],
+    "R"
+   ],
+   [
+    "lungs",
+    [
+     591,
+     501
+    ],
+    "R"
+   ],
+   [
+    "liver",
+    [
+     454,
+     638
+    ],
+    "L"
+   ],
+   [
+    "pancreas",
+    [
+     528,
+     702
+    ],
+    "R"
+   ],
+   [
+    "adrenal glands",
+    [
+     571,
+     730
+    ],
+    "R"
+   ],
+   [
+    "kidneys",
+    [
+     582,
+     783
+    ],
+    "R"
+   ],
+   [
+    "skin",
+    [
+     272,
+     635
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9d-05-skin-vasodilation-vasoconstriction-comparison": {},
+ "B9d-08-fish-osmoregulation-comparison": {},
+ "B9d-09-amoeba-contractile-vacuole-cycle": {
+  "labels": [
+   [
+    "water enters by osmosis",
+    [
+     182,
+     208
+    ],
+    "L"
+   ],
+   [
+    "cell membrane",
+    [
+     107,
+     335
+    ],
+    "L"
+   ],
+   [
+    "nucleus",
+    [
+     223,
+     289
+    ],
+    "L"
+   ],
+   [
+    "contractile vacuole filling (diastole)",
+    [
+     811,
+     218
+    ],
+    "R"
+   ],
+   [
+    "mitochondria",
+    [
+     731,
+     192
+    ],
+    "R"
+   ],
+   [
+    "vacuole reaches membrane",
+    [
+     807,
+     702
+    ],
+    "R"
+   ],
+   [
+    "water expelled (systole)",
+    [
+     320,
+     702
+    ],
+    "L"
+   ],
+   [
+    "fresh water",
+    [
+     115,
+     161
+    ],
+    "L"
+   ]
+  ]
+ }
+}

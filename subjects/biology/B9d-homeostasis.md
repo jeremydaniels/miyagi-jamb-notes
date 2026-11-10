@@ -121,7 +121,7 @@ Not all feedback in the body is negative. In **positive feedback**, a change cau
 | **Thyroid gland** | Makes **thyroxine**, which controls the metabolic rate and therefore heat production |
 | **Lungs** | Remove **CO₂**, helping to keep blood pH constant; lose some water vapour |
 
-[IMAGE: Front view outline of a human body with the main organs of homeostasis highlighted in distinct soft colours: the brain with the hypothalamus shaded and the small pituitary gland below it, the thyroid gland in the neck, the lungs in the chest, the liver in the upper right abdomen, the pancreas behind the stomach, the two kidneys at the back of the abdomen with small adrenal glands on top, and the skin shown as a highlighted outline around the body. Labels: hypothalamus, pituitary gland, thyroid gland, lungs, liver, pancreas, adrenal glands, kidneys, skin. Clean flat textbook style, white background.]
+![Diagram showing the human body outline with main organs of homeostasis including the brain, pituitary, thyroid, lungs, liver, pancreas, kidneys, adrenal glands, and skin outline.](images/B9d-02-homeostatic-organs-human-body.png)
 
 ## Body temperature regulation
 
@@ -244,7 +244,7 @@ Example: a person walking to school early on a cold harmattan morning in Jos or 
 
 **Common mistake:** capillaries **do not move** up and down in the skin, and they have no muscles to widen or narrow themselves. It is the **arterioles** (small arteries) supplying them that widen or narrow, changing **how much blood flows** through the surface capillaries.
 
-[IMAGE: Two side-by-side vertical sections of skin comparing responses to heat and cold. Left panel titled too hot: sweat droplets on the skin surface with small wavy evaporation lines rising, a widened (dilated) red arteriole feeding many bright red surface capillaries, red heat arrows radiating out of the skin, a hair lying flat with its erector muscle relaxed, a busy sweat gland. Right panel titled too cold: dry skin surface, a narrowed (constricted) arteriole with few, pale surface capillaries and the deeper shunt vessel carrying blood instead, only small heat arrows, a hair standing upright with its erector muscle contracted and a layer of trapped air shown as pale blue around the hair, an inactive sweat gland. Labels for left: sweat evaporates, vasodilation, more heat lost by radiation, hair lies flat, erector muscle relaxed. Labels for right: no sweat, vasoconstriction, shunt vessel open, less heat lost, hair raised, erector muscle contracted, trapped air insulates. Clean flat textbook style, white background.]
+![Two skin cross-sections showing thermoregulation: vasodilation, sweating, and flat hair in heat compared to vasoconstriction, erect hair with trapped air, and inactive sweat gland in cold.](images/B9d-05-skin-vasodilation-vasoconstriction-comparison.png)
 
 ### Temperature regulation in other animals
 
@@ -433,7 +433,7 @@ Examples: **croakers**, **mackerel**, **tuna**, **sardines** and other fish caug
 | Main danger | Swelling with water; losing salts | Dehydration; too much salt |
 | Examples | *Tilapia*, *Clarias* (catfish), Nile perch | Croaker, mackerel, tuna, sardine |
 
-[IMAGE: Two fish side by side for comparison of osmoregulation. Left fish (a Tilapia-like freshwater fish) in pale green fresh water: blue arrows showing water entering through the gills and body surface, small orange dots showing salts leaving, a large blue drop of urine leaving from near the anus, a crossed-out mouth drop to show no drinking, and small purple arrows showing salts being actively taken in at the gills. Right fish (a mackerel-like marine fish) in deeper blue sea water: blue arrows showing water leaving through the gills, orange salt dots entering, a large blue arrow into the mouth showing drinking of sea water, a tiny drop of urine, and purple arrows showing salts being actively pumped out at the gills. Labels for left: freshwater fish, water enters by osmosis, salts lost, does not drink, gills absorb salts, large volume of dilute urine. Labels for right: marine fish, water lost by osmosis, salts enter, drinks sea water, gills excrete salts, small volume of urine. Clean flat textbook style, white background.]
+![Comparison of osmoregulation in freshwater and marine fish showing water exchange, active ion transport across gills, drinking habits, and relative urine production.](images/B9d-08-fish-osmoregulation-comparison.png)
 
 ### Osmoregulation in *Amoeba*: the contractile vacuole
 
@@ -459,7 +459,7 @@ Examples: **croakers**, **mackerel**, **tuna**, **sardines** and other fish caug
 
 Other freshwater protists, such as *Paramecium* (two contractile vacuoles with radiating canals), *Euglena* and *Chlamydomonas*, use contractile vacuoles in the same way.
 
-[IMAGE: Sequence of four drawings of an Amoeba in fresh water showing the contractile vacuole cycle, connected by curved arrows in a circle. 1: small blue arrows showing water entering the cell by osmosis across the cell membrane, with a small contractile vacuole beginning to form near tiny vesicles. 2: the contractile vacuole larger and filling with water (diastole), with small mitochondria around it. 3: the full contractile vacuole moving to the cell membrane. 4: the vacuole bursting and releasing water outside the cell (systole), with blue droplets leaving. Show the nucleus, granular cytoplasm and pseudopodia in every drawing. Labels: water enters by osmosis, cell membrane, nucleus, contractile vacuole filling (diastole), mitochondria, vacuole reaches membrane, water expelled (systole), fresh water. Clean flat textbook style, white background.]
+![A four-stage cyclical diagram showing the contractile vacuole cycle in an amoeba, from water intake by osmosis to vacuole filling, movement to the membrane, and water expulsion.](images/B9d-09-amoeba-contractile-vacuole-cycle.png)
 
 ### Osmoregulation in plants (in brief)
 

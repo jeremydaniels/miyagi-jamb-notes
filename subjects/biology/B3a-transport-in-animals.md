@@ -260,7 +260,7 @@ Mammals (and birds) have a **double circulation**: the blood passes **through th
 
 **Short form:** body → venae cavae → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body.
 
-[IMAGE: Simple schematic of the mammalian double circulation. The heart in the centre drawn as four boxes (right atrium and right ventricle on the viewer's left, left atrium and left ventricle on the viewer's right, as in a front view). An upper loop going to a pair of lungs at the top, and a lower loop going to a box representing body organs at the bottom. Vessels carrying oxygenated blood coloured red and deoxygenated blood coloured blue, with arrows showing the direction of flow. Labels to add: "lungs", "body organs", "right atrium", "right ventricle", "left atrium", "left ventricle", "pulmonary artery", "pulmonary vein", "aorta", "vena cava", "pulmonary circulation", "systemic circulation", "oxygenated blood", "deoxygenated blood". Clean flat textbook style, white background.]
+![Diagram of mammalian double circulation showing pulmonary and systemic circuits connecting the four heart chambers with the lungs and body organs, with arrows indicating blood flow.](images/B3a-03-double-circulatory-system-schematic.png)
 
 #### Advantages of a double circulation
 

@@ -771,5 +771,106 @@
  },
  "B9a-14-conditioned-reflex-pavlov-experiment": {
   "caption_below": "Pavlov's experiment showing unconditioned stimulus (food), unconditioned response (salivation), neutral stimulus (bell), bell + food, conditioned stimulus, and conditioned response."
+ },
+ "B9a-02-motor-neurone-structure": {
+  "caption_below": "Direction of impulse.",
+  "labels": [
+   [
+    "dendrites",
+    [
+     102,
+     500
+    ],
+    "L"
+   ],
+   [
+    "cell body",
+    [
+     263,
+     476
+    ],
+    "L"
+   ],
+   [
+    "nucleus",
+    [
+     239,
+     505
+    ],
+    "L"
+   ],
+   [
+    "Nissl granules",
+    [
+     208,
+     463
+    ],
+    "L"
+   ],
+   [
+    "axon",
+    [
+     347,
+     509
+    ],
+    "L"
+   ],
+   [
+    "myelin sheath",
+    [
+     644,
+     518
+    ],
+    "R"
+   ],
+   [
+    "Schwann cell",
+    [
+     563,
+     501
+    ],
+    "R"
+   ],
+   [
+    "nucleus of Schwann cell",
+    [
+     642,
+     499
+    ],
+    "R"
+   ],
+   [
+    "node of Ranvier",
+    [
+     524,
+     512
+    ],
+    "R"
+   ],
+   [
+    "axon terminals",
+    [
+     804,
+     478
+    ],
+    "R"
+   ],
+   [
+    "synaptic knobs",
+    [
+     883,
+     623
+    ],
+    "R"
+   ],
+   [
+    "muscle fibre",
+    [
+     925,
+     502
+    ],
+    "R"
+   ]
+  ]
  }
 }

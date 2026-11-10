@@ -92,7 +92,7 @@ A typical neurone (a **motor neurone** is usually drawn) has:
 
 **Textbook variation:** some textbooks use "dendron" for the long fibre that carries impulses towards the cell body in a sensory neurone; others call it a dendrite or an axon. Figures for the speed of impulses also vary between books.
 
-[IMAGE: A large, clear diagram of a motor neurone drawn horizontally. On the left, a star-shaped cell body with a round nucleus and dark speckles (Nissl granules), with several branched dendrites. From the cell body, a long axon runs to the right, covered by a segmented myelin sheath made of Schwann cells (each with a small nucleus), with small gaps (nodes of Ranvier) between segments. On the far right, the axon divides into several axon terminals ending in small round synaptic knobs touching a muscle fibre (motor end plate). Draw an arrow along the axon showing the direction of the impulse from left to right. Labels: dendrites, cell body, nucleus, Nissl granules, axon, myelin sheath, Schwann cell, nucleus of Schwann cell, node of Ranvier, axon terminals, synaptic knobs, muscle fibre, direction of impulse. Soft yellow neurone, white-cream myelin, pink muscle. Clean flat textbook style, white background.]
+![Diagram of a motor neuron showing cell body with dendrites, myelinated axon with Schwann cells, and axon terminals connecting to a muscle fiber.](images/B9a-02-motor-neurone-structure.png)
 
 ### Types of neurones
 

@@ -40,7 +40,7 @@ The deep contrast between Rome and Egypt is one of the play's most important str
 | **Gender association** | Masculine (Caesar and the soldiers) | Feminine (ruled by Cleopatra) |
 | **View of the other** | Romans see Egypt as a place of shameful lust that makes men weak. | Egyptians see Rome as cold and calculating. |
 
-[IMAGE: A conceptual map of the Mediterranean Sea. On the left (West) is Rome, marked with a Roman eagle, swords and marble columns. On the right (East) is Alexandria, Egypt, marked with pyramids, the winding River Nile, a lotus flower and a snake. A dotted line with arrows goes back and forth across the sea, showing Antony's divided loyalties. Labels: "Rome: Duty, Power, Reason", "Egypt: Passion, Pleasure, Fertility", "Mediterranean Sea". Clean flat textbook style, white background.]
+![A diagram contrasting Rome on the west and Egypt on the east, connected across the Mediterranean Sea by dotted arrows representing Antonys divided loyalties.](images/B2-01-conceptual-mediterranean-map-rome.png)
 
 ## Socio-Political Context
 

@@ -180,7 +180,7 @@ To help you compare and distinguish these systems for the exam, use this table:
 | **Cost of Elections** | Very low | Moderate | Very high (due to many parties) |
 | **Example** | China, Cuba | USA, UK (effectively) | Nigeria, India, Israel |
 
-[IMAGE: A three-column comparative illustration. Column 1 (One-Party): A single large ballot box with one party logo and a voter dropping a ballot. Column 2 (Two-Party): Two large podiums in a debate, one blue and one red, representing two major parties. Column 3 (Multi-Party): A ballot paper with many different party logos and a hand holding a pen deciding which one to tick. Labels to add later: "One-Party System: Limited Choice", "Two-Party System: Clear Alternative", "Multi-Party System: Wide Variety". Clean flat textbook style, white background.]
+![Three-column illustration comparing a one-party system with a single ballot box, a two-party system with red and blue debate podiums, and a multi-party system with multiple ballot options.](images/A13-02-party-systems-comparative.png)
 
 ---
 

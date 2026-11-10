@@ -1,0 +1,334 @@
+{
+ "B6b-07-mammalian-vertebrae-comparison": {
+  "labels": [
+   [
+    "neural spine",
+    [
+     242,
+     95
+    ],
+    "L"
+   ],
+   [
+    "neural canal",
+    [
+     243,
+     184
+    ],
+    "L"
+   ],
+   [
+    "neural arch",
+    [
+     243,
+     143
+    ],
+    "L"
+   ],
+   [
+    "centrum",
+    [
+     243,
+     242
+    ],
+    "L"
+   ],
+   [
+    "transverse process",
+    [
+     161,
+     172
+    ],
+    "L"
+   ],
+   [
+    "tubercular facet",
+    [
+     310,
+     193
+    ],
+    "L"
+   ],
+   [
+    "capitular facet",
+    [
+     786,
+     167
+    ],
+    "R"
+   ],
+   [
+    "rib",
+    [
+     430,
+     235
+    ],
+    "L"
+   ],
+   [
+    "head of rib (capitulum)",
+    [
+     794,
+     204
+    ],
+    "R"
+   ],
+   [
+    "tubercle",
+    [
+     316,
+     208
+    ],
+    "L"
+   ],
+   [
+    "prezygapophysis",
+    [
+     202,
+     414
+    ],
+    "L"
+   ],
+   [
+    "postzygapophysis",
+    [
+     741,
+     527
+    ],
+    "R"
+   ],
+   [
+    "lumbar vertebra",
+    [
+     243,
+     506
+    ],
+    "L"
+   ],
+   [
+    "sacrum",
+    [
+     245,
+     716
+    ],
+    "L"
+   ],
+   [
+    "surface for ilium",
+    [
+     145,
+     645
+    ],
+    "L"
+   ],
+   [
+    "caudal vertebra",
+    [
+     244,
+     926
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B6b-12-antagonistic-arm-muscles": {
+  "labels": [
+   [
+    "scapula",
+    [
+     107,
+     315
+    ],
+    "L"
+   ],
+   [
+    "humerus",
+    [
+     258,
+     457
+    ],
+    "L"
+   ],
+   [
+    "biceps (contracted)",
+    [
+     305,
+     437
+    ],
+    "L"
+   ],
+   [
+    "triceps (relaxed)",
+    [
+     229,
+     457
+    ],
+    "L"
+   ],
+   [
+    "tendon",
+    [
+     247,
+     315
+    ],
+    "L"
+   ],
+   [
+    "radius",
+    [
+     439,
+     402
+    ],
+    "L"
+   ],
+   [
+    "ulna",
+    [
+     441,
+     464
+    ],
+    "L"
+   ],
+   [
+    "olecranon process",
+    [
+     379,
+     619
+    ],
+    "L"
+   ],
+   [
+    "elbow joint (hinge, fulcrum)",
+    [
+     347,
+     603
+    ],
+    "L"
+   ],
+   [
+    "biceps (relaxed)",
+    [
+     735,
+     471
+    ],
+    "R"
+   ],
+   [
+    "triceps (contracted)",
+    [
+     655,
+     459
+    ],
+    "R"
+   ],
+   [
+    "arm bent",
+    [
+     296,
+     410
+    ],
+    "L"
+   ],
+   [
+    "arm straight",
+    [
+     719,
+     493
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6b-13-skeletal-disorders-comparison": {
+  "labels": [
+   [
+    "rickets (bowed legs)",
+    [
+     157,
+     280
+    ],
+    "L"
+   ],
+   [
+    "normal legs",
+    [
+     378,
+     280
+    ],
+    "L"
+   ],
+   [
+    "simple fracture",
+    [
+     661,
+     275
+    ],
+    "R"
+   ],
+   [
+    "compound fracture",
+    [
+     866,
+     287
+    ],
+    "R"
+   ],
+   [
+    "skin",
+    [
+     702,
+     271
+    ],
+    "R"
+   ],
+   [
+    "healthy joint",
+    [
+     401,
+     754
+    ],
+    "L"
+   ],
+   [
+    "smooth cartilage",
+    [
+     399,
+     716
+    ],
+    "L"
+   ],
+   [
+    "arthritic joint",
+    [
+     161,
+     754
+    ],
+    "L"
+   ],
+   [
+    "worn cartilage",
+    [
+     159,
+     721
+    ],
+    "L"
+   ],
+   [
+    "splint",
+    [
+     619,
+     723
+    ],
+    "R"
+   ],
+   [
+    "bandage",
+    [
+     661,
+     760
+    ],
+    "R"
+   ]
+  ]
+ }
+}

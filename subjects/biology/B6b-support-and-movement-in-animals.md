@@ -436,7 +436,7 @@ Most vertebrae share the same basic plan:
 
 **Function:** support the **tail**. The tail is used for **balance** (rat, squirrel, cat), **driving away flies** (cow, goat, horse), **grasping** (some monkeys), signalling and communication (dog), and as a muscle attachment for the anus and pelvic floor in humans (coccyx).
 
-[IMAGE: A row of four vertebrae drawn from the front and from the side, for comparison: (1) a thoracic vertebra with a long backward-pointing neural spine, a medium centrum with capitular facets, and short transverse processes with tubercular facets, with the head and tubercle of a rib shown fitting into these facets; (2) a lumbar vertebra with a very large centrum, broad flat neural spine and long broad transverse processes; (3) the sacrum, a triangular bone of fused vertebrae with wing-like transverse processes joining the ilium; (4) a caudal vertebra reduced to a small rod-like centrum. Labels: neural spine, neural canal, neural arch, centrum, transverse process, tubercular facet, capitular facet, rib, head of rib (capitulum), tubercle, prezygapophysis, postzygapophysis, lumbar vertebra, sacrum, surface for ilium, caudal vertebra. Clean flat textbook style, white background.]
+![Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.](images/B6b-07-mammalian-vertebrae-comparison.png)
 
 #### Comparison of the types of vertebrae
 
@@ -726,7 +726,7 @@ A muscle that bends a joint is called a **flexor**; one that straightens it is a
 
 **The arm as a lever:** the forearm works as a **lever**. The **elbow joint** is the **fulcrum** (pivot); the **biceps** provides the **effort**, pulling at its insertion close to the elbow; the **load** is the weight of the forearm and anything held in the hand. Because the effort is applied close to the fulcrum, a small contraction of the biceps produces a large, fast movement of the hand.
 
-[IMAGE: Two side-by-side diagrams of the human arm showing antagonistic muscles. Left ("arm bent"): the biceps on the front of the upper arm drawn short and bulging (contracted, in red), the triceps behind drawn long and thin (relaxed, in light pink), the forearm raised; tendons connecting the biceps to the scapula and radius and the triceps to the scapula/humerus and the olecranon process of the ulna. Right ("arm straight"): triceps short and fat (contracted), biceps long and thin (relaxed), forearm lowered. Mark the elbow joint as a fulcrum with a small triangle. Labels: scapula, humerus, biceps (contracted), triceps (relaxed), tendon, radius, ulna, olecranon process, elbow joint (hinge, fulcrum), biceps (relaxed), triceps (contracted), arm bent, arm straight. Clean flat textbook style, white background.]
+![Anatomical diagrams comparing antagonistic biceps and triceps muscle action during arm flexion and extension, showing bone attachments and elbow joint fulcrums.](images/B6b-12-antagonistic-arm-muscles.png)
 
 ## Functions of the skeleton and the wellbeing of the animal
 
@@ -821,7 +821,7 @@ A muscle that bends a joint is called a **flexor**; one that straightens it is a
 3. **Osteoblasts** lay down new **bone** in the callus.
 4. Over weeks to months, the new bone is **remodelled** by osteoblasts and osteoclasts to its original shape. Healing is quicker in children than in old people.
 
-[IMAGE: A row of four simple diagrams of skeletal problems: (1) a child's legs bowed outwards from rickets beside a normal pair of legs; (2) a long bone with a simple (closed) fracture under intact skin beside a compound (open) fracture with bone ends breaking through the skin; (3) a knee joint with worn, rough articular cartilage and narrowed joint space (arthritis) beside a healthy knee joint; (4) a forearm held straight on a splint with a bandage as first aid. Labels: rickets (bowed legs), normal legs, simple fracture, compound fracture, skin, healthy joint, smooth cartilage, arthritic joint, worn cartilage, splint, bandage. Clean flat textbook style, white background.]
+![Four diagrams illustrating skeletal conditions: rickets compared to normal legs, simple versus compound bone fractures, an arthritic knee versus a healthy knee, and a splinted forearm.](images/B6b-13-skeletal-disorders-comparison.png)
 
 ### Summary: applying the functions of the skeleton to wellbeing
 

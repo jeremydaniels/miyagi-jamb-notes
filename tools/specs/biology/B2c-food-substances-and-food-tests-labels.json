@@ -566,5 +566,81 @@
     "R"
    ]
   ]
+ },
+ "B2c-14-lipid-food-tests-results": {
+  "labels": [
+   [
+    "Sudan III test",
+    [
+     159,
+     307
+    ],
+    "L"
+   ],
+   [
+    "red-stained oil layer",
+    [
+     159,
+     473
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     159,
+     614
+    ],
+    "L"
+   ],
+   [
+    "grease-spot test",
+    [
+     448,
+     430
+    ],
+    "L"
+   ],
+   [
+    "translucent spot (oil)",
+    [
+     389,
+     514
+    ],
+    "L"
+   ],
+   [
+    "opaque area (water control)",
+    [
+     519,
+     509
+    ],
+    "R"
+   ],
+   [
+    "emulsion test",
+    [
+     804,
+     312
+    ],
+    "R"
+   ],
+   [
+    "cloudy white emulsion (fat present)",
+    [
+     735,
+     563
+    ],
+    "R"
+   ],
+   [
+    "clear (no fat)",
+    [
+     876,
+     563
+    ],
+    "R"
+   ]
+  ]
  }
 }

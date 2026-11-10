@@ -950,7 +950,7 @@ All three tests below work for both **fats** and **oils**, because both are lipi
 - **Why:** fat dissolves in ethanol but not in water. When the ethanol is added to water, the fat comes out of solution as tiny droplets spread through the water (an **emulsion**), which scatter light and look milky.
 - **Safety:** ethanol is flammable; keep it away from flames.
 
-[IMAGE: Three tests for fats and oils in a row. Left: Sudan III test, a test tube with a red-stained oil layer floating on top of colourless water. Middle: grease-spot test, a piece of white filter paper held up to light with a translucent spot from groundnut and a dry, opaque area where water was placed as a control. Right: emulsion test, a test tube of water turned cloudy white after adding ethanol containing dissolved oil, next to a clear control tube. Labels: Sudan III test, red-stained oil layer, water, grease-spot test, translucent spot (oil), opaque area (water control), emulsion test, cloudy white emulsion (fat present), clear (no fat). Clean flat textbook style, white background.]
+![Three tests for lipids: a test tube with red oil layer, filter paper showing grease spots, and test tubes comparing cloudy emulsion to clear control.](images/B2c-14-lipid-food-tests-results.png)
 
 ### Summary of food tests
 

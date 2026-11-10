@@ -93,7 +93,7 @@ Although the eye and the camera operate on the same basic optical principles, th
 | **Focusing method** | **Accommodation:** Ciliary muscles change the shape (focal length) of the lens while the distance to the retina stays fixed. | **Mechanical movement:** The lens moves back and forth to change the distance to the film, while the focal length stays fixed. |
 | **Nature of image** | Real, inverted, diminished | Real, inverted, diminished |
 
-[IMAGE: A side-by-side comparison diagram. Left: Cross-section of a human eye highlighting the Lens, Iris, Pupil, and Retina. Right: Cross-section of a camera highlighting the Glass Lens, Diaphragm, Aperture, and Film. Dashed lines connect the corresponding parts across the two diagrams (e.g., Retina to Film, Iris to Diaphragm). Clean flat textbook illustration, white background.]
+![A textbook comparison diagram showing cross-sections of a human eye and a camera side by side, connected by dashed lines between their corresponding optical structures.](images/A26-02-eye-camera-comparison.png)
 
 ***
 

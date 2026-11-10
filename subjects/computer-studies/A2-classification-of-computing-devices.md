@@ -38,7 +38,7 @@ The history of electronic computers is divided into **generations**. A "generati
 *   **Characteristics:** They were massive (filling entire rooms), consumed a lot of electricity, and produced so much heat that they needed huge air conditioning systems to prevent them from catching fire. They could only perform one task at a time and were programmed in **machine language** (0s and 1s).
 *   **Examples:** ENIAC, UNIVAC, EDVAC.
 
-[IMAGE: A glowing glass vacuum tube next to a massive room-sized first-generation computer with operators feeding punched cards. Labels: "Vacuum tube (basic component)", "Magnetic drum (storage)", "Room-sized computer". Clean flat textbook illustration, white background.]
+![Illustration of an early room-sized computer with operators feeding punched cards and a glowing vacuum tube in the foreground](images/A2-01-glowing-glass-vacuum-tube.png)
 
 ### Second Generation (1956 – 1963)
 *   **Basic component / Characteristic feature:** **Transistors**. The transistor replaced the bulky vacuum tube. It was much smaller, cheaper, and generated less heat.

@@ -18,30 +18,6 @@
     "L"
    ],
    [
-    "start",
-    [
-     97,
-     512
-    ],
-    "L"
-   ],
-   [
-    "after 30 minutes",
-    [
-     268,
-     512
-    ],
-    "L"
-   ],
-   [
-    "after some hours",
-    [
-     440,
-     512
-    ],
-    "L"
-   ],
-   [
     "cotton wool soaked in ammonia",
     [
      598,
@@ -73,27 +49,30 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "start",
+    97,
+    624
+   ],
+   [
+    "after 30\nminutes",
+    266,
+    624
+   ],
+   [
+    "after some\nhours",
+    436,
+    624
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B3b-02-osmosis-plant-animal-cells": {},
  "B3b-03-potato-osmometer-experiment": {
   "labels": [
-   [
-    "raw potato",
-    [
-     179,
-     353
-    ],
-    "L"
-   ],
-   [
-    "boiled potato (control)",
-    [
-     670,
-     358
-    ],
-    "R"
-   ],
    [
     "concentrated sugar solution",
     [
@@ -150,41 +129,31 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "raw potato",
+    263,
+    783
+   ],
+   [
+    "boiled potato\n(control)",
+    757,
+    782
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B3b-04-onion-epidermis-cell-plasmolysis": {
   "labels": [
-   [
-    "1. in water: turgid",
-    [
-     512,
-     189
-    ],
-    "R"
-   ],
-   [
-    "2. in strong sugar solution: plasmolysed",
-    [
-     512,
-     501
-    ],
-    "R"
-   ],
-   [
-    "3. returned to water: deplasmolysis",
-    [
-     512,
-     819
-    ],
-    "R"
-   ],
    [
     "cell wall",
     [
      522,
      76
     ],
-    "R"
+    "T"
    ],
    [
     "cell membrane",
@@ -208,7 +177,7 @@
      240,
      189
     ],
-    "L"
+    "T"
    ],
    [
     "nucleus",
@@ -226,7 +195,26 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1. in water: turgid",
+    511,
+    335
+   ],
+   [
+    "2. in strong sugar solution: plasmolysed",
+    511,
+    652
+   ],
+   [
+    "3. returned to water: deplasmolysis",
+    511,
+    960
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B3b-05-dicot-root-transverse-section": {
   "labels": [

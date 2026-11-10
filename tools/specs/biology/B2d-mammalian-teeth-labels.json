@@ -4,104 +4,104 @@
    [
     "crown",
     [
-     512,
-     112
+     686,
+     186
     ],
     "R"
    ],
    [
     "neck",
     [
-     322,
-     373
+     312,
+     435
     ],
     "L"
    ],
    [
     "root",
     [
-     368,
-     634
+     337,
+     680
     ],
     "L"
    ],
    [
     "enamel",
     [
-     512,
-     153
+     496,
+     145
     ],
-    "R"
+    "L"
    ],
    [
     "dentine",
     [
-     512,
-     245
+     571,
+     247
     ],
     "R"
    ],
    [
     "pulp cavity",
     [
-     512,
-     348
+     513,
+     368
     ],
     "R"
    ],
    [
     "cement",
     [
-     691,
-     563
+     695,
+     663
     ],
     "R"
    ],
    [
     "periodontal membrane",
     [
-     711,
-     563
+     727,
+     679
     ],
     "R"
    ],
    [
     "gum",
     [
-     778,
-     409
+     173,
+     432
     ],
-    "R"
+    "L"
    ],
    [
     "jaw bone",
     [
-     235,
-     563
+     153,
+     690
     ],
     "L"
    ],
    [
     "blood vessels",
     [
-     391,
-     634
+     584,
+     449
     ],
-    "L"
+    "R"
    ],
    [
     "nerve",
     [
-     636,
-     716
+     607,
+     483
     ],
     "R"
    ],
    [
     "root canal",
     [
-     629,
-     634
+     654,
+     703
     ],
     "R"
    ],
@@ -109,7 +109,7 @@
     "opening at root tip (apical foramen)",
     [
      619,
-     824
+     1012
     ],
     "R"
    ]
@@ -191,76 +191,16 @@
    ]
   ]
  },
- "B2d-06-dog-skull-carnassials": {
-  "labels": [
-   [
-    "incisors",
-    [
-     954,
-     580
-    ],
-    "R"
-   ],
-   [
-    "canine",
-    [
-     861,
-     587
-    ],
-    "R"
-   ],
-   [
-    "premolars",
-    [
-     749,
-     579
-    ],
-    "R"
-   ],
-   [
-    "carnassial teeth (upper premolar 4 and lower molar 1)",
-    [
-     604,
-     609
-    ],
-    "R"
-   ],
-   [
-    "molars",
-    [
-     527,
-     609
-    ],
-    "R"
-   ],
-   [
-    "scissor-like shearing action (inset)",
-    [
-     827,
-     193
-    ],
-    "R"
-   ],
-   [
-    "upper jaw",
-    [
-     741,
-     493
-    ],
-    "R"
-   ],
-   [
-    "lower jaw",
-    [
-     626,
-     794
-    ],
-    "R"
-   ]
-  ]
- },
  "B2d-07-comparative-mammalian-skulls": {
   "labels": [
+   [
+    "sheep (herbivore)",
+    [
+     204,
+     430
+    ],
+    "L"
+   ],
    [
     "dental pad",
     [
@@ -278,12 +218,20 @@
     "L"
    ],
    [
+    "dog (carnivore)",
+    [
+     517,
+     440
+    ],
+    "R"
+   ],
+   [
     "long canine",
     [
      435,
      537
     ],
-    "T"
+    "L"
    ],
    [
     "carnassial teeth",
@@ -291,7 +239,15 @@
      540,
      527
     ],
-    "T"
+    "R"
+   ],
+   [
+    "human (omnivore)",
+    [
+     834,
+     430
+    ],
+    "R"
    ],
    [
     "incisors",
@@ -325,26 +281,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "sheep\n(herbivore)",
-    194,
-    703
-   ],
-   [
-    "dog\n(carnivore)",
-    515,
-    733
-   ],
-   [
-    "human\n(omnivore)",
-    845,
-    748
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2d-08-dental-caries-progression": {
   "labels": [
@@ -419,56 +356,56 @@
    [
     "incisors",
     [
-     157,
-     726
+     182,
+     723
     ],
     "L"
    ],
    [
     "canine",
     [
-     198,
-     721
+     235,
+     708
     ],
     "L"
    ],
    [
     "premolars",
     [
-     260,
-     724
+     290,
+     737
     ],
     "L"
    ],
    [
     "molars",
     [
-     335,
-     714
+     361,
+     727
     ],
     "L"
    ],
    [
     "upper jaw (maxilla)",
     [
-     227,
-     636
+     240,
+     631
     ],
     "L"
    ],
    [
     "lower jaw (mandible)",
     [
-     435,
-     741
+     274,
+     839
     ],
     "L"
    ],
    [
     "no diastema",
     [
-     188,
-     721
+     254,
+     723
     ],
     "L"
    ]

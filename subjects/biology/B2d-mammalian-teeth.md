@@ -313,7 +313,7 @@ Key features of the dog's teeth:
 7. **Up-and-down jaw movement only:** the jaw joint is a tight hinge, so the jaw cannot move much sideways. This gives a powerful **cutting and crushing** bite, not grinding. Very strong jaw muscles (the temporal muscles) close the jaw with great force.
 8. Flesh is easier to digest than grass, so dogs swallow food in large pieces after little chewing.
 
-![Illustration of a dog skull with jaws open displaying differentiated teeth with carnassials highlighted in red alongside a circular inset showing their shearing action.](images/B2d-06-dog-skull-carnassials.png)
+[IMAGE: Side view of a dog's skull with the jaws slightly open, showing small front incisors, long curved pointed upper and lower canines, pointed premolars, the large blade-like carnassial teeth (upper last premolar and lower first molar) highlighted in red, and small flattened molars behind them. Add a small inset showing the upper and lower carnassials sliding past each other like scissor blades. Labels: incisors, canine, premolars, carnassial teeth (upper premolar 4 and lower molar 1), molars, scissor-like shearing action (inset), upper jaw, lower jaw. Clean flat textbook style, white background.]
 
 ### The dental formulae compared
 

@@ -48,7 +48,7 @@ Carbon is unique among elements because it can form millions of different compou
 1. **Tetravalency:** Carbon belongs to Group 14 (Group IV) of the periodic table and has four valence electrons. It needs four more electrons to achieve a stable octet. Thus, it forms exactly **four covalent bonds** (tetra = four, valency = combining power) with other atoms like hydrogen, oxygen, nitrogen, or halogens.
 2. **Catenation:** This is the unique ability of carbon atoms to bond **directly to one another** to form long, stable straight chains, branched chains, or rings. Because the carbon-carbon ($\text{C-C}$) bond is very strong, these chains can be endlessly varied without breaking apart. 
 
-[IMAGE: Three diagrams showing carbon's bonding. Left: a single carbon atom covalently bonded to four hydrogen atoms (methane, tetrahedral shape). Middle: a straight chain of five carbon atoms bonded together with hydrogens. Right: a closed hexagonal ring of six carbon atoms. Labels to add later: "Tetravalency (4 bonds)", "Catenation: Straight chain", "Catenation: Ring structure". Clean flat textbook style, white background.]
+![Three diagrams showing carbon bonding: a tetrahedral methane molecule for tetravalency, a straight five-carbon chain, and a six-carbon ring structure illustrating catenation.](images/A16a-01-carbon-catenation-bonding-diagrams.png)
 
 ### Functional groups and homologous series
 
@@ -197,7 +197,7 @@ The type of bonding (structure) and the functional group dictate how a compound 
   4. 2,2-dimethylbutane
   5. 2,3-dimethylbutane
 
-[IMAGE: The structural formulas of the three isomers of pentane (C5H12). Left: a straight zigzag chain of 5 carbons (pentane). Middle: a 4-carbon chain with a methyl branch on the second carbon (2-methylbutane). Right: a central carbon atom bonded to four methyl groups (2,2-dimethylpropane), forming a cross shape. Clean flat textbook style, white background.]
+![Structural formulas of the three isomers of pentane: linear pentane, branched 2-methylbutane, and cross-shaped 2,2-dimethylpropane shown side by side.](images/A16a-02-pentane-isomers-structural-formulas.png)
 
 ### Distinguishing types of isomerism
 
@@ -213,7 +213,7 @@ The type of bonding (structure) and the functional group dictate how a compound 
    - **Trans-isomer:** The identical heavy groups are on **opposite sides** (diagonally across) the double bond.
    - Example: cis-but-2-ene and trans-but-2-ene.
 
-[IMAGE: Two diagrams showing geometric isomerism in but-2-ene. Left: cis-but-2-ene, with both CH3 groups pointing upwards from the C=C double bond. Right: trans-but-2-ene, with one CH3 group pointing up and the other pointing down across the C=C double bond. Clean flat textbook style, white background.]
+![Chemical structures comparing cis-but-2-ene with both methyl groups on the same side and trans-but-2-ene with methyl groups on opposite sides of the central carbon double bond.](images/A16a-03-geometric-isomerism-structural-formula.png)
 
 ## Hydrocarbons
 
@@ -356,7 +356,7 @@ Crude oil is separated into simpler mixtures called **fractions** by **fractiona
 | **Lubricating oil** | $\text{C}_{20} - \text{C}_{30}$ | $350 - 500\text{ }^\circ\text{C}$ | Engine oil, grease, lubricants to reduce friction |
 | **Bitumen (Asphalt)** | Above $\text{C}_{30}$ | Above $500\text{ }^\circ\text{C}$ (Residue) | Paving roads, waterproofing roofs |
 
-[IMAGE: A tall fractional distillation column for crude oil. Crude oil enters a furnace at the bottom, and vapours enter the column. The column is red/hot at the bottom and blue/cool at the top. Side pipes draw off fractions. From top to bottom, labels point to: "Petroleum gases (Cooking)", "Petrol (Cars)", "Kerosene (Jets/Stoves)", "Diesel (Lorries/Generators)", "Lubricating oil", and at the very bottom "Bitumen (Roads)". Clean flat textbook style, white background.]
+![Diagram of a fractional distillation column showing crude oil heated in a furnace, entering the column, and separating into fractions associated with their everyday uses.](images/A16a-04-fractional-distillation-column.png)
 
 ### Quality improvement of petrol fractions
 
@@ -385,7 +385,7 @@ The demand for petrol is far higher than the amount produced directly from fract
   - Example: It reacts with chlorine to form chlorobenzene, but only if a catalyst like iron(III) chloride ($\text{FeCl}_3$) is present.
 - **Uses:** Benzene is a valuable solvent and a vital starting material (feedstock) for making dyes, explosives (like TNT), plastics, and pharmaceuticals.
 
-[IMAGE: The evolution of the benzene drawing. Left side: a hexagonal ring showing alternating single and double bonds (Kekulé structure). Right side: a hexagonal ring with a complete circle drawn inside it to represent the delocalised electron cloud (Modern structure). Clean flat textbook style, white background.]
+![Diagram comparing the benzene Kekule structure featuring alternating single and double bonds to the modern structure showing a central circle representing delocalised pi electrons.](images/A16a-05-benzene-kekule-modern-structures.png)
 
 ## Key terms
 

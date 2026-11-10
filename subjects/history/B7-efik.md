@@ -18,7 +18,7 @@ According to oral tradition, the Efik migrated from the hinterland (around Aroch
 
 Because of their coastal location at the mouth of the Cross River, the Efik became the dominant **middlemen** in the trade between the European merchants on the Atlantic Ocean and the peoples of the hinterland. This economic power deeply shaped their internal politics, their culture, and how they interacted with their neighbours throughout the 1800s.
 
-[IMAGE: Map of the south-eastern Nigeria coast in the 19th century, showing the Cross River estuary. The towns of Duke Town, Creek Town, Henshaw Town, and Obutong should be marked together as "Old Calabar". Inland, mark the territories of the Ibibio, Annang, Ekoi (Ejagham), and Igbo. Arrows should point from the hinterland to Old Calabar (labelled "Palm oil and slaves") and from the coast inland (labelled "European manufactured goods"). Clean flat textbook style, white background, clear borders.]
+![19th-century map of southeastern Nigeria highlighting the Cross River estuary, Old Calabar towns, hinterland ethnic territories, and trade routes exchanging palm oil, slaves, and European manufactured goods.](images/B7-01-map-cross-river-estuary.png)
 
 ## Objective i: Examine Efik internal political and cultural development
 

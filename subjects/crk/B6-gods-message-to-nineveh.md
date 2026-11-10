@@ -80,7 +80,7 @@ The effect of Jonah's preaching was immediate and massive. Despite being pagans,
 3. **Total National Repentance:** The king and his nobles issued a strict decree throughout the city. No human, and not even the animals (herds or flocks), were allowed to eat food or drink water. Both man and beast had to be covered with sackcloth.
 4. **Turning from Evil:** Most importantly, the king ordered everyone to cry mightily to God and to specifically turn away from their evil ways and from the violence that was in their hands. The king hoped that God might change His mind and turn away from His fierce anger so that they would not perish.
 
-[IMAGE: The King of Nineveh, a majestic figure with a beard, stepping down from an ornate stone throne. He has discarded his rich purple and gold royal robes, which lie on the floor, and is wearing rough, brown burlap sackcloth. He sits in a pile of grey ashes, looking upwards with his hands clasped in deep prayer and sorrow. Through an arched window, ordinary citizens and even cattle can be seen wearing similar rough sackcloth. Clean flat textbook style, white background.]
+![The bearded King of Nineveh kneels in ashes wearing sackcloth with his royal robe cast aside, while citizens and livestock outside also mourn in sackcloth.](images/B6-02-king-nineveh-repentance-sackcloth.png)
 
 ### God's Forgiveness
 When God saw their works—specifically that they had turned from their evil ways—He *"repented of the evil, that he had said that he would do unto them; and he did it not."* (Jonah 3:10). God accepted their sincere repentance and spared the city.

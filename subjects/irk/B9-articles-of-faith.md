@@ -49,7 +49,7 @@ The articles of faith are not just abstract ideas; they shape how a Muslim lives
 * **Creates inner peace:** Trusting in Destiny (Qada and Qadar) helps a Muslim handle life's hardships, poverty, or sickness without falling into despair.
 * **Unifies humanity:** Belief in all Prophets and Revealed Books connects Muslims to the entire history of human guidance, fostering respect for the previous messages sent by Allah.
 
-[IMAGE: A circular diagram showing the six pillars of Imān (Faith) surrounding a central hub labelled "IMĀN (Faith)". The six spokes lead out to boxes labelled: 1. Belief in Allah, 2. Belief in Angels, 3. Belief in Revealed Books, 4. Belief in Messengers, 5. Belief in the Last Day, 6. Belief in Destiny. Clean flat textbook style, white background, using calming blue and green tones.]
+![A radial diagram showing the Six Pillars of Iman branching out from a central hub to six boxes detailing beliefs in Allah, angels, books, messengers, the last day, and destiny.](images/B9-01-six-pillars-iman.png)
 
 ## Belief in Allah
 

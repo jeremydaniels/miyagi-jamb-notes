@@ -42,7 +42,7 @@ Noise is an unpleasant, jarring sound produced by irregular, non-periodic vibrat
 | **Effect on Ear** | Pleasant and soothing | Unpleasant and irritating |
 | **Changes in Amplitude**| Steady or changes smoothly | Sudden and abrupt changes |
 
-[IMAGE: Two side-by-side waveforms. On the left, a smooth, repeating, periodic sine-like wave labelled "Musical Note". On the right, a jagged, irregular, non-repeating wave labelled "Noise". Clean flat textbook illustration, white background.]
+![Two displacement-time waveforms comparing a smooth, regular periodic wave for a musical note with a jagged, irregular non-repeating wave for noise.](images/A22-01-musical-note-vs-noise.png)
 
 ---
 
@@ -65,7 +65,7 @@ Every musical note has three main characteristics that distinguish it from other
 *   When an instrument is played, it rarely produces just one pure frequency (like a tuning fork does). Instead, it produces a fundamental frequency mixed with several higher frequencies called **overtones** or **harmonics**.
 *   The unique number, types, and relative amplitudes of these overtones give each instrument its unique "voice" or quality. 
 
-[IMAGE: Three sets of waveform comparisons. Top: Two waves with the same amplitude but one has a higher frequency (many peaks) labelled "High Pitch" and the other has fewer peaks labelled "Low Pitch". Middle: Two waves with the same frequency but one is tall (Large Amplitude, "Loud") and one is short (Small Amplitude, "Quiet"). Bottom: Two waves with the same frequency and amplitude, but one is a pure sine wave and the other is a complex wave with small ripples on it, labelled "Different Quality / Timbre". Clean flat textbook style, white background.]
+![Three pairs of sound waves demonstrating acoustic properties: pitch determined by frequency, loudness determined by amplitude, and timbre illustrated by pure versus complex waveforms.](images/A22-02-sound-wave-characteristics-waveforms.png)
 
 ---
 
@@ -160,7 +160,7 @@ When a string vibrates as a whole, it produces the fundamental frequency ($f_0$)
 *   **2nd Overtone:** 3 segments. Frequency = $3f_0$ (3rd harmonic)
 *   *(Strings produce **all** harmonics: odd and even).*
 
-[IMAGE: Three diagrams of a stretched string vibrating between two fixed supports. Top: A single large loop (fundamental mode). Middle: Two loops with a node in the center (1st overtone / 2nd harmonic). Bottom: Three loops with two nodes in the center (2nd overtone / 3rd harmonic). Labels indicating the length L, nodes (N) and antinodes (A). Clean flat textbook style, white background.]
+![Diagram showing standing wave patterns on a vibrating string for the fundamental mode, first overtone, and second overtone with nodes, antinodes, and length L labeled.](images/A22-03-vibrating-string-standing-harmonics.png)
 
 ### 2. Overtones in Open Pipes
 An open pipe is open at both ends, so it must have an antinode at both ends. It behaves exactly like a string in terms of harmonics.
@@ -206,7 +206,7 @@ A closed pipe always has a **node** at the closed end and an **antinode** at the
     $L = \frac{3\lambda}{4} \implies \lambda = \frac{4L}{3}$.
     Formula: $f_1 = \frac{3v}{4L} = 3f_0$ (3rd harmonic).
 
-[IMAGE: Three diagrams of a pipe closed at one end and open at the other. Inside each pipe, a standing wave pattern is drawn. Top: A quarter of a wave with a node at the closed end and an antinode at the open end (Fundamental, L = lambda/4). Middle: A wave with one additional node and antinode (1st overtone / 3rd harmonic, L = 3*lambda/4). Bottom: A wave with two additional nodes and antinodes (2nd overtone / 5th harmonic, L = 5*lambda/4). Clean flat textbook style, white background.]
+![Diagram showing standing wave patterns in a pipe closed at one end for the fundamental, first overtone, and second overtone harmonics.](images/A22-04-closed-pipe-resonance-harmonics.png)
 
 ### Open Pipes (Open at both ends)
 An open pipe always has an **antinode** at both ends, and at least one node in the middle.
@@ -219,7 +219,7 @@ An open pipe always has an **antinode** at both ends, and at least one node in t
 
 *(Note that for the same length of pipe, an open pipe produces a fundamental frequency that is twice as high—an octave higher—than a closed pipe).*
 
-[IMAGE: Three diagrams of a pipe open at both ends. Inside each pipe, standing wave patterns. Top: Half a wave with antinodes at both ends and one node in the middle (Fundamental, L = lambda/2). Middle: A full wave with three antinodes and two nodes (1st overtone / 2nd harmonic, L = lambda). Bottom: One and a half waves (2nd overtone / 3rd harmonic, L = 3*lambda/2). Clean flat textbook style, white background.]
+![Diagram showing standing wave displacement patterns in an open pipe for the fundamental frequency, second harmonic, and third harmonic, with labeled nodes, antinodes, and wavelengths.](images/A22-05-open-pipe-resonance-harmonics.png)
 
 ### End Correction ($c$)
 In reality, the antinode at the open end of a pipe actually forms slightly *outside* the pipe. The extra length added is called the **end correction**, $c$. 
@@ -253,7 +253,7 @@ A resonance tube experiment shows consecutive resonances at air column lengths o
 *Step 4:* Use the wave equation: $v = f \lambda$.
 *Step 5:* Substitute and calculate: $v = 500 \times 0.68 = 340\text{ m s}^{-1}$.
 
-[IMAGE: A resonance tube apparatus. A tall glass tube containing water, with a meter rule beside it. A tuning fork is vibrating just above the open top of the tube. A water reservoir on the side is connected to the bottom of the tube by a rubber hose, allowing the water level to be raised or lowered. Labels: "vibrating tuning fork", "air column (length L)", "glass tube", "water level (acts as a closed end)", "meter rule", "reservoir". Clean flat textbook style, white background.]
+![Diagram of a resonance tube apparatus showing a glass tube with water, a vibrating tuning fork above it, a ruler, and a connected water reservoir.](images/A22-06-resonance-tube-apparatus.png)
 
 ---
 

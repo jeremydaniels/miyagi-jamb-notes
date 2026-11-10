@@ -1,0 +1,26 @@
+[
+ [
+  "A22-01-musical-note-vs-noise",
+  "Two side-by-side waveforms. On the left, a smooth, repeating, periodic sine-like wave. On the right, a jagged, irregular, non-repeating wave. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A22-02-sound-wave-characteristics-waveforms",
+  "Three sets of waveform comparisons. Top: Two waves with the same amplitude but one has a higher frequency (many peaks) and the other has fewer peaks. Middle: Two waves with the same frequency but one is tall (Large Amplitude, \"Loud\") and one is short (Small Amplitude, \"Quiet\"). Bottom: Two waves with the same frequency and amplitude, but one is a pure sine wave and the other is a complex wave with small ripples on it,."
+ ],
+ [
+  "A22-03-vibrating-string-standing-harmonics",
+  "Three diagrams of a stretched string vibrating between two fixed supports. Top: A single large loop (fundamental mode). Middle: Two loops with a node in the center (1st overtone / 2nd harmonic). Bottom: Three loops with two nodes in the center (2nd overtone / 3rd harmonic). Labels indicating the length L, nodes (N) and antinodes (A)."
+ ],
+ [
+  "A22-04-closed-pipe-resonance-harmonics",
+  "Three diagrams of a pipe closed at one end and open at the other. Inside each pipe, a standing wave pattern is drawn. Top: A quarter of a wave with a node at the closed end and an antinode at the open end (Fundamental, L = lambda/4). Middle: A wave with one additional node and antinode (1st overtone / 3rd harmonic, L = 3*lambda/4). Bottom: A wave with two additional nodes and antinodes (2nd overtone / 5th harmonic, L = 5*lambda/4)."
+ ],
+ [
+  "A22-05-open-pipe-resonance-harmonics",
+  "Three diagrams of a pipe open at both ends. Inside each pipe, standing wave patterns. Top: Half a wave with antinodes at both ends and one node in the middle (Fundamental, L = lambda/2). Middle: A full wave with three antinodes and two nodes (1st overtone / 2nd harmonic, L = lambda). Bottom: One and a half waves (2nd overtone / 3rd harmonic, L = 3*lambda/2)."
+ ],
+ [
+  "A22-06-resonance-tube-apparatus",
+  "A resonance tube apparatus. A tall glass tube containing water, with a meter rule beside it. A tuning fork is vibrating just above the open top of the tube. A water reservoir on the side is connected to the bottom of the tube by a rubber hose, allowing the water level to be raised or lowered."
+ ]
+]

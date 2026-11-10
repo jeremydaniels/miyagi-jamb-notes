@@ -43,7 +43,7 @@ Jesus gave specific, prophetic instructions:
 
 The disciples left, found everything exactly as Jesus had told them, and prepared the Passover meal.
 
-[IMAGE: Two disciples (Peter and John) walking down a dusty street in ancient Jerusalem, spotting a man ahead of them carrying a large clay water jar on his shoulder. They are gesturing towards him. Clean flat textbook style, white background.]
+![Two disciples walking down an ancient Jerusalem street, gesturing ahead toward a man carrying a large clay water jar on his shoulder.](images/C11-01-disciples-following-water-bearer.png)
 
 ### The Washing of the Disciples' Feet
 *(John 13:2-17)*
@@ -58,7 +58,7 @@ In ancient times, people wore open sandals and walked on dusty roads. It was the
 4. **Peter's extreme response:** Hearing this, Peter asked Jesus to wash not only his feet but his hands and his head as well. Jesus explained that a person who has bathed only needs to wash his feet to be completely clean, adding, "And you are clean, but not every one of you" (referring secretly to Judas, the betrayer).
 5. **The Lesson (Humility and Service):** After finishing, Jesus put His garments back on and sat down. He explained His actions: *"If I then, your Lord and Master, have washed your feet; ye also ought to wash one another's feet. For I have given you an example, that ye should do as I have done to you."* (John 13:14-15).
 
-[IMAGE: Jesus, kneeling on the floor with a towel tied around His waist, washing the feet of a seated, surprised-looking Peter from a small basin of water. The other disciples watch in amazement. Warm evening lighting. Clean flat textbook style, white background.]
+![Jesus kneels with a cloth tied around his waist to wash Peter feet over a basin of water as disciples look on with surprise in a warm room.](images/C11-02-jesus-washing-disciples-feet.png)
 
 ### The Prediction of the Betrayal
 *(Matthew 26:20-25; Mark 14:17-21; Luke 22:21-23; John 13:21-30)*
@@ -91,7 +91,7 @@ After Judas left, Jesus instituted what Christians now call the Lord's Supper, H
 4. **The Departure:** 
    After singing a hymn (traditionally the Hallel Psalms, Psalms 113-118, sung at the end of the Passover meal), they went out to the Mount of Olives.
 
-[IMAGE: A wooden table with a piece of broken flatbread and a simple cup of red wine. Jesus' hands are shown breaking the bread, offering it to the disciples gathered around. Clean flat textbook style, white background.]
+![An illustration of Jesus breaking bread at a wooden table with a cup of red wine, surrounded by his disciples.](images/C11-03-breaking-bread-last-supper.png)
 
 ### The New Commandment and Prediction of Peter's Denial
 *(John 13:31-38)*

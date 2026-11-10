@@ -1,0 +1,222 @@
+{
+ "B5-01-flowering-dicot-plant-anatomy": {
+  "regions": [
+   "Root system",
+   "Shoot system"
+  ],
+  "labels": [
+   [
+    "Root system",
+    [
+     510,
+     811
+    ],
+    "L"
+   ],
+   [
+    "Taproot",
+    [
+     505,
+     828
+    ],
+    "L"
+   ],
+   [
+    "Lateral roots",
+    [
+     584,
+     775
+    ],
+    "R"
+   ],
+   [
+    "Shoot system",
+    [
+     518,
+     390
+    ],
+    "R"
+   ],
+   [
+    "Stem",
+    [
+     512,
+     493
+    ],
+    "R"
+   ],
+   [
+    "Node",
+    [
+     527,
+     503
+    ],
+    "R"
+   ],
+   [
+    "Internode",
+    [
+     516,
+     564
+    ],
+    "R"
+   ],
+   [
+    "Leaf blade (lamina)",
+    [
+     311,
+     303
+    ],
+    "L"
+   ],
+   [
+    "Petiole",
+    [
+     454,
+     379
+    ],
+    "L"
+   ],
+   [
+    "Flower",
+    [
+     559,
+     272
+    ],
+    "R"
+   ],
+   [
+    "Fruit",
+    [
+     640,
+     369
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5-02-monocot-vs-dicot-comparison": {},
+ "B5-03-yam-vs-cassava-tuber": {
+  "regions": [
+   "Periderm",
+   "Starchy core",
+   "Outer peel (periderm)",
+   "Inner peel (cortex)"
+  ],
+  "labels": [
+   [
+    "Yam (Stem tuber)",
+    [
+     198,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Bud/Eye",
+    [
+     220,
+     433
+    ],
+    "L"
+   ],
+   [
+    "Periderm",
+    [
+     279,
+     501
+    ],
+    "L"
+   ],
+   [
+    "Starchy core",
+    [
+     390,
+     527
+    ],
+    "L"
+   ],
+   [
+    "Cassava (Root tuber)",
+    [
+     666,
+     497
+    ],
+    "R"
+   ],
+   [
+    "Outer peel (periderm)",
+    [
+     952,
+     607
+    ],
+    "R"
+   ],
+   [
+    "Inner peel (cortex)",
+    [
+     922,
+     610
+    ],
+    "R"
+   ],
+   [
+    "Central woody strand",
+    [
+     856,
+     491
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5-04-onion-bulb-cross-section": {
+  "regions": [
+   "Dry papery scale leaf (tunic)",
+   "Fleshy scale leaves (store food/water)",
+   "Reduced basal stem (basal plate)"
+  ],
+  "labels": [
+   [
+    "Dry papery scale leaf (tunic)",
+    [
+     828,
+     492
+    ],
+    "R"
+   ],
+   [
+    "Fleshy scale leaves (store food/water)",
+    [
+     689,
+     454
+    ],
+    "R"
+   ],
+   [
+    "Apical bud (grows into shoot)",
+    [
+     508,
+     479
+    ],
+    "L"
+   ],
+   [
+    "Reduced basal stem (basal plate)",
+    [
+     518,
+     789
+    ],
+    "R"
+   ],
+   [
+    "Adventitious roots",
+    [
+     518,
+     883
+    ],
+    "R"
+   ]
+  ]
+ }
+}

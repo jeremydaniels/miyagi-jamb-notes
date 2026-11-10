@@ -62,7 +62,7 @@ The flower is the reproductive structure of a plant. A complete flower has four 
 - **Fruit:** The ripened ovary. Its main function is to protect the developing seeds and help in their dispersal (scattering).
 - **Seed:** The ripened ovule. It contains the **embryo** (the baby plant) and stored food (in the cotyledons or endosperm) to nourish the embryo when it germinates.
 
-[IMAGE: A complete flowering dicot plant (e.g., cowpea or tomato). The diagram shows the underground taproot system with primary and lateral roots, and the above-ground shoot system. The shoot shows a main stem with nodes and internodes, leaves with a petiole and network of veins, a flower showing petals and central reproductive parts, and a developing fruit (pod). Labels: "Root system", "Taproot", "Lateral roots", "Shoot system", "Stem", "Node", "Internode", "Leaf blade (lamina)", "Petiole", "Flower", "Fruit". Clean flat textbook style, white background.]
+![An illustration of a flowering legume plant showing the taproot system, stem with nodes and internodes, compound leaves, pink flowers, and a developing pod.](images/B5-01-flowering-dicot-plant-anatomy.png)
 
 ## Distinguishing between monocot and dicot crop plants
 
@@ -87,7 +87,7 @@ Flowering crop plants (Angiosperms) are divided into two major groups: **Monocot
 | **Flowers** | Floral parts (petals, sepals) are usually in multiples of **three** (3, 6, 9). | Floral parts are usually in multiples of **four or five** (4, 5, 8, 10). |
 | **Examples in Nigeria** | Maize, rice, guinea corn (sorghum), sugarcane, oil palm, plantain, onion. | Cassava, cowpea, groundnut, tomato, cocoa, rubber, mango. |
 
-[IMAGE: A three-panel comparison diagram of Monocots vs Dicots. Panel 1: Seeds - a maize grain (monocot) showing a single cotyledon, next to a split cowpea seed (dicot) showing two cotyledons. Panel 2: Leaves - a long narrow maize leaf with parallel veins (monocot), next to a broad cowpea leaf with a network of branching veins (dicot). Panel 3: Roots - a fibrous root system with many equal-sized roots branching from the stem base (monocot), next to a taproot system showing one thick main root with small side branches (dicot). Clear labels for each. Clean flat textbook style, white background.]
+![A three panel diagram comparing monocot and dicot characteristics across seeds, leaves, and root systems.](images/B5-02-monocot-vs-dicot-comparison.png)
 
 ## Anatomy and morphology of storage organs
 
@@ -126,7 +126,7 @@ A root tuber is a swollen, fleshy underground root. In cassava and sweet potato,
   3. **Fleshy parenchyma:** The massive white or yellow central region packed with starch.
   4. **Central vascular strand:** A tough, woody string running exactly down the middle of the root.
 
-[IMAGE: Comparison diagram showing the external and internal structures of a Yam tuber (Stem tuber) and a Cassava tuber (Root tuber). Left side: Yam tuber showing external "eyes"/buds and fine roots; cut-away showing thin peel and massive starchy core without a woody center. Right side: Cassava tuber showing smooth external surface without buds; cut-away showing outer brown peel, inner thick cortex, white starchy core, and a prominent woody central vascular strand. Labels: "Yam (Stem tuber)", "Bud/Eye", "Periderm", "Starchy core", "Cassava (Root tuber)", "Outer peel (periderm)", "Inner peel (cortex)", "Starchy core", "Central woody strand". Clean flat textbook style, white background.]
+![Comparison illustration showing the external surface and longitudinal cross section of a yam stem tuber alongside a cassava root tuber.](images/B5-03-yam-vs-cassava-tuber.png)
 
 ### 3. Bulbs (e.g., Onion, Garlic)
 A bulb is an underground storage organ made of a very short stem surrounded by thick, fleshy, modified leaves. 
@@ -141,7 +141,7 @@ A bulb is an underground storage organ made of a very short stem surrounded by t
   4. **Axillary buds:** Found between the scale leaves; they can grow into new daughter bulbs (bulblets).
   5. **Basal stem (Plate):** The tough disc at the bottom from which adventitious roots emerge.
 
-[IMAGE: Cross-section of an Onion bulb. The diagram shows the bulb cut vertically. At the very bottom is a flat horizontal disc with roots growing down. Above the disc are thick, concentric overlapping layers. At the very center is a small bud pointing upward. The outermost layer is thin and papery. Labels: "Dry papery scale leaf (tunic)", "Fleshy scale leaves (store food/water)", "Apical bud (grows into shoot)", "Reduced basal stem (basal plate)", "Adventitious roots". Clean flat textbook style, white background.]
+![Diagram of a vertical cross-section of an onion bulb showing the basal plate, roots, fleshy scale leaves, central apical bud, and outer dry tunic.](images/B5-04-onion-bulb-cross-section.png)
 
 ### 4. Rhizomes (e.g., Ginger, Turmeric)
 A rhizome is an underground stem that grows horizontally just below the soil surface.

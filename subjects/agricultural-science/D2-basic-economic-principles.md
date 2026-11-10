@@ -107,7 +107,7 @@ At first, adding more labourers to a field speeds up work. But eventually, the f
 
 When we graph Total Product (TP), Average Product (AP), and Marginal Product (MP) against the variable input, we can deduce three **stages of production**. A farm manager uses these stages to decide the most profitable amount of input to use.
 
-[IMAGE: A two-panel graph showing the stages of agricultural production. The y-axis shows 'Product (Output)' and the horizontal x-axis shows 'Variable Input (e.g., Labour)'. The top curve is the Total Product (TP), which rises steeply, curves to a peak, and then falls. Below it are the Average Product (AP) and Marginal Product (MP) curves. The MP curve rises rapidly to a peak, then falls, crossing the AP curve at the AP's highest point, and eventually crosses the x-axis to become negative. Vertical dashed lines divide the graph into three sections: 'Stage I' (from origin to where MP crosses AP), 'Stage II' (from the MP-AP intersection to where MP hits zero and TP is at its peak), and 'Stage III' (where MP is negative and TP is falling). Labels to add later: 'Total Product (TP)', 'Average Product (AP)', 'Marginal Product (MP)', 'Stage I', 'Stage II (Rational Zone)', 'Stage III', 'Point of maximum AP', 'Point of maximum TP (MP=0)'. Clean flat textbook style, white background.]
+![A two-panel economic diagram showing Total Product on the top panel and Marginal and Average Product on the bottom panel, divided into Stages I, II, and III.](images/D2-02-stages-production-curves.png)
 
 **Stage I (Increasing Returns):**
 - Starts from zero and ends exactly where the Average Product (AP) reaches its maximum.

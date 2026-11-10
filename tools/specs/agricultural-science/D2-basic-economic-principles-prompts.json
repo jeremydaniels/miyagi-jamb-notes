@@ -2,5 +2,9 @@
  [
   "D2-01-supply-demand-equilibrium",
   "A graph showing the demand and supply curves for an agricultural product. The vertical y-axis is labelled 'Price (₦)' and the horizontal x-axis is labelled 'Quantity'. A blue line slopes downwards from top-left to bottom-right, labelled 'Demand (D)'. A red line slopes upwards from bottom-left to top-right, labelled 'Supply (S)'. The point where they cross in the middle is marked 'Equilibrium (E)'. Dashed lines run from this point to the y-axis and to the x-axis."
+ ],
+ [
+  "D2-02-stages-production-curves",
+  "A two-panel graph showing the stages of agricultural production. The y-axis shows 'Product (Output)' and the horizontal x-axis shows 'Variable Input (e.g., Labour)'. The top curve is the Total Product (TP), which rises steeply, curves to a peak, and then falls. Below it are the Average Product (AP) and Marginal Product (MP) curves. The MP curve rises rapidly to a peak, then falls, crossing the AP curve at the AP's highest point, and eventually crosses the x-axis to become negative. Vertical dashed lines divide the graph into three sections: 'Stage I' (from origin to where MP crosses AP), 'Stage II' (from the MP-AP intersection to where MP hits zero and TP is at its peak), and 'Stage III' (where MP is negative and TP is falling)."
  ]
 ]

@@ -1,0 +1,32 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Finding an Inverse Element",
+ "nodes": [
+  {
+   "id": "step1",
+   "text": "Step 1: Set up equation a * e = a",
+   "shape": "box"
+  },
+  {
+   "id": "step2",
+   "text": "Step 2: Solve for identity element (e)",
+   "shape": "box"
+  },
+  {
+   "id": "step3",
+   "text": "Step 3: Set up equation a * a⁻¹ = e and solve for a⁻¹",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "step1",
+   "to": "step2"
+  },
+  {
+   "from": "step2",
+   "to": "step3"
+  }
+ ]
+}

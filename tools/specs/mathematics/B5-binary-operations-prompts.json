@@ -1,0 +1,14 @@
+[
+ [
+  "B5-01-closure-binary-operation-venn",
+  "A Venn diagram labeled 'Set of Natural Numbers (N)'. Two numbers, 3 and 5, are inside the set circle. An arrow labeled 'Subtraction (3 - 5)' points from these numbers to a result '-2', which is drawn outside the set boundary, visually indicating that the set of natural numbers is not closed under subtraction. Style: clean flat textbook illustration, white background."
+ ],
+ [
+  "B5-02-balance-scale-commutativity",
+  "A balance scale diagram illustrating commutativity. On the left scale pan is a block labeled 'a' stacked with a block labeled 'b'. On the right scale pan is a block labeled 'b' stacked with a block labeled 'a' (reversed order). The scale is perfectly balanced. Below it, the equation 'a * b = b * a' is displayed. Style: clean flat textbook illustration, white background."
+ ],
+ [
+  "B5-03-inverse-element-calculation-flowchart",
+  "A three-step flowchart for finding an inverse element. Step 1 box: 'Set up equation a * e = a'. Arrow points to Step 2 box: 'Solve for the identity element (e)'. Arrow points to Step 3 box: 'Set up equation a * a⁻¹ = e and solve for a⁻¹'. Style: clean flat textbook illustration, white background."
+ ]
+]

@@ -35,7 +35,7 @@ A set is said to be **closed** under a binary operation if combining *any* two e
 
 If you can find even one pair of numbers in the set that, when combined, produces a result outside the set, the operation is *not closed*. 
 
-[IMAGE: A Venn diagram labeled 'Set of Natural Numbers (N)'. Two numbers, 3 and 5, are inside the set circle. An arrow labeled 'Subtraction (3 - 5)' points from these numbers to a result '-2', which is drawn outside the set boundary, visually indicating that the set of natural numbers is not closed under subtraction. Style: clean flat textbook illustration, white background.]
+![Diagram showing numbers 3 and 5 inside the set of natural numbers circle, with an arrow representing subtraction leading to negative 2 outside the circle.](images/B5-01-closure-binary-operation-venn.png)
 
 ### 2. Commutativity
 
@@ -48,7 +48,7 @@ for all elements $a$ and $b$ in the set.
 - Addition and multiplication of ordinary numbers are commutative ($3+4 = 4+3$ and $3 \times 4 = 4 \times 3$).
 - Subtraction and division are *not* commutative ($3-4 \neq 4-3$, because $-1 \neq 1$).
 
-[IMAGE: A balance scale diagram illustrating commutativity. On the left scale pan is a block labeled 'a' stacked with a block labeled 'b'. On the right scale pan is a block labeled 'b' stacked with a block labeled 'a' (reversed order). The scale is perfectly balanced. Below it, the equation 'a * b = b * a' is displayed. Style: clean flat textbook illustration, white background.]
+![A balanced scale compares stacked blocks a and b on the left against blocks b and a on the right, labeled with the equation a times b equals b times a.](images/B5-02-balance-scale-commutativity.png)
 
 ### 3. Associativity
 
@@ -185,7 +185,7 @@ $$a \ast a^{-1} = e \quad \text{and} \quad a^{-1} \ast a = e$$
 - For standard addition, the inverse of $a$ is $-a$ (since $a + (-a) = 0$, where 0 is the additive identity).
 - For standard multiplication, the inverse of $a$ is $\frac{1}{a}$ (since $a \times \frac{1}{a} = 1$, where 1 is the multiplicative identity).
 
-[IMAGE: A three-step flowchart for finding an inverse element. Step 1 box: 'Set up equation a * e = a'. Arrow points to Step 2 box: 'Solve for the identity element (e)'. Arrow points to Step 3 box: 'Set up equation a * a⁻¹ = e and solve for a⁻¹'. Style: clean flat textbook illustration, white background.]
+![A vertical three-step flowchart showing how to find an inverse element by first setting up an identity equation, solving for e, and solving for the inverse element.](images/B5-03-inverse-element-calculation-flowchart.png)
 
 ## Solving problems involving identity and inverse elements
 

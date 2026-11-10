@@ -6,68 +6,59 @@
    "Intercropping",
    "Strip cropping"
   ],
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    477,
+    120
+   ]
+  ],
+  "captions": [
    [
     "Monocropping",
-    [
-     257,
-     262
-    ],
-    "L"
+    257,
+    482
    ],
    [
     "Mixed cropping",
-    [
-     765,
-     262
-    ],
-    "R"
+    768,
+    481
    ],
    [
     "Intercropping",
-    [
-     257,
-     764
-    ],
-    "L"
+    257,
+    990
    ],
    [
     "Strip cropping",
-    [
-     765,
-     764
-    ],
-    "R"
+    762,
+    993
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-02-seed-planting-patterns-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Broadcasting (scattered)",
-    [
-     200,
-     523
-    ],
-    "L"
+    "Broadcasting\n(scattered)",
+    200,
+    929
    ],
    [
-    "Row spacing (exact intervals)",
-    [
-     512,
-     523
-    ],
-    "R"
+    "Row spacing\n(exact\nintervals)",
+    512,
+    929
    ],
    [
-    "Drilling (continuous lines in furrows)",
-    [
-     823,
-     523
-    ],
-    "R"
+    "Drilling\n(continuous\nlines in\nfurrows)",
+    822,
+    929
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-03-plant-density-effects": {
   "caption_below": "Low, optimum, and high plant density effects on crop yield and growth"

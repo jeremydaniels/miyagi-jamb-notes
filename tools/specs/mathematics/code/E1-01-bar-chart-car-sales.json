@@ -1,0 +1,27 @@
+{
+ "template": "chart",
+ "kind": "bar",
+ "title": "Number of cars sold per day",
+ "x_label": "Days of the Week",
+ "y_label": "Frequency (Number of cars)",
+ "categories": [
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday"
+ ],
+ "series": [
+  {
+   "label": "Cars Sold",
+   "values": [
+    4,
+    6,
+    3,
+    8,
+    5
+   ]
+  }
+ ],
+ "values_shown": true
+}

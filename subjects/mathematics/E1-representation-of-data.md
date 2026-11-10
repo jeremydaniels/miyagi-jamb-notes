@@ -126,7 +126,7 @@ A pie chart is a circular graph divided into sectors, resembling slices of a pie
 
 ### Interpreting Bar Charts
 
-[IMAGE: A clean flat textbook style bar chart. The title is "Number of cars sold per day". The y-axis is labeled "Frequency (Number of cars)" with scale 0, 2, 4, 6, 8, 10. The x-axis is labeled "Days of the Week" with discrete categories: Monday, Tuesday, Wednesday, Thursday, Friday. There are equal gaps between the bars. The bar heights are: Monday (4), Tuesday (6), Wednesday (3), Thursday (8), Friday (5). The bars are a uniform solid light blue colour. White background.]
+![A bar chart titled Number of cars sold per day showing sales from Monday to Friday with bar values 4, 6, 3, 8, and 5 respectively.](images/E1-01-bar-chart-car-sales.png)
 
 To interpret a bar chart, simply read the category on the $x$-axis and trace the top of the bar across to the $y$-axis to find its frequency.
 
@@ -143,7 +143,7 @@ How many more cars were sold on Thursday than on Monday and Wednesday combined?
 
 ### Interpreting Histograms and Finding the Mode
 
-[IMAGE: A clean flat textbook style histogram. The title is "Heights of students". The y-axis is labeled "Frequency" with scale 0, 5, 10, 15, 20. The x-axis is labeled "Height (cm)" with continuous numbers: 149.5, 159.5, 169.5, 179.5, 189.5. The bars touch each other with no gaps. The bar heights are: 149.5-159.5 (5), 159.5-169.5 (15), 169.5-179.5 (20), 179.5-189.5 (10). Dashed lines are drawn inside the tallest bar (169.5-179.5) to estimate the mode: one diagonal line from the top-left corner of the tallest bar to the top-left corner of the next bar (179.5-189.5), and another from the top-right corner of the tallest bar to the top-right corner of the previous bar (159.5-169.5). A vertical dashed line drops from the intersection of these diagonals to the x-axis, pointing to an estimated value of 172.8 cm. White background.]
+![Histogram of student heights showing how to graphically estimate the mode using intersecting diagonal dashed lines within the modal class, yielding approximately 172.8 cm.](images/E1-02-histogram-mode-estimation.png)
 
 JAMB frequently tests your ability to **estimate the Mode** from a histogram. The mode is the value with the highest frequency, which corresponds to the tallest bar. 
 
@@ -164,7 +164,7 @@ A histogram has boundaries $9.5 - 19.5$, $19.5 - 29.5$, $29.5 - 39.5$ with frequ
 
 ### Interpreting Pie Charts
 
-[IMAGE: A clean flat textbook style pie chart. The circular chart is divided into sectors. The title is "Monthly Budget". The sectors are labeled with their items and angles: Food ($120^\circ$), Rent ($90^\circ$), Transport ($60^\circ$), Savings ($40^\circ$), and Others ($50^\circ$). The sectors are shaded in different distinct colours. White background.]
+![A pie chart titled Monthly Budget showing sectors for Food at 120 degrees, Rent at 90 degrees, Transport at 60 degrees, Savings at 40 degrees, and Others at 50 degrees.](images/E1-03-monthly-budget-pie-chart.png)
 
 The fundamental formula for pie chart calculations is:
 $$ \text{Angle of Sector} = \frac{\text{Frequency of the item}}{\text{Total Frequency}} \times 360^\circ $$

@@ -1,0 +1,14 @@
+[
+ [
+  "E1-01-bar-chart-car-sales",
+  "A clean flat textbook style bar chart. The title is \"Number of cars sold per day\". The y-axis is with scale 0, 2, 4, 6, 8, 10. The x-axis is with discrete categories: Monday, Tuesday, Wednesday, Thursday, Friday. There are equal gaps between the bars. The bar heights are: Monday (4), Tuesday (6), Wednesday (3), Thursday (8), Friday (5). The bars are a uniform solid light blue colour. White background."
+ ],
+ [
+  "E1-02-histogram-mode-estimation",
+  "A clean flat textbook style histogram. The title is \"Heights of students\". The y-axis is with scale 0, 5, 10, 15, 20. The x-axis is with continuous numbers: 149.5, 159.5, 169.5, 179.5, 189.5. The bars touch each other with no gaps. The bar heights are: 149.5-159.5 (5), 159.5-169.5 (15), 169.5-179.5 (20), 179.5-189.5 (10). Dashed lines are drawn inside the tallest bar (169.5-179.5) to estimate the mode: one diagonal line from the top-left corner of the tallest bar to the top-left corner of the next bar (179.5-189.5), and another from the top-right corner of the tallest bar to the top-right corner of the previous bar (159.5-169.5). A vertical dashed line drops from the intersection of these diagonals to the x-axis, pointing to an estimated value of 172.8 cm. White background."
+ ],
+ [
+  "E1-03-monthly-budget-pie-chart",
+  "A clean flat textbook style pie chart. The circular chart is divided into sectors. The title is \"Monthly Budget\". The sectors are labeled with their items and angles: Food ($120^\\circ$), Rent ($90^\\circ$), Transport ($60^\\circ$), Savings ($40^\\circ$), and Others ($50^\\circ$). The sectors are shaded in different distinct colours. White background."
+ ]
+]

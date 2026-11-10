@@ -1,0 +1,25 @@
+{
+ "template": "chart",
+ "kind": "pie",
+ "title": "Monthly Budget",
+ "categories": [
+  "Food (120°)",
+  "Rent (90°)",
+  "Transport (60°)",
+  "Savings (40°)",
+  "Others (50°)"
+ ],
+ "series": [
+  {
+   "label": "Monthly Budget",
+   "values": [
+    120,
+    90,
+    60,
+    40,
+    50
+   ]
+  }
+ ],
+ "values_shown": false
+}

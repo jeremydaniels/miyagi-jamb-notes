@@ -1,0 +1,51 @@
+{
+ "template": "flowchart",
+ "title": "How to Acquire Citizenship",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "Acquisition of Citizenship",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "birth",
+   "text": "By Birth\n(Jus Sanguinis / Jus Soli)",
+   "shape": "box"
+  },
+  {
+   "id": "registration",
+   "text": "By Registration\n(e.g., marriage to a citizen)",
+   "shape": "box"
+  },
+  {
+   "id": "naturalization",
+   "text": "By Naturalization\n(long residence, good character, oath)",
+   "shape": "box"
+  },
+  {
+   "id": "honorary",
+   "text": "Honorary\n(given as an award/honour)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "birth"
+  },
+  {
+   "from": "root",
+   "to": "registration"
+  },
+  {
+   "from": "root",
+   "to": "naturalization"
+  },
+  {
+   "from": "root",
+   "to": "honorary"
+  }
+ ]
+}

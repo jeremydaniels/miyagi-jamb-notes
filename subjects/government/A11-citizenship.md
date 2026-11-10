@@ -77,7 +77,7 @@ This is a ceremonial form of citizenship granted by a state to a distinguished f
 | **Duration required** | None (instant at birth). | Short or no residency requirement, depending on marriage/ties. | Long residency requirement (often 10–15 years). | None. |
 | **Can it be revoked?** | Very rarely (usually cannot be revoked in Nigeria). | Yes, if obtained by fraud or for disloyalty. | Yes, if the person commits treason, fraud, or serious crimes. | Yes, if the person brings the country into disrepute. |
 
-[IMAGE: A flow chart showing the four main paths to citizenship. At the top, a title "How to Acquire Citizenship". Four arrows point down to four boxes. Box 1: "By Birth (Jus Sanguinis / Jus Soli)". Box 2: "By Registration (e.g., marriage to a citizen)". Box 3: "By Naturalization (long residence, good character, oath)". Box 4: "Honorary (given as an award/honour)". Clean flat textbook style, white background, clear bold text.]
+![A flowchart detailing four paths to acquire citizenship branching from a central box: By Birth, By Registration, By Naturalization, and Honorary.](images/A11-01-paths-citizenship-flowchart.png)
 
 ## Dual Citizenship, Renunciation and Deprivation
 
@@ -145,7 +145,7 @@ A common exam concept is that **rights are not absolute**. This means rights hav
 - **Freedom of expression** does not permit slander (speaking lies to damage someone's reputation), libel (writing lies to damage reputation), or inciting public violence.
 - **State of Emergency:** During a war or severe crisis, the government can suspend certain rights (like freedom of movement) to restore order.
 
-[IMAGE: A scale of justice. On the left weighing pan, a document labelled "Rights" (with small icons for voting, speech, and liberty). On the right weighing pan, a document labelled "Duties" (with small icons for taxes, law, and defence). The scale is perfectly balanced. Labels to add later: "Rights", "Duties", "Reciprocal Relationship". Clean flat textbook style, white background.]
+![A balanced scale of justice holding a document representing rights on the left pan and a document representing duties on the right pan.](images/A11-02-balanced-scale-rights-duties.png)
 
 ## Duties and Obligations of Citizens
 

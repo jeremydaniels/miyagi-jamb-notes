@@ -1,0 +1,22 @@
+[
+ [
+  "A31-01-internal-resistance-circuit",
+  "A simple electrical circuit diagram containing a cell, an ammeter, a switch, and an external resistor R in series. The cell is shown enclosed in a dashed box representing its internal resistance 'r', and its electromotive force 'E'. A voltmeter 'V' is connected in parallel across the external resistor 'R'."
+ ],
+ [
+  "A31-02-metre-bridge-circuit-schematic",
+  "Diagram of a metre bridge. A 100 cm uniform wire AB is stretched tightly over a wooden board alongside a metre rule. A central brass strip divides two gaps. In the left gap is an unknown resistor R1. In the right gap is a known standard resistor R2. A galvanometer G connects the central strip to a jockey (a sliding contact) resting on the wire at point J. The length from A to J is labeled l1, and from J to B is l2 (which is 100 - l1). A cell and a switch are connected across the ends A and B."
+ ],
+ [
+  "A31-03-resistors-series-parallel-circuit",
+  "Two circuit diagrams side by side. Left: Three resistors R1, R2, and R3 connected in a single continuous line (series). Right: The same three resistors connected across two common junction points, forming three parallel branches (parallel)."
+ ],
+ [
+  "A31-04-potentiometer-circuit",
+  "Diagram of a simple potentiometer circuit. A driver cell E_driver is connected across a long uniform wire AB. A second cell E1 to be tested is connected from point A to a galvanometer, which connects to a sliding jockey on the wire at balance point J. The length AJ is marked as balance length 'l'."
+ ],
+ [
+  "A31-05-kirchhoff-junction-rule",
+  "A circuit node (junction) with four wire branches meeting at a central point. Arrows show the direction of current flow. Two arrows point towards the node, and \"4 A\". Two arrows point away from the node, and \"x\"."
+ ]
+]

@@ -37,7 +37,7 @@ To understand an electrical circuit, imagine water flowing through pipes. The pu
 *   **Internal Resistance ($r$):** Every real battery or cell has some built-in resistance to the flow of current due to the chemicals and materials inside it. This opposition inside the cell is called internal resistance. Its SI unit is the Ohm ($\Omega$).
 *   **Lost Volt ($v$):** Because of the internal resistance, some of the cell's energy is "wasted" simply pushing the current through the cell itself. The voltage drop across the internal resistance is called the lost volt.
 
-[IMAGE: A simple electrical circuit diagram containing a cell, an ammeter, a switch, and an external resistor R in series. The cell is shown enclosed in a dashed box representing its internal resistance 'r', and its electromotive force 'E'. A voltmeter 'V' is connected in parallel across the external resistor 'R'. Labels: "E (EMF)", "r (internal resistance)", "R (external resistance)", "V (terminal p.d.)", "A (ammeter)", "I (current direction)". Clean flat textbook style, white background.]
+![Circuit diagram showing a cell with internal resistance in a dashed box connected in series with a switch, resistor, and ammeter, with a voltmeter across the resistor.](images/A31-01-internal-resistance-circuit.png)
 
 ### The fundamental equations
 The relationship between EMF, terminal p.d., and internal resistance is given by:
@@ -148,7 +148,7 @@ Resistance can be measured directly using an ohmmeter, or calculated by measurin
 
 A **metre bridge** is a practical laboratory version of the Wheatstone bridge. It consists of a uniform resistance wire exactly one metre ($100.0\ \text{cm}$) long, stretched across a wooden board. It is used to find the value of an unknown resistance by comparing it with a known standard resistance.
 
-[IMAGE: Diagram of a metre bridge. A 100 cm uniform wire AB is stretched tightly over a wooden board alongside a metre rule. A central brass strip divides two gaps. In the left gap is an unknown resistor R1. In the right gap is a known standard resistor R2. A galvanometer G connects the central strip to a jockey (a sliding contact) resting on the wire at point J. The length from A to J is labeled l1, and from J to B is l2 (which is 100 - l1). A cell and a switch are connected across the ends A and B. Clean flat textbook style, white background.]
+![Metre bridge circuit diagram showing a uniform wire AB along a metre rule, two resistors spanning brass strips, a galvanometer connected to a jockey, cell, and switch.](images/A31-02-metre-bridge-circuit-schematic.png)
 
 **How it works:**
 1.  An unknown resistor $R_1$ is placed in the left gap.
@@ -186,7 +186,7 @@ In a metre bridge experiment, an unknown resistor $R_1$ is placed in the left ga
 
 Resistors can be connected together in circuits in two primary ways: series and parallel.
 
-[IMAGE: Two circuit diagrams side by side. Left: Three resistors R1, R2, and R3 connected in a single continuous line (series). Right: The same three resistors connected across two common junction points, forming three parallel branches (parallel). Clean flat textbook style, white background.]
+![Diagram comparing three resistors in a series circuit along a single path to three resistors in a parallel circuit across common junctions with respective total resistance formulas.](images/A31-03-resistors-series-parallel-circuit.png)
 
 ### Resistors in Series
 When resistors are connected end-to-end, they are in series.
@@ -224,7 +224,7 @@ Two resistors of $3.0\ \Omega$ and $6.0\ \Omega$ are connected in parallel. This
 
 A **potentiometer** is an instrument used for measuring electromotive force (EMF) and potential differences very accurately. It consists of a long, uniform resistance wire (often several metres long, folded back and forth) connected to a constant steady voltage supply called a driver cell.
 
-[IMAGE: Diagram of a simple potentiometer circuit. A driver cell E_driver is connected across a long uniform wire AB. A second cell E1 to be tested is connected from point A to a galvanometer, which connects to a sliding jockey on the wire at balance point J. The length AJ is marked as balance length 'l'. Clean flat textbook style, white background.]
+![Potentiometer circuit diagram showing a driver cell across wire AB and a test cell connected via a galvanometer to a sliding jockey at balance point J.](images/A31-04-potentiometer-circuit.png)
 
 ### Principle of the Potentiometer
 Because the wire is uniform, the potential difference across any length of the wire is directly proportional to that length. 
@@ -271,7 +271,7 @@ When circuits become complex (networks with multiple batteries and branches), Oh
 Simply put: **Total current entering a junction = Total current leaving the junction.**
 This law is based on the principle of *conservation of electric charge*.
 
-[IMAGE: A circuit node (junction) with four wire branches meeting at a central point. Arrows show the direction of current flow. Two arrows point towards the node, labeled "5 A" and "4 A". Two arrows point away from the node, labeled "3 A" and "x". Clean flat textbook style, white background.]
+![Diagram illustrating Kirchhoff junction rule with currents of 5 A and 4 A entering a central node, and 3 A and an unknown current x leaving the node.](images/A31-05-kirchhoff-junction-rule.png)
 
 *Example based on the image above:*
 Currents entering $= 5\ \text{A} + 4\ \text{A} = 9\ \text{A}$.

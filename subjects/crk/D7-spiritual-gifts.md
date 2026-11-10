@@ -52,7 +52,7 @@ To explain how these gifts should work together, Paul uses the illustration of t
 * Even the parts of the body that seem weaker or less honourable are completely necessary. 
 * Therefore, no believer should feel useless because they do not have a certain gift, and no believer should feel proud because of the gift they have. 
 
-[IMAGE: A conceptual illustration comparing a human body to the Church. On the left, a normal human body with lines pointing to the eye, ear, hand, and foot. On the right, a diverse group of Christians standing together (a man teaching, a woman praying, someone helping a sick person, someone organizing). A bright light connecting them all from above represents the Holy Spirit. Labels to add: "One Body, Many Parts", "Teaching", "Healing", "Helping", "The same Holy Spirit". Clean flat textbook style, white background.]
+![A comparison showing a human figure with arrows to body parts alongside a group of believers serving, praying, and teaching beneath divine light.](images/D7-01-body-christ-spiritual-gifts.png)
 
 ### 2. Spiritual gifts in Romans 12:3-18
 
@@ -115,7 +115,7 @@ Sometimes, a natural talent and a spiritual gift can overlap or work together. F
 
 Similarly, in Nigeria, many people are naturally talented singers or instrumentalists. However, musical talent alone is not a spiritual gift (music is not listed in Romans 12 or 1 Corinthians 12). A talented musician only builds up the church spiritually if they also operate with spiritual gifts like exhortation or prophecy while they sing.
 
-[IMAGE: A split-screen graphic comparing a talent and a spiritual gift. On the left side ("Natural Talent"), a person in a bright spotlight playing a grand piano in a concert hall for a clapping audience. On the right side ("Spiritual Gift"), a person humbly placing their hands on the shoulder of a crying person in a church setting, praying for them, with a soft warm glow representing the Holy Spirit. Labels to add later: "Natural Talent", "Developed by practice", "Used to entertain or earn", "Spiritual Gift", "Given by the Holy Spirit", "Used to build up and comfort others". Clean flat textbook style, white background.]
+![A split illustration comparing natural talent shown as a man playing piano under a spotlight for an audience, and a spiritual gift shown as a man comforting someone crying.](images/D7-02-talent-versus-spiritual-gift.png)
 
 ## Key terms
 

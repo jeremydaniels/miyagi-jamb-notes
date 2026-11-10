@@ -738,7 +738,7 @@ Before donated blood is used, it must be:
 
 In Nigeria, the **National Blood Service** coordinates the collection and screening of blood, and voluntary, unpaid donors are encouraged because their blood is safest.
 
-[IMAGE: Arrow diagram of ABO transfusion compatibility. Four large circles arranged in a diamond: O at the top, A on the left, B on the right, AB at the bottom, each coloured softly (O white with red outline, A blue, B green, AB purple). Green arrows show safe donation: from O to A, O to B, O to AB; from A to AB; from B to AB; plus a small curved self-arrow on each circle showing each group can donate to itself. No arrows between A and B. Labels to add later: "O (universal donor)", "A", "B", "AB (universal recipient)", "arrow = can donate to". Clean flat textbook style, white background.]
+![Diagram of ABO blood groups: O donates to A, B and AB; A and B each donate to AB; AB is the universal recipient.](images/D1-12-abo-blood-transfusion-compatibility.png)
 
 ### Determination of paternity
 

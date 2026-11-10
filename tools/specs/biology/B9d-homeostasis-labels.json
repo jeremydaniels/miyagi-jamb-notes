@@ -144,5 +144,134 @@
     "L"
    ]
   ]
+ },
+ "B9d-04-skin-section-temperature-regulation": {
+  "regions": [
+   "epidermis",
+   "dermis",
+   "subcutaneous fat"
+  ],
+  "labels": [
+   [
+    "epidermis",
+    [
+     380,
+     263
+    ],
+    "L"
+   ],
+   [
+    "dermis",
+    [
+     182,
+     636
+    ],
+    "L"
+   ],
+   [
+    "subcutaneous fat",
+    [
+     464,
+     871
+    ],
+    "L"
+   ],
+   [
+    "hair",
+    [
+     528,
+     314
+    ],
+    "R"
+   ],
+   [
+    "erector muscle",
+    [
+     611,
+     501
+    ],
+    "R"
+   ],
+   [
+    "hair follicle",
+    [
+     480,
+     654
+    ],
+    "L"
+   ],
+   [
+    "sebaceous gland",
+    [
+     566,
+     437
+    ],
+    "R"
+   ],
+   [
+    "sweat gland",
+    [
+     737,
+     652
+    ],
+    "R"
+   ],
+   [
+    "sweat duct",
+    [
+     749,
+     379
+    ],
+    "R"
+   ],
+   [
+    "sweat pore",
+    [
+     753,
+     179
+    ],
+    "R"
+   ],
+   [
+    "arteriole",
+    [
+     241,
+     650
+    ],
+    "L"
+   ],
+   [
+    "capillaries",
+    [
+     272,
+     330
+    ],
+    "L"
+   ],
+   [
+    "shunt vessel",
+    [
+     586,
+     693
+    ],
+    "R"
+   ],
+   [
+    "temperature receptor",
+    [
+     303,
+     445
+    ],
+    "L"
+   ],
+   [
+    "nerve fibre",
+    [
+     832,
+     531
+    ],
+    "R"
+   ]
+  ]
  }
 }

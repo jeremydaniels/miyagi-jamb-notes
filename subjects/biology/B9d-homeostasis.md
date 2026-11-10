@@ -94,7 +94,7 @@ Because the corrections keep switching on and off, the level **fluctuates slight
 
 **An everyday comparison:** an air conditioner with a **thermostat**. You set it to 24 °C. When the room becomes warmer than 24 °C, the thermostat detects this and switches the cooling on. When the room cools to 24 °C, the thermostat switches the cooling off. The hypothalamus works like the thermostat, and the sweat glands and blood vessels work like the cooling unit.
 
-[IMAGE: Circular flow diagram of negative feedback in homeostasis. At the top, a horizontal band labelled as the normal range, with a wavy line rising above it on the left. From the rise, an arrow leads clockwise to a box with a small eye-like sensor icon (receptors), then to a box with a small brain icon (control centre), then to a box with a muscle and gland icon (effectors), then to an arrow pointing down back into the normal band (corrective response). Below the band, a mirror-image loop for a fall below normal, with the same three boxes and an arrow pointing up back into the band. Use orange for the rise loop and blue for the fall loop. Labels: normal value (set point), rise above normal, fall below normal, receptors detect change, control centre, effectors, corrective response, return to normal. Clean flat textbook style, white background.]
+![Negative feedback homeostasis loop showing a central normal set point range with upper rise and lower fall cycles through receptors, control centre, and effectors.](images/B9d-01-homeostasis-negative-feedback.png)
 
 ### Negative and positive feedback compared
 
@@ -149,7 +149,7 @@ Animals are divided into two groups according to how they get and control their 
 
 **How ectotherms regulate their temperature (by behaviour):** an *Agama* lizard **basks** in the morning sun to warm up, turning its body side-on to the sun; at midday it moves into the **shade** or into crevices to avoid overheating; at night it shelters in cracks (see `A3-adaptations.md`). Crocodiles lie with their mouths open in the sun and cool off in water; desert snakes and lizards burrow into cooler sand. Many ectotherms become **dormant** when it is too cold or too hot and dry (hibernation and aestivation).
 
-[IMAGE: Line graph comparing body temperature in an endotherm and an ectotherm. The x-axis shows the temperature of the surroundings from 0 °C to 40 °C. The y-axis shows body temperature from 0 °C to 45 °C. A horizontal red line stays flat at about 37 °C across the whole range (endotherm, with a small mammal icon). A blue diagonal line rises steadily from low to high, roughly following the surrounding temperature (ectotherm, with a small lizard icon). Labels: temperature of surroundings (°C), body temperature (°C), endotherm (e.g. human), ectotherm (e.g. lizard), constant body temperature, body temperature changes with surroundings. Clean flat textbook style, white background.]
+![A graph comparing body temperature of an endotherm, which remains constant around 37 degrees Celsius, to an ectotherm, whose body temperature increases proportionally with the surroundings.](images/B9d-03-thermoregulation-line-graph-comparison.png)
 
 ### Heat gain and heat loss
 
@@ -185,7 +185,7 @@ The **skin** is the main organ through which body temperature is regulated. (Its
 | **Temperature receptors (thermoreceptors)** | Nerve endings that detect **heat and cold** at the skin surface and send impulses to the hypothalamus, giving early warning of changes in the surroundings |
 | **Sensory nerves and motor nerves** | Carry impulses from the receptors to the brain and from the brain to the sweat glands, arterioles and erector muscles |
 
-[IMAGE: Vertical section through human skin showing the structures involved in temperature regulation. Show the epidermis (cornified layer, granular layer, Malpighian layer) on top; the dermis below with a hair in its follicle and a small erector muscle attached to it, a sebaceous gland beside the follicle, a coiled sweat gland with its duct opening at a sweat pore on the surface, red arterioles and capillary loops close to the surface, a deeper shunt vessel connecting arteriole to venule, a temperature receptor nerve ending, and yellow nerve fibres; and a thick yellow subcutaneous fat layer at the bottom. Labels: epidermis, dermis, subcutaneous fat, hair, erector muscle, hair follicle, sebaceous gland, sweat gland, sweat duct, sweat pore, arteriole, capillaries, shunt vessel, temperature receptor, nerve fibre. Clean flat textbook style, white background.]
+![Diagrammatic cross section of human skin showing the epidermis, dermis, hair follicle, erector muscle, sebaceous gland, sweat gland, blood vessels with shunt, and subcutaneous fat.](images/B9d-04-skin-section-temperature-regulation.png)
 
 ### The hypothalamus: the body's thermostat
 

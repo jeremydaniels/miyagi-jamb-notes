@@ -83,7 +83,7 @@ The reform clearly defined the functions of local governments (which were later 
 - While recognized as a third tier, local governments were still placed under the supervision of the State governments through the **Ministry of Local Government**.
 - The State Ministry of Local Government approved their budgets and monitored their activities, which meant they were not completely autonomous.
 
-[IMAGE: A timeline flowchart showing the evolution of Local Government in Nigeria. Left box (Pre-1976): "Native Authorities, District Councils, No uniformity, Weak funding." Middle box (1976 Reform): "Uniform single-tier, Third tier of government, Statutory funding, State Ministry supervision." Right box (1989 Reform): "Presidential system, Separation of powers, Direct funding, Ministry abolished." Clean flat textbook illustration, white background.]
+![A vertical timeline showing the evolution of local government in Nigeria across three periods: the pre-1976 system, 1976 reforms, and 1989 reforms with their key characteristics.](images/B11-01-local-government-evolution-timeline.png)
 
 ### The 1989 Local Government Reform
 During the military regime of General Ibrahim Babangida, another major reform was introduced in 1989 to address the ongoing weaknesses of local governments, particularly their lack of autonomy from state governments.
@@ -169,7 +169,7 @@ Many citizens do not participate in local government elections or hold their loc
 **7. Constitutional Ambiguities**
 There is a clash between Section 7 of the 1999 Constitution (which guarantees a system of democratically elected local government councils) and Section 162 (which places their funding in a Joint Account managed by the State). *Note: The exact number of constitutionally recognized Local Government Areas in Nigeria is 774, but state governors' attempts to create new ones (Local Council Development Areas or LCDAs) have caused political and legal friction.*
 
-[IMAGE: An infographic depicting a local government building surrounded by problem bubbles: 1. A hand taking money from a bag labeled "Joint Account" (Lack of financial autonomy), 2. A governor puppet-master controlling a council chairman (State interference), 3. A broken road and empty clinic (Mismanagement/Poor revenue), 4. A silhouette of a professional walking away (Shortage of skilled staff). Clean flat textbook illustration, white background.]
+![A central local government building surrounded by four problem bubbles showing revenue loss, puppet control, a damaged road by a clinic, and a professional walking away.](images/B11-02-local-government-problems-infographic.png)
 
 > **Common mistake:** In exams, if asked for the primary reason local governments cannot execute their projects, the most accurate answer usually relates to **lack of financial autonomy** or **insufficient funds** (often due to state interference).
 

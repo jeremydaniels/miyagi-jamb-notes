@@ -1,0 +1,21 @@
+{
+ "template": "timeline",
+ "title": "Evolution of Local Government in Nigeria",
+ "events": [
+  {
+   "when": "Pre-1976",
+   "title": "Pre-1976 System",
+   "text": "Native Authorities, District Councils, No uniformity, Weak funding"
+  },
+  {
+   "when": "1976",
+   "title": "1976 Reform",
+   "text": "Uniform single-tier, Third tier of government, Statutory funding, State Ministry supervision"
+  },
+  {
+   "when": "1989",
+   "title": "1989 Reform",
+   "text": "Presidential system, Separation of powers, Direct funding, Ministry abolished"
+  }
+ ]
+}

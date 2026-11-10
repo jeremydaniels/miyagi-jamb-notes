@@ -1,0 +1,14 @@
+[
+ [
+  "B2-01-direct-variation-graph",
+  "A 2D Cartesian graph showing a straight line passing through the origin (0,0). The horizontal axis is and the vertical axis is \"y\". The line has a positive slope, pointing upwards to the right. An equation \"y = kx\" is written next to the line."
+ ],
+ [
+  "B2-02-inverse-variation-hyperbola-graph",
+  "A 2D Cartesian graph showing a rectangular hyperbola in the first quadrant. The horizontal axis is and the vertical axis is \"y\". The curve starts high on the y-axis and curves downwards to the right, becoming asymptotic to the x-axis without ever touching it. An equation \"y = k/x\" is written next to the curve."
+ ],
+ [
+  "B2-03-linear-variation-graph",
+  "A 2D Cartesian graph showing a straight line that does not pass through the origin. The horizontal axis is and the vertical axis is \"y\". The line intercepts the y-axis at a positive value \"c\". An equation \"y = mx + c\" is written next to the line."
+ ]
+]

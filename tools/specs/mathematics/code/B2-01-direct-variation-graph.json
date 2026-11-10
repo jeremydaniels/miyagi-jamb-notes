@@ -1,0 +1,25 @@
+{
+ "template": "graph",
+ "x_label": "x",
+ "y_label": "y",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "y = kx",
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     9,
+     9
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ]
+}

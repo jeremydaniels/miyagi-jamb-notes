@@ -41,7 +41,7 @@ where $k$ is the constant of proportionality.
 
 Direct variation can also involve powers and roots. For example, if $y$ varies directly as the square of $x$, the equation is $y = kx^2$. 
 
-[IMAGE: A 2D Cartesian graph showing a straight line passing through the origin (0,0). The horizontal axis is labelled "x" and the vertical axis is "y". The line has a positive slope, pointing upwards to the right. An equation "y = kx" is written next to the line. Clean flat textbook style, white background.]
+![A Cartesian graph with x and y axes showing a straight line with a positive slope starting at the origin, labeled with the equation y = kx.](images/B2-01-direct-variation-graph.png)
 
 **Worked Example 1: Basic direct variation**
 The cost of tubers of yam varies directly as the number of tubers bought. If 5 tubers of yam cost ₦6,000, find the cost of 12 tubers.
@@ -80,7 +80,7 @@ If a quantity $y$ varies inversely as $x$, we write:
 $$y \propto \frac{1}{x}$$
 $$y = \frac{k}{x}$$
 
-[IMAGE: A 2D Cartesian graph showing a rectangular hyperbola in the first quadrant. The horizontal axis is labelled "x" and the vertical axis is "y". The curve starts high on the y-axis and curves downwards to the right, becoming asymptotic to the x-axis without ever touching it. An equation "y = k/x" is written next to the curve. Clean flat textbook style, white background.]
+![A Cartesian graph in the first quadrant illustrating a rectangular hyperbola defined by the equation y = k/x asymptotic to the axes.](images/B2-02-inverse-variation-hyperbola-graph.png)
 
 **Worked Example 3: Basic inverse variation**
 The time $t$ taken to travel from Lagos to Ibadan varies inversely as the average speed $v$ of the vehicle. If it takes 2 hours at an average speed of $60\text{ km/h}$, how long will it take at an average speed of $80\text{ km/h}$?
@@ -148,7 +148,7 @@ In partial variation, a quantity is made up of two (or more) separate parts adde
 - Sometimes, both parts vary (e.g., partly as $x$ and partly as $x^2$), leading to $y = ax + bx^2$.
 - **Important:** Partial variation always requires **two constants** (usually written as $a$ and $b$ or $k_1$ and $k_2$). Because there are two unknowns, you will be given two sets of data and must solve **simultaneous equations**.
 
-[IMAGE: A 2D Cartesian graph showing a straight line that does not pass through the origin. The horizontal axis is labelled "x" and the vertical axis is "y". The line intercepts the y-axis at a positive value "c". An equation "y = mx + c" is written next to the line. Clean flat textbook style, white background.]
+![A Cartesian coordinate graph with labeled x and y axes showing a straight line with equation y equals mx plus c intercepting the y-axis at value c.](images/B2-03-linear-variation-graph.png)
 
 **Worked Example 7: Linear partial variation**
 The monthly salary of a salesman is partly constant (his basic salary) and partly varies directly as his sales for the month. In a month where he sold ₦500,000 worth of goods, his salary was ₦70,000. When he sold ₦800,000 worth of goods, his salary was ₦100,000. Find his salary if he makes sales of ₦1,200,000.

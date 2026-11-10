@@ -1,0 +1,38 @@
+{
+ "template": "graph",
+ "title": "Graph of y = mx + c",
+ "x_label": "x",
+ "y_label": "y",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "y = mx + c",
+   "points": [
+    [
+     0,
+     3
+    ],
+    [
+     8,
+     9
+    ]
+   ],
+   "smooth": false,
+   "color": "blue",
+   "label_at": "end"
+  }
+ ],
+ "points": [
+  {
+   "x": 0,
+   "y": 3
+  }
+ ],
+ "yticks": [
+  [
+   3,
+   "c"
+  ]
+ ]
+}

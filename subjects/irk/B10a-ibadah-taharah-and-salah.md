@@ -93,7 +93,7 @@ Wudū' is the ritual washing of specific parts of the body with pure water. It r
 7. Wiping the head and the ears with wet hands once.
 8. Washing the feet up to and including the ankles three times (right foot first).
 
-[IMAGE: A step-by-step diagram showing a person performing Wudu. Eight panels showing: 1. Making intention (hands raised slightly), 2. Washing hands to wrists, 3. Rinsing mouth and nose, 4. Washing face, 5. Washing right arm to elbow, 6. Wiping head and ears, 7. Washing right foot to ankle, 8. Standing complete. Clean flat textbook style, white background, with clear arrows highlighting the specific body parts.]
+![An eight-step instructional illustration showing a faceless person performing Wudu ablution steps in sequence from intention to standing complete.](images/B10a-01-wudu-ablution-steps-sequence.png)
 
 #### 3. Al-Ghusl (Major Ritual Bath)
 Ghusl is a full-body bath using pure water. It is required to remove major ritual impurity (*Hadath Akbar*). A person cannot pray, circumambulate the Ka'bah, or recite the Qur'an while in a state of major impurity.
@@ -148,7 +148,7 @@ Every Salāh is made up of units called **Rak'ah** (plural: Raka'āt). Each Rak'
 3. **Sujūd (Prostration):** Placing the forehead, nose, both palms, both knees, and the toes of both feet on the ground in submission to Allah. (Every Rak'ah has two prostrations).
 4. **Julūs / Tashahhud (Sitting):** Sitting on the legs between prostrations and at the end of the prayer to recite testimonies of faith and send blessings upon the Prophet.
 
-[IMAGE: A chart illustrating the four main postures of Salah. Left to right: 1. Qiyām (a person standing upright with right hand folded over left on the chest), 2. Rukū' (the person bowing at a 90-degree angle, hands resting on knees, back straight), 3. Sujūd (the person prostrating on the floor with forehead, nose, palms, knees, and toes touching the ground), 4. Julūs (the person sitting on their legs with hands resting on thighs). Labels below each: "Qiyām (Standing)", "Rukū' (Bowing)", "Sujūd (Prostration)", "Julūs (Sitting)". Clean flat textbook style, white background.]
+![An illustration showing four main postures of Islamic prayer from left to right: standing with hands folded, bowing, prostrating, and sitting, depicted by faceless figures.](images/B10a-02-salah-postures-instructional.png)
 
 ### Different types of Salāh
 

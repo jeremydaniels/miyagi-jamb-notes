@@ -95,7 +95,7 @@ $$VR = \frac{\text{length of the incline}}{\text{height of the incline}} = \frac
 Since $\sin\theta = \frac{h}{L}$, this can also be written as:
 $$VR = \frac{1}{\sin\theta}$$
 
-[IMAGE: A right-angled triangular inclined plane. The horizontal base, the vertical height labelled 'h', and the slanted length labelled 'L'. An angle 'θ' is marked between the base and the incline. A square block labelled 'Load (L) = mg' rests on the incline, with an arrow pointing parallel up the slope labelled 'Effort (E)'. Clean flat textbook illustration, white background.]
+![An inclined plane diagram showing height h, length L, angle theta, and a block representing load being pulled upward with effort force E.](images/A8-03-inclined-plane-mechanics.png)
 
 ### 4. The Screw and Screw Jack
 A screw can be thought of as an inclined plane wrapped around a cylinder. A common example is a car jack used to lift a vehicle when changing a tyre. 

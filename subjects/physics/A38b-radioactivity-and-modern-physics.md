@@ -257,7 +257,7 @@ This **diffraction pattern** is exactly what light waves do. It provided the ult
 
 **Application:** The principles of electron diffraction led to the invention of the **Electron Microscope**. Because the de Broglie wavelength of moving electrons is much shorter than the wavelength of visible light, an electron microscope has an incredibly high resolving power, allowing scientists to see individual viruses and even atoms, which optical microscopes cannot resolve.
 
-![A diagram of an electron diffraction tube showing a heated cathode, anode, thin crystal target, and concentric diffraction rings forming on a fluorescent screen.](images/A38b-03-electron-diffraction-apparatus-schematic.png)
+[IMAGE: Diagram showing an electron diffraction experiment. A heated filament (cathode) emits electrons which are accelerated by an anode into a fine beam. The beam passes through a very thin graphite or nickel crystal and hits a fluorescent screen on the right. On the screen, a pattern of concentric bright and dark rings is visible. Labels: "Heated cathode", "Anode", "Electron beam", "Thin crystal (e.g., graphite)", "Fluorescent screen", "Diffraction rings". Clean flat textbook illustration, white background.]
 
 ## Uncertainty Principle and Wave-Particle Problems
 

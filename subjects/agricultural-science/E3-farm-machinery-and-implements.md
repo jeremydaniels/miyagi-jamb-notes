@@ -87,7 +87,7 @@ After primary tillage, the soil consists of large rough clods. Secondary impleme
   - *Spring-tine harrow:* Has flexible metal teeth that drag through the soil, good for bringing weed roots to the surface.
 - **Ridger:** Used to form ridges and furrows. It gathers loose soil into raised beds. This is vital in Nigeria for root and tuber crops like yam and cassava, as it prevents waterlogging and gives roots room to expand. A mouldboard ridger looks like a double-sided mouldboard plough (throwing soil both left and right).
 
-[IMAGE: Side-by-side comparison of a disc plough and a mouldboard plough. Left: A disc plough showing three heavy saucer-shaped steel discs mounted on a heavy tubular frame, with a heavy rear furrow wheel. Right: A mouldboard plough showing a sharp horizontal share at the bottom, curving up into a twisted steel mouldboard plate, and a straight metal landside piece sliding behind it. Labels to add: "Concave disc", "Heavy frame", "Share (cuts)", "Mouldboard (turns soil)", "Landside". Clean flat textbook illustration, white background.]
+![A side-by-side comparison diagram showing a disc plough with three concave circular discs on the left and a mouldboard plough with share and mouldboard on the right.](images/E3-02-disc-mouldboard-ploughs.png)
 
 ### 2. Planting Implements
 These implements place seeds or plant parts into the soil at the correct depth and spacing, ensuring uniform crop emergence.

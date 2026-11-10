@@ -83,7 +83,7 @@ When studying the map of West Africa, you should be able to locate these countri
 - **Cape Verde** is an island nation located in the Atlantic Ocean, off the coast of Senegal.
 - The southern coast is lined with countries like **Côte d'Ivoire, Ghana, Togo,** and **Benin**.
 
-[IMAGE: A political map of West Africa showing the 15 ECOWAS member states. Each country is clearly outlined and labelled with its name. The landlocked countries (Mali, Niger, Burkina Faso) are shaded in a light yellow, the coastal Francophone and Lusophone countries in light green, and the Anglophone countries (Nigeria, Ghana, Sierra Leone, Liberia, The Gambia) in a pale orange. Cape Verde is visible as an island group to the west. A compass rose and scale are included. Clean flat textbook style, white background.]
+![Map of West Africa showing the fifteen ECOWAS member states categorized by landlocked, coastal Francophone and Lusophone, and Anglophone groups, complete with legend, compass rose, and scale.](images/D3-01-map-west-africa-ecowas.png)
 
 ## Advantages and Disadvantages of ECOWAS
 

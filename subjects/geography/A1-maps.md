@@ -29,7 +29,7 @@ To be considered a true, useful map, the drawing must have certain standard feat
 5. **Grid lines (Latitudes and Longitudes):** A network of intersecting vertical and horizontal lines. In atlas maps, these are latitudes and longitudes (measured in degrees, °). In topographical maps, they are rectangular grid lines (Eastings and Northings) used to locate places accurately.
 6. **Margin or Border:** An outer frame that encloses the map, making it neat and defining the limit of the mapped area.
 
-[IMAGE: A standard map layout showing a fictional Nigerian town. The map is enclosed in a thick margin. At the top, a bold Title: "MAP OF OLU TOWN". On the right side, a North Arrow pointing up. In the bottom left, a Key/Legend box showing a blue line for a river, black squares for buildings, and a red line for a road. In the bottom right, a linear Scale showing alternating black and white blocks from 0 to 5 km. Faint grid lines cross the map vertically and horizontally. Clean flat textbook style, white background.]
+![A standard map of Olu Town featuring a river, road, settlements, grid lines, a north arrow, a key, and a linear scale.](images/A1-01-standard-map-layout-elements.png)
 
 ## Classification and types of maps
 
@@ -93,7 +93,7 @@ These are maps designed specifically for navigation and transport.
 These maps show the meteorological conditions of an area at a specific time.
 *   **Identification:** They are covered in specific weather symbols (like isobars, which are lines joining places of equal atmospheric pressure), cloud cover circles, and wind direction arrows.
 
-[IMAGE: A three-panel comparison image. Panel 1 (Topographical Map): Shows brown contour lines, a blue river, a red road, and black square buildings. Panel 2 (Thematic Map): A map of Nigeria filled with different colours or dots representing population density, with a legend showing ranges like "High, Medium, Low". Panel 3 (Sketch Map): A simple hand-drawn style map showing a road, a church, a market, and arrows pointing "To my house", with no grid lines. Clean flat textbook style, white background.]
+![A three-panel diagram comparing a topographical map with contour lines and buildings, a thematic map showing population density across Nigeria, and a simplified sketch map.](images/A1-02-map-types-comparison-panel.png)
 
 ## Step-by-step: How to identify a map type
 

@@ -152,7 +152,7 @@ After independence, minority agitations caused intense political tension.
 2. **Refusal in other regions:** The NPC and NCNC refused to allow the creation of the Middle Belt or COR states in their own regions, showing that state creation was being used as a political weapon against the opposition Action Group rather than a genuine effort to help all minorities.
 3. **The Tiv Riots:** In the Middle Belt, frustration over the failure to create a state, coupled with perceived oppression by the regional government, led to violent uprisings known as the Tiv Riots (1960 and 1964). The federal government had to deploy the army to restore order.
 
-[IMAGE: Map of Nigeria in 1964. Show the four regions: a massive Northern Region spanning the top, the Western Region in the southwest, the newly created Mid-Western Region to the east of it, and the Eastern Region in the southeast. Include major cities: Lagos, Ibadan, Benin City, Enugu, Kaduna. Use contrasting pastel colours for each region. Labels to add later: "Northern Region", "Western Region", "Mid-Western Region (created 1963)", "Eastern Region". Clean flat textbook style, white background.]
+![Map of the Federal Republic of Nigeria in 1964 showing the Northern, Western, Mid-Western, and Eastern regions along with Kaduna, Ibadan, Lagos, Benin City, and Enugu.](images/D1-01-map-four-regions.png)
 
 ## The Action Group crisis and the 1964/65 elections
 

@@ -965,5 +965,137 @@
     "L"
    ]
   ]
+ },
+ "B6a-02-plant-supporting-tissues": {
+  "labels": [
+   [
+    "parenchyma",
+    [
+     118,
+     294
+    ],
+    "L"
+   ],
+   [
+    "air space",
+    [
+     120,
+     259
+    ],
+    "L"
+   ],
+   [
+    "vacuole",
+    [
+     115,
+     299
+    ],
+    "L"
+   ],
+   [
+    "collenchyma",
+    [
+     316,
+     294
+    ],
+    "L"
+   ],
+   [
+    "thickened corners",
+    [
+     327,
+     276
+    ],
+    "L"
+   ],
+   [
+    "sclerenchyma fibre",
+    [
+     462,
+     716
+    ],
+    "L"
+   ],
+   [
+    "lumen",
+    [
+     530,
+     206
+    ],
+    "R"
+   ],
+   [
+    "lignified wall",
+    [
+     516,
+     229
+    ],
+    "R"
+   ],
+   [
+    "sclereid (stone cell)",
+    [
+     543,
+     370
+    ],
+    "R"
+   ],
+   [
+    "xylem vessel",
+    [
+     707,
+     283
+    ],
+    "R"
+   ],
+   [
+    "annular thickening",
+    [
+     648,
+     675
+    ],
+    "R"
+   ],
+   [
+    "spiral thickening",
+    [
+     707,
+     675
+    ],
+    "R"
+   ],
+   [
+    "pitted vessel",
+    [
+     769,
+     675
+    ],
+    "R"
+   ],
+   [
+    "sieve tube",
+    [
+     852,
+     716
+    ],
+    "R"
+   ],
+   [
+    "companion cell",
+    [
+     904,
+     765
+    ],
+    "R"
+   ],
+   [
+    "phloem fibre",
+    [
+     939,
+     338
+    ],
+    "R"
+   ]
+  ]
  }
 }

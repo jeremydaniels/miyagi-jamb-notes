@@ -1,114 +1,87 @@
 {
  "E2-01-simple-farm-tools-collection": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    669,
+    120
+   ]
+  ],
+  "captions": [
    [
     "Cutlass",
-    [
-     223,
-     176
-    ],
-    "L"
+    188,
+    317
    ],
    [
     "Hoe",
-    [
-     431,
-     254
-    ],
-    "L"
+    512,
+    319
    ],
    [
     "Axe",
-    [
-     883,
-     129
-    ],
-    "R"
+    826,
+    316
    ],
    [
     "Spade",
-    [
-     125,
-     589
-    ],
-    "L"
+    210,
+    673
    ],
    [
     "Shovel",
-    [
-     448,
-     590
-    ],
-    "L"
+    517,
+    672
    ],
    [
     "Garden fork",
-    [
-     770,
-     579
-    ],
-    "R"
+    818,
+    671
    ],
    [
     "Hand trowel",
-    [
-     120,
-     883
-    ],
-    "L"
+    154,
+    961
    ],
    [
     "Hand fork",
-    [
-     322,
-     890
-    ],
-    "L"
+    354,
+    962
    ],
    [
     "Secateurs",
-    [
-     573,
-     811
-    ],
-    "R"
+    546,
+    964
    ],
    [
     "Watering can",
-    [
-     861,
-     854
-    ],
-    "R"
+    817,
+    967
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-02-farm-tools-use": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Hand trowel: transplanting",
-    [
-     223,
-     663
-    ],
-    "L"
+    "Hand trowel:\ntransplanting",
+    181,
+    706
    ],
    [
-    "Sickle: harvesting cereals",
-    [
-     538,
-     483
-    ],
-    "R"
+    "Sickle:\nharvesting\ncereals",
+    534,
+    729
    ],
    [
-    "Wheelbarrow: transporting farm produce",
-    [
-     775,
-     619
-    ],
-    "R"
+    "Wheelbarrow:\ntransporting\nfarm produce",
+    836,
+    737
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -31,5 +31,34 @@
    ]
   ]
  },
- "B4-03-oxbow-lake-formation-stages": {}
+ "B4-03-oxbow-lake-formation-stages": {},
+ "B4-04-desert-wind-landforms": {
+  "caption_below": "Wind direction and intense abrasion near ground",
+  "labels": [
+   [
+    "Rock Pedestal (Mushroom Rock)",
+    [
+     274,
+     312
+    ],
+    "L"
+   ],
+   [
+    "Barchan Dune",
+    [
+     666,
+     611
+    ],
+    "R"
+   ],
+   [
+    "Horns pointing downwind",
+    [
+     888,
+     559
+    ],
+    "R"
+   ]
+  ]
+ }
 }

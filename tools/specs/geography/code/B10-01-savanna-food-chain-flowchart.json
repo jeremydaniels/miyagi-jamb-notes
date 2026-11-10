@@ -1,0 +1,114 @@
+{
+ "template": "flowchart",
+ "title": "Simple Food Chain in a Nigerian Savanna",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "sun",
+   "text": "Sun\n(Solar Energy)",
+   "shape": "oval",
+   "color": "yellow"
+  },
+  {
+   "id": "grass",
+   "text": "Grass\n(Producer, 1st Trophic Level)",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "grasshopper",
+   "text": "Grasshopper\n(Primary Consumer, 2nd Trophic)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "toad",
+   "text": "Toad\n(Secondary Consumer, 3rd Trophic)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "snake",
+   "text": "Snake\n(Tertiary Consumer, 4th Trophic)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "hawk",
+   "text": "Hawk\n(Top Carnivore)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "heat1",
+   "text": "Heat Loss",
+   "shape": "plain",
+   "color": "red"
+  },
+  {
+   "id": "heat2",
+   "text": "Heat Loss",
+   "shape": "plain",
+   "color": "red"
+  },
+  {
+   "id": "heat3",
+   "text": "Heat Loss",
+   "shape": "plain",
+   "color": "red"
+  },
+  {
+   "id": "heat4",
+   "text": "Heat Loss",
+   "shape": "plain",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sun",
+   "to": "grass",
+   "label": "energy ray"
+  },
+  {
+   "from": "grass",
+   "to": "grasshopper",
+   "label": ""
+  },
+  {
+   "from": "grasshopper",
+   "to": "heat1",
+   "label": "heat"
+  },
+  {
+   "from": "grasshopper",
+   "to": "toad",
+   "label": ""
+  },
+  {
+   "from": "toad",
+   "to": "heat2",
+   "label": "heat"
+  },
+  {
+   "from": "toad",
+   "to": "snake",
+   "label": ""
+  },
+  {
+   "from": "snake",
+   "to": "heat3",
+   "label": "heat"
+  },
+  {
+   "from": "snake",
+   "to": "hawk",
+   "label": ""
+  },
+  {
+   "from": "hawk",
+   "to": "heat4",
+   "label": "heat"
+  }
+ ]
+}

@@ -64,7 +64,7 @@ Energy in an ecosystem flows in **one direction** (it is unidirectional). It ent
 - **Trophic Levels:** Each feeding step in a food chain is a trophic level. Producers form the first trophic level, primary consumers the second, secondary consumers the third, and so on.
 - **The 10% Rule:** As energy moves from one trophic level to the next, only about 10% is stored in the animal's body to be passed on to the next predator. The remaining 90% is used for life processes (movement, respiration) or lost as heat and waste. Because energy is rapidly lost, food chains rarely have more than four or five trophic levels.
 
-[IMAGE: A flowchart showing a simple food chain in a Nigerian savanna. Starting on the left with green Grass (Producer, 1st Trophic Level), an arrow points to a Grasshopper (Primary Consumer, 2nd Trophic Level), an arrow points to a Toad (Secondary Consumer, 3rd Trophic Level), an arrow points to a Snake (Tertiary Consumer, 4th Trophic Level), and a final arrow points to a Hawk (Top Carnivore). A large yellow Sun above points a ray of energy to the grass. Small red wavy arrows rise from every animal showing energy lost as heat. Clean flat textbook style, white background.]
+![Flowchart of a savanna food chain showing energy transfer from the Sun to grass, grasshopper, toad, snake, and hawk, with heat loss indicated at consumer stages.](images/B10-01-savanna-food-chain-flowchart.png)
 
 ### 2. Nutrient Cycling (Biogeochemical Cycles)
 
@@ -109,7 +109,7 @@ Humans are a part of the ecosystem, but our interaction is unique.
 - **Early Human Interaction:** In the past, human populations were small. Humans lived as hunters and gatherers, and their impact was minimal. The ecosystem could easily heal itself and maintain its balance.
 - **Modern Human Interaction:** As human population and technology grew, our interaction changed from mere *adaptation* to massive *modification* of the environment. We extract resources faster than nature can replace them, and we produce waste faster than nature can absorb it. When human extraction or pollution exceeds the ecosystem's limits, the environmental balance is **disrupted**, leading to environmental degradation.
 
-[IMAGE: A split illustration comparing environmental balance and disruption. Left half: A healthy landscape with a clear flowing river, dense green forest, various animals grazing peacefully, and a balanced scale floating in the sky. Right half: A degraded landscape with a dried-up muddy river, tree stumps from logging, a factory releasing thick black smoke into the air, and a broken scale floating in the sky. Clean flat textbook style, white background.]
+![A split illustration contrasting a healthy environment with lush forest, flowing river, animals, and balanced scales, against a degraded landscape with tree stumps, muddy dried river, factory smoke, and broken scales.](images/B10-02-environmental-balance-disruption.png)
 
 ## Effects of Human Activities on the Land Ecosystem
 

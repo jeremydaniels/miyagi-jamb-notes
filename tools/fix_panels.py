@@ -16,6 +16,7 @@ from common import RAW, WORK, REPO
 
 K = 1.024
 FORCE = False
+EXT = False          # search further below the panel, then above it, for a caption spot that touches nothing
 
 
 def seg_hits_box(p, q, box, shrink=0.08):
@@ -113,6 +114,13 @@ def plan(name, spec, au, allow_below):
             if strip_free(arr, cx - cap_w / 2, cx + cap_w / 2, bottom + off, bottom + off + cap_h):
                 placed = bottom + off; break
         below_others = [o for i, o in enumerate(boxes) if i != pi and o[1] > bottom - 20 and not (o[2] < b[0] or o[0] > b[2])]
+        if placed is None and EXT:
+            for off in range(170, 280, 10):
+                if strip_free(arr, cx - cap_w / 2, cx + cap_w / 2, bottom + off, bottom + off + cap_h):
+                    placed = bottom + off; break
+            if placed is None:
+                ya = b[1] - cap_h - 10
+                if ya > 0 and strip_free(arr, cx - cap_w / 2, cx + cap_w / 2, ya, ya + cap_h): placed = ya
         if placed is None and FORCE:
             if below_others:
                 splits.append(int(bottom + 6)); placed = bottom + 14                 # open a white row for the caption (may cut a thin line)

@@ -65,9 +65,10 @@ SUBJECT_RULES = {
 SENSITIVE = {"crk", "irk"}
 
 
-def style_of():
-    sub = SUBJECT.replace("-", " ")
-    return gen.STYLE.format(subject=sub) + (" " + SUBJECT_RULES[SUBJECT] if SUBJECT in SUBJECT_RULES else "")
+def style_of(subject=None):
+    subject = subject or SUBJECT
+    sub = subject.replace("-", " ")
+    return gen.STYLE.format(subject=sub) + (" " + SUBJECT_RULES[subject] if subject in SUBJECT_RULES else "")
 
 
 class Capped(Exception):
@@ -288,7 +289,7 @@ def batch_generate(jobs, model, label="imgs", poll=30, prompts=None):
     """Generate with the Batch API; returns {name: ok}. Cost assumed half of standard (unverified)."""
     reqs = {}
     for j in jobs:
-        prompt = (prompts or {}).get(j["name"], j["prompt"]) + "\n\nStyle: " + style_of()
+        prompt = (prompts or {}).get(j["name"], j["prompt"]) + "\n\nStyle: " + style_of(j.get("subject"))
         reqs[j["name"]] = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                            "generationConfig": {"responseModalities": ["TEXT", "IMAGE"], "imageConfig": {"aspectRatio": "1:1"}}}
     name, _ = g.submit_batch(reqs, model, f"{SUBJ}-{label}")

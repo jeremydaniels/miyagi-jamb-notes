@@ -1,0 +1,68 @@
+{
+ "C4-02-hen-reproductive-tract": {
+  "regions": [
+   "Magnum (secretes albumen)",
+   "Isthmus (secretes shell membranes)",
+   "Uterus/Shell gland (secretes shell)",
+   "Cloaca"
+  ],
+  "labels": [
+   [
+    "Ovary (produces yolks)",
+    [
+     283,
+     171
+    ],
+    "L"
+   ],
+   [
+    "Infundibulum (funnel - catches yolk)",
+    [
+     241,
+     368
+    ],
+    "L"
+   ],
+   [
+    "Magnum (secretes albumen)",
+    [
+     481,
+     394
+    ],
+    "L"
+   ],
+   [
+    "Isthmus (secretes shell membranes)",
+    [
+     736,
+     351
+    ],
+    "R"
+   ],
+   [
+    "Uterus/Shell gland (secretes shell)",
+    [
+     839,
+     520
+    ],
+    "R"
+   ],
+   [
+    "Vagina",
+    [
+     775,
+     791
+    ],
+    "R"
+   ],
+   [
+    "Cloaca",
+    [
+     778,
+     921
+    ],
+    "R"
+   ]
+  ]
+ }
+}

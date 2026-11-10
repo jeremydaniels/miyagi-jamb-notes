@@ -168,7 +168,7 @@ In birds, the reproductive process is vastly different from that of mammals. The
 #### The Female Poultry Reproductive System
 A female bird (hen) only has one functional ovary and one functional oviduct. Although two ovaries are present when the bird is an embryo, **only the left ovary and left oviduct fully develop** and function in the mature bird. The right side degenerates. This is a unique evolutionary adaptation to make the bird lighter for flight.
 
-[IMAGE: Diagram of the reproductive tract of a laying hen. At the top left, a cluster of yellow yolks of different sizes attached to the ovary. Below it, a funnel-like opening (Infundibulum) catching a yolk. The tube then thickens and coils heavily (Magnum), narrows slightly (Isthmus), expands into a large muscular pouch containing a fully formed egg (Uterus/Shell Gland), narrows into a short Vagina, and ends at the Cloaca (Vent). Labels to add: "Ovary (produces yolks)", "Infundibulum (funnel - catches yolk)", "Magnum (secretes albumen)", "Isthmus (secretes shell membranes)", "Uterus/Shell gland (secretes shell)", "Vagina", "Cloaca". Clean flat textbook style, white background.]
+![Diagram showing the avian reproductive tract with ovary releasing yolk into the infundibulum, followed by coiled magnum, isthmus, uterus with egg, vagina, and cloaca.](images/C4-02-hen-reproductive-tract.png)
 
 ### Egg formation, incubation and hatching
 

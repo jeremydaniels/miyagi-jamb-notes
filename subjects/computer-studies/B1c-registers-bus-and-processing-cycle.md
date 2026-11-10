@@ -59,7 +59,7 @@ The CPU contains several special-purpose registers. Each one has a specific job 
 6.  **AC (Accumulator):** 
     The Accumulator is the register inside the Arithmetic Logic Unit (ALU). It holds the **intermediate and final mathematical or logical results**. If the CPU adds two numbers, it will hold one number, add the second to it, and store the final answer in the Accumulator.
 
-[IMAGE: A clean, flat textbook illustration of a CPU and Main Memory. Inside the CPU, show boxes labeled PC, MAR, MDR, CIR, and Accumulator (inside an ALU block). Show an arrow going from PC to MAR. Show a system bus connecting the MAR and MDR to the Main Memory block, emphasizing the flow of addresses and data. White background, black and blue text.]
+![Textbook diagram showing a CPU with PC MAR MDR CIR and ALU connected to Main Memory via a System Bus highlighting address and data flow.](images/B1c-01-clean-flat-textbook-cpu.png)
 
 ## 3. Differences Between Register and Main Memory
 
@@ -98,7 +98,7 @@ Here are the major steps step-by-step:
 
 *Note on Storage:* Most modern textbooks call this the **IPOS cycle** (Input-Process-Output-Storage), because after processing, the information is usually saved to a hard drive or flash drive for future use. However, the core data conversion process relies on the first three steps.
 
-[IMAGE: A flowchart showing the IPO cycle. Three main boxes in a line left-to-right. Left box: "INPUT (Raw Data)" with small icons of a keyboard and mouse. Middle box: "PROCESS (CPU)" with a gear icon. Right box: "OUTPUT (Information)" with a monitor icon. Arrows point from Input to Process, and from Process to Output. Below Process, a two-way arrow points to a bottom box labeled "STORAGE". Clean, flat design on a white background.]
+![Flowchart of the IPO cycle showing Input Process Output and Storage components connected by arrows](images/B1c-02-flowchart-ipo-cycle-three.png)
 
 ## 5. Factors Affecting Speed of Data Transfer
 

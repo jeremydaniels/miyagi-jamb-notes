@@ -42,5 +42,13 @@
  [
   "D2a-14-ishihara-colour-blindness-test",
   "A circular Ishihara-style colour vision test plate made of many small dots of different sizes: the background dots in shades of orange, yellow and brown, and a hidden numeral 7 formed from green and olive dots. Beside it, a smaller second circle showing how the same plate appears to a red-green colour-blind person, with all dots in similar muddy yellow-brown shades so the number cannot be seen."
+ ],
+ [
+  "D2a-02-human-male-karyotype",
+  "A simplified human male karyotype: 22 pairs of purple X-shaped chromosomes arranged in rows in decreasing size, numbered 1 to 22, plus a final pair consisting of one medium X chromosome and one much smaller Y chromosome, highlighted in blue."
+ ],
+ [
+  "D2a-13-haemophilia-sex-linked-pedigree",
+  "Haemophilia inheritance diagram for a carrier mother and a normal father. Top: mother icon with chromosome pair X^H (normal X in pink) and X^h (X with a red dot marking the haemophilia allele); father icon with X^H (pink) and Y (blue, shorter). Gametes shown as circles below each parent. A 2 by 2 Punnett grid below with four child icons: normal girl X^H X^H, carrier girl X^H X^h (half-shaded), normal boy X^H Y, haemophiliac boy X^h Y (fully shaded red)."
  ]
 ]

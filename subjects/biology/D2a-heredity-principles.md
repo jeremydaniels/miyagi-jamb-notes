@@ -143,7 +143,7 @@ Of the 23 pairs of chromosomes in a human cell:
 
 A picture of all the chromosomes of a cell, arranged in pairs by size, is called a **karyotype**. Doctors use karyotypes to detect chromosome conditions such as **Down syndrome** (three copies of chromosome 21).
 
-[IMAGE: A simplified human male karyotype: 22 pairs of purple X-shaped chromosomes arranged in rows in decreasing size, numbered 1 to 22, plus a final pair consisting of one medium X chromosome and one much smaller Y chromosome, highlighted in blue. Labels to add later: "autosomes (pairs 1 to 22)", "sex chromosomes", "X", "Y", "homologous pair", "male karyotype: 46, XY". Clean flat textbook style, white background.]
+![A simplified human male karyotype diagram showing 22 numbered homologous autosomal chromosome pairs and the XY sex chromosomes.](images/D2a-02-human-male-karyotype.png)
 
 ## The structure of DNA
 
@@ -783,7 +783,7 @@ The **X chromosome** is large and carries many genes (several hundred to over a 
 
 **Results:** daughters: ½ carriers, ½ haemophiliac; sons: ½ normal, ½ haemophiliac. This is the only common way a girl can have haemophilia.
 
-[IMAGE: Haemophilia inheritance diagram for a carrier mother and a normal father. Top: mother icon with chromosome pair X^H (normal X in pink) and X^h (X with a red dot marking the haemophilia allele); father icon with X^H (pink) and Y (blue, shorter). Gametes shown as circles below each parent. A 2 by 2 Punnett grid below with four child icons: normal girl X^H X^H, carrier girl X^H X^h (half-shaded), normal boy X^H Y, haemophiliac boy X^h Y (fully shaded red). Labels to add later: "carrier mother (X^H X^h)", "normal father (X^H Y)", "normal daughter", "carrier daughter", "normal son", "haemophiliac son", "allele for haemophilia on X chromosome", "Y has no matching allele". Clean flat textbook style, white background.]
+![Punnett square diagram showing sex-linked haemophilia inheritance from a carrier mother and unaffected father, resulting in normal or carrier daughters, and normal or haemophiliac sons.](images/D2a-13-haemophilia-sex-linked-pedigree.png)
 
 ### Colour blindness
 

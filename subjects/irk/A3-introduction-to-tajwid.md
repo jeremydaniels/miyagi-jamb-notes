@@ -48,7 +48,7 @@ To understand what Tajwīd practices, students should be aware of the core areas
 *   **Ahkām an-Nūn as-Sākinah wa at-Tanwīn:** The rules governing a stationary 'Nūn' letter or a 'Tanwīn' (the "nn" sound at the end of a word). Depending on the letter that follows, the sound might be pronounced clearly (*Izhār*), merged (*Idghām*), changed to a 'Mīm' (*Iqlāb*), or hidden (*Ikhfā'*).
 *   **Al-Madd (Elongation):** The rules concerning when to stretch a vowel sound (a, i, or u) and for how many counts (beats).
 
-[IMAGE: A clean, flat textbook illustration showing a cross-section of a human head and neck facing left. The vocal tract is highlighted with distinct colours pointing out the five main Makhārij (articulation areas) of Arabic letters. The nasal passage (top left, at the front of the face) is coloured green and labelled "Al-Khayshūm (Nasal Passage)". The lips (far left) are coloured pink and labelled "Ash-Shafatān (Lips)". The tongue (centre) is coloured orange and labelled "Al-Lisān (Tongue)". The throat (bottom right) is coloured blue and labelled "Al-Halq (Throat)". The empty space in the mouth/throat is coloured light yellow and labelled "Al-Jawf (Empty Space)". Clean white background, highly legible black text.]
+![Cross section diagram of a human head facing left showing color coded articulation areas including nasal cavity, tongue, lips, and throat.](images/A3-01-arabic-articulation-points-makharij.png)
 
 ### The Importance of Tajwīd
 

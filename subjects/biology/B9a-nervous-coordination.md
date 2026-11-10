@@ -129,7 +129,7 @@ There are three types of neurones, according to their function:
 | Myelin sheath | Usually present | Usually absent | Usually present |
 | Connected to | Receptors at one end | Other neurones only | Muscles or glands at one end |
 
-[IMAGE: The three types of neurones drawn one above the other, each horizontally, with arrows showing the direction of the impulse. Top: sensory neurone, with receptor endings on the left, a long myelinated fibre, the cell body on a short side branch partway along, and a shorter axon ending in terminals on the right. Middle: relay neurone, short, with a central cell body and many short branches, no myelin. Bottom: motor neurone, with the cell body and dendrites on the left, a long myelinated axon, and terminals ending on a muscle fibre on the right. Labels: receptor endings, cell body, myelin sheath, axon, axon terminals, dendrites, muscle fibre (effector), direction of impulse; titles: sensory neurone, relay neurone, motor neurone. Soft yellow neurones, pink muscle. Clean flat textbook style, white background.]
+![Diagram showing three types of neurons stacked horizontally: sensory neuron at top, relay neuron in the middle, and motor neuron attached to muscle at bottom.](images/B9a-03-three-types-neurones.png)
 
 ### Neurones and nerves
 
@@ -540,7 +540,7 @@ Neurones do not touch each other. The junction between the end of one neurone an
 
 **Synaptic delay:** crossing a synapse takes a short time (around half a millisecond), because the neurotransmitter must be released, diffuse and bind. So the fewer synapses in a pathway, the faster the response.
 
-[IMAGE: Enlarged diagram of a synapse. At the top, the end of the presynaptic neurone swelling into a rounded synaptic knob, containing several mitochondria and many small round synaptic vesicles filled with dots (neurotransmitter), with some vesicles fusing with the presynaptic membrane and releasing dots into the narrow synaptic cleft. Below the cleft, the postsynaptic membrane of the next neurone with cup-shaped receptor proteins, some with neurotransmitter dots bound to them, and a few small enzyme shapes in the cleft breaking down neurotransmitter. Arrows: impulse arriving down the presynaptic axon; calcium ions entering the knob; diffusion of neurotransmitter across the cleft; new impulse leaving in the postsynaptic neurone. Labels: presynaptic neurone, impulse arriving, synaptic knob, mitochondrion, synaptic vesicle, neurotransmitter (e.g. acetylcholine), calcium ions enter, presynaptic membrane, synaptic cleft, receptor, postsynaptic membrane, enzyme (cholinesterase), new impulse in postsynaptic neurone. Soft yellow neurones, purple vesicles and dots. Clean flat textbook style, white background.]
+![Diagram of a synapse showing synaptic knob with mitochondria and neurotransmitter vesicles fusing to the membrane, releasing molecules into the cleft toward postsynaptic receptors.](images/B9a-10-synapse-structure.png)
 
 ## Reflex action
 
@@ -707,7 +707,7 @@ The idea of conditioned reflexes was studied by the Russian scientist **Ivan Pav
 
 **Textbook variation:** most textbooks say Pavlov used a **bell**. His published work describes a variety of signals, including a metronome, buzzers and other sounds, as well as lights. The principle is the same whichever signal was used.
 
-[IMAGE: Three-panel comic-style diagram of Pavlov's experiment with a dog. Panel 1 "before conditioning": a dog with a bowl of food in front of it, drops of saliva from its mouth; beside it a separate small picture of a bell ringing with the dog showing no saliva. Panel 2 "during conditioning": a bell ringing and a bowl of food given at the same time, the dog salivating; small text "repeated many times". Panel 3 "after conditioning": the bell ringing with no food, the dog still salivating. Labels: unconditioned stimulus (food), unconditioned response (salivation), neutral stimulus (bell), bell + food, conditioned stimulus (bell alone), conditioned response (salivation). Friendly brown dog, soft pastel colours. Clean flat textbook style, white background.]
+![A three panel comic showing Pavlovs dog conditioning before during and after conditioning with food a bell and salivation response](images/B9a-14-conditioned-reflex-pavlov-experiment.png)
 
 #### Salivation in humans as a conditioned reflex
 

@@ -619,5 +619,157 @@
     "R"
    ]
   ]
+ },
+ "B9a-03-three-types-neurones": {
+  "caption_below": "Sensory neurone, relay neurone, motor neurone showing direction of impulse.",
+  "labels": [
+   [
+    "receptor endings",
+    [
+     123,
+     189
+    ],
+    "L"
+   ],
+   [
+    "cell body",
+    [
+     663,
+     122
+    ],
+    "R"
+   ],
+   [
+    "myelin sheath",
+    [
+     356,
+     198
+    ],
+    "L"
+   ],
+   [
+    "axon",
+    [
+     583,
+     513
+    ],
+    "R"
+   ],
+   [
+    "axon terminals",
+    [
+     708,
+     500
+    ],
+    "R"
+   ],
+   [
+    "dendrites",
+    [
+     131,
+     742
+    ],
+    "L"
+   ],
+   [
+    "muscle fibre (effector)",
+    [
+     928,
+     813
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-10-synapse-structure": {
+  "caption_below": "Impulse arriving causes calcium ions to enter, generating new impulse in postsynaptic neurone.",
+  "regions": [
+   "synaptic cleft"
+  ],
+  "labels": [
+   [
+    "presynaptic neurone",
+    [
+     512,
+     106
+    ],
+    "R"
+   ],
+   [
+    "synaptic knob",
+    [
+     260,
+     369
+    ],
+    "L"
+   ],
+   [
+    "mitochondrion",
+    [
+     380,
+     315
+    ],
+    "L"
+   ],
+   [
+    "synaptic vesicle",
+    [
+     631,
+     417
+    ],
+    "R"
+   ],
+   [
+    "neurotransmitter (e.g. acetylcholine)",
+    [
+     404,
+     723
+    ],
+    "L"
+   ],
+   [
+    "presynaptic membrane",
+    [
+     490,
+     648
+    ],
+    "L"
+   ],
+   [
+    "synaptic cleft",
+    [
+     220,
+     677
+    ],
+    "L"
+   ],
+   [
+    "receptor",
+    [
+     509,
+     791
+    ],
+    "L"
+   ],
+   [
+    "postsynaptic membrane",
+    [
+     876,
+     731
+    ],
+    "R"
+   ],
+   [
+    "enzyme (cholinesterase)",
+    [
+     448,
+     699
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9a-14-conditioned-reflex-pavlov-experiment": {
+  "caption_below": "Pavlov's experiment showing unconditioned stimulus (food), unconditioned response (salivation), neutral stimulus (bell), bell + food, conditioned stimulus, and conditioned response."
  }
 }

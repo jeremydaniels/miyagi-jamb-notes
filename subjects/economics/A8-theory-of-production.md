@@ -94,7 +94,7 @@ Let us look at a farm with a fixed plot of land (1 hectare) where more labourers
 
 **The rational producer:** A sensible business owner will never produce in **Stage 1** (because adding workers rapidly increases average efficiency, so it makes sense to keep expanding). The producer will absolutely avoid **Stage 3** (because hiring more workers actually reduces total output—the farm is too crowded). Therefore, a rational producer always chooses to operate somewhere in **Stage 2** (the stage of diminishing returns).
 
-[IMAGE: A graph with two panels stacked vertically. The top panel shows the Total Product (TP) curve rising initially at an increasing rate, then at a decreasing rate, reaching a peak, and then falling. The bottom panel shows the Average Product (AP) and Marginal Product (MP) curves. MP rises rapidly, peaks before AP, then falls, intersecting AP exactly at AP's maximum point. MP continues to fall, crossing the horizontal axis (becoming zero) exactly at the vertical line where TP is at its maximum. Vertical dashed lines divide the graphs into three stages: Stage 1 ends at the intersection of AP and MP. Stage 2 ends where MP crosses the zero line. Stage 3 is where MP is negative. Axes are labelled "Quantity of Labour (Variable Input)" on the x-axis, and "Output" on the y-axes. Clean flat textbook illustration, white background.]
+![Two stacked graphs illustrating the Total Product, Marginal Product, and Average Product curves divided into three stages of production.](images/A8-01-total-marginal-average-product.png)
 
 ## Division of labour and specialization
 
@@ -191,7 +191,7 @@ An isocost line shows all the possible combinations of two inputs a firm can pur
 **The Geometric Analysis:**
 A firm reaches its equilibrium (the most cost-effective way to produce) at the point where the highest possible Isoquant is exactly tangent to the Isocost line. At this tangency point, the slope of the Isoquant exactly equals the slope of the Isocost line.
 
-[IMAGE: A graph showing Producer Equilibrium. The vertical axis is labelled "Capital (K)" and the horizontal axis is labelled "Labour (L)". A straight downward-sloping line, the Isocost line, is drawn between the two axes. A convex curve, the Isoquant (labelled IQ), touches the Isocost line at a single tangency point (labelled E). At point E, dashed lines drop to the axes to show the equilibrium quantities of Labour (L*) and Capital (K*). Clean flat textbook style, white background.]
+![A producer equilibrium diagram showing a downward-sloping isocost line tangent to a convex isoquant curve at point E, determining optimal inputs K star and L star.](images/A8-02-producer-equilibrium-isoquant-graph.png)
 
 **The Marginal Analysis:**
 Because the slopes are equal at the equilibrium tangency point, we can write:

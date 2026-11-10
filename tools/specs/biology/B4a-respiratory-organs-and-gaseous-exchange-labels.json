@@ -1010,5 +1010,144 @@
     "R"
    ]
   ]
+ },
+ "B4a-02-amoeba-earthworm-respiration": {
+  "caption_below": "Oxygen in and carbon dioxide out.",
+  "regions": [
+   "pond water",
+   "cuticle",
+   "moist skin"
+  ],
+  "labels": [
+   [
+    "Amoeba",
+    [
+     266,
+     537
+    ],
+    "L"
+   ],
+   [
+    "cell membrane (respiratory surface)",
+    [
+     404,
+     493
+    ],
+    "L"
+   ],
+   [
+    "pond water",
+    [
+     261,
+     292
+    ],
+    "L"
+   ],
+   [
+    "earthworm",
+    [
+     559,
+     677
+    ],
+    "R"
+   ],
+   [
+    "moist skin",
+    [
+     805,
+     351
+    ],
+    "R"
+   ],
+   [
+    "cuticle",
+    [
+     619,
+     401
+    ],
+    "R"
+   ],
+   [
+    "mucus gland cell",
+    [
+     742,
+     494
+    ],
+    "R"
+   ],
+   [
+    "blood capillaries under the skin",
+    [
+     774,
+     607
+    ],
+    "R"
+   ],
+   [
+    "dorsal pore",
+    [
+     730,
+     380
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-14-alveolus-gas-exchange-capillary": {
+  "caption_below": "Oxygen diffuses into blood and carbon dioxide diffuses into alveolus.",
+  "regions": [
+   "air in alveolus",
+   "plasma"
+  ],
+  "labels": [
+   [
+    "air in alveolus",
+    [
+     528,
+     492
+    ],
+    "R"
+   ],
+   [
+    "alveolus wall (one cell thick)",
+    [
+     498,
+     726
+    ],
+    "L"
+   ],
+   [
+    "capillary wall (one cell thick)",
+    [
+     501,
+     871
+    ],
+    "L"
+   ],
+   [
+    "moisture lining",
+    [
+     508,
+     696
+    ],
+    "L"
+   ],
+   [
+    "red blood cell",
+    [
+     421,
+     811
+    ],
+    "L"
+   ],
+   [
+    "plasma",
+    [
+     357,
+     775
+    ],
+    "L"
+   ]
+  ]
  }
 }

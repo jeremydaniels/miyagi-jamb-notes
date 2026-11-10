@@ -82,7 +82,7 @@ The same applies to *Paramecium*, *Euglena* and *Chlamydomonas*, and to small, t
 
 **Other animals that use their skin:** frogs and toads use their moist skin as well as their lungs (see "Lungs" below).
 
-[IMAGE: Two panels. Left: an Amoeba in pond water, with small arrows all round its outline showing oxygen diffusing in and carbon dioxide diffusing out across the cell membrane. Right: an earthworm on damp soil with a cut-away block of its body wall showing the thin cuticle, epidermis with mucus gland cells, and a dense network of red capillaries just under the surface, with arrows showing oxygen entering from the air and carbon dioxide leaving. Labels to add: "Amoeba", "cell membrane (respiratory surface)", "oxygen in", "carbon dioxide out", "pond water", "earthworm", "moist skin", "cuticle", "mucus gland cell", "blood capillaries under the skin", "dorsal pore". Clean flat textbook style, white background.]
+![Diagram comparing gas exchange in an amoeba surrounded by water with gas exchange across the vascularized moist skin of an earthworm.](images/B4a-02-amoeba-earthworm-respiration.png)
 
 ### Gills
 
@@ -611,7 +611,7 @@ The structures involved are:
 6. The **oxygenated** blood is carried away by the **pulmonary vein** to the heart; the CO₂ and water vapour are breathed out.
 7. Constant breathing and blood flow keep the **concentration gradients steep**, so diffusion continues.
 
-[IMAGE: Close-up of a single alveolus in section with a capillary wrapped against its wall. The alveolus wall and capillary wall are each one cell thick, with a thin film of moisture lining the alveolus. Blue (deoxygenated) blood enters the capillary from one side and leaves as red (oxygenated) blood on the other. Arrows show oxygen diffusing from the alveolar air into a red blood cell and carbon dioxide diffusing from the plasma into the alveolus. Labels to add: "air in alveolus", "alveolus wall (one cell thick)", "capillary wall (one cell thick)", "moisture lining", "red blood cell", "plasma", "oxygen diffuses into blood", "carbon dioxide diffuses into alveolus", "deoxygenated blood from pulmonary artery", "oxygenated blood to pulmonary vein". Clean flat textbook style, white background.]
+![Cross section of an alveolus wrapped by a pulmonary capillary, showing single-cell thick walls, red blood cells in plasma transitioning from blue to red, and gas exchange.](images/B4a-14-alveolus-gas-exchange-capillary.png)
 
 #### Composition of inhaled and exhaled air
 

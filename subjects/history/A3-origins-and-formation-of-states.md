@@ -45,7 +45,7 @@ The word **acephalous** literally means "without a head" or "headless." These so
 | **Economy and Taxation** | Organized taxation systems, tribute from conquered areas, and controlled trade routes. | Little or no formal taxation; wealth was individual, based on farming, local trade, or voluntary contributions. |
 | **Law and Order** | Formal courts, judges (e.g., Alkali courts in the north), and royal edicts. | Laws based on customs and religion; enforced by elders, secret societies (like Ekpe), or oracles. |
 
-[IMAGE: A comparative diagram split into two halves. On the left, a "Centralized State" depicted as a pyramid, with a King at the top, a Council of Chiefs below him, regional governors next, and the common people at the base. On the right, an "Acephalous Society" depicted as a network of interconnected equal circles, labeled "Family A", "Family B", "Age Grades", and "Council of Elders" in the center. Clean flat textbook illustration, white background.]
+![A diagram comparing a Centralized State structured as a hierarchical pyramid to an Acephalous Society structured as an interconnected network of families, age grades, and elders.](images/A3-01-comparative-chart-political-systems.png)
 
 ## Relating peoples to their traditions of origin (Objective i)
 

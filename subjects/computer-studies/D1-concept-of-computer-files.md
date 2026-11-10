@@ -61,7 +61,7 @@ The items in a computer file structure are related in a strict hierarchy, buildi
 5. **File:** A group of related records forms a file (e.g., all the profiles of SS3 students).
 6. **Database:** A group of related files forms a database (e.g., the complete school system containing student files, staff files, and library files).
 
-[IMAGE: A pyramid diagram showing the file structure hierarchy. The bottom and widest block is labelled "Character (e.g., 'M')". The next level up is "Data Item (e.g., 'Musa')". Above that is "Field (e.g., 'First Name')". Above that is "Record (e.g., 'Musa, 17, SS3')". Above that is "File (e.g., 'SS3_Students.txt')". The top and narrowest block is "Database (e.g., 'School_System')". Clean flat textbook illustration, white background.]
+![A pyramid diagram of file structure hierarchy from character to database](images/D1-01-pyramid-file-structure-hierarchy.png)
 
 ## File organisations
 

@@ -1,0 +1,6 @@
+[
+ [
+  "D1-01-pyramid-file-structure-hierarchy",
+  "A pyramid diagram showing the file structure hierarchy. The bottom and widest block is. The next level up is \"Data Item (e.g., 'Musa')\". Above that is \"Field (e.g., 'First Name')\". Above that is \"Record (e.g., 'Musa, 17, SS3')\". Above that is \"File (e.g., 'SS3_Students.txt')\". The top and narrowest block is \"Database (e.g., 'School_System')\". Clean flat textbook illustration, white background."
+ ]
+]

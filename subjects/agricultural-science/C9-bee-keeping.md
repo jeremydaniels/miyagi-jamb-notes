@@ -60,7 +60,7 @@ Whether indigenous or exotic, every honey bee colony is a highly organised socie
 2. **The Drones:** These are the fertile males. Their only function in life is to mate with a virgin queen on her mating flight. They are stout and bulky, do not have stingers, and do not collect food.
 3. **The Workers:** There are thousands of sterile females in the colony. They perform all the labour: foraging for nectar and pollen, producing wax, building the comb, cleaning, nursing the young (brood), and guarding the hive. They possess stingers and will die after stinging a mammal.
 
-[IMAGE: Illustration of the three bee castes side-by-side for comparison. Left: Queen bee, showing a very long, pointed abdomen extending past her wings. Middle: Drone bee, showing a bulky, stout body with huge eyes meeting at the top of the head. Right: Worker bee, showing a smaller, compact body with a pollen basket on her hind leg. Labels to add later: "Queen (fertile female, egg layer)", "Drone (male, mates with queen)", "Worker (sterile female, gathers food and builds comb)". Clean flat textbook style, white background.]
+![Illustration comparing the three honeybee castes side by side, showing the queen with a long abdomen, the drone with large eyes, and the worker with pollen baskets.](images/C9-01-honeybee-castes-morphological-comparison.png)
 
 ## Methods of bee-keeping: traditional and modern
 
@@ -84,7 +84,7 @@ Modern bee-keeping uses specially designed wooden boxes where bees build their c
 - **Harvesting:** The farmer uses a modern smoker to calm the bees, inspects the frames or bars, and removes only the combs that are full of ripe honey, leaving the brood (baby bees) safely intact.
 - **Honey extraction:** For Langstroth frames, combs are placed in a centrifuge (honey extractor) that spins the honey out, leaving the empty wax comb intact so it can be returned to the hive for the bees to reuse.
 
-[IMAGE: A side-by-side comparison of a traditional and modern hive. Left: A woven cylindrical basket hive tied to the branch of a tree with ropes. Right: A wooden Kenyan Top-Bar hive standing on four legs, with its sloped lid slightly open showing wooden bars arranged neatly across the top. Labels to add later: "Traditional woven basket hive (Fixed comb)", "Modern Kenyan Top-Bar hive (Movable comb)". Clean flat textbook style, white background.]
+![A comparison showing a traditional woven cylindrical basket beehive hanging from a tree branch on the left and a modern wooden Kenyan top-bar hive with an open lid on the right.](images/C9-02-traditional-versus-modern-beehive.png)
 
 **Comparison of Traditional and Modern Methods**
 
@@ -124,7 +124,7 @@ To successfully and safely manage an apiary, a bee-keeper must be able to identi
 9. **Feeder:** Plastic or wooden containers holding sugar syrup.
    * **Use:** Used to feed bees artificial nectar during the dry season when flowers are scarce, preventing the colony from starving or absconding.
 
-[IMAGE: A bee-keeper in full safety gear working at a wooden Langstroth hive. The person is wearing a white coverall (bee suit), a wide-brimmed hat with a mesh veil covering the face, and thick yellow leather gloves. In their right hand, they hold a metal smoker with a bellows, gently puffing smoke over a wooden hive frame they are holding with their left hand. A metal hive tool rests on the lid of the wooden hive box nearby. Labels to add later: "Bee veil", "Bee suit", "Leather gloves", "Smoker", "Hive tool", "Wooden frame". Clean flat textbook style, white background.]
+![Illustration of a beekeeper in protective suit and veil inspecting wooden Langstroth hive frames while holding a smoker, with a hive tool on the hive lid.](images/C9-03-beekeeper-protective-equipment.png)
 
 **Necessary Precautionary and Safety Measures:**
 

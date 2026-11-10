@@ -1,0 +1,102 @@
+{
+ "C9-01-honeybee-castes-morphological-comparison": {
+  "labels": [
+   [
+    "Queen (fertile female, egg layer)",
+    [
+     204,
+     528
+    ],
+    "L"
+   ],
+   [
+    "Drone (male, mates with queen)",
+    [
+     528,
+     528
+    ],
+    "R"
+   ],
+   [
+    "Worker (sterile female, gathers food and builds comb)",
+    [
+     833,
+     537
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C9-02-traditional-versus-modern-beehive": {
+  "labels": [
+   [
+    "Traditional woven basket hive (Fixed comb)",
+    [
+     274,
+     527
+    ],
+    "L"
+   ],
+   [
+    "Modern Kenyan Top-Bar hive (Movable comb)",
+    [
+     786,
+     573
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C9-03-beekeeper-protective-equipment": {
+  "labels": [
+   [
+    "Bee veil",
+    [
+     524,
+     263
+    ],
+    "R"
+   ],
+   [
+    "Bee suit",
+    [
+     658,
+     349
+    ],
+    "R"
+   ],
+   [
+    "Leather gloves",
+    [
+     454,
+     494
+    ],
+    "L"
+   ],
+   [
+    "Smoker",
+    [
+     631,
+     508
+    ],
+    "R"
+   ],
+   [
+    "Hive tool",
+    [
+     315,
+     518
+    ],
+    "L"
+   ],
+   [
+    "Wooden frame",
+    [
+     410,
+     564
+    ],
+    "L"
+   ]
+  ]
+ }
+}

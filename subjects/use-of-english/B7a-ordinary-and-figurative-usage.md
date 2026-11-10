@@ -507,7 +507,7 @@ An **innuendo** is an indirect remark that **hints** at something, usually somet
 | Pun | Double meaning for humour | *two-tired bicycle* |
 | Innuendo | Indirect, often unpleasant, hint | *Some people's houses grow fast.* |
 
-[IMAGE: A colourful one-page mind map titled "Figures of Speech". A central circle reads "Figures of speech". Five branches, each a different soft colour: "Comparison" (simile, metaphor, personification), "Exaggeration and softening" (hyperbole, understatement, litotes, euphemism), "Contrast" (irony, sarcasm, oxymoron, paradox, antithesis), "Association" (metonymy, synecdoche), "Sound" (alliteration, assonance, onomatopoeia). Smaller side bubbles: "Address and question" (apostrophe, rhetorical question), "Order" (climax, anticlimax), "Wordplay and hint" (pun, innuendo). A tiny icon beside each branch: two linked circles for comparison, a magnifying glass for exaggeration, a black-and-white yin-yang-like split circle for contrast, a chain link for association, a speaker icon for sound. Clean flat textbook style, white background.]
+![Mind map of figures of speech categorizing literary devices into comparison, contrast, sound, exaggeration, association, order, wordplay, and rhetorical address.](images/B7a-01-figures-speech-mind-map.png)
 
 ## How to answer figurative-usage questions step by step
 

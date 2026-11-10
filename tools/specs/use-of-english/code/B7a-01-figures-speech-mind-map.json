@@ -1,0 +1,15 @@
+{
+ "template": "hub",
+ "title": "Figures of Speech",
+ "center": "Figures of speech",
+ "spokes": [
+  "Comparison\n(simile, metaphor,\npersonification)",
+  "Exaggeration & Softening\n(hyperbole, litotes,\nunderstatement, euphemism)",
+  "Contrast\n(irony, sarcasm,\noxymoron, paradox)",
+  "Association\n(metonymy, synecdoche)",
+  "Sound\n(alliteration, assonance,\nonomatopoeia)",
+  "Address & Question\n(apostrophe, rhetorical question)",
+  "Order\n(climax, anticlimax)",
+  "Wordplay & Hint\n(pun, innuendo)"
+ ]
+}

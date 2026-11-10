@@ -1,0 +1,14 @@
+[
+ [
+  "G3-01-clean-textbook-style-standard",
+  "A clean, textbook-style diagram showing standard flowchart symbols in a grid. Row 1: An Oval. Row 2: A Parallelogram. Row 3: A Rectangle. Row 4: A Diamond. Row 5: A Hexagon. Row 6: A small Circle. Row 7: A simple line with an arrowhead. White background, crisp black outlines with light blue fill."
+ ],
+ [
+  "G3-02-flowchart-calculating-area-rectangle",
+  "Flowchart for calculating the area of a rectangle. Top to bottom: Oval (Start) -> Arrow -> Parallelogram (Read L, B) -> Arrow -> Rectangle (A = L * B) -> Arrow -> Parallelogram (Print A) -> Arrow -> Oval (Stop). Clean text, light blue shapes on a white background."
+ ],
+ [
+  "G3-03-flowchart-checking-even-or",
+  "Flowchart for checking even or odd. Oval (Start) -> Parallelogram (Input N) -> Rectangle (R = N MOD 2) -> Diamond (Is R == 0?). The Diamond branches right to a Parallelogram (Print 'Even') for the \"Yes\" path, and branches down to a Parallelogram (Print 'Odd') for the \"No\" path. Both output parallelograms connect down to a final Oval (Stop)."
+ ]
+]

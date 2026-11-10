@@ -96,7 +96,7 @@ To draw a flowchart, you must use the correct standard shapes. Each shape repres
 | **Continuation (Connector)** | Circle | Used to connect different parts of a flowchart without drawing long, confusing lines across the page. An **On-page connector** is a circle with a letter inside. An **Off-page connector** (for continuing on a new page) is usually a pentagon shape, though the syllabus just names "Continuation". |
 | **Flowlines** | Arrows | Lines with arrowheads that connect the symbols, showing the exact direction or sequence the steps must be followed. |
 
-[IMAGE: A clean, textbook-style diagram showing standard flowchart symbols in a grid. Row 1: An Oval labeled "Start / Stop (Terminator)". Row 2: A Parallelogram labeled "Input / Output". Row 3: A Rectangle labeled "Process". Row 4: A Diamond labeled "Decision". Row 5: A Hexagon labeled "Loop (Preparation)". Row 6: A small Circle labeled "Continuation (Connector)". Row 7: A simple line with an arrowhead labeled "Flowline". White background, crisp black outlines with light blue fill.]
+![Diagram showing seven standard flowchart symbols including terminator input process decision loop connector and flowline with labels](images/G3-01-clean-textbook-style-standard.png)
 
 ## Drawing Flowcharts for Given Problems
 
@@ -124,7 +124,7 @@ To understand how these symbols work together, let's look at how to design algor
 4. Draw a **Parallelogram** (Output). Write "Print A" inside. Draw an arrow pointing down.
 5. Draw an **Oval** and write "Stop" inside.
 
-[IMAGE: Flowchart for calculating the area of a rectangle. Top to bottom: Oval (Start) -> Arrow -> Parallelogram (Read L, B) -> Arrow -> Rectangle (A = L * B) -> Arrow -> Parallelogram (Print A) -> Arrow -> Oval (Stop). Clean text, light blue shapes on a white background.]
+![Flowchart for calculating the area of a rectangle with steps to start read length and breadth calculate area print result and stop](images/G3-02-flowchart-calculating-area-rectangle.png)
 
 ### Example 2: Checking if a number is Even or Odd (Using a Decision)
 **Problem:** A user enters a number. The program must output "Even" if the number is even, or "Odd" if it is not. 
@@ -151,7 +151,7 @@ To understand how these symbols work together, let's look at how to design algor
    - Draw an arrow down labelled "No", leading to a **Parallelogram**: "Print 'Odd'".
 5. Draw arrows from both Parallelograms to a single **Oval**: "Stop".
 
-[IMAGE: Flowchart for checking even or odd. Oval (Start) -> Parallelogram (Input N) -> Rectangle (R = N MOD 2) -> Diamond (Is R == 0?). The Diamond branches right to a Parallelogram (Print 'Even') for the "Yes" path, and branches down to a Parallelogram (Print 'Odd') for the "No" path. Both output parallelograms connect down to a final Oval (Stop).]
+![Flowchart showing process to determine if number N is even or odd via modulo arithmetic](images/G3-03-flowchart-checking-even-or.png)
 
 ### Example 3: Finding the Sum of the First N Natural Numbers (Using a Loop)
 **Problem:** Given a number N (e.g., 3), add up all numbers from 1 to N (1 + 2 + 3 = 6).

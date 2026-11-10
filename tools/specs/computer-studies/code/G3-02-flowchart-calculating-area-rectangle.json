@@ -1,0 +1,55 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Flowchart for Calculating Area of a Rectangle",
+ "nodes": [
+  {
+   "id": "start",
+   "text": "Start",
+   "shape": "oval",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "read",
+   "text": "Read L, B",
+   "shape": "plain",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "calc",
+   "text": "A = L * B",
+   "shape": "box",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "print",
+   "text": "Print A",
+   "shape": "plain",
+   "color": "#e1f5fe"
+  },
+  {
+   "id": "stop",
+   "text": "Stop",
+   "shape": "oval",
+   "color": "#e1f5fe"
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "read"
+  },
+  {
+   "from": "read",
+   "to": "calc"
+  },
+  {
+   "from": "calc",
+   "to": "print"
+  },
+  {
+   "from": "print",
+   "to": "stop"
+  }
+ ]
+}

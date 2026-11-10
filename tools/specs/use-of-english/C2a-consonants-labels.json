@@ -6,22 +6,19 @@
    [
     "alveolar ridge",
     [
-     338,
-     521
+     326,
+     640
     ],
-    "T"
+    "L"
    ],
    [
     "tongue",
     [
-     390,
-     571
+     223,
+     760
     ],
     "L"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

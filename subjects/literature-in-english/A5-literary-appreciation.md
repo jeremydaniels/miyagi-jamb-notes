@@ -30,7 +30,7 @@ Different genres require you to look for different clues when reading an unseen 
 | **Prose** | A standard paragraph or block of text written in continuous sentences. It may contain description, narration, or dialogue. | **Who is telling the story?** (Point of view). What is the setting (time and place)? Is the author describing a character, an event, or an environment? Look closely at the adjectives used. |
 | **Poetry** | Lines grouped into stanzas, often with a rhythmic structure or a rhyme scheme. It usually contains very concentrated language and deep imagery. | **What is the literal subject?** (e.g., a tree, a storm, a crying child). What is the deeper meaning? Pay attention to figures of speech, rhythm, and the speaker's tone (is the poet sad, angry, or joyful?). |
 
-[IMAGE: A flowchart titled "How to Attack an Unseen Passage". Step 1: "First Reading: Get the general idea (Literal meaning)." Step 2: "Second Reading: Look for devices and tone (Figurative meaning)." Step 3: "Identify the Genre: Note if it's Drama (dialogue), Prose (paragraphs), or Poetry (lines/stanzas)." Step 4: "Read the Questions: Go back to the text to find specific evidence." Clean flat textbook illustration, white background with blue and green instructional boxes.]
+![Flowchart outlining four steps to attack an unseen passage: first reading for literal meaning, second reading for figurative meaning, identifying genre, and reading questions for evidence.](images/A5-01-unseen-passage-analysis-flowchart.png)
 
 ---
 

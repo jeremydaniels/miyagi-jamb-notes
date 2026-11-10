@@ -40,7 +40,7 @@ A tractor delivers power to implements in three ways:
 - **The Three-Point Linkage (Hydraulic system):** Three metal arms at the back (one upper, two lower) that attach to implements (like a mounted plough) and use hydraulic power to lift and lower them.
 - **The Power Take-Off (PTO) shaft:** A rotating splined metal shaft at the back. When connected to a matching shaft on an implement (like a mower, slasher, or fertilizer broadcaster), it provides rotary engine power to make the parts of the implement spin. Standard PTO speeds are usually 540 rpm or 1000 rpm.
 
-[IMAGE: A modern farm tractor seen from the rear quarter to show its connection points. The large rear tyre has deep V-shaped treads. At the back, clearly label the upper central link and the two lower lift arms forming a triangle (Three-point linkage). Below them, a flat metal bar with a hole (Drawbar). Above the drawbar, a splined rotating stump (Power Take-Off shaft). Clean flat textbook illustration, white background.]
+![Illustration of the rear view of a modern farm tractor showing the three-point linkage system, power take-off shaft, and drawbar with hole.](images/E3-01-tractor-hitch-pto.png)
 
 **2. Milking Machine:** 
 A specialized machine used on commercial dairy farms to extract milk from the udders of dairy cows (such as White Fulani or Friesian crosses). It uses an electric vacuum pump and rubber teat cups that gently squeeze and release the teats, imitating a calf sucking. It pipes the milk directly into sterile cooling tanks, which maintains high hygiene standards.

@@ -257,7 +257,7 @@ From puberty to menopause, a woman's body goes through a regular monthly cycle t
 
 **Textbook variation:** the number of days for each phase differs slightly between textbooks (for example, menstruation "days 1–5" or "days 1–4"), and real cycles vary from woman to woman. Ovulation usually happens about **14 days before the next period starts**, so in a 35-day cycle it would be around day 21.
 
-[IMAGE: A four-band graph of the 28-day menstrual cycle sharing one horizontal axis labelled "days 1 to 28". Top band: pituitary hormones, with an FSH line (soft blue) rising early then low, and an LH line (orange) with a sharp spike at day 14. Second band: ovary events drawn as small pictures left to right: a small follicle, a growing follicle, a large mature follicle bursting and releasing an egg at day 14, then a corpus luteum growing and then shrinking. Third band: ovarian hormones, an oestrogen line (pink) peaking just before day 14 with a smaller second rise later, and a progesterone line (purple) low in the first half and high from day 15 to about day 24 then falling. Bottom band: the thickness of the uterus lining as a red-pink shaded area, thin and shedding on days 1 to 5, thickening on days 6 to 14, thickest on days 15 to 28. Labels: FSH, LH, LH surge, follicle developing, ovulation, corpus luteum, oestrogen, progesterone, menstruation, repair phase, endometrium thickening, endometrium maintained, day 14. Clean flat textbook style, white background.]
+![A four-band diagram of the 28-day menstrual cycle showing pituitary hormones, ovarian cycle events, ovarian hormones, and uterine lining thickness aligned over 28 days.](images/B7c-04-menstrual-cycle-hormones-graph.png)
 
 ## Fertilisation: the fusion of gametes
 

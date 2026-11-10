@@ -2,22 +2,6 @@
  "C7b-03-smoker-versus-healthy-lung": {
   "labels": [
    [
-    "Healthy lung",
-    [
-     247,
-     390
-    ],
-    "L"
-   ],
-   [
-    "Smoker's lung",
-    [
-     636,
-     437
-    ],
-    "R"
-   ],
-   [
     "Tar deposits",
     [
      619,
@@ -65,6 +49,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "split": [
+   [
+    970,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "Healthy lung",
+    266,
+    585
+   ],
+   [
+    "Smoker's lung",
+    755,
+    974
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

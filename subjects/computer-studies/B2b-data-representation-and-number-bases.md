@@ -45,7 +45,7 @@ Multimedia refers to complex data that goes beyond simple text and numbers.
 - **Audio/visual data:** Sound (audio) and moving pictures (video). Sound waves are continuous (analog) by nature. To store them, the computer takes thousands of digital snapshots (samples) of the sound wave every second. Videos are stored as a rapid sequence of image frames combined with a synchronized audio track.
 - **Signal data:** Continuous data collected from the physical world using sensors. Examples include temperature readings from a smart weather device on a farm, GPS location signals, or a patient's heartbeat on a hospital monitor. These physical signals are converted into numbers the computer can understand using an Analog-to-Digital Converter (ADC).
 
-[IMAGE: A clean textbook diagram showing a hierarchy tree starting with "Data Types" at the top, branching into four boxes: "Integers (e.g. 45)", "Real Numbers (e.g. 3.14)", "Strings (e.g. 'Hello')", and "Multimedia". The Multimedia box branches further into "Image (Pixels)", "Audio/Visual (MP3, MP4)", and "Signal (Sensor data)". Clean flat style, white background.]
+![A hierarchy diagram showing Data Types branching into Integers Real Numbers Strings and Multimedia which then branches into Image Audio Visual and Signal](images/B2b-01-clean-textbook-hierarchy-tree.png)
 
 ## Data Representation in Computers
 
@@ -128,7 +128,7 @@ To convert a base 10 number to base 2, use the **repeated division by 2** method
 **Crucial step:** Read the remainders from **bottom to top**. 
 **Result:** $101101_2$.
 
-[IMAGE: A flowchart showing the repeated division of 45 by 2. There are three columns: "Division", "Quotient", and "Remainder". A large bold arrow points upwards along the Remainder column from the bottom "1" to the top "1", labelled "Read bottom to top".]
+![Table of repeated division of 45 by 2 with division quotient and remainder columns and an upward arrow to read remainders from bottom to top](images/B2b-02-flowchart-repeated-division-there.png)
 
 ### 3. Converting Decimal to Hexadecimal
 This uses the same repeated division method, but you divide by 16.

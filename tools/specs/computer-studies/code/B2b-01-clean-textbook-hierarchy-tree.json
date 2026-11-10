@@ -1,0 +1,77 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Hierarchy of Data Types",
+ "nodes": [
+  {
+   "id": "data_types",
+   "text": "Data Types",
+   "shape": "box"
+  },
+  {
+   "id": "integers",
+   "text": "Integers\n(e.g. 45)",
+   "shape": "box"
+  },
+  {
+   "id": "reals",
+   "text": "Real Numbers\n(e.g. 3.14)",
+   "shape": "box"
+  },
+  {
+   "id": "strings",
+   "text": "Strings\n(e.g. 'Hello')",
+   "shape": "box"
+  },
+  {
+   "id": "multimedia",
+   "text": "Multimedia",
+   "shape": "box"
+  },
+  {
+   "id": "image",
+   "text": "Image\n(Pixels)",
+   "shape": "box"
+  },
+  {
+   "id": "audiovisual",
+   "text": "Audio/Visual\n(MP3, MP4)",
+   "shape": "box"
+  },
+  {
+   "id": "signal",
+   "text": "Signal\n(Sensor data)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "data_types",
+   "to": "integers"
+  },
+  {
+   "from": "data_types",
+   "to": "reals"
+  },
+  {
+   "from": "data_types",
+   "to": "strings"
+  },
+  {
+   "from": "data_types",
+   "to": "multimedia"
+  },
+  {
+   "from": "multimedia",
+   "to": "image"
+  },
+  {
+   "from": "multimedia",
+   "to": "audiovisual"
+  },
+  {
+   "from": "multimedia",
+   "to": "signal"
+  }
+ ]
+}

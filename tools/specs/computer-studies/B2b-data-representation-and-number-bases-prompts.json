@@ -1,0 +1,10 @@
+[
+ [
+  "B2b-01-clean-textbook-hierarchy-tree",
+  "A clean textbook diagram showing a hierarchy tree starting with \"Data Types\" at the top, branching into four boxes: \"Integers (e.g. 45)\", \"Real Numbers (e.g. 3.14)\", \"Strings (e.g. 'Hello')\", and \"Multimedia\". The Multimedia box branches further into \"Image (Pixels)\", \"Audio/Visual (MP3, MP4)\", and \"Signal (Sensor data)\". Clean flat style, white background."
+ ],
+ [
+  "B2b-02-flowchart-repeated-division-there",
+  "A flowchart showing the repeated division of 45 by 2. There are three columns: \"Division\", \"Quotient\", and \"Remainder\". A large bold arrow points upwards along the Remainder column from the bottom \"1\" to the top \"1\",."
+ ]
+]

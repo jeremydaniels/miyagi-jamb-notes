@@ -28,7 +28,7 @@ SPEC.json maps each image name to an object with any of these keys:
       between two rows of pictures); coordinates below y shift automatically.
   "src":      use a different raw file name.
 """
-import argparse, json, math, os, textwrap
+import argparse, json, math, os, re, textwrap
 from PIL import Image, ImageDraw, ImageChops
 from common import REPO, RAW, font
 
@@ -45,7 +45,17 @@ def crop_box(im):
     return max(0, l - 20), max(0, t - 20), min(im.width, r + 20), min(im.height, b + 20)
 
 
+SUB = str.maketrans("0123456789+-", "₀₁₂₃₄₅₆₇₈₉₊₋")
+
+
+def clean(text):
+    """Strip stray quotes left by the placeholder parser and turn CO_2 style subscripts into real subscripts."""
+    text = text.strip().strip("\"'").strip()
+    return re.sub(r"_\{?([0-9+-]+)\}?", lambda m: m.group(1).translate(SUB), text)
+
+
 def wrap(text, width=WRAP):
+    text = clean(text)
     return "\n".join(textwrap.fill(p, width) for p in text.split("\n"))
 
 

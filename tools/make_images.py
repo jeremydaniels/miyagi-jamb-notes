@@ -546,6 +546,10 @@ def process_code(job):
             raise
         except Exception as e:
             problems = [f"the code failed: {str(e)[-300:]}"]; st["log"].append({"attempt": attempt, "error": problems[0]}); out = None; continue
+        w_, h_ = Image.open(out).size
+        if h_ / w_ > (4.5 if tpl_first and job["template"] in ("flowchart", "cycle", "timeline") else 2.2) or w_ / h_ > 3.2:
+            problems = [f"the drawing is stretched ({w_}x{h_} px): keep annotations close to the drawing, with no long leader lines, and a roughly square or landscape layout"]
+            st["log"].append({"attempt": attempt, "ok": False, "problems": problems}); continue
         chk = check_code_img(job, out)
         st["log"].append({"attempt": attempt, "ok": chk["ok"], "problems": chk["problems"]})
         if chk["ok"]:

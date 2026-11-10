@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**421 images placed.** 30 placeholders are still in the notes (listed at the end).
+**431 images placed.** 20 placeholders are still in the notes (listed at the end).
 
 
 ## B1-internal-structure
@@ -179,6 +179,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.](B2c-06-food-energy-calorimetry-apparatus.png)
 
 *Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.*
+
+![Comparison of two malnourished children illustrating the clinical features of kwashiorkor with edema and skin changes, alongside marasmus with severe muscle wasting and prominent ribs.](B2c-07-kwashiorkor-marasmus.png)
+
+*Comparison of two malnourished children illustrating the clinical features of kwashiorkor with edema and skin changes, alongside marasmus with severe muscle wasting and prominent ribs.*
 
 ![Comparison between a healthy child with straight leg bones and a child with rickets showing bowed legs and swollen wrists, with bones visible inside.](B2c-08-rickets-skeletal.png)
 
@@ -420,6 +424,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing the transpiration stream in a tree with magnified insets of a stoma, xylem vessel with water cohesion and adhesion, and a root hair absorbing water.*
 
+![A diagram demonstrating root pressure with a cut potted plant stem connected by rubber tubing to a manometer containing mercury, with higher mercury in the open arm.](B3b-15-root-pressure-manometer-experiment.png)
+
+*A diagram demonstrating root pressure with a cut potted plant stem connected by rubber tubing to a manometer containing mercury, with higher mercury in the open arm.*
+
 ![Diagram showing active transport across a cell membrane in three stages, moving ions from low concentration outside to high concentration inside using ATP from a mitochondrion.](B3b-16-active-transport-root-hair.png)
 
 *Diagram showing active transport across a cell membrane in three stages, moving ions from low concentration outside to high concentration inside using ATP from a mitochondrion.*
@@ -450,6 +458,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram of human respiratory system displaying nasal cavity, pharynx, larynx, trachea, lungs, ribs, diaphragm, and an inset of alveoli with capillaries.](B4a-06-human-respiratory-system-anatomy.png)
 
 *Diagram of human respiratory system displaying nasal cavity, pharynx, larynx, trachea, lungs, ribs, diaphragm, and an inset of alveoli with capillaries.*
+
+![Simplified side view of a bird showing its respiratory system with trachea, lungs, anterior and posterior air sacs, pneumatic wing bone, and breastbone.](B4a-07-avian-respiratory-system-air.png)
+
+*Simplified side view of a bird showing its respiratory system with trachea, lungs, anterior and posterior air sacs, pneumatic wing bone, and breastbone.*
 
 ![Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.](B4a-08-leaf-epidermis-stomata-structure.png)
 
@@ -537,9 +549,17 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B5-excretion
 
+![A four-panel scientific diagram comparing simple excretory systems: amoeba contractile vacuole, flatworm flame cell, earthworm metanephridium, and insect Malpighian tubules connected to the digestive tract.](B5-01-comparative-invertebrate-excretory-structures.png)
+
+*A four-panel scientific diagram comparing simple excretory systems: amoeba contractile vacuole, flatworm flame cell, earthworm metanephridium, and insect Malpighian tubules connected to the digestive tract.*
+
 ![Diagram showing a flatworm outline with branched excretory canals on the left and a detailed cup-shaped flame cell with cilia and duct on the right](B5-02-planaria-flame-cell-system.png)
 
 *Diagram showing a flatworm outline with branched excretory canals on the left and a detailed cup-shaped flame cell with cilia and duct on the right*
+
+![Diagram of an earthworm nephridium showing the ciliated nephrostome funnel, septum, coiled tubule surrounded by capillaries, bladder, nephridiopore, intestine, and body wall.](B5-03-earthworm-nephridium-excretory-structure.png)
+
+*Diagram of an earthworm nephridium showing the ciliated nephrostome funnel, septum, coiled tubule surrounded by capillaries, bladder, nephridiopore, intestine, and body wall.*
 
 ![Diagram showing the insect digestive system with crop, gizzard, midgut, gastric caeca, Malpighian tubules, and hindgut, with an inset illustrating waste and water transport.](B5-04-insect-excretory-system.png)
 
@@ -682,6 +702,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.](B6b-07-mammalian-vertebrae-comparison.png)
 
 *Anatomical comparison of four types of vertebrae shown from front and lateral views: thoracic vertebra with rib, lumbar vertebra, sacrum, and caudal vertebra.*
+
+![Anatomical diagram of the human rib cage showing the sternum, thoracic vertebrae, costal cartilages, true, false, and floating ribs, with side view insets showing breathing mechanics.](B6b-08-human-rib-cage.png)
+
+*Anatomical diagram of the human rib cage showing the sternum, thoracic vertebrae, costal cartilages, true, false, and floating ribs, with side view insets showing breathing mechanics.*
 
 ![Anatomical comparison of the human pectoral girdle and upper limb on the left with the pelvic girdle and lower limb on the right.](B6b-09-pectoral-pelvic-girdles.png)
 
@@ -863,6 +887,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Three diagrams showing the external view of a kidney bean, an opened bean revealing the embryo axis on a cotyledon, and an isolated embryo axis.*
 
+![An external view and longitudinal section of a maize grain showing the embryo, endosperm, and outer layers.](B8-06-maize-grain-anatomy.png)
+
+*An external view and longitudinal section of a maize grain showing the embryo, endosperm, and outer layers.*
+
 ![An experiment showing four test tubes testing conditions needed for seed germination, with only the control tube showing sprouted seeds with green shoots and roots.](B8-07-seed-germination-conditions-experiment.png)
 
 *An experiment showing four test tubes testing conditions needed for seed germination, with only the control tube showing sprouted seeds with green shoots and roots.*
@@ -893,6 +921,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing the human nervous system with brain, spinal cord, branching nerves, and a branching hierarchy tree on the right.](B9a-01-human-nervous-system.png)
 
 *Diagram showing the human nervous system with brain, spinal cord, branching nerves, and a branching hierarchy tree on the right.*
+
+![Diagram of a motor neuron showing cell body with dendrites, myelinated axon with Schwann cells, and axon terminals connecting to a muscle fiber.](B9a-02-motor-neurone-structure.png)
+
+*Diagram of a motor neuron showing cell body with dendrites, myelinated axon with Schwann cells, and axon terminals connecting to a muscle fiber.*
 
 ![Diagram showing three types of neurons stacked horizontally: sensory neuron at top, relay neuron in the middle, and motor neuron attached to muscle at bottom.](B9a-03-three-types-neurones.png)
 
@@ -1035,6 +1067,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Comparison of three human figures showing gigantism, normal height, and pituitary dwarfism against a height scale, alongside a comparison between a normal hand and an acromegaly hand.](B9c-04-pituitary-disorders-comparison.png)
 
 *Comparison of three human figures showing gigantism, normal height, and pituitary dwarfism against a height scale, alongside a comparison between a normal hand and an acromegaly hand.*
+
+![Diagram showing the front view of the thyroid on the trachea, a posterior view highlighting four parathyroid glands, and a profile outline illustrating a goitre swelling.](B9c-05-thyroid-gland-anatomy-goitre.png)
+
+*Diagram showing the front view of the thyroid on the trachea, a posterior view highlighting four parathyroid glands, and a profile outline illustrating a goitre swelling.*
 
 ![Diagram showing a kidney with an adrenal gland on top, alongside an enlarged cross-section revealing the cortex, medulla, blood vessels, and nerve fibre.](B9c-06-adrenal-gland-anatomy-section.png)
 
@@ -1763,6 +1799,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Reconstruction of Archaeopteryx shown beside a limestone fossil slab revealing its skeleton, clawed wings, toothed jaws, and long feathered tail.*
 
+![Diagram showing five stages of horse evolution from bottom-left to top-right, comparing the increasing body size of ancestral equines and the corresponding reduction from four toes to a single hoof.](E2-04-horse-evolution-stages-foot.png)
+
+*Diagram showing five stages of horse evolution from bottom-left to top-right, comparing the increasing body size of ancestral equines and the corresponding reduction from four toes to a single hoof.*
+
 ![A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.](E2-05-homologous-pentadactyl-forelimbs-comparison.png)
 
 *A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.*
@@ -1804,23 +1844,14 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 - `B1-internal-structure`: Digestive system of a rabbit spread out after dissection, as in a practical drawing. Show the oesophagus passing through the diaphragm to a be...
 - `B1-internal-structure`: Urinary (excretory) system of a mammal in ventral view, shown on its own against an outline of the back wall of the abdomen. Two bean-shaped d...
-- `B2c-food-substances-and-food-tests`: Side-by-side medical illustration of two young African children, drawn respectfully in a simple non-photographic style. Left child with kwashi...
 - `B2d-mammalian-teeth`: The four types of human teeth drawn side by side as single whole teeth (not sections), each in side view and with its crown also shown from ab...
 - `B2e-alimentary-canal-and-digestion`: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with the hepatic...
 - `B3b-transport-in-plants`: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. Th...
-- `B3b-transport-in-plants`: Root pressure demonstration: a well-watered potted plant whose stem has been cut a few centimetres above the soil, with a rubber tube connecti...
-- `B4a-respiratory-organs-and-gaseous-exchange`: Simplified side view of a bird's body outline showing a pair of small spongy lungs near the backbone and ribs, connected to several balloon-li...
-- `B5-excretion`: A four-panel comparison of simple excretory structures. Panel 1: an Amoeba with one contractile vacuole, showing the vacuole full (large) and...
-- `B5-excretion`: One segment of an earthworm cut open (longitudinal view), showing a single nephridium. A ciliated funnel (nephrostome) opens into the coelom i...
 - `B6a-support-and-movement-in-plants`: A two-row diagram of classic coleoptile experiments with light coming from the right in the top row. Top row (Darwin): five coleoptiles labell...
-- `B6b-support-and-movement-in-animals`: Front view of the human rib cage showing the thoracic vertebrae at the back, 12 pairs of ribs curving round to the front, the sternum with man...
 - `B7b-reproduction-in-flowering-plants`: A grid of six ovary cross-sections (and one longitudinal section where needed), each drawn as a simple outline with green ovary walls and smal...
 - `B7b-reproduction-in-flowering-plants`: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with a feathery...
 - `B7c-reproduction-in-mammals`: A chart-style panel of birth control methods arranged in five labelled boxes. Box 1 natural: a calendar with some days shaded red (menstruatio...
-- `B8-growth`: Two views of a maize grain side by side. 1. External view of a whole maize grain (flattened, wedge-shaped, yellow) showing the paler oval embr...
-- `B9a-nervous-coordination`: A large, clear diagram of a motor neurone drawn horizontally. On the left, a star-shaped cell body with a round nucleus and dark speckles (Nis...
 - `B9c-hormonal-control`: Circular flow diagram of negative feedback control of thyroxine. At the top, a small brain outline with the hypothalamus highlighted; an arrow...
-- `B9c-hormonal-control`: Three-part diagram of the thyroid gland. Left: front view of the neck showing the larynx, the trachea and the butterfly-shaped thyroid gland w...
 - `B9d-homeostasis`: Flow diagram of the control of blood water content by ADH, drawn as two loops around a central normal band. Upper loop (shown in orange) for t...
 - `C2-symbiotic-interactions-and-energy-flow`: A savanna food web diagram. At the bottom, grass and grass seeds (producers). Above them, primary consumers: grasshopper, rat, antelope, grass...
 - `C2-symbiotic-interactions-and-energy-flow`: A carbon cycle diagram in a landscape setting. Centre top: a cloud labelled carbon (IV) oxide in the air. Left: green trees and grass taking C...
@@ -1830,5 +1861,4 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `D1-variation-in-population`: Arrow diagram of ABO transfusion compatibility. Four large circles arranged in a diamond: O at the top, A on the left, B on the right, AB at t...
 - `D2a-heredity-principles`: Diagram of transmission of one gene from parents to offspring. Top: a father cell and a mother cell, each showing one pair of homologous chrom...
 - `D2b-applications-of-heredity`: Genetic counselling diagram for two carrier parents. Top: a man and a woman, each with a small badge showing "AS" and a red blood cell icon th...
-- `E2-evidence-of-evolution`: Evolution of the horse in five steps from bottom-left to top-right, each showing a side view of the whole animal at relative size and, beneath...
 - `E2-evidence-of-evolution`: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; o...

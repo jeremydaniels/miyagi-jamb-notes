@@ -141,3 +141,11 @@ Two raw images were also edited by hand before labelling:
 ## Cost
 
 With the Gemini image models, a square image cost about $0.069 (`gemini-3.1-flash-image`) or $0.146 (`gemini-3-pro-image`) in the pilot; `generate.py` prints the real cost per image. Rates in `PRICE` are unverified list prices: check them on Google's pricing page. (Section A was made earlier with OpenAI: 69 calls, $3.71.)
+
+## Image tools v2 (second image run)
+
+- `label.py`: non-crossing leader lines, region dots, minimum font (2.2% of image width), `caption_below` for process notes.
+- `codedraw/templates.py` + `codedraw/render_spec.py`: fixed templates (flowchart, cycle, hub, graph, chart, table, timeline, taccount) filled from a JSON spec; `style.save` enforces a 14 pt minimum for free-form drawings.
+- `reclassify.py`: re-sorts every placeholder (AI, code with template, map, skip) and splits labels into parts and annotations.
+- `rebuild_raw.py`: recovers raw pictures from finished labelled images and re-labels them. `redraw_code.py`: re-runs saved code drawings with the current style.
+- `make_images.py --subject <s> --run [--retry-failed code|ai|all]`: the whole pipeline for any subject (Batch API; one registry per subject, so subjects can run in parallel). `make_gallery.py <subject>`: the phone gallery.

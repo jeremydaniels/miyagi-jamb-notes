@@ -2,28 +2,12 @@
  "A6-03-gis-map-scanning-digitizing": {
   "labels": [
    [
-    "Map Scanning",
-    [
-     200,
-     336
-    ],
-    "L"
-   ],
-   [
     "Raster image output",
     [
      397,
      223
     ],
-    "L"
-   ],
-   [
-    "Map Digitizing",
-    [
-     696,
-     619
-    ],
-    "R"
+    "T"
    ],
    [
     "Digitizing tablet and puck",
@@ -39,8 +23,22 @@
      620,
      278
     ],
-    "R"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Map Scanning",
+    265,
+    901
+   ],
+   [
+    "Map Digitizing",
+    758,
+    931
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

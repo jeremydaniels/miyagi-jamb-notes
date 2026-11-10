@@ -74,7 +74,7 @@ Moses and Aaron went to Pharaoh, saying, "Thus says the LORD, the God of Israel,
 
 After a series of devastating plagues, God commanded the final blow: the death of the firstborn. To be spared, the Israelites were instructed in **Exodus 12** to celebrate the **Passover**. Each household was to slaughter a blemish-free lamb, smear its blood on the two doorposts and the lintel of their houses, and eat the roasted meat with unleavened bread and bitter herbs. That night, the Lord struck down the Egyptian firstborn but "passed over" the houses marked with blood. Pharaoh finally urged the Israelites to leave.
 
-[IMAGE: A Hebrew family standing inside their stone house at night, dressed for travel with sandals on and staffs in hand. They are quickly eating roasted meat and flat unleavened bread from a wooden table. Through the open doorway, the wooden doorposts and top lintel are painted with bright red blood. Style: clean flat textbook illustration, white background.]
+![An ancient Hebrew family wearing sandals and holding staffs stands around a table eating the Passover meal inside a home with blood on the doorframe.](images/A3-02-passover-meal-night-scene.png)
 
 ### 4. Sending the Spies and Intercession (Numbers 13:1-20; 14:1-19)
 Years later, at the edge of Canaan, God told Moses to send twelve men (one leader from each tribe) to spy out the Promised Land. Moses instructed them to see if the people were strong or weak, few or many, and to bring back some of the fruit of the land.
@@ -118,7 +118,7 @@ She summoned **Barak** and commanded him in God's name to gather 10,000 men at M
 
 God routed Sisera’s army before Barak. Sisera fled on foot and hid in the tent of **Jael**, the wife of Heber the Kenite. While Sisera was exhausted and sleeping, Jael took a tent peg and a hammer and drove the peg through his temple into the ground, killing him.
 
-[IMAGE: Inside a nomad's tent. Sisera, dressed in ancient armor, is lying fast asleep on a rug, covered with a blanket. Jael, a strong Middle Eastern woman, stands over him. She holds a heavy wooden mallet raised in one hand and a sharp wooden tent peg positioned over the side of his head with the other. Style: clean flat textbook illustration, white background.]
+![Biblical illustration of Jael holding a wooden mallet and tent peg above the sleeping Sisera inside a tent.](images/A3-03-jael-sisera-scene.png)
 
 ### 2. Gideon (Judges 6:11-40)
 Israel was severely oppressed by the **Midianites**, who ruined their crops and impoverished them, forcing Israelites to hide in caves. **Gideon** was secretly beating out wheat in a winepress to hide it from the Midianites when the Angel of the Lord appeared and said, *"The LORD is with you, you mighty man of valour."* 

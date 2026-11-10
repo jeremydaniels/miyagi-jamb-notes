@@ -21,7 +21,7 @@ By the end of these notes, you should be able to:
 
 After the Scramble for Africa and the Berlin Conference (1884–1885), European nations had to set up administrations to govern their new territories. Though their ultimate goals were the same—economic exploitation, resource extraction, and asserting imperial power—they used different methods and philosophies to rule the African people. The administrative styles are broadly grouped into **Indirect Rule** (mostly British), **Direct Rule** (German), and various forms of **Assimilation or Paternalism** (French, Portuguese, Belgian, and Spanish).
 
-[IMAGE: Map of Africa in 1914, colour-coded by colonial power. The map shows British territories in red (e.g., Nigeria, Gold Coast, Kenya, South Africa, Egypt), French in blue (e.g., French West Africa, Madagascar, Algeria), Portuguese in green (Angola, Mozambique, Guinea-Bissau), Belgian in yellow (Belgian Congo), German in grey (Togo, Kamerun, German East Africa, German South-West Africa), Spanish in orange (Rio de Oro, Equatorial Guinea), and Italian in purple (Libya, Somalia). Ethiopia and Liberia remain uncoloured (independent). Labels to add later: "British", "French", "Portuguese", "Belgian", "German", "Spanish", "Independent". Clean flat textbook style, white background.]
+![A 1914 political map of Africa color-coded by colonial power showing British, French, German, Portuguese, Belgian, Italian, and Spanish territories alongside independent nations.](images/G2-01-colonial-partition-map-africa.png)
 
 ## The British Pattern: Indirect Rule
 
@@ -51,7 +51,7 @@ The architect of this system in West Africa was **Lord Frederick Lugard**, who f
 - **Eastern Nigeria (Igboland):** It failed completely. Igbo society was largely acephalous (non-centralized) and egalitarian, without supreme kings. The British appointed artificial **"Warrant Chiefs"** who became corrupt and oppressive, leading to the Aba Women's Riot of 1929.
 - **Other areas:** It worked well in centralized kingdoms like Buganda (Uganda) but faced resistance in places like Asante (Gold Coast) where the British had previously exiled the king.
 
-[IMAGE: Split illustration showing Indirect Rule vs Direct Rule. On the left (Indirect Rule): A British officer in a khaki uniform sitting beside a traditional Emir on a throne; the Emir is giving orders to his subjects while the British officer watches. On the right (Direct Rule): A French colonial officer standing directly in front of a group of African villagers, giving them orders himself, while a traditional chief stands passively in the background. Labels to add later: "British Indirect Rule: ruling through traditional leaders", "French Direct Rule: ruling the people directly". Clean flat textbook style, white background.]
+![Split comparison showing indirect colonial rule with an Emir addressing subjects beside a British officer, and direct rule with a French officer directly commanding villagers.](images/G2-02-comparative-colonial-governance.png)
 
 ## The French Pattern: Assimilation and Association
 

@@ -49,7 +49,7 @@ The **pattern** of a settlement refers to the arrangement or layout of its build
    - **Why it forms:** People build along a physical feature or a transport route, such as a road, railway, river, or coastline, to enjoy easy access and transport.
    - **Examples:** Fishing villages along the West African coast, settlements strung out along a major highway, or villages along the River Rhine in **Western Europe**.
 
-[IMAGE: A three-panel diagram showing settlement patterns from a top-down map view. Left panel: "Dispersed" showing small square house symbols scattered far apart among green fields. Middle panel: "Nucleated" showing house symbols tightly clustered around a central crossroads. Right panel: "Linear" showing house symbols lined up on both sides of a blue river and a black road. Clean flat textbook style, white background, clear labels.]
+![Three-panel diagram illustrating dispersed, nucleated, and linear settlement patterns, showing isolated farms across fields, houses clustered at a crossroads, and houses aligned along a road and river.](images/C2-01-settlement-pattern-map-schematics.png)
 
 ## Differentiating Between Types of Settlements (Rural and Urban)
 
@@ -136,7 +136,7 @@ Why does a settlement start exactly where it does? The specific patch of land a 
 6. **Nodality (Communication Routes):** Settlements thrive where transport routes meet, making travel and trade easy. Lokoja in Nigeria is a classic example, located at the confluence of the Rivers Niger and Benue.
 7. **Presence of Minerals/Resources:** A settlement will quickly grow anywhere a valuable resource is discovered, such as oil in the Niger Delta or coal in Enugu.
 
-[IMAGE: A landscape illustration showing different settlement location factors. A small village on a raised hill in a marshy valley (labeled "Dry-point site"). Another village clustered around a spring in a dry area (labeled "Wet-point site"). A larger town at the junction where two rivers meet (labeled "Nodality / Confluence"). A walled historical town on a steep hilltop (labeled "Defense"). Clean flat textbook style, white background.]
+![Four settlement sites demonstrating site factors: a village on a hill above marshes, a desert oasis village, a river confluence town, and a walled hilltop town.](images/C2-02-settlement-site-location-factors.png)
 
 ## Problems of Urban Centres
 
@@ -165,7 +165,7 @@ Rural and urban areas are not totally separate; they are **interdependent**. Thi
 3. **Capital and Remittances:** People who migrate to the city often send money (remittances) back to their families in the village. This capital is used to build houses, pay school fees, or start small rural businesses.
 4. **New Ideas and Technology:** Innovations, modern farming techniques, and new cultural ideas spread out from the cities into the rural areas.
 
-[IMAGE: A circular flow diagram illustrating rural-urban interdependence. On the left, a green rural village scene; on the right, a grey city skyline. Top arrow pointing from rural to urban is labeled "Food, Raw Materials, Labour, Market". Bottom arrow pointing from urban to rural is labeled "Manufactured Goods, Remittances (Money), Higher Services, Technology". Clean flat textbook style, white background.]
+![A circular flow diagram illustrating rural-urban interdependence with flows of food, raw materials, and labor to urban areas, and manufactured goods and services to rural areas.](images/C2-03-rural-urban-interdependence-flow.png)
 
 ## Key terms
 

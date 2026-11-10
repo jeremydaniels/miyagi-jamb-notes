@@ -220,7 +220,7 @@ An **antibiotic** is a substance produced by a microorganism (or made to copy on
 5. Penicillin is **extracted and purified** from the liquid, then made into tablets, capsules or injections.
 6. Chemists often modify the natural penicillin to make **semi-synthetic penicillins** such as **ampicillin** and **amoxicillin** (very commonly used in Nigeria), which work against more bacteria.
 
-![A diagram of an industrial fermenter showing the cooling water jacket, central stirrer paddles, bottom air sparger, probes, inlet and outlet pipes, and harvest tap.](images/D3-05-industrial-fermenter-cross-section.png)
+[IMAGE: Labelled cross-section of an industrial fermenter: a tall stainless steel cylinder with a motor-driven stirrer shaft and paddles inside, a water jacket around the outside with cold water in at the bottom and warm water out at the top, a sterile air inlet with a sparger (bubble ring) at the bottom, a nutrient inlet at the top, an exhaust gas outlet at the top, temperature and pH probes on the side, and a harvest outlet tap at the bottom. Inside, a cloudy culture with tiny fungal threads. Labels to add later: "motor", "stirrer (paddles)", "nutrient inlet", "sterile air in", "air bubbles (sparger)", "exhaust gases out", "water jacket (cooling)", "cold water in", "warm water out", "temperature probe", "pH probe", "culture of Penicillium", "product removed here". Clean flat textbook style, white background.]
 
 #### Other antibiotics from microorganisms
 
@@ -302,7 +302,7 @@ Other traditional fermented drinks and foods include **burukutu** and **pito** (
 3. The **CO₂ bubbles** are trapped by the stretchy **gluten** protein in the dough, so the dough **rises** (becomes light and spongy).
 4. During **baking**, the heat kills the yeast, the bubbles expand further, the ethanol **evaporates**, and the bread sets.
 
-![Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.](images/D3-07-bread-making-yeast-fermentation.png)
+[IMAGE: Three-panel diagram of bread making with yeast. Panel 1: a bowl of freshly kneaded dough, small and dense, with an inset circle showing oval budding yeast cells among starch grains. Panel 2: the same dough in a warm place, risen to twice its size, with a cut-away showing many trapped gas bubbles and an inset showing yeast cells releasing tiny CO2 bubbles. Panel 3: a baked brown loaf sliced to show the spongy, airy crumb, with wavy lines rising from it. Labels to add later: "1 dough: flour, water, sugar and yeast (Saccharomyces)", "yeast cells", "2 proving: yeast ferments sugar", "carbon (IV) oxide bubbles trapped by gluten", "dough rises", "3 baking: yeast killed, alcohol evaporates", "spongy bread". Clean flat textbook style, white background.]
 
 ### 3. Yoghurt
 

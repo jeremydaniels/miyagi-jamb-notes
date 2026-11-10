@@ -42,7 +42,7 @@ Jesus warned against two common but ineffective ways of praying:
 ### How to pray: Secret and sincere prayer
 Instead of seeking public attention, Jesus commanded: *"But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret"* (Matthew 6:6). Praying in private removes the temptation to show off. The Father, who sees what is done in secret, will reward the believer openly.
 
-[IMAGE: Split illustration contrasting ineffective and effective prayer based on Jesus' teaching. Left half (ineffective prayer): a proud man in ornate robes standing on a busy street corner, hands raised high, looking around to see if people are watching him. Right half (effective prayer): a person kneeling quietly inside a simple room with the door firmly closed, eyes closed in sincere prayer, with a window showing a calm sky. Labels to add later: "Ineffective: Praying to be seen by others (Hypocrisy)", "Effective: Praying in secret to the Father". Clean flat textbook style, white background.]
+![A split illustration contrasting a man praying boastfully on a public street corner with a humble believer kneeling in private prayer inside a quiet room.](images/D13-01-effective-versus-ineffective-prayer.png)
 
 ### The Lord's Prayer (The Model Prayer)
 Jesus then gave His disciples a model of how to pray, which we call the Lord's Prayer. It is brief, sincere, and covers all the essential types of prayer:

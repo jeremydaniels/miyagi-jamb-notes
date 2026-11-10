@@ -27,7 +27,7 @@ To understand Christian teaching on salvation, we must understand Paul's use of 
 
 Therefore, **"justification by faith"** is the central Christian doctrine that human beings cannot earn God's forgiveness or a place in heaven by trying to perfectly obey religious laws or by doing good works. Instead, people are declared righteous by God entirely as a free gift (grace), which they receive simply by putting their faith in Jesus Christ.
 
-[IMAGE: A conceptual illustration of a law court. A judge is seated behind a high wooden desk. A person stands in the dock looking relieved as the judge strikes the gavel, while Jesus stands next to the person, holding out a document with a red seal. The words "Justified: Declared Not Guilty" are written across the top. Clean flat textbook style, white background.]
+![A biblical courtroom scene with a judge holding a gavel behind a wooden desk while Jesus presents a sealed document beside a relieved person.](images/D1-01-courtroom-justification-concept.png)
 
 ### Romans 3:21-24: Justification as a free gift
 
@@ -55,7 +55,7 @@ To describe his own justification and new life, Paul says he has died to the law
 
 By relying on Christ alone, Paul says he does not "frustrate" (or set aside) the grace of God. If humans could save themselves through their own efforts, grace would no longer be grace.
 
-[IMAGE: A pair of balancing scales. On the left side, a heavy stone tablet labeled "Works of the Law" pulling the scale down with a figure struggling under its weight. On the right side, an empty scale with a glowing cross labeled "Grace and Faith," lifting the figure up. A red cross mark over the left side and a green checkmark over the right side. Clean flat textbook style, white background.]
+![A balance scale comparing a heavy stone tablet weighing down a struggling man under a red X with a glowing cross lifting a man under a green checkmark.](images/D1-02-law-versus-grace-scale.png)
 
 ## Basic conditions for justification
 
@@ -108,7 +108,7 @@ In Romans 5, Paul lists several direct benefits—or fruits—that come to a per
 6. **Salvation from God's Wrath:** Paul argues from the greater to the lesser: since Christ died for believers while they were still weak, ungodly sinners, how much more will they now be saved from the future wrath (judgment) of God since they have been justified by His blood.
 7. **Reconciliation:** Believers, who were once God's enemies, are now fully reconciled (brought back into a friendly, loving relationship) with God through the death of His Son. Because they are reconciled, they will definitely be saved by Christ's resurrected life.
 
-[IMAGE: A flow chart illustrating the fruits of justification from Romans 5. Four boxes connected by arrows in sequence from left to right. First box: "Suffering (Tribulation)" with an icon of a storm cloud. Second box: "Endurance (Patience)" with an icon of a mountain climber. Third box: "Character (Experience)" with an icon of a shining diamond. Fourth box: "Hope" with an icon of a bright sunrise. Clean flat textbook style, white background.]
+![A four-step flow chart from Romans 5 connecting suffering, endurance, character, and hope from left to right with corresponding icons for each concept.](images/D1-03-fruits-justification-flowchart.png)
 
 ## Key terms
 

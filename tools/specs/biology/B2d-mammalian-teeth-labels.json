@@ -262,14 +262,6 @@
  "B2d-07-comparative-mammalian-skulls": {
   "labels": [
    [
-    "sheep (herbivore)",
-    [
-     204,
-     430
-    ],
-    "L"
-   ],
-   [
     "dental pad",
     [
      64,
@@ -286,20 +278,12 @@
     "L"
    ],
    [
-    "dog (carnivore)",
-    [
-     517,
-     440
-    ],
-    "R"
-   ],
-   [
     "long canine",
     [
      435,
      537
     ],
-    "L"
+    "T"
    ],
    [
     "carnassial teeth",
@@ -307,15 +291,7 @@
      540,
      527
     ],
-    "R"
-   ],
-   [
-    "human (omnivore)",
-    [
-     834,
-     430
-    ],
-    "R"
+    "T"
    ],
    [
     "incisors",
@@ -349,7 +325,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "sheep\n(herbivore)",
+    194,
+    703
+   ],
+   [
+    "dog\n(carnivore)",
+    515,
+    733
+   ],
+   [
+    "human\n(omnivore)",
+    845,
+    748
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2d-08-dental-caries-progression": {
   "labels": [

@@ -1,22 +1,19 @@
 {
  "B6b-01-relative-clause-punctuation-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "The students who passed were given prizes (only some)",
-    [
-     263,
-     279
-    ],
-    "L"
+    "The students who passed\nwere given prizes (only\nsome)",
+    264,
+    832
    ],
    [
-    "The students, who passed, were given prizes (all of them)",
-    [
-     755,
-     279
-    ],
-    "R"
+    "The students, who\npassed, were given\nprizes (all of them)",
+    759,
+    832
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

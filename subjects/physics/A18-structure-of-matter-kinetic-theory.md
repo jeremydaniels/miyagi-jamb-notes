@@ -49,7 +49,7 @@ The **molecular theory of matter** states that all matter is made of molecules, 
 *   **Molecular explanation:** Why do the visible particles (like pollen in water or smoke in air) dance around? According to molecular theory, the fluid molecules (like water or air) are invisible, moving very fast, and colliding randomly with the larger, visible particle. Because the collisions are unequal on different sides of the particle at any given moment, the visible particle is pushed randomly in continuously changing directions. This was mathematically proven by Albert Einstein in 1905, confirming the existence of atoms.
 *   **Example (Smoke Cell Experiment):** If you trap smoke in a small glass cell and look at it under a microscope illuminated by a strong light, you will see bright specks of smoke darting about. This proves that the invisible air molecules are in constant motion, constantly striking the smoke particles. Another everyday Nigerian example is watching tiny dust particles "dancing" in a beam of sunlight shining through a hole in the roof of a dark room.
 
-[IMAGE: A diagram showing the Brownian motion of a smoke particle. A large, jagged smoke particle is in the centre, with a zig-zag path tracing its recent movement. Around it, several tiny invisible air molecules are shown as small circles with arrows pointing towards the smoke particle, indicating random collisions. Style: clean flat textbook illustration, white background.]
+![Textbook diagram of Brownian motion illustrating a jagged smoke particle bombarded by air molecules, with a dashed line tracing its random zig-zag path.](images/A18-01-brownian-motion-path.png)
 
 ### 2. Diffusion
 

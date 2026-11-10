@@ -24,7 +24,7 @@ Before looking at specific careers, it is important to know how to get there. Af
 
 The computing field is vast. Below are the career paths named in the JAMB syllabus, grouped into sensible areas of work.
 
-[IMAGE: A flowchart or mind map showing the branches of computing careers grouped into Software Development, Network Engineering, Cybersecurity, Data Management, and Digital Marketing. Clean flat textbook illustration, white background.]
+![A mind map showing Computing Careers branching into Software Development, Network Engineering, Cybersecurity, Data Management, and Digital Marketing.](images/I4-01-flowchart-or-mind-map.png)
 
 ### 1. Software and Application Development
 
@@ -49,7 +49,7 @@ These roles focus on the physical hardware, servers, and connections that allow 
 - **IT Specialist:** A broad term for an expert who installs, configures, and maintains computer hardware, software, and networks. They often specialise in one specific area of IT support.
 - **IT User Support/Desk Officer:** Also known as helpdesk support. These are the friendly officers who help everyday users fix immediate computer problems, such as resetting forgotten passwords, fixing jammed printers, or troubleshooting software crashes.
 
-[IMAGE: Illustration of three computing professionals in their work environments: a Network Engineer in a server room fixing cables, a Web Developer writing HTML code on a dual-monitor setup, and a Digital Forensic Analyst examining a hard drive with a magnifying glass graphic. Clean flat textbook illustration, white background.]
+![Illustration showing a Network Engineer, Web Developer, and Digital Forensic Analyst working.](images/I4-02-three-computing-professionals-their.png)
 
 ### 3. Data, Databases, and Security
 

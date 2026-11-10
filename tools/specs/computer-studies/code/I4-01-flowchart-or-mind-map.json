@@ -1,0 +1,12 @@
+{
+ "template": "hub",
+ "title": "Branches of Computing Careers",
+ "center": "Computing Careers",
+ "spokes": [
+  "Software Development",
+  "Network Engineering",
+  "Cybersecurity",
+  "Data Management",
+  "Digital Marketing"
+ ]
+}

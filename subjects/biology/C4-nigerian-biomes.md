@@ -144,7 +144,7 @@ The tropical rainforest has the richest variety of plant and animal species of a
 | Many animals | Camouflage (e.g. Gaboon viper's pattern matches leaf litter) | Hide from prey and predators |
 | Fruit bats, hornbills, monkeys | Feed on fruits and disperse seeds | Fit the forest's year-round supply of fruit |
 
-[IMAGE: Side view (profile) of a Nigerian tropical rainforest showing its layers. A few very tall emergent trees (silk cotton with buttress roots, iroko) rise above a continuous closed canopy of broad-crowned trees. Below: an understorey of smaller trees, a shrub layer, and a dark forest floor with ferns, seedlings and thick leaf litter. Lianas climb up trunks; epiphytic orchids and ferns on branches. Animals: a hornbill and a monkey in the canopy, a chameleon on a branch, a duiker and a giant snail on the forest floor. A height scale on the left in metres (0, 10, 20, 30, 40, 50). Light rays strong above the canopy and dim near the floor. Labels: "emergent layer", "canopy", "understorey (lower tree layer)", "shrub layer", "ground layer", "buttress roots", "liana", "epiphytes", "drip tip leaves", "leaf litter", "hornbill", "monkey", "duiker", "giant land snail", "dim light on forest floor". Soft greens and browns. Clean flat textbook style, white background.]
+![Diagram showing vertical stratification of a tropical rainforest with emergent trees, canopy, understorey, shrub layer, and forest floor, accompanied by rainforest wildlife and a height scale.](images/C4-02-rainforest-stratification-forest-profile.png)
 
 ## Mangrove and freshwater swamp forests (not in the syllabus list)
 
@@ -269,7 +269,7 @@ The **Guinea savanna** is the **largest vegetation belt in Nigeria**, covering m
 | Grasshoppers, birds | Brown and green camouflage | Hide in the grass |
 | Termites | Build mounds | Control temperature and humidity inside the nest |
 
-[IMAGE: Two side-by-side panels comparing southern and northern Guinea savanna. Left panel (southern Guinea savanna): tall elephant grass over head height, fairly close broad-leaved trees, a gallery forest along a river in the background, a kob antelope, and a yam farm with mounds at the edge. A person for scale. Right panel (northern Guinea savanna): shorter grass about waist-to-chest height, more widely spaced shorter trees with corky bark (Isoberlinia), a termite mound, a herd of white Fulani cattle with a herder, and a sorghum field. Labels: "southern Guinea savanna", "tall grass (2–3 m)", "trees close together", "gallery forest along river", "kob", "yam mounds", "northern Guinea savanna", "shorter grass", "trees more widely spaced", "corky bark", "termite mound", "Fulani cattle", "sorghum". Soft greens, yellows and browns. Clean flat textbook style, white background.]
+![Comparison between southern Guinea savanna with tall grass, dense trees, gallery forest, and yam mounds, and northern Guinea savanna with shorter grass, scattered trees, cattle, and sorghum.](images/C4-03-savanna-types-comparison-landscape.png)
 
 ## Biome c: Sudan savanna
 
@@ -342,7 +342,7 @@ The Sudan savanna lies **north of the Guinea savanna**, covering most of the **f
 | Many animals | Sandy-brown colours | Camouflage in dry grass and sand |
 | Many insects and snails | Aestivation | Survive the dry season |
 
-[IMAGE: Landscape of Nigerian Sudan savanna in the dry season. Short, dry, yellow-brown grass about knee-to-waist height; widely scattered short thorny Acacia trees with small leaves and a large baobab with a fat grey trunk and no leaves; a doum palm with a branched trunk. A small millet field with harvested stalks, a mud-walled village with granaries, cattle and goats grazing, a camel, and a hazy dusty sky from the harmattan. Labels: "short grasses", "scattered thorny trees (Acacia)", "baobab (water-storing trunk, leafless in dry season)", "doum palm", "millet field", "cattle and goats", "camel", "harmattan dust haze". Soft yellows, tans and pale blue. Clean flat textbook style, white background.]
+![Landscape of the Nigerian Sudan savanna in dry season featuring short dry grasses, acacia trees, a leafless baobab, a doum palm, grazing livestock, a camel, and a village.](images/C4-04-sudan-savanna-biome-landscape.png)
 
 ## Sahel savanna (not in the syllabus list)
 
@@ -357,7 +357,7 @@ The **Sahel savanna** lies **between the Sudan savanna and the desert**. The wor
 - **Human activities:** nomadic herding, millet farming, fishing and farming around Lake Chad, irrigation, collection of gum arabic.
 - **Main problem:** **desertification**, made worse by drought, overgrazing and tree-cutting.
 
-[IMAGE: Landscape of the Sahel savanna near Lake Chad in the dry season. Very short, sparse tufts of dry grass with much bare sandy ground between them, a few low thorny Acacia shrubs, a doum palm, a small sand dune creeping over a field edge, a herd of camels and goats with a herder, and the shallow edge of Lake Chad with reeds in the distance. Labels: "short, sparse grass", "bare sandy ground", "thorny shrubs (Acacia)", "doum palm", "sand dune (desertification)", "camels and goats", "Lake Chad". Soft tans, pale yellows and pale blues. Clean flat textbook style, white background.]
+![A dry Sahel savanna landscape featuring a doum palm, thorny shrubs, sparse dry grass, encroaching sand dunes, a herder with camels and goats, and Lake Chad.](images/C4-05-sahel-savanna-landscape-scene.png)
 
 ## Biome d: Desert
 
@@ -426,7 +426,7 @@ Nomadic herding of camels, goats and sheep; farming at oases (dates, millet, veg
 | **Lizards and snakes** | Scaly skin; excrete uric acid (little water lost); burrow in sand | Reduce water loss; avoid heat |
 | **Many animals** | Sandy colours | Camouflage |
 
-[IMAGE: Desert scene with sand dunes and a small oasis. Show: bare sand and rocky ground, a few thorny Acacia shrubs, succulent spiny euphorbias, a clump of date palms around a pool at an oasis, a dromedary camel with a single hump, long eyelashes and broad padded feet, a fennec fox with very large ears at a burrow entrance, a jerboa with long hind legs, a desert locust and a scorpion on the sand. A hot sun in a clear sky. Labels: "sand dunes", "thorny shrub (Acacia)", "succulent euphorbia", "date palms at oasis", "camel", "hump (fat store)", "broad padded feet", "fennec fox (large ears)", "burrow", "jerboa", "desert locust", "scorpion". Soft yellows, oranges and pale blues. Clean flat textbook style, white background.]
+![A desert ecosystem showing sand dunes, an oasis with date palms, an acacia shrub, euphorbia cactus, dromedary camel, fennec fox at a burrow, jerboa, locust, and scorpion.](images/C4-06-desert-biome-oasis-scene.png)
 
 ## Biome e: Highlands (montane forests and grasslands) of the Obudu, Jos and Mambilla Plateaus
 
@@ -497,7 +497,7 @@ Nigeria's three main highland areas named in the syllabus are described below. *
 | Cattle (introduced) | Thrive in the cool, tsetse-free grassland | Few disease-carrying tsetse flies at high altitude |
 | Temperate crops (Irish potato, tea, cabbage) | Need cool temperatures | Grow well on the plateaus but poorly in the hot lowlands |
 
-[IMAGE: Side view of the Obudu Plateau rising steeply from lowland rainforest. At the foot, dense, tall tropical rainforest with a thermometer showing a high reading. Up the steep slopes, montane forest in valleys and along streams, with mist. On the flat plateau top, open rolling montane grassland with short grass, grazing cattle, a few cottages and a cable car line running up the slope. A thermometer at the top showing a lower reading. Inset in a corner: a tea bush with leaves and an Irish potato plant with tubers, representing crops of the Mambilla and Jos Plateaus. Labels: "lowland rainforest (hot, humid)", "montane forest in valleys", "mist", "montane grassland on plateau top (cool)", "cattle", "cable car", "temperature falls with altitude", "tea (Mambilla Plateau)", "Irish potato (Jos Plateau)". Soft greens, blues and browns. Clean flat textbook style, white background.]
+![Diagram showing altitudinal zonation of Obudu Plateau from lowland rainforest to cool montane grassland with cattle and cable cars, alongside an inset of tea and potato plants.](images/C4-07-obudu-plateau-altitudinal-profile.png)
 
 ## Locating the biomes in the regions of Nigeria
 

@@ -1,0 +1,538 @@
+{
+ "C4-02-rainforest-stratification-forest-profile": {
+  "labels": [
+   [
+    "emergent layer",
+    [
+     319,
+     123
+    ],
+    "L"
+   ],
+   [
+    "canopy",
+    [
+     555,
+     292
+    ],
+    "R"
+   ],
+   [
+    "understorey (lower tree layer)",
+    [
+     431,
+     587
+    ],
+    "L"
+   ],
+   [
+    "shrub layer",
+    [
+     636,
+     702
+    ],
+    "R"
+   ],
+   [
+    "ground layer",
+    [
+     239,
+     854
+    ],
+    "L"
+   ],
+   [
+    "buttress roots",
+    [
+     323,
+     760
+    ],
+    "L"
+   ],
+   [
+    "liana",
+    [
+     642,
+     547
+    ],
+    "R"
+   ],
+   [
+    "epiphytes",
+    [
+     176,
+     492
+    ],
+    "L"
+   ],
+   [
+    "drip tip leaves",
+    [
+     128,
+     549
+    ],
+    "L"
+   ],
+   [
+    "leaf litter",
+    [
+     524,
+     939
+    ],
+    "R"
+   ],
+   [
+    "hornbill",
+    [
+     445,
+     283
+    ],
+    "L"
+   ],
+   [
+    "monkey",
+    [
+     578,
+     390
+    ],
+    "R"
+   ],
+   [
+    "duiker",
+    [
+     410,
+     871
+    ],
+    "L"
+   ],
+   [
+    "giant land snail",
+    [
+     684,
+     921
+    ],
+    "R"
+   ],
+   [
+    "dim light on forest floor",
+    [
+     312,
+     901
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C4-03-savanna-types-comparison-landscape": {
+  "labels": [
+   [
+    "southern Guinea savanna",
+    [
+     274,
+     65
+    ],
+    "L"
+   ],
+   [
+    "tall grass (2\u20133 m)",
+    [
+     142,
+     684
+    ],
+    "L"
+   ],
+   [
+    "trees close together",
+    [
+     137,
+     390
+    ],
+    "L"
+   ],
+   [
+    "gallery forest along river",
+    [
+     437,
+     143
+    ],
+    "L"
+   ],
+   [
+    "kob",
+    [
+     416,
+     619
+    ],
+    "L"
+   ],
+   [
+    "yam mounds",
+    [
+     178,
+     883
+    ],
+    "L"
+   ],
+   [
+    "northern Guinea savanna",
+    [
+     785,
+     65
+    ],
+    "R"
+   ],
+   [
+    "shorter grass",
+    [
+     715,
+     433
+    ],
+    "R"
+   ],
+   [
+    "trees more widely spaced",
+    [
+     798,
+     223
+    ],
+    "R"
+   ],
+   [
+    "corky bark",
+    [
+     939,
+     347
+    ],
+    "R"
+   ],
+   [
+    "termite mound",
+    [
+     619,
+     813
+    ],
+    "R"
+   ],
+   [
+    "Fulani cattle",
+    [
+     615,
+     538
+    ],
+    "R"
+   ],
+   [
+    "sorghum",
+    [
+     899,
+     775
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C4-04-sudan-savanna-biome-landscape": {
+  "labels": [
+   [
+    "short grasses",
+    [
+     503,
+     883
+    ],
+    "L"
+   ],
+   [
+    "scattered thorny trees (Acacia)",
+    [
+     247,
+     654
+    ],
+    "L"
+   ],
+   [
+    "baobab (water-storing trunk, leafless in dry season)",
+    [
+     626,
+     435
+    ],
+    "R"
+   ],
+   [
+    "doum palm",
+    [
+     845,
+     338
+    ],
+    "R"
+   ],
+   [
+    "millet field",
+    [
+     800,
+     607
+    ],
+    "R"
+   ],
+   [
+    "cattle and goats",
+    [
+     349,
+     790
+    ],
+    "L"
+   ],
+   [
+    "camel",
+    [
+     677,
+     675
+    ],
+    "R"
+   ],
+   [
+    "harmattan dust haze",
+    [
+     494,
+     150
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C4-05-sahel-savanna-landscape-scene": {
+  "labels": [
+   [
+    "short, sparse grass",
+    [
+     69,
+     685
+    ],
+    "L"
+   ],
+   [
+    "bare sandy ground",
+    [
+     437,
+     764
+    ],
+    "L"
+   ],
+   [
+    "thorny shrubs (Acacia)",
+    [
+     890,
+     660
+    ],
+    "R"
+   ],
+   [
+    "doum palm",
+    [
+     240,
+     395
+    ],
+    "L"
+   ],
+   [
+    "sand dune (desertification)",
+    [
+     747,
+     498
+    ],
+    "R"
+   ],
+   [
+    "camels and goats",
+    [
+     555,
+     338
+    ],
+    "R"
+   ],
+   [
+    "Lake Chad",
+    [
+     798,
+     231
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C4-06-desert-biome-oasis-scene": {
+  "labels": [
+   [
+    "sand dunes",
+    [
+     785,
+     312
+    ],
+    "R"
+   ],
+   [
+    "thorny shrub (Acacia)",
+    [
+     182,
+     523
+    ],
+    "L"
+   ],
+   [
+    "succulent euphorbia",
+    [
+     883,
+     867
+    ],
+    "R"
+   ],
+   [
+    "date palms at oasis",
+    [
+     303,
+     289
+    ],
+    "L"
+   ],
+   [
+    "camel",
+    [
+     735,
+     542
+    ],
+    "R"
+   ],
+   [
+    "hump (fat store)",
+    [
+     784,
+     435
+    ],
+    "R"
+   ],
+   [
+    "broad padded feet",
+    [
+     733,
+     771
+    ],
+    "R"
+   ],
+   [
+    "fennec fox (large ears)",
+    [
+     239,
+     693
+    ],
+    "L"
+   ],
+   [
+    "burrow",
+    [
+     162,
+     719
+    ],
+    "L"
+   ],
+   [
+    "jerboa",
+    [
+     464,
+     642
+    ],
+    "L"
+   ],
+   [
+    "desert locust",
+    [
+     386,
+     848
+    ],
+    "L"
+   ],
+   [
+    "scorpion",
+    [
+     686,
+     885
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C4-07-obudu-plateau-altitudinal-profile": {
+  "labels": [
+   [
+    "lowland rainforest (hot, humid)",
+    [
+     200,
+     726
+    ],
+    "L"
+   ],
+   [
+    "montane forest in valleys",
+    [
+     596,
+     445
+    ],
+    "R"
+   ],
+   [
+    "mist",
+    [
+     437,
+     523
+    ],
+    "L"
+   ],
+   [
+    "montane grassland on plateau top (cool)",
+    [
+     754,
+     123
+    ],
+    "R"
+   ],
+   [
+    "cattle",
+    [
+     549,
+     167
+    ],
+    "R"
+   ],
+   [
+    "cable car",
+    [
+     390,
+     529
+    ],
+    "L"
+   ],
+   [
+    "temperature falls with altitude",
+    [
+     915,
+     218
+    ],
+    "R"
+   ],
+   [
+    "tea (Mambilla Plateau)",
+    [
+     721,
+     828
+    ],
+    "R"
+   ],
+   [
+    "Irish potato (Jos Plateau)",
+    [
+     901,
+     811
+    ],
+    "R"
+   ]
+  ]
+ }
+}

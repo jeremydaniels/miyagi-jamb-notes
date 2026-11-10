@@ -6,5 +6,9 @@
  [
   "A3-02-boyles-law-graphs",
   "Three side-by-side graphs for Boyle's law. Graph 1: Y-axis P, X-axis V. A smooth curve starting high on the y-axis and dropping down toward the x-axis. Graph 2: Y-axis P, X-axis 1/V. A straight line starting exactly from the origin (0,0) and going up diagonally. Graph 3: Y-axis PV, X-axis P. A flat horizontal line showing PV is constant."
+ ],
+ [
+  "A3-03-charless-law-graphs",
+  "Two side-by-side graphs for Charles's law. Graph 1: Y-axis Volume (V), X-axis Temperature (K). A straight diagonal line starting precisely from the origin (0,0). Graph 2: Y-axis Volume (V), X-axis Temperature (°C). A straight diagonal line crossing the y-axis above zero. A dotted line traces it backwards to cross the negative x-axis at a point marked \"-273 °C\"."
  ]
 ]

@@ -181,7 +181,7 @@ JAMB will often present a graph and ask you to identify the law it represents.
 1. **$V$ against Absolute Temperature ($T$ in Kelvin):** A straight line passing through the origin ($0 \text{ K}$). This confirms direct proportionality.
 2. **$V$ against Temperature in Celsius ($^\circ\text{C}$):** A straight line that does *not* pass through the origin $(0^\circ\text{C})$. If extrapolated (traced backwards with a dotted line), it cuts the temperature axis at exactly $-273^\circ\text{C}$ (Absolute Zero).
 
-[IMAGE: Two side-by-side graphs for Charles's law. Graph 1: Y-axis Volume (V), X-axis Temperature (K). A straight diagonal line starting precisely from the origin (0,0). Graph 2: Y-axis Volume (V), X-axis Temperature (°C). A straight diagonal line crossing the y-axis above zero. A dotted line traces it backwards to cross the negative x-axis at a point marked "-273 °C". Clean flat textbook style, white background.]
+![Two graphs illustrating Charles law: volume versus Kelvin temperature passing through origin, and volume versus Celsius temperature extrapolated backward to negative 273 degrees Celsius.](images/A3-03-charless-law-graphs.png)
 
 ### Performing Calculations Involving Gas Laws
 

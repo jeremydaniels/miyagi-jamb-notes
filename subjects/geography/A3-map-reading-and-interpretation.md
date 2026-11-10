@@ -52,7 +52,7 @@ This is the most common trap in exam questions. Both look like V-shapes or U-sha
 | **Valley** | Low land between hills, often containing a river. | V-shaped or U-shaped | Towards **higher** contour values (uphill). |
 | **Spur** | A piece of high land jutting out from a hill into lower ground. | V-shaped or U-shaped | Towards **lower** contour values (downhill). |
 
-[IMAGE: A panel with six common landforms shown as contour patterns. 1. A conical hill (concentric circular contours). 2. A plateau (contours close at the edges, wide empty space in the middle). 3. A ridge (long oval contours). 4. An escarpment (contours close together on one side, far apart on the other). 5. A valley (V-shaped contours pointing towards the higher contour values, with a blue river line in the middle). 6. A spur (V-shaped contours pointing towards the lower contour values). Clean flat textbook illustration, white background, clear contour numbers to show uphill/downhill directions.]
+![A six-panel diagram illustrating contour patterns for six common landforms: conical hill, plateau, ridge, escarpment, valley with a river, and spur with elevation numbers.](images/A3-01-landform-contour-pattern-diagrams.png)
 
 ## Drawing Cross Profiles
 
@@ -108,7 +108,7 @@ To determine intervisibility on a map, draw a straight line (the **line of sight
 
 The points **are intervisible** if they are on a **concave slope**. A concave slope dips inward like a bowl (contours are widely spaced at the bottom and closely spaced at the top), leaving a clear line of sight between the top and bottom.
 
-[IMAGE: Three side-by-side diagrams showing slopes and intervisibility. Left: A concave slope (gentle at the bottom, steep at the top). Two stick figures at the top and bottom with a straight dashed line of sight connecting them uninterrupted. Middle: A convex slope (steep at the bottom, gentle at the top). The dashed line of sight between the top and bottom is blocked by the bulge of the hill. Right: Two peaks with a higher ridge in between, blocking the line of sight. Clean flat textbook illustration, white background.]
+![Three diagrams illustrating intervisibility: a concave slope provides a clear line of sight, while a convex slope and an intervening high ridge block the line of sight.](images/A3-03-slope-intervisibility-diagrams.png)
 
 ## Interpreting Physical Features
 

@@ -46,7 +46,7 @@ Ahab was a powerful king of the Northern Kingdom of Israel (Samaria). His wife w
 6. **The murder:** The elders obeyed out of fear. Naboth was falsely accused, dragged outside the city, and stoned to death along with his sons (to remove any heirs).
 7. **The theft:** Jezebel heard that Naboth was dead and told Ahab to go and take possession of the vineyard. Ahab gladly went down to take the land he had coveted.
 
-[IMAGE: A bedroom scene showing King Ahab lying on his bed, facing the wall, looking sullen and angry. Queen Jezebel, dressed in rich royal robes and heavily made up, stands beside the bed looking confident and scheming, holding a royal scroll. Labels to add later: "King Ahab sulking", "Queen Jezebel plotting". Clean flat textbook style, white background.]
+![King Ahab sits sulking and angry on his bed while Queen Jezebel stands nearby holding a royal scroll with a scheming expression.](images/B1-01-king-ahab-jezebel-plotting.png)
 
 ### Elijah's prophecy against Ahab
 
@@ -94,7 +94,7 @@ Naaman was the commander of the Syrian army. He was a great man, but he suffered
 4. **The theft:** Naaman was generous and insisted Gehazi take **two** talents of silver (a huge sum of money) in two bags, along with two garments. He even sent two servants to carry them for Gehazi.
 5. **The cover-up:** When they got to the hill (the tower) near Elisha's house, Gehazi took the items, sent the Syrian servants away, and hid the wealth secretly in the house.
 
-[IMAGE: A dusty road scene. Gehazi, looking deceitful, is standing beside Naaman's stopped chariot. Naaman, looking grateful and wealthy, is handing heavy bags of silver to two of his servants to carry for Gehazi. Labels to add later: "Gehazi lying for wealth", "Naaman giving two talents of silver", "Servants carrying the bags". Clean flat textbook style, white background.]
+![Naaman stands beside his ornate chariot handing bags of silver to two servants, while Gehazi walks away holding two bags of silver in a dusty landscape.](images/B1-02-gehazi-receiving-silver-from.png)
 
 ### Elisha's judgment
 

@@ -1,0 +1,50 @@
+{
+ "B1-01-king-ahab-jezebel-plotting": {
+  "labels": [
+   [
+    "King Ahab sulking",
+    [
+     498,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Queen Jezebel plotting",
+    [
+     800,
+     390
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B1-02-gehazi-receiving-silver-from": {
+  "labels": [
+   [
+    "Gehazi lying for wealth",
+    [
+     227,
+     658
+    ],
+    "L"
+   ],
+   [
+    "Naaman giving two talents of silver",
+    [
+     531,
+     619
+    ],
+    "R"
+   ],
+   [
+    "Servants carrying the bags",
+    [
+     774,
+     677
+    ],
+    "R"
+   ]
+  ]
+ }
+}

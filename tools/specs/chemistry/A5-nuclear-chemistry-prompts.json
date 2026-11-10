@@ -1,0 +1,18 @@
+[
+ [
+  "A5-01-radiation-penetration-power",
+  "A diagram showing the penetrating power of radiations. On the left, a radioactive source inside a lead box emits three rays pointing right. The thick alpha ray ($\\alpha$) hits and is stopped completely by a white sheet of paper. The beta ray ($\\beta$) easily passes through the paper but is stopped by a grey sheet of aluminium. The wavy gamma ray ($\\gamma$) passes through both the paper and the aluminium, but is finally absorbed by a thick dark grey block of lead."
+ ],
+ [
+  "A5-02-radiation-electric-field-deflection",
+  "A diagram showing the deflection of radiations in an electric field. A radioactive source at the bottom shoots a beam upwards between two vertical metal plates (the left plate is positively charged '+', the right is negatively charged '-'). The heavy $\\alpha$ particle bends slightly towards the negative plate. The light $\\beta$ particle bends sharply towards the positive plate. The wavy $\\gamma$ ray goes straight up without any bending."
+ ],
+ [
+  "A5-03-radioactive-decay-curve-graph",
+  "A graph showing radioactive decay. The vertical axis is 'Amount of radioactive substance remaining' starting at $100\\%$, then marked down at $50\\%$, $25\\%$, $12.5\\%$. The horizontal axis is 'Time' marked in half-lives ($1, 2, 3, 4$). A smooth downward-curving line passes exactly through the points $(0, 100\\%)$, $(1, 50\\%)$, $(2, 25\\%)$, $(3, 12.5\\%)$."
+ ],
+ [
+  "A5-04-nuclear-chain-reaction",
+  "Diagram of a nuclear chain reaction. A single blue sphere (a neutron) strikes a large red atom (Uranium-235), which splits into two medium-sized atoms (Barium and Krypton) and releases three new blue neutrons. These three neutrons fly out and each hit another Uranium atom, causing them to split and release more neutrons, creating a cascading tree-like structure of splitting atoms."
+ ]
+]

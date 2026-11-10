@@ -73,9 +73,9 @@ The JAMB syllabus expects you to know how these radiations respond to barriers a
 | **Ionizing power** | Very high (knocks many electrons off gas molecules). | Moderate. | Very low. |
 | **Deflection in Electric/Magnetic fields** | Deflected towards the **negative** plate (because it is positive). Deflection is slight due to its heavy mass. | Deflected strongly towards the **positive** plate (because it is negative and very light). | **Not deflected** at all (because it has no charge). |
 
-[IMAGE: A diagram showing the penetrating power of radiations. On the left, a radioactive source inside a lead box emits three rays pointing right. The thick alpha ray ($\alpha$) hits and is stopped completely by a white sheet of paper. The beta ray ($\beta$) easily passes through the paper but is stopped by a grey sheet of aluminium. The wavy gamma ray ($\gamma$) passes through both the paper and the aluminium, but is finally absorbed by a thick dark grey block of lead. Clean flat textbook style, white background.]
+![Diagram showing the penetrating power of radiation: alpha particles stopped by paper, beta particles stopped by aluminium, and gamma rays absorbed by a thick lead block.](images/A5-01-radiation-penetration-power.png)
 
-[IMAGE: A diagram showing the deflection of radiations in an electric field. A radioactive source at the bottom shoots a beam upwards between two vertical metal plates (the left plate is positively charged '+', the right is negatively charged '-'). The heavy $\alpha$ particle bends slightly towards the negative plate. The light $\beta$ particle bends sharply towards the positive plate. The wavy $\gamma$ ray goes straight up without any bending. Clean flat textbook style, white background.]
+![Textbook diagram showing alpha, beta, and gamma radiation passing between charged plates; beta deflects sharply toward positive plate, alpha slightly toward negative plate, and gamma passes straight.](images/A5-02-radiation-electric-field-deflection.png)
 
 ### Detection of Radiations
 Because radiation is invisible and odourless, we detect it using special instruments that rely on its ionizing or photographic properties:
@@ -135,7 +135,7 @@ The **half-life ($t_{1/2}$)** of a radioactive element is the time taken for exa
 
 Half-life is a constant property for every radioactive isotope. It cannot be altered by temperature, pressure, or chemical combinations. Some isotopes have a half-life of billions of years (like Uranium-238, $t_{1/2} = 4.5 \times 10^9 \text{ years}$), while others have a half-life of a fraction of a second.
 
-[IMAGE: A graph showing radioactive decay. The vertical axis is 'Amount of radioactive substance remaining' starting at $100\%$, then marked down at $50\%$, $25\%$, $12.5\%$. The horizontal axis is 'Time' marked in half-lives ($1, 2, 3, 4$). A smooth downward-curving line passes exactly through the points $(0, 100\%)$, $(1, 50\%)$, $(2, 25\%)$, $(3, 12.5\%)$. Clean flat textbook style, white background.]
+![A radioactive decay curve plotting percentage of remaining substance against time in half-lives, highlighting values at zero, one, two, and three half-lives.](images/A5-03-radioactive-decay-curve-graph.png)
 
 ### Formulas for Half-life
 $N_t$: Amount of radioactive substance remaining at time $t$ (can be in $\text{g}$, $\text{mol}$, or percentage).
@@ -250,7 +250,7 @@ Notice that $1$ neutron starts the reaction, but $3$ neutrons are released at th
 - If the chain reaction is **controlled** (by absorbing excess neutrons using boron or cadmium rods), it is used to generate steady electricity in a **nuclear power plant**.
 - If the chain reaction is **uncontrolled**, it leads to a massive, instantaneous explosion—an **atomic bomb**. The minimum amount of fissile material needed to sustain this uncontrolled chain reaction is called the **critical mass**.
 
-[IMAGE: Diagram of a nuclear chain reaction. A single blue sphere (a neutron) strikes a large red atom (Uranium-235), which splits into two medium-sized atoms (Barium and Krypton) and releases three new blue neutrons. These three neutrons fly out and each hit another Uranium atom, causing them to split and release more neutrons, creating a cascading tree-like structure of splitting atoms. Clean flat textbook style, white background.]
+![Diagram of a nuclear chain reaction showing an incident neutron splitting Uranium-235 into Barium, Krypton, and three neutrons, which trigger further Uranium-235 fission events.](images/A5-04-nuclear-chain-reaction.png)
 
 ### 2. Nuclear Fusion
 **Nuclear fusion** is the exact opposite of fission. It is the combining of two light nuclei to form a heavier, more stable nucleus, releasing an even greater amount of energy per gram of fuel than fission.

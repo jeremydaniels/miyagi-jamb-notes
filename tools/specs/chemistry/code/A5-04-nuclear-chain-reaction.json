@@ -1,0 +1,135 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Nuclear Chain Reaction",
+ "nodes": [
+  {
+   "id": "n0",
+   "text": "Neutron",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "u1",
+   "text": "Uranium-235",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "ba1",
+   "text": "Barium",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "kr1",
+   "text": "Krypton",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "n1",
+   "text": "Neutron",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "n2",
+   "text": "Neutron",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "n3",
+   "text": "Neutron",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "u2a",
+   "text": "Uranium-235",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "u2b",
+   "text": "Uranium-235",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "u2c",
+   "text": "Uranium-235",
+   "shape": "round",
+   "color": "red"
+  },
+  {
+   "id": "split_a",
+   "text": "Fission & Neutrons",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "split_b",
+   "text": "Fission & Neutrons",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "split_c",
+   "text": "Fission & Neutrons",
+   "shape": "box",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "n0",
+   "to": "u1"
+  },
+  {
+   "from": "u1",
+   "to": "ba1"
+  },
+  {
+   "from": "u1",
+   "to": "kr1"
+  },
+  {
+   "from": "u1",
+   "to": "n1"
+  },
+  {
+   "from": "u1",
+   "to": "n2"
+  },
+  {
+   "from": "u1",
+   "to": "n3"
+  },
+  {
+   "from": "n1",
+   "to": "u2a"
+  },
+  {
+   "from": "n2",
+   "to": "u2b"
+  },
+  {
+   "from": "n3",
+   "to": "u2c"
+  },
+  {
+   "from": "u2a",
+   "to": "split_a"
+  },
+  {
+   "from": "u2b",
+   "to": "split_b"
+  },
+  {
+   "from": "u2c",
+   "to": "split_c"
+  }
+ ]
+}

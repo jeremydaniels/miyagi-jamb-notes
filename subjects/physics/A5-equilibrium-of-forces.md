@@ -36,7 +36,7 @@ If a force $F$ acts at an angle $\theta$ to the horizontal axis:
 
 This process is incredibly useful in physics because perpendicular components do not affect each other. You can solve complex problems by looking at all the horizontal forces completely separately from the vertical forces.
 
-[IMAGE: A clean flat textbook illustration of a rectangular box on a horizontal floor. A dotted line shows the horizontal x-axis, and a dotted line shows the vertical y-axis. A solid arrow labeled "F = 50 N" pulls upwards and to the right at an angle of 30 degrees to the horizontal. Red dashed arrows show the resolved components: "F_x = F cos 30°" along the x-axis, and "F_y = F sin 30°" along the y-axis. White background.]
+![Diagram showing a force of 50 newtons pulling a box at 30 degrees to the horizontal, resolved into horizontal and vertical components along x and y axes.](images/A5-01-resolved-force-vector-components.png)
 
 ### Worked Example 1: Resolving a force
 A boy pulls a heavy generator across the floor using a rope. The tension in the rope is $50\ \text{N}$ and it is inclined at an angle of $30^\circ$ to the horizontal. Calculate the horizontal and vertical components of the pull.
@@ -114,7 +114,7 @@ If three coplanar forces acting on a particle are in equilibrium, they can be re
 **Polygon of Forces:**
 This is simply the extension of the triangle of forces for more than three forces. If a particle is in equilibrium under the action of four or more coplanar forces, the vectors representing these forces, when drawn head-to-tail, will form a closed polygon.
 
-[IMAGE: Two side-by-side diagrams. Left: "Triangle of Forces" showing three vectors (F1, F2, F3) forming a closed triangle with arrows going continuously head-to-tail. Right: "Polygon of Forces" showing five vectors (F1 to F5) forming a closed irregular pentagon, arrows continuous head-to-tail. White background.]
+![Two diagrams illustrating the triangle and polygon of forces, showing three and five vector forces forming closed geometric shapes with continuous head-to-tail arrows.](images/A5-02-triangle-polygon-forces.png)
 
 ### Lami's theorem
 
@@ -127,7 +127,7 @@ Lami's Theorem is a powerful mathematical shortcut for solving problems involvin
 If forces $F_1$, $F_2$, and $F_3$ are in equilibrium, and the angle opposite $F_1$ is $\alpha$, the angle opposite $F_2$ is $\beta$, and the angle opposite $F_3$ is $\gamma$, then:
 $$\frac{F_1}{\sin \alpha} = \frac{F_2}{\sin \beta} = \frac{F_3}{\sin \gamma}$$
 
-[IMAGE: A clean textbook diagram illustrating Lami's theorem. Three force vectors originate from a central point and point outwards. The forces are labeled F_1, F_2, and F_3. The angle between F_2 and F_3 is labeled alpha (α), the angle between F_1 and F_3 is labeled beta (β), and the angle between F_1 and F_2 is labeled gamma (γ). White background.]
+![Textbook diagram of Lamis theorem showing three concurrent forces F1, F2, and F3 with opposite angles alpha, beta, and gamma, and the corresponding formula.](images/A5-03-lamis-theorem-vector.png)
 
 ### Worked Example 3: Using Lami's theorem
 A load of $100\ \text{N}$ hangs from a ceiling via a string. It is pulled aside by a horizontal force $H$ such that the supporting string makes an angle of $60^\circ$ with the vertical. Calculate the tension in the string $T$ and the horizontal force $H$.
@@ -288,7 +288,7 @@ There are three states of equilibrium, which describe what happens to an object 
    * **Why?** The height of the centre of gravity remains exactly the same as it moves.
    * **Example:** A cone lying horizontally on its curved side, or a perfectly round ball on a flat table.
 
-[IMAGE: Three identical cones demonstrating states of equilibrium. Left: "Stable equilibrium" - the cone sits firmly on its flat circular base. Middle: "Unstable equilibrium" - the cone is balanced precariously upside down on its sharp tip. Right: "Neutral equilibrium" - the cone lies horizontally on its curved side. White background.]
+![Three cones illustrating states of equilibrium: stable resting on its flat base, unstable balanced on its tip, and neutral resting on its side, with centres of gravity marked.](images/A5-05-states-equilibrium-cones.png)
 
 ---
 

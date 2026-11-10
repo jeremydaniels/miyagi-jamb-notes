@@ -1,0 +1,18 @@
+[
+ [
+  "A5-01-resolved-force-vector-components",
+  "A clean flat textbook illustration of a rectangular box on a horizontal floor. A dotted line shows the horizontal x-axis, and a dotted line shows the vertical y-axis. A solid arrow pulls upwards and to the right at an angle of 30 degrees to the horizontal. Red dashed arrows show the resolved components: \"F_x = F cos 30°\" along the x-axis, and \"F_y = F sin 30°\" along the y-axis. White background."
+ ],
+ [
+  "A5-02-triangle-polygon-forces",
+  "Two side-by-side diagrams. Left: \"Triangle of Forces\" showing three vectors (F1, F2, F3) forming a closed triangle with arrows going continuously head-to-tail. Right: \"Polygon of Forces\" showing five vectors (F1 to F5) forming a closed irregular pentagon, arrows continuous head-to-tail. White background."
+ ],
+ [
+  "A5-03-lamis-theorem-vector",
+  "A clean textbook diagram illustrating Lami's theorem. Three force vectors originate from a central point and point outwards. The forces are labeled F_1, F_2, and F_3. The angle between F_2 and F_3 is labeled alpha (α), the angle between F_1 and F_3 is labeled beta (β), and the angle between F_1 and F_2 is labeled gamma (γ). White background."
+ ],
+ [
+  "A5-05-states-equilibrium-cones",
+  "Three identical cones demonstrating states of equilibrium. Left: \"Stable equilibrium\" - the cone sits firmly on its flat circular base. Middle: \"Unstable equilibrium\" - the cone is balanced precariously upside down on its sharp tip. Right: \"Neutral equilibrium\" - the cone lies horizontally on its curved side. White background."
+ ]
+]

@@ -120,7 +120,7 @@ Formulated by Jeremias Richter in 1792, this law states that **the masses of two
 - **Multiple Proportions:** Involves **two** elements forming **two or more** compounds (e.g., $\text{SO}_2$ and $\text{SO}_3$).
 - **Reciprocal Proportions:** Involves **three** elements forming **three** compounds (e.g., $\text{H}_2\text{S}$, $\text{H}_2\text{O}$, $\text{SO}_2$).
 
-![Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H2S, SO2, and H2O alongside reacting mass ratios.](images/A2-03-reciprocal-proportions-triangle.png)
+![Triangle diagram of the Law of Reciprocal Proportions linking sulfur, hydrogen, and oxygen with compounds H₂S, SO₂, and H₂O alongside reacting mass ratios.](images/A2-03-reciprocal-proportions-triangle.png)
 
 ## Relative atomic mass based on $^{12}\text{C}=12$
 

@@ -26,7 +26,7 @@ To study how waves behave in two dimensions, physicists often use a **ripple tan
 - **Phase change on reflection:** If a transverse wave travelling along a string hits a **rigid, fixed boundary** (like a string tied tightly to a wall), it reflects with a phase change of $\pi$ radians ($180^\circ$). This means a crest reflects back inverted as a trough. If the boundary is **loose or free to move** (like a ring on a pole), it reflects with no phase change (a crest returns as a crest).
 - **In a ripple tank:** Straight (plane) water waves hitting a flat metal barrier bounce off as straight waves at the same angle to the normal.
 
-[IMAGE: A ripple tank diagram showing wave reflection. Straight, parallel wave lines approach a diagonal flat barrier. A solid arrow shows the direction of the incident wave, and another shows the reflected wave bouncing off. A dashed 'normal' line is drawn perpendicular to the barrier, with the angle of incidence 'i' and angle of reflection 'r' clearly marked and visually equal. Clean flat textbook style, white background.]
+![Diagram illustrating wave reflection at an inclined barrier, showing incident and reflected wave fronts, rays, the perpendicular normal line, and angles of incidence and reflection.](images/A20b-01-wave-reflection-ray.png)
 
 #### 2. Refraction
 **Refraction** is the change in the speed and direction of a wave as it moves from one medium into another of a different density or depth.

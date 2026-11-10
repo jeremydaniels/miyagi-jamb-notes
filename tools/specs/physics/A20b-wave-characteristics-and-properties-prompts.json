@@ -14,5 +14,9 @@
  [
   "A20b-05-two-point-source-wave",
   "An interference pattern in a ripple tank generated from two point sources. Two small circular dippers are generating overlapping expanding circular waves. Distinct solid lines (antinodes where constructive interference occurs) and blurry calm lines (nodes where destructive interference occurs) radiate outwards from the sources in a symmetrical pattern."
+ ],
+ [
+  "A20b-01-wave-reflection-ray",
+  "A clean 2D textbook diagram of wave reflection on a white background. At the bottom, draw a thick diagonal line labeled \"Barrier\". \n\nA central dashed line labeled \"Normal\" stands perpendicular to the barrier, pointing upward. \n\nFrom the upper-left, draw three widely spaced, parallel straight lines for incoming waves. A single solid arrow crosses them toward the barrier's center, labeled \"Incident wave\". The angle between this arrow and the normal has a small, neat arc labeled \"i\".\n\nReflecting toward the upper-right, draw a solid arrow pointing away, labeled \"Reflected wave\", crossing three widely spaced reflected wave lines. The equal angle between this arrow and the normal has an arc labeled \"r\". \n\nKeep all text labels completely clear of the wave lines, rays, and arcs."
  ]
 ]

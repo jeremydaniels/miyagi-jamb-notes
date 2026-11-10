@@ -24,7 +24,7 @@ Before the invention of money, people exchanged goods they had for the goods the
 
 For example, a farmer in Benue State who had harvested plenty of yams but needed a clay pot for cooking would have to find a potter who had a pot and wanted yams. They would then agree on how many yams equalled one pot and make the exchange.
 
-[IMAGE: A colourful illustration of trade by barter in an ancient village setting. On the left, a farmer is holding out a large tuber of yam. On the right, a potter is holding out a beautifully decorated clay pot. Both are smiling and gesturing towards each other's items. Labels to add later: "Trade by barter", "Farmer offering yam", "Potter offering clay pot". Clean flat textbook style, white background.]
+![An illustration of trade by barter showing a farmer offering a large yam tuber while a potter offers a decorated clay pot in a village setting.](images/A10-01-trade-barter.png)
 
 ### Problems of trade by barter
 
@@ -45,7 +45,7 @@ To solve the problems of barter, people began to agree on a single, generally ac
 3. **Paper money:** Carrying heavy bags of gold coins was risky and tiring. People began keeping their gold with trusted goldsmiths for safety. The goldsmiths issued **paper receipts** for the gold. Soon, people realized it was easier to simply hand over the paper receipt to pay for things, rather than going to fetch the gold. These receipts became the first paper money.
 4. **Modern fiat money:** Today, the paper money and coins we use (like the Naira notes issued by the Central Bank of Nigeria) are not backed by physical gold. They have value purely because the government says they are legal tender and because everyone accepts them. This is called **fiat money**.
 
-[IMAGE: A timeline showing the evolution of money in four stages from left to right. 1: A handful of white cowrie shells and a bronze manilla. 2: A small pile of shiny gold and silver coins. 3: An old-fashioned paper goldsmith's receipt with cursive writing. 4: A modern ₦1,000 note and an ATM card. Labels to add later: "1. Commodity money (Cowries, Manillas)", "2. Metallic money (Coins)", "3. Early paper money (Goldsmiths' receipts)", "4. Modern fiat and electronic money". Clean flat textbook style, white background.]
+![A four-stage timeline showing the evolution of money from commodity money and metallic coins to early paper receipts and modern electronic and fiat currency.](images/A10-02-evolution-money-timeline.png)
 
 ## Forms and qualities of money
 

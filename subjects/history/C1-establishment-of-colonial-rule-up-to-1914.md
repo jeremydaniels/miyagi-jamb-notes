@@ -90,7 +90,7 @@ The defeat of a British force by poorly armed villagers shocked Frederick Lugard
 - In March 1906, Lugard sent a heavily armed WAFF column to Satiru. The British response was ruthless. The village was completely destroyed, and hundreds of men, women, and children were killed. 
 - Dan Makafo was captured, tried, and publicly executed in Sokoto. Lugard ordered that the village of Satiru be erased from the map and the land cursed so that no one would ever settle there again.
 
-[IMAGE: Map of the Nigeria area around 1906, clearly showing the boundary dividing the Northern Nigeria Protectorate and the Southern Nigeria Protectorate. In the west of the Southern Protectorate (near the River Niger), highlight an area labelled "Asaba Hinterland - Ekumeku Resistance (1898-1911)". In the north-west of the Northern Protectorate (near Sokoto), mark a spot labelled "Satiru Uprising (1906)". Clean flat textbook illustration, white background, clear borders.]
+![Sketch map of Nigeria around 1906 showing the Northern and Southern Nigeria protectorates, the dashed boundary between them, the Niger and Benue rivers, the Satiru uprising and the Asaba hinterland resistance.](images/C1-01-map-nigeria-protectorates.png)
 
 ## Examine the administrative set-up of the Protectorates
 

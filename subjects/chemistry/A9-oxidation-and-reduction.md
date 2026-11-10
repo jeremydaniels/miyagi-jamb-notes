@@ -64,7 +64,7 @@ The most universal way to define redox reactions—especially for reactions that
 
 A popular and helpful memory aid for this is the mnemonic **OILRIG**: **O**xidation **I**s **L**oss, **R**eduction **I**s **G**ain.
 
-[IMAGE: A conceptual diagram illustrating the OILRIG mnemonic. On the left side, a blue circle labelled 'Atom A' with an arrow pointing outward, tossing a small yellow sphere labelled 'e⁻' (electron) to the right. Text above reads "Oxidation Is Loss (OIL)". On the right side, a red circle labelled 'Atom B' catching the 'e⁻'. Text above reads "Reduction Is Gain (RIG)". Clean flat textbook illustration style, white background.]
+![A diagram demonstrating OILRIG where Atom A loses an electron during oxidation and transfers it to Atom B during reduction.](images/A9-01-redox-electron-transfer.png)
 
 For example, when sodium reacts with chlorine to form table salt:
 $$2\text{Na(s)} + \text{Cl}_2\text{(g)} \rightarrow 2\text{NaCl(s)}$$
@@ -207,7 +207,7 @@ In practical chemistry, you can identify unknown gases or solutions by observing
 | **Iron(II) chloride ($\text{FeCl}_2$)** (pale green solution) | **Oxidizing agents** | **Pale green to yellow-brown** | Pale green $\text{Fe}^{2+}$ is oxidized to yellow-brown $\text{Fe}^{3+}$ |
 | **Hydrogen sulphide ($\text{H}_2\text{S}$)** gas | **Oxidizing agents** | **Deposits a yellow solid** | $\text{H}_2\text{S}$ is oxidized to free yellow sulphur ($\text{S}$) |
 
-[IMAGE: A laboratory setup for testing a reducing agent. A test tube held securely by a clamp contains a colourless solution of sulphur(IV) oxide in water (a reducing agent). Above it, a dropping pipette is adding drops of a purple acidified potassium tetraoxomanganate(VII) solution. An arrow points from the purple drops falling into the colourless solution with a text label reading: "Purple KMnO4 turns colourless as it is reduced by the reducing agent". Clean flat textbook illustration style, white background.]
+![A dropper dispensing purple potassium permanganate solution into a clamped test tube containing a clear liquid solution.](images/A9-02-reducing-agent-titration-experiment.png)
 
 ## Apply oxidation number in naming inorganic compounds
 

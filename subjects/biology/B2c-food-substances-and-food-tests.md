@@ -636,7 +636,7 @@ A **deficiency disease** is a disease caused by the lack of a particular nutrien
 
 **Textbook variation:** some textbooks describe marasmus simply as "lack of carbohydrate", and kwashiorkor as "lack of protein". Modern books treat both as forms of **protein-energy malnutrition**, with marasmus caused by a severe lack of energy and protein together. A child can also have features of both (**marasmic kwashiorkor**).
 
-[IMAGE: Side-by-side medical illustration of two young African children, drawn respectfully in a simple non-photographic style. Left child with kwashiorkor: swollen belly, swollen feet and lower legs, round swollen face, thin pale reddish hair, patches of peeling skin on the legs, sad expression. Right child with marasmus: extremely thin with visible ribs, very thin arms and legs, loose wrinkled skin, large-looking head with an old-looking face, no swelling. Labels: kwashiorkor, oedema of feet, swollen belly, moon face, pale thin hair, flaky skin patches; marasmus, visible ribs, wasted muscles, wrinkled skin, old-looking face, no oedema. Clean flat textbook style, white background.]
+![Comparison of two malnourished children illustrating the clinical features of kwashiorkor with edema and skin changes, alongside marasmus with severe muscle wasting and prominent ribs.](images/B2c-07-kwashiorkor-marasmus.png)
 
 ### Scurvy
 

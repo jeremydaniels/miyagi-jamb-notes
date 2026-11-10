@@ -642,5 +642,82 @@
     "R"
    ]
   ]
+ },
+ "B2c-07-kwashiorkor-marasmus": {
+  "caption_below": "No oedema.",
+  "labels": [
+   [
+    "kwashiorkor",
+    [
+     272,
+     356
+    ],
+    "L"
+   ],
+   [
+    "oedema of feet",
+    [
+     198,
+     944
+    ],
+    "L"
+   ],
+   [
+    "swollen belly",
+    [
+     269,
+     527
+    ],
+    "L"
+   ],
+   [
+    "moon face",
+    [
+     274,
+     223
+    ],
+    "L"
+   ],
+   [
+    "pale thin hair",
+    [
+     272,
+     110
+    ],
+    "L"
+   ],
+   [
+    "visible ribs",
+    [
+     768,
+     412
+    ],
+    "R"
+   ],
+   [
+    "wasted muscles",
+    [
+     663,
+     498
+    ],
+    "R"
+   ],
+   [
+    "wrinkled skin",
+    [
+     772,
+     153
+    ],
+    "R"
+   ],
+   [
+    "old-looking face",
+    [
+     768,
+     208
+    ],
+    "R"
+   ]
+  ]
  }
 }

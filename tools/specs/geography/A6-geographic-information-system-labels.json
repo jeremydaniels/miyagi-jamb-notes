@@ -1,0 +1,46 @@
+{
+ "A6-03-gis-map-scanning-digitizing": {
+  "labels": [
+   [
+    "Map Scanning",
+    [
+     200,
+     336
+    ],
+    "L"
+   ],
+   [
+    "Raster image output",
+    [
+     397,
+     223
+    ],
+    "L"
+   ],
+   [
+    "Map Digitizing",
+    [
+     696,
+     619
+    ],
+    "R"
+   ],
+   [
+    "Digitizing tablet and puck",
+    [
+     794,
+     564
+    ],
+    "R"
+   ],
+   [
+    "Vector line output",
+    [
+     620,
+     278
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -43,14 +43,14 @@ Every feature in a GIS has two types of data attached to it:
 **The Layer Concept (Thematic Layers)**
 A GIS stores different types of information in separate layers (themes). For example, there might be one layer for roads, one for rivers, one for vegetation, and one for buildings. These layers can be stacked on top of one another on the computer screen. This allows users to analyze how different features relate to each other (for instance, checking if buildings are located too close to rivers).
 
-[IMAGE: A 3D diagram showing the concept of GIS layers. At the bottom, a flat, real-world satellite image of a landscape. Above it, several transparent square layers hover, stacked one on top of the other, pulled apart vertically so each is visible. The bottom layer shows blue polygons representing lakes and rivers (Water). The next layer up shows green polygons for forests (Vegetation). The next shows red and grey blocks for houses and buildings (Structures). The top layer shows grey lines for roads (Transportation). A vertical dashed line passes through all layers to show how they align perfectly over the same geographic location. Clean flat textbook style, white background.]
+![A stacked 3D diagram illustrating GIS layers, showing transportation, structures, vegetation, and water separated vertically above an integrated real-world landscape with a vertical dashed alignment line.](images/A6-01-gis-layer-stack.png)
 
 **Data Models (How the computer draws features)**
 GIS software represents the real world using two main data models:
 - **Vector data model:** This uses precise geometry to represent features. It uses **points** (e.g., a single borehole or tree), **lines** (e.g., a road or river), and **polygons/areas** (e.g., a lake or a state boundary). It is excellent for showing distinct boundaries.
 - **Raster data model:** This represents the world using a grid of square cells, called **pixels** (similar to a digital photograph). Each cell contains a value representing information, such as temperature, elevation, or land cover. It is best for continuous data that has no sharp boundaries, like a satellite image or rainfall map.
 
-[IMAGE: A split diagram comparing raster and vector data models. On the left (Raster), a house, a river, and a tree are represented by a grid of small coloured squares (pixels). The curves are jagged because they are made of blocks. On the right (Vector), the same house is drawn with sharp geometric lines and points (polygons), the river is a smooth curving line, and the tree is a precise point. Labels to add later: "Raster Data Model (Grid of pixels)", "Vector Data Model (Points, lines, polygons)". Clean flat textbook style, white background.]
+![A comparison showing a raster data model composed of a pixel grid versus a vector data model representing features using points, lines, and polygons.](images/A6-02-raster-versus-vector-comparison.png)
 
 ### 2. The Five Components of GIS
 
@@ -119,7 +119,7 @@ Map digitizing is the process of converting features from a physical paper map i
 | **Speed** | Very fast | Slow and labour-intensive |
 | **Computer Understanding** | The computer sees a single picture; it cannot distinguish a road from a river | The computer recognizes distinct features; a road can be selected and edited |
 
-[IMAGE: Two-panel illustration of GIS data capture. Left panel (Map Scanning): a physical paper map of a coastline is sliding through a wide, flat electronic scanner, coming out on a computer screen as a single flat image file. Right panel (Map Digitizing): a person's hand holds a mouse-like device with a crosshair (a puck) and traces the outline of a river on a paper map attached to a large flat electronic board (digitizing tablet). On the connected computer screen, a sharp red vector line appears exactly matching the traced river. Labels to add later: "Map Scanning", "Raster image output", "Map Digitizing", "Digitizing tablet and puck", "Vector line output". Clean flat textbook style, white background.]
+![A two-panel diagram comparing GIS data capture methods: map scanning producing a raster image on a monitor, and manual digitizing using a digitizing tablet and puck producing vector line data.](images/A6-03-gis-map-scanning-digitizing.png)
 
 ## Applications and areas of use of GIS
 

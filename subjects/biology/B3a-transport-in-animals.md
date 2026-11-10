@@ -105,7 +105,7 @@ When the side doubles from 1 cm to 2 cm, the surface area increases 4 times but 
 3. Gases enter and leave plants mainly by **diffusion** through stomata, lenticels and air spaces, not through the vascular system.
 4. Plants have no heart: water is pulled up by transpiration, and food moves in the phloem (see B3b).
 
-[IMAGE: Three cubes of increasing size side by side (1 cm, 2 cm and 4 cm), drawn in 3D with the faces lightly shaded in soft blue, the smallest cube on the left. Under each cube, a small blank panel for its numbers. Beside them, a simple sketch of a tiny round Amoeba with short arrows showing oxygen diffusing in all round its surface, and a larger blob-shaped animal where arrows from the surface stop short of the deep centre cells. Labels to add: "1 cm cube", "2 cm cube", "4 cm cube", "SA:V 6:1", "SA:V 3:1", "SA:V 1.5:1", "Amoeba: diffusion reaches all parts", "Large organism: diffusion too slow to reach inner cells". Clean flat textbook style, white background.]
+![Diagram comparing surface area to volume ratios of three cubes with oxygen diffusion in a single-celled amoeba versus a larger multicellular organism.](images/B3a-01-surface-area-volume-cubes.png)
 
 ### Experiment: surface area to volume ratio and diffusion (agar cubes)
 
@@ -325,7 +325,7 @@ The tricuspid and bicuspid valves are called **atrioventricular valves**. Their 
 
 ![Diagram of a longitudinal section of the mammalian heart showing the four chambers, valves, septum, major vessels, and direction of blood flow.](images/B3a-05-mammalian-heart-internal-section.png)
 
-[IMAGE: External front view of the human heart showing its shape, the coronary arteries branching over the surface of the ventricles, and the great vessels at the top. Soft red and pink tones for the muscle, red for arteries and blue for veins. Labels to add: "aorta", "pulmonary artery", "superior vena cava", "right atrium", "left atrium", "right ventricle", "left ventricle", "coronary artery", "coronary vein". Clean flat textbook style, white background.]
+![Anatomical illustration showing an external anterior view of the human heart, depicting the atria, ventricles, coronary blood vessels, and the great vessels.](images/B3a-06-human-heart-external-anatomy.png)
 
 #### The cardiac cycle (heartbeat)
 
@@ -344,7 +344,7 @@ The **cardiac cycle** is the sequence of events in one heartbeat. Contraction of
 
 The two heart sounds ("lub-dub") can be heard with a **stethoscope**. A doctor who hears an extra "whooshing" sound (a **murmur**) may suspect a leaking or narrowed valve.
 
-[IMAGE: Three-panel diagram of the cardiac cycle, each panel showing a simple section of the heart. Panel 1: whole heart relaxed, blood (blue on right, red on left) flowing into the atria and on into the ventricles, atrioventricular valves open, semilunar valves closed. Panel 2: atria contracting (drawn slightly smaller), arrows pushing blood into the ventricles. Panel 3: ventricles contracting, atrioventricular valves closed, semilunar valves open, arrows showing blood leaving through the pulmonary artery and aorta. Labels to add: "1. diastole", "2. atrial systole", "3. ventricular systole", "atrioventricular valves open", "atrioventricular valves closed (lub)", "semilunar valves closed", "semilunar valves open", "blood to lungs", "blood to body". Clean flat textbook style, white background.]
+![Three-panel diagram of the cardiac cycle showing diastole, atrial systole, and ventricular systole, illustrating blood flow and the states of atrioventricular and semilunar valves.](images/B3a-07-cardiac-cycle-stages.png)
 
 #### How the heartbeat is controlled
 
@@ -406,7 +406,7 @@ This is why soldiers standing still on parade for a long time sometimes faint: w
 
 **A simple demonstration of valves in veins:** let your arm hang down until the veins on the back of your hand or forearm stand out. Press a finger on a vein and stroke another finger along it, away from the heart, to empty a short section. The section stays empty until you lift the first finger; blood cannot flow back into it because of a valve. This experiment was first described by **William Harvey** in 1628, who showed that blood circulates.
 
-[IMAGE: Diagram of a valve in a vein shown in longitudinal section in two panels. Left panel: blood flowing towards the heart pushes the pocket valve open. Right panel: blood trying to flow backwards fills the pockets and closes the valve. Beside it, a leg vein between two contracting skeletal muscles with arrows showing the muscle squeezing blood upwards. Blue blood. Labels to add: "valve open", "valve closed", "blood flowing towards the heart", "backflow prevented", "skeletal muscle contracting", "vein". Clean flat textbook style, white background.]
+![Diagram showing vein valves opening during forward blood flow, closing to prevent backflow, and skeletal muscles contracting beside a vein to squeeze blood upwards.](images/B3a-08-vein-valve-mechanism.png)
 
 #### Capillaries
 
@@ -746,7 +746,7 @@ fibrinogen → (thrombin) → fibrin (mesh that traps blood cells to form a clot
 
 **Health links:** **haemophilia** is an inherited disorder in which a clotting factor is missing, so the blood takes a very long time to clot; even small cuts can bleed dangerously. A clot that forms inside a blood vessel (a **thrombus**) can block it, causing a heart attack (in a coronary artery) or a stroke (in the brain).
 
-[IMAGE: Flow diagram of blood clotting. Top: a cut in a small blood vessel with red blood cells and platelets escaping, and platelets sticking to the damaged edges. Middle: a simple arrow chain with boxes: damaged tissue and platelets release thromboplastin; prothrombin changes to thrombin (with calcium ions and vitamin K shown as small helper icons); fibrinogen changes to fibrin. Bottom: a close-up of a mesh of fibrin threads with red blood cells trapped in it, forming a clot. Labels to add: "damaged blood vessel", "platelets", "thromboplastin", "prothrombin", "thrombin", "calcium ions", "fibrinogen (soluble)", "fibrin threads (insoluble)", "trapped red blood cells", "clot". Clean flat textbook style, white background.]
+![Diagram of blood clotting cascade showing vessel injury with platelet plug formation, chemical cascade converting prothrombin to thrombin and fibrinogen to fibrin, and resulting fibrin mesh trapping red blood cells.](images/B3a-14-blood-clotting-cascade-flowchart.png)
 
 ### The blood cells compared
 
@@ -762,7 +762,7 @@ fibrinogen → (thrombin) → fibrin (mesh that traps blood cells to form a clot
 | Where made | Red bone marrow | Bone marrow; lymph nodes, thymus, spleen (lymphocytes) | Red bone marrow (from megakaryocytes) |
 | Function | Carry oxygen (and help carry CO₂) | Defend the body (phagocytosis, antibodies) | Blood clotting |
 
-[IMAGE: Blood smear as seen under a light microscope: many pale red biconcave red blood cells (some shown side-on to reveal the dumbbell profile), with one example of each white cell type stained purple: a neutrophil with a lobed nucleus, a lymphocyte with a large round nucleus, a monocyte with a kidney-shaped nucleus, an eosinophil with a two-lobed nucleus and pink granules, a basophil with dark granules, and a few small platelets. Labels to add: "red blood cell (no nucleus)", "side view of red blood cell", "neutrophil", "lymphocyte", "monocyte", "eosinophil", "basophil", "platelets". Clean flat textbook style, white background.]
+![Diagram of a blood smear showing red blood cells, side-on red blood cells, platelets, and five white blood cell types including neutrophil, lymphocyte, monocyte, eosinophil, and basophil.](images/B3a-15-blood-smear-cellular-composition.png)
 
 ### Functions of blood: summary
 
@@ -822,7 +822,7 @@ The **lymphatic system** is made up of:
 3. **Valves** stop it flowing backwards.
 4. New tissue fluid constantly entering the lymph capillaries pushes the lymph along.
 
-[IMAGE: Outline of the human body in front view showing the lymphatic system in pale green: a network of lymph vessels throughout the arms, legs and trunk, clusters of bean-shaped lymph nodes in the neck, armpits and groin, the thoracic duct running up the middle of the chest and emptying into the left subclavian vein near the heart, the right lymphatic duct, and the spleen, thymus and tonsils. An inset box shows a close-up of a lymph node with lymph vessels entering and leaving and valves inside a lymph vessel. Labels to add: "tonsils", "lymph nodes of neck", "thymus", "thoracic duct", "right lymphatic duct", "left subclavian vein", "lymph nodes of armpit", "spleen", "lacteals of small intestine", "lymph nodes of groin", "lymph vessel", "valve", "lymph node". Clean flat textbook style, white background.]
+![Diagram showing the human lymphatic system with lymph vessels, nodes, spleen, thymus, tonsils, and an inset of a lymph node and lymphatic valve.](images/B3a-16-human-lymphatic-system-anatomy.png)
 
 ### Functions of the lymphatic system and lymph
 

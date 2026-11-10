@@ -122,5 +122,309 @@
     "L"
    ]
   ]
+ },
+ "B3a-06-human-heart-external-anatomy": {
+  "labels": [
+   [
+    "aorta",
+    [
+     476,
+     286
+    ],
+    "L"
+   ],
+   [
+    "pulmonary artery",
+    [
+     568,
+     353
+    ],
+    "R"
+   ],
+   [
+    "superior vena cava",
+    [
+     373,
+     235
+    ],
+    "L"
+   ],
+   [
+    "right atrium",
+    [
+     348,
+     486
+    ],
+    "L"
+   ],
+   [
+    "left atrium",
+    [
+     655,
+     445
+    ],
+    "R"
+   ],
+   [
+    "right ventricle",
+    [
+     486,
+     634
+    ],
+    "L"
+   ],
+   [
+    "left ventricle",
+    [
+     716,
+     665
+    ],
+    "R"
+   ],
+   [
+    "coronary artery",
+    [
+     626,
+     588
+    ],
+    "R"
+   ],
+   [
+    "coronary vein",
+    [
+     620,
+     686
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-08-vein-valve-mechanism": {
+  "labels": [
+   [
+    "valve open",
+    [
+     150,
+     454
+    ],
+    "L"
+   ],
+   [
+    "valve closed",
+    [
+     483,
+     473
+    ],
+    "L"
+   ],
+   [
+    "blood flowing towards the heart",
+    [
+     186,
+     194
+    ],
+    "L"
+   ],
+   [
+    "backflow prevented",
+    [
+     538,
+     450
+    ],
+    "R"
+   ],
+   [
+    "skeletal muscle contracting",
+    [
+     711,
+     421
+    ],
+    "R"
+   ],
+   [
+    "vein",
+    [
+     811,
+     870
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-15-blood-smear-cellular-composition": {
+  "labels": [
+   [
+    "red blood cell (no nucleus)",
+    [
+     573,
+     129
+    ],
+    "R"
+   ],
+   [
+    "side view of red blood cell",
+    [
+     612,
+     276
+    ],
+    "R"
+   ],
+   [
+    "neutrophil",
+    [
+     307,
+     286
+    ],
+    "L"
+   ],
+   [
+    "lymphocyte",
+    [
+     742,
+     281
+    ],
+    "R"
+   ],
+   [
+    "monocyte",
+    [
+     522,
+     512
+    ],
+    "R"
+   ],
+   [
+    "eosinophil",
+    [
+     286,
+     727
+    ],
+    "L"
+   ],
+   [
+    "basophil",
+    [
+     742,
+     737
+    ],
+    "R"
+   ],
+   [
+    "platelets",
+    [
+     792,
+     512
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-16-human-lymphatic-system-anatomy": {
+  "labels": [
+   [
+    "tonsils",
+    [
+     286,
+     191
+    ],
+    "L"
+   ],
+   [
+    "lymph nodes of neck",
+    [
+     273,
+     209
+    ],
+    "L"
+   ],
+   [
+    "thymus",
+    [
+     296,
+     261
+    ],
+    "L"
+   ],
+   [
+    "thoracic duct",
+    [
+     294,
+     356
+    ],
+    "L"
+   ],
+   [
+    "right lymphatic duct",
+    [
+     270,
+     225
+    ],
+    "L"
+   ],
+   [
+    "left subclavian vein",
+    [
+     335,
+     229
+    ],
+    "L"
+   ],
+   [
+    "lymph nodes of armpit",
+    [
+     215,
+     292
+    ],
+    "L"
+   ],
+   [
+    "spleen",
+    [
+     351,
+     360
+    ],
+    "L"
+   ],
+   [
+    "lacteals of small intestine",
+    [
+     302,
+     454
+    ],
+    "L"
+   ],
+   [
+    "lymph nodes of groin",
+    [
+     261,
+     547
+    ],
+    "L"
+   ],
+   [
+    "lymph vessel",
+    [
+     876,
+     614
+    ],
+    "R"
+   ],
+   [
+    "valve",
+    [
+     876,
+     555
+    ],
+    "R"
+   ],
+   [
+    "lymph node",
+    [
+     711,
+     476
+    ],
+    "R"
+   ]
+  ]
  }
 }

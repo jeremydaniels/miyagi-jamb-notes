@@ -75,7 +75,7 @@ def segs_cross(p1, p2, p3, p4):
     return d1 * d2 < 0 and d3 * d4 < 0
 
 
-def uncross(group, sx):
+def uncross(group, sx, lo, hi):
     """Swap which label sits in which slot until no two leader lines cross (each swap shortens the total
     line length, so this ends). Slots keep their positions; the labels move between them."""
     slots = [(d["top"], d["top"] + d["h"] / 2) for d in group]     # (top, centre y) per slot, in slot order
@@ -91,8 +91,9 @@ def uncross(group, sx):
         if not changed:
             break
     res = []
-    for slot, li in enumerate(order):
-        d = group[li]; d["top"] = slots[slot][0]; res.append(d)
+    for slot, li in enumerate(order):                 # labels differ in height: restack them in slot order
+        d = group[li]; d["y"] = slots[slot][1]; res.append(d)
+    layout(res, lo, hi)
     return res
 
 
@@ -220,7 +221,7 @@ def render(name, spec, out_dir):
         if not group:
             return []
         layout(group, lo, hi)
-        return uncross(group, sx)
+        return uncross(group, sx, lo, hi)
 
     sxL, sxR = padL - 40, ox + img.width + 40
     left, right = place(sides["L"], sxL), place(sides["R"], sxR)

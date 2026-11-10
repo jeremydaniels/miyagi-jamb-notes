@@ -24,9 +24,10 @@ import extract_prompts as ex
 from common import RAW, WORK, REPO
 from PIL import Image
 
-SUBJ = "biology-images"
-CAP = 40.0
-PILOT_OFFSET = 1.5133            # image spend before this run (pilot), in .image-work/costs.jsonl
+SUBJECT = "biology"
+SUBJ = "biology-images2"           # name under which text/vision calls are logged (per subject)
+CAP = 120.0                      # total spend cap for the whole run (all subjects), USD
+PILOT_OFFSET = 0.0
 FLASH_IMG, PRO_IMG = "gemini-3.1-flash-image", "gemini-3-pro-image"
 TXT_FLASH = g.load_pricing().get("flash_model", "gemini-3.8-flash")
 TXT_PRO = g.default_model()
@@ -53,14 +54,34 @@ CODE_OVERRIDE = {       # AI placeholders better drawn in code: name -> extra in
 AI_OVERRIDE = {"B1-01-dicot-root-transverse-section", "B1-05-dicot-leaf-transverse-section", "B1-06-leaf-epidermis-stomata"}  # anatomy sections the code route could not draw well
 
 
+SUBJECT_RULES = {
+    "crk": "Christian Religious Knowledge illustration. Show Jesus and angels, where the scene needs them, in a respectful, simple flat style (kind faces, modest dress, no ridicule). NEVER depict God the Father: show God only through symbols such as rays of light, a cloud, a hand-less glow. Biblical-era dress, Middle-Eastern setting. No text.",
+    "irk": "Islamic Religious Knowledge illustration. Draw every human figure WITHOUT a face (smooth blank faces, modest dress). Never draw the Prophet Muhammad or any prophet or angel. Prayer and ablution positions as clear simple step figures. No Arabic script, no calligraphy, no text of any kind.",
+}
+SENSITIVE = {"crk", "irk"}
+
+
+def style_of():
+    sub = SUBJECT.replace("-", " ")
+    return gen.STYLE.format(subject=sub) + (" " + SUBJECT_RULES[SUBJECT] if SUBJECT in SUBJECT_RULES else "")
+
+
 class Capped(Exception):
     pass
 
 
-def spent():
-    img = gen.total() - PILOT_OFFSET
-    txt = g.subject_spend(SUBJ)
-    return max(0.0, img) + txt
+def spent(subject=None):
+    """Spend of this run: image generation (costs.jsonl in .image-work) plus every logged Gemini call whose subject ends -images2.
+    With subject: only that subject's share."""
+    img = 0.0
+    if os.path.exists(gen.COST_LOG):
+        for line in open(gen.COST_LOG):
+            if line.strip():
+                r = json.loads(line)
+                if subject is None or r.get("subject") == subject:
+                    img += r["cost"]
+    txt = sum(r["cost_usd"] for r in g.read_costs() if r["subject"].endswith("-images2") and (subject is None or r["subject"] == subject + "-images2"))
+    return img + txt
 
 
 def check_cap(extra=0.15):
@@ -79,30 +100,27 @@ def load_jobs(subject, prefixes):
     for f in files:
         fname = os.path.basename(f); topic = fname[:-3]; prefix = topic.split("-")[0]
         lines = open(f).read().split("\n"); cls = ex.load_classes(subject, fname)
-        ph = 0
         for slot, idx in enumerate(ex.slots(lines), 1):
             if not lines[idx].startswith("[IMAGE:"):
                 continue
-            ph = slot          # in files without earlier images every slot was a placeholder, so slot == original placeholder number
-            c = cls.get(ph, {}); grp = c.get("group", "AI")
+            c = cls.get(slot, {}); grp = c.get("group", "AI")
             body, labels = ex.parse_placeholder(lines[idx])
             full = " ".join(lines[idx][7:].rstrip().rstrip("]").split())
             name = f"{prefix}-{slot:02d}-{ex.slug(c.get('kind') or body)}"
+            caption = ""; regions = []
+            if c.get("parts", "") != "":                       # reclassified: pointer labels only on real parts, notes go to a caption
+                labels = json.loads(c["parts"]); regions = json.loads(c.get("regions") or "[]"); caption = c.get("caption", "")
+            base = dict(subject=subject, file=fname, topic=topic, slot=slot, name=name, kind=c.get("kind", ""), prompt=body, full=full,
+                        labels=labels, regions=regions, caption=caption, template=c.get("template", ""), model=FLASH_IMG, sensitive=subject in SENSITIVE)
+            if grp == "SKIP":
+                jobs.append(dict(base, group="SKIP", code=False, skip=True)); continue
             code = grp in ("CODE", "FLAG")
-            score = len(body) / 1000 + len(labels) / 12 + len(re.findall(r"\b(panel|panels|stage|stages|experiment|experiments|grid)\b", body[:500], re.I)) / 4
-            jobs.append(dict(subject=subject, file=fname, topic=topic, slot=slot, name=name, group=grp, kind=c.get("kind", ""),
-                             prompt=body, full=full, labels=labels, code=code, score=score))
-    ai = sorted((j for j in jobs if not j["code"]), key=lambda j: -j["score"])
-    pro_names = {j["name"] for j in ai[: int(len(ai) * 0.15)]}
-    for j in jobs:
-        if j["name"] in AI_OVERRIDE:
-            j["code"] = False
-        if j["name"] in CODE_OVERRIDE:
-            j["code"] = True; j["full"] = j["full"] + " " + CODE_OVERRIDE[j["name"]]
-        ov = OVERRIDES.get(j["name"])
-        j["model"] = (ov[0] if ov else PRO_IMG if j["name"] in pro_names else FLASH_IMG)
-        if ov:
-            j["prompt"] = j["prompt"] + " " + ov[1]
+            if code and name in AI_OVERRIDE: code = False
+            if name in CODE_OVERRIDE: code = True; base["full"] += " " + CODE_OVERRIDE[name]
+            if code and grp == "FLAG": base["template"] = "map"
+            ov = OVERRIDES.get(name)
+            if ov: base["model"] = ov[0]; base["prompt"] += " " + ov[1]
+            jobs.append(dict(base, group=grp, code=code, skip=False))
     return jobs
 
 
@@ -161,14 +179,15 @@ def check_raw(job, path):
           "Set ok=false only for a clear error that would mislead a student: a named part missing, a clearly wrong count of main structures, a wrong position or connection of main structures, extra contradictory content, or text in the picture. List only those errors in problems. "
           "ok=true only if the picture is accurate and usable. stray_text: 'none'; 'tiny' if there are only isolated small marks or a few characters; 'significant' if there are words or many characters. "
           "For tiny stray text give tiny_boxes as [x0,y0,x1,y1] integers on a 0-1000 scale (x right, y down) around each mark. "
-          "alt: a plain-English alt text for the picture, at most 30 words, no brackets, no quotation marks.")
+          "alt: a plain-English alt text for the picture, at most 30 words, no brackets, no quotation marks."
+          + (f"\nSUBJECT RULES (set ok=false if broken): {SUBJECT_RULES[SUBJECT]}" if SUBJECT in SUBJECT_RULES else ""))
     return vision(pr, [path], S_RAW, "check-raw")
 
 
 def place_points(job, path, labels, feedback=""):
     pr = ("This is an unlabelled textbook illustration. Description: " + job["prompt"] + "\n"
           "For EACH label name below, give the point (x, y) on a 0-1000 scale (x right, y down, origin top-left of the image) where a pointer line should END: "
-          "inside the named part (or exactly on the line for a vessel, wall or surface), at its most recognisable spot, clear of the edges of neighbouring parts. "
+          "inside the named part (or exactly on the line for a vessel, wall or surface), at its most recognisable spot, clear of the edges of neighbouring parts. If the label names a REGION, layer or area (such as cortex, medulla, a chamber, a zone), put the point well inside the middle of that region, not on its edge. "
           "If a part appears more than once, choose the clearest one. If the label names a whole panel, stage or organism, give its centre. If the label is an annotation about a process, result or condition (for example a direction of flow, inspiration, oxygen in, a test result, a measurement), point to the arrow, region or structure where that happens. "
           "Return one entry per label, using the label text exactly as given.\nLABELS: " + json.dumps(labels)
           + (f"\nCORRECTIONS from the last attempt (fix these): {feedback}" if feedback else ""))
@@ -188,12 +207,12 @@ def check_labelled(job, path, labels):
 
 def gen_standard(job, model, prompt):
     check_cap()
-    data, usage = gen.call_image(model, prompt + "\n\nStyle: " + gen.STYLE.format(subject="biology"))
+    data, usage = gen.call_image(model, prompt + "\n\nStyle: " + style_of())
     cost = gen.cost_of(model, usage)
     Image.open(io.BytesIO(data)).convert("RGB").save(os.path.join(RAW, job["name"] + ".png"))
     with LOCK:
         with open(gen.COST_LOG, "a") as f:
-            f.write(json.dumps({"name": job["name"], "model": model, "usage": usage, "cost": cost}) + "\n")
+            f.write(json.dumps({"name": job["name"], "subject": job["subject"], "model": model, "usage": usage, "cost": cost}) + "\n")
     return cost
 
 
@@ -226,7 +245,7 @@ def _consume(resp, names, model):
             cost = gen.cost_of(model, r.get("usageMetadata", {})) * 0.5
             with LOCK:
                 with open(gen.COST_LOG, "a") as f:
-                    f.write(json.dumps({"name": n, "model": model + "-batch", "usage": r.get("usageMetadata", {}), "cost": cost}) + "\n")
+                    f.write(json.dumps({"name": n, "subject": SUBJECT, "model": model + "-batch", "usage": r.get("usageMetadata", {}), "cost": cost}) + "\n")
             ok[n] = True
         except Exception as ex_:
             print(f"[batch] {n}: {e or ex_}", flush=True); ok[n] = False
@@ -260,7 +279,7 @@ def batch_generate(jobs, model, label="imgs", poll=30, prompts=None):
     """Generate with the Batch API; returns {name: ok}. Cost assumed half of standard (unverified)."""
     reqs = {}
     for j in jobs:
-        prompt = (prompts or {}).get(j["name"], j["prompt"]) + "\n\nStyle: " + gen.STYLE.format(subject="biology")
+        prompt = (prompts or {}).get(j["name"], j["prompt"]) + "\n\nStyle: " + style_of()
         reqs[j["name"]] = {"contents": [{"role": "user", "parts": [{"text": prompt}]}],
                            "generationConfig": {"responseModalities": ["TEXT", "IMAGE"], "imageConfig": {"aspectRatio": "1:1"}}}
     name, _ = g.submit_batch(reqs, model, f"{SUBJ}-{label}")
@@ -292,6 +311,8 @@ def label_stage(job, st, chk):
         spec["whiten"] = [[max(0, int(b[0] * 1.024) - 8), max(0, int(b[1] * 1.024) - 8), min(1024, int(b[2] * 1.024) + 8), min(1024, int(b[3] * 1.024) + 8)] for b in chk["tiny_boxes"] if len(b) == 4]
     st["alt"] = re.sub(r"[\[\]\"\n]", " ", chk["alt"]).strip()
     out = os.path.join(REPO, "subjects", job["subject"], "images")
+    if job.get("caption"): spec["caption_below"] = job["caption"]
+    if job.get("regions"): spec["regions"] = job["regions"]
     if not job["labels"]:
         lab.render(name, spec, out); st["spec"] = spec; st["status"] = "passed"; save_state(job, st); return
     labels = job["labels"]; pts = {}; feedback = ""; todo = list(labels); bad = []
@@ -312,6 +333,11 @@ def label_stage(job, st, chk):
             st["spec"] = spec2; st["status"] = "passed"; st["overlap_flag"] = bool(res["overlap"]); save_state(job, st); return
         todo = [b["label"] for b in bad] or labels
         feedback = "; ".join(f"{b['label']}: {b.get('issue','wrong part')}" for b in bad)
+    if len(bad) == 1 and len(labels) >= 4 and bad[0]["label"] in labels:      # one part is not visible in the picture: leave that label out and say so
+        keep = [e for e in spec2["labels"] if e[0] != bad[0]["label"]]
+        spec3 = dict(spec2); spec3["labels"] = keep
+        lab.render(name, spec3, out)
+        st["spec"] = spec3; st["status"] = "passed"; st["dropped_labels"] = [bad[0]["label"]]; save_state(job, st); return
     st["status"] = "failed"; st["reason"] = "labels still wrong after 3 placements: " + "; ".join(b["label"] for b in bad)
     try:
         os.replace(os.path.join(out, name + ".png"), os.path.join(FAIL_DIR, name + "-labelled.png"))
@@ -408,7 +434,7 @@ ALLOWED = {"numpy", "matplotlib", "math", "style", "itertools", "textwrap", "col
 BANNED = {"open", "exec", "eval", "compile", "__import__", "input", "globals", "locals", "getattr", "setattr", "breakpoint"}
 CODE_SYS = """You write Python (matplotlib + numpy) functions that draw exact textbook diagrams as PNG files.
 Write ONE file that defines `def draw(out):` and nothing else executable (no top-level code besides imports and helper functions). Begin with `from style import *` (this gives: plt, np via `import numpy as np` which you must import yourself, canvas(w,h), save(fig, path), the colours INK, GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, the dict DEEP with keys green/blue/pink/orange/lav, and the helpers axes_clean(ax, xlabel, ylabel, xmax, ymax), country_polys(*names), continent_polys('Africa'|'World'|...), nigeria_poly()). Always finish with save(fig, out).
-Rules: only import numpy, matplotlib, math, itertools, textwrap and style. No file or network access. Use the soft palette (GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, ink text, white background; DEEP colours for lines). Use fontsize 11 to 16 so all text is readable at 1500 px wide; never let text overlap other text or lines (use white bbox behind labels where lines pass); keep everything inside the canvas. Include EVERY title, label, axis name, key and annotation that the description names, spelled exactly as in the description, and nothing that contradicts it. Maps are simplified sketches: use the Natural Earth helpers for real outlines, shade zones as simple bands or polygons, add a small caption 'Sketch map: zones are approximate' where positions are schematic. Apply scientific accuracy (curve shapes, labelled structure positions, cycle direction, flow arrows). Output ONLY the Python code, no markdown fences."""
+Rules: only import numpy, matplotlib, math, itertools, textwrap and style. No file or network access. Use the soft palette (GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, ink text, white background; DEEP colours for lines). Use fontsize 14 to 18 (never smaller than 14) so all text is readable on a phone; never let text overlap other text or lines (use white bbox behind labels where lines pass); keep everything inside the canvas. Include EVERY title, label, axis name, key and annotation that the description names, spelled exactly as in the description, and nothing that contradicts it. Maps are simplified sketches: use the Natural Earth helpers for real outlines, shade zones as simple bands or polygons, add a small caption 'Sketch map: zones are approximate' where positions are schematic. Apply scientific accuracy (curve shapes, labelled structure positions, cycle direction, flow arrows). Output ONLY the Python code, no markdown fences."""
 CODE_EX = open(os.path.join(HERE, "codedraw", "samples.py")).read()
 CODE_EX = CODE_EX[CODE_EX.index("def bio_photosynthesis_graph(out):"):CODE_EX.index("def hist_timeline(out):")]
 
@@ -454,9 +480,46 @@ def run_code(job, code):
 def check_code_img(job, path):
     pr = ("You are checking a code-drawn textbook diagram against its description.\n"
           f"DESCRIPTION: {job['full']}\n"
-          "ok=true only if: the content is correct and complete (every item, label, title and axis named in the description is present and spelled as given, shapes, directions and values are right); all text is readable and nothing overlaps (text on text, text on lines, text cut off by the edge); nothing contradicts the description. "
+          "Judge as a teacher choosing a textbook figure. ok=true if the content is correct and complete enough to teach from: every main item, label, title and axis in the description is present, shapes, directions and values are right, all text is readable and nothing overlaps (text on text, text on lines, text cut off by the edge), and nothing contradicts the description. Do NOT fail for paraphrased or slightly shortened wording, colours, style, plain text without a box, or empty space; fail only for a missing or wrong main item, a wrong direction or connection, a misleading shape, unreadable or overlapping text. "
           "List every problem concisely in 'problems' (what is wrong and where). stray_text: set to 'none'. alt: plain-English alt text, at most 30 words, no brackets, no quotation marks.")
     return vision(pr, [path], S_RAW, "check-code", thinking="medium")
+
+
+TEMPLATE_NAMES = {"flowchart", "cycle", "hub", "graph", "chart", "table", "timeline", "taccount"}
+sys.path.insert(0, os.path.join(HERE, "codedraw"))
+import templates as tpl
+TPL_SYS = ("You turn a textbook figure description into a JSON spec for a FIXED drawing template. Output ONLY one JSON object, no markdown.\n"
+           "The object must have \"template\": the template name you are told to use, and the fields documented below. The template does the layout, so you give only content.\n"
+           "Rules: include EVERY item, label, title, axis name, value and annotation the description names, spelled exactly as in the description, and nothing that contradicts it. "
+           "Keep each text short (under 8 words); put detail in separate nodes only when the description lists it. Flowcharts: at most 4 nodes in one row and 9 layers; give every edge a from and to; label decision branches (yes/no). "
+           "Graphs: give coordinates on a 0-10 scale (xmax and ymax 10) so curves have the right shape (demand slopes down, supply up, U-shaped cost curves, S-curves etc.); name every curve with 'label'; mark intersections with 'guides' (dashed lines to the axes with x_text and y_text). "
+           "Tables: put the column headings in 'columns' and one list per row. Scientific and factual accuracy matters: do not invent facts beyond the description.\n\nTEMPLATE DOCUMENTATION:\n" + tpl.__doc__)
+
+
+def write_spec(job, prev="", problems=None, pro=False):
+    check_cap(0.05)
+    parts = [{"text": f"Use template: {job['template']}\nDescription of the figure:\n{job['full']}"}]
+    if prev:
+        parts.append({"text": f"\nYour previous JSON:\n{prev}\n\nProblems found in the drawn result (fix all of them, keep what was right):\n- " + "\n- ".join(problems or [])})
+    r = g.call_gemini(parts, system=TPL_SYS, model=TXT_PRO if pro else TXT_FLASH, thinking="low", subject=SUBJ, task="code-spec", timeout=600, attempts=4)
+    t = r["text"].strip()
+    m = re.match(r"^```(?:json)?\s*\n(.*)\n```$", t, re.S)
+    t = m.group(1) if m else t
+    spec = json.loads(t)
+    if isinstance(spec, list): spec = spec[0]
+    spec["template"] = job["template"]
+    return json.dumps(spec, ensure_ascii=False, indent=1)
+
+
+def run_spec(job, text):
+    d = os.path.join(CODE_DIR, "gen"); os.makedirs(d, exist_ok=True)
+    pj = os.path.join(d, job["name"] + ".json"); out = os.path.join(CODE_DIR, job["name"] + ".png")
+    if os.path.exists(out): os.remove(out)
+    open(pj, "w").write(text)
+    p = subprocess.run([sys.executable, "-I", os.path.join(HERE, "codedraw", "render_spec.py"), pj, out], capture_output=True, text=True, timeout=180, cwd=d)
+    if p.returncode != 0 or not os.path.exists(out):
+        raise RuntimeError((p.stderr or "no output")[-600:])
+    return out
 
 
 def process_code(job):
@@ -464,11 +527,18 @@ def process_code(job):
     if st["status"] in ("passed", "failed"):
         return st
     name = job["name"]; st["status"] = "working"; st.setdefault("log", [])
-    code = ""; problems = []; out = None
-    for attempt in range(3):
+    tpl_first = job["template"] in TEMPLATE_NAMES
+    routes = ["tpl", "tpl", "tpl", "free", "free"] if tpl_first else ["free"] * 3      # a template that cannot express the figure falls back to free-form code
+    code = ""; problems = []; out = None; last = None
+    for attempt, route in enumerate(routes):
+        use_tpl = route == "tpl"
+        if route != last: code = ""                  # new route: start from scratch but keep the problems as hints
+        last = route
         try:
-            code = write_code(job, code if attempt else "", problems, pro=attempt > 1)
-            out = run_code(job, code)
+            if use_tpl:
+                code = write_spec(job, code, problems, pro=attempt == 2); out = run_spec(job, code)
+            else:
+                code = write_code(job, code, problems, pro=attempt >= len(routes) - 1); out = run_code(job, code)
         except Capped:
             raise
         except Exception as e:
@@ -479,9 +549,9 @@ def process_code(job):
             dest = os.path.join(REPO, "subjects", job["subject"], "images", name + ".png")
             os.makedirs(os.path.dirname(dest), exist_ok=True)
             Image.open(out).convert("RGB").save(dest, optimize=True)
-            st["alt"] = re.sub(r"[\[\]\"\n]", " ", chk["alt"]).strip(); st["status"] = "passed"
+            st["alt"] = re.sub(r"[\[\]\"\n]", " ", chk["alt"]).strip(); st["status"] = "passed"; st["code_ext"] = "json" if use_tpl else "py"
             cdir = os.path.join(REPO, "tools", "specs", job["subject"], "code"); os.makedirs(cdir, exist_ok=True)
-            open(os.path.join(cdir, name + ".py"), "w").write(code + "\n")
+            open(os.path.join(cdir, name + "." + st["code_ext"]), "w").write(code + "\n")
             save_state(job, st); return st
         problems = chk["problems"]
     st["status"] = "failed"; st["reason"] = "code image: " + "; ".join(problems[:4])
@@ -492,6 +562,20 @@ def process_code(job):
 
 # ---------------------------------------------------------------- notes, commit
 
+import fcntl, contextlib
+
+
+@contextlib.contextmanager
+def filelock():
+    """One git writer at a time across all running processes."""
+    with open(os.path.join(WORK, "git.lock"), "w") as f:
+        fcntl.flock(f, fcntl.LOCK_EX)
+        try:
+            yield
+        finally:
+            fcntl.flock(f, fcntl.LOCK_UN)
+
+
 def finalize_file(topic, jobs, push=False):
     subject = jobs[0]["subject"]; md = os.path.join("subjects", subject, topic + ".md")
     done = []
@@ -501,7 +585,7 @@ def finalize_file(topic, jobs, push=False):
             done.append((j, st))
     if not done:
         return
-    with GITLOCK:
+    with GITLOCK, filelock():
         args = [f"{j['slot']}:{j['name']}={st['alt'] or j['kind']}" for j, st in done]
         r = subprocess.run([sys.executable, os.path.join(HERE, "place_images.py"), os.path.join(REPO, md)] + args, capture_output=True, text=True, cwd=REPO)
         if r.returncode != 0:
@@ -520,14 +604,14 @@ def finalize_file(topic, jobs, push=False):
         if specs: add.append(os.path.join("tools", "specs", subject, topic + "-labels.json"))
         for j, st in done:
             add.append(os.path.join("subjects", subject, "images", j["name"] + ".png"))
-            if j["code"]: add.append(os.path.join("tools", "specs", subject, "code", j["name"] + ".py"))
+            if j["code"]: add.append(os.path.join("tools", "specs", subject, "code", j["name"] + "." + st.get("code_ext", "py")))
         subprocess.run(["git", "add"] + add, cwd=REPO)
         n_ai = sum(1 for j, _ in done if not j["code"]); n_code = len(done) - n_ai
-        subprocess.run(["git", "commit", "-q", "-m", f"Add images to {subject} {topic}: {n_ai} AI, {n_code} code-drawn\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01AuzkMMP1Xj4AswPFwNLSW2"], cwd=REPO, capture_output=True)
+        subprocess.run(["git", "commit", "-q", "-m", f"Add images to {subject} {topic}: {n_ai} AI, {n_code} code-drawn\n\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>\nClaude-Session: https://claude.ai/code/session_01AuzkMMKKHsgCscpXnvCsGG"], cwd=REPO, capture_output=True)
         for j, st in done:
             st["placed"] = True; save_state(j, st)
         if push:
-            subprocess.run(["git", "push", "-q", "origin", "main"], cwd=REPO, capture_output=True)
+            subprocess.run(["git", "push", "-q", "origin", "HEAD:main"], cwd=REPO, capture_output=True)
     print(f"[done] {topic}: placed {len(done)} image(s), spend ${spent():.2f}", flush=True)
 
 
@@ -536,7 +620,10 @@ def finalize_file(topic, jobs, push=False):
 def run(jobs, workers, use_batch=True, chunk=45, push_every=2):
     """Process jobs in chunks of whole notes files: AI images by rounds, code images in parallel, then place and commit each file."""
     by_file = {}
-    for j in jobs: by_file.setdefault(j["topic"], []).append(j)
+    for j in jobs:
+        if j.get("skip"):
+            st = load_state(j); st["status"] = "skipped"; st["reason"] = "portrait of a real person or Arabic script: placeholder kept"; save_state(j, st); continue
+        by_file.setdefault(j["topic"], []).append(j)
     chunks, cur, n = [], [], 0
     for topic, js in by_file.items():
         cur.append(topic); n += len(js)
@@ -563,7 +650,7 @@ def run(jobs, workers, use_batch=True, chunk=45, push_every=2):
         for t_ in ch:
             done_files += 1
             finalize_file(t_, by_file[t_], push=(done_files % push_every == 0))
-    subprocess.run(["git", "push", "-q", "origin", "main"], cwd=REPO, capture_output=True)
+    subprocess.run(["git", "push", "-q", "origin", "HEAD:main"], cwd=REPO, capture_output=True)
 
 
 def main():
@@ -578,6 +665,8 @@ def main():
     ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
     a = ap.parse_args()
     ACCEPT.update(a.accept)
+    global SUBJECT, SUBJ
+    SUBJECT = a.subject; SUBJ = a.subject + "-images2"
     jobs = load_jobs(a.subject, a.files)
     if a.only: jobs = [j for j in jobs if j["name"] in a.only]
     if a.no_code: jobs = [j for j in jobs if not j["code"]]
@@ -587,7 +676,7 @@ def main():
         c = {}
         for j in jobs: c[load_state(j)["status"]] = c.get(load_state(j)["status"], 0) + 1
         print(len(jobs), "jobs", c, f"spend ${spent():.2f}"); return
-    todo = [j for j in jobs if load_state(j)["status"] not in ("passed", "failed")]
+    todo = [j for j in jobs if load_state(j)["status"] not in ("passed", "failed", "skipped")]
     if a.run:
         run(todo, a.workers, use_batch=not a.no_batch, chunk=a.chunk)
     print(f"spend ${spent():.2f}")

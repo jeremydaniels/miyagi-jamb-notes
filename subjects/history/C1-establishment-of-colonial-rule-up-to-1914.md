@@ -114,7 +114,7 @@ To solve this problem, Lugard established the system of **Indirect Rule**. This 
 4. **Native Courts:** The traditional Islamic (Sharia) legal system was kept in place. Alkali (Muslim judges) presided over these courts. The British only banned punishments they considered "repugnant" (such as cutting off hands for theft).
 5. **Native Treasuries (Beit-el-Mal):** This was a central pillar of the system. Direct taxes were collected from the people. A portion (usually half) went to the British colonial government, and the other half was kept in the Native Treasury to pay the Emir's salary and fund local projects. 
 
-[IMAGE: Hierarchical flowchart showing the administrative set-up of the Northern Protectorate. Top box: "High Commissioner (British)". Line down to: "Resident (British, in charge of a Province)". Line down to: "District Officer (British)". Line across from the District Officer to a box saying: "Emir / Native Authority (Traditional Ruler)". Below the Emir, lines branch to "Native Courts" and "Native Treasuries". Clean flat textbook style, white background.]
+![Flowchart of the Northern Protectorate administration linking British officials downwards to the District Officer, connecting across to Native Authorities who oversee Native Courts and Treasuries.](images/C1-02-colonial-administrative-hierarchy-chart.png)
 
 ### Administration of the Southern Protectorate (1900 – 1914)
 

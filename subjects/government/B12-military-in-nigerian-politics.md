@@ -60,7 +60,7 @@ Laws made by the federal military government are called **Decrees**, while those
 | **State Military Governors** | Appointed by the Head of State to govern the states. They make laws through **Edicts** (which must not conflict with federal Decrees) and chair the State Executive Councils. |
 | **The Judiciary** | The court system is retained to interpret laws and handle civil and criminal cases. However, its independence is severely limited because military regimes issue "ouster clauses" that prevent courts from questioning the legality of Decrees. |
 
-[IMAGE: An organization chart showing the structure of a typical Nigerian military government. At the top is a box labeled "Head of State / Commander-in-Chief". Below it, a line connects to the "Supreme Legislative Body (SMC / AFRC / PRC)". A branch leads to the "Federal Executive Council (FEC)". Below the central structure, lines lead to multiple boxes labeled "State Military Governors" which further branch into "State Executive Councils". A separate floating box on the side represents the "Judiciary", with a dotted line indicating its limited independence. Clean flat textbook style, white background with neat borders.]
+![Organizational chart of a Nigerian military government showing the Head of State leading the Supreme Legislative Body, Federal Executive Council, State Governors, and Judiciary.](images/B12-01-military-government-structure-chart.png)
 
 ## Impact of military rule: Political achievements and policies
 

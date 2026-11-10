@@ -1,0 +1,78 @@
+{
+ "template": "flowchart",
+ "title": "Structure of a Typical Nigerian Military Government",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "hos",
+   "text": "Head of State / Commander-in-Chief",
+   "shape": "box"
+  },
+  {
+   "id": "smc",
+   "text": "Supreme Legislative Body (SMC / AFRC / PRC)",
+   "shape": "box"
+  },
+  {
+   "id": "fec",
+   "text": "Federal Executive Council (FEC)",
+   "shape": "box"
+  },
+  {
+   "id": "smg1",
+   "text": "State Military Governors",
+   "shape": "box"
+  },
+  {
+   "id": "smg2",
+   "text": "State Military Governors",
+   "shape": "box"
+  },
+  {
+   "id": "sec1",
+   "text": "State Executive Councils",
+   "shape": "box"
+  },
+  {
+   "id": "sec2",
+   "text": "State Executive Councils",
+   "shape": "box"
+  },
+  {
+   "id": "jud",
+   "text": "Judiciary",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "hos",
+   "to": "smc"
+  },
+  {
+   "from": "smc",
+   "to": "fec"
+  },
+  {
+   "from": "smc",
+   "to": "smg1"
+  },
+  {
+   "from": "smc",
+   "to": "smg2"
+  },
+  {
+   "from": "smg1",
+   "to": "sec1"
+  },
+  {
+   "from": "smg2",
+   "to": "sec2"
+  },
+  {
+   "from": "hos",
+   "to": "jud",
+   "label": "limited independence"
+  }
+ ]
+}

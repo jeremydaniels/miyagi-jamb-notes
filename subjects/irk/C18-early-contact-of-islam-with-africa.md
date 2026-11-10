@@ -45,7 +45,7 @@ The Quraysh were furious that the Muslims had found a safe haven. They sent two 
 *   Ja'far eloquently explained how Islam had lifted them from ignorance, commanded good morals, and taught the worship of One God. He then recited the opening verses of **Surah Maryam (Q.19)**, which describes the miraculous birth of Prophet Isa (Jesus) and honors his mother, Maryam (Mary).
 *   Upon hearing this, an-Najashi wept, recognizing the shared truth between Islam and Christianity. He returned the gifts to the Quraysh and granted the Muslims permanent protection.
 
-[IMAGE: A map showing the Arabian Peninsula and the Horn of Africa. A dotted arrow starts at Makkah, crosses the Red Sea, and lands in the Kingdom of Abyssinia (modern Ethiopia). Beside the map, an inset illustration shows a group of Arabs standing respectfully before a crowned African king seated on a throne, with Ja'far bin Abi Talib gesturing as he recites the Qur'an. Labels: "Makkah", "Red Sea", "Abyssinia", "King an-Najashi", "Ja'far bin Abi Talib". Clean flat textbook style, white background.]
+![Map of the migration route from Makkah to Abyssinia beside an illustration of Jafar bin Abi Talib speaking before King an-Najashi.](images/C18-01-early-migration-abyssinia-map.png)
 
 ---
 
@@ -90,7 +90,7 @@ JAMB requires you to understand the specific contributions of six distinct group
 *   **How they spread Islam:** Islam first reached West Africa (the Western Sudan) between the 8th and 9th centuries through the **Trans-Saharan trade**. Arab and Berber Muslim merchants from North Africa traveled across the desert on camels, bringing salt, cloth, and horses to exchange for West African gold, ivory, and kola nuts. 
 *   **Impact:** As they established trade networks in cities like Timbuktu, Gao, Kano, and Kumbi Saleh, they built mosques in their trading quarters. Their honesty, fair dealings (governed by Islamic law), and organized lifestyle deeply impressed the local populations and rulers, many of whom embraced Islam to strengthen trade relations.
 
-[IMAGE: A vibrant illustration of a Trans-Saharan trade caravan arriving at a bustling West African city (like Timbuktu). Men in flowing robes (Arab and Berber merchants) unload goods from heavily laden camels. In the background, a traditional mud-brick mosque with wooden beams protruding from it stands tall. Labels: "Trans-Saharan Trade", "Muslim Merchants", "Mud-brick Mosque", "Camels with trade goods". Clean flat textbook style, white background.]
+![An illustration of Muslim merchants unloading trade goods from camels in front of a traditional mud-brick West African mosque with faceless human figures.](images/C18-02-trans-saharan-caravan-timbuktu.png)
 
 #### 2. Teachers (Ulama / Scholars)
 *   **How they spread Islam:** Alongside the merchants came Muslim scholars and teachers. They established Qur'anic schools (**Madrasahs**) wherever they settled. 

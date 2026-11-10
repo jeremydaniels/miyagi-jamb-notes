@@ -72,7 +72,7 @@ At the time, scientists from different universities around the world were coming
 - **URL (Uniform Resource Locator):** The unique web address of a specific webpage (e.g., `https://www.google.com`).
 - **Hyperlink (or Link):** A clickable word, phrase, or image that takes the user to another webpage or to another part of the same page.
 
-[IMAGE: A clean flat textbook illustration showing a web browser window. At the top, the address bar shows the URL "www.jamb.org.ng". The main window displays a simple website homepage with a "Home" button, text content, and a blue underlined hyperlink. A mouse pointer is hovering over the hyperlink. Labels point to: "Address bar / URL", "Browser window", "Homepage content", and "Hyperlink". White background.]
+![Illustration of a web browser showing a URL homepage and a hyperlink with a mouse pointer. Labels identify address bar browser window homepage content and hyperlink.](images/F6-01-clean-flat-textbook-web.png)
 
 ## Web Protocols
 

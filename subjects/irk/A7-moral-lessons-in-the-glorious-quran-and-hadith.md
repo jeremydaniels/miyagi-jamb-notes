@@ -38,7 +38,7 @@ The key admonitions (advices) include:
 4. **Establishing Prayer and Social Duty:** He commands his son to establish regular prayer (*Salāh*), enjoin what is right, forbid what is wrong, and bear whatever difficulty befalls him with patience (Q.31:17).
 5. **Humility:** Finally, he warns against arrogance, telling his son not to turn his cheek away from people in pride, nor walk insolently on the earth, and to lower his voice (Q.31:18-19).
 
-[IMAGE: A conceptual mind map with "Luqman's Advice (Q.31:12-18)" at the centre. Branches radiate outward with the following labels: "Tawhid (No Shirk)", "Respect Parents", "Allah sees everything (Mustard seed)", "Establish Salah", "Enjoin Good & Forbid Evil", "Patience", and "Humility (No arrogance)". Clean flat textbook style, white background.]
+![A mind map diagram showing Luqmans Advice from the Quran branching into Tawhid, Respect Parents, Allah sees everything, Establish Salah, Enjoin Good, Patience, and Humility.](images/A7-01-luqman-advice-concept-mindmap.png)
 
 ### Application of Luqman's admonitions
 To demonstrate these teachings in daily life, a student should:

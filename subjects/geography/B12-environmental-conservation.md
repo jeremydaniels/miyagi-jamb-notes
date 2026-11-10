@@ -49,7 +49,7 @@ Resources can be broadly divided into two groups:
 1. **Renewable resources:** These are resources that can naturally replace or regenerate themselves within a reasonable human timeframe if managed well (e.g., plants, animals, water, solar energy). However, if they are heavily abused, they can be destroyed (e.g., a forest can become a desert if completely cleared).
 2. **Non-renewable resources:** These are resources that cannot replace themselves once they are used, or take millions of years to form (e.g., crude oil, coal, minerals). Once they are mined and used, they are gone forever. 
 
-[IMAGE: A split infographic showing Renewable vs Non-renewable resources. Left side (Green border, "Renewable Resources"): simple icons of a bright sun, a healthy green tree, a flowing blue river, and a running antelope. Right side (Brown border, "Non-renewable Resources"): simple icons of a black oil drum, a lump of dark coal, and a gold bar. Labels: "Can be replaced naturally" on the left, "Cannot be easily replaced; limited supply" on the right. Clean flat textbook style, white background.]
+![Infographic comparing renewable resources like sunlight, trees, water, and wildlife with non-renewable resources including crude oil, coal, and minerals.](images/B12-01-renewable-nonrenewable-resources-infographic.png)
 
 ### Objective ii: Identify the resources for conservation
 
@@ -109,7 +109,7 @@ Below are the specific methods used to conserve different types of environmental
 *   **Terracing:** Cutting wide, flat steps into the sides of steep hills to slow down water runoff and prevent erosion.
 *   **Controlled Grazing:** Limiting the number of livestock (cattle, sheep, goats) feeding in an area to prevent them from eating all the grass and exposing the soil to erosion (overgrazing).
 
-[IMAGE: A diagram comparing Contour Ploughing and Terracing. Left side: A gentle grassy hill with curved crop rows planted horizontally across the slope (Contour Ploughing). Right side: A steep hill cut into massive stair-steps, with crops growing on the flat steps, holding back blue water (Terracing). Labels: "Contour Ploughing: ridges across the slope block water", "Terracing: steps cut into a steep slope prevent soil wash". Clean flat textbook style, white background.]
+![A diagram comparing contour ploughing with curved horizontal crop rows along a hill slope on the left, and terraced farming with stepped platforms holding water on the right.](images/B12-02-contour-ploughing-terracing.png)
 
 #### 4. Methods of Water Conservation
 *   **Dam Construction:** Building concrete walls across rivers to trap and store water in a reservoir for the dry season. Examples include the **Kainji Dam** on the River Niger and the **Shiroro Dam**.

@@ -52,6 +52,11 @@ def extra_blocks(syllabus):
 
 def find_topic(syllabus, heading):
     heading = heading.strip()
+    if " + " in heading:   # one file covering several topics: "1. Definition of AI + 2. Branches of AI"
+        found = [find_topic(syllabus, h) for h in heading.split(" + ")]
+        if any(t is None for _, t in found):
+            return None, None
+        return found[0][0], "\n\n".join(t for _, t in found)
     for sec, h, text in topic_blocks(syllabus):
         if h == heading:
             return sec, text
@@ -99,9 +104,10 @@ def check_plan(files, syllabus):
         f["topic_heading"] = f["topic_heading"].strip()
         if not re.match(r"^[A-Z]\d+[a-z]?-[a-z0-9-]+\.md$", f["file"]):
             problems.append(f"bad file name: {f['file']}")
-        if f["topic_heading"] not in headings and f["topic_heading"] not in [h for h, _ in extra_blocks(syllabus)]:
-            problems.append(f"{f['file']}: topic_heading not found in syllabus: {f['topic_heading']!r}")
-        used.add(f["topic_heading"])
+        for part in f["topic_heading"].split(" + "):
+            if part.strip() not in headings and part.strip() not in [h for h, _ in extra_blocks(syllabus)]:
+                problems.append(f"{f['file']}: topic_heading not found in syllabus: {part!r}")
+        used.update(x.strip() for x in f["topic_heading"].split(" + "))
     for h in headings:
         if h not in used:
             problems.append(f"syllabus topic not covered by any file: {h!r}")
@@ -114,7 +120,8 @@ def check_plan_items(files, syllabus):
     warns = []
     used = {}
     for f in files:
-        used.setdefault(f["topic_heading"].strip(), []).append(f)
+        for part in f["topic_heading"].split(" + "):
+            used.setdefault(part.strip(), []).append(f)
     for sec, h, text in topic_blocks(syllabus):
         if h not in used:
             continue

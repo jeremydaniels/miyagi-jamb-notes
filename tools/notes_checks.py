@@ -68,7 +68,7 @@ def check_math_delimiters(text):
     return probs
 
 
-def check_notes(text, entry=None, *, math=False, code_runs=None):
+def check_notes(text, entry=None, *, math=False, code_runs=None, allow_code=False):
     """Return (clean_text, problems). `entry` is a PLAN entry dict (or None)."""
     text, cov = split_coverage(text)
     probs = []
@@ -129,7 +129,7 @@ def check_notes(text, entry=None, *, math=False, code_runs=None):
     # narration leaked from the tool-using model
     if re.search(r"(?mi)^(let me |i will |i'll |now i |running the code|executing |i have verified|i verified)", text):
         probs.append("narration such as 'Let me verify...' leaked into the file")
-    if re.search(r"(?i)code execution|python script|```python", text):
+    if re.search(r"(?i)code execution" if allow_code else r"(?i)code execution|python script|```python", text):
         probs.append("mentions code execution or Python code; remove it")
     if math or "$" in text:
         probs += check_math_delimiters(text)

@@ -200,7 +200,7 @@ def evaluate(subject, entry, raw, finish, code_runs, ctx, args):
     if i > 0:
         text = text[i:]
     text = g.strip_fence(text)
-    clean, problems = nc.check_notes(text, entry, math=ctx["code_required"], code_runs=None)
+    clean, problems = nc.check_notes(text, entry, math=ctx["code_required"], code_runs=None, allow_code=(subject == "computer-studies"))
     warnings = []
     if ctx["code_required"] and code_runs == 0:
         warnings.append("no code execution run (the independent verifier will recompute the numbers)")
@@ -210,7 +210,7 @@ def evaluate(subject, entry, raw, finish, code_runs, ctx, args):
     if problems and all(is_cov(p) for p in problems):
         fixed = repair_coverage(subject, entry, text, ctx, args)
         if fixed:
-            clean2, problems2 = nc.check_notes(fixed, entry, math=ctx["code_required"], code_runs=None)
+            clean2, problems2 = nc.check_notes(fixed, entry, math=ctx["code_required"], code_runs=None, allow_code=(subject == "computer-studies"))
             if not problems2:
                 return clean2, [], warnings + ["coverage map repaired by a cheap Flash call"]
     return text, problems, warnings

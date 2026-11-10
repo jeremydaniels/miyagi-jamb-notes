@@ -1,0 +1,78 @@
+{
+ "B6a-12-root-tip-longitudinal-section": {
+  "labels": [
+   [
+    "root cap",
+    [
+     493,
+     901
+    ],
+    "L"
+   ],
+   [
+    "region of cell division (meristem)",
+    [
+     804,
+     719
+    ],
+    "R"
+   ],
+   [
+    "region of cell elongation",
+    [
+     804,
+     494
+    ],
+    "R"
+   ],
+   [
+    "region of cell differentiation (root hair zone)",
+    [
+     804,
+     188
+    ],
+    "R"
+   ],
+   [
+    "root hair",
+    [
+     728,
+     116
+    ],
+    "R"
+   ],
+   [
+    "epidermis",
+    [
+     647,
+     192
+    ],
+    "R"
+   ],
+   [
+    "cortex",
+    [
+     595,
+     214
+    ],
+    "R"
+   ],
+   [
+    "xylem",
+    [
+     508,
+     198
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     567,
+     198
+    ],
+    "R"
+   ]
+  ]
+ }
+}

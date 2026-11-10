@@ -597,7 +597,7 @@ Behind the tip of a growing root (e.g. a bean or maize radicle), four regions ca
 
 **Textbook variation:** some textbooks give three regions (cell division, elongation and differentiation) and treat the root cap separately; others name a fourth region, the "zone of maturation", or join differentiation and maturation. All agree on the order from the tip: root cap → division → elongation → differentiation (root hairs).
 
-[IMAGE: Longitudinal section of a root tip (e.g. bean radicle) arranged vertically with the tip at the bottom. Show the root cap of loose cells at the very tip; just above it a zone of small, closely packed, dividing cells with large nuclei (some cells shown in mitosis); above that a zone of long, vacuolated, elongating cells; and at the top a zone of differentiated cells with root hairs growing out of the epidermis and visible xylem and phloem strands in the centre. Use brackets on the right side marking each zone. Labels: root cap, region of cell division (meristem), region of cell elongation, region of cell differentiation (root hair zone), root hair, epidermis, cortex, xylem, phloem. Clean flat textbook style, white background.]
+![Longitudinal diagram of a plant root tip showing the root cap, cell division zone with mitotic stages, elongation zone, and maturation zone with root hairs and vascular tissues.](images/B6a-12-root-tip-longitudinal-section.png)
 
 ### Experiment: to locate the region of growth in a root
 

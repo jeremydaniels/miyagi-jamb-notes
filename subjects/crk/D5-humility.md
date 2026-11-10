@@ -49,7 +49,7 @@ Paul then describes Christ's ultimate act of humility, often called the **Kenosi
 3. **His incarnation:** He took upon Himself the "form of a servant" and was made "in the likeness of men." 
 4. **His obedience and death:** As a human, He humbled Himself completely, becoming obedient to God the Father up to the point of death—even the most shameful and painful death on a cross.
 
-[IMAGE: A conceptual diagram showing a deep "V" shape representing Christ's path in Philippians 2. The left side slopes downwards, labelled step-by-step: "Equal with God", "Made Himself of no reputation", "Took the form of a servant", "Made in human likeness", "Obedient to death on a cross" at the very bottom. The right side slopes steeply upwards, labelled: "Highly exalted by God", "Given the Name above all names", "Every knee shall bow", "Every tongue confess". Clean flat textbook style, white background.]
+![A V-shaped diagram illustrating Philippians 2, charting Christ descending from equality with God down to death on a cross, then ascending through exaltation.](images/D5-01-philippians-two-kenosis-v.png)
 
 ### The reward of Christ's humility (Verses 9-11)
 Because of Jesus' absolute submission and humility, God gave Him the ultimate reward:
@@ -111,7 +111,7 @@ Based on the passages studied above, JAMB expects you to identify the specific a
 ### Practical application in daily life
 In a Nigerian context, the requirements of humility include respecting elders and teachers, not looking down on the poor or those from different backgrounds, avoiding the flaunting of wealth on social media, admitting when one is wrong, and serving in church or community without demanding a title or public recognition. 
 
-[IMAGE: A simple, respectful Nigerian scene illustrating humility: A young student in uniform carrying a heavy bag for an elderly woman walking along a dusty road, both smiling. The young student's posture shows respect and service. Clean flat textbook style, white background.]
+![A smiling young schoolboy in uniform carries a heavy sack along a dirt path beside an elderly woman with a walking stick.](images/D5-02-student-serving-elder.png)
 
 ## Rewards of humility
 

@@ -75,7 +75,7 @@ Non-ruminants have a simple stomach with only **one compartment**. Examples incl
 6. **Caeca (plural of caecum):** Two blind pouches at the junction of the small and large intestines. Here, bacteria ferment a small amount of fibre.
 7. **Cloaca:** A common exit chamber for digestive, urinary, and reproductive tracts. Faeces and urine (uric acid) are mixed and excreted together as droppings.
 
-[IMAGE: Diagram of the digestive system of a chicken. A continuous tube starting at the beak, leading to a swollen crop on the neck, then a glandular proventriculus, leading immediately into a large muscular, rounded gizzard. Below the gizzard, a looped small intestine, branching into two blind sacs called caeca, and ending at the cloaca. Labels: Beak, Oesophagus, Crop (storage), Proventriculus (glandular stomach), Gizzard (grinding), Small intestine, Caeca, Large intestine, Cloaca. Clean flat textbook style, white background.]
+![Diagram showing the digestive system of a chicken including the beak, esophagus, crop, proventriculus, gizzard, small intestine, caeca, and cloaca within a bird outline.](images/C3-01-avian-digestive-system.png)
 
 #### Ruminant (Polygastric) Digestive System
 Ruminants are animals that "chew the cud". They have a complex stomach divided into **four compartments**, allowing them to digest large amounts of fibrous plant materials (grasses) using microorganisms. Examples include cattle (e.g., White Fulani, Sokoto Gudali), sheep, and goats (e.g., West African Dwarf, Red Sokoto).

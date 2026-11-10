@@ -1,0 +1,85 @@
+{
+ "C3-01-avian-digestive-system": {
+  "regions": [
+   "Crop (storage)",
+   "Proventriculus (glandular stomach)",
+   "Gizzard (grinding)",
+   "Caeca",
+   "Cloaca"
+  ],
+  "labels": [
+   [
+    "Beak",
+    [
+     88,
+     186
+    ],
+    "L"
+   ],
+   [
+    "Oesophagus",
+    [
+     263,
+     290
+    ],
+    "L"
+   ],
+   [
+    "Crop (storage)",
+    [
+     223,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Proventriculus (glandular stomach)",
+    [
+     330,
+     531
+    ],
+    "L"
+   ],
+   [
+    "Gizzard (grinding)",
+    [
+     463,
+     539
+    ],
+    "L"
+   ],
+   [
+    "Small intestine",
+    [
+     658,
+     636
+    ],
+    "R"
+   ],
+   [
+    "Caeca",
+    [
+     654,
+     760
+    ],
+    "R"
+   ],
+   [
+    "Large intestine",
+    [
+     775,
+     601
+    ],
+    "R"
+   ],
+   [
+    "Cloaca",
+    [
+     828,
+     662
+    ],
+    "R"
+   ]
+  ]
+ }
+}

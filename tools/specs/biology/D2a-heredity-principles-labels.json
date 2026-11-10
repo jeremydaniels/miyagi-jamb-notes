@@ -152,23 +152,21 @@
      532
     ],
     "L"
-   ],
-   [
-    "seen with normal colour vision: 7",
-    [
-     344,
-     436
-    ],
-    "L"
-   ],
-   [
-    "seen with red-green colour blindness: no number visible",
-    [
-     832,
-     512
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "seen with normal colour\nvision: 7",
+    343,
+    822
+   ],
+   [
+    "seen with red-\ngreen colour\nblindness: no\nnumber visible",
+    832,
+    675
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

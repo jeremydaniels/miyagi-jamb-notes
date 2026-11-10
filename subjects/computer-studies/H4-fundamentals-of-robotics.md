@@ -80,7 +80,7 @@ An end effector is the device at the end of a robotic arm, designed to interact 
 * **Examples:** Mechanical grippers (claws or fingers to pick things up), welding torches, spray paint guns, suction cups, or surgical scalpels.
 * **Function:** It is the specific tool that performs the robot's assigned task.
 
-[IMAGE: A clean, flat textbook illustration of an industrial robotic arm. Labels point to the base where the power cable enters ("Power Supply"), the central computer box attached to it ("Control System"), a camera mounted on the arm ("Sensor"), the joint containing an electric motor ("Actuator"), and the claw at the very tip holding a box ("End Effector"). White background.]
+![A flat illustration of an industrial robotic arm on a white background, featuring a power cable base, central computer box, mounted camera, joint motor, and claw holding a box.](images/H4-01-clean-flat-textbook-industrial.png)
 
 ## Types of Robots
 

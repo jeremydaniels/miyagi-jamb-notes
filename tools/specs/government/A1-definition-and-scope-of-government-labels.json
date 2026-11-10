@@ -1,39 +1,36 @@
 {
  "A1-01-infographic-three-definitions-government": {},
  "A1-02-functions-government-panels": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    503,
+    120
+   ]
+  ],
+  "captions": [
    [
     "Security",
-    [
-     256,
-     256
-    ],
-    "L"
+    260,
+    507
    ],
    [
     "External Defense",
-    [
-     768,
-     256
-    ],
-    "R"
+    763,
+    507
    ],
    [
     "Social Amenities",
-    [
-     256,
-     768
-    ],
-    "L"
+    260,
+    999
    ],
    [
     "Justice",
-    [
-     768,
-     768
-    ],
-    "R"
+    763,
+    999
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -35,7 +35,7 @@ The story of his conversion is told as a clear sequence of events in Acts 9, wit
 7. **Sight restored and baptism:** Ananias obeyed. He went to the house, laid his hands on Saul, and called him "Brother Saul." He told him Jesus had sent him so he might receive his sight and be filled with the Holy Spirit. Immediately, something like scales fell from Saul's eyes. He regained his sight, arose, and was baptized.
 8. **The aftermath:** After eating and regaining his strength, Saul immediately began preaching in the synagogues that Christ is the Son of God. The people were amazed at his transformation. Soon, the Jews in Damascus plotted to kill him, but his fellow disciples saved his life by lowering him down the outside of the city wall in a basket at night.
 
-[IMAGE: A blinding beam of light from the sky shining down on a man (Saul) who has fallen backward onto a dusty road, shielding his eyes with his arm. In the background, two travelling companions stand frozen in confusion, holding staffs. Clean flat textbook style, white background.]
+![A beam of bright heavenly light shines down upon Saul, who falls backward onto a dirt path shielding his eyes, while two companions look on in confusion.](images/C19-01-conversion-paul-damascus-road.png)
 
 ## Conversion of Cornelius
 
@@ -51,7 +51,7 @@ The conversion of Cornelius is a landmark event in Christian history because it 
 6. **The sermon and the Holy Spirit:** Cornelius explained his vision, and Peter realized the profound truth: *"Of a truth I perceive that God is no respecter of persons: But in every nation he that feareth him, and worketh righteousness, is accepted with him"* (Acts 10:34-35). As Peter preached about the life, death, and resurrection of Jesus, the Holy Spirit suddenly fell on all the Gentiles hearing the word.
 7. **Baptism of the Gentiles:** The Jewish believers who had travelled with Peter were astonished because the gift of the Holy Spirit was poured out on the Gentiles, evidenced by them speaking in tongues and magnifying God. Recognizing God's clear acceptance of them, Peter commanded that they be baptized in water in the name of the Lord.
 
-[IMAGE: A rooftop scene with a man (Peter) looking up in shock as a large white sheet, tied at its four corners, descends from the clouds. Inside the sheet are various animals, including cows, pigs, snakes, and birds. Clean flat textbook style, white background.]
+![A man on a rooftop looking up in surprise at a large white sheet descending from the clouds, carrying various animals including cows, pigs, birds, and reptiles.](images/C19-02-peters-vision-sheet-animals.png)
 
 ## Comparison of the conversions of Saul and Cornelius
 

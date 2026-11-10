@@ -1,0 +1,100 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Negative adverb pairs",
+ "nodes": [
+  {
+   "id": "ns",
+   "text": "No sooner",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "note1",
+   "text": "sooner is a comparative → than",
+   "shape": "plain"
+  },
+  {
+   "id": "than",
+   "text": "than",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "hardly",
+   "text": "Hardly",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "scarcely",
+   "text": "Scarcely",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "note2",
+   "text": "never 'than'",
+   "shape": "plain"
+  },
+  {
+   "id": "when",
+   "text": "when",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ex1",
+   "text": "No sooner [HAD] the bell rung than the students rushed out.",
+   "shape": "plain"
+  },
+  {
+   "id": "ex2",
+   "text": "Hardly [HAD] we sat down when the light went off.",
+   "shape": "plain"
+  },
+  {
+   "id": "rule",
+   "text": "Inversion: auxiliary [HAD] placed before subject",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ns",
+   "to": "note1"
+  },
+  {
+   "from": "note1",
+   "to": "than"
+  },
+  {
+   "from": "hardly",
+   "to": "note2"
+  },
+  {
+   "from": "scarcely",
+   "to": "note2"
+  },
+  {
+   "from": "note2",
+   "to": "when"
+  },
+  {
+   "from": "than",
+   "to": "ex1"
+  },
+  {
+   "from": "when",
+   "to": "ex2"
+  },
+  {
+   "from": "ex1",
+   "to": "rule"
+  },
+  {
+   "from": "ex2",
+   "to": "rule"
+  }
+ ]
+}

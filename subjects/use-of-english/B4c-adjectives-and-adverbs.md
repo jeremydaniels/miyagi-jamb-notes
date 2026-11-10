@@ -517,7 +517,7 @@ With verbs of movement (go, come, arrive), place usually comes first: We went **
 - "Hardly" and "scarcely" are not comparatives, so they never take "than". Wrong: "Hardly … than".
 - Normally the **past perfect** follows the starter (had arrived, had started) and the **simple past** follows the partner (rang, rushed).
 
-[IMAGE: A simple two-row chart titled "Negative adverb pairs". Row 1: a green box "No sooner" connected by an arrow to a green box "than", with a small note "sooner is a comparative → than". Row 2: two blue boxes "Hardly" and "Scarcely" connected by arrows to a blue box "when", with a small note "never 'than'". Beneath, an example strip: "No sooner had the bell rung than the students rushed out." and "Hardly had we sat down when the light went off." with the auxiliary "had" highlighted before the subject to show inversion. Clean flat textbook style, white background, soft colours.]
+![Diagram explaining negative adverb pairs No sooner than and Hardly Scarcely when, with explanatory notes and example sentences highlighting subject-auxiliary inversion using had.](images/B4c-01-negative-adverb-pairs-chart.png)
 
 ### Comparison of adverbs (brief)
 

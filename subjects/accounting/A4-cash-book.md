@@ -156,7 +156,7 @@ Let us trace the calculations and the double-entry effects:
 - **Effect in the seller's books:** Debit Cash Book ₦171,000 (money received). Debit Discount Allowed ₦9,000 (an expense). Credit the Debtor ₦180,000 (clearing the debt). 
 - **Effect in the buyer's books:** Credit Cash Book ₦171,000 (money paid). Credit Discount Received ₦9,000 (an income). Debit the Creditor ₦180,000.
 
-[IMAGE: Flow diagram showing the effect of discounts. Left box: 'List Price ₦200,000'. Arrow pointing to middle box with text '- 10% Trade Discount (₦20,000)'. Middle box: 'Invoice Value ₦180,000 recorded in Sales'. Arrow pointing to right box with text '- 5% Cash Discount (₦9,000)'. Right box: 'Cash Received ₦171,000'. Style: clean flat textbook illustration, white background.]
+![Flowchart tracing list price of 200,000 Naira minus a 10 percent trade discount to invoice value of 180,000 Naira, then minus 5 percent cash discount to 171,000 Naira cash received.](images/A4-01-discount-calculation-flow.png)
 
 ## The Petty Cash Book and Imprest System
 
@@ -216,7 +216,7 @@ On June 1, a petty cashier was given a cash float of ₦10,000. During the week,
 - Reimbursement = ₦4,500. 
 - The new float on June 8 is ₦5,500 + ₦4,500 = ₦10,000.
 
-[IMAGE: A cyclic flow diagram illustrating the petty cash imprest system. Top left: Chief Cashier hands ₦10,000 to Petty Cashier. Top right: Petty Cashier pays for small items: a broom, a pen, and a keke (tricycle). Bottom right: Petty Cashier shows receipts totalling ₦4,500 to Chief Cashier. Bottom left: Chief Cashier hands over exactly ₦4,500 cash to restore the float back to ₦10,000. Style: clean flat textbook illustration, white background.]
+![A cyclic diagram of a petty cash imprest system showing initial float disbursement, small expense payments, receipt submission, and reimbursement back to the starting balance.](images/A4-02-petty-cash-imprest-cycle.png)
 
 ## Key terms
 

@@ -1,0 +1,17 @@
+{
+ "template": "cycle",
+ "title": "Petty Cash Imprest System",
+ "center": "Imprest System\n(Float: ₦10,000)",
+ "items": [
+  "Chief Cashier hands\n₦10,000 to Petty Cashier",
+  "Petty Cashier pays for\nsmall items (broom, pen, keke)",
+  "Petty Cashier presents receipts\ntotalling ₦4,500",
+  "Chief Cashier reimburses ₦4,500\nto restore float to ₦10,000"
+ ],
+ "edge_labels": [
+  "Initial Float",
+  "Disbursements",
+  "Vouchers Submitted",
+  "Reimbursement"
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Effect of Discounts",
+ "nodes": [
+  {
+   "id": "list_price",
+   "text": "List Price ₦200,000",
+   "shape": "box"
+  },
+  {
+   "id": "trade_disc",
+   "text": "- 10% Trade Discount (₦20,000)",
+   "shape": "plain"
+  },
+  {
+   "id": "invoice_val",
+   "text": "Invoice Value ₦180,000 recorded in Sales",
+   "shape": "box"
+  },
+  {
+   "id": "cash_disc",
+   "text": "- 5% Cash Discount (₦9,000)",
+   "shape": "plain"
+  },
+  {
+   "id": "cash_rec",
+   "text": "Cash Received ₦171,000",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "list_price",
+   "to": "trade_disc"
+  },
+  {
+   "from": "trade_disc",
+   "to": "invoice_val"
+  },
+  {
+   "from": "invoice_val",
+   "to": "cash_disc"
+  },
+  {
+   "from": "cash_disc",
+   "to": "cash_rec"
+  }
+ ]
+}

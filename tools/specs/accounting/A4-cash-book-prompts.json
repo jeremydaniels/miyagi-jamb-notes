@@ -1,0 +1,10 @@
+[
+ [
+  "A4-01-discount-calculation-flow",
+  "Flow diagram showing the effect of discounts. Left box: 'List Price ₦200,000'. Arrow pointing to middle box with text '- 10% Trade Discount (₦20,000)'. Middle box: 'Invoice Value ₦180,000 recorded in Sales'. Arrow pointing to right box with text '- 5% Cash Discount (₦9,000)'. Right box: 'Cash Received ₦171,000'. Style: clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-02-petty-cash-imprest-cycle",
+  "A cyclic flow diagram illustrating the petty cash imprest system. Top left: Chief Cashier hands ₦10,000 to Petty Cashier. Top right: Petty Cashier pays for small items: a broom, a pen, and a keke (tricycle). Bottom right: Petty Cashier shows receipts totalling ₦4,500 to Chief Cashier. Bottom left: Chief Cashier hands over exactly ₦4,500 cash to restore the float back to ₦10,000. Style: clean flat textbook illustration, white background."
+ ]
+]

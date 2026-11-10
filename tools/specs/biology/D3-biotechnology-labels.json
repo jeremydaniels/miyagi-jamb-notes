@@ -2,14 +2,6 @@
  "D3-01-traditional-vs-modern-biotechnology": {
   "labels": [
    [
-    "Traditional biotechnology",
-    [
-     274,
-     369
-    ],
-    "L"
-   ],
-   [
     "palm wine",
     [
      136,
@@ -42,14 +34,6 @@
     "L"
    ],
    [
-    "Modern biotechnology",
-    [
-     768,
-     512
-    ],
-    "R"
-   ],
-   [
     "fermenter",
     [
      726,
@@ -73,70 +57,67 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Traditional biotechnology",
+    256,
+    989
+   ],
+   [
+    "Modern biotechnology",
+    768,
+    1033
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-02-plant-tissue-culture-steps": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    456,
+    120
+   ]
+  ],
+  "captions": [
    [
     "1 parent plant",
-    [
-     194,
-     260
-    ],
-    "L"
+    193,
+    457
    ],
    [
-    "2 explant cut from shoot tip and sterilised",
-    [
-     563,
-     266
-    ],
-    "R"
+    "2 explant cut\nfrom shoot tip\nand sterilised",
+    559,
+    460
    ],
    [
-    "3 explant on sterile nutrient agar with hormones",
-    [
-     854,
-     333
-    ],
-    "R"
+    "3 explant on\nsterile\nnutrient agar\nwith hormones",
+    856,
+    466
    ],
    [
     "4 callus forms",
-    [
-     189,
-     857
-    ],
-    "L"
+    186,
+    959
    ],
    [
-    "5 shoots and roots develop",
-    [
-     436,
-     802
-    ],
-    "L"
+    "5 shoots and\nroots develop",
+    434,
+    959
    ],
    [
-    "6 plantlets hardened off and planted out",
-    [
-     768,
-     778
-    ],
-    "R"
+    "6 plantlets\nhardened off and\nplanted out",
+    775,
+    958
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-03-legume-root-nodules-rhizobium": {
   "labels": [
-   [
-    "legume plant",
-    [
-     528,
-     437
-    ],
-    "R"
-   ],
    [
     "root nodules",
     [
@@ -177,7 +158,16 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "legume plant",
+    620,
+    977
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-04-penicillin-zone-inhibition-plate": {
   "labels": [
@@ -206,14 +196,6 @@
     "L"
    ],
    [
-    "Penicillium (magnified)",
-    [
-     861,
-     564
-    ],
-    "R"
-   ],
-   [
     "spores",
     [
      827,
@@ -221,7 +203,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Penicillium\n(magnified)",
+    810,
+    843
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-05-industrial-fermenter-cross-section": {
   "labels": [
@@ -334,30 +325,6 @@
  "D3-06-garri-processing-flow": {
   "labels": [
    [
-    "1 peel",
-    [
-     241,
-     167
-    ],
-    "L"
-   ],
-   [
-    "2 wash and grate",
-    [
-     741,
-     208
-    ],
-    "R"
-   ],
-   [
-    "3 press and ferment (2 to 4 days)",
-    [
-     271,
-     464
-    ],
-    "L"
-   ],
-   [
     "lactic acid bacteria and yeasts",
     [
      640,
@@ -374,22 +341,6 @@
     "L"
    ],
    [
-    "4 sieve",
-    [
-     263,
-     805
-    ],
-    "L"
-   ],
-   [
-    "5 roast (garrify)",
-    [
-     702,
-     820
-    ],
-    "R"
-   ],
-   [
     "garri",
     [
      883,
@@ -397,7 +348,36 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1 peel",
+    246,
+    296
+   ],
+   [
+    "2 wash and grate",
+    749,
+    374
+   ],
+   [
+    "3 press and ferment (2 to 4 days)",
+    411,
+    623
+   ],
+   [
+    "4 sieve",
+    262,
+    986
+   ],
+   [
+    "5 roast (garrify)",
+    757,
+    974
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-07-bread-making-yeast-fermentation": {
   "caption_below": "Proving: yeast ferments sugar, carbon dioxide bubbles are trapped and the dough rises. Baking: yeast is killed and alcohol evaporates.",

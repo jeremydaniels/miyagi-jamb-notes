@@ -1,0 +1,14 @@
+[
+ [
+  "A12-01-hierarchical-business-organogram",
+  "A generic organogram diagram showing a hierarchy. At the top is a box labeled 'Managing Director', with vertical lines branching down to three boxes labeled 'Production Manager', 'Marketing Manager', and 'Finance Manager'. Below 'Marketing Manager', lines branch down to 'Sales Officers'. The style is a clean flat textbook illustration on a white background."
+ ],
+ [
+  "A12-02-line-staff-organogram",
+  "A Line and Staff organogram. At the top, 'Managing Director'. A vertical line goes down to 'Production Manager', but halfway down this line, a horizontal dashed line extends sideways to a box labeled 'Legal Adviser (Staff)'. Solid vertical lines continue from 'Production Manager' down to 'Supervisors'."
+ ],
+ [
+  "A12-03-matrix-organization-structure",
+  "A Matrix organogram forming a grid. Across the top row are functional heads: 'Production Manager', 'Marketing Manager', 'Finance Manager'. Down the left column are 'Project A Manager' and 'Project B Manager'. The grid intersections contain boxes representing team members who report upwards (to functional managers) and sideways (to project managers), showing dual reporting lines."
+ ]
+]

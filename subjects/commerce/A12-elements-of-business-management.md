@@ -92,7 +92,7 @@ The principles of management are fundamental guidelines for decision-making and 
 
 An **organizational structure** is the framework that shows how authority, responsibility, and tasks are divided, coordinated, and controlled within a business. It is usually drawn as a diagram called an **organogram** (organization chart). 
 
-[IMAGE: A generic organogram diagram showing a hierarchy. At the top is a box labeled 'Managing Director', with vertical lines branching down to three boxes labeled 'Production Manager', 'Marketing Manager', and 'Finance Manager'. Below 'Marketing Manager', lines branch down to 'Sales Officers'. The style is a clean flat textbook illustration on a white background.]
+![An organogram showing Managing Director branching down to Production Manager, Marketing Manager, and Finance Manager, with Sales Officers positioned below Marketing Manager.](images/A12-01-hierarchical-business-organogram.png)
 
 ### 1. Line structure
 Also known as scalar or military structure, this is the simplest and oldest form of organizational structure. Authority flows in a direct, straight vertical line from the top management down to the lowest worker.
@@ -106,7 +106,7 @@ This structure combines the direct flow of authority (line managers) with the pr
 * **Advantages:** Line managers get expert advice; relieves line managers of specialized tasks.
 * **Disadvantages:** Can cause conflict if line managers ignore the advice of staff experts, or if staff experts try to give orders. It is more expensive to maintain.
 
-[IMAGE: A Line and Staff organogram. At the top, 'Managing Director'. A vertical line goes down to 'Production Manager', but halfway down this line, a horizontal dashed line extends sideways to a box labeled 'Legal Adviser (Staff)'. Solid vertical lines continue from 'Production Manager' down to 'Supervisors'. Labels to add: "Line Authority (solid line)", "Staff/Advisory Authority (dashed line)". Clean flat textbook style, white background.]
+![A line and staff organogram showing Managing Director connected to Production Manager and Supervisors with solid lines, and Legal Adviser connected sideways via a dashed line.](images/A12-02-line-staff-organogram.png)
 
 ### 3. Functional structure
 In a functional structure, the organization is divided into departments based on specialized functions or skills (e.g., Production, Marketing, Finance). This is the most common structure for medium and large businesses.
@@ -120,7 +120,7 @@ A matrix structure (or project structure) combines functional grouping with proj
 * **Advantages:** Very flexible; excellent for complex, temporary projects; allows pooling of expert knowledge.
 * **Disadvantages:** It breaks the principle of "unity of command" (workers have two bosses), which can lead to confusion and power struggles between project managers and functional managers.
 
-[IMAGE: A Matrix organogram forming a grid. Across the top row are functional heads: 'Production Manager', 'Marketing Manager', 'Finance Manager'. Down the left column are 'Project A Manager' and 'Project B Manager'. The grid intersections contain boxes representing team members who report upwards (to functional managers) and sideways (to project managers), showing dual reporting lines. Clean flat textbook style, white background.]
+![Matrix organizational structure diagram showing functional managers at the top, project managers on the left, and cross-functional teams with dual vertical and horizontal reporting lines.](images/A12-03-matrix-organization-structure.png)
 
 ### 5. Committee structure
 A committee is a group of people formally appointed to consider, investigate, or decide on a specific matter. It can be temporary (ad-hoc) or permanent (standing).

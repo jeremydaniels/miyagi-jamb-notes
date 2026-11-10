@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Organogram",
+ "nodes": [
+  {
+   "id": "md",
+   "text": "Managing Director",
+   "shape": "box"
+  },
+  {
+   "id": "pm",
+   "text": "Production Manager",
+   "shape": "box"
+  },
+  {
+   "id": "mm",
+   "text": "Marketing Manager",
+   "shape": "box"
+  },
+  {
+   "id": "fm",
+   "text": "Finance Manager",
+   "shape": "box"
+  },
+  {
+   "id": "so",
+   "text": "Sales Officers",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "md",
+   "to": "pm"
+  },
+  {
+   "from": "md",
+   "to": "mm"
+  },
+  {
+   "from": "md",
+   "to": "fm"
+  },
+  {
+   "from": "mm",
+   "to": "so"
+  }
+ ]
+}

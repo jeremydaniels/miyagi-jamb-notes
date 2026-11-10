@@ -28,7 +28,7 @@ Every business needs money to start, run its daily operations, and expand. This 
 2. **Medium-term finance:** Money needed for a few years (usually 1 to 5 years) to buy vehicles or machinery.
 3. **Long-term finance:** Money needed for a long period (over 5 years) or permanently, used to buy fixed assets like land, buildings, or heavy equipment.
 
-[IMAGE: A flowchart showing the classification of business finance. At the top, a box labeled "Business Finance". Three arrows point down to "Short-term (0-1 year)", "Medium-term (1-5 years)", and "Long-term (Over 5 years)". Under Short-term: "Bank overdraft, Credit purchase". Under Medium-term: "Leasing, Medium-term loans". Under Long-term: "Shares, Debentures, Mortgages, Retained profits". Clean flat textbook illustration, white background.]
+![A flowchart categorizing business finance into short-term, medium-term, and long-term finance, listing examples of financial sources under each category.](images/A8-01-business-finance-classification-flowchart.png)
 
 Below are the various ways a business can raise finance:
 
@@ -82,7 +82,7 @@ These terms relate specifically to the **share capital** of a limited liability 
 | **Called-up Capital** | The portion of the issued capital that the company has requested the shareholders to pay for so far. (Companies sometimes ask for payment in instalments). |
 | **Paid-up Capital** | The actual amount of money the shareholders have paid to the company out of the called-up capital. If some shareholders fail to pay, the unpaid amount is called **calls in arrears**. |
 
-[IMAGE: A diagram showing four nested rectangles (like Russian dolls) to illustrate share capital. The largest outer rectangle is labeled "Authorized Capital (₦200,000)". Inside it is a slightly smaller rectangle labeled "Issued Capital (₦160,000)". Inside that is "Called-up Capital (₦120,000)". The innermost, smallest rectangle is labeled "Paid-up Capital (₦117,500)". Clean flat textbook illustration, white background.]
+![Four nested colored rectangles illustrating the hierarchy of share capital from Authorized Capital down through Issued, Called-up, and Paid-up Capital with corresponding monetary values.](images/A8-02-share-capital-nested.png)
 
 ### 2. Share Capital
 Share capital is the total amount of money raised by a company through the issue of shares. It is divided into two main types:

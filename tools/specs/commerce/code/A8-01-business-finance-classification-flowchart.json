@@ -1,0 +1,68 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Classification of Business Finance",
+ "nodes": [
+  {
+   "id": "top",
+   "text": "Business Finance",
+   "shape": "box"
+  },
+  {
+   "id": "short",
+   "text": "Short-term\n(0-1 year)",
+   "shape": "round"
+  },
+  {
+   "id": "medium",
+   "text": "Medium-term\n(1-5 years)",
+   "shape": "round"
+  },
+  {
+   "id": "long",
+   "text": "Long-term\n(Over 5 years)",
+   "shape": "round"
+  },
+  {
+   "id": "short_ex",
+   "text": "Bank overdraft,\nCredit purchase",
+   "shape": "plain"
+  },
+  {
+   "id": "medium_ex",
+   "text": "Leasing,\nMedium-term loans",
+   "shape": "plain"
+  },
+  {
+   "id": "long_ex",
+   "text": "Shares, Debentures,\nMortgages, Retained profits",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "top",
+   "to": "short"
+  },
+  {
+   "from": "top",
+   "to": "medium"
+  },
+  {
+   "from": "top",
+   "to": "long"
+  },
+  {
+   "from": "short",
+   "to": "short_ex"
+  },
+  {
+   "from": "medium",
+   "to": "medium_ex"
+  },
+  {
+   "from": "long",
+   "to": "long_ex"
+  }
+ ]
+}

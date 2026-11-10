@@ -192,7 +192,7 @@ Wind sculpts the hot deserts (like the Sahara) into bizarre and distinct shapes.
   - **Seif Dunes (Longitudinal Dunes):** Long, narrow, parallel ridges of sand that can stretch for hundreds of kilometers in the direction of the prevailing wind.
 - **Loess:** Extensive, very deep deposits of fine, wind-blown yellow dust. Loess soils are extremely fertile.
 
-![A split educational diagram showing wind landforms: an erosional rock pedestal eroded by blowing sand on the left, and a crescent-shaped barchan dune on the right.](images/B4-04-desert-wind-landforms.png)
+[IMAGE: A split diagram of wind landforms. On the left, an erosional Rock Pedestal: a large rounded rock resting on a very thin, severely eroded column, surrounded by flying sand particles carried by horizontal wind arrows near the ground. On the right, a depositional Barchan Dune: a smooth crescent-shaped hill of golden sand, with wind arrows hitting the gently sloping back and the two pointed "horns" pointing forward in the direction of the wind. Labels: "Rock Pedestal (Mushroom Rock)", "Intense abrasion near ground", "Barchan Dune", "Wind direction", "Horns pointing downwind". Clean flat textbook illustration, white background.]
 
 ### 4. Landforms of Wave Action (Coasts)
 Waves shape the boundaries where the land meets the sea.

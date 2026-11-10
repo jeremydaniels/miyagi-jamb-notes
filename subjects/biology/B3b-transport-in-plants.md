@@ -130,7 +130,7 @@ These processes happen in all organisms, plants and animals alike. They move mat
 
 **Conclusion:** ammonia gas (an alkali) diffused along the tube from the high concentration at the cotton wool to the lower concentration further along. (A simpler everyday example: the smell of perfume, or of fried plantain or fish, spreads through a room by diffusion.)
 
-[IMAGE: Two diffusion set-ups side by side. Left: a glass beaker of water with a purple potassium permanganate crystal at the bottom, shown at three stages (at the start, a small purple cloud around the crystal; after some time, a larger spreading cloud; after several hours, the whole beaker evenly pale purple). Right: a horizontal glass tube closed at both ends, with cotton wool at the left end and five strips of litmus paper along the tube, the three nearest the cotton wool coloured blue and the two furthest still red. Labels to add: "potassium permanganate crystal", "water", "start", "after 30 minutes", "after some hours", "cotton wool soaked in ammonia", "damp red litmus turned blue", "damp red litmus still red", "glass tube". Clean flat textbook style, white background.]
+![Two diffusion experiments: three beakers showing diffusion of potassium permanganate in water over time, and a horizontal glass tube demonstrating ammonia gas diffusion across litmus paper strips.](images/B3b-01-diffusion-laboratory-experiment-setups.png)
 
 ### Osmosis
 
@@ -174,7 +174,7 @@ Plant cells have a strong **cellulose cell wall**, which is **fully permeable** 
 - In a **hypotonic** solution (e.g. water), water enters the vacuole by osmosis. The vacuole swells and pushes the cytoplasm against the cell wall. The wall pushes back and stops the cell from bursting. The cell becomes firm: it is **turgid**.
 - In a **hypertonic** solution (e.g. strong salt or sugar solution), water leaves the vacuole by osmosis. The vacuole shrinks, the cell becomes soft (**flaccid**), and eventually the cytoplasm pulls away from the cell wall: the cell is **plasmolysed**.
 
-[IMAGE: Two rows of cells comparing animal and plant cells in three solutions. Top row (red blood cells): in water, a swollen cell bursting (haemolysis); in isotonic solution, a normal biconcave cell; in strong salt solution, a shrunken cell with a spiky outline (crenation). Bottom row (plant cells with green cytoplasm and a pale blue vacuole): in water, a turgid cell with the cytoplasm pressed against the wall; in isotonic solution, a flaccid cell; in strong salt solution, a plasmolysed cell with the cytoplasm pulled away from the wall and a shrunken vacuole. Small blue arrows show water entering or leaving. Column headings and labels to add: "hypotonic (water)", "isotonic", "hypertonic (strong salt solution)", "red blood cell bursts (haemolysis)", "normal red blood cell", "crenated red blood cell", "turgid plant cell", "flaccid plant cell", "plasmolysed plant cell", "cell wall", "cell membrane", "vacuole". Clean flat textbook style, white background.]
+![Comparison of animal and plant cells in hypotonic, isotonic, and hypertonic solutions, showing lysed, normal, and crenated blood cells alongside turgid, flaccid, and plasmolysed plant cells.](images/B3b-02-osmosis-plant-animal-cells.png)
 
 #### Experiment 3: osmosis using a thistle funnel osmometer
 
@@ -229,7 +229,7 @@ An **osmometer** is an apparatus for demonstrating (or measuring) osmosis.
 
 **A variation:** put **distilled water** in the cavity and stand the potato in **concentrated sugar solution**. The level in the cavity **falls**, because water now moves out of the cavity, through the potato cells, into the strong solution in the dish.
 
-[IMAGE: Potato osmometer experiment shown as two set-ups side by side. Each is a peeled potato standing in a glass dish of water, with a cavity cut in its top containing sugar solution, and a pin marking the starting level. Left (raw potato, labelled "experiment"): the solution level in the cavity has risen well above the pin. Right (boiled potato, labelled "control"): the level is still at the pin. Small blue arrows on the left show water moving from the dish through the potato into the cavity. Labels to add: "raw potato", "boiled potato (control)", "concentrated sugar solution", "pin marking original level", "level has risen", "level unchanged", "distilled water", "dish", "water enters by osmosis". Clean flat textbook style, white background.]
+![A side-by-side potato osmometer experiment comparing a raw potato where liquid level rose above a pin to a boiled potato where liquid level remained unchanged.](images/B3b-03-potato-osmometer-experiment.png)
 
 #### Experiment 5: potato strips in water and in salt solution
 
@@ -293,7 +293,7 @@ The same thing happens in the kitchen: sliced garden egg, cucumber or lettuce pu
 
 **Conclusion:** the onion cells lost water by osmosis in the hypertonic sugar solution (plasmolysis) and regained it in water (deplasmolysis). This also shows that the cell membrane is selectively permeable while the cell wall is fully permeable.
 
-[IMAGE: Three magnified views of the same group of four red onion epidermis cells (brick-shaped, with walls, nucleus and a purple vacuole). Panel 1 in water: turgid cells, purple vacuole filling the cell. Panel 2 in strong sugar solution: plasmolysed cells, the cytoplasm and a smaller, darker purple vacuole pulled away from the cell wall, with clear spaces between wall and membrane. Panel 3 back in water: turgid cells again. Labels to add: "1. in water: turgid", "2. in strong sugar solution: plasmolysed", "3. returned to water: deplasmolysis", "cell wall", "cell membrane", "cytoplasm", "vacuole with coloured cell sap", "nucleus", "space filled with outside solution". Clean flat textbook style, white background.]
+![Three stages of four plant cells showing turgid state in water, plasmolysed state with cytoplasm pulled away from walls in hypertonic solution, and deplasmolysis restored in water.](images/B3b-04-onion-epidermis-cell-plasmolysis.png)
 
 #### Plasmolysis in everyday life
 
@@ -359,7 +359,7 @@ The vascular tissues run through every organ of the plant. The main organs of th
 
 **Why the root has its vascular tissue in the centre:** roots are pulled (by the wind swaying the plant), not bent, so a central, cable-like core resists pulling forces; it is also close to every part of the cortex, to which it supplies food.
 
-[IMAGE: Transverse section of a young dicot root shown as a circle. From outside to inside: a piliferous layer with several long root hairs, a wide cortex of round parenchyma cells, a single-layered endodermis, a pericycle, and a central stele with a four-armed star-shaped xylem (coloured red-brown) and four groups of phloem (coloured green) between the arms. A small inset shows the low-power plan only. Labels to add: "root hair", "piliferous layer (epidermis)", "cortex", "endodermis", "pericycle", "xylem", "phloem", "stele". Clean flat textbook style, white background.]
+![Transverse section of a young dicot root with root hairs, epidermis, cortex, endodermis, pericycle, star-shaped xylem, and phloem, alongside an inset showing a low-power plan.](images/B3b-05-dicot-root-transverse-section.png)
 
 #### The stem
 
@@ -376,9 +376,9 @@ The vascular tissues run through every organ of the plant. The main organs of th
   - There is no clear division into cortex and pith.
 - **Why the stem has its vascular tissue near the outside (in dicots):** a stem must resist **bending** by the wind and the weight of leaves. A ring of strong tissue near the outside resists bending best (like the hollow steel pipes used for scaffolding).
 
-[IMAGE: Transverse section of a young dicot stem shown as a circle, with an enlarged wedge showing one vascular bundle in detail. Low-power plan: epidermis with cuticle, collenchyma under it, a cortex, a ring of about eight vascular bundles, medullary rays between them, and a large central pith. Enlarged bundle: phloem (green) towards the outside, a thin band of cambium, and xylem (red-brown) with large vessels towards the centre, with a cap of fibres outside the phloem. Labels to add: "epidermis", "cuticle", "collenchyma", "cortex", "vascular bundle", "phloem", "cambium", "xylem", "xylem vessel", "fibres", "medullary ray", "pith". Clean flat textbook style, white background.]
+![Transverse section of a young dicot stem showing an overview ring of vascular bundles and an enlarged view highlighting vascular bundle anatomy.](images/B3b-06-dicot-stem-transverse-section.png)
 
-[IMAGE: Transverse section of a monocot (maize) stem: a circle filled with ground parenchyma and many small oval vascular bundles scattered throughout, more crowded near the edge. An enlarged view of one bundle shows a sclerenchyma sheath around phloem (towards the outside) and xylem with two large vessels in a "V" or face-like pattern, with no cambium. Labels to add: "epidermis", "ground tissue (parenchyma)", "scattered vascular bundles", "sclerenchyma bundle sheath", "phloem", "xylem vessels", "air space". Clean flat textbook style, white background.]
+![Diagram showing a cross-section of a monocot stem with scattered vascular bundles in ground tissue, alongside an enlarged view of a single vascular bundle.](images/B3b-07-monocot-stem-transverse-section.png)
 
 #### The leaf
 
@@ -433,7 +433,7 @@ Xylem is made of four kinds of cells:
 
 **Key features to remember about phloem:** mostly **living** cells; sieve tubes have **sieve plates** and **no nucleus**; companion cells have a nucleus; flow can be **in both directions** (up and down); walls are not lignified (except fibres).
 
-[IMAGE: Longitudinal sections of xylem and phloem side by side. Left (xylem, red-brown tones): a xylem vessel made of several cells end to end with the end walls gone, showing ring (annular), spiral and pitted lignin thickening in different parts, and beside it a tracheid with tapering ends and pits. Right (phloem, green tones): a sieve tube made of several cells joined by sieve plates with pores, thin cytoplasm and no nucleus, with a narrow companion cell beside each element containing a nucleus and dense cytoplasm. Below each, a small transverse section. Labels to add: "xylem vessel", "no end walls", "annular thickening", "spiral thickening", "pits", "lignin", "tracheid", "phloem", "sieve tube element", "sieve plate", "pores", "companion cell", "nucleus", "cytoplasm". Clean flat textbook style, white background.]
+![Diagram showing longitudinal and transverse sections of xylem vessels and tracheids alongside phloem sieve tube elements and companion cells.](images/B3b-08-xylem-phloem-longitudinal-section.png)
 
 ## Functions of the xylem and phloem
 
@@ -493,7 +493,7 @@ The most widely accepted explanation is the **mass (pressure) flow hypothesis**,
 
 **A simple version:** stand a white flower (e.g. a white rose or a white periwinkle) or a stick of celery in coloured water; after some hours the petals become streaked with colour.
 
-[IMAGE: The eosin experiment in three parts. Left: a balsam seedling standing with its roots in a beaker of red eosin solution, with thin red streaks visible running up the translucent stem and the leaf veins tinted red. Middle: an enlarged transverse section of the stem showing a ring of vascular bundles in which only the xylem part of each bundle is red, and the phloem, cortex and pith are unstained. Right: a transverse section of the root with only the central star-shaped xylem coloured red. Labels to add: "balsam seedling", "eosin solution", "red streaks in stem", "leaf veins stained red", "xylem stained red", "phloem not stained", "cortex", "pith", "root: xylem stained red". Clean flat textbook style, white background.]
+![Diagram of an eosin experiment showing a seedling in red dye alongside cross-sections of the stem and root highlighting red-stained xylem tissues.](images/B3b-09-plant-eosin-dye-transport.png)
 
 #### Experiment 8: the ringing (girdling) experiment (phloem carries food)
 
@@ -578,7 +578,7 @@ Before looking at the mechanisms, here is the complete journey of water from the
 6. **Into the leaf cells:** in the leaf, water leaves the xylem in the veins and passes by osmosis into the mesophyll cells.
 7. **Out of the leaf:** water evaporates from the wet walls of the mesophyll cells into the air spaces, and the water vapour **diffuses** out through the **stomata** into the air (**transpiration**).
 
-[IMAGE: Transverse section through a sector of a root showing the path of water: soil particles with films of water around them, a long root hair cell growing between them, then a few layers of cortex cells, the endodermis with its Casparian strip drawn as a dark band in the walls, the pericycle and a xylem vessel in the centre. Blue arrows show water moving from the soil into the root hair, across the cortex from cell to cell and along cell walls, through the endodermis cells, and into the xylem. Labels to add: "soil particle", "soil water", "root hair", "piliferous layer", "cortex cells", "water moves by osmosis from cell to cell", "endodermis", "Casparian strip", "pericycle", "xylem vessel". Clean flat textbook style, white background.]
+![Cross section diagram of a plant root sector demonstrating water transport pathways through soil particles, root hair, cortex, endodermis with Casparian strip, and xylem.](images/B3b-11-root-water-absorption-pathway.png)
 
 ### Absorption of mineral salts
 
@@ -610,7 +610,7 @@ Mineral salts are absorbed as **ions** (e.g. nitrate NO₃⁻, phosphate, potass
 4. When the stomata are open, the water vapour **diffuses** out through the stomata, from the humid air spaces (high concentration of water vapour) into the drier outside air (lower concentration).
 5. The cells that lost water now have more concentrated sap, so they draw water by osmosis from neighbouring cells, which draw it from the xylem. This creates a **pull** on the water in the xylem (the transpiration pull; see below).
 
-[IMAGE: Transverse section of part of a dicot leaf showing the upper epidermis with cuticle, palisade mesophyll, spongy mesophyll with large air spaces, a small vein with xylem and phloem, the lower epidermis and an open stoma between two guard cells. Blue arrows show water leaving the xylem, moving into mesophyll cells, evaporating into the air spaces, and water vapour (shown as small dots) diffusing out through the stoma into the air. Labels to add: "cuticle", "upper epidermis", "palisade mesophyll", "spongy mesophyll", "air space saturated with water vapour", "xylem", "phloem", "lower epidermis", "guard cell", "stoma", "water vapour diffuses out", "water evaporates from cell walls". Clean flat textbook style, white background.]
+![Cross section diagram of a dicot leaf showing transpiration with water moving from the vein through mesophyll cells and evaporating out through a stoma.](images/B3b-12-dicot-leaf-transverse-section.png)
 
 ### Importance of transpiration
 
@@ -758,7 +758,7 @@ The explanation is called the **cohesion–tension theory**, put forward by **He
 
 **Problem:** if an **air bubble** forms in a xylem vessel (for example, when a stem is cut in air, or in very dry conditions), the water column breaks and that vessel can no longer carry water. This is why shoots for potometers are cut under water. Water can pass round a blocked vessel through the pits into neighbouring vessels.
 
-[IMAGE: Diagram of a whole tall plant (a tree outline) with a continuous blue column of water drawn from the roots up through the xylem in the trunk to a leaf. At the top, an enlarged leaf section shows water vapour diffusing out of a stoma. In the middle, an enlarged piece of xylem vessel shows water molecules as small linked circles sticking to each other and to the vessel wall. At the bottom, an enlarged root hair shows water entering from the soil. Upward arrows along the trunk. Labels to add: "water vapour lost through stomata (transpiration)", "water pulled from xylem into leaf cells", "tension (pull) in xylem", "cohesion: water molecules attract each other", "adhesion: water sticks to vessel walls", "continuous column of water in xylem", "water enters root hairs by osmosis", "lignified wall prevents collapse". Clean flat textbook style, white background.]
+![Diagram showing the transpiration stream in a tree with magnified insets of a stoma, xylem vessel with water cohesion and adhesion, and a root hair absorbing water.](images/B3b-14-transpiration-pull-whole-plant.png)
 
 ### Root pressure
 
@@ -816,7 +816,7 @@ The explanation is called the **cohesion–tension theory**, put forward by **He
 
 **Active transport in animals (for comparison):** absorption of glucose and amino acids in the **ileum** (when their concentration in the gut is lower than in the blood); reabsorption of glucose and salts in the **kidney tubules**; the sodium–potassium pump in **nerve cells**.
 
-[IMAGE: Close-up of a root hair cell membrane separating soil water (left, with a few scattered potassium ions drawn as small orange dots) from the cell sap (right, with many orange dots). A carrier protein in the membrane is shown in three stages: binding an ion on the outside, changing shape using ATP from a nearby mitochondrion, and releasing the ion on the inside. A thick arrow shows the movement from low to high concentration. Labels to add: "soil water (low concentration of ions)", "cell sap (high concentration of ions)", "cell membrane", "carrier protein", "ion", "ATP from respiration", "mitochondrion", "movement against the concentration gradient". Clean flat textbook style, white background.]
+![Diagram showing active transport across a cell membrane in three stages, moving ions from low concentration outside to high concentration inside using ATP from a mitochondrion.](images/B3b-16-active-transport-root-hair.png)
 
 ### Comparison of the mechanisms of transport (objective x)
 

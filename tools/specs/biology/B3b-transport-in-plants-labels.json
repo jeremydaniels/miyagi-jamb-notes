@@ -1,0 +1,971 @@
+{
+ "B3b-01-diffusion-laboratory-experiment-setups": {
+  "labels": [
+   [
+    "potassium permanganate crystal",
+    [
+     101,
+     587
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     102,
+     501
+    ],
+    "L"
+   ],
+   [
+    "start",
+    [
+     97,
+     512
+    ],
+    "L"
+   ],
+   [
+    "after 30 minutes",
+    [
+     268,
+     512
+    ],
+    "L"
+   ],
+   [
+    "after some hours",
+    [
+     440,
+     512
+    ],
+    "L"
+   ],
+   [
+    "cotton wool soaked in ammonia",
+    [
+     598,
+     501
+    ],
+    "R"
+   ],
+   [
+    "damp red litmus turned blue",
+    [
+     765,
+     503
+    ],
+    "R"
+   ],
+   [
+    "damp red litmus still red",
+    [
+     861,
+     503
+    ],
+    "R"
+   ],
+   [
+    "glass tube",
+    [
+     786,
+     460
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-02-osmosis-plant-animal-cells": {},
+ "B3b-03-potato-osmometer-experiment": {
+  "labels": [
+   [
+    "raw potato",
+    [
+     179,
+     353
+    ],
+    "L"
+   ],
+   [
+    "boiled potato (control)",
+    [
+     670,
+     358
+    ],
+    "R"
+   ],
+   [
+    "concentrated sugar solution",
+    [
+     757,
+     460
+    ],
+    "R"
+   ],
+   [
+    "pin marking original level",
+    [
+     394,
+     348
+    ],
+    "L"
+   ],
+   [
+    "level has risen",
+    [
+     266,
+     292
+    ],
+    "L"
+   ],
+   [
+    "level unchanged",
+    [
+     757,
+     346
+    ],
+    "R"
+   ],
+   [
+    "distilled water",
+    [
+     117,
+     701
+    ],
+    "L"
+   ],
+   [
+    "dish",
+    [
+     56,
+     640
+    ],
+    "L"
+   ],
+   [
+    "water enters by osmosis",
+    [
+     332,
+     501
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3b-04-onion-epidermis-cell-plasmolysis": {
+  "labels": [
+   [
+    "1. in water: turgid",
+    [
+     512,
+     189
+    ],
+    "R"
+   ],
+   [
+    "2. in strong sugar solution: plasmolysed",
+    [
+     512,
+     501
+    ],
+    "R"
+   ],
+   [
+    "3. returned to water: deplasmolysis",
+    [
+     512,
+     819
+    ],
+    "R"
+   ],
+   [
+    "cell wall",
+    [
+     522,
+     76
+    ],
+    "R"
+   ],
+   [
+    "cell membrane",
+    [
+     278,
+     497
+    ],
+    "L"
+   ],
+   [
+    "cytoplasm",
+    [
+     168,
+     264
+    ],
+    "L"
+   ],
+   [
+    "vacuole with coloured cell sap",
+    [
+     240,
+     189
+    ],
+    "L"
+   ],
+   [
+    "nucleus",
+    [
+     171,
+     179
+    ],
+    "L"
+   ],
+   [
+    "space filled with outside solution",
+    [
+     230,
+     428
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3b-05-dicot-root-transverse-section": {
+  "labels": [
+   [
+    "root hair",
+    [
+     146,
+     370
+    ],
+    "L"
+   ],
+   [
+    "piliferous layer (epidermis)",
+    [
+     195,
+     512
+    ],
+    "L"
+   ],
+   [
+    "cortex",
+    [
+     271,
+     512
+    ],
+    "L"
+   ],
+   [
+    "endodermis",
+    [
+     540,
+     314
+    ],
+    "R"
+   ],
+   [
+    "pericycle",
+    [
+     540,
+     340
+    ],
+    "R"
+   ],
+   [
+    "xylem",
+    [
+     540,
+     514
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     632,
+     421
+    ],
+    "R"
+   ],
+   [
+    "stele",
+    [
+     486,
+     460
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3b-06-dicot-stem-transverse-section": {
+  "labels": [
+   [
+    "epidermis",
+    [
+     670,
+     445
+    ],
+    "R"
+   ],
+   [
+    "cuticle",
+    [
+     632,
+     454
+    ],
+    "R"
+   ],
+   [
+    "collenchyma",
+    [
+     768,
+     419
+    ],
+    "R"
+   ],
+   [
+    "cortex",
+    [
+     880,
+     471
+    ],
+    "R"
+   ],
+   [
+    "vascular bundle",
+    [
+     311,
+     143
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     675,
+     604
+    ],
+    "R"
+   ],
+   [
+    "cambium",
+    [
+     762,
+     622
+    ],
+    "R"
+   ],
+   [
+    "xylem",
+    [
+     788,
+     686
+    ],
+    "R"
+   ],
+   [
+    "xylem vessel",
+    [
+     742,
+     737
+    ],
+    "R"
+   ],
+   [
+    "fibres",
+    [
+     696,
+     512
+    ],
+    "R"
+   ],
+   [
+    "medullary ray",
+    [
+     716,
+     834
+    ],
+    "R"
+   ],
+   [
+    "pith",
+    [
+     911,
+     890
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-07-monocot-stem-transverse-section": {
+  "labels": [
+   [
+    "epidermis",
+    [
+     276,
+     112
+    ],
+    "L"
+   ],
+   [
+    "ground tissue (parenchyma)",
+    [
+     486,
+     563
+    ],
+    "L"
+   ],
+   [
+    "scattered vascular bundles",
+    [
+     262,
+     513
+    ],
+    "L"
+   ],
+   [
+    "sclerenchyma bundle sheath",
+    [
+     778,
+     97
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     783,
+     172
+    ],
+    "R"
+   ],
+   [
+    "xylem vessels",
+    [
+     724,
+     296
+    ],
+    "R"
+   ],
+   [
+    "air space",
+    [
+     778,
+     361
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-08-xylem-phloem-longitudinal-section": {
+  "labels": [
+   [
+    "xylem vessel",
+    [
+     281,
+     163
+    ],
+    "L"
+   ],
+   [
+    "no end walls",
+    [
+     281,
+     471
+    ],
+    "L"
+   ],
+   [
+    "annular thickening",
+    [
+     163,
+     256
+    ],
+    "L"
+   ],
+   [
+    "spiral thickening",
+    [
+     281,
+     337
+    ],
+    "L"
+   ],
+   [
+    "pits",
+    [
+     281,
+     542
+    ],
+    "L"
+   ],
+   [
+    "lignin",
+    [
+     346,
+     307
+    ],
+    "L"
+   ],
+   [
+    "tracheid",
+    [
+     409,
+     358
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     747,
+     102
+    ],
+    "R"
+   ],
+   [
+    "sieve tube element",
+    [
+     762,
+     378
+    ],
+    "R"
+   ],
+   [
+    "sieve plate",
+    [
+     762,
+     496
+    ],
+    "R"
+   ],
+   [
+    "pores",
+    [
+     747,
+     271
+    ],
+    "R"
+   ],
+   [
+    "companion cell",
+    [
+     868,
+     204
+    ],
+    "R"
+   ],
+   [
+    "nucleus",
+    [
+     868,
+     373
+    ],
+    "R"
+   ],
+   [
+    "cytoplasm",
+    [
+     868,
+     440
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-09-plant-eosin-dye-transport": {
+  "labels": [
+   [
+    "balsam seedling",
+    [
+     230,
+     307
+    ],
+    "L"
+   ],
+   [
+    "eosin solution",
+    [
+     286,
+     819
+    ],
+    "L"
+   ],
+   [
+    "red streaks in stem",
+    [
+     217,
+     486
+    ],
+    "L"
+   ],
+   [
+    "leaf veins stained red",
+    [
+     286,
+     174
+    ],
+    "L"
+   ],
+   [
+    "xylem stained red",
+    [
+     684,
+     253
+    ],
+    "R"
+   ],
+   [
+    "phloem not stained",
+    [
+     684,
+     225
+    ],
+    "R"
+   ],
+   [
+    "cortex",
+    [
+     684,
+     179
+    ],
+    "R"
+   ],
+   [
+    "pith",
+    [
+     683,
+     404
+    ],
+    "R"
+   ],
+   [
+    "root: xylem stained red",
+    [
+     836,
+     793
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-11-root-water-absorption-pathway": {
+  "labels": [
+   [
+    "soil particle",
+    [
+     227,
+     335
+    ],
+    "L"
+   ],
+   [
+    "soil water",
+    [
+     194,
+     247
+    ],
+    "L"
+   ],
+   [
+    "root hair",
+    [
+     148,
+     508
+    ],
+    "L"
+   ],
+   [
+    "piliferous layer",
+    [
+     380,
+     258
+    ],
+    "L"
+   ],
+   [
+    "cortex cells",
+    [
+     493,
+     494
+    ],
+    "L"
+   ],
+   [
+    "water moves by osmosis from cell to cell",
+    [
+     473,
+     399
+    ],
+    "L"
+   ],
+   [
+    "endodermis",
+    [
+     643,
+     518
+    ],
+    "R"
+   ],
+   [
+    "Casparian strip",
+    [
+     677,
+     384
+    ],
+    "R"
+   ],
+   [
+    "pericycle",
+    [
+     741,
+     509
+    ],
+    "R"
+   ],
+   [
+    "xylem vessel",
+    [
+     901,
+     503
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-12-dicot-leaf-transverse-section": {
+  "labels": [
+   [
+    "cuticle",
+    [
+     546,
+     172
+    ],
+    "R"
+   ],
+   [
+    "upper epidermis",
+    [
+     339,
+     215
+    ],
+    "L"
+   ],
+   [
+    "palisade mesophyll",
+    [
+     274,
+     344
+    ],
+    "L"
+   ],
+   [
+    "spongy mesophyll",
+    [
+     211,
+     472
+    ],
+    "L"
+   ],
+   [
+    "air space saturated with water vapour",
+    [
+     466,
+     641
+    ],
+    "L"
+   ],
+   [
+    "xylem",
+    [
+     752,
+     512
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     762,
+     614
+    ],
+    "R"
+   ],
+   [
+    "lower epidermis",
+    [
+     304,
+     823
+    ],
+    "L"
+   ],
+   [
+    "guard cell",
+    [
+     484,
+     811
+    ],
+    "L"
+   ],
+   [
+    "stoma",
+    [
+     520,
+     808
+    ],
+    "R"
+   ],
+   [
+    "water vapour diffuses out",
+    [
+     520,
+     888
+    ],
+    "R"
+   ],
+   [
+    "water evaporates from cell walls",
+    [
+     380,
+     609
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3b-14-transpiration-pull-whole-plant": {
+  "labels": [
+   [
+    "water vapour lost through stomata (transpiration)",
+    [
+     735,
+     122
+    ],
+    "R"
+   ],
+   [
+    "water pulled from xylem into leaf cells",
+    [
+     655,
+     231
+    ],
+    "R"
+   ],
+   [
+    "tension (pull) in xylem",
+    [
+     358,
+     389
+    ],
+    "L"
+   ],
+   [
+    "cohesion: water molecules attract each other",
+    [
+     747,
+     512
+    ],
+    "R"
+   ],
+   [
+    "adhesion: water sticks to vessel walls",
+    [
+     552,
+     491
+    ],
+    "R"
+   ],
+   [
+    "continuous column of water in xylem",
+    [
+     358,
+     696
+    ],
+    "L"
+   ],
+   [
+    "water enters root hairs by osmosis",
+    [
+     757,
+     834
+    ],
+    "R"
+   ],
+   [
+    "lignified wall prevents collapse",
+    [
+     808,
+     532
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3b-16-active-transport-root-hair": {
+  "labels": [
+   [
+    "soil water (low concentration of ions)",
+    [
+     240,
+     286
+    ],
+    "L"
+   ],
+   [
+    "cell sap (high concentration of ions)",
+    [
+     783,
+     281
+    ],
+    "R"
+   ],
+   [
+    "cell membrane",
+    [
+     496,
+     143
+    ],
+    "L"
+   ],
+   [
+    "carrier protein",
+    [
+     481,
+     757
+    ],
+    "L"
+   ],
+   [
+    "ion",
+    [
+     446,
+     272
+    ],
+    "L"
+   ],
+   [
+    "ATP from respiration",
+    [
+     612,
+     496
+    ],
+    "R"
+   ],
+   [
+    "mitochondrion",
+    [
+     663,
+     450
+    ],
+    "R"
+   ],
+   [
+    "movement against the concentration gradient",
+    [
+     768,
+     640
+    ],
+    "R"
+   ]
+  ]
+ }
+}

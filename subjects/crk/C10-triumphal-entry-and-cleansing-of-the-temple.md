@@ -29,7 +29,7 @@ The events of the Triumphal Entry and the cleansing of the Temple are recorded i
 5. **The Shouts of the Crowd:** The crowds going ahead of Him and following Him shouted: *"Hosanna to the Son of David: Blessed is he that cometh in the name of the Lord; Hosanna in the highest"* (Matthew 21:9). "Hosanna" is a Hebrew word meaning "Save now!" or "Save, we pray!"
 6. **The Reaction in Jerusalem:** When Jesus entered Jerusalem, the whole city was stirred, asking, "Who is this?" The crowds replied, "This is the prophet Jesus, from Nazareth of Galilee."
 
-[IMAGE: A vibrant, bustling scene of Jesus riding a donkey down a dusty road toward the stone walls of Jerusalem. A large crowd of people in first-century clothing is cheering. Some are laying their cloaks on the ground before the donkey, while others are waving green palm branches. Clean flat textbook illustration, white background.]
+![Jesus rides a donkey into Jerusalem while a cheering crowd waves palm branches and lays cloaks on the road before him.](images/C10-01-jesus-triumphal-entry-into.png)
 
 #### The Narrative of the Cleansing of the Temple
 
@@ -53,7 +53,7 @@ While the exam focuses heavily on Matthew 21:1-17, the syllabus also lists Mark 
 | **Jesus' Emotions** | Not mentioned during the entry. | Not mentioned. | Luke records that as Jesus approached Jerusalem, He **wept over it**, predicting its future destruction. |
 | **Timing of Cleansing** | Appears to happen on the same day as the Triumphal Entry. | Jesus looks around the Temple, leaves for Bethany, and returns to cleanse it the **next day**. | Happens immediately after the entry. |
 
-[IMAGE: An action scene inside the stone courtyards of the Jerusalem Temple. Jesus is actively overturning a wooden table. Coins are spilling onto the floor, and merchants are looking on in shock. Cages of pigeons are visible on the ground. In the background, chief priests in fine robes watch with angry expressions. Clean flat textbook illustration, white background.]
+![An illustration of Jesus overturning a table of coins in the temple courtyard before surprised merchants, cages of doves, and angry chief priests.](images/C10-02-jesus-cleansing-temple.png)
 
 ### Objective ii: determine the significance of the Triumphal Entry and the cleansing of the Temple
 

@@ -1,0 +1,99 @@
+{
+ "B7-01-epigeal-versus-hypogeal-germination": {
+  "labels": [
+   [
+    "soil level",
+    [
+     596,
+     587
+    ],
+    "R"
+   ],
+   [
+    "hypocotyl",
+    [
+     380,
+     493
+    ],
+    "L"
+   ],
+   [
+    "cotyledons above ground",
+    [
+     335,
+     402
+    ],
+    "L"
+   ],
+   [
+    "epicotyl",
+    [
+     875,
+     518
+    ],
+    "R"
+   ],
+   [
+    "cotyledon below ground",
+    [
+     915,
+     677
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7-02-vegetative-plant-propagation-methods": {
+  "labels": [
+   [
+    "stem cutting",
+    [
+     312,
+     192
+    ],
+    "L"
+   ],
+   [
+    "scion (bud)",
+    [
+     804,
+     145
+    ],
+    "R"
+   ],
+   [
+    "rootstock",
+    [
+     742,
+     131
+    ],
+    "R"
+   ],
+   [
+    "T-cut",
+    [
+     770,
+     223
+    ],
+    "R"
+   ],
+   [
+    "cleft cut",
+    [
+     239,
+     761
+    ],
+    "L"
+   ],
+   [
+    "air layering wrap",
+    [
+     794,
+     794
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7-03-seedling-transplanting-sequence": {}
+}

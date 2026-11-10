@@ -106,7 +106,7 @@ When a seed germinates, the part of the stem below the cotyledon (seed leaf) is 
 | **Plant group** | Common in most **dicotyledons**. | Common in most **monocotyledons**. |
 | **Examples in West Africa** | Cowpea, groundnut, melon, tomato, castor oil. | Maize, rice, sorghum, millet, oil palm. |
 
-[IMAGE: A side-by-side comparison of epigeal and hypogeal germination. Left panel (Epigeal): A cowpea seed germinating. The curved hypocotyl emerges from the soil, pulling two thick green cotyledons above the soil line, with true leaves forming above them. Right panel (Hypogeal): A maize seed germinating. The seed remains below the soil line while a straight shoot (epicotyl) pierces the soil surface and forms leaves. Labels to add: "soil level", "hypocotyl", "cotyledons above ground", "epicotyl", "cotyledon below ground". Clean flat textbook illustration, white background.]
+![Diagram comparing epigeal and hypogeal germination side by side, showing cotyledons carried above ground in epigeal germination and remaining below ground in hypogeal germination.](images/B7-01-epigeal-versus-hypogeal-germination.png)
 
 ### Examine the conditions for seed germination
 
@@ -155,7 +155,7 @@ Farmers use both artificial techniques (like grafting) and natural plant organs 
 | **Suckers** | Shoots arising from the underground base of a mature plant. | Banana, plantain, pineapple. |
 | **Bulbs and Corms** | Swollen fleshy leaf bases (bulbs) or solid, short underground stems (corms). | Onion, garlic (bulbs); cocoyam (corms). |
 
-[IMAGE: A four-panel diagram showing vegetative propagation methods. Panel 1 (Cutting): A slanted cassava stem planted in soil with roots and new shoots emerging. Panel 2 (Budding): A T-cut on a rootstock stem with a single bud being inserted and tied tightly with polythene tape. Panel 3 (Grafting): A V-shaped scion stem fitted into a cleft in a rootstock and tied. Panel 4 (Air Layering / Marcotting): A branch on a tree wrapped in a plastic pouch containing moist soil, with small roots visible inside the pouch. Labels to add: "stem cutting", "scion (bud)", "rootstock", "T-cut", "cleft cut", "air layering wrap". Clean flat textbook illustration, white background.]
+![Four-panel scientific illustration demonstrating vegetative propagation techniques: stem cutting planted in soil, T-budding, cleft grafting, and air layering on a tree branch.](images/B7-02-vegetative-plant-propagation-methods.png)
 
 ## c. Nursery and nursery management
 
@@ -194,7 +194,7 @@ To ensure the seedling survives, strict transplanting techniques must be applied
 5. **Planting out:** The seedling is placed in a properly dug hole in the main field at the exact same depth it was growing in the nursery.
 6. **Firming and watering:** The soil is firmed gently around the base of the plant to remove air pockets, and the seedling is watered immediately.
 
-[IMAGE: Step-by-step diagram of transplanting. Step 1: A hand trowel lifts a small tomato seedling from a nursery bed, keeping a clump of dark soil (ball of earth) around its roots. Step 2: A field layout showing a hole dug in a ridged bed. Step 3: The seedling is placed carefully into the hole at the same depth as before. Step 4: A watering can with a fine rose sprinkles water on the newly planted seedling. The sun is shown low on the horizon with a label "Late afternoon". Clean flat textbook illustration, white background.]
+![Four-step diagram illustrating transplanting a tomato seedling: lifting with a trowel, digging a hole in a ridged bed, placing the seedling, and watering at sunset.](images/B7-03-seedling-transplanting-sequence.png)
 
 ## Key terms
 

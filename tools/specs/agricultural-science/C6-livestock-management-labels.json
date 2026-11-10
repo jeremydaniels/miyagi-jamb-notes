@@ -1,0 +1,64 @@
+{
+ "C6-01-livestock-management-systems-comparison": {
+  "caption_below": "Extensive system free-roaming semi-intensive fenced with shelter intensive system total confinement"
+ },
+ "C6-02-piglet-routine-management-practices": {
+  "caption_below": "Teeth clipping iron injection for anaemia and ear notching identification"
+ },
+ "C6-04-poultry-housing-systems-comparison": {
+  "regions": [
+   "Deep litter system",
+   "Battery cage system"
+  ],
+  "labels": [
+   [
+    "Deep litter system",
+    [
+     518,
+     430
+    ],
+    "R"
+   ],
+   [
+    "Wood shavings",
+    [
+     493,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Battery cage system",
+    [
+     378,
+     640
+    ],
+    "L"
+   ],
+   [
+    "Sloped wire floor",
+    [
+     571,
+     924
+    ],
+    "R"
+   ],
+   [
+    "Rolled-out eggs",
+    [
+     411,
+     952
+    ],
+    "L"
+   ],
+   [
+    "Feed trough",
+    [
+     480,
+     696
+    ],
+    "L"
+   ]
+  ]
+ }
+}

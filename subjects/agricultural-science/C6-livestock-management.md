@@ -35,7 +35,7 @@ Farmers raise animals under three main systems, depending on the level of confin
 | **Productivity** | Low. High energy is wasted walking long distances. | Medium. | High. Energy is conserved for growth and production. |
 | **Examples** | Nomadic herding by Fulani pastoralists; free-range village chickens. | Fold/ark units for chickens; fenced grazing for sheep. | Battery cages for layers; indoor concrete pens for pigs. |
 
-[IMAGE: Split illustration of the three livestock management systems. Left: Extensive (cattle grazing freely in a large open savanna with a Fulani herdsman holding a stick). Middle: Semi-intensive (sheep in a fenced green paddock with a small wooden shelter in the background). Right: Intensive (pigs inside a fully enclosed, clean concrete pen with an automatic feeder and water nipple). Labels: "Extensive system: free-roaming", "Semi-intensive: fenced with shelter", "Intensive system: total confinement". Clean flat textbook style, white background.]
+![A three-panel illustration contrasting extensive cattle grazing on savanna, semi-intensive sheep farming in a fenced paddock with shelter, and intensive pig housing in a concrete pen with automated equipment.](images/C6-01-livestock-management-systems-comparison.png)
 
 ---
 
@@ -103,7 +103,7 @@ Pigs are fed formulated mash or pellets.
 7. **Weaning:** Piglets are removed from the sow at 6-8 weeks of age.
 8. **Slaughter:** Pigs are stunned, bled, and then **scalded** (dipped in hot water) to loosen the hair so it can be scraped off before evisceration.
 
-[IMAGE: Routine piglet management tools. Three small panels. 1: A pair of pliers-like teeth clippers cutting the sharp needle teeth of a piglet. 2: A syringe administering an iron injection into a piglet's neck muscle. 3: A piglet's ear showing V-shaped notches for identification. Labels: "Teeth clipping", "Iron injection (for anaemia)", "Ear notching (identification)". Clean flat textbook style, white background.]
+![Three panels illustrating routine piglet management practices: clipping needle teeth with clippers, injecting into the neck muscle with a syringe, and an ear with a V-shaped identification notch.](images/C6-02-piglet-routine-management-practices.png)
 
 ---
 
@@ -153,7 +153,7 @@ While some rural farmers use the extensive system (free-range), commercial poult
 | **Egg collection** | Eggs may be laid on the floor, getting dirty or eaten by the birds. | The wire floor slopes slightly so eggs roll out into a tray, remaining clean and safe. |
 | **Vices** | Higher risk of bullying, feather pecking, and cannibalism. | Lower risk, as birds are physically separated in small groups. |
 
-[IMAGE: Poultry housing systems. Top: Deep litter system showing chickens freely walking on a floor covered with wood shavings, with round hanging plastic feeders and drinkers. Bottom: Battery cage system showing layers in tiered wire cages, with a long feed trough in front and a sloped floor where clean eggs have rolled out. Labels: "Deep litter system", "Wood shavings", "Battery cage system", "Sloped wire floor", "Rolled-out eggs", "Feed trough". Clean flat textbook style, white background.]
+![Diagram comparing poultry housing: top shows chickens on wood shavings with hanging feeders and drinkers; bottom shows hens in tiered battery cages with sloped floors and egg trays.](images/C6-04-poultry-housing-systems-comparison.png)
 
 ### Feeding
 Poultry are monogastrics that require easily digestible, high-quality formulated mash or pellets:

@@ -544,5 +544,26 @@
     "R"
    ]
   ]
+ },
+ "E2-06-analogous-insect-bird-wings": {
+  "caption_below": "Same function flight different structure origin analogous structures convergent evolution",
+  "labels": [
+   [
+    "insect wing: membrane with veins, no bones",
+    [
+     240,
+     494
+    ],
+    "L"
+   ],
+   [
+    "bird wing: modified forelimb with bones and feathers",
+    [
+     636,
+     611
+    ],
+    "R"
+   ]
+  ]
  }
 }

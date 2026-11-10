@@ -199,7 +199,7 @@ So there are **gaps** in the fossil record. However, new fossils keep filling th
 | Type of evolution | **Divergent** evolution | **Convergent** evolution |
 | Examples | Human arm, bat wing, whale flipper, horse leg; cactus spine and pea tendril (both leaves) | Insect wing and bird wing; octopus and human eye; potato tuber and sweet potato |
 
-[IMAGE: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; on the right, a bird wing shown with feathers and a semi-transparent overlay revealing the arm bones (humerus, radius, ulna, fused hand bones). Between them, an "equals" sign over the word function and a "not equals" sign over the word structure. Labels to add later: "insect wing: membrane with veins, no bones", "bird wing: modified forelimb with bones and feathers", "same function (flight)", "different structure and origin", "analogous structures (convergent evolution)". Clean flat textbook style, white background.]
+![A comparison of an insect wing showing membrane with branching veins alongside a bird wing with internal limb bones and external feathers.](images/E2-06-analogous-insect-bird-wings.png)
 
 ### Vestigial organs
 

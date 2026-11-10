@@ -806,5 +806,105 @@
     "R"
    ]
   ]
+ },
+ "B7b-16-fruit-seed-dispersal-mechanisms": {
+  "labels": [
+   [
+    "pappus",
+    [
+     152,
+     131
+    ],
+    "L"
+   ],
+   [
+    "wing",
+    [
+     280,
+     289
+    ],
+    "L"
+   ],
+   [
+    "hairs (fibres)",
+    [
+     512,
+     223
+    ],
+    "R"
+   ],
+   [
+    "fibrous mesocarp",
+    [
+     883,
+     390
+    ],
+    "R"
+   ],
+   [
+    "hard seeds",
+    [
+     167,
+     760
+    ],
+    "L"
+   ],
+   [
+    "barbed spines",
+    [
+     527,
+     658
+    ],
+    "R"
+   ],
+   [
+    "twisted pod valves; box titles: wind",
+    [
+     861,
+     783
+    ],
+    "R"
+   ],
+   [
+    "wind",
+    [
+     182,
+     67
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     749,
+     437
+    ],
+    "R"
+   ],
+   [
+    "animals (eaten)",
+    [
+     182,
+     559
+    ],
+    "L"
+   ],
+   [
+    "animals (hooks)",
+    [
+     512,
+     563
+    ],
+    "R"
+   ],
+   [
+    "self (explosive)",
+    [
+     841,
+     563
+    ],
+    "R"
+   ]
+  ]
  }
 }

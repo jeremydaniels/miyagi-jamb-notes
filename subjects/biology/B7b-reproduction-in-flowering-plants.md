@@ -789,7 +789,7 @@ Some **dry dehiscent fruits** burst open suddenly when ripe and throw out their 
 | **Self (explosive)** | Dry dehiscent pericarp that splits suddenly | Cowpea, *Crotalaria*, Flamboyant, castor oil, balsam, sandbox tree |
 | **Humans** | Useful or attractive fruits and seeds | Crops (maize, cassava, cocoa), ornamental plants |
 
-[IMAGE: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with a feathery pappus, and a four-winged Combretum fruit. 2. Wind: a cotton seed with long white fibres. 3. Water: a coconut floating on water, cut-away showing the fibrous husk with air spaces. 4. Animal (eaten): a ripe guava cut open with many small seeds, and a small bird eating it. 5. Animal (attached): a Bidens fruit with two barbed spines caught in animal fur. 6. Explosive: a dry cowpea pod splitting and twisting, with seeds flying out. Labels: pappus, wing, hairs (fibres), fibrous mesocarp, hard seeds, barbed spines, twisted pod valves; box titles: wind, wind, water, animals (eaten), animals (hooks), self (explosive). Clean flat textbook style, white background.]
+![Six panels showing fruit and seed dispersal adaptations including wind dispersal with pappus and wings, fibrous coconut in water, bird eating guava, burr in fur, and explosive pod.](images/B7b-16-fruit-seed-dispersal-mechanisms.png)
 
 ## Key terms
 

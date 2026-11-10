@@ -114,7 +114,7 @@ Cattle, goats, sheep and antelopes (ruminants) have bacteria and protozoa in the
 | ***Anabaena* and the water fern *Azolla*** | *Anabaena* gets shelter in the leaf cavities | *Azolla* gets fixed nitrogen (used as a green manure in rice fields) |
 | **Bacteria in the human large intestine** (e.g. some strains of *E. coli*) | Bacteria get food and shelter | Humans get some vitamins (such as vitamin K) made by the bacteria, and protection from harmful microbes |
 
-[IMAGE: Three panels showing mutualism. Left: a groundnut plant pulled from the soil showing its roots with many small round pink root nodules, and an enlarged circle showing rod-shaped Rhizobium bacteria inside nodule cells. Middle: a leafy grey-green lichen on a tree trunk, with an enlarged circle of a vertical section showing a layer of green algal cells held among tangled fungal threads. Right: a termite with its hindgut cut open, and an enlarged circle showing a pear-shaped flagellate protozoan covered in many flagella, with small pieces of wood. Labels: "root nodules", "Rhizobium bacteria", "lichen", "algal cells", "fungal threads (hyphae)", "termite", "hindgut", "cellulose-digesting protozoan (e.g. Trichonympha)", "wood particles". Soft greens, pinks and browns. Clean flat textbook style, white background.]
+![Three panels illustrating mutualism: plant root nodules with Rhizobium bacteria, lichen on bark with algal and fungal layers, and a termite hindgut containing flagellates.](images/C2-02-symbiotic-mutualism-biological-panels.png)
 
 ### Cooperation (protocooperation)
 
@@ -172,7 +172,7 @@ In practice, cattle egrets mostly eat the insects disturbed by the cattle and ra
 | **House mice, cockroaches and house sparrows** living around human homes | Humans | Shelter and scraps of food (although many of them become pests) |
 | **Hyenas and vultures** feeding on the leftover kill of lions | Lions | Food scraps |
 
-[IMAGE: Two panels showing commensalism. Left: underwater scene of a grey shark with a slimmer remora fish attached underneath its body by an oval sucker disc on top of the remora's head, with small scraps of food floating nearby. Right: a savanna scene with a brown and white Nigerian cow grazing and a white cattle egret walking beside its legs, catching a grasshopper that has jumped up from the grass. Labels: "shark (host)", "remora (commensal)", "sucker disc", "food scraps", "cow (host)", "cattle egret (commensal)", "grasshopper disturbed by cow". Soft blues, greens and browns. Clean flat textbook style, white background.]
+![Two panels showing commensalism: a remora attached to a shark swimming underwater with food scraps, and a cattle egret catching a grasshopper beside a grazing cow.](images/C2-03-commensalism-examples.png)
 
 ### Parasitism
 
@@ -245,7 +245,7 @@ In practice, cattle egrets mostly eat the insects disturbed by the cattle and ra
 | Number fed on | One parasite usually lives on one host for a long time | A predator kills and eats many prey over its life |
 | Example | Tapeworm in humans | Hawk eating a chick |
 
-[IMAGE: Two panels showing parasites. Left: a tapeworm with its tiny scolex attached to the wall of a cut-open human small intestine, and an enlarged view of the scolex showing a ring of hooks on the rostellum and four round suckers, with a long ribbon of segments trailing behind. Right: a mango tree branch with a bushy Loranthus mistletoe growing on it, with a cut-away section of the branch showing the mistletoe's haustorium penetrating into the host's wood (xylem). The mistletoe has green leaves and small red tubular flowers. Labels: "small intestine wall", "scolex", "hooks", "suckers", "proglottids (segments)", "host branch (mango)", "Loranthus (partial parasite)", "green leaves (photosynthesis)", "haustorium", "host xylem". Soft pinks, greens and browns. Clean flat textbook style, white background.]
+![Two panels illustrating parasites, showing a tapeworm inside an intestine with an inset of its scolex, and a parasitic mistletoe plant attached to a tree branch.](images/C2-04-parasitic-organisms-anatomical-panels.png)
 
 ### Saprophytism
 
@@ -298,7 +298,7 @@ In practice, cattle egrets mostly eat the insects disturbed by the cattle and ra
 - **Allelopathy:** some plants release chemicals that stop other plants from growing nearby. For example, the roots and fallen leaves of some *Eucalyptus* trees release chemicals that reduce the growth of other plants under them.
 - **Trampling:** cattle or elephants walking on grass and small animals crush them, without gaining anything from it.
 
-[IMAGE: A round Petri dish viewed from above, filled with a pale cream lawn of bacterial growth. In the centre, a blue-green fuzzy Penicillium mould colony, surrounded by a clear circular zone where no bacteria are growing. Labels: "Petri dish", "Penicillium colony", "penicillin diffuses out", "clear zone (bacteria killed)", "bacterial growth". Soft cream, blue-green and grey. Clean flat textbook style, white background.]
+![A Petri dish viewed from above displaying bacterial lawn growth, a clear circular zone of inhibition, and a central blue-green mould colony.](images/C2-05-antibiosis-petri-dish.png)
 
 ### Competition
 
@@ -582,7 +582,7 @@ Organisms are found where their **food** is found. Producers are found where the
 - **Decomposers** and **detritivores** are concentrated in the **bottom mud**, where dead material collects.
 - In muddy (turbid) water, fewer producers grow, so there are fewer consumers.
 
-[IMAGE: A pond food web drawn over a cross-section of a pond. Surface: floating phytoplankton (shown as tiny green dots), water lettuce, a water lily with a snail on its leaf, mosquito larvae hanging from the surface. Middle water: water fleas, tadpoles, small fish, a dragonfly nymph on a stem. Edge: a frog on the bank and a kingfisher on a branch. Bottom: mud with a catfish and bacteria. Arrows: phytoplankton to water flea, water flea to small fish, small fish to kingfisher, algae to tadpole, tadpole to dragonfly nymph, dragonfly nymph to small fish, algae to mosquito larva, mosquito larva to small fish, small fish to catfish, water lily to snail, mosquito adult to frog. Labels: "phytoplankton", "water lettuce", "water lily", "snail", "mosquito larvae", "water flea (Daphnia)", "tadpole", "dragonfly nymph", "small fish", "catfish", "frog", "kingfisher", "mud with decomposers". Soft blues and greens. Clean flat textbook style, white background.]
+![A cross-section illustration of a pond ecosystem showing phytoplankton, water plants, insects, fish, a tadpole, a snail, a frog, and a kingfisher.](images/C2-09-freshwater-pond-food-web.png)
 
 ### 2. A savanna (grassland) field
 

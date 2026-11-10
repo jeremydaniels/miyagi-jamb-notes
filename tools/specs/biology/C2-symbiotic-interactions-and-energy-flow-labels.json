@@ -1,0 +1,358 @@
+{
+ "C2-02-symbiotic-mutualism-biological-panels": {
+  "labels": [
+   [
+    "root nodules",
+    [
+     190,
+     652
+    ],
+    "L"
+   ],
+   [
+    "Rhizobium bacteria",
+    [
+     200,
+     254
+    ],
+    "L"
+   ],
+   [
+    "lichen",
+    [
+     529,
+     661
+    ],
+    "R"
+   ],
+   [
+    "algal cells",
+    [
+     483,
+     240
+    ],
+    "L"
+   ],
+   [
+    "fungal threads (hyphae)",
+    [
+     559,
+     243
+    ],
+    "R"
+   ],
+   [
+    "termite",
+    [
+     846,
+     564
+    ],
+    "R"
+   ],
+   [
+    "hindgut",
+    [
+     854,
+     813
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C2-03-commensalism-examples": {
+  "labels": [
+   [
+    "shark (host)",
+    [
+     275,
+     410
+    ],
+    "L"
+   ],
+   [
+    "remora (commensal)",
+    [
+     223,
+     547
+    ],
+    "L"
+   ],
+   [
+    "sucker disc",
+    [
+     289,
+     487
+    ],
+    "L"
+   ],
+   [
+    "food scraps",
+    [
+     315,
+     570
+    ],
+    "L"
+   ],
+   [
+    "cow (host)",
+    [
+     726,
+     482
+    ],
+    "R"
+   ],
+   [
+    "cattle egret (commensal)",
+    [
+     668,
+     663
+    ],
+    "R"
+   ],
+   [
+    "grasshopper disturbed by cow",
+    [
+     775,
+     626
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C2-04-parasitic-organisms-anatomical-panels": {
+  "labels": [
+   [
+    "small intestine wall",
+    [
+     107,
+     390
+    ],
+    "L"
+   ],
+   [
+    "scolex",
+    [
+     360,
+     292
+    ],
+    "L"
+   ],
+   [
+    "hooks",
+    [
+     365,
+     185
+    ],
+    "L"
+   ],
+   [
+    "suckers",
+    [
+     312,
+     263
+    ],
+    "L"
+   ],
+   [
+    "proglottids (segments)",
+    [
+     143,
+     365
+    ],
+    "L"
+   ],
+   [
+    "host branch (mango)",
+    [
+     954,
+     570
+    ],
+    "R"
+   ],
+   [
+    "Loranthus (partial parasite)",
+    [
+     747,
+     457
+    ],
+    "R"
+   ],
+   [
+    "green leaves (photosynthesis)",
+    [
+     689,
+     437
+    ],
+    "R"
+   ],
+   [
+    "haustorium",
+    [
+     800,
+     655
+    ],
+    "R"
+   ],
+   [
+    "host xylem",
+    [
+     702,
+     785
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C2-05-antibiosis-petri-dish": {
+  "labels": [
+   [
+    "Petri dish",
+    [
+     839,
+     360
+    ],
+    "R"
+   ],
+   [
+    "Penicillium colony",
+    [
+     509,
+     509
+    ],
+    "L"
+   ],
+   [
+    "penicillin diffuses out",
+    [
+     401,
+     421
+    ],
+    "L"
+   ],
+   [
+    "clear zone (bacteria killed)",
+    [
+     380,
+     600
+    ],
+    "L"
+   ],
+   [
+    "bacterial growth",
+    [
+     290,
+     653
+    ],
+    "L"
+   ]
+  ]
+ },
+ "C2-09-freshwater-pond-food-web": {
+  "labels": [
+   [
+    "phytoplankton",
+    [
+     414,
+     349
+    ],
+    "L"
+   ],
+   [
+    "water lettuce",
+    [
+     241,
+     338
+    ],
+    "L"
+   ],
+   [
+    "water lily",
+    [
+     672,
+     338
+    ],
+    "R"
+   ],
+   [
+    "snail",
+    [
+     557,
+     349
+    ],
+    "R"
+   ],
+   [
+    "mosquito larvae",
+    [
+     451,
+     445
+    ],
+    "L"
+   ],
+   [
+    "water flea (Daphnia)",
+    [
+     208,
+     508
+    ],
+    "L"
+   ],
+   [
+    "tadpole",
+    [
+     339,
+     579
+    ],
+    "L"
+   ],
+   [
+    "dragonfly nymph",
+    [
+     683,
+     552
+    ],
+    "R"
+   ],
+   [
+    "small fish",
+    [
+     492,
+     587
+    ],
+    "L"
+   ],
+   [
+    "catfish",
+    [
+     464,
+     741
+    ],
+    "L"
+   ],
+   [
+    "frog",
+    [
+     866,
+     454
+    ],
+    "R"
+   ],
+   [
+    "kingfisher",
+    [
+     871,
+     198
+    ],
+    "R"
+   ],
+   [
+    "mud with decomposers",
+    [
+     361,
+     800
+    ],
+    "L"
+   ]
+  ]
+ }
+}

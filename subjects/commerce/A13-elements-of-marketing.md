@@ -72,7 +72,7 @@ Simply put: *Find out what the customer wants, then make it and sell it at a pro
 
 The **marketing mix** refers to the combination of four controllable variables—known as the **4Ps**—that a business uses to influence consumer demand and achieve its marketing goals. 
 
-[IMAGE: A circular diagram divided into four equal quadrants forming a complete wheel. Top left quadrant: "Product" with icons of a physical box and a star. Top right quadrant: "Price" with an icon of a price tag and a Naira sign (₦). Bottom left quadrant: "Place" with an icon of a delivery truck and a map pin. Bottom right quadrant: "Promotion" with an icon of a megaphone. The centre connects them all with the text "Target Market". Clean flat textbook illustration, white background, bright colours.]
+![A four-quadrant marketing mix wheel showing Product, Price, Place, and Promotion surrounding a central Target Market circle, illustrated with relevant icons.](images/A13-01-four-ps-marketing-wheel.png)
 
 ### 1. Product
 A product is anything offered to a market for attention, acquisition, use, or consumption that might satisfy a want or need. It can be a physical good (like a loaf of Agege bread or a Tecno phone) or an intangible service (like a haircut or banking services).

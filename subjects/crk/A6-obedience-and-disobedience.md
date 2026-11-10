@@ -47,7 +47,7 @@ During the Babylonian exile, King Nebuchadnezzar made a massive image of gold an
 5. Soon after, Nebuchadnezzar was astonished to see **four men** walking loose in the midst of the fire, unhurt, and noted that the form of the fourth was "like the Son of God."
 6. The king called them out. Not a hair on their heads was singed, nor did their clothes smell of smoke.
 
-[IMAGE: A dramatic illustration of the fiery furnace. On the outside, a shocked King Nebuchadnezzar stands in his royal robes looking into a large brick furnace. Inside the glowing orange and yellow flames, four figures walk calmly and unbound. Three are dressed in ancient Babylonian tunics, and the fourth figure glows with a bright, divine light. Labels to add later: "King Nebuchadnezzar", "Shadrach, Meshach, Abednego", "The fourth figure like the Son of God", "Fiery furnace". Clean flat textbook style, white background.]
+![King Nebuchadnezzar looks with shock into a fiery brick furnace where Shadrach, Meshach, Abednego, and a fourth glowing divine figure walk unharmed amidst flames.](images/A6-01-fiery-furnace-biblical-scene.png)
 
 ### (c) David (1 Samuel 30:1-20)
 
@@ -106,7 +106,7 @@ When Moses went up Mount Sinai to receive the Ten Commandments, he was delayed. 
 
 God saw this and told Moses that the people had corrupted themselves and quickly turned aside from His commands. Moses pleaded with God not to destroy them, but when Moses came down and saw the calf and the dancing, his anger burned. He threw down the two tables of stone, breaking them. He ground the calf to powder, scattered it on the water, and made the Israelites drink it. The sons of Levi then went through the camp, killing about three thousand men who had participated in the idolatry.
 
-[IMAGE: A desert scene at the foot of Mount Sinai. In the centre, a golden statue of a young bull (calf) sits on a stone pedestal. A large crowd of Israelites is dancing, eating, and celebrating around it. In the foreground, Aaron looks on nervously. In the background, Moses is coming down the rocky mountain carrying two stone tablets, his face filled with anger. Labels to add later: "Mount Sinai", "Moses carrying the Ten Commandments", "The Golden Calf", "Israelites worshipping the idol", "Aaron". Clean flat textbook style, white background.]
+![Israelites celebrating around the golden calf idol while Aaron watches anxiously in foreground and Moses descends Mount Sinai with stone tablets](images/A6-02-golden-calf-worship-scene.png)
 
 ### (d) Moses (Numbers 20:7-12; Deuteronomy 34:1-6)
 

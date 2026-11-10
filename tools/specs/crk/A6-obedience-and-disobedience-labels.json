@@ -1,0 +1,82 @@
+{
+ "A6-01-fiery-furnace-biblical-scene": {
+  "labels": [
+   [
+    "King Nebuchadnezzar",
+    [
+     229,
+     611
+    ],
+    "L"
+   ],
+   [
+    "Shadrach, Meshach, Abednego",
+    [
+     538,
+     528
+    ],
+    "R"
+   ],
+   [
+    "The fourth figure like the Son of God",
+    [
+     741,
+     535
+    ],
+    "R"
+   ],
+   [
+    "Fiery furnace",
+    [
+     602,
+     335
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A6-02-golden-calf-worship-scene": {
+  "labels": [
+   [
+    "Mount Sinai",
+    [
+     954,
+     152
+    ],
+    "R"
+   ],
+   [
+    "Moses carrying the Ten Commandments",
+    [
+     770,
+     263
+    ],
+    "R"
+   ],
+   [
+    "The Golden Calf",
+    [
+     532,
+     457
+    ],
+    "R"
+   ],
+   [
+    "Israelites worshipping the idol",
+    [
+     626,
+     703
+    ],
+    "R"
+   ],
+   [
+    "Aaron",
+    [
+     173,
+     760
+    ],
+    "L"
+   ]
+  ]
+ }
+}

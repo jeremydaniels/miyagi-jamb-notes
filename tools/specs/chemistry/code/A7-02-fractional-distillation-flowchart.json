@@ -1,0 +1,105 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Fractional Distillation of Liquid Air",
+ "nodes": [
+  {
+   "id": "air",
+   "text": "Air in",
+   "shape": "oval",
+   "color": "#e2e8f0"
+  },
+  {
+   "id": "filter",
+   "text": "Filter\n(removes dust)",
+   "shape": "box",
+   "color": "#f1f5f9"
+  },
+  {
+   "id": "scrubber",
+   "text": "NaOH scrubber\n(removes CO2)",
+   "shape": "box",
+   "color": "#f1f5f9"
+  },
+  {
+   "id": "dryer",
+   "text": "Drying tower\n(removes water vapour)",
+   "shape": "box",
+   "color": "#f1f5f9"
+  },
+  {
+   "id": "compressor",
+   "text": "Compressor and cooling system",
+   "shape": "box",
+   "color": "#e0f2fe"
+  },
+  {
+   "id": "expansion",
+   "text": "Expansion valve\n(liquefies air at -200 °C)",
+   "shape": "box",
+   "color": "#bae6fd"
+  },
+  {
+   "id": "column",
+   "text": "Fractionating column",
+   "shape": "box",
+   "color": "#dbeafe"
+  },
+  {
+   "id": "nitrogen",
+   "text": "Nitrogen (-196 °C)\n(top)",
+   "shape": "round",
+   "color": "#fef3c7"
+  },
+  {
+   "id": "argon",
+   "text": "Argon (-186 °C)\n(middle)",
+   "shape": "round",
+   "color": "#fef3c7"
+  },
+  {
+   "id": "oxygen",
+   "text": "Oxygen (-183 °C)\n(bottom)",
+   "shape": "round",
+   "color": "#fee2e2"
+  }
+ ],
+ "edges": [
+  {
+   "from": "air",
+   "to": "filter"
+  },
+  {
+   "from": "filter",
+   "to": "scrubber"
+  },
+  {
+   "from": "scrubber",
+   "to": "dryer"
+  },
+  {
+   "from": "dryer",
+   "to": "compressor"
+  },
+  {
+   "from": "compressor",
+   "to": "expansion"
+  },
+  {
+   "from": "expansion",
+   "to": "column"
+  },
+  {
+   "from": "column",
+   "to": "nitrogen"
+  },
+  {
+   "from": "column",
+   "to": "argon"
+  },
+  {
+   "from": "column",
+   "to": "oxygen"
+  }
+ ]
+}

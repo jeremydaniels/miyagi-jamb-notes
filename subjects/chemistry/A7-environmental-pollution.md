@@ -37,7 +37,7 @@ Dry, unpolluted air has a remarkably stable composition near the Earth's surface
 
 *Textbook variation:* The global concentration of carbon (IV) oxide has risen slightly above $0.04\%$ in recent years due to human activities. However, $0.03\%$ is the standard value still taught in Nigerian secondary school textbooks and expected in JAMB exams. The noble gases (helium, neon, argon, krypton, and xenon) are present in trace amounts, with argon being by far the most abundant among them.
 
-[IMAGE: A pie chart showing the composition of unpolluted dry air. A large slice coloured light blue represents Nitrogen (78%), a smaller slice coloured light green represents Oxygen (21%), a tiny yellow sliver represents Argon (0.9%), and a nearly invisible red line represents Carbon (IV) oxide (0.03%). Clean flat textbook style, white background.]
+![Pie chart illustrating the composition of unpolluted dry air, showing 78 percent nitrogen, 21 percent oxygen, 0.9 percent argon, and 0.03 percent carbon dioxide.](images/A7-01-air-composition-pie-chart.png)
 
 ### Calculations involving the composition of air
 
@@ -90,7 +90,7 @@ The industrial separation of air components relies on **fractional distillation 
    - **Argon** boils next at $-186\text{ }^\circ\text{C}$.
    - **Oxygen** has the highest boiling point among the major components ($-183\text{ }^\circ\text{C}$), so it boils last and remains as a liquid at the base of the column the longest.
 
-[IMAGE: A flow chart describing the fractional distillation of liquid air. Box 1: "Air in" leading to a "Filter (removes dust)". Box 2: "NaOH scrubber (removes CO2)". Box 3: "Drying tower (removes water vapour)". Box 4: "Compressor and cooling system". Box 5: "Expansion valve (liquefies air at -200 °C)". Box 6: "Fractionating column" showing Nitrogen separating at the top (-196 °C), Argon in the middle (-186 °C), and Oxygen at the bottom (-183 °C). Clean flat textbook style, white background.]
+![Flow chart of the fractional distillation of liquid air showing purification, compression, cooling, and separation into nitrogen, argon, and oxygen by boiling point.](images/A7-02-fractional-distillation-flowchart.png)
 
 ### Reasons for the variation in the composition of air
 
@@ -224,7 +224,7 @@ The ozone layer is a region in the stratosphere containing ozone ($\text{O}_3$) 
 - **Mechanism:** **Chlorofluorocarbons (CFCs)** drift up into the stratosphere. UV light breaks them apart, releasing highly reactive chlorine atoms. A single chlorine atom can catalyse the destruction of thousands of ozone molecules, creating a "hole" in the ozone layer.
 - **Effects:** Increased UV radiation reaches the Earth's surface, causing higher rates of skin cancer, eye cataracts, and damage to crops and marine phytoplankton.
 
-[IMAGE: Diagram contrasting Global Warming and Ozone Depletion. Left side (Global warming): Sun rays hit the Earth; infrared heat trying to escape is bounced back down by a thick grey layer labelled "Greenhouse gases (CO2, Methane)". Right side (Ozone Depletion): Sun emitting UV rays; a blue shield labelled "Ozone layer (O3)" has a hole in it caused by a spray can labelled "CFCs", allowing UV rays to hit a person below. Clean flat textbook style, white background.]
+![A diagram comparing global warming showing trapped heat under an atmospheric layer on the left with ozone depletion showing UV rays passing through a shield gap to a person.](images/A7-03-greenhouse-effect-ozone-comparison.png)
 
 ### 4. Eutrophication
 This is a severe effect of water pollution caused by agricultural runoff and sewage.

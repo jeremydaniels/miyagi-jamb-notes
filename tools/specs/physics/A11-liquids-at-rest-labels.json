@@ -36,20 +36,20 @@
   ]
  },
  "A11-01-measuring-volume-solids-apparatus": {
-  "caption_below": "Regular solid: volume = length \u00d7 width \u00d7 height. Irregular solid: displaced water volume = stone volume.",
+  "caption_below": "Regular solid: volume = length × width × height. Irregular solid: displaced water volume = stone volume.",
   "labels": [
    [
     "Eureka can",
     [
-     684,
-     684
+     581,
+     737
     ],
     "R"
    ],
    [
     "Measuring cylinder",
     [
-     928,
+     893,
      828
     ],
     "R"

@@ -1,0 +1,117 @@
+{
+ "E5-01-gari-processing-flowchart": {},
+ "E5-02-traditional-yam-barn-structure": {
+  "labels": [
+   [
+    "Live poles providing shade",
+    [
+     492,
+     192
+    ],
+    "L"
+   ],
+   [
+    "Horizontal crossbar",
+    [
+     596,
+     649
+    ],
+    "R"
+   ],
+   [
+    "Yam tubers tied individually",
+    [
+     569,
+     775
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E5-03-maize-storage-crib": {
+  "regions": [
+   "Wire mesh walls for ventilation"
+  ],
+  "labels": [
+   [
+    "Roof",
+    [
+     619,
+     247
+    ],
+    "R"
+   ],
+   [
+    "Wire mesh walls for ventilation",
+    [
+     248,
+     396
+    ],
+    "L"
+   ],
+   [
+    "Maize on the cob",
+    [
+     437,
+     592
+    ],
+    "L"
+   ],
+   [
+    "Stilt leg",
+    [
+     531,
+     883
+    ],
+    "R"
+   ],
+   [
+    "Rat guard",
+    [
+     538,
+     811
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E5-04-modern-grain-silo": {
+  "regions": [
+   "Cylindrical metal body"
+  ],
+  "labels": [
+   [
+    "Conical roof",
+    [
+     305,
+     156
+    ],
+    "L"
+   ],
+   [
+    "Cylindrical metal body",
+    [
+     315,
+     446
+    ],
+    "L"
+   ],
+   [
+    "Discharge chute",
+    [
+     307,
+     855
+    ],
+    "L"
+   ],
+   [
+    "Aeration fan at the base",
+    [
+     460,
+     858
+    ],
+    "L"
+   ]
+  ]
+ }
+}

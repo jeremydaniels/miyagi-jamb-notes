@@ -80,7 +80,7 @@ Fresh cassava tubers spoil within 2 to 3 days of harvesting. Processing them int
 - *Traditional:* Peeling by hand with knives; pressing by placing heavy stones or wooden logs on the sacks; roasting in cast-iron pots over a smoky wood fire, which is tedious and hurts the eyes.
 - *Modern:* Mechanical peeling machines (though hand peeling is still common); motorized mechanical graters; hydraulic jacks or screw presses for fast dewatering; mechanized fryers with automated paddles to stir the gari.
 
-[IMAGE: Flow diagram of traditional gari processing. Six steps connected by arrows. 1. A woman peeling fresh cassava tubers with a knife. 2. Washing peeled tubers in a bowl of water. 3. Grating the tubers into a mash. 4. A jute sack of cassava mash squeezed under heavy stones to drain water (fermentation and pressing). 5. Sieving the mash through a locally woven sieve. 6. Roasting the sieved mash in a wide shallow cast-iron pan over a wood fire to produce dry gari. Clean flat textbook style, white background.]
+![Six steps of traditional gari processing showing peeling cassava, washing, grating, pressing mash under stones in a sack, sieving, and roasting over fire.](images/E5-01-gari-processing-flowchart.png)
 
 ### 2. Processing Rice
 
@@ -149,9 +149,9 @@ Storage methods, just like processing, can be divided into traditional and moder
 5. **Fireplace Storage:**
    Tying produce (like seed maize, onions, or dried meat) above the kitchen fireplace. The heat and smoke dry the produce continuously and repel insects.
 
-[IMAGE: A traditional yam barn. A vertical framework made of growing wooden poles (live poles) with horizontal wooden crossbars. Large yam tubers are tied individually to the framework using ropes. The structure is shaded by the leaves of the live poles. Labels: "Live poles providing shade", "Horizontal crossbar", "Yam tubers tied individually". Clean flat textbook style, white background.]
+![An illustration of a traditional yam barn structure with live wooden poles supporting leafy shade, horizontal crossbars, and individual yam tubers tied to the frame.](images/E5-02-traditional-yam-barn-structure.png)
 
-[IMAGE: A rectangular farm structure known as a maize crib. It has a wooden framework raised on stilt legs about 1 metre off the ground. On each leg is a downward-pointing metal cone (a rat guard). The walls are made of wire mesh to allow wind to blow through. The crib is filled with yellow maize on the cob. It has a sloped corrugated iron roof to protect from rain. Labels: "Roof", "Wire mesh walls for ventilation", "Maize on the cob", "Stilt leg", "Rat guard". Clean flat textbook style, white background.]
+![A wooden maize crib raised on stilt legs with conical rat guards, wire mesh walls filled with corn cobs, and a corrugated iron roof.](images/E5-03-maize-storage-crib.png)
 
 ### Modern Storage Facilities
 
@@ -167,7 +167,7 @@ Storage methods, just like processing, can be divided into traditional and moder
 5. **Canning and Bottling:**
    Food is heated to kill all microorganisms and then sealed in airtight metal cans or glass jars.
 
-[IMAGE: A tall, cylindrical modern metal silo used for bulk grain storage. It has a conical roof and a conical bottom for easy discharge. An access ladder runs up the side. Beside it is a smaller intake pipe and a tractor with a trailer unloading grain into a hopper. Labels: "Conical roof", "Cylindrical metal body", "Discharge chute", "Aeration fan at the base". Clean flat textbook style, white background.]
+![A tall cylindrical grain silo with a conical roof, conical bottom, side ladder, and aeration blower alongside a tractor unloading grain.](images/E5-04-modern-grain-silo.png)
 
 ### Comparison of Traditional vs Modern Storage
 

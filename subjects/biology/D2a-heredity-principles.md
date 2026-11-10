@@ -188,7 +188,7 @@ Adenine and guanine are larger, double-ring bases called **purines**; cytosine a
 - If you know the sequence of bases on one strand, you can work out the other. For example, if one strand reads **A T G C C A**, the other reads **T A C G G T**.
 - In any DNA molecule, the amount of A equals the amount of T, and the amount of G equals the amount of C (**Chargaff's rule**). For example, if 30% of the bases are adenine, then 30% are thymine, and the remaining 40% is shared equally: 20% guanine and 20% cytosine.
 
-[IMAGE: Two views of DNA side by side. Left: an untwisted section of DNA drawn as a straight ladder, with two vertical sugar-phosphate backbones (alternating yellow circles for phosphate and orange pentagons for sugar) and horizontal rungs made of paired coloured bases: A (green) with T (red), G (blue) with C (orange), with dotted lines between each pair for hydrogen bonds; show two dotted lines in A–T pairs and three in G–C pairs. Right: the same molecule twisted into a smooth right-handed double helix with coloured rungs. Labels to add later: "sugar-phosphate backbone", "phosphate", "deoxyribose sugar", "base pair", "A", "T", "G", "C", "hydrogen bonds", "double helix", "two strands run in opposite directions". Clean flat textbook style, white background.]
+![Diagram comparing an untwisted DNA ladder model showing antiparallel backbones and base pairs with a twisted double helix structure on the right.](images/D2a-04-dna-ladder-helix.png)
 
 ### How DNA copies itself (replication)
 

@@ -50,5 +50,9 @@
  [
   "D2a-13-haemophilia-sex-linked-pedigree",
   "Haemophilia inheritance diagram for a carrier mother and a normal father. Top: mother icon with chromosome pair X^H (normal X in pink) and X^h (X with a red dot marking the haemophilia allele); father icon with X^H (pink) and Y (blue, shorter). Gametes shown as circles below each parent. A 2 by 2 Punnett grid below with four child icons: normal girl X^H X^H, carrier girl X^H X^h (half-shaded), normal boy X^H Y, haemophiliac boy X^h Y (fully shaded red)."
+ ],
+ [
+  "D2a-04-dna-ladder-helix",
+  "Two views of DNA side by side. Left: an untwisted section of DNA drawn as a straight ladder, with two vertical sugar-phosphate backbones (alternating yellow circles for phosphate and orange pentagons for sugar) and horizontal rungs made of paired coloured bases: A (green) with T (red), G (blue) with C (orange), with dotted lines between each pair for hydrogen bonds; show two dotted lines in A–T pairs and three in G–C pairs. Right: the same molecule twisted into a smooth right-handed double helix with coloured rungs."
  ]
 ]

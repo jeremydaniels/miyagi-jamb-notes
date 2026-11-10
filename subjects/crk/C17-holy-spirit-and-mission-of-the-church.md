@@ -38,7 +38,7 @@ The story of the Pentecost in Acts 2 follows a clear sequence of events:
 6. **The Response:** The people were "pricked in their heart" by Peter's words and asked, "Men and brethren, what shall we do?" Peter told them to repent and be baptized in the name of Jesus Christ for the remission of sins, and they would receive the gift of the Holy Ghost.
 7. **The Result:** About **3,000 souls** gladly received his word, were baptized, and were added to the Church that very day.
 
-[IMAGE: A vibrant interior scene of a stone room filled with men and women in first-century clothing. Small, distinct flames of fire hover directly over each person's head. They have expressions of joy, awe, and passionate speaking. A window in the background shows a diverse crowd outside looking up in astonishment. Clean flat textbook illustration, white background.]
+![Men and women in first-century clothing rejoice inside a stone room with small flames above their heads as an astonished crowd looks through an arched window.](images/C17-01-day-pentecost-upper-room.png)
 
 ### Signs associated with the coming of the Holy Spirit
 
@@ -91,7 +91,7 @@ After the success in Samaria, an angel of the Lord told Philip to leave the busy
 * **The Conversion and Baptism:** Philip used that exact scripture to preach Jesus to him. As they travelled, they came to some water. The eunuch asked what hindered him from being baptized. After declaring his belief that Jesus Christ is the Son of God, Philip baptized him in the water.
 * **The Departure:** Upon coming out of the water, the Spirit of the Lord miraculously "caught away" Philip. The eunuch saw him no more but went on his way rejoicing, taking the gospel to Africa. Philip was later found preaching in Azotus and all the cities until he reached Caesarea.
 
-[IMAGE: A dusty desert road scene. An ornate wooden chariot drawn by a horse has stopped near a small pool of water. Standing in the water are two men: Philip, dressed in a simple tunic, and a richly dressed African official (the Ethiopian eunuch). Philip is baptizing the man. The eunuch holds a parchment scroll in one hand. Clean flat textbook illustration, white background.]
+![Philip baptizes an Ethiopian official holding a scroll in water near a chariot, while angels and light appear from clouds above.](images/C17-02-philip-baptising-ethiopian-eunuch.png)
 
 #### Analysis of the Church's Mission Strategy
 From Philip's activities in Acts 8, we can analyse several key aspects of the Church's mission:

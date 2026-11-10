@@ -30,7 +30,7 @@ The science that studies the rules of how to extract these laws is called **Usul
 
 According to the majority of Sunni scholars, there are four primary sources used to derive Islamic law. They are strictly hierarchical. This means a scholar must first look in the Qur'an. If the answer is not there, they look in the Sunnah. If it is still not explicitly addressed, they look to Ijma', and finally to Qiyas.
 
-[IMAGE: A pyramid diagram showing the hierarchy of the four sources of Islamic law. The broad base at the bottom is labelled "1. The Qur'an (The Word of Allah)". The next level up is "2. The Sunnah (The practice of the Prophet)". The third level is "3. Ijma' (Consensus of Scholars)". The pointed top level is "4. Qiyas (Analogical Deduction)". Arrows point upwards from the base to the top, showing the order of consultation. Clean flat textbook style, white background.]
+![A pyramid diagram showing the four sources of Islamic law from bottom to top: The Quran, The Sunnah, Ijma, and Qiyas, with an upward arrow indicating consultation order.](images/B12-01-sources-shariah-pyramid.png)
 
 ### 1. The Qur'an (The First and Primary Source)
 
@@ -80,7 +80,7 @@ For a ruling by Qiyas to be valid, four elements must be present:
 * **The Effective Cause ('Illa):** Why did Allah prohibit wine? Because it causes intoxication and loss of the mind.
 * **The Conclusion:** Since crack cocaine also causes intoxication and loss of the mind, it shares the exact same *'Illa*. Therefore, the ruling of prohibition (*Haram*) is transferred from wine to the new drug. 
 
-[IMAGE: A visual diagram illustrating the four pillars of Qiyas using the classic example. On the left side: A bottle of wine labelled "Original Case (Asl): Wine", with an arrow pointing to "Ruling (Hukm): Prohibited (Haram)". On the right side: A pile of white powder and pills labelled "New Case (Far'): Modern Drugs", with an arrow pointing to a question mark for the ruling. In the middle, linking both sides, is a highlighted box labelled "Effective Cause ('Illa): Intoxication / Loss of mind". A final arrow points from the middle box to the right side, changing the question mark to "Ruling: Prohibited (Haram)". Clean flat textbook style, white background.]
+![A diagram explaining the four pillars of Qiyas: Wine connects to Modern Drugs via the shared cause of Intoxication, deriving the ruling of Prohibited from the original case.](images/B12-02-four-pillars-qiyas.png)
 
 ## The four Sunni Schools of law and their founders
 

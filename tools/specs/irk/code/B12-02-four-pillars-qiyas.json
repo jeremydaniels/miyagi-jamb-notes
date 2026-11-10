@@ -1,0 +1,59 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "The Four Pillars of Qiyas (Analogical Deduction)",
+ "nodes": [
+  {
+   "id": "asl",
+   "text": "Original Case (Asl):\nWine",
+   "shape": "box",
+   "color": "#E0E7FF"
+  },
+  {
+   "id": "hukm_orig",
+   "text": "Ruling (Hukm):\nProhibited (Haram)",
+   "shape": "round",
+   "color": "#FEE2E2"
+  },
+  {
+   "id": "illa",
+   "text": "Effective Cause ('Illa):\nIntoxication / Loss of Mind",
+   "shape": "box",
+   "color": "#FEF3C7"
+  },
+  {
+   "id": "far",
+   "text": "New Case (Far'):\nModern Drugs",
+   "shape": "box",
+   "color": "#E0E7FF"
+  },
+  {
+   "id": "hukm_new",
+   "text": "Ruling (Hukm):\nProhibited (Haram)",
+   "shape": "round",
+   "color": "#FEE2E2"
+  }
+ ],
+ "edges": [
+  {
+   "from": "asl",
+   "to": "hukm_orig",
+   "label": "Textual ruling"
+  },
+  {
+   "from": "asl",
+   "to": "illa",
+   "label": "Identified cause"
+  },
+  {
+   "from": "illa",
+   "to": "far",
+   "label": "Shared attribute"
+  },
+  {
+   "from": "far",
+   "to": "hukm_new",
+   "label": "Derived ruling"
+  }
+ ]
+}

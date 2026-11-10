@@ -367,7 +367,7 @@ The eyeball is a roughly spherical organ, about 2.5 cm across. Its wall has **th
 8. The **optic nerve** carries the impulses to the **visual area** in the **occipital lobe** at the back of the **cerebrum**.
 9. The brain **interprets** the impulses. It "turns the image the right way up", combines the images from both eyes, and lets us recognise what we are seeing.
 
-[IMAGE: Ray diagram of image formation in the human eye. Left side: an upright green mango tree as the object. Two straight light rays from the top of the tree and two from its base travel to the eye, cross as they are refracted at the cornea and lens, and meet on the retina at the back of the eye to form a small upside-down image of the tree. Show the eye in simplified side section with cornea, lens and retina. Add a yellow optic nerve leading from the back of the eye towards a small brain outline with the occipital lobe shaded. Labels: object, light rays, cornea, lens, retina, inverted image, optic nerve, visual area of brain. Clean flat textbook style, white background.]
+![Ray diagram showing light from an upright tree refracting through the cornea and lens to form an inverted image on the retina connected to the brain.](images/B9b-07-eye-image-formation-ray.png)
 
 ### Accommodation: focusing on near and distant objects
 
@@ -407,7 +407,7 @@ Light from a **distant** object (more than about 6 metres away) arrives almost *
 
 **Tip:** remember "**C**ontract for **C**lose": ciliary muscles contract for close (near) objects. When looking at near objects for a long time (for example, reading for hours), the ciliary muscles stay contracted and the eyes feel tired. Looking into the distance now and then relaxes them.
 
-[IMAGE: Two side-section diagrams of the eye one above the other, showing accommodation. Top panel titled distant object: parallel orange light rays from the left entering the eye, ciliary muscles shown relaxed, suspensory ligaments drawn as straight tight lines, the lens thin and flat, rays meeting on the retina. Bottom panel titled near object: diverging orange light rays from a small object close on the left, ciliary muscles shown contracted and bulging inwards, suspensory ligaments drawn as slightly wavy slack lines, the lens thick and rounded, rays meeting on the retina. Labels for each panel: ciliary muscle relaxed or ciliary muscle contracted, suspensory ligaments tight or suspensory ligaments slack, thin lens or thick lens, retina, light rays. Clean flat textbook style, white background.]
+![Diagram comparing eye accommodation for distant and near objects, showing changes in ciliary muscles, suspensory ligaments, and lens shape focusing light rays onto the retina.](images/B9b-08-eye-accommodation-ray.png)
 
 ### The pupil reflex: controlling the amount of light
 
@@ -492,7 +492,7 @@ The **blind spot** is the place where the nerve fibres from all over the retina 
 - **Observation:** at a certain distance (usually about 20 to 30 cm), the **dot disappears**. As the card comes closer, it reappears.
 - **Conclusion:** at that distance, the image of the dot falls on the **blind spot** of the right eye, which has no light-sensitive cells, so it is not seen. This proves there is a part of the retina with no rods or cones.
 
-[IMAGE: Illustration of the blind spot experiment. A white rectangular card with a black plus-shaped cross on the left and a solid black dot about 8 cm to the right, held at arm's length. Below or beside it, a simple top-view diagram of a head with the left eye closed and the right eye looking at the cross, with one dashed line from the cross to the fovea of the right eye and another dashed line from the dot entering the eye and landing exactly where the optic nerve leaves. Labels: cross, dot, card, fovea, blind spot, optic nerve, left eye closed. Clean flat textbook style, white background.]
+![Diagram of the blind spot experiment showing a card with a cross and dot, and light rays entering the right eye focused on the fovea and optic nerve.](images/B9b-11-blind-spot-experiment.png)
 
 ### Binocular vision
 
@@ -568,7 +568,7 @@ Sound is a form of energy carried as **vibrations** (waves of pressure) through 
 
 **In short:** sound waves → pinna → ear canal → eardrum → malleus → incus → stapes → oval window → cochlear fluid → basilar membrane → hair cells of the organ of Corti → auditory nerve → brain.
 
-[IMAGE: Flow diagram of the pathway of sound through the ear. A row of eight simple, clearly separated icons connected by arrows from left to right, then continuing on a second row: sound waves drawn as curved lines, the pinna, the ear canal, the eardrum vibrating, the three ossicles in a chain, the oval window, the uncoiled cochlea drawn as a long tube with a basilar membrane and small hair cells, and the auditory nerve leading to a brain outline with the temporal lobe shaded. Labels: sound waves, pinna, ear canal, eardrum, ossicles (malleus, incus, stapes), oval window, cochlea fluid and hair cells, auditory nerve, auditory area of brain. Clean flat textbook style, white background.]
+![Flow diagram showing the pathway of sound through the ear in eight stages from sound waves to the auditory cortex of the brain.](images/B9b-13-hearing-pathway-flowchart.png)
 
 **Pitch and range of hearing:** the **pitch** of a sound depends on its frequency (number of vibrations per second, measured in hertz, Hz). Young people can usually hear sounds from about **20 Hz to 20,000 Hz**. The upper limit falls with age. Dogs can hear much higher sounds than humans, which is why "silent" dog whistles work. Bats produce very high sounds (ultrasound) and listen for the echoes to find insects in the dark (**echolocation**).
 
@@ -660,7 +660,7 @@ Before looking at the defects, you need to know the two main kinds of spectacle 
 
 A third kind, the **cylindrical lens**, curves more in one direction than in the other. It is used to correct **astigmatism**.
 
-[IMAGE: Two lenses side by side in side view with light rays. Left: a concave (diverging) lens, thin in the middle and thick at the edges, with three parallel orange rays entering from the left and spreading apart after passing through. Right: a convex (converging) lens, thick in the middle and thin at the edges, with three parallel orange rays entering from the left and meeting at a focal point after passing through. Labels: concave lens, rays spread out (diverge), convex lens, rays meet (converge), focal point. Clean flat textbook style, white background.]
+![Diagram comparing a concave diverging lens which spreads parallel light rays apart and a convex converging lens which focuses parallel light rays to a single focal point.](images/B9b-15-concave-convex-ray.png)
 
 ### How eye defects are detected
 
@@ -691,7 +691,7 @@ Eye tests are done by **optometrists** (who test vision and prescribe glasses) a
 
 **Note:** myopia often starts or gets worse in childhood and the teenage years. Research suggests that spending more time outdoors in daylight may help to reduce the risk in children.
 
-[IMAGE: Two side-section diagrams of a myopic (short-sighted) eye, one above the other. Top panel: an eyeball drawn slightly too long, parallel orange rays from a distant object entering and meeting at a point in front of the retina, then spreading again to give a blurred patch on the retina. Bottom panel: the same long eyeball with a concave lens placed in front of it; the parallel rays spread out slightly after the concave lens and then meet exactly on the retina. Labels: long eyeball, rays from distant object, focus in front of retina, blurred image, concave lens, focus on retina. Clean flat textbook style, white background.]
+![Diagram showing uncorrected myopia where rays focus in front of the elongated eyeball causing a blurred image, and myopia corrected using a concave lens focusing rays sharply on the retina.](images/B9b-16-myopia-correction-ray.png)
 
 ### Hypermetropia (long-sightedness)
 
@@ -708,7 +708,7 @@ Eye tests are done by **optometrists** (who test vision and prescribe glasses) a
 
 - **Convex (converging) lenses**. The convex lens bends the rays inwards slightly before they enter the eye, so the eye's lens brings them to a focus **exactly on the retina**.
 
-[IMAGE: Two side-section diagrams of a hypermetropic (long-sighted) eye, one above the other. Top panel: an eyeball drawn slightly too short, diverging orange rays from a near object entering and heading to a meeting point behind the retina (shown with dashed lines continuing past the back of the eye), giving a blurred patch on the retina. Bottom panel: the same short eyeball with a convex lens placed in front of it; the rays are bent inwards by the convex lens and then meet exactly on the retina. Labels: short eyeball, rays from near object, focus behind retina, blurred image, convex lens, focus on retina. Clean flat textbook style, white background.]
+![Diagram comparing uncorrected hypermetropia, where light rays focus behind the retina, with correction using a convex lens, which brings the rays to a sharp focus on the retina.](images/B9b-17-hypermetropia-correction-ray.png)
 
 ### Myopia and hypermetropia compared
 
@@ -756,7 +756,7 @@ Eye tests are done by **optometrists** (who test vision and prescribe glasses) a
 
 Astigmatism is common and often occurs together with myopia or hypermetropia; a single spectacle lens can correct both.
 
-[IMAGE: Two-part diagram about astigmatism. Left: an astigmatism test chart drawn as a half circle of straight black lines radiating like spokes from a centre point, as seen by a normal eye (all lines equally sharp and black). Right: the same chart as seen by an eye with astigmatism, with the vertical lines sharp and black and the horizontal and slanting lines blurred and grey. Below, a small drawing comparing a perfectly round cornea (like a football) with an unevenly curved cornea (like a rugby ball). Labels: normal vision, astigmatism, evenly curved cornea, unevenly curved cornea. Clean flat textbook style, white background.]
+![Diagram comparing normal vision and astigmatism using radial line test charts, alongside diagrams of an evenly curved cornea and an unevenly curved cornea.](images/B9b-18-astigmatism-chart-ray.png)
 
 ### Cataract
 
@@ -821,7 +821,7 @@ Glaucoma is another major cause of blindness in Nigeria. Because it is silent, i
 
 **Correction:** inherited colour blindness **cannot be cured**. People learn to cope by using brightness, position and labels (for example, the red light is always at the top of a traffic light). Special tinted glasses help some people tell some colours apart better, but they do not give normal colour vision.
 
-[IMAGE: An example colour vision test plate drawn in the general style of a dot test, not copied from any real published plate: a large circle filled with many small round dots of different sizes, most in shades of soft green, with a large number 7 made out of dots in shades of soft orange-red standing out in the middle. Beside it, the same circle as seen by a person with red-green colour blindness, where all the dots look similar muddy olive-brown and the number cannot be seen. Labels: normal colour vision, red-green colour blindness, number hidden. Clean flat textbook style, white background.]
+![A simulated color vision test plate showing the number seven in orange-red dots among green dots, alongside the same plate rendered in muddy olive-brown dots where the number is hidden.](images/B9b-19-colour-vision-test-plate.png)
 
 ### Night blindness
 

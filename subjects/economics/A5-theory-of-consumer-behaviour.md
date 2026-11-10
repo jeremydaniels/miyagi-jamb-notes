@@ -63,7 +63,7 @@ Let us look at a student eating slices of yam:
 *   When MU is **zero** (at the 6th slice), TU reaches its **maximum** point (30 utils). The consumer is fully satisfied (the point of satiety).
 *   When MU becomes **negative** (at the 7th slice), TU begins to **decrease**. Eating more now brings discomfort (disutility).
 
-[IMAGE: Two stacked line graphs sharing the same horizontal axis (Quantity). The top graph shows the Total Utility (TU) curve starting from the origin, rising smoothly to a peak, and then turning downwards. The bottom graph shows the Marginal Utility (MU) curve starting high and sloping downwards, crossing the horizontal axis exactly at the quantity where the TU curve is at its peak. When the MU curve falls below the axis, it is negative. Labels to add: "Total Utility (TU)", "Marginal Utility (MU)", "Maximum TU", "Zero MU (Point of Satiety)", "Positive MU", "Negative MU (Disutility)". Clean flat textbook illustration, white background.]
+![Two stacked graphs showing Total Utility reaching its maximum exactly where Marginal Utility falls to zero and becomes negative, plotted against quantity.](images/A5-01-total-marginal-utility-graphs.png)
 
 ### The Indifference Curve and Budget Line
 
@@ -78,7 +78,7 @@ An indifference curve is a graph showing all the different combinations of two c
 *   **Indifference curves never intersect (cross) each other:** If they crossed, it would logically mean that one combination of goods gives two different levels of total satisfaction, which is impossible.
 *   **A higher indifference curve represents a higher level of satisfaction:** Combinations on an indifference curve further to the right contain more goods, giving more satisfaction. A set of multiple indifference curves on one graph is called an **Indifference Map**.
 
-[IMAGE: A graph showing three downward-sloping curves, bowed inward (convex) towards the origin (0,0). The axes are "Quantity of Good Y" (vertical) and "Quantity of Good X" (horizontal). The curves are labelled IC1, IC2, and IC3, with IC1 closest to the origin and IC3 furthest away. A small arrow points outwards from IC1 to IC3 labelled "Increasing utility". Clean flat textbook illustration, white background.]
+![Diagram of three convex indifference curves IC1, IC2, and IC3 on Good X and Good Y axes, with an arrow showing increasing utility away from the origin.](images/A5-02-indifference-map-curve.png)
 
 **2. The Budget Line**
 While an indifference curve shows what a consumer *wants* to buy, a **budget line** (or price line) shows what they can *afford* to buy. 
@@ -153,7 +153,7 @@ Under the ordinal approach, consumer equilibrium is found by combining the consu
 
 At this point of tangency, the slope of the indifference curve (which is the Marginal Rate of Substitution, MRS) is exactly equal to the slope of the budget line (which is the ratio of their prices, $P_x / P_y$). 
 
-[IMAGE: A graph showing three convex indifference curves (IC1, IC2, IC3) and one straight downward-sloping budget line (AB). IC1 crosses the budget line at two points. IC2 touches the budget line at exactly one point (Point E) and curves away. IC3 is entirely above the budget line. A dot is placed at Point E (the point of tangency), labelled "Consumer Equilibrium". Clean flat textbook illustration, white background.]
+![A graph showing consumer equilibrium where budget line AB is tangent to indifference curve IC2 at point E, with IC1 intersecting and IC3 lying above the budget line.](images/A5-03-consumer-equilibrium-tangency-graph.png)
 
 ## Shifts in the Budget Line and Income and Substitution Effects
 
@@ -202,7 +202,7 @@ However, the seller has a fixed market price of **₦500** per plantain. You dec
 
 Graphically, consumer surplus is the triangular area **below the demand curve and above the price line**.
 
-[IMAGE: A standard demand and supply graph showing a downward-sloping Demand curve and an upward-sloping Supply curve intersecting at an equilibrium price (P) and quantity (Q). A horizontal dashed line goes from P to the intersection. The triangular area bounded by the vertical price axis on the left, the horizontal price line at the bottom, and the downward-sloping demand curve on the top right, is shaded in blue. The shaded triangle is labelled "Consumer Surplus". Clean flat textbook illustration, white background.]
+![Supply and demand graph showing consumer surplus as a shaded blue triangular area above equilibrium price and below the demand curve.](images/A5-04-consumer-surplus-graph.png)
 
 ### Real-Life Applications of Consumer Surplus
 

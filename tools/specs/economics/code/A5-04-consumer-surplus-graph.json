@@ -1,0 +1,72 @@
+{
+ "template": "graph",
+ "title": "Consumer Surplus",
+ "x_label": "Quantity",
+ "y_label": "Price",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Demand",
+   "points": [
+    [
+     0,
+     10
+    ],
+    [
+     9,
+     1
+    ]
+   ],
+   "smooth": false,
+   "color": "blue",
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "Supply",
+   "points": [
+    [
+     1,
+     1
+    ],
+    [
+     9,
+     9
+    ]
+   ],
+   "smooth": false,
+   "color": "red",
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "Q",
+   "y_text": "P"
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     0,
+     5
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     0,
+     10
+    ]
+   ],
+   "text": "Consumer Surplus",
+   "color": "lightblue"
+  }
+ ]
+}

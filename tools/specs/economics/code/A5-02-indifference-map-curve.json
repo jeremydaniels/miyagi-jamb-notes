@@ -1,0 +1,117 @@
+{
+ "template": "graph",
+ "title": "Indifference Curves",
+ "x_label": "Quantity of Good X",
+ "y_label": "Quantity of Good Y",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "IC1",
+   "points": [
+    [
+     1.2,
+     7.5
+    ],
+    [
+     2,
+     4.5
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4.5,
+     2
+    ],
+    [
+     7.5,
+     1.2
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "IC2",
+   "points": [
+    [
+     2,
+     8.5
+    ],
+    [
+     3,
+     5.5
+    ],
+    [
+     4.5,
+     4
+    ],
+    [
+     6,
+     3
+    ],
+    [
+     8.5,
+     2
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "IC3",
+   "points": [
+    [
+     3,
+     9.5
+    ],
+    [
+     4.5,
+     7
+    ],
+    [
+     6,
+     5.5
+    ],
+    [
+     7.5,
+     4.5
+    ],
+    [
+     9.5,
+     3
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     2.3,
+     2.3
+    ],
+    [
+     5.0,
+     5.0
+    ]
+   ],
+   "smooth": false,
+   "style": "dashed",
+   "color": "black"
+  }
+ ],
+ "notes": [
+  {
+   "x": 6.2,
+   "y": 6.8,
+   "text": "↗ Increasing utility"
+  }
+ ]
+}

@@ -257,7 +257,7 @@ How do we decide which electrolytic process to apply?
   3. The electrolyte MUST be a solution of the plating metal (e.g. aqueous Silver trioxonitrate(V), $\text{AgNO}_3$).
   When current flows, silver dissolves from the anode and plates beautifully onto the iron bangle at the cathode.
 
-![Diagram showing electroplating of a spoon with silver using an AgNO3 solution, a pure silver anode connected to the positive terminal, and a spoon cathode.](images/A10-02-spoon-electroplating-cell-schematic.png)
+![Diagram showing electroplating of a spoon with silver using an AgNO₃ solution, a pure silver anode connected to the positive terminal, and a spoon cathode.](images/A10-02-spoon-electroplating-cell-schematic.png)
 
 ## Electrochemical cells
 

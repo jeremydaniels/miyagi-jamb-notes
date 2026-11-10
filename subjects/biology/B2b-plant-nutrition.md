@@ -278,7 +278,7 @@ Good plants to use are those with soft, thin leaves, such as balsam (*Impatiens*
 
 **Note:** the white parts of a variegated leaf may contain some yellow carotenoid pigments but **no chlorophyll**.
 
-[IMAGE: Two drawings of the same variegated leaf side by side. Left: before the test, the leaf has a green centre and an irregular creamy-white border, with a pencil outline drawing beside it marking "green" and "white" areas. Right: the same leaf after the starch test on a white tile: the formerly green centre is blue-black and the formerly white border is brown. An arrow between them labelled "starch test". Labels: green part (chlorophyll), white part (no chlorophyll), blue-black (starch present), brown (no starch). Clean flat textbook style, white background.]
+![A variegated leaf with green center and white border alongside a line outline, and on the right the same leaf stained blue-black in the center and brown at the border.](images/B2b-07-variegated-leaf-starch-test.png)
 
 ### Extra experiment: oxygen is given off during photosynthesis
 

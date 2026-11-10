@@ -598,5 +598,41 @@
     "R"
    ]
   ]
+ },
+ "B2b-07-variegated-leaf-starch-test": {
+  "labels": [
+   [
+    "green part (chlorophyll)",
+    [
+     173,
+     494
+    ],
+    "L"
+   ],
+   [
+    "white part (no chlorophyll)",
+    [
+     218,
+     587
+    ],
+    "L"
+   ],
+   [
+    "blue-black (starch present)",
+    [
+     785,
+     500
+    ],
+    "R"
+   ],
+   [
+    "brown (no starch)",
+    [
+     834,
+     537
+    ],
+    "R"
+   ]
+  ]
  }
 }

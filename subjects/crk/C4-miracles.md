@@ -63,7 +63,7 @@ Jesus awoke, rebuked the wind, and said to the sea, "Peace! Be still!" Immediate
 2. **Faith over Fear:** Jesus' rebuke of the disciples highlights that true faith requires trusting in God's presence and protection even in life's most terrifying "storms."
 3. **Jesus' Humanity:** The fact that Jesus was deeply asleep in the boat during a storm shows his genuine physical exhaustion and complete human nature, perfectly combined with his divine power.
 
-[IMAGE: A wooden fishing boat tossed on massive, dark, foaming waves under a stormy sky. In the back of the boat, Jesus stands calmly with one hand raised, while terrified disciples crouch nearby, clutching the edges of the boat. Clean flat textbook illustration, dramatic contrast between the dark storm clouds and a break of light around Jesus.]
+![Textbook illustration of Jesus standing calmly with hand raised in a wooden boat, calming the stormy sea while terrified disciples watch.](images/C4-01-calming-storm-scene.png)
 
 ### Feeding of the five thousand
 *(Matthew 14:13-24; Mark 6:30-44; Luke 9:10-17; John 6:1-13)*
@@ -124,7 +124,7 @@ Seeing their sorrow, Jesus was deeply moved in his spirit and **wept**. He went 
 3. **The Catalyst for the Cross:** Because of this spectacular public miracle, many Jews believed in him. Consequently, the Sanhedrin (led by Caiaphas) officially plotted to put Jesus to death to prevent a Roman crackdown (John 11:45-53).
 4. **The Humanity of Jesus:** "Jesus wept" (John 11:35) perfectly illustrates his deep emotional empathy and human grief over the pain death causes.
 
-[IMAGE: The entrance to a rocky cave tomb with a large round stone pushed to the side. Jesus stands in the centre, his hand outstretched in command. From the dark entrance of the tomb, a figure wrapped entirely in white linen bandages (Lazarus) is walking forward. Startled onlookers, including Mary and Martha, cover their mouths in shock and awe. Clean flat textbook style.]
+![Jesus raises Lazarus from the dead as Lazarus emerges wrapped in grave clothes from a cave tomb before stunned onlookers.](images/C4-02-raising-lazarus-from-tomb.png)
 
 ### The raising of Jairus’ daughter
 *(Luke 8:41-42, 49-56; Mark 5:21-43)*

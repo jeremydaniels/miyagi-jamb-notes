@@ -61,7 +61,7 @@ The tiers of government relate with each other in three main ways:
 *   **Administrative/Political Relationship:** State governors often meet with the President (e.g., in the National Economic Council or National Council of State) to align policies.
 *   **Judicial Relationship:** If there is a dispute between the federal government and a state government (for example, a disagreement over revenue sharing), the **Supreme Court of Nigeria** is the only court with the original jurisdiction (power) to hear and settle the case.
 
-[IMAGE: A Venn diagram showing the three legislative lists. The left circle is "Federal Government" containing "Exclusive List (e.g., Defence, Currency)". The right circle is "State Government" containing "Residual List (e.g., Chieftaincy)". The overlapping middle section is labelled "Concurrent List (e.g., Education, Health) where both can make laws". Clean flat textbook style, white background.]
+![A Venn diagram comparing Federal and State legislative lists with an overlapping Concurrent List where both governments can make laws.](images/B9-01-venn-legislative-lists.png)
 
 ### Creation of States in Nigeria
 
@@ -82,7 +82,7 @@ To solve the problems of ethnic rivalry, minority fears, and unequal development
 *   **1996 (36 States):** 
     Military Head of State **General Sani Abacha** created 6 new states (Ebonyi, Bayelsa, Nasarawa, Zamfara, Gombe, and Ekiti), bringing the total to the current **36 states**.
 
-[IMAGE: A horizontal timeline chart of Nigeria's state creation from 1960 to 1996. 1960: 3 Regions (Independence). 1963: 4 Regions (Balewa). 1967: 12 States (Gowon). 1976: 19 States (Murtala). 1987: 21 States (Babangida). 1991: 30 States (Babangida). 1996: 36 States (Abacha). Clean flat textbook style, white background, with small icons of a map splitting into more pieces above each year.]
+![Horizontal timeline tracking Nigerias state creation from three regions at independence in 1960 through various military and civilian regimes up to 36 states in 1996.](images/B9-02-timeline-nigerian-state-creation.png)
 
 ## Problems of Nigerian Federalism
 

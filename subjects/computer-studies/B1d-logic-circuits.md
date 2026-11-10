@@ -79,7 +79,7 @@ Each logic gate has a specific standard symbol used when engineers draw circuit 
 * **OR Gate Symbol:** The OR gate symbol looks like a curved shield or an arrowhead. It has a curved back line on the input side and comes to a point on the output side.
 * **NOT Gate Symbol:** The NOT gate symbol is a triangle pointing to the right, with a small circle (called an inversion bubble) attached to the tip.
 
-[IMAGE: Standard logic gate symbols in three panels. Panel 1: AND gate (D-shape) with two inputs A, B on the left and output Q on the right. Panel 2: OR gate (curved shield/arrowhead shape) with two inputs A, B and output Q. Panel 3: NOT gate (triangle pointing right with a small circle at the tip) with one input A and output Q. Clean flat textbook illustration, white background.]
+![Three standard logic gates in separate panels: an AND gate, an OR gate and a NOT gate, each with labelled inputs and output](images/B1d-01-standard-logic-gate-symbols.png)
 
 ## Truth Tables
 

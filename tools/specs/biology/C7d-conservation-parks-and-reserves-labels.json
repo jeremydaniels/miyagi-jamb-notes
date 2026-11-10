@@ -1,0 +1,246 @@
+{
+ "C7d-01-renewable-nonrenewable-resources": {
+  "labels": [
+   [
+    "Renewable resources",
+    [
+     256,
+     30
+    ],
+    "L"
+   ],
+   [
+    "Non-renewable resources",
+    [
+     768,
+     30
+    ],
+    "R"
+   ],
+   [
+    "Tree planting",
+    [
+     241,
+     212
+    ],
+    "L"
+   ],
+   [
+    "Dam and rainwater harvesting",
+    [
+     247,
+     377
+    ],
+    "L"
+   ],
+   [
+    "Protected wildlife area",
+    [
+     236,
+     587
+    ],
+    "L"
+   ],
+   [
+    "Soil conservation",
+    [
+     284,
+     859
+    ],
+    "L"
+   ],
+   [
+    "Crude oil and gas",
+    [
+     661,
+     149
+    ],
+    "R"
+   ],
+   [
+    "Minerals",
+    [
+     626,
+     404
+    ],
+    "R"
+   ],
+   [
+    "Recycling",
+    [
+     649,
+     677
+    ],
+    "R"
+   ],
+   [
+    "Mined land reclaimed",
+    [
+     828,
+     492
+    ],
+    "R"
+   ],
+   [
+    "Solar panels",
+    [
+     830,
+     814
+    ],
+    "R"
+   ],
+   [
+    "Wind turbine",
+    [
+     922,
+     693
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7d-02-stages-desertification": {
+  "labels": [
+   [
+    "Healthy savanna",
+    [
+     186,
+     495
+    ],
+    "L"
+   ],
+   [
+    "Deforestation",
+    [
+     454,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Overgrazing",
+    [
+     573,
+     571
+    ],
+    "R"
+   ],
+   [
+    "Bush burning",
+    [
+     581,
+     307
+    ],
+    "R"
+   ],
+   [
+    "Bare soil",
+    [
+     575,
+     457
+    ],
+    "R"
+   ],
+   [
+    "Wind erosion",
+    [
+     888,
+     253
+    ],
+    "R"
+   ],
+   [
+    "Advancing sand dunes",
+    [
+     820,
+     352
+    ],
+    "R"
+   ],
+   [
+    "Desert-like land",
+    [
+     835,
+     565
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C7d-03-shelterbelt-windbreak-landscape": {
+  "labels": [
+   [
+    "Harmattan wind (from the north-east)",
+    [
+     820,
+     185
+    ],
+    "R"
+   ],
+   [
+    "Blowing sand",
+    [
+     775,
+     528
+    ],
+    "R"
+   ],
+   [
+    "Shelterbelt",
+    [
+     525,
+     335
+    ],
+    "R"
+   ],
+   [
+    "Neem",
+    [
+     437,
+     677
+    ],
+    "L"
+   ],
+   [
+    "Acacia",
+    [
+     463,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Eucalyptus",
+    [
+     582,
+     278
+    ],
+    "R"
+   ],
+   [
+    "Sand trapped",
+    [
+     638,
+     773
+    ],
+    "R"
+   ],
+   [
+    "Reduced wind speed",
+    [
+     714,
+     509
+    ],
+    "R"
+   ],
+   [
+    "Protected farmland",
+    [
+     239,
+     764
+    ],
+    "L"
+   ]
+  ]
+ }
+}

@@ -209,7 +209,7 @@ Crude oil, natural gas and coal are **non-renewable**. Burning them also causes 
 | Minerals | Non-renewable | Recycling, reuse, efficient mining, substitutes, land reclamation, control of illegal mining |
 | Fossil fuels | Non-renewable | Energy efficiency, end gas flaring, stop oil theft, renewable energy (solar, hydro, wind, biogas), public transport |
 
-[IMAGE: A two-panel illustration of resources and their conservation. Left panel "Renewable resources": a forest with a person planting a seedling, a river with a dam and a rainwater tank on a house, an elephant and antelope in a fenced protected area, and a farm with contour ridges and mulch. Right panel "Non-renewable resources": an oil well and a pipeline, a coal heap and a mine being refilled and replanted, a recycling bin with metal cans and glass bottles, and a roof with solar panels and a wind turbine as alternatives. Labels: "Renewable resources", "Non-renewable resources", "Tree planting", "Dam and rainwater harvesting", "Protected wildlife area", "Soil conservation", "Crude oil and gas", "Minerals", "Recycling", "Mined land reclaimed", "Solar panels", "Wind turbine". Clean flat textbook style, white background.]
+![A two-panel illustration comparing renewable resources and conservation methods like reforestation and wildlife protection with non-renewable resource extraction and alternatives like recycling and solar power.](images/C7d-01-renewable-nonrenewable-resources.png)
 
 ## Benefits of conserving natural resources
 
@@ -259,7 +259,7 @@ Crude oil, natural gas and coal are **non-renewable**. Burning them also causes 
 6. **Migration** of people and herds southwards, causing overcrowding and conflict.
 7. Poverty.
 
-[IMAGE: A three-stage illustration of desertification from left to right in northern Nigeria. Stage 1: green Sudan savanna with scattered trees, grass and a farm with crops. Stage 2: people cutting trees for firewood, a large herd of cattle and goats overgrazing, a bush fire, and bare patches of soil. Stage 3: bare land with sand dunes advancing over a farm and half-buried mud houses, a dry well and dust blowing in the wind. Labels: "Healthy savanna", "Deforestation", "Overgrazing", "Bush burning", "Bare soil", "Wind erosion", "Advancing sand dunes", "Desert-like land". Warm sandy colours. Clean flat textbook style, white background.]
+![Three-stage diagram of desertification showing healthy savanna with farming, followed by deforestation, overgrazing and bush burning, culminating in dry sand dunes burying mud houses and farmland.](images/C7d-02-stages-desertification.png)
 
 ### Prevention and control of desertification
 
@@ -285,7 +285,7 @@ Crude oil, natural gas and coal are **non-renewable**. Burning them also causes 
 11. **Laws and policies** against indiscriminate tree felling, and public education.
 12. **International cooperation**: the **United Nations Convention to Combat Desertification (UNCCD)**, adopted in 1994; World Day to Combat Desertification and Drought is observed on **17 June**.
 
-[IMAGE: A view of a dry northern Nigerian landscape protected by a shelterbelt. On the right, the harmattan wind shown as arrows carrying sand from a desert area towards the left. In the middle, a long belt of several rows of trees (neem, acacia and eucalyptus) planted across the wind direction. On the left, behind the shelterbelt, a protected green farm with millet, a village and grazing animals. Sand is shown piling up against the windward side of the trees. Labels: "Harmattan wind (from the north-east)", "Blowing sand", "Shelterbelt", "Neem", "Acacia", "Eucalyptus", "Sand trapped", "Reduced wind speed", "Protected farmland". Clean flat textbook style, white background.]
+![Illustration of a tree shelterbelt blocking desert winds and trapped sand, shielding a green village with crops and livestock from arid conditions.](images/C7d-03-shelterbelt-windbreak-landscape.png)
 
 ## Bodies responsible for conservation
 

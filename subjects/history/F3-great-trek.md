@@ -38,7 +38,7 @@ The wars were not a single continuous battle, but a cycle of raids, counter-raid
 4. **Different views on land ownership:** The Boers believed that if they settled on a piece of land and registered it with the Cape government, it belonged to them exclusively. The Xhosa, like most African societies, believed that land belonged to the community and was held in trust by the chief. A chief might grant a Boer permission to use land, but the Boer believed he now owned it permanently, leading to serious misunderstandings.
 5. **Shifting boundaries and broken treaties:** The Cape government (first the Dutch, later the British) repeatedly tried to draw fixed borders (such as the Fish River) to keep the Boers and Xhosa apart. Neither side respected these borders. When treaties were signed with one Xhosa chief, other independent Xhosa chiefs did not feel bound by them.
 
-[IMAGE: A map of the southern tip of Africa in the late 18th and early 19th century. The map shows the Cape Colony in the south-west, with an arrow pointing eastwards labelled "Trekboer Expansion". In the south-east, another arrow points westwards labelled "Xhosa Expansion". The two arrows meet at a shaded region labelled "The Zuurveld" and "Great Fish River". Clean flat textbook illustration, white background, distinct colours for Boer and Xhosa territories.]
+![Map of southern Africa showing Cape Colony Trekboer expansion eastward and Xhosa expansion westward converging at the Zuurveld contested zone near the Great Fish River.](images/F3-01-historical-frontier-expansion-map.png)
 
 ## British intervention in Boer-African relations
 
@@ -80,7 +80,7 @@ The Great Trek was not a single, chaotic movement. It was a planned migration ch
 3. **Weapons and Religion:** The Voortrekkers were heavily armed with modern, muzzle-loading rifles, and they travelled on horseback, making them a highly mobile and deadly fighting force. They were also deeply religious Calvinists, carrying their Dutch Bibles and believing that God had chosen them to inherit the interior of Africa.
 4. **African Servants:** Although the Boers were escaping the abolition of slavery, they did not travel alone. Almost every Voortrekker party included Khoikhoi servants and formerly enslaved people who drove the cattle, led the oxen, and assisted in fighting.
 
-[IMAGE: An illustration of a Voortrekker wagon train. Several heavy wooden wagons with canvas covers, pulled by teams of long-horned oxen, are travelling across a dry, grassy plain. Men with wide-brimmed hats and rifles sit on horses or walk alongside the wagons. A Khoikhoi servant is guiding the lead oxen with a whip. In the background, flat-topped mountains typical of the South African interior. Clean flat textbook illustration, white background.]
+![Illustration of a Voortrekker wagon train with covered wagons pulled by oxen and guarded by armed men across a dry plain before flat-topped mountains.](images/F3-02-historical-landscape.png)
 
 ### Encounters with African States
 The Voortrekkers moved northwards and crossed the Orange River into territories that had recently been devastated by the **Mfecane** (the wars and population movements caused by the rise of the Zulu kingdom). The Boers wrongly assumed the land was empty. In reality, the displaced African societies were just temporarily scattered or regrouping.

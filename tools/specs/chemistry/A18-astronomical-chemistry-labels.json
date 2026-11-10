@@ -1,0 +1,42 @@
+{
+ "A18-01-solar-system-planetary-layout": {},
+ "A18-02-earth-moon-tidal-bulge": {
+  "regions": [
+   "Ocean tide bulge caused by the Moon's gravity"
+  ],
+  "labels": [
+   [
+    "Earth",
+    [
+     483,
+     492
+    ],
+    "L"
+   ],
+   [
+    "The Moon (natural satellite)",
+    [
+     904,
+     512
+    ],
+    "R"
+   ],
+   [
+    "Moon's orbit",
+    [
+     500,
+     106
+    ],
+    "L"
+   ],
+   [
+    "Ocean tide bulge caused by the Moon's gravity",
+    [
+     770,
+     524
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -33,7 +33,7 @@ The composition of the solar system includes:
 6. **Meteoroids:** Small fragments of rock or metal travelling through space. When they enter Earth's atmosphere and burn up due to friction, they produce streaks of light called **meteors** (shooting stars). If a fragment survives the fall and strikes the ground, it is called a **meteorite**.
 7. **Interplanetary Dust and Gas:** Extremely thin clouds of microscopic dust particles and ionised gases filling the vast empty spaces between the planets.
 
-[IMAGE: A wide panoramic illustration of the solar system. On the far left is a massive glowing Sun. Sweeping out to the right are the elliptical orbits of the planets. Mercury, Venus, Earth, and Mars are shown close to the Sun. A ring of irregular rocky asteroids (the Asteroid Belt) separates them from the giant planets: Jupiter (with its Great Red Spot), Saturn (with wide bright rings), Uranus, and Neptune. Far to the right is the tiny icy body of Pluto. A comet with a glowing tail sweeping away from the Sun is shown in the background. Clean flat textbook style, dark space background with white orbit lines and accurate planet colours.]
+![Diagram of the solar system showing the Sun, inner planets, asteroid belt, outer gas and ice giants, Pluto, and a comet with orbital paths.](images/A18-01-solar-system-planetary-layout.png)
 
 ### List the planets
 
@@ -96,7 +96,7 @@ The natural satellite of the Earth is **the Moon**.
 - **Gravity:** The Moon's gravitational pull is about one-sixth ($1/6$) of the Earth's. However, this pull is strong enough to exert a force on Earth's oceans, causing the regular rise and fall of sea levels known as **ocean tides**.
 - **Orbit:** The Moon takes roughly $27.3$ days to complete one orbit around the Earth.
 
-[IMAGE: A diagram showing the Earth and the Moon in space. A large, blue and green Earth is in the centre, with the grey, cratered Moon orbiting it along a white dashed circular path. Double-headed arrows show the gravitational pull of the Moon acting on the Earth's oceans, creating a visible bulge of blue water facing the Moon (high tide). Labels to add later: "Earth", "The Moon (natural satellite)", "Moon's orbit", "Ocean tide bulge caused by the Moon's gravity". Clean flat textbook style, white background.]
+![An illustration showing the Earth with tidal water bulges caused by the Moon orbiting along a dashed circular path.](images/A18-02-earth-moon-tidal-bulge.png)
 
 ### Identify the segments of the earth
 
@@ -138,7 +138,7 @@ By mass, the most abundant elements in the Earth's crust are:
 
 *(Important Distinction: Nitrogen is the most abundant element in the atmosphere, but Oxygen is the most abundant element in the solid lithosphere).*
 
-[IMAGE: A three-part vertical cross-section diagram of the Earth's surface showing the three segments. The top section shows a light blue sky with clouds representing the Atmosphere, accompanied by a small pie chart showing $78\%$ $\text{N}_2$ and $21\%$ $\text{O}_2$. The middle section shows a deep blue ocean layer representing the Hydrosphere, with the chemical formula $\text{H}_2\text{O}$ + $\text{NaCl}$. The bottom section shows a cross-section of brown, rocky land representing the Lithosphere, accompanied by a small pie chart showing $47\%$ Oxygen and $28\%$ Silicon. Labels to add later: "Atmosphere (gaseous mixture)", "Hydrosphere (water and dissolved salts)", "Lithosphere (solid silicate rocks)". Clean flat textbook style, white background.]
+![A three-part vertical diagram illustrating the Atmosphere, Hydrosphere, and Lithosphere layers with their chemical formulas and elemental composition pie charts.](images/A18-03-earth-spheres-vertical-cross.png)
 
 ## Key terms
 

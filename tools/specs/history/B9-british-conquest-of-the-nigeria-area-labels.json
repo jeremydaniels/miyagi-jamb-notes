@@ -1,22 +1,19 @@
 {
  "B9-02-colonial-conquest-methods-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Method 1: Treaties of Protection",
-    [
-     274,
-     509
-    ],
-    "L"
+    "Method 1: Treaties of\nProtection",
+    271,
+    761
    ],
    [
-    "Method 2: Gunboat Diplomacy",
-    [
-     752,
-     509
-    ],
-    "R"
+    "Method 2: Gunboat\nDiplomacy",
+    752,
+    761
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -1,0 +1,402 @@
+{
+ "D3-01-traditional-vs-modern-biotechnology": {
+  "labels": [
+   [
+    "Traditional biotechnology",
+    [
+     274,
+     369
+    ],
+    "L"
+   ],
+   [
+    "palm wine",
+    [
+     136,
+     468
+    ],
+    "L"
+   ],
+   [
+    "garri fermentation",
+    [
+     365,
+     564
+    ],
+    "L"
+   ],
+   [
+    "ogi",
+    [
+     164,
+     760
+    ],
+    "L"
+   ],
+   [
+    "iru",
+    [
+     361,
+     852
+    ],
+    "L"
+   ],
+   [
+    "Modern biotechnology",
+    [
+     768,
+     512
+    ],
+    "R"
+   ],
+   [
+    "fermenter",
+    [
+     726,
+     338
+    ],
+    "R"
+   ],
+   [
+    "genetic engineering",
+    [
+     928,
+     152
+    ],
+    "R"
+   ],
+   [
+    "tissue culture",
+    [
+     886,
+     898
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D3-02-plant-tissue-culture-steps": {
+  "labels": [
+   [
+    "1 parent plant",
+    [
+     194,
+     260
+    ],
+    "L"
+   ],
+   [
+    "2 explant cut from shoot tip and sterilised",
+    [
+     563,
+     266
+    ],
+    "R"
+   ],
+   [
+    "3 explant on sterile nutrient agar with hormones",
+    [
+     854,
+     333
+    ],
+    "R"
+   ],
+   [
+    "4 callus forms",
+    [
+     189,
+     857
+    ],
+    "L"
+   ],
+   [
+    "5 shoots and roots develop",
+    [
+     436,
+     802
+    ],
+    "L"
+   ],
+   [
+    "6 plantlets hardened off and planted out",
+    [
+     768,
+     778
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D3-03-legume-root-nodules-rhizobium": {
+  "labels": [
+   [
+    "legume plant",
+    [
+     528,
+     437
+    ],
+    "R"
+   ],
+   [
+    "root nodules",
+    [
+     573,
+     714
+    ],
+    "R"
+   ],
+   [
+    "Rhizobium bacteria inside nodule cells",
+    [
+     805,
+     663
+    ],
+    "R"
+   ],
+   [
+    "nitrogen gas (N2) from the air",
+    [
+     702,
+     631
+    ],
+    "R"
+   ],
+   [
+    "nitrogen compounds for the plant",
+    [
+     915,
+     607
+    ],
+    "R"
+   ],
+   [
+    "seeds coated with Rhizobium inoculant",
+    [
+     241,
+     741
+    ],
+    "L"
+   ]
+  ]
+ },
+ "D3-04-penicillin-zone-inhibition-plate": {
+  "labels": [
+   [
+    "Staphylococcus colonies",
+    [
+     198,
+     390
+    ],
+    "L"
+   ],
+   [
+    "Penicillium mould colony",
+    [
+     369,
+     607
+    ],
+    "L"
+   ],
+   [
+    "clear zone: bacteria killed by penicillin",
+    [
+     292,
+     658
+    ],
+    "L"
+   ],
+   [
+    "Penicillium (magnified)",
+    [
+     861,
+     564
+    ],
+    "R"
+   ],
+   [
+    "spores",
+    [
+     827,
+     322
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D3-05-industrial-fermenter-cross-section": {
+  "labels": [
+   [
+    "motor",
+    [
+     505,
+     93
+    ],
+    "L"
+   ],
+   [
+    "stirrer (paddles)",
+    [
+     564,
+     454
+    ],
+    "R"
+   ],
+   [
+    "nutrient inlet",
+    [
+     375,
+     152
+    ],
+    "L"
+   ],
+   [
+    "sterile air in",
+    [
+     507,
+     954
+    ],
+    "L"
+   ],
+   [
+    "air bubbles (sparger)",
+    [
+     501,
+     787
+    ],
+    "L"
+   ],
+   [
+    "exhaust gases out",
+    [
+     636,
+     142
+    ],
+    "R"
+   ],
+   [
+    "water jacket (cooling)",
+    [
+     726,
+     483
+    ],
+    "R"
+   ],
+   [
+    "cold water in",
+    [
+     292,
+     901
+    ],
+    "L"
+   ],
+   [
+    "warm water out",
+    [
+     775,
+     288
+    ],
+    "R"
+   ],
+   [
+    "temperature probe",
+    [
+     702,
+     441
+    ],
+    "R"
+   ],
+   [
+    "pH probe",
+    [
+     698,
+     510
+    ],
+    "R"
+   ],
+   [
+    "culture of Penicillium",
+    [
+     428,
+     527
+    ],
+    "L"
+   ],
+   [
+    "product removed here",
+    [
+     654,
+     924
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D3-06-garri-processing-flow": {
+  "labels": [
+   [
+    "1 peel",
+    [
+     241,
+     167
+    ],
+    "L"
+   ],
+   [
+    "2 wash and grate",
+    [
+     741,
+     208
+    ],
+    "R"
+   ],
+   [
+    "3 press and ferment (2 to 4 days)",
+    [
+     271,
+     464
+    ],
+    "L"
+   ],
+   [
+    "lactic acid bacteria and yeasts",
+    [
+     640,
+     494
+    ],
+    "R"
+   ],
+   [
+    "cyanide released and lost as gas",
+    [
+     274,
+     583
+    ],
+    "L"
+   ],
+   [
+    "4 sieve",
+    [
+     263,
+     805
+    ],
+    "L"
+   ],
+   [
+    "5 roast (garrify)",
+    [
+     702,
+     820
+    ],
+    "R"
+   ],
+   [
+    "garri",
+    [
+     883,
+     904
+    ],
+    "R"
+   ]
+  ]
+ }
+}

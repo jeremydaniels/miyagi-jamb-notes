@@ -54,7 +54,7 @@ Biotechnology is not new. People have used microorganisms for thousands of years
 | Scale | Household or village | Often large industrial scale |
 | Examples | Garri, ogi, iru, ugba, palm wine, burukutu, nono, bread, yoghurt, cheese, vinegar | Human insulin, interferon, hepatitis B vaccine, Bt crops, tissue-cultured plantlets, DNA fingerprinting, monoclonal antibodies |
 
-[IMAGE: Split illustration contrasting traditional and modern biotechnology. Left half (warm earthy colours): a Nigerian kitchen scene with a calabash of frothing palm wine, a jute sack of grated cassava being pressed under a heavy stone for garri, a clay pot of fermenting ogi, and leaf-wrapped bundles of iru. Right half (cool blue and steel colours): a stainless steel fermenter tank with pipes and a control panel, a scientist in a lab coat with a pipette, a petri dish of bacterial colonies, a DNA double helix and test tubes holding small plantlets in jelly. Labels to add later: "Traditional biotechnology", "palm wine", "garri fermentation", "ogi", "iru", "Modern biotechnology", "fermenter", "genetic engineering", "tissue culture". Clean flat textbook style, white background.]
+![Comparison between traditional biotechnology showing Nigerian fermented foods like palm wine, garri, and ogi, and modern biotechnology showing a fermenter, scientist, DNA helix, and tissue culture.](images/D3-01-traditional-vs-modern-biotechnology.png)
 
 ### Fermentation: the key process
 
@@ -107,7 +107,7 @@ Many biotechnology processes depend on **fermentation**.
 
 **Disadvantages:** expensive laboratory and skilled staff needed; all the clones are **genetically identical**, so one new disease could attack them all; contamination by microbes can destroy whole batches.
 
-[IMAGE: Step-by-step diagram of plant tissue culture in six panels from left to right. 1: a healthy plantain (or cassava) parent plant with a highlighted shoot tip. 2: a gloved hand with a scalpel cutting a tiny explant from the shoot tip, beside a beaker of sterilising solution. 3: a glass jar containing clear jelly medium with the explant on its surface. 4: a jar with a lump of pale callus tissue. 5: a jar with several small green shoots and white roots. 6: young plantlets in small pots in a greenhouse, then planted in a field row. Labels to add later: "1 parent plant", "2 explant cut from shoot tip and sterilised", "3 explant on sterile nutrient agar with hormones", "4 callus forms", "5 shoots and roots develop", "6 plantlets hardened off and planted out". Clean flat textbook style, white background.]
+![Diagram showing six steps of plant tissue culture from parent plant and explant cutting to nutrient agar culture, callus formation, shoot and root development, and planting out.](images/D3-02-plant-tissue-culture-steps.png)
 
 ### 2. Biofertilisers
 
@@ -120,7 +120,7 @@ Many biotechnology processes depend on **fermentation**.
 | **Blue-green bacteria (cyanobacteria)**, e.g. *Anabaena*, *Nostoc* | Fix nitrogen in water and wet soil; *Anabaena* lives inside the small water fern ***Azolla***, which can be grown in flooded rice fields as a green manure | Rice |
 | **Mycorrhizal fungi** | Fungi that live in association with roots and help them absorb **phosphate** and water | Many crops and trees |
 
-[IMAGE: A legume plant (soybean or cowpea) pulled from the soil showing its roots covered with small round pink-brown root nodules. An enlarged inset of a cut nodule shows many tiny rod-shaped Rhizobium bacteria inside the root cells, with arrows showing N2 from the air in the soil entering and ammonium compounds passing to the plant. Beside it, a packet of Rhizobium inoculant powder being mixed with seeds. Labels to add later: "legume plant", "root nodules", "Rhizobium bacteria inside nodule cells", "nitrogen gas (N2) from the air", "nitrogen compounds for the plant", "seeds coated with Rhizobium inoculant". Clean flat textbook style, white background.]
+![Illustration of a legume plant with root nodules, an inset showing symbiotic Rhizobium bacteria inside nodule cells exchanging nitrogen, and inoculant powder being mixed with seeds.](images/D3-03-legume-root-nodules-rhizobium.png)
 
 ### 3. Biopesticides and biological control
 
@@ -209,7 +209,7 @@ An **antibiotic** is a substance produced by a microorganism (or made to copy on
 5. Fleming could not purify it in large amounts. In the early **1940s**, **Howard Florey** and **Ernst Chain** at Oxford purified penicillin and showed that it cured infections. During the Second World War, mass production was developed, using a higher-yielding species, ***Penicillium chrysogenum***, grown in large fermenters.
 6. Fleming, Florey and Chain shared the Nobel Prize in 1945.
 
-[IMAGE: A culture plate (petri dish) seen from above, covered with many small cream-coloured bacterial colonies, with a fuzzy blue-green mould colony near one edge surrounded by a clear ring with no bacteria. Beside it, a simple portrait-free sketch of the mould under magnification showing branching hyphae and brush-like spore-bearing structures. Labels to add later: "Staphylococcus colonies", "Penicillium mould colony", "clear zone: bacteria killed by penicillin", "Penicillium (magnified)", "spores". Clean flat textbook style, white background.]
+![Illustration of a petri dish showing bacterial colonies inhibited around a Penicillium mould colony, alongside a magnified view of branching hyphae and brush-like spores.](images/D3-04-penicillin-zone-inhibition-plate.png)
 
 #### How penicillin is produced industrially
 
@@ -220,7 +220,7 @@ An **antibiotic** is a substance produced by a microorganism (or made to copy on
 5. Penicillin is **extracted and purified** from the liquid, then made into tablets, capsules or injections.
 6. Chemists often modify the natural penicillin to make **semi-synthetic penicillins** such as **ampicillin** and **amoxicillin** (very commonly used in Nigeria), which work against more bacteria.
 
-[IMAGE: Labelled cross-section of an industrial fermenter: a tall stainless steel cylinder with a motor-driven stirrer shaft and paddles inside, a water jacket around the outside with cold water in at the bottom and warm water out at the top, a sterile air inlet with a sparger (bubble ring) at the bottom, a nutrient inlet at the top, an exhaust gas outlet at the top, temperature and pH probes on the side, and a harvest outlet tap at the bottom. Inside, a cloudy culture with tiny fungal threads. Labels to add later: "motor", "stirrer (paddles)", "nutrient inlet", "sterile air in", "air bubbles (sparger)", "exhaust gases out", "water jacket (cooling)", "cold water in", "warm water out", "temperature probe", "pH probe", "culture of Penicillium", "product removed here". Clean flat textbook style, white background.]
+![A diagram of an industrial fermenter showing the cooling water jacket, central stirrer paddles, bottom air sparger, probes, inlet and outlet pipes, and harvest tap.](images/D3-05-industrial-fermenter-cross-section.png)
 
 #### Other antibiotics from microorganisms
 
@@ -262,7 +262,7 @@ Garri is made from cassava roots, which contain **cyanogenic glycosides** (mainl
 4. Fermentation and the cassava's own enzymes help **break down the cyanogenic glycosides**, and the hydrogen cyanide released escapes as gas. This makes the garri **safe to eat**.
 5. The dewatered, fermented mash is **sieved** and then **roasted (fried)** in a wide pan, with or without palm oil (palm oil gives yellow garri), until dry and crisp. Heating drives off remaining cyanide and dries the garri so it can be stored.
 
-[IMAGE: Flow diagram of garri production in six steps from left to right: 1 fresh cassava roots being peeled with a knife; 2 white peeled roots being washed and grated into a pulp in a bowl; 3 a jute sack of wet pulp squeezed under heavy stones on wooden planks with water dripping out; 4 a close-up circle inset of the pulp with tiny rod-shaped bacteria and oval yeast cells; 5 a woman sieving the mash through a raffia sieve; 6 the mash being roasted in a wide iron pan over a firewood fire, and a bowl of finished yellow and white garri. Labels to add later: "1 peel", "2 wash and grate", "3 press and ferment (2 to 4 days)", "lactic acid bacteria and yeasts", "cyanide released and lost as gas", "4 sieve", "5 roast (garrify)", "garri". Clean flat textbook style, white background.]
+![Six-step diagram showing garri production: peeling cassava, washing and grating, pressing mash under stones, microbial inset of bacteria and yeasts, sieving mash, and roasting over fire.](images/D3-06-garri-processing-flow.png)
 
 #### Ogi (akamu, koko)
 

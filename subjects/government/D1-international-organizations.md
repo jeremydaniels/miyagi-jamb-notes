@@ -73,7 +73,7 @@ ECOWAS was established on **May 28, 1975**, when 15 West African countries signe
 - **Problems:** Language barriers (Anglophone vs. Francophone vs. Lusophone), over-reliance on Nigeria for funding and troops, frequent political instability (military coups), similarities in agricultural products (which limits internal trade), and border closures despite the free movement protocol.
 - **Prospects:** If the single currency (Eco) is fully realized and the West African railway/highway networks are completed, economic integration will vastly improve.
 
-[IMAGE: A map of West Africa with all ECOWAS member states highlighted in a single color (e.g., green). Surrounding countries are pale grey. A clear legend says "ECOWAS Member States". Clean flat textbook style, white background.]
+![A textbook map of West Africa highlighting ECOWAS member states in green with surrounding countries shaded pale grey and a clear legend.](images/D1-01-map-west-africa-ecowas.png)
 
 ## Organization of African Unity (OAU) and African Union (AU)
 

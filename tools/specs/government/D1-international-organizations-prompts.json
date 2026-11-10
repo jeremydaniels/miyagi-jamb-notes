@@ -2,5 +2,9 @@
  [
   "D1-02-flowchart-united-nations-system",
   "A flowchart showing the United Nations system. At the top is a box for \"United Nations\". Below it, branches lead to six boxes: \"General Assembly\", \"Security Council (15 members, 5 with veto)\", \"Secretariat\", \"Economic and Social Council (ECOSOC)\", \"International Court of Justice\", and \"Trusteeship Council (dormant)\". Below ECOSOC, draw a dotted box listing WHO, UNICEF, UNESCO."
+ ],
+ [
+  "D1-01-map-west-africa-ecowas",
+  "A map of West Africa with all ECOWAS member states highlighted in a single color (e.g., green). Surrounding countries are pale grey. A clear legend says \"ECOWAS Member States\"."
  ]
 ]

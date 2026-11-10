@@ -96,7 +96,7 @@ In Romans 12, Paul gives a practical breakdown of how the new life looks in a Ch
 | **Speech** | Lying, filthy language, cursing, blasphemy | Truthfulness, singing spiritual songs, blessing enemies |
 | **Ultimate Result** | Shall not inherit the kingdom of God | Eternal life, bearing the fruit of the Spirit |
 
-[IMAGE: A split illustration contrasting the old life and the new life. On the left side (darker, greyish tones): a dead, withered tree with heavy stones chained to its branches, labeled with words like "Strife", "Envy", "Anger", and "Lust". On the right side (bright, vibrant colors): a lush, green, healthy tree growing beside a clear stream, heavy with colourful fruits labeled "Love", "Joy", "Peace", "Patience", and "Kindness". Clean flat textbook style, white background.]
+![A split illustration contrasting a withered tree hung with chained stones over dry ground against a vibrant, fruit-bearing tree beside a flowing stream.](images/D3-01-old-versus-new-life.png)
 
 ## Objective iii: Identify the conditions of the new life
 

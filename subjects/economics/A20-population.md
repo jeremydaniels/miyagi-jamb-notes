@@ -37,7 +37,7 @@ Reverend Thomas Robert Malthus, a British clergyman and economist, published his
 
 **Common mistake:** Students often mix up how population and food grow in this theory. Remember: Population = **Geometric** (explodes quickly), Food = **Arithmetic** (grows steadily).
 
-[IMAGE: Malthusian theory graph. The x-axis is labeled "Time" and the y-axis is labeled "Quantity". Two lines originate from the left. The first line, labeled "Food Supply," is a straight upward-sloping line (representing arithmetic growth). The second line, labeled "Population," curves sharply upwards (representing geometric growth) and crosses the food supply line. The point where they cross is highlighted and labeled "Point of Crisis" or "Malthusian Trap". Clean flat textbook illustration, white background.]
+![Graph showing linear food supply growth and exponential population growth intersecting at a point labeled Point of Crisis over time.](images/A20-01-malthusian-population-theory-graph.png)
 
 #### 2. The Demographic Transition Theory
 Unlike Malthus, who predicted doom, the Demographic Transition Theory is based on actual historical data. It explains how population growth rates change as a country develops economically and technologically, passing through four distinct stages.
@@ -137,7 +137,7 @@ Economists judge whether a population is "too big" or "too small" not by the mer
 #### 1. Optimum Population
 Optimum population is the ideal population size that, when combined with the country's available resources and technology, yields the **maximum per capita income** (highest standard of living). At this point, the workforce is perfectly matched with resources, yielding the highest possible average output per person.
 
-[IMAGE: Optimum population graph. The x-axis is labeled "Population Size" and the y-axis is labeled "Per Capita Income". A single bell-shaped curve rises from the origin, reaches a peak, and then falls. A dotted vertical line drops from the peak to the x-axis, labeled "Optimum Population". The area under the curve to the left of the dotted line is labeled "Under-population" and the area to the right is labeled "Over-population". Clean flat textbook illustration, white background.]
+![A bell-shaped graph showing optimum population theory with per capita income on the vertical axis and population size on the horizontal axis divided into under-population and over-population.](images/A20-03-optimum-population-curve-graph.png)
 
 #### 2. Over-population vs Under-population
 
@@ -183,7 +183,7 @@ A population pyramid is a bar chart that visually represents the age and sex dis
 - **Developing countries (like Nigeria):** Have an **expansive** pyramid with a very **broad base** (indicating high birth rates and a young population) and a narrow top (indicating low life expectancy).
 - **Developed countries (like Germany):** Have a **constrictive** or stationary pyramid that is narrow at the base and bulges in the middle, indicating low birth rates and an aging population.
 
-[IMAGE: Population pyramid typical of a developing country like Nigeria. The vertical y-axis in the middle shows age groups (0-4, 5-9, up to 80+). The horizontal x-axis shows population size for Males on the left (blue bars) and Females on the right (pink bars). The overall shape is a broad-based triangle, very wide at the bottom representing young dependents, and narrowing sharply to a point at the top representing the elderly. Clean flat textbook illustration, white background.]
+![A population pyramid for a typical developing country showing a broad base for young age groups that sharply tapers toward a narrow apex at older ages.](images/A20-04-population-pyramid-chart.png)
 
 #### 3. Sex and Occupational Distribution
 - **Sex distribution:** The ratio of males to females in the population. It helps governments plan for gender-specific needs (e.g., maternal healthcare, girls' education).

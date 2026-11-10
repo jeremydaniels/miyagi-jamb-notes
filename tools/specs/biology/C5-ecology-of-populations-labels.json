@@ -2,7 +2,7 @@
  "C5-03-quadrat-sampling-field-method": {
   "labels": [
    [
-    "quadrat (1 m \u00d7 1 m)",
+    "quadrat (1 m × 1 m)",
     [
      783,
      245
@@ -26,7 +26,7 @@
     "R"
    ],
    [
-    "field (total area 400 m\u00b2)",
+    "field (total area 400 m²)",
     [
      307,
      614
@@ -34,7 +34,7 @@
     "L"
    ],
    [
-    "density = mean number per quadrat \u00f7 area of quadrat",
+    "density = mean number per quadrat ÷ area of quadrat",
     [
      819,
      655
@@ -122,68 +122,12 @@
  "C5-06-primary-succession-lithosere-sequence": {
   "labels": [
    [
-    "bare rock",
-    [
-     97,
-     729
-    ],
-    "L"
-   ],
-   [
-    "pioneer stage: lichens",
-    [
-     234,
-     732
-    ],
-    "L"
-   ],
-   [
-    "moss stage",
-    [
-     371,
-     710
-    ],
-    "L"
-   ],
-   [
-    "herbs, ferns and grasses",
-    [
-     509,
-     696
-    ],
-    "L"
-   ],
-   [
-    "shrub stage",
-    [
-     648,
-     670
-    ],
-    "R"
-   ],
-   [
-    "young trees",
-    [
-     785,
-     440
-    ],
-    "R"
-   ],
-   [
-    "climax community (forest)",
-    [
-     921,
-     307
-    ],
-    "R"
-   ],
-   [
     "soil depth increases",
     [
      648,
      834
     ],
-    "R"
+    "T"
    ],
    [
     "seral stages",
@@ -191,61 +135,85 @@
      509,
      512
     ],
-    "L"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "bare rock",
+    97,
+    970
+   ],
+   [
+    "pioneer stage:\nlichens",
+    234,
+    940
+   ],
+   [
+    "moss stage",
+    371,
+    970
+   ],
+   [
+    "herbs, ferns\nand grasses",
+    508,
+    940
+   ],
+   [
+    "shrub stage",
+    646,
+    970
+   ],
+   [
+    "young trees",
+    784,
+    970
+   ],
+   [
+    "climax\ncommunity\n(forest)",
+    922,
+    940
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C5-08-secondary-ecological-succession-sequence": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "abandoned farmland (soil present)",
-    [
-     97,
-     572
-    ],
-    "L"
+    "abandoned\nfarmland (soil\npresent)",
+    96,
+    771
    ],
    [
-    "annual weeds (pioneers)",
-    [
-     262,
-     559
-    ],
-    "L"
+    "annual weeds\n(pioneers)",
+    262,
+    641
    ],
    [
-    "grasses and Siam weed",
-    [
-     429,
-     502
-    ],
-    "L"
+    "grasses and\nSiam weed",
+    428,
+    641
    ],
    [
     "shrubs",
-    [
-     593,
-     486
-    ],
-    "R"
+    593,
+    641
    ],
    [
-    "young secondary forest (umbrella tree)",
-    [
-     760,
-     439
-    ],
-    "R"
+    "young\nsecondary\nforest\n(umbrella\ntree)",
+    759,
+    771
    ],
    [
-    "climax rainforest",
-    [
-     926,
-     404
-    ],
-    "R"
+    "climax\nrainforest",
+    925,
+    641
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C5-07-hydrosere-pond-succession-sequence": {
   "caption_below": "Progression over time during pond succession.",

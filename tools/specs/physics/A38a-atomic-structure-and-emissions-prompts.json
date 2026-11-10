@@ -1,0 +1,14 @@
+[
+ [
+  "A38a-01-atomic-models-comparison",
+  "Three side-by-side diagrams of atomic models. Left: A pink circle with scattered blue negative dots (Thomson's plum pudding). Middle: A red positive centre with elliptical grey paths crossing each other carrying blue electrons (Rutherford's planetary model). Right: A red positive centre with concentric circular rings (shells), and a blue electron jumping between rings with a wavy photon arrow leaving it (Bohr's model)."
+ ],
+ [
+  "A38a-02-energy-level-emission-spectrum",
+  "A comparative diagram showing an energy level schematic. Horizontal lines represent energy levels: n=1 (ground state, lowest), n=2, n=3. Downward arrows from n=3 to n=2, and n=2 to n=1, with wavy photon lines emerging. Below this, two rectangles: one showing a continuous rainbow gradient (continuous spectrum), and one showing a black background with three thin vertical coloured lines (line emission spectrum)."
+ ],
+ [
+  "A38a-03-coolidge-x-ray-tube",
+  "Cross-section diagram of a Coolidge X-ray tube. On the left, a heated cathode filament with a low voltage supply. A wide gap with an arrow showing \"accelerating electrons\". On the right, an angled tungsten target embedded in a copper block with external cooling fins. Wavy lines emit downwards from the target. A high voltage power supply connects the cathode and the anode."
+ ]
+]

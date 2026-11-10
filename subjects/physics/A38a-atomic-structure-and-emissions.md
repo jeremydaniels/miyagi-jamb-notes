@@ -68,7 +68,7 @@ Niels Bohr improved Rutherford's model by applying quantum ideas.
   2. The angular momentum of an electron in these allowed orbits is **quantized** (it must be a specific multiple of a basic value).
   3. An electron emits or absorbs a photon of light only when it jumps from one allowed orbit to another.
 
-[IMAGE: Three side-by-side diagrams of atomic models. Left: A pink circle with scattered blue negative dots (Thomson's plum pudding). Middle: A red positive centre with elliptical grey paths crossing each other carrying blue electrons (Rutherford's planetary model). Right: A red positive centre with concentric circular rings (shells), and a blue electron jumping between rings with a wavy photon arrow leaving it (Bohr's model). Clean flat textbook style, white background.]
+![Three atomic models side by side: Thomson plum pudding model, Rutherford planetary model with elliptical orbits, and Bohr model with circular shells and photon emission.](images/A38a-01-atomic-models-comparison.png)
 
 ### Content ii: Models of the atom and their limitations
 
@@ -115,7 +115,7 @@ Where:
 
 *(Note: There is also an absorption line spectrum, which consists of dark lines on a continuous background, formed when a cool gas absorbs specific frequencies of light passing through it.)*
 
-[IMAGE: A comparative diagram showing an energy level schematic. Horizontal lines represent energy levels: n=1 (ground state, lowest), n=2, n=3. Downward arrows from n=3 to n=2, and n=2 to n=1, with wavy photon lines emerging. Below this, two rectangles: one showing a continuous rainbow gradient (continuous spectrum), and one showing a black background with three thin vertical coloured lines (line emission spectrum). Clean flat textbook style, white background.]
+![Energy level diagram showing electron transitions emitting photons, paired below with a continuous rainbow spectrum and a discrete line emission spectrum.](images/A38a-02-energy-level-emission-spectrum.png)
 
 **Worked Example 1**
 An electron in an atom jumps from an energy level of $-1.5\ \text{eV}$ to a lower level of $-4.8\ \text{eV}$. Calculate the frequency of the emitted photon. ($h = 6.6 \times 10^{-34}\ \text{J s}$, $1\ \text{eV} = 1.6 \times 10^{-19}\ \text{J}$)
@@ -266,7 +266,7 @@ X-rays are high-frequency, high-energy electromagnetic waves discovered by Wilhe
 4. When the electrons hit the target, they are suddenly decelerated (stopped). Their kinetic energy is converted into **heat** (about 99%) and **X-ray photons** (about 1%).
 5. Because so much heat is generated, the copper block is fitted with cooling fins or a water-cooling system to prevent the target from melting.
 
-[IMAGE: Cross-section diagram of a Coolidge X-ray tube. On the left, a heated cathode filament with a low voltage supply. A wide gap with an arrow showing "accelerating electrons". On the right, an angled tungsten target embedded in a copper block with external cooling fins. Wavy lines labelled "X-rays" emit downwards from the target. A high voltage power supply connects the cathode and the anode. Clean flat textbook style, white background.]
+![Cross-section diagram of a Coolidge X-ray tube showing a heated cathode filament, accelerated electrons hitting an angled tungsten target, emitting downward X-rays, and connected power supplies.](images/A38a-03-coolidge-x-ray-tube.png)
 
 **The Physics of the Production (Formula):**
 The maximum energy of the X-ray photon ($E_{\text{max}}$) produced is equal to the kinetic energy gained by the electron from the high voltage ($V$):

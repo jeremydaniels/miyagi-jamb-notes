@@ -52,7 +52,7 @@ To fully understand these sectors, we must compare them based on their relations
 | **Dominance by Economy** | Dominates in developing countries (e.g., many African nations) | Dominates in industrializing or newly industrialized countries | Dominates in developed countries | Found mostly in highly advanced economies |
 | **Examples in Nigeria** | Cocoa farming in Ondo, crude oil drilling in Rivers State | Dangote Cement in Obajana, food canning | Banking in Lagos, teaching in public schools | Medical research at LUTH, software development in Yaba |
 
-[IMAGE: A four-part circular infographic showing the four economic sectors. Top-left (Primary): A farmer harvesting crops and an oil rig. Top-right (Secondary): A factory building with smokestacks and a worker welding a car. Bottom-left (Tertiary): A retail shop counter with a cashier and a delivery truck. Bottom-right (Quaternary): A scientist looking through a microscope and a programmer at a multi-monitor computer. Arrows connect them in a cycle to show the flow from raw material to advanced knowledge. Clean flat textbook illustration, white background, clearly labeled.]
+![A circular diagram depicting the four economic sectors: primary raw materials, secondary manufacturing, quaternary knowledge and IT, and tertiary services and retail, connected with directional arrows.](images/C3-01-four-economic-sectors.png)
 
 ## Agriculture
 
@@ -234,7 +234,7 @@ World trade commodities are broadly classified into Agricultural Products, Miner
 | **Minerals** | Crude oil, Gold, Copper, Diamond, Iron ore | Middle East (Saudi Arabia), Africa (Nigeria, DRC, South Africa), Russia, Australia | Suez Canal Route, Cape Route, Trans-Pacific Route | USA, China, Western Europe, Japan |
 | **Manufactured Goods** | Cars, Electronics, Machinery, Textiles, Medicines | China, Japan, USA, Germany, South Korea | Trans-Pacific Route, North Atlantic Route (busiest route globally) | Developing nations in Africa, South America, and globally among themselves |
 
-[IMAGE: A simplified world map showing major ocean trade routes. Bold lines for the North Atlantic Route connecting NE USA to Western Europe. A line through the Mediterranean and Red Sea labeled "Suez Canal Route". A line going around the southern tip of Africa labeled "Cape Route". A line across the Pacific Ocean labeled "Trans-Pacific Route". Small icons for commodities (a cocoa pod in West Africa, an oil barrel in the Middle East, a car in Japan/China) with arrows pointing toward Europe and the USA. Clean flat textbook style, white background.]
+![A world map illustrating major ocean trade routes including the North Atlantic, Suez Canal, Cape, and Trans-Pacific routes alongside commodity flows for cocoa, oil, and cars.](images/C3-03-world-major-ocean-trade.png)
 
 ## Tourism
 

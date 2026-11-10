@@ -749,3 +749,7 @@ Columns: total, AI, Code, Flag.
 | `C3-rhymes-and-homophones` | 2 | 0 | 2 | 0 |
 | `C4-word-stress` | 3 | 0 | 3 | 0 |
 | `C5-emphatic-stress` | 3 | 0 | 3 | 0 |
+
+## Decision: Biology Section A (style test)
+
+A style test redid two Section A images (earthworm, camouflage panels) in Gemini and compared them with the originals and with Section B (see the removed `STYLE-TEST.md`, commit history). The new versions matched Sections B to E better in style but lost detail (the earthworm in particular). **Decision: keep the original Biology Section A images.** The style-test files were deleted; Section A is not to be regenerated. The estimate for redoing all of it (about $8, range $5 to $12) is not needed.

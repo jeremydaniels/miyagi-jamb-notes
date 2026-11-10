@@ -1,0 +1,32 @@
+{
+ "template": "table",
+ "title": "Converting 45 to Base 8",
+ "columns": [
+  "Divisor",
+  "Quotient",
+  "Remainder",
+  "Direction"
+ ],
+ "rows": [
+  [
+   "8",
+   "45",
+   "5",
+   "↑ Read upwards"
+  ],
+  [
+   "8",
+   "5",
+   "5",
+   "| (Bottom to top)"
+  ],
+  [
+   "",
+   "0",
+   "",
+   ""
+  ]
+ ],
+ "caption": "Result: 45 in base 10 = 55 in base 8",
+ "first_col_bold": true
+}

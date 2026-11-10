@@ -36,7 +36,7 @@ To convert a number from any base to base $10$, we expand the number using the p
 #### Fractional parts in other bases
 When a number has a decimal point (a fractional part), the powers of the base continue to the right of the point, but they become negative: $-1, -2, -3,$ etc. 
 
-[IMAGE: A diagram showing the place values of a base-2 number: 1101.11. Above each digit is its place value power: 2^3, 2^2, 2^1, 2^0, then a decimal point, then 2^-1, 2^-2. Below each digit is its base-10 value: 8, 4, 2, 1, point, 0.5, 0.25. Clean flat textbook style, white background.]
+![A table displaying the place values of binary number 1101.11, showing powers of two above and corresponding base-10 values below each digit.](images/A1-01-binary-number-place-values.png)
 
 **Worked Example 2: Convert $1101.11_2$ to base 10.**
 1. Assign powers. For digits to the left of the point, start from $0$ and increase to the left. For digits to the right, start from $-1$ and decrease to the right.
@@ -56,7 +56,7 @@ To convert a whole number from base $10$ to another base, we use the **successiv
 2. Read the remainders **upwards** (from the last division to the first).
 3. The result is $55_8$.
 
-[IMAGE: A successive division table converting 45 to base 8. It shows three columns: the divisor (8) on the left, the quotients down the middle (45, then 5, then 0), and the remainders on the right (5, 5). A bold arrow points upwards from the bottom remainder to the top, labelled "Read upwards". Clean flat textbook style, white background.]
+![A table converting decimal 45 to base 8 through successive division by 8, showing remainders 5 and 5 read upwards to yield 55 in base 8.](images/A1-02-successive-division-base-conversion.png)
 
 #### Converting base 10 fractional parts
 To convert a base $10$ fraction to another base, use **successive multiplication**. Multiply the fractional part by the new base, record the integer (whole number) part, and repeat the process with the new fractional part.
@@ -200,7 +200,7 @@ Modular arithmetic is sometimes called "clock arithmetic". If you look at a trad
 When you divide a number by the modulo, **the remainder is the answer.**
 For example, $17 \pmod 5$: $17 \div 5 = 3$ remainder $2$. Therefore, $17 \equiv 2 \pmod 5$. 
 
-[IMAGE: A circular clock face used for modulo 7 arithmetic. The numbers 0, 1, 2, 3, 4, 5, and 6 are arranged evenly around the circle like hours on a clock, with 0 at the top. Arrows outside the circle point clockwise to show addition. Clean flat textbook style, white background.]
+![A circular modulo 7 arithmetic clock showing numbers 0 through 6 arranged clockwise with 0 at the top and curved arrows indicating addition.](images/A1-03-modulo-arithmetic-clock.png)
 
 ### 1. Addition and Subtraction
 Perform the operation normally, then find the remainder when divided by the modulo.

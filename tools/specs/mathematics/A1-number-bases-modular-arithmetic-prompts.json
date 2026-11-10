@@ -1,0 +1,14 @@
+[
+ [
+  "A1-01-binary-number-place-values",
+  "A diagram showing the place values of a base-2 number: 1101.11. Above each digit is its place value power: 2^3, 2^2, 2^1, 2^0, then a decimal point, then 2^-1, 2^-2. Below each digit is its base-10 value: 8, 4, 2, 1, point, 0.5, 0.25."
+ ],
+ [
+  "A1-02-successive-division-base-conversion",
+  "A successive division table converting 45 to base 8. It shows three columns: the divisor (8) on the left, the quotients down the middle (45, then 5, then 0), and the remainders on the right (5, 5). A bold arrow points upwards from the bottom remainder to the top,."
+ ],
+ [
+  "A1-03-modulo-arithmetic-clock",
+  "A circular clock face used for modulo 7 arithmetic. The numbers 0, 1, 2, 3, 4, 5, and 6 are arranged evenly around the circle like hours on a clock, with 0 at the top. Arrows outside the circle point clockwise to show addition."
+ ]
+]

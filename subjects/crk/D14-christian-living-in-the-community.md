@@ -52,7 +52,7 @@ Believers must add the following step by step:
 
 Peter states that whoever lacks these qualities is blind and has forgotten that they were cleansed from their past sins. By practicing these qualities, Christians will "make their calling and election sure."
 
-[IMAGE: A step pyramid or a stack of bright building blocks. The bottom and largest block is labeled "Faith". Stacked above it in ascending order are smaller blocks labeled "Virtue", "Knowledge", "Temperance", "Patience", "Godliness", "Brotherly Kindness", and the top block is labeled "Charity (Love)". Clean flat textbook style, white background.]
+![A step pyramid of stacked blocks showing Christian virtues, rising from Faith at the base through Virtue, Knowledge, Temperance, Patience, Godliness, Brotherly Kindness, to Charity Love at the top.](images/D14-01-christian-virtues-step-pyramid.png)
 
 ### Hebrews 13:1-21: Practical community living
 The writer of Hebrews outlines specific ways Christians must relate to one another and God:
@@ -158,7 +158,7 @@ Peter provides deeper instructions specifically for marriages, especially where 
 | **Servants** | Obey masters sincerely, not just as men-pleasers. Work as if serving Christ. | God will reward whatever good anyone does. |
 | **Masters** | Treat servants well. Stop threatening them. | Knowing they also have a Master in heaven who shows no partiality. |
 
-[IMAGE: A divided illustration showing three scenes of Christian family and community life. Top left: A husband and wife sitting together holding hands and praying (representing mutual honour so prayers are not hindered). Top right: A parent gently teaching a child from a book (representing not provoking children but raising them in discipline). Bottom: A shop owner (master) handing fair wages to a worker (servant) with a smile (representing masters treating servants fairly without threats). Clean flat textbook style, white background.]
+![Three biblical scenes depicting a husband and wife praying together, a father gently teaching a child from a scroll, and a master paying a worker fair wages.](images/D14-02-christian-family-community-scenes.png)
 
 ## The importance of maintaining good relationships
 

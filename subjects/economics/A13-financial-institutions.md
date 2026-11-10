@@ -88,7 +88,7 @@ Insurance companies collect small, regular payments called **premiums** from man
 *   **Mobilization of Savings:** Especially through life assurance policies, they encourage long-term savings.
 *   **Investment:** Because claims are not made every day, insurance companies accumulate huge funds. They act as financial intermediaries by investing these funds in the capital market, financing long-term government and corporate projects.
 
-[IMAGE: An organization chart showing the structure of financial institutions in Nigeria. At the very top is the "Central Bank of Nigeria (Apex Regulator)". Below it, arrows point down to "Commercial Banks", "Merchant Banks", "Mortgage Banks", and "Development Banks". To the side, independent but related, is a box for "Insurance Companies" regulated by NAICOM, and a box for "Traditional Institutions (Esusu/Ajo)" with no formal regulator line. Clean flat textbook illustration, white background.]
+![Organization chart of Nigerian financial institutions showing the Central Bank regulating four banking types, NAICOM regulating insurance companies, and traditional institutions shown separately.](images/A13-01-financial-institutions-organization-chart.png)
 
 ---
 
@@ -196,7 +196,7 @@ If this process continues indefinitely:
 *   **Total Deposit Created** = ₦10,000 $\times$ 5 = **₦50,000**
 *   **New Credit Created** (Total deposit minus initial deposit) = ₦50,000 - ₦10,000 = **₦40,000**.
 
-[IMAGE: A flowchart showing the money creation process. A person (Depositor 1) hands ₦10,000 cash to "Bank A". An arrow splits from Bank A: ₦2,000 goes to a vault ("Reserve 20%"), and an arrow showing ₦8,000 goes to "Borrower 1". Borrower 1 gives the money to "Merchant", who deposits ₦8,000 into "Bank B". An arrow splits from Bank B: ₦1,600 goes to a vault, and ₦6,400 goes to "Borrower 2". A box at the bottom states: "Total deposits eventually equal ₦50,000". Clean flat textbook style, white background.]
+![A flowchart detailing the money creation process from an initial deposit into Bank A through successive lending and reserve allocations to Bank B, ending at total deposits of 50,000.](images/A13-02-money-creation-process-flowchart.png)
 
 ### Challenges to Money Creation
 Banks cannot create money infinitely. Several factors limit their ability:

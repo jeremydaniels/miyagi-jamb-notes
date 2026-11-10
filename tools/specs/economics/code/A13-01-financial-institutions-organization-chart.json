@@ -1,0 +1,73 @@
+{
+ "template": "flowchart",
+ "title": "Structure of Financial Institutions in Nigeria",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "cbn",
+   "text": "Central Bank of Nigeria (Apex Regulator)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "comm",
+   "text": "Commercial Banks",
+   "shape": "box"
+  },
+  {
+   "id": "merch",
+   "text": "Merchant Banks",
+   "shape": "box"
+  },
+  {
+   "id": "mort",
+   "text": "Mortgage Banks",
+   "shape": "box"
+  },
+  {
+   "id": "dev",
+   "text": "Development Banks",
+   "shape": "box"
+  },
+  {
+   "id": "naicom",
+   "text": "NAICOM",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ins",
+   "text": "Insurance Companies",
+   "shape": "box"
+  },
+  {
+   "id": "trad",
+   "text": "Traditional Institutions (Esusu/Ajo)",
+   "shape": "box",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "cbn",
+   "to": "comm"
+  },
+  {
+   "from": "cbn",
+   "to": "merch"
+  },
+  {
+   "from": "cbn",
+   "to": "mort"
+  },
+  {
+   "from": "cbn",
+   "to": "dev"
+  },
+  {
+   "from": "naicom",
+   "to": "ins",
+   "label": "Regulates"
+  }
+ ]
+}

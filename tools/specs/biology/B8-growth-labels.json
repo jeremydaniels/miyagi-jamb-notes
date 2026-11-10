@@ -465,5 +465,94 @@
     "R"
    ]
   ]
+ },
+ "B8-06-maize-grain-anatomy": {
+  "regions": [
+   "aleurone layer",
+   "endosperm",
+   "scutellum (cotyledon)"
+  ],
+  "labels": [
+   [
+    "silk (style) scar",
+    [
+     263,
+     208
+    ],
+    "L"
+   ],
+   [
+    "pericarp fused with testa",
+    [
+     559,
+     279
+    ],
+    "R"
+   ],
+   [
+    "aleurone layer",
+    [
+     573,
+     312
+    ],
+    "R"
+   ],
+   [
+    "endosperm",
+    [
+     749,
+     404
+    ],
+    "R"
+   ],
+   [
+    "scutellum (cotyledon)",
+    [
+     735,
+     636
+    ],
+    "R"
+   ],
+   [
+    "coleoptile",
+    [
+     889,
+     520
+    ],
+    "R"
+   ],
+   [
+    "plumule",
+    [
+     854,
+     553
+    ],
+    "R"
+   ],
+   [
+    "radicle",
+    [
+     783,
+     674
+    ],
+    "R"
+   ],
+   [
+    "coleorhiza",
+    [
+     749,
+     741
+    ],
+    "R"
+   ],
+   [
+    "point of attachment",
+    [
+     266,
+     794
+    ],
+    "L"
+   ]
+  ]
  }
 }

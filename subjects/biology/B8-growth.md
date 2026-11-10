@@ -220,7 +220,7 @@ A **maize grain** is actually a **fruit**, a **caryopsis**, in which the fruit w
 - **Plumule** (embryonic shoot), protected by a sheath called the **coleoptile**.
 - **Radicle** (embryonic root), protected by a sheath called the **coleorhiza**.
 
-[IMAGE: Two views of a maize grain side by side. 1. External view of a whole maize grain (flattened, wedge-shaped, yellow) showing the paler oval embryo area on one face, the silk scar at the top and the point of attachment at the narrow base. 2. Longitudinal section through the embryo region showing the thin pericarp fused with testa around the outside, the thin aleurone layer just inside it, the large endosperm filling most of the grain (horny and floury parts shown in slightly different shades of yellow), the shield-shaped scutellum pressed against the endosperm, the plumule enclosed by the coleoptile pointing upward, and the radicle enclosed by the coleorhiza pointing downward. Labels: silk (style) scar, pericarp fused with testa, aleurone layer, endosperm, scutellum (cotyledon), coleoptile, plumule, radicle, coleorhiza, point of attachment. Soft yellow and cream colours with a light green embryo. Clean flat textbook style, white background.]
+![An external view and longitudinal section of a maize grain showing the embryo, endosperm, and outer layers.](images/B8-06-maize-grain-anatomy.png)
 
 ### Bean seed and maize grain compared
 

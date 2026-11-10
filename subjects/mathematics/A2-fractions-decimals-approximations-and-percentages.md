@@ -92,7 +92,7 @@ Significant figures start counting from the **first non-zero digit** from the le
 - **Zeroes between non-zero digits** (e.g., in $405$) are **always** significant.
 - **Trailing zeroes** after a decimal point (e.g., $4.50$) are significant.
 
-[IMAGE: A large number 0.040580 with arrows pointing to each digit to explain significant figures. The first two zeros (0.0) are labelled "Leading zeros (Not significant)". The digit 4 is labelled "1st significant figure". The zero between 4 and 5 is labelled "Zero between non-zero digits (Significant)". The digit 8 is labelled "4th significant figure". The final zero is labelled "Trailing zero after decimal point (Significant)". Clean flat textbook illustration, white background.]
+![Diagram of the number 0.040580 with arrows labelling leading zeros, first and fourth significant figures, captive zeros, and trailing zeros.](images/A2-01-significant-figures-annotation.png)
 
 ### Decimal places
 
@@ -196,7 +196,7 @@ By selling an article for ₦4,500, a man makes a loss of 10%. Find the cost pri
 - **Rate:** Compares quantities of different kinds (e.g., km/h, litres/minute).
 - **Proportion:** Can be direct (as one goes up, the other goes up) or inverse (as one goes up, the other goes down).
 
-[IMAGE: Two side-by-side graphs illustrating proportion. On the left, a straight line passing through the origin on a Cartesian plane, labelled "Direct Proportion (y = kx)". On the right, a curve resembling a hyperbola in the first quadrant, labelled "Inverse Proportion (xy = k)". Clean flat textbook illustration, white background.]
+![Side-by-side graphs comparing direct proportion represented by a straight line through the origin with inverse proportion represented by a hyperbolic curve asymptotic to the coordinate axes.](images/A2-02-direct-inverse-proportion-graphs.png)
 
 **Example 1: Sharing in a ratio**
 Ade, Bola and Cole share ₦1,200 in the ratio 2:3:5. How much does Bola receive?

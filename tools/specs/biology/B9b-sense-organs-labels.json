@@ -4,104 +4,104 @@
    [
     "epidermis",
     [
-     247,
-     208
+     381,
+     285
     ],
     "L"
    ],
    [
     "dermis",
     [
-     272,
-     523
+     262,
+     488
     ],
     "L"
    ],
    [
     "subcutaneous fat",
     [
-     602,
-     859
+     563,
+     870
     ],
     "R"
    ],
    [
     "free nerve endings (pain)",
     [
-     223,
-     275
+     268,
+     375
     ],
     "L"
    ],
    [
     "Meissner's corpuscle (light touch)",
     [
-     369,
-     361
+     366,
+     385
     ],
     "L"
    ],
    [
     "Merkel disc (touch)",
     [
-     861,
-     339
+     790,
+     396
     ],
     "R"
    ],
    [
     "Pacinian corpuscle (pressure)",
     [
-     335,
-     811
+     321,
+     837
     ],
     "L"
    ],
    [
     "Ruffini ending",
     [
-     310,
-     587
+     625,
+     781
     ],
-    "L"
+    "R"
    ],
    [
     "Krause end bulb",
     [
-     812,
-     654
+     534,
+     638
     ],
     "R"
    ],
    [
     "hair follicle receptor",
     [
-     643,
-     670
+     476,
+     626
     ],
-    "R"
+    "L"
    ],
    [
     "sensory nerve fibre",
     [
-     217,
-     640
+     664,
+     858
     ],
-    "L"
+    "R"
    ],
    [
     "sweat gland",
     [
-     454,
-     596
+     705,
+     644
     ],
-    "L"
+    "R"
    ],
    [
     "hair",
     [
-     689,
-     379
+     527,
+     263
     ],
     "R"
    ]
@@ -313,204 +313,72 @@
    [
     "eyebrow",
     [
-     430,
-     223
+     437,
+     152
     ],
     "L"
    ],
    [
     "eyelid",
     [
-     524,
-     749
+     389,
+     307
     ],
-    "R"
+    "L"
    ],
    [
     "eyelashes",
     [
-     702,
-     693
+     523,
+     361
     ],
     "R"
    ],
    [
     "sclera",
     [
-     660,
-     582
+     357,
+     564
     ],
-    "R"
+    "L"
    ],
    [
     "iris",
     [
-     430,
-     636
+     435,
+     569
     ],
     "L"
    ],
    [
     "pupil",
     [
-     517,
-     569
+     513,
+     517
     ],
     "R"
    ],
    [
     "conjunctiva",
     [
-     292,
-     595
+     223,
+     555
     ],
     "L"
    ],
    [
     "lachrymal (tear) gland",
     [
-     735,
-     357
+     775,
+     312
     ],
     "R"
    ],
    [
     "tear duct",
     [
-     186,
-     726
-    ],
-    "L"
-   ]
-  ]
- },
- "B9b-06-human-eyeball-horizontal-section": {
-  "labels": [
-   [
-    "cornea",
-    [
-     142,
-     494
-    ],
-    "L"
-   ],
-   [
-    "conjunctiva",
-    [
-     149,
-     693
-    ],
-    "L"
-   ],
-   [
-    "aqueous humour",
-    [
-     186,
-     501
-    ],
-    "L"
-   ],
-   [
-    "iris",
-    [
-     232,
-     421
-    ],
-    "L"
-   ],
-   [
-    "pupil",
-    [
-     254,
-     513
-    ],
-    "L"
-   ],
-   [
-    "lens",
-    [
-     320,
-     507
-    ],
-    "L"
-   ],
-   [
-    "ciliary body (ciliary muscle)",
-    [
-     294,
-     314
-    ],
-    "L"
-   ],
-   [
-    "suspensory ligaments",
-    [
-     294,
-     379
-    ],
-    "L"
-   ],
-   [
-    "vitreous humour",
-    [
-     522,
-     457
-    ],
-    "R"
-   ],
-   [
-    "sclera",
-    [
-     694,
-     198
-    ],
-    "R"
-   ],
-   [
-    "choroid",
-    [
-     675,
-     227
-    ],
-    "R"
-   ],
-   [
-    "retina",
-    [
-     661,
-     254
-    ],
-    "R"
-   ],
-   [
-    "fovea (yellow spot)",
-    [
-     798,
-     518
-    ],
-    "R"
-   ],
-   [
-    "blind spot",
-    [
-     805,
-     619
-    ],
-    "R"
-   ],
-   [
-    "optic nerve",
-    [
-     886,
-     652
-    ],
-    "R"
-   ],
-   [
-    "eye muscle",
-    [
-     463,
-     110
+     167,
+     681
     ],
     "L"
    ]

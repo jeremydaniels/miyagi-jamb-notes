@@ -353,7 +353,7 @@ The eyeball is a roughly spherical organ, about 2.5 cm across. Its wall has **th
 
 **Textbook variation:** some textbooks use "yellow spot" for the whole small central area (the **macula lutea**) and "fovea" (fovea centralis) for the tiny pit at its centre; others treat the two words as the same thing.
 
-![An unlabelled diagram showing a horizontal section through the human eyeball, illustrating structures such as the cornea, lens, retina, sclera, and optic nerve.](images/B9b-06-human-eyeball-horizontal-section.png)
+[IMAGE: Horizontal (longitudinal) section through the human eyeball, viewed from above, front of the eye on the left. Show the tough white sclera forming the outer coat, continuing at the front as the transparent bulging cornea; the dark brown choroid inside the sclera; the pink retina lining the back; the ciliary body with ciliary muscles in a ring; suspensory ligaments as fine lines from the ciliary body to the edge of the biconvex transparent lens; the iris in front of the lens with the gap of the pupil; the small front chamber filled with pale blue aqueous humour; the large rear chamber filled with very pale blue jelly-like vitreous humour; a small pit (fovea) on the retina directly opposite the lens; the blind spot where the yellow optic nerve leaves the back of the eye slightly to one side; the conjunctiva over the front; and a few eye muscles attached to the sclera. Labels: cornea, conjunctiva, aqueous humour, iris, pupil, lens, ciliary body (ciliary muscle), suspensory ligaments, vitreous humour, sclera, choroid, retina, fovea (yellow spot), blind spot, optic nerve, eye muscle. Clean flat textbook style, white background.]
 
 ### How an image is formed on the retina (how we see)
 

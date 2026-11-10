@@ -1,0 +1,10 @@
+[
+ [
+  "D3-01-area-under-curve-integral",
+  "A 2D Cartesian coordinate system with a smooth positive curve y = f(x). The area between the curve, the x-axis, and two vertical dotted lines at x = a and x = b is shaded in a light blue colour."
+ ],
+ [
+  "D3-02-parabolic-bridge-area-graph",
+  "A 2D Cartesian coordinate system showing an arch shape (downward-opening parabola) representing a bridge. The curve is y = 9 - x². The curve crosses the x-axis at -3 and 3. The entire region between the curve and the x-axis is shaded light blue to represent the concrete cross-section."
+ ]
+]

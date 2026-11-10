@@ -146,7 +146,7 @@ In geometry, you know how to find the area of simple shapes like rectangles and 
 The area bounded by a curve $y = f(x)$, the x-axis, and two vertical lines $x = a$ and $x = b$ is exactly equal to the definite integral:
 $$ \text{Area} = \int_a^b f(x) dx $$
 
-[IMAGE: A 2D Cartesian coordinate system with a smooth positive curve y = f(x). The area between the curve, the x-axis, and two vertical dotted lines at x = a and x = b is shaded in a light blue colour. Labels to add later: "y = f(x)", "a" on the x-axis, "b" on the x-axis, "Area = ∫ f(x) dx" inside the shaded region. Clean flat textbook style, white background.]
+![Graph of a positive curve y equals f(x) with the shaded area under the curve between vertical lines at x equals a and x equals b.](images/D3-01-area-under-curve-integral.png)
 
 ---
 
@@ -172,7 +172,7 @@ Find the area enclosed by the curve $y = x^2 + 2$, the x-axis, and the ordinates
 
 Often, JAMB will ask for the area "bounded by the curve and the x-axis", without giving you $x$ values. This means the curve forms a closed shape with the x-axis itself. To find your limits $a$ and $b$, you must calculate the **x-intercepts** (roots) where the curve crosses the x-axis.
 
-[IMAGE: A 2D Cartesian coordinate system showing an arch shape (downward-opening parabola) representing a bridge. The curve is y = 9 - x². The curve crosses the x-axis at -3 and 3. The entire region between the curve and the x-axis is shaded light blue to represent the concrete cross-section. Labels to add later: "y = 9 - x²", "-3" on the x-axis, "3" on the x-axis, "Area" inside the shaded region. Clean flat textbook style, white background.]
+![Downward parabola y equals 9 minus x squared on a coordinate plane crossing the x-axis at negative 3 and 3 with shaded area between the curve and x-axis.](images/D3-02-parabolic-bridge-area-graph.png)
 
 **Example 7: Calculating roots for limits**
 A concrete arch for a new bridge in Abuja has an inner curve modeled by the equation $y = 9 - x^2$ (in metres). Calculate the cross-sectional area under the arch and above the ground (the x-axis).

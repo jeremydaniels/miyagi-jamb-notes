@@ -1,0 +1,102 @@
+{
+ "template": "graph",
+ "title": "Definite Integral as Area under Curve",
+ "x_label": "x",
+ "y_label": "y",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "y = f(x)",
+   "points": [
+    [
+     1,
+     2
+    ],
+    [
+     2.5,
+     3.5
+    ],
+    [
+     4,
+     5.5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7.5,
+     6.5
+    ],
+    [
+     9,
+     8
+    ]
+   ],
+   "smooth": true,
+   "color": "#1f77b4",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 3,
+   "y": 4.2,
+   "x_text": "a",
+   "y_text": ""
+  },
+  {
+   "x": 7,
+   "y": 6.8,
+   "x_text": "b",
+   "y_text": ""
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     3,
+     0
+    ],
+    [
+     3,
+     4.2
+    ],
+    [
+     4,
+     5.5
+    ],
+    [
+     5,
+     6.5
+    ],
+    [
+     6,
+     7
+    ],
+    [
+     7,
+     6.8
+    ],
+    [
+     7,
+     0
+    ]
+   ],
+   "text": "Area = ∫ f(x) dx",
+   "color": "#aec7e8"
+  }
+ ],
+ "xticks": [
+  [
+   3,
+   "a"
+  ],
+  [
+   7,
+   "b"
+  ]
+ ]
+}

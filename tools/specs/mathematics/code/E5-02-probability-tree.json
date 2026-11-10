@@ -1,0 +1,110 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Probability Tree: Two Draws Without Replacement (5 Red, 3 Black)",
+ "nodes": [
+  {
+   "id": "start",
+   "text": "Start",
+   "shape": "oval"
+  },
+  {
+   "id": "r1",
+   "text": "1st Draw: Red",
+   "shape": "round"
+  },
+  {
+   "id": "b1",
+   "text": "1st Draw: Black",
+   "shape": "round"
+  },
+  {
+   "id": "r2_from_r",
+   "text": "2nd: Red",
+   "shape": "round"
+  },
+  {
+   "id": "b2_from_r",
+   "text": "2nd: Black",
+   "shape": "round"
+  },
+  {
+   "id": "r2_from_b",
+   "text": "2nd: Red",
+   "shape": "round"
+  },
+  {
+   "id": "b2_from_b",
+   "text": "2nd: Black",
+   "shape": "round"
+  },
+  {
+   "id": "out_rr",
+   "text": "Outcome: R, R",
+   "shape": "box"
+  },
+  {
+   "id": "out_rb",
+   "text": "Outcome: R, B",
+   "shape": "box"
+  },
+  {
+   "id": "out_br",
+   "text": "Outcome: B, R",
+   "shape": "box"
+  },
+  {
+   "id": "out_bb",
+   "text": "Outcome: B, B",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "start",
+   "to": "r1",
+   "label": "5/8"
+  },
+  {
+   "from": "start",
+   "to": "b1",
+   "label": "3/8"
+  },
+  {
+   "from": "r1",
+   "to": "r2_from_r",
+   "label": "4/7"
+  },
+  {
+   "from": "r1",
+   "to": "b2_from_r",
+   "label": "3/7"
+  },
+  {
+   "from": "b1",
+   "to": "r2_from_b",
+   "label": "5/7"
+  },
+  {
+   "from": "b1",
+   "to": "b2_from_b",
+   "label": "2/7"
+  },
+  {
+   "from": "r2_from_r",
+   "to": "out_rr"
+  },
+  {
+   "from": "b2_from_r",
+   "to": "out_rb"
+  },
+  {
+   "from": "r2_from_b",
+   "to": "out_br"
+  },
+  {
+   "from": "b2_from_b",
+   "to": "out_bb"
+  }
+ ]
+}

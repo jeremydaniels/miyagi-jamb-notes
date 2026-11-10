@@ -58,7 +58,7 @@ A standard fair die is a cube with six numbered faces: 1, 2, 3, 4, 5, and 6.
 - **One die:** The sample space is $S = \{1, 2, 3, 4, 5, 6\}$. There are 6 possible outcomes. 
 - **Two dice:** When throwing two dice, each die has 6 outcomes, so the total number of combinations is $6 \times 6 = 36$. The best way to visualize this is using a $6 \times 6$ grid or table.
 
-[IMAGE: A 6 by 6 grid showing the sample space of throwing two dice. The top row has column headers 1 to 6 representing the first die, and the left column has row headers 1 to 6 representing the second die. Inside the grid are 36 cells showing pairs of numbers like (1,1), (1,2), up to (6,6). The diagonal cells (1,1) to (6,6) are highlighted softly. Style: clean flat textbook illustration, white background.]
+![A 6 by 6 grid displaying the sample space of rolling two dice, showing all 36 paired outcomes with the diagonal doubles highlighted.](images/E5-01-two-dice-sample-space.png)
 
 **Worked Example 2**
 Two fair dice are thrown simultaneously. What is the probability that the sum of the scores is a multiple of 4?
@@ -161,7 +161,7 @@ The probability that Ade passes a mathematics exam is $\frac{2}{3}$ and the prob
 
 Sometimes, picking an item and *not putting it back* changes the total for the next pick. The events become dependent, but you still use multiplication for "AND" scenarios. You simply adjust the second probability to account for the item that has been removed. 
 
-[IMAGE: A probability tree diagram showing two successive draws from a bag of 5 red and 3 black balls without replacement. The first set of branches shows Red (5/8) and Black (3/8). From Red, two branches show Red (4/7) and Black (3/7). From Black, two branches show Red (5/7) and Black (2/7). The final outcomes R,R; R,B; B,R; B,B are listed on the right. Style: clean flat textbook illustration, white background.]
+![Probability tree diagram illustrating two draws without replacement from five red and three black balls, showing branch probabilities and final outcomes.](images/E5-02-probability-tree.png)
 
 **Worked Example 6**
 A bag contains 5 red balls and 3 black balls. Two balls are picked one after the other without replacement. Find the probability that both are of the same colour.

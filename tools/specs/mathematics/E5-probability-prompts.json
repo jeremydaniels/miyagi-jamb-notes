@@ -1,0 +1,10 @@
+[
+ [
+  "E5-01-two-dice-sample-space",
+  "A 6 by 6 grid showing the sample space of throwing two dice. The top row has column headers 1 to 6 representing the first die, and the left column has row headers 1 to 6 representing the second die. Inside the grid are 36 cells showing pairs of numbers like (1,1), (1,2), up to (6,6). The diagonal cells (1,1) to (6,6) are highlighted softly. Style: clean flat textbook illustration, white background."
+ ],
+ [
+  "E5-02-probability-tree",
+  "A probability tree diagram showing two successive draws from a bag of 5 red and 3 black balls without replacement. The first set of branches shows Red (5/8) and Black (3/8). From Red, two branches show Red (4/7) and Black (3/7). From Black, two branches show Red (5/7) and Black (2/7). The final outcomes R,R; R,B; B,R; B,B are listed on the right. Style: clean flat textbook illustration, white background."
+ ]
+]

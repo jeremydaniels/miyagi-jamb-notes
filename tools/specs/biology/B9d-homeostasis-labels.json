@@ -104,36 +104,12 @@
     "L"
    ],
    [
-    "contractile vacuole filling (diastole)",
-    [
-     811,
-     218
-    ],
-    "R"
-   ],
-   [
     "mitochondria",
     [
      731,
      192
     ],
-    "R"
-   ],
-   [
-    "vacuole reaches membrane",
-    [
-     807,
-     702
-    ],
-    "R"
-   ],
-   [
-    "water expelled (systole)",
-    [
-     320,
-     702
-    ],
-    "L"
+    "T"
    ],
    [
     "fresh water",
@@ -143,7 +119,26 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "contractile vacuole\nfilling (diastole)",
+    751,
+    495
+   ],
+   [
+    "vacuole reaches\nmembrane",
+    751,
+    970
+   ],
+   [
+    "water expelled\n(systole)",
+    270,
+    971
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B9d-04-skin-section-temperature-regulation": {
   "regions": [

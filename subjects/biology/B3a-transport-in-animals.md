@@ -123,7 +123,7 @@ When the side doubles from 1 cm to 2 cm, the surface area increases 4 times but 
 
 **Conclusion:** the smaller the block, the larger its SA:V ratio and the shorter the distance to the centre, so diffusion supplies all of it quickly. A large organism made like the large cube could not be supplied by diffusion alone; it needs a transport system.
 
-[IMAGE: Experimental set-up: a glass beaker of clear dilute acid containing three pink agar cubes of different sizes (small, medium, large). Beside it, the same three cubes cut in half after 5 minutes: the small cube fully colourless, the medium cube with a small pink centre, the large cube with a large pink centre and a colourless outer rim. Labels to add: "dilute hydrochloric acid", "agar with alkali and phenolphthalein (pink)", "1 cm cube", "2 cm cube", "3 cm cube", "colourless where acid has diffused in", "pink centre not yet reached". Clean flat textbook style, white background.]
+![A beaker of dilute acid containing three pink agar cubes of different sizes beside three cubes cut to show diffusion: small fully colourless, medium and large with pink centres.](images/B3a-02-agar-cube-diffusion-experiment.png)
 
 ## Materials for transport
 
@@ -283,7 +283,7 @@ Fish have a **single circulation**: blood passes through the heart **only once**
 
 **Note:** amphibians and most reptiles also have a double circulation, but their hearts have **three chambers** (two atria and one ventricle, partly divided in reptiles), so some mixing of oxygenated and deoxygenated blood can happen in the ventricle. Crocodiles, birds and mammals have four chambers (see Topic A2c).
 
-[IMAGE: Side-by-side comparison of a fish single circulation and a mammal double circulation. Left: a two-chambered heart (atrium and ventricle) with one loop going to the gills and then on to the body and back to the heart. Right: a four-chambered heart with two loops, one to the lungs and one to the body. Red for oxygenated and blue for deoxygenated blood, with arrows. Labels to add: "fish: single circulation", "mammal: double circulation", "gills", "lungs", "body", "atrium", "ventricle", "heart". Clean flat textbook style, white background.]
+![Diagram comparing fish single circulation and mammalian double circulation, showing blood flow between heart chambers, respiratory organs, and the body.](images/B3a-04-single-versus-double-circulation.png)
 
 ### The heart
 
@@ -464,7 +464,7 @@ Every major organ has an artery bringing blood from the aorta and a vein returni
 | Legs | Iliac arteries (then femoral arteries) | Iliac veins (from femoral veins) |
 | Heart muscle | Coronary arteries | Coronary veins |
 
-[IMAGE: Simplified plan of the human blood system in front view, with the heart in the chest, the lungs, liver, stomach and intestines, and two kidneys drawn as simple shapes. Show the aorta arching up from the heart and running down the body, the venae cavae, the pulmonary artery and veins to the lungs, the carotid artery and jugular vein to the head, the hepatic artery and hepatic vein, the hepatic portal vein running from the intestines to the liver, and the renal artery and renal vein to each kidney, and iliac vessels to the legs. Arteries in red, veins in blue, the hepatic portal vein in purple to stand out. Labels to add: "aorta", "vena cava", "pulmonary artery", "pulmonary vein", "carotid artery", "jugular vein", "hepatic artery", "hepatic vein", "hepatic portal vein", "renal artery", "renal vein", "mesenteric artery", "iliac artery", "iliac vein", "heart", "lungs", "liver", "intestines", "kidney". Clean flat textbook style, white background.]
+![Simplified diagram of the human circulatory system showing major organs including the heart, lungs, liver, stomach, intestines, and kidneys, along with major arteries and veins.](images/B3a-11-systemic-blood-circulation-schematic.png)
 
 ## Specific functions of some important blood vessels
 
@@ -540,7 +540,7 @@ Every major organ has an artery bringing blood from the aorta and a vein returni
 - An artery carrying deoxygenated blood: **pulmonary artery**.
 - A vein carrying oxygenated blood: **pulmonary vein**.
 
-[IMAGE: Close-up diagram of the abdomen showing the small intestine with villi capillaries joining into the hepatic portal vein (purple) running to the liver, the hepatic artery (red) from the aorta to the liver, the hepatic vein (blue) from the liver to the inferior vena cava, and two kidneys each with a renal artery (red) from the aorta and a renal vein (blue) to the inferior vena cava. Small arrows show the direction of flow. Labels to add: "aorta", "inferior vena cava", "liver", "small intestine", "hepatic portal vein", "hepatic artery", "hepatic vein", "kidney", "renal artery", "renal vein", "digested food to liver", "urea removed by kidney". Clean flat textbook style, white background.]
+![Diagram showing circulation between the liver, kidneys, and small intestine with aorta, inferior vena cava, renal vessels, and hepatic portal vein.](images/B3a-12-hepatic-portal-circulation-schematic.png)
 
 ## Media of transport
 
@@ -599,7 +599,7 @@ An adult human has about **5 litres** of blood (about 5–6 litres in men and 4�
 
 **Textbook variation:** the figures for plasma and cells vary slightly: plasma is given as 55–60% and cells as 40–45%. The proportion of red cells (the haematocrit) is usually a little higher in men than in women.
 
-[IMAGE: A test tube of blood that has been spun in a centrifuge, showing a large pale yellow upper layer, a very thin whitish middle band, and a dark red lower layer. Beside it, a bracket and small pie chart showing about 55% plasma and 45% cells. Labels to add: "plasma (about 55%)", "white blood cells and platelets (buffy coat)", "red blood cells (about 45%)". Clean flat textbook style, white background.]
+![Diagram showing centrifuged blood in a test tube separated into plasma, buffy coat, and red blood cells alongside a pie chart illustrating overall blood composition.](images/B3a-13-centrifuged-blood-composition-chart.png)
 
 ### Plasma
 
@@ -899,7 +899,7 @@ Open circulation is found in **arthropods** (insects such as the cockroach and g
 
 **Other functions of haemolymph:** it provides the pressure that helps a newly moulted insect expand its new cuticle and its wings, and it stores water.
 
-[IMAGE: Side view (longitudinal section) of a cockroach body (head, thorax and abdomen) showing the open circulatory system. A long tubular heart along the dorsal side of the abdomen with paired ostia in each segment and fan-shaped alary muscles, continuing forward as the aorta into the head where it opens. The haemocoel filling the body around the gut and other organs is tinted pale yellow-green, with arrows showing haemolymph flowing forward in the heart and aorta, out into the head, then backward through the body cavity, and back into the heart through the ostia. Labels to add: "tubular heart", "ostia", "alary muscles", "aorta", "haemocoel", "haemolymph bathing organs", "gut", "head", "thorax", "abdomen", "direction of flow". Clean flat textbook style, white background.]
+![Longitudinal diagram of an insect body displaying the open circulatory system, including the dorsal tubular heart, aorta extending to the head, haemocoel, and digestive tract.](images/B3a-17-cockroach-open-circulatory-system.png)
 
 ### Closed circulatory system: the earthworm
 

@@ -654,5 +654,390 @@
     "R"
    ]
   ]
+ },
+ "B3a-02-agar-cube-diffusion-experiment": {
+  "regions": [
+   "colourless where acid has diffused in",
+   "pink centre not yet reached"
+  ],
+  "labels": [
+   [
+    "dilute hydrochloric acid",
+    [
+     215,
+     471
+    ],
+    "L"
+   ],
+   [
+    "agar with alkali and phenolphthalein (pink)",
+    [
+     151,
+     629
+    ],
+    "L"
+   ],
+   [
+    "1 cm cube",
+    [
+     145,
+     626
+    ],
+    "L"
+   ],
+   [
+    "2 cm cube",
+    [
+     258,
+     632
+    ],
+    "L"
+   ],
+   [
+    "3 cm cube",
+    [
+     344,
+     558
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3a-11-systemic-blood-circulation-schematic": {
+  "regions": [
+   "lungs",
+   "liver",
+   "intestines",
+   "kidney",
+   "heart"
+  ],
+  "labels": [
+   [
+    "aorta",
+    [
+     524,
+     305
+    ],
+    "R"
+   ],
+   [
+    "vena cava",
+    [
+     500,
+     679
+    ],
+    "L"
+   ],
+   [
+    "pulmonary artery",
+    [
+     549,
+     327
+    ],
+    "R"
+   ],
+   [
+    "pulmonary vein",
+    [
+     457,
+     356
+    ],
+    "L"
+   ],
+   [
+    "carotid artery",
+    [
+     536,
+     185
+    ],
+    "R"
+   ],
+   [
+    "jugular vein",
+    [
+     464,
+     176
+    ],
+    "L"
+   ],
+   [
+    "hepatic artery",
+    [
+     488,
+     533
+    ],
+    "L"
+   ],
+   [
+    "hepatic vein",
+    [
+     475,
+     466
+    ],
+    "L"
+   ],
+   [
+    "hepatic portal vein",
+    [
+     494,
+     592
+    ],
+    "L"
+   ],
+   [
+    "renal artery",
+    [
+     536,
+     693
+    ],
+    "R"
+   ],
+   [
+    "renal vein",
+    [
+     472,
+     702
+    ],
+    "L"
+   ],
+   [
+    "mesenteric artery",
+    [
+     522,
+     654
+    ],
+    "R"
+   ],
+   [
+    "iliac artery",
+    [
+     559,
+     813
+    ],
+    "R"
+   ],
+   [
+    "iliac vein",
+    [
+     454,
+     859
+    ],
+    "L"
+   ],
+   [
+    "heart",
+    [
+     532,
+     404
+    ],
+    "R"
+   ],
+   [
+    "lungs",
+    [
+     421,
+     380
+    ],
+    "L"
+   ],
+   [
+    "liver",
+    [
+     441,
+     526
+    ],
+    "L"
+   ],
+   [
+    "intestines",
+    [
+     616,
+     631
+    ],
+    "R"
+   ],
+   [
+    "kidney",
+    [
+     418,
+     710
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B3a-12-hepatic-portal-circulation-schematic": {
+  "caption_below": "Digested food to liver and urea removed by kidney.",
+  "regions": [
+   "liver",
+   "small intestine",
+   "kidney"
+  ],
+  "labels": [
+   [
+    "aorta",
+    [
+     541,
+     437
+    ],
+    "R"
+   ],
+   [
+    "inferior vena cava",
+    [
+     476,
+     572
+    ],
+    "L"
+   ],
+   [
+    "liver",
+    [
+     312,
+     263
+    ],
+    "L"
+   ],
+   [
+    "small intestine",
+    [
+     431,
+     887
+    ],
+    "L"
+   ],
+   [
+    "hepatic portal vein",
+    [
+     493,
+     466
+    ],
+    "L"
+   ],
+   [
+    "hepatic artery",
+    [
+     573,
+     366
+    ],
+    "R"
+   ],
+   [
+    "hepatic vein",
+    [
+     369,
+     186
+    ],
+    "L"
+   ],
+   [
+    "kidney",
+    [
+     335,
+     564
+    ],
+    "L"
+   ],
+   [
+    "renal artery",
+    [
+     596,
+     479
+    ],
+    "R"
+   ],
+   [
+    "renal vein",
+    [
+     600,
+     501
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-17-cockroach-open-circulatory-system": {
+  "caption_below": "Direction of flow with haemolymph bathing organs.",
+  "regions": [
+   "haemocoel",
+   "gut",
+   "head",
+   "thorax",
+   "abdomen"
+  ],
+  "labels": [
+   [
+    "tubular heart",
+    [
+     677,
+     437
+    ],
+    "R"
+   ],
+   [
+    "ostia",
+    [
+     595,
+     421
+    ],
+    "R"
+   ],
+   [
+    "alary muscles",
+    [
+     483,
+     402
+    ],
+    "L"
+   ],
+   [
+    "aorta",
+    [
+     321,
+     430
+    ],
+    "L"
+   ],
+   [
+    "haemocoel",
+    [
+     369,
+     454
+    ],
+    "L"
+   ],
+   [
+    "gut",
+    [
+     642,
+     528
+    ],
+    "R"
+   ],
+   [
+    "head",
+    [
+     157,
+     535
+    ],
+    "L"
+   ],
+   [
+    "thorax",
+    [
+     370,
+     538
+    ],
+    "L"
+   ],
+   [
+    "abdomen",
+    [
+     681,
+     559
+    ],
+    "R"
+   ]
+  ]
  }
 }

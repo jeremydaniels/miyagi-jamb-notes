@@ -1,26 +1,32 @@
 {
  "B14-01-grasshopper-life-cycle": {
   "caption_below": "Incomplete metamorphosis",
-  "labels": [],
-  "captions": [
+  "labels": [
    [
     "Egg pod in soil",
-    270,
-    693
+    [
+     235,
+     573
+    ],
+    "L"
    ],
    [
     "Nymph (wingless)",
-    517,
-    929
+    [
+     596,
+     719
+    ],
+    "R"
    ],
    [
     "Adult grasshopper",
-    681,
-    767
+    [
+     663,
+     253
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B14-02-maize-weevil-life-cycle": {
   "caption_below": "Complete metamorphosis",

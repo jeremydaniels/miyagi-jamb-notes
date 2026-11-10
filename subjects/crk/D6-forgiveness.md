@@ -39,7 +39,7 @@ In the letter, Paul makes a passionate plea for forgiveness:
 4. **Paying the debt:** In a beautiful picture of what Jesus did for sinners, Paul offers to pay whatever Onesimus owes. Paul writes, *"If he hath wronged thee, or oweth thee ought, put that on mine account"* (Philemon 1:18). 
 5. **Divine providence:** Paul suggests that perhaps God allowed Onesimus to run away for a short time so that Philemon could have him back forever as a Christian brother.
 
-[IMAGE: A warm, ancient room setting. The Apostle Paul, an older man in simple robes with a chain on his wrist, is handing a small rolled parchment to a younger man, Onesimus, who is kneeling respectfully. The background shows the stone walls of a house arrest setting in Rome. Labels to add later: "Apostle Paul in chains", "Onesimus the runaway slave", "The Letter to Philemon". Clean flat textbook illustration, white background.]
+![Apostle Paul in chains under house arrest handing a rolled parchment scroll to the kneeling young man Onesimus in a stone room.](images/D6-01-paul-handing-letter-onesimus.png)
 
 ## Second Corinthians 2:5-11
 
@@ -109,7 +109,7 @@ Forgiveness produces powerful positive results for the forgiver, the offender, a
 5. **Defeating evil:** It stops Satan from getting an advantage. It prevents the devil from using human mistakes to destroy churches and families.
 6. **Promotes social peace:** In Nigerian society, where communal clashes, political anger, and family disputes over land or money are common, practicing forgiveness breaks the endless cycle of retaliation and revenge, leading to national peace.
 
-[IMAGE: A split diagram comparing the effects of Unforgiveness vs. Forgiveness. Left side (Unforgiveness): Dark red and gray colors. A person carrying a massive, heavy sack labeled "Bitterness & Grudges", looking stressed; a locked padlock above reading "God's forgiveness blocked"; an angry red arrow pointing to another person looking depressed. Right side (Forgiveness): Bright blue and yellow colors. The same person standing upright and happy, the heavy sack dropped on the floor; an open padlock above reading "God's forgiveness received"; two people shaking hands under a banner saying "Reconciliation". Clean flat textbook style, white background.]
+![Split illustration comparing unforgiveness with a man burdened by a heavy sack beneath a locked padlock, and forgiveness showing freedom with an open padlock and reconciliation.](images/D6-02-forgiveness-versus-unforgiveness-comparison.png)
 
 ## Recognize the need to forgive others
 

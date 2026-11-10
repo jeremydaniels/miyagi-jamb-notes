@@ -50,7 +50,7 @@ To understand why different crops grow in different regions, we must differentia
 | **Sudan Savanna** | Northern states: Kano, Katsina, Jigawa, Sokoto, Bauchi | Low (650 mm to 1,000 mm) | Short grasses and scattered, short, thorny trees (e.g., acacia, baobab, neem). | Long dry season (up to 7 months). Excellent for cereal and legume cultivation, and large-scale livestock rearing. |
 | **Sahel Savanna** | Extreme North-East (for example Borno and Yobe) and extreme North-West | Very low (under 650 mm) | Very short, sparse grasses and drought-resistant, thorny shrubs. Patchy vegetation. | Extremely hot, very long dry season (up to 9 months). High wind erosion. Nomadic pastoralism is common. |
 
-[IMAGE: A map of Nigeria or West Africa shaded in horizontal bands to show the ecological zones. The southernmost edge along the coast is dark green (Mangrove Swamp). Above it is green (Rainforest). The next band is light green (Derived Savanna). The wide middle section is yellow-green (Guinea Savanna). The northern section is orange-yellow (Sudan Savanna), and the extreme northeast corner is pale yellow (Sahel Savanna). A small purple patch in the middle shows the Montane region (Jos Plateau). A compass rose and a legend matching the colours to the zone names. Clean flat textbook style, white background.]
+![Ecological map of Nigeria showing horizontal bands for Mangrove Swamp, Rainforest, Derived Savanna, Guinea Savanna, Sudan Savanna, Sahel Savanna, and the central Jos Plateau montane zone.](images/A3-01-nigeria-ecological-zones-map.png)
 
 ## Agricultural products of each ecological zone
 

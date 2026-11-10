@@ -56,7 +56,7 @@ The proverb uses strong imagery to describe the danger of prostitution:
 *   "For a whore is a deep ditch; and a strange woman is a narrow pit."
 *   She lies in wait for her victims like a robber, and she increases the number of unfaithful men (transgressors) among men.
 
-[IMAGE: A conceptual illustration depicting the two paths of Proverbs 7. On the left side, a foolish youth walking down a dark, narrow street at twilight towards a brightly lit, seductive doorway with a woman standing in it. The path is painted to look like it ends in a deep pit. On the right side, a young man turning his back on the temptation and walking towards a bright, open pathway leading to a peaceful home. Labels: "The trap of the strange woman (Proverbs 7)", "Fleeing temptation (1 Cor. 6:18)". Clean flat textbook style, white background.]
+![An illustration showing two paths: on the left, a youth near a seductive doorway next to a pit, and on the right, a youth walking toward a peaceful home.](images/D16-01-two-paths-moral-choice.png)
 
 ## Adultery and Fornication
 

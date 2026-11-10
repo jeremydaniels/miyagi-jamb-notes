@@ -2,22 +2,6 @@
  "A12-03-surface-area-reaction-rate": {
   "labels": [
    [
-    "'Marble lumps (small surface area, slow reaction)'",
-    [
-     274,
-     762
-    ],
-    "L"
-   ],
-   [
-    "'Powdered marble (large surface area, fast reaction)'",
-    [
-     759,
-     775
-    ],
-    "R"
-   ],
-   [
     "'Dilute HCl'",
     [
      241,
@@ -33,6 +17,20 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "'Marble lumps (small\nsurface area, slow\nreaction)'",
+    263,
+    866
+   ],
+   [
+    "'Powdered marble\n(large surface area,\nfast reaction)'",
+    761,
+    866
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

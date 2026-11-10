@@ -1,0 +1,129 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Urine Formation Along the Nephron",
+ "nodes": [
+  {
+   "id": "blood_in",
+   "text": "Blood entering glomerulus",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "glom_capsule",
+   "text": "Ultrafiltration\nGlomerulus & Bowman's capsule",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "stay_blood",
+   "text": "Blood cells and plasma proteins\n(stay in blood)",
+   "shape": "plain",
+   "color": "orange"
+  },
+  {
+   "id": "filtrate",
+   "text": "Glomerular filtrate:\nWater, glucose, amino acids, urea, salts",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "pct",
+   "text": "Selective reabsorption\nProximal convoluted tubule",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "reabsorbed_pct",
+   "text": "Into capillaries:\nAll glucose, all amino acids,\nmost salts, most water",
+   "shape": "plain",
+   "color": "green"
+  },
+  {
+   "id": "loop",
+   "text": "Loop of Henle\n(Salts moving into medulla)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "dct",
+   "text": "Distal convoluted tubule",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "cd",
+   "text": "Collecting duct\n(Water reabsorption)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "adh",
+   "text": "ADH",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "water_out",
+   "text": "Water reabsorbed\nunder ADH influence",
+   "shape": "plain",
+   "color": "blue"
+  },
+  {
+   "id": "urine",
+   "text": "Urine to pelvis:\nWater, urea, salts",
+   "shape": "box",
+   "color": "blue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "blood_in",
+   "to": "glom_capsule"
+  },
+  {
+   "from": "glom_capsule",
+   "to": "stay_blood"
+  },
+  {
+   "from": "glom_capsule",
+   "to": "filtrate",
+   "label": "forced into capsule"
+  },
+  {
+   "from": "filtrate",
+   "to": "pct"
+  },
+  {
+   "from": "pct",
+   "to": "reabsorbed_pct",
+   "label": "reabsorbed"
+  },
+  {
+   "from": "pct",
+   "to": "loop"
+  },
+  {
+   "from": "loop",
+   "to": "dct"
+  },
+  {
+   "from": "dct",
+   "to": "cd"
+  },
+  {
+   "from": "adh",
+   "to": "cd"
+  },
+  {
+   "from": "cd",
+   "to": "water_out",
+   "label": "water leaves"
+  },
+  {
+   "from": "cd",
+   "to": "urine",
+   "label": "flow to pelvis"
+  }
+ ]
+}

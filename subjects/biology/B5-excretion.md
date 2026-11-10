@@ -362,7 +362,7 @@ Some substances are **actively secreted** from the blood in the capillaries **in
 
 The fluid left in the collecting duct is **urine**. Collecting ducts open at the tips of the pyramids into the **pelvis**. Urine flows down the **ureter** to the **bladder**, where it is stored. When the bladder is fairly full, stretch receptors in its wall send impulses to the brain, and you feel the urge to urinate. The sphincters relax, the muscular wall of the bladder contracts, and urine passes out through the **urethra** (**micturition**, or urination).
 
-[IMAGE: Flow diagram of urine formation along a simplified nephron. Arrows show: at the glomerulus and Bowman's capsule, "water, glucose, amino acids, urea, salts" forced into the capsule while "blood cells and plasma proteins" stay in the blood; along the proximal tubule, arrows of "all glucose, all amino acids, most salts, most water" leaving the tubule into the capillaries; at the loop of Henle, salts moving into the medulla; along the collecting duct, water leaving under the influence of ADH; at the end, "urine: water, urea, salts" going to the pelvis. Use three colours to separate the stages: orange for ultrafiltration, green for selective reabsorption, blue for water reabsorption. Labels: ultrafiltration, glomerulus, Bowman's capsule, glomerular filtrate, selective reabsorption, proximal convoluted tubule, loop of Henle, distal convoluted tubule, collecting duct, ADH, urine to pelvis. Clean flat textbook style, white background.]
+![Flow diagram showing urine formation along a nephron, detailing ultrafiltration, selective reabsorption, and water reabsorption under ADH regulation, resulting in urine delivered to the pelvis.](images/B5-09-urine-formation-schematic-flowchart.png)
 
 ### Comparing blood plasma, glomerular filtrate and urine
 
@@ -520,7 +520,7 @@ This is an example of **negative feedback**: a change away from normal causes a 
 
 **To show that exhaled air contains water vapour:** breathe onto a cold, dry mirror or glass. It becomes misty. The liquid formed turns **white anhydrous copper (II) sulphate blue** (or dry blue cobalt chloride paper **pink**), which shows it is water.
 
-[IMAGE: Experimental set-up for comparing inhaled and exhaled air. Two boiling tubes in a rack, each containing clear lime water, connected by bent glass delivery tubes to a single Y-shaped mouthpiece. Tube A is set so that air is drawn in through the lime water when breathing in; tube B is set so that exhaled air bubbles through the lime water. Show tube B's lime water milky white and tube A's still clear, with small arrows showing the direction of air flow. Labels: mouthpiece, tube A (inhaled air), tube B (exhaled air), lime water, clear, milky, delivery tube. Clean flat textbook style, white background.]
+![Diagram comparing inhaled and exhaled air using two boiling tubes of limewater in a rack connected by delivery tubes to a single Y-shaped mouthpiece.](images/B5-11-inhaled-exhaled-air-apparatus.png)
 
 ### Other functions of the lungs
 

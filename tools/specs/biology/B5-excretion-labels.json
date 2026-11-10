@@ -742,5 +742,50 @@
     "R"
    ]
   ]
+ },
+ "B5-11-inhaled-exhaled-air-apparatus": {
+  "caption_below": "Clear and milky lime water test results.",
+  "labels": [
+   [
+    "mouthpiece",
+    [
+     527,
+     208
+    ],
+    "R"
+   ],
+   [
+    "tube A (inhaled air)",
+    [
+     380,
+     636
+    ],
+    "L"
+   ],
+   [
+    "tube B (exhaled air)",
+    [
+     702,
+     634
+    ],
+    "R"
+   ],
+   [
+    "lime water",
+    [
+     369,
+     741
+    ],
+    "L"
+   ],
+   [
+    "delivery tube",
+    [
+     390,
+     328
+    ],
+    "L"
+   ]
+  ]
  }
 }

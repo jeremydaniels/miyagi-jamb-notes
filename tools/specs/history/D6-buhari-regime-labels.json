@@ -1,22 +1,19 @@
 {
  "D6-01-historical-regime-policies": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "War Against Indiscipline (WAI) - Queuing Culture",
-    [
-     266,
-     512
-    ],
-    "L"
+    "War Against Indiscipline\n(WAI) - Queuing Culture",
+    256,
+    964
    ],
    [
-    "April 1984 Currency Change",
-    [
-     768,
-     512
-    ],
-    "R"
+    "April 1984 Currency\nChange",
+    768,
+    1033
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

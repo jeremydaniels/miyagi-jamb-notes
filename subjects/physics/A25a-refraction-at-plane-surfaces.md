@@ -30,7 +30,7 @@ When a ray of light travels through a single uniform medium (like empty space or
 
 If the light strikes the boundary perfectly straight on (along the normal, at a 90° angle to the surface), it does not bend, but its speed still changes. 
 
-[IMAGE: A ray diagram showing refraction. A straight horizontal line represents the boundary between air (top, light blue) and water (bottom, darker blue). A vertical dashed line (the normal) passes through the boundary. A red incident ray comes from the top left, striking the boundary at the normal. The refracted ray continues into the water, bending closer to the normal. Angles 'i' (angle of incidence) and 'r' (angle of refraction) are marked between the rays and the normal. Labels: "Air (less dense)", "Water (optically denser)", "Incident ray", "Refracted ray", "Normal". Clean flat textbook style, white background.]
+![A ray diagram illustrating refraction as light travels from air into water, bending toward the normal line, with angles of incidence and refraction clearly labeled.](images/A25a-01-light-refraction-at-boundary.png)
 
 ## Explanation of refraction in terms of velocity of light
 
@@ -226,7 +226,7 @@ In the laboratory, you can find the refractive index of a liquid (or a glass blo
 ### Lateral Displacement
 When a light ray passes through a rectangular glass block with parallel sides, the ray that emerges into the air is **parallel** to the original incident ray, but it has been shifted sideways. This perpendicular sideways shift is called **lateral displacement**.
 
-[IMAGE: A ray diagram showing lateral displacement. A rectangular glass block. An incident ray strikes the top at angle i. The ray refracts closer to the normal at angle r inside the block. It hits the bottom boundary and refracts away from the normal, emerging parallel to the original incident ray's path. A dashed straight line extends the original incident ray right through the block. A perpendicular line labeled 'd' (lateral displacement) connects the emergent ray to the dashed line. Clean flat textbook style, white background.]
+![Diagram showing lateral displacement through a glass block with incident, refracted, and emergent rays, normal lines, angles, and perpendicular displacement distance d.](images/A25a-03-lateral-displacement-glass-block.png)
 
 The formula for lateral displacement $d$ for a block of thickness $t$ is:
 $$d = t \frac{\sin(i - r)}{\cos r}$$

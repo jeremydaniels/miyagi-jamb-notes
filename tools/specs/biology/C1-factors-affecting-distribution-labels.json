@@ -62,14 +62,6 @@
  "C1-05-soil-structure-comparison": {
   "labels": [
    [
-    "sandy soil",
-    [
-     199,
-     459
-    ],
-    "L"
-   ],
-   [
     "large particles",
     [
      142,
@@ -94,20 +86,12 @@
     "L"
    ],
    [
-    "loamy soil",
-    [
-     528,
-     463
-    ],
-    "R"
-   ],
-   [
     "humus",
     [
      518,
      538
     ],
-    "R"
+    "T"
    ],
    [
     "earthworm",
@@ -115,15 +99,7 @@
      437,
      571
     ],
-    "L"
-   ],
-   [
-    "clay soil",
-    [
-     805,
-     675
-    ],
-    "R"
+    "T"
    ],
    [
     "tiny particles",
@@ -149,7 +125,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "sandy soil",
+    192,
+    907
+   ],
+   [
+    "loamy soil",
+    511,
+    903
+   ],
+   [
+    "clay soil",
+    830,
+    903
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C1-06-secchi-disc-turbidity-measurement": {
   "labels": [
@@ -202,7 +197,7 @@
     "R"
    ],
    [
-    "Secchi depth = (D1 + D2) \u00f7 2",
+    "Secchi depth = (D1 + D2) ÷ 2",
     [
      564,
      566
@@ -402,14 +397,6 @@
  "C1-10-wind-vane-anemometer": {
   "labels": [
    [
-    "wind vane",
-    [
-     326,
-     390
-    ],
-    "L"
-   ],
-   [
     "arrowhead (points to where the wind comes from)",
     [
      182,
@@ -423,7 +410,7 @@
      487,
      283
     ],
-    "L"
+    "T"
    ],
    [
     "compass directions",
@@ -434,20 +421,12 @@
     "L"
    ],
    [
-    "cup anemometer",
-    [
-     774,
-     397
-    ],
-    "R"
-   ],
-   [
     "cups",
     [
      640,
      268
     ],
-    "R"
+    "T"
    ],
    [
     "spindle",
@@ -473,18 +452,24 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "wind vane",
+    317,
+    979
+   ],
+   [
+    "cup anemometer",
+    772,
+    977
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C1-11-ecological-measurement-instruments-set": {
   "labels": [
-   [
-    "pH meter",
-    [
-     100,
-     430
-    ],
-    "L"
-   ],
    [
     "probe (electrode)",
     [
@@ -510,36 +495,12 @@
     "L"
    ],
    [
-    "light meter",
-    [
-     361,
-     547
-    ],
-    "L"
-   ],
-   [
-    "hydrometer",
-    [
-     522,
-     595
-    ],
-    "R"
-   ],
-   [
     "scale on stem",
     [
      520,
      390
     ],
-    "R"
-   ],
-   [
-    "soil auger",
-    [
-     689,
-     464
-    ],
-    "R"
+    "T"
    ],
    [
     "T-shaped handle",
@@ -547,7 +508,7 @@
      670,
      247
     ],
-    "R"
+    "T"
    ],
    [
     "spiral bit",
@@ -564,16 +525,32 @@
      719
     ],
     "R"
+   ]
+  ],
+  "captions": [
+   [
+    "pH meter; light\nmeter",
+    194,
+    815
+   ],
+   [
+    "hydrometer",
+    519,
+    820
+   ],
+   [
+    "soil auger",
+    722,
+    815
    ],
    [
     "barometer",
-    [
-     883,
-     520
-    ],
-    "R"
+    876,
+    654
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C1-12-soil-drainage-experiment-apparatus": {
   "labels": [
@@ -591,7 +568,7 @@
      512,
      390
     ],
-    "R"
+    "T"
    ],
    [
     "clay soil",
@@ -631,7 +608,7 @@
      512,
      828
     ],
-    "R"
+    "T"
    ],
    [
     "most water drained",
@@ -649,7 +626,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C1-13-human-impact-ecosystems": {
   "labels": [

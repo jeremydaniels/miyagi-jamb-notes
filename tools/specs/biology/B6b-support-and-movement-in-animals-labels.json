@@ -1010,5 +1010,397 @@
     "R"
    ]
   ]
+ },
+ "B6b-05-human-vertebral-column": {
+  "regions": [
+   "cervical vertebrae (7)",
+   "thoracic vertebrae (12)",
+   "lumbar vertebrae (5)",
+   "sacrum (5 fused sacral vertebrae)",
+   "coccyx (fused caudal vertebrae)"
+  ],
+  "labels": [
+   [
+    "skull",
+    [
+     494,
+     111
+    ],
+    "L"
+   ],
+   [
+    "cervical vertebrae (7)",
+    [
+     622,
+     247
+    ],
+    "R"
+   ],
+   [
+    "thoracic vertebrae (12)",
+    [
+     622,
+     461
+    ],
+    "R"
+   ],
+   [
+    "lumbar vertebrae (5)",
+    [
+     621,
+     705
+    ],
+    "R"
+   ],
+   [
+    "sacrum (5 fused sacral vertebrae)",
+    [
+     622,
+     854
+    ],
+    "R"
+   ],
+   [
+    "coccyx (fused caudal vertebrae)",
+    [
+     622,
+     948
+    ],
+    "R"
+   ],
+   [
+    "intervertebral disc",
+    [
+     486,
+     709
+    ],
+    "L"
+   ],
+   [
+    "rib",
+    [
+     501,
+     338
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B6b-06-cervical-vertebrae-comparison": {
+  "regions": [
+   "atlas",
+   "axis",
+   "typical cervical vertebra"
+  ],
+  "labels": [
+   [
+    "atlas",
+    [
+     202,
+     348
+    ],
+    "L"
+   ],
+   [
+    "articular facet for occipital condyle",
+    [
+     129,
+     252
+    ],
+    "L"
+   ],
+   [
+    "transverse process",
+    [
+     63,
+     262
+    ],
+    "L"
+   ],
+   [
+    "neural canal",
+    [
+     202,
+     303
+    ],
+    "L"
+   ],
+   [
+    "axis",
+    [
+     532,
+     389
+    ],
+    "R"
+   ],
+   [
+    "odontoid process",
+    [
+     532,
+     176
+    ],
+    "R"
+   ],
+   [
+    "neural spine",
+    [
+     532,
+     414
+    ],
+    "R"
+   ],
+   [
+    "centrum",
+    [
+     840,
+     333
+    ],
+    "R"
+   ],
+   [
+    "typical cervical vertebra",
+    [
+     839,
+     337
+    ],
+    "R"
+   ],
+   [
+    "vertebrarterial canal (transverse foramen)",
+    [
+     761,
+     324
+    ],
+    "R"
+   ],
+   [
+    "neural arch",
+    [
+     890,
+     245
+    ],
+    "R"
+   ],
+   [
+    "zygapophysis",
+    [
+     773,
+     708
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6b-09-pectoral-pelvic-girdles": {
+  "labels": [
+   [
+    "scapula",
+    [
+     240,
+     223
+    ],
+    "L"
+   ],
+   [
+    "glenoid cavity",
+    [
+     290,
+     186
+    ],
+    "L"
+   ],
+   [
+    "acromion process",
+    [
+     311,
+     143
+    ],
+    "L"
+   ],
+   [
+    "clavicle",
+    [
+     200,
+     142
+    ],
+    "L"
+   ],
+   [
+    "humerus",
+    [
+     335,
+     327
+    ],
+    "L"
+   ],
+   [
+    "radius",
+    [
+     374,
+     611
+    ],
+    "L"
+   ],
+   [
+    "ulna",
+    [
+     342,
+     615
+    ],
+    "L"
+   ],
+   [
+    "olecranon process",
+    [
+     344,
+     480
+    ],
+    "L"
+   ],
+   [
+    "carpals",
+    [
+     380,
+     754
+    ],
+    "L"
+   ],
+   [
+    "metacarpals",
+    [
+     374,
+     811
+    ],
+    "L"
+   ],
+   [
+    "phalanges",
+    [
+     375,
+     877
+    ],
+    "L"
+   ],
+   [
+    "ilium",
+    [
+     666,
+     175
+    ],
+    "R"
+   ],
+   [
+    "ischium",
+    [
+     716,
+     315
+    ],
+    "R"
+   ],
+   [
+    "pubis",
+    [
+     760,
+     292
+    ],
+    "R"
+   ],
+   [
+    "acetabulum",
+    [
+     671,
+     263
+    ],
+    "R"
+   ],
+   [
+    "obturator foramen",
+    [
+     807,
+     290
+    ],
+    "R"
+   ],
+   [
+    "pubic symphysis",
+    [
+     762,
+     290
+    ],
+    "R"
+   ],
+   [
+    "sacrum",
+    [
+     763,
+     192
+    ],
+    "R"
+   ],
+   [
+    "femur",
+    [
+     658,
+     437
+    ],
+    "R"
+   ],
+   [
+    "head of femur",
+    [
+     659,
+     261
+    ],
+    "R"
+   ],
+   [
+    "patella",
+    [
+     676,
+     582
+    ],
+    "R"
+   ],
+   [
+    "tibia",
+    [
+     689,
+     709
+    ],
+    "R"
+   ],
+   [
+    "fibula",
+    [
+     660,
+     737
+    ],
+    "R"
+   ],
+   [
+    "tarsals",
+    [
+     692,
+     886
+    ],
+    "R"
+   ],
+   [
+    "calcaneus",
+    [
+     693,
+     872
+    ],
+    "R"
+   ],
+   [
+    "metatarsals",
+    [
+     667,
+     919
+    ],
+    "R"
+   ]
+  ]
  }
 }

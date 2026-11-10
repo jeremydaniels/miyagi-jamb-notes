@@ -356,7 +356,7 @@ The vertebral column is a strong, flexible column of small bones called **verteb
 
 **The curves of the human spine:** seen from the side, the human backbone has an S-shaped double curve (forward in the neck and lower back, backward in the chest and hip region). This helps balance the body upright over the legs and acts like a spring to absorb shock.
 
-[IMAGE: Side view of the human vertebral column showing its S-shaped curves, with the five regions coloured differently and bracketed: cervical (7), thoracic (12, with stubs of ribs attached), lumbar (5, largest vertebrae), sacral (5 fused, sacrum) and caudal (4 fused, coccyx). Show the intervertebral discs as pale blue pads between vertebrae and the skull outline at the top. Labels: skull, cervical vertebrae (7), thoracic vertebrae (12), lumbar vertebrae (5), sacrum (5 fused sacral vertebrae), coccyx (fused caudal vertebrae), intervertebral disc, rib. Clean flat textbook style, white background.]
+![Lateral view of the human vertebral column showing the cervical, thoracic, lumbar, sacral, and coccygeal regions with intervertebral discs beneath the skull outline.](images/B6b-05-human-vertebral-column.png)
 
 #### General structure of a vertebra
 
@@ -399,7 +399,7 @@ Most vertebrae share the same basic plan:
 
 **Function:** the atlas (with the skull) **rotates (pivots)** around the odontoid process of the axis, allowing the head to turn **from side to side** (as in saying "no"). This is a **pivot joint**.
 
-[IMAGE: Front-and-top views of three cervical vertebrae side by side: (1) the atlas, ring-shaped with no centrum, wide wing-like transverse processes, large articular facets for the occipital condyles and a large neural canal; (2) the axis, with the peg-like odontoid process sticking up from its centrum and a large blade-like neural spine; (3) a typical cervical vertebra with a small centrum, short neural spine, wide neural canal and transverse processes each pierced by a vertebrarterial canal. Labels: atlas, articular facet for occipital condyle, transverse process, neural canal, axis, odontoid process, neural spine, centrum, typical cervical vertebra, vertebrarterial canal (transverse foramen), neural arch, zygapophysis. Clean flat textbook style, white background.]
+![Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.](images/B6b-06-cervical-vertebrae-comparison.png)
 
 #### The thoracic vertebrae (chest)
 
@@ -523,7 +523,7 @@ On each side, the pectoral girdle consists of two bones:
 
 **The pentadactyl limb:** the forelimb and hindlimb of all mammals (and of other land vertebrates) are built on the same basic plan, with **one** upper bone, **two** lower bones, a group of wrist or ankle bones, and up to **five digits** (fingers or toes). This is the **pentadactyl** ("five-fingered") **limb**. In different animals it is modified for different uses (e.g. the wing of a bat, the flipper of a whale, the hoof of a goat, which walks on the tips of its third and fourth digits). This shared plan is evidence of evolution (see Section E, Topic E1).
 
-[IMAGE: Two diagrams side by side. Left: the human pectoral girdle and right forelimb seen from the front: scapula with glenoid cavity and acromion, clavicle joining the sternum, humerus, radius and ulna (with olecranon process at the elbow), carpals, metacarpals and phalanges. Right: the human pelvic girdle and right hindlimb from the front: the pelvis with ilium, ischium, pubis, acetabulum, obturator foramen, pubic symphysis and the sacrum between the two ilia; femur with head and trochanter, patella, tibia, fibula, tarsals (with calcaneus), metatarsals and phalanges. Labels: scapula, glenoid cavity, acromion process, clavicle, humerus, radius, ulna, olecranon process, carpals, metacarpals, phalanges, ilium, ischium, pubis, acetabulum, obturator foramen, pubic symphysis, sacrum, femur, head of femur, patella, tibia, fibula, tarsals, calcaneus, metatarsals. Clean flat textbook style, white background.]
+![Anatomical comparison of the human pectoral girdle and upper limb on the left with the pelvic girdle and lower limb on the right.](images/B6b-09-pectoral-pelvic-girdles.png)
 
 ### Pectoral and pelvic girdles compared
 

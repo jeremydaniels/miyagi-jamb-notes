@@ -126,7 +126,7 @@ The syllabus lists "Review" as the final stage. This involves evaluating the sys
 
 A standard SDLC diagram is usually drawn as a cycle (a circle) or as a "Waterfall" (steps going downwards, with arrows returning to the top), showing that the process is continuous. 
 
-[IMAGE: A circular flowchart representing the System Development Life Cycle (SDLC). The circle is made of seven curved arrows pointing clockwise to show continuous flow. The steps are clearly labeled in the syllabus order: 1. Preliminary Study, 2. Feasibility, 3. Analysis, 4. Design, 5. Implementation, 6. Maintenance, 7. Review. An arrow should point from Review back to Preliminary Study to complete the cycle. Clean flat textbook illustration, white background, using professional blue and green colors.]
+![Circular flowchart of the System Development Life Cycle with seven steps.](images/G6-01-circular-flowchart-representing-system.png)
 
 ---
 

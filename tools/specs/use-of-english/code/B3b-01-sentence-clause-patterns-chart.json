@@ -1,0 +1,64 @@
+{
+ "template": "table",
+ "title": "The Seven Basic Clause Patterns",
+ "columns": [
+  "Pattern",
+  "Subject (S)",
+  "Verb (V)",
+  "Object (O) / Indirect O",
+  "2nd Object / Complement / Adverbial"
+ ],
+ "rows": [
+  [
+   "SV",
+   "The baby",
+   "cried",
+   "—",
+   "—"
+  ],
+  [
+   "SVO",
+   "Chika",
+   "ate",
+   "the moi-moi",
+   "—"
+  ],
+  [
+   "SVC",
+   "The moi-moi",
+   "was",
+   "—",
+   "delicious (C)"
+  ],
+  [
+   "SVA",
+   "My father",
+   "is",
+   "—",
+   "in the office (A)"
+  ],
+  [
+   "SVOO",
+   "Mama",
+   "gave",
+   "me (O)",
+   "some akara (O)"
+  ],
+  [
+   "SVOC",
+   "The students",
+   "elected",
+   "Bola (O)",
+   "prefect (C)"
+  ],
+  [
+   "SVOA",
+   "She",
+   "put",
+   "the money (O)",
+   "in her purse (A)"
+  ]
+ ],
+ "first_col_bold": true,
+ "caption": "Key: S = Subject, V = Verb, O = Object, C = Complement, A = Adverbial"
+}

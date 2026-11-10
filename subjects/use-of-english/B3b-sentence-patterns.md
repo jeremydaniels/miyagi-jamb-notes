@@ -151,7 +151,7 @@ Using the five elements, almost every English clause fits one of **seven basic p
 | 6. SVOC | Subject + Verb + Object + Object complement | Complex-transitive | *The students / elected / Bola / prefect.* |
 | 7. SVOA | Subject + Verb + Object + Adverbial (obligatory) | Complex-transitive | *She / put / the money / in her purse.* |
 
-[IMAGE: A clean chart showing the seven clause patterns as rows of coloured blocks. Each row has a pattern code on the left (SV, SVO, SVC, SVA, SVOO, SVOC, SVOA) and coloured blocks for each element with the example words inside: Subject blocks in blue, Verb blocks in red, Object blocks in green, Complement blocks in purple, Adverbial blocks in orange. Example rows: "The baby | cried"; "Chika | ate | the moi-moi"; "The moi-moi | was | delicious"; "My father | is | in the office"; "Mama | gave | me | some akara"; "The students | elected | Bola | prefect"; "She | put | the money | in her purse". A small colour key at the bottom: S = Subject, V = Verb, O = Object, C = Complement, A = Adverbial. Flat textbook style, white background.]
+![A table displaying seven basic English clause patterns with corresponding sentence element columns, example sentences, and a key defining each grammatical abbreviation.](images/B3b-01-sentence-clause-patterns-chart.png)
 
 ### Optional extras
 

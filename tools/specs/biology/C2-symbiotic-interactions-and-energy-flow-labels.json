@@ -18,12 +18,20 @@
     "L"
    ],
    [
+    "lichen",
+    [
+     529,
+     661
+    ],
+    "R"
+   ],
+   [
     "algal cells",
     [
      483,
      240
     ],
-    "T"
+    "L"
    ],
    [
     "fungal threads (hyphae)",
@@ -31,7 +39,15 @@
      559,
      243
     ],
-    "T"
+    "R"
+   ],
+   [
+    "termite",
+    [
+     846,
+     564
+    ],
+    "R"
    ],
    [
     "hindgut",
@@ -41,21 +57,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "lichen",
-    531,
-    1033
-   ],
-   [
-    "termite",
-    850,
-    934
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "C2-03-commensalism-examples": {
   "labels": [

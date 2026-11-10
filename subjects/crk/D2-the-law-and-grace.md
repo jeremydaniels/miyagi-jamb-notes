@@ -103,7 +103,7 @@ Paul summarized the core message of the Christian gospel in Romans 3:24:
 *   **By His grace:** Out of God's unmerited favor and love, not our own merit.
 *   **Through redemption:** A ransom was paid to buy humanity back from the slavery of sin, and that price was the blood of Christ Jesus.
 
-[IMAGE: A clean, flat textbook illustration split into two panels. Left panel titled "The Law": heavy stone tablets with Roman numerals (representing the Ten Commandments) resting on a dark, rocky ground, with a thick chain lying nearby to symbolize bondage to sin and a strict standard. Right panel titled "Grace": a glowing, empty wooden cross standing on a grassy hill illuminated by warm sunlight breaking through clouds, with a pair of broken chains on the ground symbolizing freedom. White background.]
+![Two-panel comparison of the Law and Grace showing the Ten Commandments tablets with chains beside an empty glowing cross with broken chains and angels.](images/D2-01-law-versus-grace-split.png)
 
 ### Comparing the Law and Grace
 

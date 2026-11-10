@@ -143,72 +143,6 @@
    ]
   ]
  },
- "B4b-10-germinating-seeds-heat-production": {
-  "labels": [
-   [
-    "vacuum flask (reduces heat loss)",
-    [
-     195,
-     286
-    ],
-    "L"
-   ],
-   [
-    "thermometer",
-    [
-     704,
-     312
-    ],
-    "R"
-   ],
-   [
-    "cotton wool plug",
-    [
-     291,
-     552
-    ],
-    "L"
-   ],
-   [
-    "temperature rises",
-    [
-     301,
-     337
-    ],
-    "L"
-   ],
-   [
-    "temperature unchanged",
-    [
-     704,
-     430
-    ],
-    "R"
-   ],
-   [
-    "clamp and stand",
-    [
-     189,
-     642
-    ],
-    "L"
-   ]
-  ],
-  "captions": [
-   [
-    "flask A:\ngerminating seeds\n(washed in\ndisinfectant)",
-    246,
-    983
-   ],
-   [
-    "flask B\n(control): boiled\nseeds (washed in\ndisinfectant)",
-    671,
-    983
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
  "B4b-12-yeast-anaerobic-fermentation-experiment": {
   "labels": [
    [
@@ -285,199 +219,78 @@
    ]
   ]
  },
- "B4b-13-yeast-industrial-fermentation-products": {
-  "whiten": [
-   [
-    368,
-    833,
-    449,
-    912
-   ]
-  ],
-  "labels": [
-   [
-    "yeast cells (budding)",
-    [
-     528,
-     468
-    ],
-    "R"
-   ],
-   [
-    "bread and puff-puff (carbon dioxide)",
-    [
-     266,
-     240
-    ],
-    "L"
-   ],
-   [
-    "beer and burukutu (ethanol)",
-    [
-     798,
-     266
-    ],
-    "R"
-   ],
-   [
-    "palm wine (wild yeasts)",
-    [
-     747,
-     716
-    ],
-    "R"
-   ],
-   [
-    "industrial alcohol and fuel",
-    [
-     294,
-     583
-    ],
-    "L"
-   ],
-   [
-    "vitamin B (yeast extract)",
-    [
-     409,
-     860
-    ],
-    "L"
-   ],
-   [
-    "animal feed",
-    [
-     547,
-     814
-    ],
-    "R"
-   ],
-   [
-    "harmful: thrush (Candida)",
-    [
-     133,
-     880
-    ],
-    "L"
-   ]
-  ]
- },
- "B4b-08-plant-respiration-carbon-dioxide": {
-  "caption_below": "Air in, direction of air flow to aspirator; lime water stays clear then turns milky.",
-  "labels": [
-   [
-    "potassium hydroxide solution (absorbs carbon dioxide)",
-    [
-     145,
-     654
-    ],
-    "L"
-   ],
-   [
-    "bell jar",
-    [
-     601,
-     645
-    ],
-    "R"
-   ],
-   [
-    "black cloth (prevents photosynthesis)",
-    [
-     592,
-     494
-    ],
-    "R"
-   ],
-   [
-    "potted plant",
-    [
-     517,
-     509
-    ],
-    "R"
-   ],
-   [
-    "polythene bag over pot",
-    [
-     506,
-     631
-    ],
-    "L"
-   ]
-  ]
- },
  "B4b-11-simple-respirometer-germinating-seeds": {
   "caption_below": "Index moves towards seeds (oxygen used) while index does not move.",
   "labels": [
    [
     "experiment: germinating seeds",
     [
-     404,
-     726
+     312,
+     668
     ],
     "L"
    ],
    [
     "control: glass beads",
     [
-     619,
-     726
+     657,
+     654
     ],
     "R"
    ],
    [
     "potassium hydroxide (absorbs carbon dioxide)",
     [
-     404,
-     830
+     657,
+     813
     ],
-    "L"
+    "R"
    ],
    [
     "wire gauze",
     [
-     404,
-     749
+     314,
+     708
     ],
     "L"
    ],
    [
     "rubber bung",
     [
-     404,
-     315
+     315,
+     276
     ],
     "L"
    ],
    [
     "capillary tube",
     [
-     405,
-     228
+     327,
+     150
     ],
     "L"
    ],
    [
     "scale",
     [
-     201,
-     218
+     528,
+     142
     ],
-    "L"
+    "R"
    ],
    [
     "coloured liquid index",
     [
-     267,
-     176
+     476,
+     143
     ],
     "L"
    ],
    [
     "water bath (constant temperature)",
     [
-     258,
-     636
+     475,
+     734
     ],
     "L"
    ]

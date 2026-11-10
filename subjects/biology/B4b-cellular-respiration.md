@@ -452,7 +452,7 @@ JAMB often shows a diagram of an experiment and asks what it shows, what a parti
 
 **Variation:** instead of lime water, **hydrogencarbonate indicator** can be used: it turns from **red to yellow** as CO₂ from respiration is added. Small organisms (e.g. maggots, woodlice or germinating seeds) can be placed on a gauze platform in a test tube above the indicator, with a control tube containing glass beads.
 
-![An experimental setup demonstrating carbon dioxide production in plant respiration, featuring flasks with solutions, a covered bell jar with a plant, and an aspirator connected in series.](images/B4b-08-plant-respiration-carbon-dioxide.png)
+[IMAGE: Experimental set-up to show that carbon dioxide is produced in respiration, drawn left to right: air entering a flask of potassium hydroxide solution through a tube that dips into the liquid; a delivery tube to a flask of clear lime water; a delivery tube to a bell jar on a glass plate covered with a dark cloth, containing a small potted plant (its pot wrapped in polythene); a delivery tube to a flask of milky lime water; and finally a tube to an aspirator (a large bottle with a tap releasing water). Arrows show the direction of air flow. Labels to add: "air in", "potassium hydroxide solution (absorbs carbon dioxide)", "lime water stays clear", "bell jar", "black cloth (prevents photosynthesis)", "potted plant", "polythene bag over pot", "lime water turns milky", "to aspirator (draws air through)", "direction of air flow". Clean flat textbook style, white background.]
 
 ### Experiment 2: to compare the CO₂ in inhaled and exhaled air
 
@@ -499,7 +499,7 @@ JAMB often shows a diagram of an experiment and asks what it shows, what a parti
 
 **Everyday examples:** heaps of fresh grass cuttings, compost heaps and stores of damp grain become warm (sometimes hot enough to catch fire) because of the respiration of the plant cells and of the microorganisms in them.
 
-![Two inverted vacuum flasks on stands containing germinating seeds and boiled seeds, with thermometers showing higher temperature in the germinating seed flask.](images/B4b-10-germinating-seeds-heat-production.png)
+[IMAGE: Two vacuum flasks side by side, each clamped upside down on a stand, with a thermometer passing through a cotton wool plug into the flask among seeds. Flask A contains germinating bean seeds with small shoots and roots; its thermometer reads higher (red level higher). Flask B contains shrivelled boiled seeds; its thermometer reads lower. A small note shows the starting temperatures as equal. Labels to add: "flask A: germinating seeds (washed in disinfectant)", "flask B (control): boiled seeds (washed in disinfectant)", "vacuum flask (reduces heat loss)", "thermometer", "cotton wool plug", "temperature rises", "temperature unchanged", "clamp and stand". Clean flat textbook style, white background.]
 
 ### Experiment 4: to show that oxygen is used during respiration (the simple respirometer)
 
@@ -691,7 +691,7 @@ Nigeria has a large brewing industry, with many breweries producing lager beers 
 | Harmful: spoilage | Fermentation of sugars | Spoiled fruit juice, jam, honey |
 | Harmful: disease | Growth of yeast in the body | Candidiasis (thrush) caused by *Candida albicans* |
 
-![Diagram showing products of yeast fermentation including bread, beer, palm wine, ethanol fuel, yeast extract, and animal feed surrounding central budding yeast cells, with oral thrush inset.](images/B4b-13-yeast-industrial-fermentation-products.png)
+[IMAGE: An illustrated panel of everyday products made with yeast, arranged around a central drawing of oval budding yeast cells: a loaf of bread and a bowl of puff-puff, a bottle of beer and a calabash of burukutu, a gourd of palm wine beside an oil palm tree with a tapping container, a bottle of ethanol fuel beside cassava roots and sugarcane, a jar of yeast extract with a "B" vitamin symbol, and a bag of animal feed. A small separate corner shows a mouth with white patches representing thrush, marked as harmful. Labels to add: "yeast cells (budding)", "bread and puff-puff (carbon dioxide)", "beer and burukutu (ethanol)", "palm wine (wild yeasts)", "industrial alcohol and fuel", "vitamin B (yeast extract)", "animal feed", "harmful: thrush (Candida)". Clean flat textbook style, white background.]
 
 ## Respiration, photosynthesis and breathing compared
 

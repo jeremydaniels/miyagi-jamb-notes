@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**392 images placed.** 59 placeholders are still in the notes (listed at the end).
+**406 images placed.** 45 placeholders are still in the notes (listed at the end).
 
 
 ## B1-internal-structure
@@ -152,6 +152,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## B2c-food-substances-and-food-tests
 
+![Educational chart showing seven colored circles around an empty central plate, depicting the food classes: carbohydrates, proteins, fats and oils, vitamins, minerals, water, and roughage.](B2c-01-food-classes-chart.png)
+
+*Educational chart showing seven colored circles around an empty central plate, depicting the food classes: carbohydrates, proteins, fats and oils, vitamins, minerals, water, and roughage.*
+
 ![Diagram of carbohydrates showing a monosaccharide glucose unit, a disaccharide formed via condensation and broken by hydrolysis, and polysaccharides including unbranched starch and branched glycogen.](B2c-02-carbohydrate-molecular-schematic.png)
 
 *Diagram of carbohydrates showing a monosaccharide glucose unit, a disaccharide formed via condensation and broken by hydrolysis, and polysaccharides including unbranched starch and branched glycogen.*
@@ -167,6 +171,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Six woven baskets displaying groups of Nigerian food sources including carbohydrates, proteins, fats and oils, fruits, vegetables, and a glass of water with watermelon slice.](B2c-05-food-groups-market-display.png)
 
 *Six woven baskets displaying groups of Nigerian food sources including carbohydrates, proteins, fats and oils, fruits, vegetables, and a glass of water with watermelon slice.*
+
+![Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.](B2c-06-food-energy-calorimetry-apparatus.png)
+
+*Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.*
 
 ![Comparison of two malnourished children illustrating the clinical features of kwashiorkor with edema and skin changes, alongside marasmus with severe muscle wasting and prominent ribs.](B2c-07-kwashiorkor-marasmus.png)
 
@@ -372,6 +380,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing a cross-section of a monocot stem with scattered vascular bundles in ground tissue, alongside an enlarged view of a single vascular bundle.*
 
+![Diagram showing longitudinal and transverse sections of xylem vessels and tracheids alongside phloem sieve tube elements and companion cells.](B3b-08-xylem-phloem-longitudinal-section.png)
+
+*Diagram showing longitudinal and transverse sections of xylem vessels and tracheids alongside phloem sieve tube elements and companion cells.*
+
 ![Diagram of an eosin experiment showing a seedling in red dye alongside cross-sections of the stem and root highlighting red-stained xylem tissues.](B3b-09-plant-eosin-dye-transport.png)
 
 *Diagram of an eosin experiment showing a seedling in red dye alongside cross-sections of the stem and root highlighting red-stained xylem tissues.*
@@ -426,6 +438,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Simplified side view of a bird showing its respiratory system with trachea, lungs, anterior and posterior air sacs, pneumatic wing bone, and breastbone.](B4a-07-avian-respiratory-system-air.png)
 
 *Simplified side view of a bird showing its respiratory system with trachea, lungs, anterior and posterior air sacs, pneumatic wing bone, and breastbone.*
+
+![Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.](B4a-08-leaf-epidermis-stomata-structure.png)
+
+*Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.*
 
 ![Diagram showing a woody twig with lenticels, an enlarged cross section of a lenticel with loosely packed cells, and mangrove pneumatophores emerging from mud.](B4a-09-lenticels-mangrove-pneumatophores.png)
 
@@ -494,6 +510,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *An experiment comparing yeast fermentation in a warm water bath to a boiled yeast control, showing gas production and cloudy limewater on the active side.*
 
+![Diagram showing products of yeast fermentation including bread, beer, palm wine, ethanol fuel, yeast extract, and animal feed surrounding central budding yeast cells, with oral thrush inset.](B4b-13-yeast-industrial-fermentation-products.png)
+
+*Diagram showing products of yeast fermentation including bread, beer, palm wine, ethanol fuel, yeast extract, and animal feed surrounding central budding yeast cells, with oral thrush inset.*
+
 
 ## B5-excretion
 
@@ -547,6 +567,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A two-panel illustration comparing support and movement in a flowering plant anchored by roots to a walking goat supported by its internal skeleton.](B6a-01-plant-animal-support-comparison.png)
 
 *A two-panel illustration comparing support and movement in a flowering plant anchored by roots to a walking goat supported by its internal skeleton.*
+
+![Diagram showing five plant supporting tissues side by side in transverse and longitudinal sections including parenchyma, collenchyma, sclerenchyma with fibres and sclereid, xylem vessels, and phloem with sieve tubes.](B6a-02-plant-supporting-tissues.png)
+
+*Diagram showing five plant supporting tissues side by side in transverse and longitudinal sections including parenchyma, collenchyma, sclerenchyma with fibres and sclereid, xylem vessels, and phloem with sieve tubes.*
 
 ![Cross section diagram of a young dicot root showing the outer epidermis with root hairs, broad cortex, endodermis, pericycle, central star-shaped xylem, and phloem.](B6a-03-dicot-root-transverse-section.png)
 
@@ -619,6 +643,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Lateral view of the human vertebral column showing the cervical, thoracic, lumbar, sacral, and coccygeal regions with intervertebral discs beneath the skull outline.*
 
+![Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.](B6b-06-cervical-vertebrae-comparison.png)
+
+*Anatomical illustrations of cervical vertebrae showing the atlas, axis, and a typical cervical vertebra in superior and angled views highlighting their key morphological structures.*
+
 ![Anatomical diagram of the human rib cage showing the sternum, thoracic vertebrae, costal cartilages, true, false, and floating ribs, with side view insets showing breathing mechanics.](B6b-08-human-rib-cage.png)
 
 *Anatomical diagram of the human rib cage showing the sternum, thoracic vertebrae, costal cartilages, true, false, and floating ribs, with side view insets showing breathing mechanics.*
@@ -634,6 +662,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A two-by-two grid illustrating four synovial joints alongside mechanical analogies: ball and socket hip, hinge elbow, pivot cervical vertebrae, and gliding wrist carpals.](B6b-11-types-synovial-joints.png)
 
 *A two-by-two grid illustrating four synovial joints alongside mechanical analogies: ball and socket hip, hinge elbow, pivot cervical vertebrae, and gliding wrist carpals.*
+
+![Anatomical diagrams comparing antagonistic biceps and triceps muscle action during arm flexion and extension, showing bone attachments and elbow joint fulcrums.](B6b-12-antagonistic-arm-muscles.png)
+
+*Anatomical diagrams comparing antagonistic biceps and triceps muscle action during arm flexion and extension, showing bone attachments and elbow joint fulcrums.*
 
 ![Four diagrams illustrating skeletal conditions: rickets compared to normal legs, simple versus compound bone fractures, an arthritic knee versus a healthy knee, and a splinted forearm.](B6b-13-skeletal-disorders-comparison.png)
 
@@ -1062,6 +1094,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a U-shaped maximum and minimum thermometer mounted on a board with alcohol bulbs, mercury thread, steel indices, scale bars, and a reset magnet.*
 
+![Cutaway diagram of a rain gauge in the ground with funnel and collecting bottle, alongside a graduated measuring cylinder with collected rainwater.](C1-08-rain-gauge-apparatus.png)
+
+*Cutaway diagram of a rain gauge in the ground with funnel and collecting bottle, alongside a graduated measuring cylinder with collected rainwater.*
+
 ![Diagram of a wet-and-dry bulb hygrometer with two thermometers mounted side by side, the right bulb wrapped in a wick dipping into water with evaporation lines.](C1-09-hygrometer-apparatus.png)
 
 *Diagram of a wet-and-dry bulb hygrometer with two thermometers mounted side by side, the right bulb wrapped in a wick dipping into water with evaporation lines.*
@@ -1073,6 +1109,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Three funnels with sandy, loamy, and clay soil draining water into cylinders, showing the highest water volume under sand, moderate under loam, and least under clay.](C1-12-soil-drainage-experiment-apparatus.png)
 
 *Three funnels with sandy, loamy, and clay soil draining water into cylinders, showing the highest water volume under sand, moderate under loam, and least under clay.*
+
+![An eight panel illustration showing human impacts on ecosystems including deforestation, bush burning, farming, urbanization, a dam, oil pollution, overgrazing, and hunting.](C1-13-human-impact-ecosystems.png)
+
+*An eight panel illustration showing human impacts on ecosystems including deforestation, bush burning, farming, urbanization, a dam, oil pollution, overgrazing, and hunting.*
 
 
 ## C2-symbiotic-interactions-and-energy-flow
@@ -1280,6 +1320,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![A cutaway illustration of soil showing plant roots, an earthworm, insects, a grub, and a magnified view of rod-shaped bacteria and fungal threads around a root hair.](C6-11-soil-organisms-ecosystem-block.png)
 
 *A cutaway illustration of soil showing plant roots, an earthworm, insects, a grub, and a magnified view of rod-shaped bacteria and fungal threads around a root hair.*
+
+![Three-panel illustration showing soil erosion stages: raindrops causing splash erosion, runoff forming sheet and rill erosion on a slope, and severe gully erosion near a house.](C6-12-soil-erosion-types-stages.png)
+
+*Three-panel illustration showing soil erosion stages: raindrops causing splash erosion, runoff forming sheet and rill erosion on a slope, and severe gully erosion near a house.*
 
 ![Two diagrams comparing soil conservation methods on hillsides: contour ridging with water-holding furrows on the left and stepped terraces with stone retaining walls on the right.](C6-13-contour-ridging-terracing.png)
 
@@ -1566,6 +1610,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram showing recombinant DNA technology to produce insulin from gene extraction, insertion into a plasmid, bacterial culture in a fermenter, to the final insulin vial.*
 
+![Diagram illustrating genetic modification of cowpea with Bacillus thuringiensis genes, showing gene transfer, caterpillar mortality upon feeding on a pod, and harmless effects on bees and ladybirds.](D2b-08-bt-crop-mechanism.png)
+
+*Diagram illustrating genetic modification of cowpea with Bacillus thuringiensis genes, showing gene transfer, caterpillar mortality upon feeding on a pod, and harmless effects on bees and ladybirds.*
+
 ![Diagram showing somatic gene therapy steps: harvesting stem cells, culturing, introducing a normal gene via viral vector, cell multiplication, infusion back into the patient, and healthy red blood cell production.](D2b-09-stem-cell-gene-therapy.png)
 
 *Diagram showing somatic gene therapy steps: harvesting stem cells, culturing, introducing a normal gene via viral vector, cell multiplication, infusion back into the patient, and healthy red blood cell production.*
@@ -1593,6 +1641,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Six-step diagram showing garri production: peeling cassava, washing and grating, pressing mash under stones, microbial inset of bacteria and yeasts, sieving mash, and roasting over fire.*
 
+![Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.](D3-07-bread-making-yeast-fermentation.png)
+
+*Three-panel diagram of bread making showing unrisen dough with budding yeast, risen dough with trapped bubbles and yeast releasing carbon dioxide, and a freshly baked spongy loaf.*
+
 ![Cross-section of an underground biogas digester system showing the inlet tank, underground chamber with bacterial inset, gas pipe to a stove, and outlet to a garden.](D3-08-biogas-digester-cross-section.png)
 
 *Cross-section of an underground biogas digester system showing the inlet tank, underground chamber with bacterial inset, gas pipe to a stove, and outlet to a garden.*
@@ -1611,6 +1663,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing three stages of Pasteurs swan-neck flask experiment, from boiling broth to cooling with trapped dust, and finally neck broken with microbial growth.](E1-03-pasteur-swan-neck-flask.png)
 
 *Diagram showing three stages of Pasteurs swan-neck flask experiment, from boiling broth to cooling with trapped dust, and finally neck broken with microbial growth.*
+
+![Three-panel illustration showing Lamarckian evolution of the giraffe neck from a short-necked ancestor stretching upwards, to an intermediate parent and offspring, to a modern long-necked giraffe feeding easily.](E1-04-lamarck-giraffe-neck-evolution.png)
+
+*Three-panel illustration showing Lamarckian evolution of the giraffe neck from a short-necked ancestor stretching upwards, to an intermediate parent and offspring, to a modern long-necked giraffe feeding easily.*
 
 ![Diagram showing an ancestral finch diversifying into six Darwin finch species with specialized beaks for seeds, buds, insects, grubs, and cactus flowers around the Galapagos Islands.](E1-05-darwin-finches-beak-adaptation.png)
 
@@ -1689,31 +1745,23 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `B1-internal-structure`: Front view outline of a human torso (gender-neutral) showing the positions of the main internal organs as simple soft-coloured shapes. Chest:...
 - `B2a-modes-and-types-of-nutrition`: The four-chambered stomach of a sheep (ruminant), shown as a simplified cut-open diagram with arrows tracing the path of food. Oesophagus ente...
 - `B2a-modes-and-types-of-nutrition`: A bladderwort (Utricularia) and a cut-open bladder. Left: a floating plant in a pond with fine, thread-like branched underwater leaves carryin...
-- `B2c-food-substances-and-food-tests`: Chart of the classes of food arranged as seven coloured circles around a central plate. Each circle holds a simple drawing of typical Nigerian...
-- `B2c-food-substances-and-food-tests`: Laboratory set-up for measuring the energy in food: a clamp stand holding a boiling tube containing water with a thermometer in it; below the...
 - `B2c-food-substances-and-food-tests`: A balanced diet plate divided into sections, viewed from above, with Nigerian foods: about one third vegetables and fruits (ugwu leaves, tomat...
 - `B2d-mammalian-teeth`: The four types of human teeth drawn side by side as single whole teeth (not sections), each in side view and with its crown also shown from ab...
 - `B2d-mammalian-teeth`: Side view of a dog's skull with the jaws slightly open, showing small front incisors, long curved pointed upper and lower canines, pointed pre...
 - `B2e-alimentary-canal-and-digestion`: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with the hepatic...
 - `B3a-transport-in-animals`: Longitudinal (vertical) section of the mammalian heart in front view (so the right side of the heart is on the viewer's left). Show the four c...
 - `B3a-transport-in-animals`: Outline of the human body in front view showing the lymphatic system in pale green: a network of lymph vessels throughout the arms, legs and t...
-- `B3b-transport-in-plants`: Longitudinal sections of xylem and phloem side by side. Left (xylem, red-brown tones): a xylem vessel made of several cells end to end with th...
 - `B3b-transport-in-plants`: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. Th...
 - `B4a-respiratory-organs-and-gaseous-exchange`: Top view (dorsal view) of a cockroach outline showing the tracheal system in silver-white: ten pairs of spiracles along the sides (two on the...
-- `B4a-respiratory-organs-and-gaseous-exchange`: Surface view of a piece of lower leaf epidermis showing irregular, jigsaw-shaped epidermal cells without chloroplasts and several stomata, eac...
 - `B4b-cellular-respiration`: Experimental set-up to show that carbon dioxide is produced in respiration, drawn left to right: air entering a flask of potassium hydroxide s...
 - `B4b-cellular-respiration`: Two vacuum flasks side by side, each clamped upside down on a stand, with a thermometer passing through a cotton wool plug into the flask amon...
-- `B4b-cellular-respiration`: An illustrated panel of everyday products made with yeast, arranged around a central drawing of oval budding yeast cells: a loaf of bread and...
 - `B5-excretion`: Two diagrams side by side. Left: surface view of a leaf's lower epidermis with an open stoma between two bean-shaped guard cells containing ch...
 - `B5-excretion`: Longitudinal section of a mammalian kidney. Show the fibrous capsule, the dark red granular cortex, the paler striped medulla divided into sev...
-- `B6a-support-and-movement-in-plants`: A panel of five enlarged plant supporting tissues drawn side by side, each in transverse section with a small longitudinal section below. (1)...
 - `B6a-support-and-movement-in-plants`: Day and night views of three leguminous plants, arranged in three columns (Bauhinia, flamboyant, Mimosa pudica), each with a "day" row on top...
 - `B6a-support-and-movement-in-plants`: Before and after diagram of the root-marking experiment. Left ("start"): a germinating bean seed with a straight radicle hanging downwards, ma...
 - `B6a-support-and-movement-in-plants`: A two-row diagram of classic coleoptile experiments with light coming from the right in the top row. Top row (Darwin): five coleoptiles labell...
 - `B6b-support-and-movement-in-animals`: Two side-by-side diagrams. Left: a vertical section through an insect exoskeleton showing (from outside to inside) the thin waxy epicuticle, t...
-- `B6b-support-and-movement-in-animals`: Front-and-top views of three cervical vertebrae side by side: (1) the atlas, ring-shaped with no centrum, wide wing-like transverse processes,...
 - `B6b-support-and-movement-in-animals`: A row of four vertebrae drawn from the front and from the side, for comparison: (1) a thoracic vertebra with a long backward-pointing neural s...
-- `B6b-support-and-movement-in-animals`: Two side-by-side diagrams of the human arm showing antagonistic muscles. Left ("arm bent"): the biceps on the front of the upper arm drawn sho...
 - `B7a-asexual-reproduction`: A four-panel grid of other types of asexual reproduction: (1) Rhizopus growing on bread with upright sporangiophores carrying round black spor...
 - `B7a-asexual-reproduction`: A two-column comparison diagram. Left column "Asexual reproduction": one parent plant (e.g. a yam tuber sprouting several identical shoots) wi...
 - `B7b-reproduction-in-flowering-plants`: Two diagrams side by side. Left: a single stamen showing a long thin filament topped by an anther with two lobes, one lobe cut across to show...
@@ -1727,21 +1775,15 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `B9b-sense-organs`: Horizontal (longitudinal) section through the human eyeball, viewed from above, front of the eye on the left. Show the tough white sclera form...
 - `B9c-hormonal-control`: Circular flow diagram of negative feedback control of thyroxine. At the top, a small brain outline with the hypothalamus highlighted; an arrow...
 - `B9d-homeostasis`: Flow diagram of the control of blood water content by ADH, drawn as two loops around a central normal band. Upper loop (shown in orange) for t...
-- `C1-factors-affecting-distribution`: Cut-away side view of a standard rain gauge set in the ground in an open grassy area, with rain falling. Show the outer metal cylinder with pa...
 - `C1-factors-affecting-distribution`: A wind vane and a cup anemometer standing side by side on poles on top of a building, against a white background. The wind vane has an arrowhe...
-- `C1-factors-affecting-distribution`: A single landscape scene divided into panels showing human activities that change the distribution of organisms in Nigeria: (1) a cleared fore...
 - `C2-symbiotic-interactions-and-energy-flow`: A savanna food web diagram. At the bottom, grass and grass seeds (producers). Above them, primary consumers: grasshopper, rat, antelope, grass...
 - `C2-symbiotic-interactions-and-energy-flow`: A carbon cycle diagram in a landscape setting. Centre top: a cloud labelled carbon (IV) oxide in the air. Left: green trees and grass taking C...
 - `C2-symbiotic-interactions-and-energy-flow`: A nitrogen cycle diagram. Top: a cloud labelled "nitrogen gas in the air (78%)" with a lightning bolt and rain. Left: a legume plant (cowpea)...
 - `C4-nigerian-biomes`: Outline map of Nigeria showing state boundaries, with each state lightly shaded in the colour of its main biome: dark green for mangrove and s...
 - `C6-soil`: Two-step set-up for finding air in soil. Left: a small metal tin with holes in its base, packed level-full with brown soil. Right: a large gla...
-- `C6-soil`: A three-panel illustration of soil erosion on a sloping farm. Panel 1: raindrops striking bare soil and splashing particles (splash erosion)....
 - `C7a-diseases`: Life cycle of the Anopheles mosquito arranged in a circle with arrows, with a horizontal water surface line through the lower half of the diag...
 - `C7c-pollution-and-sanitation`: A cross-section of a sanitary landfill. A large excavated pit lined with a thick clay layer and a plastic liner at the bottom. Refuse placed i...
-- `D2b-applications-of-heredity`: Diagram of how Bt crops work. Left: a rod-shaped bacterium labelled Bacillus thuringiensis with a highlighted gene segment. Arrow to a cowpea...
 - `D3-biotechnology`: Labelled cross-section of an industrial fermenter: a tall stainless steel cylinder with a motor-driven stirrer shaft and paddles inside, a wat...
-- `D3-biotechnology`: Three-panel diagram of bread making with yeast. Panel 1: a bowl of freshly kneaded dough, small and dense, with an inset circle showing oval b...
-- `E1-theories-of-evolution`: Lamarck's explanation of the giraffe's neck as three panels in a left-to-right sequence. Panel 1: a short-necked ancestral giraffe stretching...
 - `E2-evidence-of-evolution`: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; o...
 - `E2-evidence-of-evolution`: An outline of a human body (front view, neutral, gender-neutral figure in soft beige) with small highlighted circles and leader lines to five...
 - `E2-evidence-of-evolution`: Plant evolution diagram shown as a branching tree rising from water at the bottom to dry land at the top. At the base, in water, a green filam...

@@ -1,6 +1,20 @@
-# Images report: Biology leftovers and 14 subjects (updated after the redo pass)
+# Images report: Biology leftovers and 14 subjects (updated after the restore pass)
 
-**1300 of 1399 placeholders now have an image** (92%); **99 placeholders are still in the notes** (9 skipped by rule, 28 failed the checks in the main run and cleanup, and 62 were removed in the redo pass because the regenerated picture still failed the Pro check: see "Redo pass"). Spend: $57.60 main run, $5.80 cleanup, about $2.60 panel audit, $18.51 redo pass (cap $30), about $87 in total. Galleries for your phone: `subjects/<subject>/images/GALLERY-<subject>.md`.
+**1319 of 1399 placeholders now have an image** (94%); **80 placeholders are still in the notes** (9 skipped by rule, 28 failed the checks in the main run and cleanup, and 62 were removed in the redo pass because the regenerated picture still failed the Pro check: see "Redo pass"). Spend: $57.60 main run, $5.80 cleanup, about $2.60 panel audit, $18.51 redo pass (cap $30), about $87 in total. Galleries for your phone: `subjects/<subject>/images/GALLERY-<subject>.md`.
+
+## Restore pass (fifth task)
+
+Of the 62 removed images, the 40 removed for factual mistakes stayed removed (this includes the five I had accepted by eye earlier: all five were in the factual group). For the 22 multi-panel images that failed regeneration I took the version from before the panel audit and had Gemini Pro check **the drawing only** (not the labels) against its placeholder and the notes text. **19 were restored** (image, notes line and label spec; untidy labels are accepted), **3 stay placeholders** because the drawing has a factual mistake. Cost about $0.11 of the $2 cap. **Placed images now: 1319 of 1399** (80 placeholders left).
+
+Restored: `A1-01-six-days-creation-panels`, `A18-01-accounting-methods-comparison-scene`, `A5a-01-quranic-surahs-thematic-visual`, `B2c-01-food-classes-chart`, `B2c-06-food-energy-calorimetry-apparatus`, `B3b-08-xylem-phloem-longitudinal-section`, `B4-04-desert-wind-landforms`, `B4a-08-leaf-epidermis-stomata-structure`, `B4b-13-yeast-industrial-fermentation-products`, `B6a-02-plant-supporting-tissues`, `B6b-06-cervical-vertebrae-comparison`, `B6b-12-antagonistic-arm-muscles`, `C1-08-rain-gauge-apparatus`, `C1-13-human-impact-ecosystems`, `C5-01-parable-sower-panels`, `C6-12-soil-erosion-types-stages`, `D2b-08-bt-crop-mechanism`, `D3-07-bread-making-yeast-fermentation`, `E1-04-lamarck-giraffe-neck-evolution`.
+
+Kept as placeholders (drawing mistake found):
+
+| Image | Mistake |
+|---|---|
+| `B2c-10-balanced-diet-plate` | Jollof rice is incorrectly placed in a separate, unlabeled section rather than within the starchy foods section. |
+| `B5-05-stoma-lenticel-plant` | The arrows showing oxygen and water vapour leaving the stoma are missing; The arrows showing carbon (IV) oxide and water vapour leaving and oxygen entering the lenticel are missing |
+| `E2-06-analogous-insect-bird-wings` | The required 'equals' sign over the word function and 'not equals' sign over the word structure are missing between the wings. |
 
 ## Redo pass (fourth task)
 
@@ -533,7 +547,7 @@ Gemini Flash looked for clear mistakes in the drawings (469 images), reported 16
 
 | Subject | Placeholders | Placed | Left | AI pictures (planned) | Code drawings (planned) | Cost (main run) |
 |---|---|---|---|---|---|---|
-| Biology (B to E) | 451 | 392 | 59 | 333 | 118 | $14.69 |
+| Biology (B to E) | 451 | 406 | 45 | 333 | 118 | $14.69 |
 | Physics | 154 | 150 | 4 | 35 | 119 | $8.18 |
 | Chemistry | 68 | 67 | 1 | 27 | 41 | $2.95 |
 | Mathematics | 65 | 64 | 1 | 0 | 65 | $1.96 |
@@ -541,14 +555,14 @@ Gemini Flash looked for clear mistakes in the drawings (469 images), reported 16
 | Government | 62 | 61 | 1 | 11 | 50 | $2.77 |
 | Use of English | 31 | 29 | 2 | 10 | 21 | $1.93 |
 | Literature in English | 26 | 26 | 0 | 12 | 14 | $1.05 |
-| CRK | 103 | 101 | 2 | 95 | 8 | $5.45 |
-| IRK | 50 | 42 | 8 | 18 | 25 | $1.82 |
-| Accounting | 36 | 34 | 2 | 2 | 34 | $0.97 |
+| CRK | 103 | 103 | 0 | 95 | 8 | $5.45 |
+| IRK | 50 | 43 | 7 | 18 | 25 | $1.82 |
+| Accounting | 36 | 35 | 1 | 2 | 34 | $0.97 |
 | Commerce | 27 | 26 | 1 | 9 | 18 | $1.14 |
-| Geography | 67 | 64 | 3 | 25 | 42 | $4.49 |
+| Geography | 67 | 65 | 2 | 25 | 42 | $4.49 |
 | Agricultural Science | 108 | 104 | 4 | 92 | 16 | $6.21 |
 | History | 90 | 82 | 8 | 24 | 65 | $5.55 |
-| **Total** | **1399** | **1300** | **99** | | | **$63.40** |
+| **Total** | **1399** | **1319** | **80** | | | **$63.40** |
 
 (The cost column is the running spend per subject including the cleanup pass work that was logged against that subject; the total includes reclassification.)
 

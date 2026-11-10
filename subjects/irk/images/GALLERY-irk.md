@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**42 images placed.** 8 placeholders are still in the notes (listed at the end).
+**43 images placed.** 7 placeholders are still in the notes (listed at the end).
 
 **All images in this subject need teacher review** (religious scenes drawn under the rules in IMAGES-PLAN.md).
 
@@ -64,6 +64,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A5a-suwar-al-ala-to-al-alaq
+
+![A four-panel illustration showing a cave with a book, sunbeams emerging behind clouds, symbols of a fig olive mountain and Kabah, and planet Earth surrounded by stars.](A5a-01-quranic-surahs-thematic-visual.png)
+
+*A four-panel illustration showing a cave with a book, sunbeams emerging behind clouds, symbols of a fig olive mountain and Kabah, and planet Earth surrounded by stars.* - **Needs teacher review**
 
 
 ## A5b-suwar-al-qadr-to-selected-ayats
@@ -261,7 +265,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 - `A1b-preservation-of-the-glorious-quran`: A flat, textbook-style illustration showing early writing materials of the Qur'an. A wooden table with a piece of flat, bleached animal bone,...
 - `A1d-divine-authenticity-of-the-glorious-quran`: An illustration showing the evolution of the Qur'an's written preservation. On the left, primitive writing materials like a broad camel should...
 - `A4b-suwar-al-kawthar-to-an-nas`: A clean, flat textbook illustration showing the Arabic text of Surah al-Kawthar in clear Uthmani script on a white background, with standard v...
-- `A5a-suwar-al-ala-to-al-alaq`: A clean, flat textbook illustration showing a timeline or thematic map of the five suwar. Surah 96 (Cave Hira, a book and pen representing the...
 - `A6a-hadith-sciences-and-collections`: A diagram showing the structure of a Hadīth. A speech bubble is divided into two parts. The top part is labelled "Isnād (Chain)" with small ic...
 - `A6a-hadith-sciences-and-collections`: A stylised illustration showing a book with an ornate Arabic calligraphy cover titled "Al-Muwatta" resting on a wooden stand. Next to the stan...
 - `A6b-selected-ahadith-of-an-nawawi`: A classical Islamic manuscript open on a wooden stand (Rihal), showing elegant Arabic calligraphy of "Al-Arba'un an-Nawawiyyah" on the right p...

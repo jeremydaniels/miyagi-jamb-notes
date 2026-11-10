@@ -99,7 +99,7 @@ When two main clauses are joined by a **coordinating conjunction** (*and, but, o
 
 Each coordinate clause could stand alone. This is different from a subordinate clause.
 
-[IMAGE: A simple visual "clause map" diagram. Top box: the full sentence "When the rain stopped, the children who were waiting ran outside." Below it, coloured brackets: a blue bracket under "the children ... ran outside" marked as the main clause; an orange bracket under "When the rain stopped" marked as the adverbial clause of time; a green bracket under "who were waiting" marked as the adjective (relative) clause, with an arrow from it pointing up to the noun "children". Labels: "Main clause", "Adverbial clause (time)", "Adjective clause", "describes 'children'". Clean flat textbook style, white background, soft colours.]
+![Diagram mapping the clause structure of a complex sentence, showing the adverbial clause, adjective clause modifying children, and the split main clause.](images/B3a-01-sentence-clause-structure.png)
 
 ## Finite and non-finite clauses
 

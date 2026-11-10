@@ -1,0 +1,33 @@
+{
+ "B8-02-missionary-school-classroom-scene": {
+  "regions": [
+   "Missionary school"
+  ],
+  "labels": [
+   [
+    "Missionary school",
+    [
+     437,
+     312
+    ],
+    "L"
+   ],
+   [
+    "African teacher",
+    [
+     838,
+     492
+    ],
+    "R"
+   ],
+   [
+    "Pupils with slates",
+    [
+     361,
+     760
+    ],
+    "L"
+   ]
+  ]
+ }
+}

@@ -139,7 +139,7 @@ The missionaries did much more than just preach the gospel; they transformed the
 4. **Promotion of Legitimate Trade ("The Bible and the Plough"):** Missionaries actively encouraged farming and introduced new cash crops (like cotton and cocoa) to ensure the people had a profitable alternative to the slave trade.
 5. **Social Reforms:** Missionaries campaigned aggressively against traditional practices they viewed as evil. The most famous example is **Mary Slessor**, a Scottish Presbyterian missionary who worked in Calabar and successfully campaigned to stop the traditional practice of killing twins.
 
-[IMAGE: A 19th-century missionary scene in southern Nigeria. A wooden building serves as an early school and church. A European missionary and an African teacher (like Samuel Ajayi Crowther) are standing in front of a blackboard teaching a group of seated African children holding slates. Labels to add later: "Missionary school", "African teacher", "Pupils with slates". Clean flat textbook illustration, white background.]
+![An illustration of a nineteenth-century missionary and African teacher standing beside a blackboard, instructing seated pupils holding slates outside a wooden school building.](images/B8-02-missionary-school-classroom-scene.png)
 
 ## The activities of the trading companies
 

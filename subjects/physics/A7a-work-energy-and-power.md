@@ -91,7 +91,7 @@ As a pendulum swings back and forth:
 - At the **lowest point** (the centre), it moves fastest. Here, height is minimum (usually taken as zero), so $PE = 0$. The energy is entirely **Kinetic Energy**.
 - In between, the energy is a mixture of $PE$ and $KE$, but their sum is always constant.
 
-[IMAGE: A simple pendulum diagram showing three positions. Left extreme, center (lowest point), and right extreme. Labels indicate "Max PE, KE = 0" at the extremes and "Max KE, PE = 0" at the center. Clean flat textbook illustration, white background.]
+![Diagram illustrating conservation of energy in a simple pendulum, showing maximum potential energy at the extremes and maximum kinetic energy at the center lowest point.](images/A7a-01-pendulum-energy-conservation.png)
 
 ## Examining Transformations Between Forms of Energy
 
@@ -122,7 +122,7 @@ To find the work done when the force is not constant, we plot a graph of **Force
 2. **Uniformly Varying Force:** If you stretch a spring from $0\ \text{m}$ to $5\ \text{m}$ and the force increases steadily from $0\ \text{N}$ to $10\ \text{N}$, the graph is a diagonal straight line starting from the origin. The shape under the line is a **triangle**.
    $$Work\ Done = Area\ of\ triangle = \frac{1}{2} \times \text{base} \times \text{height} = \frac{1}{2} \times s \times F$$
 
-[IMAGE: Two Force-Distance graphs side-by-side. On the left: A graph showing a horizontal line at Force F, with a shaded rectangle below it extending to distance s on the x-axis. On the right: A graph showing a diagonal line starting from the origin (0,0) going up to Force F at distance s, with a shaded right-angled triangle below it. Clean flat textbook illustration, white background.]
+![Two force-distance graphs showing work done as shaded area: a constant force rectangle with work F times s, and a linearly varying force triangle with work half F s.](images/A7a-02-force-distance-work-done.png)
 
 ## Solving Numerical Problems in Work, Energy and Power
 

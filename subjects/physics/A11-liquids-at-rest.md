@@ -110,7 +110,7 @@ $$\text{Apparent Weight} = \text{Real Weight in air} - \text{Upthrust}$$
 Therefore, we can easily calculate upthrust if we know the object's weight in air and its weight in the liquid:
 $$U = W_{\text{air}} - W_{\text{liquid}}$$
 
-[IMAGE: Two scenarios of a metallic sphere hanging from a spring balance. On the left, it hangs in air showing a reading of 50 N. On the right, it is fully submerged in a beaker of liquid, showing a reading of 30 N. An upward arrow labeled "Upthrust (U) = 20 N" and a downward arrow labeled "Real Weight (W) = 50 N" are drawn on the submerged sphere. Clean flat textbook illustration, white background.]
+![Diagram comparing a metallic sphere hanging from a spring balance in air reading 50 N versus submerged in liquid reading 30 N with weight and upthrust force vectors.](images/A11-02-archimedes-principle-upthrust-experiment.png)
 
 ## Determine the upthrust on a body immersed in a liquid
 
@@ -172,7 +172,7 @@ $$\text{Fraction submerged} = \frac{V_{\text{submerged}}}{V_{\text{total}}} = \f
 3. **Submarines:** Submarines can float or sink by deliberately altering their average density. They do this by pumping seawater into their **ballast tanks** to increase their weight and sink, or blowing the water out with compressed air to decrease their weight and float back to the surface.
 4. **Hot-air and Helium Balloons:** Archimedes' principle applies to gases just as it does to liquids. A balloon floats in the sky because it is filled with a gas (like helium or heated air) that is less dense than the surrounding cold air. The balloon displaces a weight of air greater than its own total weight, resulting in a net upward force.
 
-[IMAGE: A glass hydrometer floating vertically in a tall measuring cylinder filled with liquid. The hydrometer has a wide lower bulb filled with dark lead shot, a wider float section above it, and a long narrow stem with scale markings. The liquid surface aligns with one of the scale marks. Labels: "Narrow stem with scale", "Float", "Weighted bulb (lead shot) for stability", "Liquid level". Clean flat textbook illustration, white background.]
+![A glass hydrometer floating in a liquid-filled cylinder, showing the bottom lead-shot bulb, wider float body, stem with scale markings, and the liquid surface level.](images/A11-03-hydrometer-cylinder.png)
 
 ## Apply Archimedes’ principle and law of floatation to solve problems
 

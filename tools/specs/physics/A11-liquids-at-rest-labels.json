@@ -1,0 +1,38 @@
+{
+ "A11-03-hydrometer-cylinder": {
+  "labels": [
+   [
+    "Narrow stem with scale",
+    [
+     509,
+     278
+    ],
+    "L"
+   ],
+   [
+    "Float",
+    [
+     507,
+     572
+    ],
+    "L"
+   ],
+   [
+    "Weighted bulb (lead shot) for stability",
+    [
+     510,
+     764
+    ],
+    "L"
+   ],
+   [
+    "Liquid level",
+    [
+     445,
+     390
+    ],
+    "L"
+   ]
+  ]
+ }
+}

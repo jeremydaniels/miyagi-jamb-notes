@@ -1,0 +1,14 @@
+[
+ [
+  "A2a-01-vector-parallelogram",
+  "A parallelogram diagram showing two vectors F1 and F2 starting from a common origin point O, separated by an angle theta. The diagonal from O is labelled R for resultant. Dashed lines complete the parallelogram to show F1 and F2 on the opposite sides. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A2a-02-vector-resolution-triangle",
+  "A right-angled triangle showing a vector F as the hypotenuse acting at an angle theta to the horizontal base. The horizontal base is labelled Fx = F cos(theta), and the vertical opposite side is labelled Fy = F sin(theta). Clean flat textbook illustration, white background."
+ ],
+ [
+  "A2a-03-vector-addition-polygon",
+  "On the left, a tip-to-tail triangle showing Vector A, then Vector B starting from A's tip. The resultant R connects the start of A to the tip of B. On the right, a polygon showing four vectors A, B, C, D placed head-to-tail, with a resultant R closing the gap from the start of A to the tip of D. Clean flat textbook illustration, white background."
+ ]
+]

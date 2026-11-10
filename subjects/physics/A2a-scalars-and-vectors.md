@@ -125,7 +125,7 @@ If two **equal** vectors of magnitude $F$ act at an angle of $120^\circ$ to each
 *Proof:* $R = \sqrt{F^2 + F^2 + 2(F)(F)\cos 120^\circ}$. Since $\cos 120^\circ = -0.5$, $R = \sqrt{2F^2 - F^2} = \sqrt{F^2} = F$.
 Memorise this trick, as JAMB loves testing it to save you time!
 
-[IMAGE: A parallelogram diagram showing two vectors F1 and F2 starting from a common origin point O, separated by an angle theta. The diagonal from O is labelled R for resultant. Dashed lines complete the parallelogram to show F1 and F2 on the opposite sides. Clean flat textbook illustration, white background.]
+![Parallelogram law of vector addition diagram showing vectors F1 and F2 from origin O at angle theta, with diagonal resultant vector R and dashed opposing sides.](images/A2a-01-vector-parallelogram.png)
 
 ---
 
@@ -142,7 +142,7 @@ If a force $F$ acts at an angle $\theta$ to the **horizontal axis**, we can reso
 
 *Note:* If the angle given is to the vertical, the sine and cosine swap places. Always sketch a triangle to be sure.
 
-[IMAGE: A right-angled triangle showing a vector F as the hypotenuse acting at an angle theta to the horizontal base. The horizontal base is labelled Fx = F cos(theta), and the vertical opposite side is labelled Fy = F sin(theta). Clean flat textbook illustration, white background.]
+![A right triangle showing vector F as the hypotenuse at angle theta with horizontal component Fx equals F cos theta and vertical component Fy equals F sin theta.](images/A2a-02-vector-resolution-triangle.png)
 
 **Worked Example 3:**
 A man drags a heavy box along the ground using a rope. The rope makes an angle of $30^\circ$ with the horizontal and the tension in the rope is $100\ \text{N}$. Calculate the effective force pulling the box horizontally. (Take $\cos 30^\circ = 0.866$).
@@ -177,7 +177,7 @@ If three vectors acting at a point can be represented in magnitude and direction
 If more than two vectors act on a body, you can continue the head-to-tail drawing process.
 Draw the first vector, attach the second to its tip, attach the third to the tip of the second, and so on. The resultant is the single vector drawn from the starting point of the first vector straight to the tip of the final vector. If the polygon closes completely, the resultant is zero and the object is in equilibrium.
 
-[IMAGE: On the left, a tip-to-tail triangle showing Vector A, then Vector B starting from A's tip. The resultant R connects the start of A to the tip of B. On the right, a polygon showing four vectors A, B, C, D placed head-to-tail, with a resultant R closing the gap from the start of A to the tip of D. Clean flat textbook illustration, white background.]
+![Textbook diagram showing the triangle method on the left and polygon head-to-tail method on the right for vector addition, with resultants R closing each vector chain.](images/A2a-03-vector-addition-polygon.png)
 
 ---
 

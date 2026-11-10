@@ -544,7 +544,7 @@ If you know the features of each biome, you can work out the **climate, vegetati
 
 ### Worked examples: identifying a region from its features
 
-[IMAGE: A simple vertical bar chart comparing the approximate annual rainfall of six Nigerian towns from south to north, with no numbers on the bars. Bars from left to right get shorter: Calabar (tallest, dark blue), Benin City, Makurdi, Kaduna, Kano, Maiduguri (shortest, pale blue). Under each bar, a small icon of its typical vegetation: mangrove or rainforest tree, rainforest tree, tall grass with trees, shorter grass with trees, baobab and Acacia, sparse thorny shrub. A horizontal arrow under the chart pointing right. Labels: "Calabar", "Benin City", "Makurdi", "Kaduna", "Kano", "Maiduguri", "annual rainfall (approximate)", "south", "north", "rainfall decreases northwards". Soft blues and greens. Clean flat textbook style, white background.]
+![A bar chart showing decreasing annual rainfall in six Nigerian towns from Calabar in the south to Maiduguri in the north, paired with typical regional vegetation icons.](images/C4-09-comparative-rainfall-bar-chart.png)
 
 **Example 1.** A region has an annual rainfall of about 2,000 mm, a dry season of only two to three months, high humidity throughout the year, and tall trees with buttress roots and lianas. Farmers grow cocoa and oil palm. **Which biome is this, and where in Nigeria might it be?**
 

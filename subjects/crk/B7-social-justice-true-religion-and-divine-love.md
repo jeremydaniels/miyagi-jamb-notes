@@ -65,7 +65,7 @@ James gives the ultimate New Testament definition of true religion:
 
 *Application:* In modern Nigeria, this means that going to church, praying loudly and giving offerings are not enough if a person is corrupt at work, oppresses their subordinates, or fails to help the needy.
 
-[IMAGE: A split-panel illustration. On the left side (Amos' time), wealthy merchants in luxurious robes are shown using a rigged weighing scale to cheat a poor, barefoot farmer out of his grain. On the right side (James' teaching), a modern Christian believer is shown kindly handing bags of groceries and supplies to a widow and her young children in a humble home. Labels to add later: "False Religion: Injustice and Cheating", "True Religion: Caring for the Vulnerable". Clean flat textbook style, white background.]
+![A split panel showing wealthy merchants in ancient times cheating a poor farmer with rigged scales alongside a modern man donating groceries to a widow and her children.](images/B7-01-false-versus-true-religion.png)
 
 ### Conflict at Bethel: Amos and Amaziah
 
@@ -136,7 +136,7 @@ In Hosea 2, God explained how He would deal with Israel. He would strip her nake
 To illustrate this, God gave Hosea an incredibly difficult command in Hosea 3: *"Go yet, love a woman beloved of her friend, yet an adulteress..."* 
 Hosea went to the slave market and **bought Gomer back** for **fifteen shekels of silver, and a homer and a lethech of barley**. This powerful act of buying back a completely unfaithful spouse portrays God's enduring, redemptive love. Despite Israel's terrible sins, God was willing to pay the price to bring them back.
 
-[IMAGE: A marketplace scene in ancient Israel. Hosea, looking compassionate and resolute, is handing a pouch of silver coins and pointing to a large basket of barley held by a merchant. In front of them stands Gomer, looking down in shame and poverty. The scene captures the moment of Hosea buying back his unfaithful wife, a symbol of God's redemptive love. Clean flat textbook style, white background.]
+![Hosea redeems Gomer with silver and barley from a merchant, while a heavenly vision of Jesus and angels appears above.](images/B7-02-biblical-marketplace-hosea-scene.png)
 
 #### 3. The call to repentance and human response (Hosea 6 and 14)
 **The superficial response (Hosea 6:1-11):** 

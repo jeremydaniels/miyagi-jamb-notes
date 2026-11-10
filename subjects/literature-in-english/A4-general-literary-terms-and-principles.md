@@ -104,7 +104,7 @@ If the word used is physically attached to or a bodily part of the thing it repr
 
 Although drama, prose, and poetry have their own unique characteristics (e.g., drama has stage directions, prose has paragraphs, poetry has stanzas), they frequently borrow techniques from one another. This sharing of characteristics is called an **overlap**.
 
-[IMAGE: A Venn diagram with three large intersecting circles labelled "Drama", "Prose", and "Poetry". In the "Drama" circle: Stage directions, Acts/Scenes. In the "Prose" circle: Chapters, Paragraphs. In the "Poetry" circle: Stanzas, Rhyme schemes. In the intersection of Drama and Poetry: "Verse (Poetic Drama)". In the intersection of Prose and Poetry: "Prose Poetry". In the intersection of Drama and Prose: "Extensive Characterisation". In the exact centre where all three overlap: "Narration, Dialogue, Figures of Speech, Theme, Setting". Clean flat textbook illustration, white background.]
+![A three-set Venn diagram comparing Poetry, Drama, and Prose, displaying distinct characteristics and shared literary features across their intersecting regions.](images/A4-01-three-set-literary-genres.png)
 
 ### 1. Verse in Drama and Poetry
 Usually, poetry is written in verse (lines arranged with a specific rhythm or metre) while drama is written in prose (ordinary conversational language). However, there is a massive overlap known as **poetic drama** or **verse drama**.

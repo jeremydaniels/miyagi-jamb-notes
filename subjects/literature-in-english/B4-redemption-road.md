@@ -76,7 +76,7 @@ A man from Bendu's wartime past whom she pursues. Some study guides give his rea
 ### Other named characters
 Study guides name **Siatta**, **Calvin Daniels**, **Terrance Clarke** and **Agnes** among the characters. **[TO BE COMPLETED: the relationship of each to Bendu and their role in the plot (for example, whether Siatta is Bendu's sister and Calvin her brother, as one summary suggests)]**
 
-[IMAGE: Character relationship map for Redemption Road. A central solid circle labelled "Bendu Lewis (protagonist)". An arrow pointing to a dark circle labelled "Commander Cobra (antagonist)". Several empty dashed circles branching from Bendu for characters still to be confirmed. Clean flat textbook style, white background.]
+![A character relationship map for Redemption Road showing protagonist Bendu Lewis connected to antagonist Commander Cobra, with several dashed circles for unconfirmed characters.](images/B4-02-character-relationship-node-chart.png)
 
 ## Narrative Techniques and Language
 

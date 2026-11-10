@@ -92,7 +92,7 @@ In good conditions, a *Paramecium* can divide by binary fission one to several t
 
 **Note:** *Paramecium* also has a sexual-type process called **conjugation**, in which two individuals join temporarily and exchange micronuclear material. This produces variation. Conjugation is not reproduction in the strict sense, because it does not increase the number of individuals by itself; it is usually followed by fission.
 
-[IMAGE: Step-by-step diagram of transverse binary fission in Paramecium in five stages from left to right: (1) a full-grown slipper-shaped Paramecium with cilia, an oral groove, a large bean-shaped macronucleus, a small round micronucleus beside it and two star-shaped contractile vacuoles; (2) the micronucleus dividing into two and the macronucleus elongating; (3) a constriction forming across the middle of the cell, with each half receiving a micronucleus and half of the macronucleus; (4) the constriction deepening; (5) two small daughter Paramecia separating. Labels: cilia, oral groove, macronucleus, micronucleus, contractile vacuole, micronucleus divides by mitosis, macronucleus elongates, constriction, daughter Paramecia. Soft pale blue cytoplasm. Clean flat textbook style, white background.]
+![Five sequential stages showing transverse binary fission in Paramecium, illustrating nuclear division, cell constriction, and formation of two daughter cells.](images/B7a-01-paramecium-binary-fission-stages.png)
 
 #### Binary fission in *Amoeba*
 
@@ -149,7 +149,7 @@ In a warm sugar solution, yeast multiplies quickly by budding. You can see buds 
 
 **Note:** yeast can also reproduce **sexually**, by forming spores (ascospores) after meiosis, especially when conditions are poor. Budding is its usual method in good conditions.
 
-[IMAGE: Step-by-step diagram of budding in yeast in four stages from left to right: (1) a single oval yeast cell with cell wall, cytoplasm, nucleus and vacuole; (2) a small bud bulging from one side with the nucleus dividing; (3) one daughter nucleus moving into the growing bud; (4) a short branched chain of yeast cells with buds of different sizes still attached. Add a fifth small drawing of a separated daughter cell and a bud scar on the parent. Labels: cell wall, cytoplasm, nucleus, vacuole, bud, nucleus divides, daughter nucleus enters bud, chain of cells, bud scar, daughter cell. Clean flat textbook style, white background.]
+![A step-by-step diagram showing budding in yeast, from a single cell through bud formation, nuclear division, cell chaining, to separation with a bud scar.](images/B7a-02-yeast-budding-stages.png)
 
 ### Budding in *Hydra*
 
@@ -212,7 +212,7 @@ The body of the organism **breaks into two or more pieces** (fragments), and eac
 
 **Textbook variation:** some textbooks treat parthenogenesis as a form of asexual reproduction (only one parent; no fertilisation); others treat it as a modified form of **sexual** reproduction, because it involves an egg, a sex cell produced in a reproductive organ. Know both views.
 
-[IMAGE: A four-panel grid of other types of asexual reproduction: (1) Rhizopus growing on bread with upright sporangiophores carrying round black sporangia, one bursting and releasing tiny spores; (2) a green Spirogyra filament with spiral chloroplasts breaking into three fragments, each growing; (3) a Planaria cut into three pieces, each regrowing into a complete flatworm with eyespots; (4) a honey bee queen laying an unfertilised egg that develops into a drone. Labels: sporangium, spores, sporangiophore, hyphae, Spirogyra filament, fragment, Planaria pieces, regeneration, unfertilised egg, drone (parthenogenesis). Clean flat textbook style, white background.]
+![A four-panel diagram illustrating asexual reproduction modes: spore formation in Rhizopus on bread, fragmentation in Spirogyra, regeneration in Planaria, and parthenogenesis in honeybees.](images/B7a-03-asexual-reproduction-types-grid.png)
 
 ## Asexual and sexual reproduction compared
 
@@ -282,7 +282,7 @@ The body of the organism **breaks into two or more pieces** (fragments), and eac
 3. Good combinations of characteristics in the parents may be **broken up** in the offspring.
 4. In plants, it depends on **agents of pollination** (wind, insects, birds) and suitable conditions.
 
-[IMAGE: A two-column comparison diagram. Left column "Asexual reproduction": one parent plant (e.g. a yam tuber sprouting several identical shoots) with arrows to three identical offspring all in the same green colour, labelled "mitosis" and "clones". Right column "Sexual reproduction": a male and a female parent (e.g. two different-coloured flowers or two goats), each producing a gamete (sperm and egg) that fuse to form a zygote, with arrows to three offspring each in slightly different colours, labelled "meiosis", "fertilisation" and "variation". Labels: one parent, no gametes, mitosis, identical offspring (clone), two parents, male gamete, female gamete, fertilisation, zygote, offspring show variation. Clean flat textbook style, white background.]
+![A diagram comparing asexual reproduction from a tuber producing three identical plants with sexual reproduction showing two flowers producing gametes that fuse to form varied offspring](images/B7a-04-asexual-vs-sexual-reproduction.png)
 
 ## Vegetative propagation
 
@@ -388,7 +388,7 @@ Many of the organs used in natural vegetative propagation are also **perennating
 
 **Textbook variation (yam):** most Nigerian textbooks list yam as a **stem tuber**. However, botanists do not fully agree on the nature of the yam tuber: it does not have obvious nodes and eyes like the Irish potato, and some describe it as developing from the hypocotyl (the region between the stem and the root), or as a tuberous organ that is neither a typical stem nor a typical root. For JAMB, the usual answer is **stem tuber**.
 
-[IMAGE: A panel of four underground storage organs used in natural vegetative propagation. (1) Onion bulb cut lengthwise showing the flat disc stem at the base, fleshy scale leaves, dry papery outer scale leaves, terminal bud in the centre, an axillary bud, and adventitious roots. (2) Cocoyam corm with ring-like nodes, scale leaves, terminal bud at the top with leaf bases, small cormels around it, and adventitious roots. (3) Ginger rhizome growing horizontally with nodes, internodes, scale leaves, axillary buds, a terminal bud turning up into an aerial shoot, and adventitious roots. (4) Irish potato tuber showing spirally arranged eyes, each with a scale-leaf scar and buds, a terminal bud cluster, the stolon scar, and one eye sprouting a shoot. Labels: bulb (onion), disc stem, fleshy scale leaf, dry scale leaf, terminal bud, axillary bud, adventitious roots, corm (cocoyam), node, cormel, rhizome (ginger), internode, aerial shoot, stem tuber (Irish potato), eye, scale leaf scar, stolon scar, sprouting shoot. Clean flat textbook style, white background.]
+![Diagram showing four underground vegetative storage organs: a sectioned onion bulb, a cocoyam corm with cormels, a ginger rhizome with shoots, and a sprouting potato tuber.](images/B7a-05-underground-vegetative-organs.png)
 
 ### 5. Root tubers
 
@@ -463,7 +463,7 @@ Many of the organs used in natural vegetative propagation are also **perennating
 4. The plantlets take food and water from the leaf at first, then root in the soil and grow into **new independent plants**.
 5. One leaf can produce many new plants.
 
-[IMAGE: A panel of four natural vegetative propagation methods above ground. (1) A plantain plant with its pseudostem and leaves, cut away at the base to show the underground corm (rhizome) with two suckers emerging nearby: one sword sucker with narrow leaves and one water sucker with broad leaves. (2) A pineapple plant with a fruit showing the crown on top, slips below the fruit and a sucker at the base. (3) A strawberry or Bermuda grass plant with a horizontal runner on the soil surface, roots and a new plantlet at each node. (4) A thick, notched Bryophyllum leaf lying on moist soil with several small plantlets with tiny roots growing from the notches along its margin. Labels: pseudostem, underground stem (corm), sword sucker, water sucker, crown, slip, sucker, parent plant, runner, node, adventitious roots, new plant, Bryophyllum leaf, notch, plantlet. Clean flat textbook style, white background.]
+![Illustration of four vegetative propagation methods: plantain with corm and suckers, pineapple with crown and slips, strawberry runner with plantlets, and Bryophyllum leaf developing edge plantlets.](images/B7a-06-aboveground-vegetative-propagation.png)
 
 ### Summary of natural vegetative propagation organs
 
@@ -574,7 +574,7 @@ Sugar cane is grown from **stem cuttings (setts)**, each with **two or three nod
 
 Gardeners often dip the cut end of a cutting in a **rooting powder** containing a synthetic **auxin**, which makes roots form faster and more reliably (see `B6a-support-and-movement-in-plants.md`). Cuttings also root better when kept in moist, shady conditions and when some leaves are removed to reduce water loss.
 
-[IMAGE: Three panels showing cuttings. (1) A cassava stem being cut with a cutlass into 20–25 cm pieces with several nodes each, and the pieces planted slanting in a ridge with buds pointing upward and two-thirds buried; one older cutting showing adventitious roots, new shoots and swelling root tubers. (2) A sugar cane sett with two nodes laid horizontally in a furrow, with shoots from the buds and roots from the nodes. (3) A hibiscus stem cutting with lower leaves removed, its base dipped in rooting powder and planted in a pot of moist soil, with new roots forming. Labels: cassava stem, node (bud), cutting 20–25 cm, planted slanting, adventitious roots, new shoot, root tuber, sugar cane sett, bud, furrow, hibiscus cutting, rooting powder, new roots. Clean flat textbook style, white background.]
+![Three-panel diagram demonstrating vegetative propagation by cuttings in cassava, sugar cane sett laid horizontally in a furrow, and a hibiscus cutting treated with rooting powder.](images/B7a-07-plant-stem-cuttings.png)
 
 ## Applying grafting, budding and layering in agricultural practice
 
@@ -618,7 +618,7 @@ Gardeners often dip the cut end of a cutting in a **rooting powder** containing 
 
 **Crops commonly propagated by grafting:** **citrus** (oranges, tangerines, grapefruit, lemon), **mango**, **cashew**, **avocado (pear)**, **guava**, **sweetsop/soursop** and **cocoa** (in improved nurseries).
 
-[IMAGE: Step-by-step diagram of cleft grafting in four stages: (1) a young rootstock seedling cut across with a vertical cleft split in the middle of the stump; (2) a scion shoot with buds and a wedge-shaped base; (3) the scion inserted into the cleft with the cambium layers lining up (green line highlighted on both); (4) the union tied firmly with tape and the scion covered by a small transparent polythene bag, with new leaves growing from the scion buds. Add a small inset of approach grafting with a potted rootstock bound to a branch of the parent tree. Labels: rootstock (stock), cleft, scion, bud, wedge-shaped base, cambium layers in contact, grafting tape, polythene bag, new shoot from scion, approach grafting, parent tree branch, potted stock. Clean flat textbook style, white background.]
+![Four stages of cleft grafting showing rootstock split, wedge scion, joined cambium layers, and taped union with a polythene cover, alongside an inset of approach grafting.](images/B7a-08-cleft-grafting-stages.png)
 
 ### Budding (bud grafting)
 
@@ -645,7 +645,7 @@ Gardeners often dip the cut end of a cutting in a **rooting powder** containing 
 
 **Advantages of budding over grafting:** it uses **only one bud** for each new plant, so a small amount of bud wood from a valuable tree can produce **many** new plants; it is quick and needs less material; the union is often stronger.
 
-[IMAGE: Step-by-step diagram of T-budding in five stages: (1) a rootstock stem with a T-shaped cut in its bark; (2) the bark flaps lifted; (3) a shield-shaped piece of bark with a single bud being sliced from a bud stick of the parent plant, with the leaf cut off leaving a short stalk; (4) the bud shield slid under the bark flaps with the bud pointing up; (5) the union tied with budding tape leaving the bud exposed, and a later stage with the stock cut back above the bud and a new shoot growing from it. Add a small inset of patch budding on a rubber seedling. Labels: rootstock, T-shaped cut, bark flaps, bud stick, bud, shield of bark, leaf stalk, bud inserted, budding tape, stock cut back above bud, new shoot, patch budding (rubber). Clean flat textbook style, white background.]
+![A step-by-step diagram showing the stages of T-budding grafting, accompanied by an inset illustrating patch budding on a seedling.](images/B7a-09-t-budding-propagation.png)
 
 ### Advantages and uses of grafting and budding
 
@@ -706,7 +706,7 @@ Used for plants with long, flexible, low branches.
 
 **Textbook variation:** "layering" in some textbooks means only ground layering, and "marcotting" is treated as a separate method; others treat marcotting (air layering) as one type of layering. The success of marcotting differs greatly between species: guava, citrus and many ornamentals root easily, while mango is harder, so grafting is the usual method for mango.
 
-[IMAGE: Two side-by-side diagrams of layering. Left: simple (ground) layering of a hibiscus or Ixora shrub, with a long low branch bent down, a small wound on its underside buried in moist soil and held down with a forked peg, the tip of the branch tied upright to a small stake, and new roots forming at the buried wound; a dotted line shows where the branch will be cut from the parent. Right: air layering (marcotting) on a guava or citrus branch, in three small stages: (a) a ring of bark removed from the branch exposing the white wood; (b) the ring wrapped in a ball of moist coconut fibre and soil covered with clear polythene tied at both ends; (c) roots visible inside the polythene and a dotted cutting line just below the ball. Labels: parent plant, branch bent to soil, wound, peg, soil, new roots, stake, cut here, ring of bark removed, exposed wood, moist rooting medium, polythene wrap, tie, roots in medium, marcotting (air layering), simple layering. Clean flat textbook style, white background.]
+![Diagram illustrating simple ground layering of a flowering shrub on the left and three stages of air layering on a fruiting branch on the right.](images/B7a-10-layering-propagation-methods.png)
 
 ### Advantages and disadvantages of layering
 

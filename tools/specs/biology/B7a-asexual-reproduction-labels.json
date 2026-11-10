@@ -1,0 +1,1042 @@
+{
+ "B7a-01-paramecium-binary-fission-stages": {
+  "labels": [
+   [
+    "cilia",
+    [
+     46,
+     437
+    ],
+    "L"
+   ],
+   [
+    "oral groove",
+    [
+     161,
+     521
+    ],
+    "L"
+   ],
+   [
+    "macronucleus",
+    [
+     94,
+     514
+    ],
+    "L"
+   ],
+   [
+    "micronucleus",
+    [
+     119,
+     493
+    ],
+    "L"
+   ],
+   [
+    "contractile vacuole",
+    [
+     120,
+     347
+    ],
+    "L"
+   ],
+   [
+    "micronucleus divides by mitosis",
+    [
+     322,
+     501
+    ],
+    "L"
+   ],
+   [
+    "macronucleus elongates",
+    [
+     292,
+     491
+    ],
+    "L"
+   ],
+   [
+    "constriction",
+    [
+     702,
+     507
+    ],
+    "R"
+   ],
+   [
+    "daughter Paramecia",
+    [
+     913,
+     507
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-02-yeast-budding-stages": {
+  "labels": [
+   [
+    "cell wall",
+    [
+     123,
+     625
+    ],
+    "L"
+   ],
+   [
+    "cytoplasm",
+    [
+     88,
+     559
+    ],
+    "L"
+   ],
+   [
+    "nucleus",
+    [
+     120,
+     508
+    ],
+    "L"
+   ],
+   [
+    "vacuole",
+    [
+     150,
+     571
+    ],
+    "L"
+   ],
+   [
+    "bud",
+    [
+     365,
+     445
+    ],
+    "L"
+   ],
+   [
+    "nucleus divides",
+    [
+     305,
+     528
+    ],
+    "L"
+   ],
+   [
+    "daughter nucleus enters bud",
+    [
+     553,
+     428
+    ],
+    "R"
+   ],
+   [
+    "chain of cells",
+    [
+     726,
+     493
+    ],
+    "R"
+   ],
+   [
+    "bud scar",
+    [
+     904,
+     506
+    ],
+    "R"
+   ],
+   [
+    "daughter cell",
+    [
+     928,
+     414
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-03-asexual-reproduction-types-grid": {
+  "labels": [
+   [
+    "sporangium",
+    [
+     309,
+     101
+    ],
+    "L"
+   ],
+   [
+    "spores",
+    [
+     437,
+     150
+    ],
+    "L"
+   ],
+   [
+    "sporangiophore",
+    [
+     326,
+     247
+    ],
+    "L"
+   ],
+   [
+    "hyphae",
+    [
+     176,
+     329
+    ],
+    "L"
+   ],
+   [
+    "Spirogyra filament",
+    [
+     693,
+     214
+    ],
+    "R"
+   ],
+   [
+    "fragment",
+    [
+     775,
+     263
+    ],
+    "R"
+   ],
+   [
+    "Planaria pieces",
+    [
+     251,
+     685
+    ],
+    "L"
+   ],
+   [
+    "regeneration",
+    [
+     347,
+     880
+    ],
+    "L"
+   ],
+   [
+    "unfertilised egg",
+    [
+     794,
+     709
+    ],
+    "R"
+   ],
+   [
+    "drone (parthenogenesis)",
+    [
+     928,
+     877
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-04-asexual-vs-sexual-reproduction": {
+  "labels": [
+   [
+    "one parent",
+    [
+     247,
+     292
+    ],
+    "L"
+   ],
+   [
+    "no gametes",
+    [
+     241,
+     493
+    ],
+    "L"
+   ],
+   [
+    "mitosis",
+    [
+     258,
+     640
+    ],
+    "L"
+   ],
+   [
+    "identical offspring (clone)",
+    [
+     263,
+     828
+    ],
+    "L"
+   ],
+   [
+    "two parents",
+    [
+     768,
+     251
+    ],
+    "R"
+   ],
+   [
+    "male gamete",
+    [
+     693,
+     479
+    ],
+    "R"
+   ],
+   [
+    "female gamete",
+    [
+     848,
+     496
+    ],
+    "R"
+   ],
+   [
+    "fertilisation",
+    [
+     762,
+     569
+    ],
+    "R"
+   ],
+   [
+    "zygote",
+    [
+     768,
+     642
+    ],
+    "R"
+   ],
+   [
+    "offspring show variation",
+    [
+     770,
+     830
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-05-underground-vegetative-organs": {
+  "labels": [
+   [
+    "bulb (onion)",
+    [
+     199,
+     307
+    ],
+    "L"
+   ],
+   [
+    "disc stem",
+    [
+     275,
+     428
+    ],
+    "L"
+   ],
+   [
+    "fleshy scale leaf",
+    [
+     338,
+     279
+    ],
+    "L"
+   ],
+   [
+    "dry scale leaf",
+    [
+     107,
+     335
+    ],
+    "L"
+   ],
+   [
+    "terminal bud",
+    [
+     278,
+     327
+    ],
+    "L"
+   ],
+   [
+    "axillary bud",
+    [
+     352,
+     335
+    ],
+    "L"
+   ],
+   [
+    "adventitious roots",
+    [
+     290,
+     493
+    ],
+    "L"
+   ],
+   [
+    "corm (cocoyam)",
+    [
+     774,
+     329
+    ],
+    "R"
+   ],
+   [
+    "node",
+    [
+     741,
+     320
+    ],
+    "R"
+   ],
+   [
+    "cormel",
+    [
+     640,
+     380
+    ],
+    "R"
+   ],
+   [
+    "rhizome (ginger)",
+    [
+     240,
+     839
+    ],
+    "L"
+   ],
+   [
+    "internode",
+    [
+     276,
+     834
+    ],
+    "L"
+   ],
+   [
+    "aerial shoot",
+    [
+     464,
+     642
+    ],
+    "L"
+   ],
+   [
+    "stem tuber (Irish potato)",
+    [
+     754,
+     777
+    ],
+    "R"
+   ],
+   [
+    "eye",
+    [
+     743,
+     714
+    ],
+    "R"
+   ],
+   [
+    "scale leaf scar",
+    [
+     726,
+     866
+    ],
+    "R"
+   ],
+   [
+    "stolon scar",
+    [
+     677,
+     933
+    ],
+    "R"
+   ],
+   [
+    "sprouting shoot",
+    [
+     908,
+     702
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-06-aboveground-vegetative-propagation": {
+  "labels": [
+   [
+    "pseudostem",
+    [
+     279,
+     380
+    ],
+    "L"
+   ],
+   [
+    "underground stem (corm)",
+    [
+     282,
+     567
+    ],
+    "L"
+   ],
+   [
+    "sword sucker",
+    [
+     200,
+     437
+    ],
+    "L"
+   ],
+   [
+    "water sucker",
+    [
+     380,
+     445
+    ],
+    "L"
+   ],
+   [
+    "crown",
+    [
+     754,
+     150
+    ],
+    "R"
+   ],
+   [
+    "slip",
+    [
+     668,
+     335
+    ],
+    "R"
+   ],
+   [
+    "sucker",
+    [
+     835,
+     538
+    ],
+    "R"
+   ],
+   [
+    "parent plant",
+    [
+     206,
+     823
+    ],
+    "L"
+   ],
+   [
+    "runner",
+    [
+     312,
+     867
+    ],
+    "L"
+   ],
+   [
+    "node",
+    [
+     365,
+     877
+    ],
+    "L"
+   ],
+   [
+    "adventitious roots",
+    [
+     208,
+     907
+    ],
+    "L"
+   ],
+   [
+    "new plant",
+    [
+     380,
+     815
+    ],
+    "L"
+   ],
+   [
+    "Bryophyllum leaf",
+    [
+     775,
+     796
+    ],
+    "R"
+   ],
+   [
+    "notch",
+    [
+     684,
+     871
+    ],
+    "R"
+   ],
+   [
+    "plantlet",
+    [
+     654,
+     798
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-07-plant-stem-cuttings": {
+  "labels": [
+   [
+    "cassava stem",
+    [
+     142,
+     279
+    ],
+    "L"
+   ],
+   [
+    "node (bud)",
+    [
+     106,
+     790
+    ],
+    "L"
+   ],
+   [
+    "cutting 20\u201325 cm",
+    [
+     247,
+     410
+    ],
+    "L"
+   ],
+   [
+    "planted slanting",
+    [
+     106,
+     742
+    ],
+    "L"
+   ],
+   [
+    "adventitious roots",
+    [
+     339,
+     807
+    ],
+    "L"
+   ],
+   [
+    "new shoot",
+    [
+     247,
+     547
+    ],
+    "L"
+   ],
+   [
+    "root tuber",
+    [
+     266,
+     883
+    ],
+    "L"
+   ],
+   [
+    "sugar cane sett",
+    [
+     541,
+     573
+    ],
+    "R"
+   ],
+   [
+    "bud",
+    [
+     492,
+     677
+    ],
+    "L"
+   ],
+   [
+    "furrow",
+    [
+     636,
+     619
+    ],
+    "R"
+   ],
+   [
+    "hibiscus cutting",
+    [
+     841,
+     223
+    ],
+    "R"
+   ],
+   [
+    "rooting powder",
+    [
+     820,
+     430
+    ],
+    "R"
+   ],
+   [
+    "new roots",
+    [
+     861,
+     865
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-08-cleft-grafting-stages": {
+  "labels": [
+   [
+    "rootstock (stock)",
+    [
+     239,
+     312
+    ],
+    "L"
+   ],
+   [
+    "cleft",
+    [
+     254,
+     186
+    ],
+    "L"
+   ],
+   [
+    "scion",
+    [
+     719,
+     198
+    ],
+    "R"
+   ],
+   [
+    "bud",
+    [
+     677,
+     208
+    ],
+    "R"
+   ],
+   [
+    "wedge-shaped base",
+    [
+     583,
+     335
+    ],
+    "R"
+   ],
+   [
+    "cambium layers in contact",
+    [
+     239,
+     811
+    ],
+    "L"
+   ],
+   [
+    "grafting tape",
+    [
+     636,
+     828
+    ],
+    "R"
+   ],
+   [
+    "polythene bag",
+    [
+     559,
+     605
+    ],
+    "R"
+   ],
+   [
+    "new shoot from scion",
+    [
+     678,
+     538
+    ],
+    "R"
+   ],
+   [
+    "approach grafting",
+    [
+     888,
+     849
+    ],
+    "R"
+   ],
+   [
+    "parent tree branch",
+    [
+     949,
+     863
+    ],
+    "R"
+   ],
+   [
+    "potted stock",
+    [
+     861,
+     947
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B7a-09-t-budding-propagation": {
+  "labels": [
+   [
+    "rootstock",
+    [
+     200,
+     390
+    ],
+    "L"
+   ],
+   [
+    "T-shaped cut",
+    [
+     197,
+     247
+    ],
+    "L"
+   ],
+   [
+    "bark flaps",
+    [
+     437,
+     223
+    ],
+    "L"
+   ],
+   [
+    "bud stick",
+    [
+     828,
+     145
+    ],
+    "R"
+   ],
+   [
+    "bud",
+    [
+     823,
+     246
+    ],
+    "R"
+   ],
+   [
+    "shield of bark",
+    [
+     820,
+     278
+    ],
+    "R"
+   ],
+   [
+    "leaf stalk",
+    [
+     749,
+     303
+    ],
+    "R"
+   ],
+   [
+    "bud inserted",
+    [
+     197,
+     726
+    ],
+    "L"
+   ],
+   [
+    "budding tape",
+    [
+     658,
+     794
+    ],
+    "R"
+   ],
+   [
+    "stock cut back above bud",
+    [
+     826,
+     762
+    ],
+    "R"
+   ],
+   [
+    "new shoot",
+    [
+     875,
+     677
+    ],
+    "R"
+   ],
+   [
+    "patch budding (rubber)",
+    [
+     431,
+     813
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B7a-10-layering-propagation-methods": {
+  "labels": [
+   [
+    "parent plant",
+    [
+     173,
+     454
+    ],
+    "L"
+   ],
+   [
+    "branch bent to soil",
+    [
+     280,
+     619
+    ],
+    "L"
+   ],
+   [
+    "wound",
+    [
+     361,
+     666
+    ],
+    "L"
+   ],
+   [
+    "peg",
+    [
+     425,
+     679
+    ],
+    "L"
+   ],
+   [
+    "soil",
+    [
+     253,
+     705
+    ],
+    "L"
+   ],
+   [
+    "new roots",
+    [
+     361,
+     696
+    ],
+    "L"
+   ],
+   [
+    "stake",
+    [
+     508,
+     351
+    ],
+    "L"
+   ],
+   [
+    "cut here",
+    [
+     247,
+     626
+    ],
+    "L"
+   ],
+   [
+    "ring of bark removed",
+    [
+     786,
+     237
+    ],
+    "R"
+   ],
+   [
+    "exposed wood",
+    [
+     742,
+     281
+    ],
+    "R"
+   ],
+   [
+    "moist rooting medium",
+    [
+     780,
+     487
+    ],
+    "R"
+   ],
+   [
+    "polythene wrap",
+    [
+     820,
+     439
+    ],
+    "R"
+   ],
+   [
+    "tie",
+    [
+     708,
+     563
+    ],
+    "R"
+   ],
+   [
+    "roots in medium",
+    [
+     787,
+     784
+    ],
+    "R"
+   ],
+   [
+    "marcotting (air layering)",
+    [
+     815,
+     496
+    ],
+    "R"
+   ],
+   [
+    "simple layering",
+    [
+     321,
+     505
+    ],
+    "L"
+   ]
+  ]
+ }
+}

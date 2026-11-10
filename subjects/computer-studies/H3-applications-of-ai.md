@@ -25,7 +25,7 @@ Robotics involves designing and building physical machines (robots) that can per
 *   **Domestic Robots:** Smart vacuum cleaners use AI to map the layout of a house, avoid obstacles like furniture or pets, and find the most efficient cleaning route.
 *   **Hazardous Environments:** AI robots are used in bomb disposal, space exploration, and deep-sea diving, making decisions in real-time where human remote control might be delayed or impossible.
 
-[IMAGE: A clean textbook illustration showing a collage of AI applications: an industrial robotic arm sorting packages, a self-driving car on a road, a medical screen showing a brain scan with a highlighted tumor, and a drone flying over a green farm field. White background.]
+![A collage showing four AI applications: a robotic arm sorting packages on a conveyor belt, a car driving on a road, a brain scan highlighting a tumor, and a drone.](images/H3-01-clean-textbook-collage-ai.png)
 
 ### 2. E-Commerce
 
@@ -41,7 +41,7 @@ AI has completely changed how we travel and find our way around.
 *   **GPS and Mapping Apps:** Apps like Google Maps and Apple Maps use AI to analyze historical traffic data and real-time updates from other drivers' smartphones. This allows them to predict traffic jams and suggest the fastest alternative routes.
 *   **Ride-Hailing Services:** Companies like Uber and Bolt use AI algorithms to match riders with the nearest available drivers efficiently. They also use AI for "surge pricing," predicting when and where demand for rides will be highest (e.g., after a heavy rain in Lagos) and adjusting prices accordingly.
 
-[IMAGE: A flat, clear illustration of a smartphone screen showing a navigation app. The screen displays a road map with a blue optimal route, a red congested route, and an AI-calculated ETA (Estimated Time of Arrival) pop-up. White background.]
+![A smartphone screen showing a navigation app with a blue optimal route, a red congested route, and an AI-calculated ETA pop-up.](images/H3-02-flat-clear-smartphone-screen.png)
 
 ### 4. Human Resource (HR)
 

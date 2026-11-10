@@ -44,7 +44,7 @@ The two major types of farming systems in Nigeria based on scale and purpose are
 | **Yield/Output** | Low yield per hectare. | High yield per hectare. |
 | **Farming System** | Mixed cropping (growing multiple crops on one piece of land to reduce risk). | Monocropping (specializing in one crop, e.g., a rubber or cocoa plantation). |
 
-[IMAGE: Split illustration showing subsistence and commercial farming in Nigeria. On the left: A Nigerian farmer in simple clothing using a hoe on a small, mixed crop farm containing maize and yam mounds. On the right: A modern green tractor pulling a plough on a vast, neatly planted monocrop field. Labels to add later: "Subsistence Farming: Small scale, simple tools", "Commercial Farming: Large scale, modern machinery". Clean flat textbook style, white background.]
+![A split illustration showing subsistence farming with a farmer using a hoe alongside mixed crops, and commercial farming with a green tractor ploughing a large field.](images/A16-01-subsistence-commercial-farming-comparison.png)
 
 **2. Classification by Type of Produce**
 
@@ -169,7 +169,7 @@ To protect farmers and stabilize the economy, several solutions can be applied:
 5. **Agricultural Insurance:** Schemes like the Nigerian Agricultural Insurance Corporation (NAIC) provide insurance cover for farmers. If their crops are destroyed by floods or pests, the insurance company compensates them, preventing total income loss.
 6. **Improved Irrigation and Pest Control:** Reducing reliance on rainfall through irrigation (via River Basin Development Authorities) and providing pesticides helps guarantee a steady supply, reducing price fluctuations caused by natural disasters.
 
-[IMAGE: A flowchart showing a Buffer Stock Scheme. Left: "Bumper Harvest (Oversupply)" with an arrow pointing to a Government Silo labelled "Government Buys Excess to Stop Prices Falling". Right: "Poor Harvest (Scarcity)" with an arrow from the Silo to a Market Stall labelled "Government Sells Reserves to Stop Prices Rising". Center: A balanced scale labelled "Stable Prices and Stable Farmer Incomes". Clean flat textbook style, white background.]
+![Flowchart of a buffer stock scheme showing supply actions during bumper and poor harvests feeding into market stability represented by a balanced scale.](images/A16-02-buffer-stock-scheme-flowchart.png)
 
 ## Key terms
 

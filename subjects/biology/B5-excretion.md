@@ -237,7 +237,7 @@ The flame cell system is a simple type of excretory organ called a **protonephri
 
 **How the structure suits the function:** the loosely packed cells and air spaces allow gases to pass through an otherwise airtight layer of cork, reaching the living tissues inside thick stems.
 
-![Diagram comparing plant gas exchange structures showing a stoma in surface view and cross section alongside a cross section of a stem lenticel.](images/B5-05-stoma-lenticel-plant.png)
+[IMAGE: Two diagrams side by side. Left: surface view of a leaf's lower epidermis with an open stoma between two bean-shaped guard cells containing chloroplasts, surrounded by irregular epidermal cells; below it a small vertical section through a leaf showing the stoma opening into an air space, with arrows showing oxygen and water vapour leaving. Right: vertical section through the bark of a woody stem showing a raised lenticel, with loosely packed rounded complementary cells and air spaces breaking through the layer of tightly packed cork cells, with arrows showing carbon (IV) oxide and water vapour leaving and oxygen entering. Labels: guard cell, stoma (pore), chloroplast, epidermal cell, air space, lenticel, complementary cells, cork, cork cambium, cortex. Clean flat textbook style, white background.]
 
 ### Relating the characteristics of excretory structures to their functions (summary)
 
@@ -287,7 +287,7 @@ The urinary system is made up of:
 
 You can see this easily by cutting open a goat's or cow's kidney bought from the market (butchers often sell them with the fat around them; remove the fat first).
 
-![Longitudinal diagram of a mammalian kidney showing the cortex, medulla pyramids, pelvis, ureter, renal blood vessels, capsule, and an enlarged nephron spanning cortex and medulla.](images/B5-07-kidney-longitudinal-section.png)
+[IMAGE: Longitudinal section of a mammalian kidney. Show the fibrous capsule, the dark red granular cortex, the paler striped medulla divided into several cone-shaped pyramids with papillae pointing inwards, the white funnel-shaped pelvis leading into the ureter at the hilum, and the renal artery and renal vein entering and leaving at the hilum with branches running between the pyramids. Draw one tiny nephron (exaggerated in size) spanning cortex and medulla to show where nephrons lie. Labels: capsule, cortex, medulla, pyramid, papilla, pelvis, hilum, renal artery, renal vein, ureter, nephron (enlarged). Clean flat textbook style, white background.]
 
 ### The nephron: the working unit of the kidney
 

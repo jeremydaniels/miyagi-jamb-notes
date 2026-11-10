@@ -4,112 +4,112 @@
    [
     "cortex",
     [
-     102,
-     307
+     131,
+     329
     ],
     "L"
    ],
    [
     "medulla",
     [
-     102,
-     614
+     131,
+     663
     ],
     "L"
    ],
    [
     "branch of renal artery",
     [
-     199,
-     276
+     186,
+     88
     ],
     "L"
    ],
    [
     "afferent arteriole",
     [
-     307,
-     71
+     290,
+     116
     ],
     "L"
    ],
    [
     "efferent arteriole",
     [
-     604,
-     143
+     437,
+     124
     ],
-    "R"
+    "L"
    ],
    [
     "glomerulus",
     [
-     440,
-     143
+     307,
+     192
     ],
     "L"
    ],
    [
     "Bowman's capsule",
     [
-     440,
-     56
+     240,
+     208
     ],
     "L"
    ],
    [
     "proximal convoluted tubule",
     [
-     368,
-     327
+     445,
+     365
     ],
     "L"
    ],
    [
     "loop of Henle",
     [
-     486,
-     896
+     518,
+     901
     ],
-    "L"
+    "R"
    ],
    [
     "distal convoluted tubule",
     [
-     578,
-     317
+     689,
+     369
     ],
     "R"
    ],
    [
     "collecting duct",
     [
-     693,
-     512
+     775,
+     685
     ],
     "R"
    ],
    [
     "capillary network",
     [
-     588,
-     563
+     527,
+     708
     ],
     "R"
    ],
    [
     "branch of renal vein",
     [
-     778,
-     747
+     783,
+     204
     ],
     "R"
    ],
    [
     "to pelvis",
     [
-     691,
-     967
+     775,
+     944
     ],
     "R"
    ]
@@ -120,149 +120,64 @@
    [
     "excretory canal",
     [
-     883,
-     523
+     592,
+     760
     ],
     "R"
    ],
    [
     "excretory pore",
     [
-     357,
-     429
+     347,
+     459
     ],
     "L"
    ],
    [
+    "flame cell",
+    [
+     785,
+     223
+    ],
+    "R"
+   ],
+   [
     "nucleus",
     [
-     693,
-     564
+     689,
+     208
     ],
     "R"
    ],
    [
     "cilia (flame)",
     [
-     683,
-     335
+     702,
+     410
     ],
     "R"
    ],
    [
     "cavity",
     [
-     785,
-     319
+     677,
+     283
     ],
     "R"
    ],
    [
     "excretory tubule",
     [
-     754,
-     728
+     685,
+     636
     ],
     "R"
    ],
    [
     "tissue fluid",
     [
-     754,
-     702
-    ],
-    "R"
-   ]
-  ],
-  "captions": [
-   [
-    "flame cell",
-    755,
-    865
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B5-05-stoma-lenticel-plant": {
-  "labels": [
-   [
-    "guard cell",
-    [
-     223,
-     284
-    ],
-    "L"
-   ],
-   [
-    "stoma (pore)",
-    [
-     266,
-     274
-    ],
-    "L"
-   ],
-   [
-    "chloroplast",
-    [
-     321,
-     247
-    ],
-    "L"
-   ],
-   [
-    "epidermal cell",
-    [
-     356,
-     182
-    ],
-    "L"
-   ],
-   [
-    "air space",
-    [
-     268,
-     794
-    ],
-    "L"
-   ],
-   [
-    "lenticel",
-    [
-     754,
-     256
-    ],
-    "R"
-   ],
-   [
-    "complementary cells",
-    [
-     754,
-     435
-    ],
-    "R"
-   ],
-   [
-    "cork",
-    [
-     603,
-     518
-    ],
-    "R"
-   ],
-   [
-    "cork cambium",
-    [
-     626,
-     712
-    ],
-    "R"
-   ],
-   [
-    "cortex",
-    [
-     636,
-     809
+     549,
+     480
     ],
     "R"
    ]
@@ -357,32 +272,32 @@
    [
     "kidney",
     [
-     670,
-     312
+     356,
+     437
     ],
-    "R"
+    "L"
    ],
    [
     "adrenal gland",
     [
-     629,
-     199
+     395,
+     284
     ],
-    "R"
+    "L"
    ],
    [
     "aorta",
     [
-     528,
-     424
+     538,
+     188
     ],
     "R"
    ],
    [
     "posterior vena cava",
     [
-     482,
-     389
+     483,
+     239
     ],
     "L"
    ],
@@ -390,141 +305,49 @@
     "renal artery",
     [
      579,
-     289
+     311
     ],
     "R"
    ],
    [
     "renal vein",
     [
-     563,
-     311
+     581,
+     332
     ],
     "R"
    ],
    [
     "ureter",
     [
-     602,
-     522
+     605,
+     564
     ],
     "R"
    ],
    [
     "urinary bladder",
     [
-     509,
-     737
+     518,
+     741
     ],
-    "L"
+    "R"
    ],
    [
     "sphincter muscle",
     [
-     487,
-     825
+     534,
+     828
     ],
-    "L"
+    "R"
    ],
    [
     "urethra",
     [
-     512,
-     863
+     513,
+     901
     ],
     "R"
-   ]
-  ]
- },
- "B5-07-kidney-longitudinal-section": {
-  "labels": [
-   [
-    "capsule",
-    [
-     199,
-     460
-    ],
-    "L"
-   ],
-   [
-    "cortex",
-    [
-     629,
-     348
-    ],
-    "R"
-   ],
-   [
-    "medulla",
-    [
-     593,
-     245
-    ],
-    "R"
-   ],
-   [
-    "pyramid",
-    [
-     311,
-     512
-    ],
-    "L"
-   ],
-   [
-    "papilla",
-    [
-     430,
-     524
-    ],
-    "L"
-   ],
-   [
-    "pelvis",
-    [
-     486,
-     460
-    ],
-    "L"
-   ],
-   [
-    "hilum",
-    [
-     670,
-     404
-    ],
-    "R"
-   ],
-   [
-    "renal artery",
-    [
-     768,
-     445
-    ],
-    "R"
-   ],
-   [
-    "renal vein",
-    [
-     757,
-     512
-    ],
-    "R"
-   ],
-   [
-    "ureter",
-    [
-     670,
-     762
-    ],
-    "R"
-   ],
-   [
-    "nephron (enlarged)",
-    [
-     348,
-     332
-    ],
-    "L"
    ]
   ]
  },
@@ -676,7 +499,7 @@
      702,
      237
     ],
-    "T"
+    "R"
    ],
    [
     "tannins",
@@ -732,7 +555,7 @@
      589,
      882
     ],
-    "L"
+    "R"
    ],
    [
     "mucilage (okra)",
@@ -742,10 +565,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B5-11-inhaled-exhaled-air-apparatus": {
   "caption_below": "Clear and milky lime water test results.",
@@ -797,125 +617,124 @@
    [
     "contractile vacuole",
     [
-     173,
-     186
+     357,
+     266
     ],
     "L"
    ],
    [
     "nucleus",
     [
-     303,
-     351
+     167,
+     256
     ],
     "L"
    ],
    [
     "cell membrane",
     [
-     179,
-     110
+     430,
+     186
     ],
-    "T"
+    "L"
+   ],
+   [
+    "flame cell",
+    [
+     754,
+     80
+    ],
+    "R"
    ],
    [
     "cilia",
     [
-     658,
-     211
+     754,
+     199
     ],
-    "T"
+    "R"
    ],
    [
     "excretory canal",
     [
-     883,
-     354
+     790,
+     390
     ],
     "R"
    ],
    [
     "nephrostome",
     [
-     131,
-     747
+     157,
+     774
     ],
     "L"
    ],
    [
     "septum",
     [
-     142,
-     693
+     230,
+     737
     ],
     "L"
    ],
    [
     "coiled tubule",
     [
-     247,
-     760
+     310,
+     757
     ],
     "L"
    ],
    [
     "bladder",
     [
-     380,
-     754
+     404,
+     757
     ],
     "L"
    ],
    [
     "nephridiopore",
     [
-     355,
-     881
+     389,
+     877
     ],
     "L"
    ],
    [
     "midgut",
     [
-     619,
-     742
+     636,
+     753
     ],
     "R"
    ],
    [
     "hindgut",
     [
-     835,
-     745
+     883,
+     762
     ],
     "R"
    ],
    [
     "Malpighian tubules",
     [
-     756,
-     677
+     747,
+     643
     ],
     "R"
    ],
    [
     "rectum",
     [
-     952,
-     708
+     954,
+     762
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "flame cell",
-    766,
-    500
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B5-03-earthworm-nephridium-excretory-structure": {
   "regions": [

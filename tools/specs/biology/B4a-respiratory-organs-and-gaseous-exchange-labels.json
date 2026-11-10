@@ -2,28 +2,12 @@
  "B4a-04-tadpole-external-internal-gills": {
   "labels": [
    [
-    "young tadpole",
-    [
-     290,
-     476
-    ],
-    "L"
-   ],
-   [
     "external gills",
     [
      263,
      350
     ],
     "L"
-   ],
-   [
-    "older tadpole",
-    [
-     665,
-     512
-    ],
-    "R"
    ],
    [
     "operculum (skin fold covering gills)",
@@ -65,7 +49,21 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "young tadpole",
+    258,
+    793
+   ],
+   [
+    "older tadpole",
+    692,
+    782
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-01-respiratory-surface-exchange": {
   "labels": [
@@ -551,7 +549,7 @@
      272,
      133
     ],
-    "L"
+    "T"
    ],
    [
     "lenticel",
@@ -618,14 +616,6 @@
     "L"
    ],
    [
-    "mangrove pneumatophores",
-    [
-     757,
-     307
-    ],
-    "R"
-   ],
-   [
     "waterlogged mud",
     [
      634,
@@ -633,7 +623,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "mangrove pneumatophores",
+    753,
+    1001
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-13-bell-jar-lung-model": {
   "labels": [
@@ -670,28 +669,12 @@
     "L"
    ],
    [
-    "sheet pulled down: balloons inflate (inspiration)",
-    [
-     273,
-     829
-    ],
-    "L"
-   ],
-   [
-    "sheet pushed up: balloons deflate (expiration)",
-    [
-     749,
-     742
-    ],
-    "R"
-   ],
-   [
     "air in",
     [
      273,
      143
     ],
-    "L"
+    "T"
    ],
    [
     "air out",
@@ -699,28 +682,26 @@
      750,
      143
     ],
-    "R"
+    "T"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "sheet pulled down:\nballoons inflate\n(inspiration)",
+    273,
+    899
+   ],
+   [
+    "sheet pushed up:\nballoons deflate\n(expiration)",
+    749,
+    836
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-10-stoma-opening-closing-mechanism": {
   "labels": [
-   [
-    "light: stoma open",
-    [
-     272,
-     150
-    ],
-    "L"
-   ],
-   [
-    "dark: stoma closed",
-    [
-     769,
-     152
-    ],
-    "R"
-   ],
    [
     "turgid guard cell",
     [
@@ -793,26 +774,24 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "light: stoma open",
+    270,
+    859
+   ],
+   [
+    "dark: stoma closed",
+    771,
+    857
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-11-fish-ventilation-mechanism-stages": {
   "labels": [
-   [
-    "1. inspiration",
-    [
-     266,
-     512
-    ],
-    "L"
-   ],
-   [
-    "2. expiration",
-    [
-     752,
-     512
-    ],
-    "R"
-   ],
    [
     "mouth open",
     [
@@ -893,26 +872,24 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1. inspiration",
+    262,
+    827
+   ],
+   [
+    "2. expiration",
+    753,
+    827
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-12-human-breathing-mechanism-ventilation": {
   "labels": [
-   [
-    "inspiration",
-    [
-     274,
-     538
-    ],
-    "L"
-   ],
-   [
-    "expiration",
-    [
-     755,
-     538
-    ],
-    "R"
-   ],
    [
     "trachea",
     [
@@ -1009,7 +986,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "inspiration",
+    273,
+    844
+   ],
+   [
+    "expiration",
+    759,
+    844
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-02-amoeba-earthworm-respiration": {
   "caption_below": "Oxygen in and carbon dioxide out.",
@@ -1019,14 +1010,6 @@
    "moist skin"
   ],
   "labels": [
-   [
-    "Amoeba",
-    [
-     266,
-     537
-    ],
-    "L"
-   ],
    [
     "cell membrane (respiratory surface)",
     [
@@ -1042,14 +1025,6 @@
      292
     ],
     "L"
-   ],
-   [
-    "earthworm",
-    [
-     559,
-     677
-    ],
-    "R"
    ],
    [
     "moist skin",
@@ -1091,7 +1066,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Amoeba",
+    263,
+    826
+   ],
+   [
+    "earthworm",
+    759,
+    826
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4a-14-alveolus-gas-exchange-capillary": {
   "caption_below": "Oxygen diffuses into blood and carbon dioxide diffuses into alveolus.",

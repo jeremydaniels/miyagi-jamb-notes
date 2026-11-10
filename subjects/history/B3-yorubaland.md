@@ -121,7 +121,7 @@ This was the longest, bloodiest and most technologically advanced of all the Yor
 | **Immediate cause** | Dispute at the Apomu market | Succession of Alaafin Adelu against tradition | Oppressive rule by Ibadan Ajeles in Ekiti/Ijesha |
 | **Result** | Owu destroyed | Ijaye destroyed; Kurunmi died | Exhausting stalemate; ended by British treaty |
 
-[IMAGE: A three-panel diagram showing the evolution of Yoruba warfare. Panel 1 (Owu War): Warriors in traditional dress fighting with spears, swords and bows outside a mud city wall. Panel 2 (Osogbo War): Foot soldiers firing long, smoking flintlock 'Dane guns' from the forest edge at mounted cavalrymen. Panel 3 (Kiriji War): Warriors entrenched behind rocks firing modern breech-loading Snider rifles, with sound waves labelled "KI-RI-JI". Clean flat textbook style, white background.]
+![A three panel illustration showing the evolution of Yoruba warfare from spears bows and walled cities, to flintlock guns facing cavalry, to rifles fired from rocky trenches.](images/B3-02-evolution-yoruba-warfare.png)
 
 ### Effects of the Yoruba wars
 

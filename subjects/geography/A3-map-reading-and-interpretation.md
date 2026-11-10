@@ -71,7 +71,7 @@ A **cross profile** (or cross-section) is a side-view drawing of the land betwee
 7. Place the strip of paper along the horizontal axis. For every tick mark, move straight up to the matching height on the vertical axis and make a dot.
 8. Join all the dots together with a smooth, freehand curve (do not use a ruler) to show the shape of the land.
 
-[IMAGE: A cross-profile drawing process. Top: A topographical map with a line A-B crossing a hill. A straight-edged strip of paper is laid along A-B, with tick marks where contours cross it. Bottom: A graph with a horizontal axis A-B and a vertical axis showing height in metres. The tick marks from the paper are projected upwards to their corresponding heights, and a smooth curve joins them to show a hill profile. Clean flat textbook illustration, white background.]
+![Diagram demonstrating the paper strip method to construct a topographic cross profile from contour lines on a map to an elevation graph.](images/A3-02-contour-cross-section-profile.png)
 
 ### Vertical Exaggeration (V.E.)
 
@@ -166,7 +166,7 @@ Exam questions often ask you to explain *why* a human feature is located where i
 - Rivers are obstacles to land transport. Where a road meets a river, a **bridge** is required. 
 - Road networks are denser in well-drained lowlands than in marshy areas, where the soft ground makes road construction difficult.
 
-[IMAGE: A hypothetical topographical map extract showing physical and human relationships. A meandering river flows through a wide valley (widely spaced contours). A nucleated settlement (cluster of black squares) sits on gently sloping ground away from the river's flood plain (dry point). A linear settlement runs along a main road that follows the valley parallel to the river. A bridge crosses the river where the road meets it. Steep hills (closely spaced contours) are forested (green tree symbols) and have no settlements. Clean flat textbook illustration, white background.]
+![Topographical map illustration showing a meandering river, nucleated dry-point settlement, linear road settlement with a bridge crossing, and forested steep hills indicated by closely spaced contours.](images/A3-04-topographic-settlement-relationships-map.png)
 
 ## Key terms
 

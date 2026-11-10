@@ -430,7 +430,7 @@ This is why soldiers standing still on parade for a long time sometimes faint: w
 
 Tissue fluid is the "middleman" between the blood and the cells: substances pass from blood → tissue fluid → cell, and from cell → tissue fluid → blood.
 
-[IMAGE: Capillary bed between an arteriole (left, red) and a venule (right, blue), with the capillary gradually changing from red to purple to blue along its length. Body cells surround it, bathed in pale yellow tissue fluid. Arrows show fluid leaving the capillary at the arterial end and most fluid re-entering at the venous end. A blind-ended lymph capillary (pale green) lies among the cells, collecting the extra fluid. Small labelled arrows show oxygen and glucose moving into the cells and carbon dioxide moving out. Labels to add: "arteriole", "venule", "capillary (wall one cell thick)", "red blood cell", "tissue fluid", "body cell", "lymph capillary", "fluid forced out (high pressure)", "fluid returns (low pressure)", "oxygen and glucose to cells", "carbon dioxide and wastes from cells". Clean flat textbook style, white background.]
+![Diagram showing a capillary bed connecting a red arteriole to a blue venule, surrounded by tissue cells and a green lymphatic capillary.](images/B3a-09-capillary-bed-tissue-exchange.png)
 
 #### Arteries, veins and capillaries compared
 
@@ -447,7 +447,7 @@ Tissue fluid is the "middleman" between the blood and the cells: substances pass
 | Exchange with cells | None (walls too thick) | None | **Yes**, all exchange happens here |
 | When cut | Blood spurts out, bright red | Blood flows out steadily, darker red | Blood oozes slowly |
 
-[IMAGE: Transverse sections of an artery, a vein and a capillary side by side, drawn to show relative wall thickness (not to scale for size). Artery: thick wall with outer connective tissue, thick middle layer of muscle and elastic fibres (pink and yellow), thin endothelium and small round lumen. Vein: thin wall with the same three layers, the middle layer thin, and a large irregular lumen. Capillary: a ring made of a single layer of flat cells with one red blood cell inside. Labels to add: "artery", "vein", "capillary", "outer layer (connective tissue)", "muscle and elastic fibres", "endothelium", "lumen", "wall one cell thick", "red blood cell". Clean flat textbook style, white background.]
+![Cross-sectional diagrams of an artery with thick walls, a vein with a wider lumen and thinner walls, and a capillary containing a single red blood cell.](images/B3a-10-blood-vessel-transverse-sections.png)
 
 ### The main blood vessels of the body
 
@@ -914,7 +914,7 @@ The earthworm is a simple example of a **closed** system, found in annelids.
 
 **Textbook variation:** most textbooks say the common earthworm (*Lumbricus*) has **five pairs** of "hearts" (in segments 7 to 11). The number differs in other kinds of earthworm (in some species, four pairs). Some books call them "pseudohearts" because they are not true chambered hearts.
 
-[IMAGE: Simplified side view of the front part of an earthworm showing its closed circulatory system: a dorsal blood vessel above the gut with forward-pointing arrows, a ventral blood vessel below the gut with backward-pointing arrows, five pairs of looping "hearts" joining them around the gut in the front segments, and fine capillary networks in the body wall of one segment. Blood vessels in red. Labels to add: "dorsal blood vessel", "ventral blood vessel", "hearts (aortic arches)", "gut", "capillaries in body wall", "blood flows forward", "blood flows backward". Clean flat textbook style, white background.]
+![Diagram of an earthworms closed circulatory system showing dorsal and ventral blood vessels, five aortic arches looping around the digestive tract, and body wall capillaries.](images/B3a-18-earthworm-closed-circulatory-system.png)
 
 ### Closed circulatory system: vertebrates
 

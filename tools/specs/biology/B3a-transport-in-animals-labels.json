@@ -426,5 +426,233 @@
     "R"
    ]
   ]
+ },
+ "B3a-09-capillary-bed-tissue-exchange": {
+  "labels": [
+   [
+    "arteriole",
+    [
+     88,
+     524
+    ],
+    "L"
+   ],
+   [
+    "venule",
+    [
+     915,
+     520
+    ],
+    "R"
+   ],
+   [
+    "capillary (wall one cell thick)",
+    [
+     527,
+     390
+    ],
+    "R"
+   ],
+   [
+    "red blood cell",
+    [
+     129,
+     538
+    ],
+    "L"
+   ],
+   [
+    "tissue fluid",
+    [
+     437,
+     663
+    ],
+    "L"
+   ],
+   [
+    "body cell",
+    [
+     623,
+     461
+    ],
+    "R"
+   ],
+   [
+    "lymph capillary",
+    [
+     533,
+     274
+    ],
+    "R"
+   ],
+   [
+    "fluid forced out (high pressure)",
+    [
+     286,
+     573
+    ],
+    "L"
+   ],
+   [
+    "fluid returns (low pressure)",
+    [
+     701,
+     609
+    ],
+    "R"
+   ],
+   [
+    "oxygen and glucose to cells",
+    [
+     358,
+     419
+    ],
+    "L"
+   ],
+   [
+    "carbon dioxide and wastes from cells",
+    [
+     614,
+     481
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-10-blood-vessel-transverse-sections": {
+  "labels": [
+   [
+    "artery",
+    [
+     198,
+     363
+    ],
+    "L"
+   ],
+   [
+    "vein",
+    [
+     552,
+     343
+    ],
+    "R"
+   ],
+   [
+    "capillary",
+    [
+     828,
+     420
+    ],
+    "R"
+   ],
+   [
+    "outer layer (connective tissue)",
+    [
+     199,
+     374
+    ],
+    "L"
+   ],
+   [
+    "muscle and elastic fibres",
+    [
+     199,
+     421
+    ],
+    "L"
+   ],
+   [
+    "endothelium",
+    [
+     239,
+     457
+    ],
+    "L"
+   ],
+   [
+    "lumen",
+    [
+     555,
+     496
+    ],
+    "R"
+   ],
+   [
+    "wall one cell thick",
+    [
+     870,
+     410
+    ],
+    "R"
+   ],
+   [
+    "red blood cell",
+    [
+     870,
+     513
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B3a-18-earthworm-closed-circulatory-system": {
+  "labels": [
+   [
+    "dorsal blood vessel",
+    [
+     693,
+     369
+    ],
+    "R"
+   ],
+   [
+    "ventral blood vessel",
+    [
+     406,
+     611
+    ],
+    "L"
+   ],
+   [
+    "hearts (aortic arches)",
+    [
+     494,
+     492
+    ],
+    "L"
+   ],
+   [
+    "gut",
+    [
+     454,
+     481
+    ],
+    "L"
+   ],
+   [
+    "capillaries in body wall",
+    [
+     702,
+     464
+    ],
+    "R"
+   ],
+   [
+    "blood flows forward",
+    [
+     883,
+     396
+    ],
+    "R"
+   ],
+   [
+    "blood flows backward",
+    [
+     883,
+     636
+    ],
+    "R"
+   ]
+  ]
  }
 }

@@ -163,7 +163,7 @@ So there are **gaps** in the fossil record. However, new fossils keep filling th
 
 **Why this is evidence for evolution:** if each animal had been designed separately for its job, there would be no reason for a bat's wing, a whale's flipper and a human arm to have the **same bones in the same order**. The best explanation is that they all **inherited** this pattern from a **common ancestor** with a pentadactyl limb, and natural selection then adapted it for different uses.
 
-[IMAGE: Comparison of pentadactyl forelimbs side by side: human arm, bat wing, bird wing, whale flipper, horse front leg and frog front leg. In every limb, colour-code the matching bones consistently: humerus in yellow, radius and ulna in orange, carpals in green, metacarpals in blue, phalanges in purple. Show outlines of the skin or wing around each skeleton faintly. Labels to add later: "human (grasping)", "bat (flying)", "bird (flying)", "whale (swimming)", "horse (running)", "frog (landing)", "humerus", "radius", "ulna", "carpals", "metacarpals", "phalanges". Clean flat textbook style, white background.]
+![A diagram comparing the homologous bone structures in the forelimbs of a human, bat, bird, whale, horse, and frog with color-coded bones.](images/E2-05-homologous-pentadactyl-forelimbs-comparison.png)
 
 **Other homologous structures:**
 
@@ -376,7 +376,7 @@ The plant groups are described in detail in `A2b-evolution-plants.md`. In order 
 
 **The fossil record of plants matches these trends:** algae are found in very old rocks; the first simple land plants appear roughly **470 million years ago**; vascular plants and ferns follow; seed plants appear roughly **360 million years ago**; and flowering plants appear only roughly **130–140 million years ago**, becoming dominant later. (These dates are approximate and vary between sources.)
 
-[IMAGE: Plant evolution diagram shown as a branching tree rising from water at the bottom to dry land at the top. At the base, in water, a green filamentous alga (Spirogyra). Branching upward onto damp ground: a moss and a liverwort (Marchantia). Next branch: a fern with fronds and a rhizome. Next: a gymnosperm (pine tree with cones). Topmost branch: a flowering plant (a hibiscus shrub with a flower and fruits). Along the side, an arrow labelled with trends. Labels to add later: "algae (Thallophyta)", "mosses and liverworts (Bryophyta)", "ferns (Pteridophyta)", "gymnosperms", "angiosperms (flowering plants)", "water to land", "no vascular tissue", "vascular tissue appears", "seeds appear", "flowers and fruits appear", "increasing complexity". Clean flat textbook style, white background.]
+![A phylogenetic tree rising from aquatic algae through bryophytes, ferns, and gymnosperms to an angiosperm flowering plant at the top.](images/E2-11-plant-phylogenetic-evolutionary-tree.png)
 
 ### Evolutionary trends in animals
 
@@ -503,7 +503,7 @@ These are large changes affecting part of a chromosome, often big enough to be s
 
 **Duplications** are important in evolution: the extra copy of a gene can mutate and take on a **new function**, while the original copy keeps doing the old job.
 
-[IMAGE: Four small diagrams of chromosome structure mutations, each showing a normal chromosome (a vertical bar divided into coloured bands labelled A B C D E F with a centromere between B and C) and the mutated chromosome beside it. Deletion: A B C E F (band D missing). Duplication: A B C D D E F (band D repeated). Inversion: A B C E D F (D and E reversed). Translocation: A B C D plus bands G H from a second, differently coloured chromosome attached at the end, with the second chromosome shown shortened. Labels to add later: "normal chromosome", "deletion", "duplication", "inversion", "translocation", "centromere". Clean flat textbook style, white background.]
+![Diagram showing four types of chromosome mutations: deletion, duplication, inversion, and translocation, comparing normal banded chromosomes with their mutated forms.](images/E2-14-chromosome-structural-mutations.png)
 
 #### 3. Changes in chromosome number
 

@@ -322,5 +322,150 @@
     "L"
    ]
   ]
+ },
+ "E2-05-homologous-pentadactyl-forelimbs-comparison": {
+  "labels": [
+   [
+    "human (grasping)",
+    [
+     107,
+     494
+    ],
+    "L"
+   ],
+   [
+    "bat (flying)",
+    [
+     263,
+     501
+    ],
+    "L"
+   ],
+   [
+    "bird (flying)",
+    [
+     454,
+     498
+    ],
+    "L"
+   ],
+   [
+    "whale (swimming)",
+    [
+     609,
+     522
+    ],
+    "R"
+   ],
+   [
+    "horse (running)",
+    [
+     768,
+     522
+    ],
+    "R"
+   ],
+   [
+    "frog (landing)",
+    [
+     926,
+     502
+    ],
+    "R"
+   ],
+   [
+    "humerus",
+    [
+     107,
+     335
+    ],
+    "L"
+   ],
+   [
+    "radius",
+    [
+     98,
+     564
+    ],
+    "L"
+   ],
+   [
+    "ulna",
+    [
+     120,
+     564
+    ],
+    "L"
+   ],
+   [
+    "carpals",
+    [
+     101,
+     689
+    ],
+    "L"
+   ],
+   [
+    "metacarpals",
+    [
+     100,
+     733
+    ],
+    "L"
+   ],
+   [
+    "phalanges",
+    [
+     103,
+     796
+    ],
+    "L"
+   ]
+  ]
+ },
+ "E2-11-plant-phylogenetic-evolutionary-tree": {
+  "caption_below": "Water to land evolutionary trends with vascular tissue, seeds, and flowers appearance.",
+  "labels": [
+   [
+    "algae (Thallophyta)",
+    [
+     522,
+     901
+    ],
+    "R"
+   ],
+   [
+    "mosses and liverworts (Bryophyta)",
+    [
+     708,
+     741
+    ],
+    "R"
+   ],
+   [
+    "ferns (Pteridophyta)",
+    [
+     754,
+     493
+    ],
+    "R"
+   ],
+   [
+    "gymnosperms",
+    [
+     339,
+     335
+    ],
+    "L"
+   ],
+   [
+    "angiosperms (flowering plants)",
+    [
+     677,
+     145
+    ],
+    "R"
+   ]
+  ]
  }
 }

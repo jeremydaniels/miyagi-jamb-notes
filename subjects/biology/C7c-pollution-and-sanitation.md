@@ -160,7 +160,7 @@ Pollution is categorised according to the part of the environment that is pollut
   4. **Buildings and metals:** corrodes **zinc and iron roofing sheets**, metal structures and vehicles, and dissolves limestone and marble buildings and statues. In parts of the Niger Delta near gas flares, people complain of rapid rusting of roofing sheets.
   5. **Human health:** the gases and acid particles irritate the lungs; acidic water can dissolve metals such as lead and copper from pipes into drinking water.
 
-[IMAGE: A flow diagram of acid rain formation. On the left, a factory chimney, a gas flare and a car release grey arrows of gases into the sky. The gases rise into a cloud where small droplets form. Rain falls from the cloud on the right onto a scene showing a lake with dead fish, trees with yellowed leaves and bare branches, a house with a rusted corrugated roof and an eroded stone statue. Labels: "Sulphur (IV) oxide (SO2)", "Oxides of nitrogen (NOx)", "React with water in clouds", "Sulphuric and nitric acids", "Acid rain", "Dead fish in acidic lake", "Damaged trees", "Corroded roof", "Eroded stone". Clean flat textbook style, white background.]
+![Flow diagram showing acid rain formation from industrial and vehicle emissions rising into clouds, producing acid precipitation that damages trees, corrodes roofs, erodes statues, and harms aquatic lake life.](images/C7c-04-acid-rain-formation-process.png)
 
 ### Water pollutants
 
@@ -234,7 +234,7 @@ Pollution is categorised according to the part of the environment that is pollut
   - **Environment:** pesticides kill **non-target organisms** such as bees (pollinators), fish, birds, earthworms and the natural enemies of pests; pests can become **resistant**; contamination of water and soil.
 - **Current status of DDT:** DDT was banned for agricultural use in most countries from the 1970s onwards, and its use is controlled under the **Stockholm Convention on Persistent Organic Pollutants** (2001). WHO still allows its limited use for **indoor residual spraying against malaria mosquitoes** in some countries where there is no suitable alternative.
 
-[IMAGE: A biomagnification pyramid for DDT in an aquatic food chain. Four tiers from bottom to top, getting narrower: many tiny plankton at the bottom, several small fish, two larger fish, and one fish-eating bird (an osprey or eagle) at the top. Each tier contains red dots representing DDT, with the dots becoming much denser towards the top. A small inset at the top shows a cracked thin eggshell in a nest. Labels: "Water (very low DDT)", "Plankton", "Small fish", "Large fish", "Fish-eating bird (highest DDT)", "DDT concentration increases up the food chain", "Thin, broken eggshell". Clean flat textbook style, white background.]
+![Biomagnification pyramid showing DDT concentration increasing from water and plankton through small and large fish to a fish-eating bird, causing thin, broken eggshells.](images/C7c-07-biomagnification-trophic-pyramid.png)
 
 #### Industrial effluents and heavy metals
 
@@ -479,7 +479,7 @@ At a **sewage treatment plant**, sewage is cleaned so that the water released in
 3. Removes bad smells and breeding places for flies and mosquitoes.
 4. Recovers useful products: **biogas** and **fertiliser**, and reusable water.
 
-[IMAGE: A flow diagram of a sewage treatment plant from left to right. 1: incoming sewage pipe passing through vertical metal bar screens with rags and plastics caught on them. 2: a long grit channel with sand settling. 3: a rectangular primary sedimentation tank with sludge settling at the bottom. 4: an aeration tank with air bubbles rising through brown liquid (activated sludge), and beside it an alternative circular trickling filter with a rotating spray arm over a bed of stones. 5: a secondary settling tank. 6: a small chlorination unit, then clean water flowing out into a river. Below, a pipe carrying sludge from the tanks to a large closed, dome-topped sludge digester with a pipe releasing biogas to a gas holder, and dried sludge used as fertiliser on a field. Labels: "Screens", "Grit channel", "Primary sedimentation tank", "Sludge", "Aeration tank (activated sludge)", "Trickling filter", "Air bubbles", "Secondary settling tank", "Chlorination", "Clean effluent to river", "Sludge digester (anaerobic)", "Biogas (methane)", "Fertiliser". Clean flat textbook style, white background.]
+![Flow diagram of a sewage treatment plant showing screening, grit removal, primary sedimentation, secondary aeration or trickling filtration, settling, chlorination to river, and sludge digestion into biogas and fertiliser.](images/C7c-10-sewage-treatment-plant-process.png)
 
 ### Safe water supply (linked to sanitation)
 

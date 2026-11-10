@@ -216,7 +216,7 @@ The main problem is **not being washed away** by the current.
 7. **Rooted plants** have strong, spreading roots and flexible stems that bend with the current instead of breaking.
 8. Because oxygen is plentiful, many stream animals have small gills and cannot survive in still, poorly oxygenated water.
 
-[IMAGE: Cross-section of a fast-flowing stream with water arrows showing the current. Large stones on the bottom covered in a thin green layer of algae, with mosses on a rock at the edge. On and under the stones: a flattened mayfly nymph, a caddisfly larva in a case made of small stones, blackfly larvae attached by their hind ends with fan-like mouth brushes, a freshwater limpet clamped to a rock, a flatworm, a freshwater crab hiding under a stone. A small fish facing upstream. Trees on the bank dropping leaves. Labels: "current", "algae on stones", "moss", "mayfly nymph (flattened body)", "caddisfly larva in stone case", "blackfly larvae (attached by hooks)", "freshwater limpet", "flatworm", "freshwater crab", "fish facing upstream", "stones and gravel", "fallen leaves". Soft blues, greys and greens. Clean flat textbook style, white background.]
+![Cross section of a fast flowing stream ecosystem showing organisms adapted to the current including a mayfly nymph caddisfly larva blackfly larvae flatworm limpet crab and fish](images/C3-04-stream-ecosystem-profile-cross.png)
 
 ## Aquatic habitat 3: The lake
 

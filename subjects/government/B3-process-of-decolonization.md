@@ -32,7 +32,7 @@ The evaluation of this process shows it went through distinct phases:
 5. **Self-government:** The Eastern and Western Regions achieved internal self-government in 1957, and the Northern Region in 1959.
 6. **Independence:** On October 1, 1960, Nigeria became fully independent. 
 
-[IMAGE: A timeline showing the key milestones of Nigerian decolonization from left to right. 1922: Clifford Constitution (Elective principle introduced). 1923: NNDP formed. 1944: NCNC formed. 1945: General Strike. 1954: Lyttelton Constitution (Federalism introduced). 1957/1959: Regional Self-Government. 1960: Independence. Style: clean flat textbook illustration, white background, distinct timeline nodes.]
+![A horizontal timeline from 1922 to 1960 detailing key events of Nigerian decolonization, including constitutions, party formations, the general strike, regional self-government, and independence.](images/B3-01-nigerian-decolonization-milestones-timeline.png)
 
 ## Nationalism: Meaning and Types
 

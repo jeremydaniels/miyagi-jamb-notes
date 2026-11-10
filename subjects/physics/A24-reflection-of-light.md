@@ -43,7 +43,7 @@ $g = 90^\circ - i$
 Where:
 - $g$ is the glancing angle, measured in degrees ($^\circ$).
 
-[IMAGE: A ray diagram illustrating the laws of reflection. A horizontal line represents a plane mirror with diagonal hash marks on the bottom side to show the non-reflective back. A dashed vertical line marks the Normal. An incident ray (solid line with an inward arrow) strikes the mirror at the base of the normal. A reflected ray (solid line with an outward arrow) leaves the same point. The angle between the incident ray and the normal is labelled 'i'. The angle between the reflected ray and the normal is labelled 'r'. The angle between the incident ray and the mirror surface is labelled 'g' (glancing angle). Clean flat textbook illustration, white background.]
+![Diagram showing the laws of reflection with an incident ray, reflected ray, normal line, angle of incidence i, angle of reflection r, and glancing angle g on a plane mirror.](images/A24-01-law-reflection-ray.png)
 
 ### Deviation of light by a plane mirror
 When a light ray strikes a plane mirror, it is forced to change its direction. The angle by which the ray is turned away from its original straight-line path is called the **angle of deviation**.
@@ -137,7 +137,7 @@ A convex mirror is much simpler because it produces the exact same type of image
 - The image is always **behind the mirror** (between $P$ and $F$).
 - It is always **virtual, erect, and diminished** (smaller than the object).
 
-[IMAGE: Ray diagram for a convex mirror. An upright arrow (object) is placed in front of a convex mirror. A ray parallel to the principal axis reflects outwards, diverging as if originating from the virtual focus (F) behind the mirror. Another ray directed towards the centre of curvature (C) reflects back on itself. The virtual dashed extensions of these rays intersect behind the mirror between the pole and F, forming a small, erect, virtual image arrow. Clean flat textbook illustration, white background.]
+![Ray diagram for a convex mirror showing image formation of an upright object, with rays diverging to form a smaller, upright, virtual image between the pole and focus.](images/A24-03-convex-mirror-image-ray.png)
 
 **Common mistakes:**
 - *Mistake:* Believing that a convex mirror can sometimes form a real image if the object is far away.
@@ -302,7 +302,7 @@ For simple plane mirrors, if the observer's eye is at the pole of the mirror, th
 3. **The Sextant:** An optical instrument used in navigation by sailors to measure the angular altitude of celestial bodies (stars or the sun) above the horizon. 
    - *How it works:* It relies directly on the principle of the rotation of a mirror. An observer looks at the horizon through a fixed half-silvered mirror. A movable index mirror is then rotated until the reflection of a star aligns with the horizon. Because rotating a mirror by an angle $\theta$ deflects the reflected ray by $2\theta$, the graduated scale on the sextant is marked in $2\theta$ increments to allow the navigator to read the star's altitude directly.
 
-[IMAGE: Cross-section of a simple periscope. A tall 'Z'-shaped or rectangular vertical tube with two open horizontal viewing windows. Two plane mirrors are placed at the internal corners, parallel to each other and inclined at 45 degrees to the vertical walls. A horizontal light ray from an object enters the top window, strikes the top mirror, reflects 90 degrees straight down, strikes the bottom mirror, and reflects 90 degrees horizontally out to a drawn eye. Clean flat textbook illustration, white background.]
+![Cross section diagram of a simple periscope showing light reflecting off two parallel 45-degree plane mirrors from an object into an observer eye.](images/A24-04-periscope-optical-ray.png)
 
 ### Applications of curved mirrors
 - **Concave Mirrors:** Because they can converge light to a point and can form magnified, erect images (when the object is placed between the pole and the focus), they are heavily used as **shaving mirrors**, **dentist's mirrors**, and **make-up mirrors**. They are also used as parabolic reflectors behind the bulbs in **car headlamps** and **searchlights** (placing the light bulb exactly at the principal focus $F$ reflects the light out as a strong, parallel beam). Solar cookers use large concave mirrors to converge sunlight onto a central cooking pot.

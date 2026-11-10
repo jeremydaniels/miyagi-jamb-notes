@@ -57,7 +57,7 @@ Activation energy acts as an **energy barrier** that reactants must overcome to 
 - If a reaction has a **high activation energy**, only a few particles will have enough energy to react when they collide. The reaction will be very **slow** at room temperature.
 - If a reaction has a **low activation energy**, a large fraction of the particles will have enough energy to react upon collision. The reaction will be **fast**.
 
-[IMAGE: An energy profile diagram for an exothermic reaction. A 2D graph with 'Energy' on the y-axis and 'Reaction Coordinate' on the x-axis. A horizontal line on the left is labelled 'Reactants'. From this line, a curve goes up to a rounded peak, then goes down to a lower horizontal line on the right labelled 'Products'. A vertical arrow points up from the 'Reactants' line to the peak of the curve, labelled 'Activation Energy (E_a)'. A second vertical arrow points down from the 'Reactants' line to the 'Products' line, labelled 'Enthalpy Change (\Delta H)'. Clean flat textbook illustration, white background, black axes and labels, blue curve, red arrows.]
+![Energy profile diagram of an exothermic reaction displaying reactants, activation energy barrier, products, and enthalpy change plotted against reaction coordinate.](images/A12-01-energy-profile.png)
 
 ### The Arrhenius Law
 
@@ -105,7 +105,7 @@ An increase in temperature generally increases the rate of a chemical reaction. 
 **Why does this happen?**
 When a substance is heated, its particles gain kinetic energy and move faster. This causes them to collide more frequently. However, the most important reason is that **a much greater fraction of the particles now possesses energy equal to or greater than the activation energy ($E_a$)**. Therefore, the number of effective collisions per second drastically increases.
 
-[IMAGE: A Maxwell-Boltzmann kinetic energy distribution curve showing the effect of temperature. A 2D graph with 'Number of particles' on the y-axis and 'Kinetic Energy' on the x-axis. Two curves start at the origin. The first curve, labelled 'Lower Temperature (T_1)', goes up to a high peak, then tails off to the right. The second curve, labelled 'Higher Temperature (T_2)', has a lower and wider peak, shifted to the right, and crosses the first curve, remaining higher on the far right. A vertical dashed line on the right side of the x-axis is labelled 'Activation Energy (E_a)'. The area under both curves to the right of E_a is shaded, showing that the higher temperature curve has a much larger shaded area. Clean flat textbook illustration, white background.]
+![Maxwell-Boltzmann kinetic energy distribution curves for two temperatures, showing how a higher temperature results in a greater proportion of particles exceeding the activation energy.](images/A12-02-maxwell-boltzmann-distribution-curve.png)
 
 **Examples:**
 - **$\text{HCl}$ and $\text{Na}_2\text{S}_2\text{O}_3$ (The Disappearing Cross Experiment):** 
@@ -139,7 +139,7 @@ If equal masses of marble are reacted with the same volume and concentration of 
 1. **Lumps of the same mass:** The reaction fizzes steadily but slowly because only the outside of the lumps is exposed.
 2. **Powdered form:** The reaction fizzes violently and finishes very quickly because a massive surface area is exposed to the acid.
 
-[IMAGE: A side-by-side comparison of the reaction of marble lumps versus powdered marble. On the left, a conical flask containing large chunks of marble (CaCO3) sitting in dilute HCl, with a few gas bubbles rising. On the right, an identical conical flask containing the same mass of finely powdered marble in dilute HCl, with vigorous fizzing and many gas bubbles rising quickly. Labels to add: 'Marble lumps (small surface area, slow reaction)', 'Powdered marble (large surface area, fast reaction)', 'Dilute HCl', 'CO_2 gas bubbles'. Clean flat textbook illustration, white background.]
+![A comparison showing large marble lumps reacting slowly with few bubbles on the left, and powdered marble reacting vigorously with many bubbles on the right.](images/A12-03-surface-area-reaction-rate.png)
 
 ### Types of Catalysts and Their Effects
 
@@ -185,7 +185,7 @@ A **reaction rate curve** is a graph that shows how the amount (or concentration
 
 **Objective vii: interpret reaction rate curves.**
 
-[IMAGE: A typical reaction rate curve plotting concentration against time. A 2D graph with 'Concentration' on the y-axis and 'Time' on the x-axis. Two curves are shown. One curve starts high on the y-axis and curves downwards, becoming less steep and eventually horizontal; it is labelled 'Reactants'. The other curve starts at the origin (0,0) and curves upwards, becoming less steep and eventually horizontal; it is labelled 'Products'. Tangent lines are drawn at the beginning of the 'Products' curve to show a steep initial rate, and later to show a decreasing rate. Clean flat textbook illustration, white background.]
+![Reaction rate graph showing reactant concentration decreasing and product concentration increasing over time, with tangents illustrating the steep initial rate and subsequent shallower decreasing rate.](images/A12-04-reaction-rate-concentration-time.png)
 
 When you look at a reaction rate curve for a **product** being formed:
 1. **The start (Initial Rate):** The curve is very steep. The gradient (slope) of the curve at any point gives the rate of reaction. The rate is highest at the beginning because the concentration of reactants is at its maximum.

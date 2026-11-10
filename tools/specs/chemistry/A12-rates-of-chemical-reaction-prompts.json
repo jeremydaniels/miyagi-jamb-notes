@@ -1,0 +1,18 @@
+[
+ [
+  "A12-01-energy-profile",
+  "An energy profile diagram for an exothermic reaction. A 2D graph with 'Energy' on the y-axis and 'Reaction Coordinate' on the x-axis. A horizontal line on the left is labelled 'Reactants'. From this line, a curve goes up to a rounded peak, then goes down to a lower horizontal line on the right labelled 'Products'. A vertical arrow points up from the 'Reactants' line to the peak of the curve, labelled 'Activation Energy (E_a)'. A second vertical arrow points down from the 'Reactants' line to the 'Products' line, labelled 'Enthalpy Change (\\Delta H)'. Clean flat textbook illustration, white background, black axes and labels, blue curve, red arrows."
+ ],
+ [
+  "A12-02-maxwell-boltzmann-distribution-curve",
+  "A Maxwell-Boltzmann kinetic energy distribution curve showing the effect of temperature. A 2D graph with 'Number of particles' on the y-axis and 'Kinetic Energy' on the x-axis. Two curves start at the origin. The first curve, labelled 'Lower Temperature (T_1)', goes up to a high peak, then tails off to the right. The second curve, labelled 'Higher Temperature (T_2)', has a lower and wider peak, shifted to the right, and crosses the first curve, remaining higher on the far right. A vertical dashed line on the right side of the x-axis is labelled 'Activation Energy (E_a)'. The area under both curves to the right of E_a is shaded, showing that the higher temperature curve has a much larger shaded area. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A12-03-surface-area-reaction-rate",
+  "A side-by-side comparison of the reaction of marble lumps versus powdered marble. On the left, a conical flask containing large chunks of marble (CaCO3) sitting in dilute HCl, with a few gas bubbles rising. On the right, an identical conical flask containing the same mass of finely powdered marble in dilute HCl, with vigorous fizzing and many gas bubbles rising quickly. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A12-04-reaction-rate-concentration-time",
+  "A typical reaction rate curve plotting concentration against time. A 2D graph with 'Concentration' on the y-axis and 'Time' on the x-axis. Two curves are shown. One curve starts high on the y-axis and curves downwards, becoming less steep and eventually horizontal; it is labelled 'Reactants'. The other curve starts at the origin (0,0) and curves upwards, becoming less steep and eventually horizontal; it is labelled 'Products'. Tangent lines are drawn at the beginning of the 'Products' curve to show a steep initial rate, and later to show a decreasing rate. Clean flat textbook illustration, white background."
+ ]
+]

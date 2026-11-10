@@ -292,7 +292,7 @@ The person may also show signs of low thyroxine (like myxoedema), and a pregnant
 | Eyes | Puffy around the eyes | May bulge (exophthalmos) |
 | Treatment | Thyroxine tablets; iodised salt for iodine deficiency | Anti-thyroid drugs, radioactive iodine, surgery |
 
-[IMAGE: Three-part diagram of the thyroid gland. Left: front view of the neck showing the larynx, the trachea and the butterfly-shaped thyroid gland with its two lobes and the narrow isthmus across the front of the trachea. Middle: back view of the thyroid showing four small oval parathyroid glands, two on each lobe. Right: outline of a person's head and neck in side view with a large rounded swelling in the front of the neck (goitre), drawn respectfully. Labels: larynx, trachea, thyroid gland, left lobe, right lobe, isthmus, parathyroid glands, goitre (enlarged thyroid). Clean flat textbook style, white background.]
+![Diagram showing the front view of the thyroid on the trachea, a posterior view highlighting four parathyroid glands, and a profile outline illustrating a goitre swelling.](images/B9c-05-thyroid-gland-anatomy-goitre.png)
 
 ### 3. The parathyroid glands
 

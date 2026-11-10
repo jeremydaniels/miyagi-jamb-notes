@@ -713,5 +713,78 @@
  },
  "B9c-14-fruit-ripening-ethylene": {
   "caption_below": "Unripe, ripening, and ripe fruits showing ethylene gas released and trapped in covered basket."
+ },
+ "B9c-05-thyroid-gland-anatomy-goitre": {
+  "regions": [
+   "left lobe",
+   "right lobe",
+   "isthmus"
+  ],
+  "labels": [
+   [
+    "larynx",
+    [
+     200,
+     390
+    ],
+    "L"
+   ],
+   [
+    "trachea",
+    [
+     200,
+     684
+    ],
+    "L"
+   ],
+   [
+    "thyroid gland",
+    [
+     202,
+     559
+    ],
+    "L"
+   ],
+   [
+    "left lobe",
+    [
+     278,
+     531
+    ],
+    "L"
+   ],
+   [
+    "right lobe",
+    [
+     131,
+     538
+    ],
+    "L"
+   ],
+   [
+    "isthmus",
+    [
+     200,
+     564
+    ],
+    "L"
+   ],
+   [
+    "parathyroid glands",
+    [
+     431,
+     464
+    ],
+    "L"
+   ],
+   [
+    "goitre (enlarged thyroid)",
+    [
+     849,
+     689
+    ],
+    "R"
+   ]
+  ]
  }
 }

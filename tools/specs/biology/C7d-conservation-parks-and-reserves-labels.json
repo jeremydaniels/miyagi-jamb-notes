@@ -2,22 +2,6 @@
  "C7d-01-renewable-nonrenewable-resources": {
   "labels": [
    [
-    "Renewable resources",
-    [
-     256,
-     30
-    ],
-    "L"
-   ],
-   [
-    "Non-renewable resources",
-    [
-     768,
-     30
-    ],
-    "R"
-   ],
-   [
     "Tree planting",
     [
      241,
@@ -55,7 +39,7 @@
      661,
      149
     ],
-    "R"
+    "T"
    ],
    [
     "Minerals",
@@ -97,25 +81,31 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Renewable resources",
+    256,
+    994
+   ],
+   [
+    "Non-renewable resources",
+    768,
+    996
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7d-02-stages-desertification": {
   "labels": [
-   [
-    "Healthy savanna",
-    [
-     186,
-     495
-    ],
-    "L"
-   ],
    [
     "Deforestation",
     [
      454,
      437
     ],
-    "L"
+    "T"
    ],
    [
     "Overgrazing",
@@ -123,7 +113,7 @@
      573,
      571
     ],
-    "R"
+    "T"
    ],
    [
     "Bush burning",
@@ -131,7 +121,7 @@
      581,
      307
     ],
-    "R"
+    "T"
    ],
    [
     "Bare soil",
@@ -139,7 +129,7 @@
      575,
      457
     ],
-    "R"
+    "T"
    ],
    [
     "Wind erosion",
@@ -156,16 +146,22 @@
      352
     ],
     "R"
+   ]
+  ],
+  "captions": [
+   [
+    "Healthy savanna",
+    185,
+    880
    ],
    [
-    "Desert-like land",
-    [
-     835,
-     565
-    ],
-    "R"
+    "Desert-like\nland",
+    836,
+    880
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C7d-03-shelterbelt-windbreak-landscape": {
   "labels": [

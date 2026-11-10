@@ -42,7 +42,7 @@ While some organisms can survive in both environments, most are specialized to a
 | **Common examples** | *Puccinia* (Rust), *Phytophthora* (Black pod), Cassava mosaic virus, Root-knot nematodes. | *Aspergillus flavus* (produces aflatoxins in groundnut), *Rhizopus* (soft rot of yam). |
 | **Nature of damage** | Stunting, yellowing, leaf drop, reduced crop yield, failure to produce fruit. | Rotting, discolouration, bad odours, loss of viability (seeds won't germinate), production of dangerous toxins. |
 
-[IMAGE: Split illustration. On the left side (Field): A growing maize plant in a sunny field with brown rusty spots (fungal rust) on its green leaves. On the right side (Store): A dark, indoor jute sack spilling harvested groundnuts; some groundnuts are covered in fuzzy green and black mould (Aspergillus). Labels to add later: "Field disease: attacks living tissue (e.g. Maize Rust)", "Store disease: attacks harvested produce (e.g. Groundnut Mould)". Clean flat textbook style, white background.]
+![A split illustration showing rust fungus on field-growing maize leaves on the left, and harvested groundnuts spilling from a sack with mold growth on the right.](images/B13-01-field-vs-store-crop.png)
 
 ## Account of diseases caused by fungi, bacteria, nematodes and viruses
 
@@ -84,7 +84,7 @@ Fungi destroy leaf area, reducing photosynthesis and ultimately yield. They rot 
 *   **Rice Blast:** Caused by *Pyricularia oryzae*. 
     *   *Symptoms:* Spindle-shaped (diamond-shaped) spots on leaves with grey centres and brown borders. It causes the neck of the rice panicle to rot and break.
 
-[IMAGE: A close-up illustration of a cocoa tree branch showing two pods. One pod is healthy and yellow/green. The other pod is entirely black and rotting, with a fuzzy whitish fungal growth visible on the surface. Labels to add later: "Healthy cocoa pod", "Black pod disease (Phytophthora palmivora)", "Blackened rotting tissue", "Fungal spores". Clean flat textbook style, white background.]
+![An illustration of a cocoa tree branch bearing a healthy yellow pod alongside a blackened, rotting pod infected with fuzzy fungal growth.](images/B13-02-cocoa-black-pod-disease.png)
 
 #### 2. Bacterial Diseases
 
@@ -137,7 +137,7 @@ Because viruses cannot survive freely in the environment, they are exclusively t
     *   *Symptoms:* Swelling of the stems and roots, leaf mottling, and die-back.
     *   *Spread:* Transmitted by the **mealybug**.
 
-[IMAGE: A cassava leaf showing classic mosaic virus symptoms. Instead of a uniform deep green, the leaf is mottled with bright yellow and pale green patches, and the edges are curled and distorted. Beside it, a magnified inset of a tiny whitefly. Labels to add later: "Mottled yellow and green patches", "Curled, distorted leaf shape", "Whitefly vector (Bemisia tabaci)". Clean flat textbook style, white background.]
+![Illustration of a palmate cassava leaf with distorted, curled edges and yellow mosaic mottling, accompanied by a circular magnified inset showing a whitefly vector.](images/B13-03-cassava-mosaic-virus-leaf.png)
 
 #### 4. Nematode Diseases
 

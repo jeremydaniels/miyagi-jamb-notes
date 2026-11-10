@@ -1,0 +1,75 @@
+{
+ "B13-01-field-vs-store-crop": {
+  "caption_below": "Field disease attacks living tissue"
+ },
+ "B13-02-cocoa-black-pod-disease": {
+  "regions": [
+   "Blackened rotting tissue"
+  ],
+  "labels": [
+   [
+    "Healthy cocoa pod",
+    [
+     491,
+     726
+    ],
+    "L"
+   ],
+   [
+    "Black pod disease (Phytophthora palmivora)",
+    [
+     721,
+     638
+    ],
+    "R"
+   ],
+   [
+    "Blackened rotting tissue",
+    [
+     735,
+     690
+    ],
+    "R"
+   ],
+   [
+    "Fungal spores",
+    [
+     783,
+     564
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B13-03-cassava-mosaic-virus-leaf": {
+  "regions": [
+   "Mottled yellow and green patches"
+  ],
+  "labels": [
+   [
+    "Mottled yellow and green patches",
+    [
+     312,
+     396
+    ],
+    "L"
+   ],
+   [
+    "Curled, distorted leaf shape",
+    [
+     528,
+     437
+    ],
+    "R"
+   ],
+   [
+    "Whitefly vector (Bemisia tabaci)",
+    [
+     783,
+     518
+    ],
+    "R"
+   ]
+  ]
+ }
+}

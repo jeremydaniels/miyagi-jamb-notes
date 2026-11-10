@@ -205,7 +205,7 @@ The UNO (usually just called the UN) was established to replace the failed **Lea
 
 **Specialized Agencies:** The UN does much of its practical work through agencies such as the World Health Organization (WHO), UNICEF (Children's Fund), UNESCO (Education, Science, and Culture), and the IMF (International Monetary Fund).
 
-[IMAGE: A flowchart showing the United Nations system. At the top is a box for "United Nations". Below it, branches lead to six boxes: "General Assembly", "Security Council (15 members, 5 with veto)", "Secretariat", "Economic and Social Council (ECOSOC)", "International Court of Justice", and "Trusteeship Council (dormant)". Below ECOSOC, draw a dotted box labeled "Specialized Agencies" listing WHO, UNICEF, UNESCO. Clean flat textbook style, white background.]
+![A flowchart showing the United Nations hierarchy branching into six principal organs, with specialized agencies connected beneath the Economic and Social Council.](images/D1-02-flowchart-united-nations-system.png)
 
 ### Achievements
 - **Preventing World War III:** It has provided a forum for diplomacy that has prevented another global conflict between major powers.

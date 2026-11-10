@@ -1,0 +1,85 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "The United Nations System",
+ "nodes": [
+  {
+   "id": "un",
+   "text": "United Nations",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ga",
+   "text": "General Assembly",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "sc",
+   "text": "Security Council\n(15 members, 5 with veto)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "sec",
+   "text": "Secretariat",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "ecosoc",
+   "text": "Economic and Social\nCouncil (ECOSOC)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "icj",
+   "text": "International Court\nof Justice",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "tc",
+   "text": "Trusteeship Council\n(dormant)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "spec",
+   "text": "Specialized Agencies\n(WHO, UNICEF, UNESCO)",
+   "shape": "plain",
+   "color": "lightgrey"
+  }
+ ],
+ "edges": [
+  {
+   "from": "un",
+   "to": "ga"
+  },
+  {
+   "from": "un",
+   "to": "sc"
+  },
+  {
+   "from": "un",
+   "to": "sec"
+  },
+  {
+   "from": "un",
+   "to": "ecosoc"
+  },
+  {
+   "from": "un",
+   "to": "icj"
+  },
+  {
+   "from": "un",
+   "to": "tc"
+  },
+  {
+   "from": "ecosoc",
+   "to": "spec"
+  }
+ ]
+}

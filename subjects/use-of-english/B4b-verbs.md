@@ -840,7 +840,7 @@ In British English, "need" + -ing has a passive meaning:
 
 Both "needs cutting" and "needs to be cut" are correct. "Needs to cut" is wrong if you mean the hair should be cut (it would mean the hair must cut something).
 
-[IMAGE: A simple flow diagram titled "Active to passive". Left box: "The cook (subject) prepared (verb) the meal (object)" with the three parts in three different soft colours. A curved arrow moves "the meal" from the end of the sentence to the front. Right box: "The meal (new subject) was prepared (be + past participle) by the cook (agent, optional)", using the same colours for matching parts. Below, a small strip of four steps: "1. Find the object", "2. Make it the subject", "3. be + past participle", "4. Add by + doer (optional)". Clean flat textbook style, white background.]
+![Flowchart showing active to passive transformation from active sentence to passive sentence via four sequential steps with a curved arrow tracking the object movement.](images/B4b-01-active-passive-flowchart.png)
 
 ## Worked examples: answering verb questions in JAMB
 

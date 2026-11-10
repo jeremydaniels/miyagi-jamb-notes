@@ -576,7 +576,7 @@ The main excretory organs (making up the **urinary system**) are the kidneys, ur
 
 **Textbook variation:** textbooks describe the uterus of the rat slightly differently: some call it "duplex" (two completely separate horns), others note that the two horns run side by side for a short distance near the cervix. Both describe a uterus with **two horns**, which is the key difference from the single human uterus.
 
-[IMAGE: Female reproductive and urinary organs of a mammal (rabbit), ventral view, as a practical drawing. Show two kidneys at the top with ureters leading down to the bladder; two small oval ovaries just behind the kidneys; a coiled oviduct beside each ovary with a frilly funnel (fimbriae); two long uterine horns running down and meeting at the vagina, each with its own cervix (duplex uterus); the bladder lying ventral to the vagina, its urethra joining the vagina to form a short vestibule (urinogenital sinus) opening at the vulva; the rectum behind. Beside it, a small inset of the human female system: single pear-shaped uterus, two oviducts with fimbriae, two ovaries, cervix and vagina. Labels: kidney, ureter, ovary, oviduct (Fallopian tube), fimbriae, uterine horn, uterus (human), cervix, vagina, bladder, urethra, vestibule (urinogenital sinus), vulva, rectum. Clean flat textbook style, white background.]
+![Diagram comparing the female reproductive and urinary system of a rabbit showing duplex uterus, kidneys, bladder, and rectum with an inset of the human female reproductive system.](images/B1-14-female-rabbit-reproductive-system.png)
 
 ### The rabbit, the rat and the human compared
 

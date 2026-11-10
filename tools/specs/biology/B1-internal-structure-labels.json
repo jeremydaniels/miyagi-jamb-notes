@@ -638,5 +638,131 @@
     "L"
    ]
   ]
+ },
+ "B1-14-female-rabbit-reproductive-system": {
+  "regions": [
+   "kidney",
+   "ovary",
+   "uterine horn",
+   "uterus (human)",
+   "vagina",
+   "bladder",
+   "vestibule (urinogenital sinus)",
+   "rectum"
+  ],
+  "labels": [
+   [
+    "kidney",
+    [
+     244,
+     149
+    ],
+    "L"
+   ],
+   [
+    "ureter",
+    [
+     285,
+     335
+    ],
+    "L"
+   ],
+   [
+    "ovary",
+    [
+     228,
+     278
+    ],
+    "L"
+   ],
+   [
+    "oviduct (Fallopian tube)",
+    [
+     178,
+     327
+    ],
+    "L"
+   ],
+   [
+    "fimbriae",
+    [
+     128,
+     223
+    ],
+    "L"
+   ],
+   [
+    "uterine horn",
+    [
+     230,
+     476
+    ],
+    "L"
+   ],
+   [
+    "uterus (human)",
+    [
+     814,
+     493
+    ],
+    "R"
+   ],
+   [
+    "cervix",
+    [
+     361,
+     619
+    ],
+    "L"
+   ],
+   [
+    "vagina",
+    [
+     361,
+     661
+    ],
+    "L"
+   ],
+   [
+    "bladder",
+    [
+     359,
+     735
+    ],
+    "L"
+   ],
+   [
+    "urethra",
+    [
+     357,
+     805
+    ],
+    "L"
+   ],
+   [
+    "vestibule (urinogenital sinus)",
+    [
+     377,
+     815
+    ],
+    "L"
+   ],
+   [
+    "vulva",
+    [
+     357,
+     864
+    ],
+    "L"
+   ],
+   [
+    "rectum",
+    [
+     218,
+     689
+    ],
+    "L"
+   ]
+  ]
  }
 }

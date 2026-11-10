@@ -1,0 +1,24 @@
+{
+ "B10-01-forage-grass-legume-morphology": {},
+ "B10-02-hay-silage-making-comparison": {
+  "caption_below": "Hay sun-dried to 15-20% moisture. Silage chopped and packed tightly in a pit silo, anaerobic fermentation.",
+  "labels": [
+   [
+    "rectangular bale",
+    [
+     109,
+     564
+    ],
+    "L"
+   ],
+   [
+    "plastic cover and soil to exclude air",
+    [
+     749,
+     412
+    ],
+    "R"
+   ]
+  ]
+ }
+}

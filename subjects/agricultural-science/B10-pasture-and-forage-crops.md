@@ -98,7 +98,7 @@ Morphology refers to the physical structure and form of the plants.
 - **Leaves:** Leaves are broad, possess network venation (net-veined), and are usually **compound**. For instance, Centrosema has trifoliate leaves (three leaflets per stalk).
 - **Flowers and Fruits:** The flowers are often brightly coloured (pink, purple, or yellow) to attract insect pollinators. The resulting fruit is a **pod** that splits open along two seams to release seeds.
 
-[IMAGE: Split diagram showing the morphology of a forage grass and a forage legume. Left side: A grass plant (like Guinea grass) showing fibrous roots, a cylindrical jointed culm with visible nodes and internodes, a leaf sheath wrapping the stem, a parallel-veined leaf blade, and a branching panicle inflorescence at the top. Right side: A trailing legume (like Centrosema) showing a deep taproot with small round root nodules, a trailing stem, compound leaves with three broad net-veined leaflets, and a small bean-like pod. Clean flat textbook illustration, white background, clear distinct labels for every part mentioned.]
+![A split botanical diagram comparing a forage grass with fibrous roots, jointed stem, and panicle to a trailing legume with taproot nodules, trifoliate leaves, and pods.](images/B10-01-forage-grass-legume-morphology.png)
 
 ### Methods of propagation
 
@@ -175,7 +175,7 @@ In West Africa, pasture growth is highly seasonal. During the rainy season, gras
 | **Storage facility** | Barns or dry sheds | Silos (pits, trenches, or towers) |
 | **Physical appearance and smell** | Dry, brittle, brownish-green plant material with a dusty smell | Moist, soft, pale yellow-green material with a sweet-sour fermented smell |
 
-[IMAGE: Split diagram contrasting Hay and Silage making. Left side (Hay): A sunny, open field with cut grass lying on the ground, and a tractor using a baler machine to produce rectangular bales of dry, brownish hay. Right side (Silage): A cross-section of an underground pit silo. The pit is lined with a thick plastic sheet, filled to the top with closely packed, chopped green forage, tightly covered over the top with more plastic, and weighed down heavily by a layer of soil and old tires to keep out all air. Labels to add later: "Hay: sun-dried to 15-20% moisture", "rectangular bale", "Silage: chopped and packed tightly in a pit silo", "anaerobic fermentation", "plastic cover and soil to exclude air". Clean flat textbook illustration, white background.]
+![Split diagram showing hay baling with a tractor and baler on the left, and a cross-section of an underground pit silo for silage on the right.](images/B10-02-hay-silage-making-comparison.png)
 
 ## Natural grasslands and their distribution in West Africa
 

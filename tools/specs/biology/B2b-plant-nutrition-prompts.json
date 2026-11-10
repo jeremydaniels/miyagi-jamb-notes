@@ -42,5 +42,9 @@
  [
   "B2b-07-variegated-leaf-starch-test",
   "Two drawings of the same variegated leaf side by side. Left: before the test, the leaf has a green centre and an irregular creamy-white border, with a pencil outline drawing beside it marking \"green\" and \"white\" areas. Right: the same leaf after the starch test on a white tile: the formerly green centre is blue-black and the formerly white border is brown. An arrow between them."
+ ],
+ [
+  "B2b-03-photosynthesis-stages-schematic",
+  "Flow diagram of the two stages of photosynthesis inside a large oval chloroplast. Left half \"light reactions (grana / thylakoids)\": sunlight striking a stack of thylakoids; water (H₂O) entering and splitting into oxygen (O₂, arrow leaving the chloroplast) and hydrogen; ADP + phosphate → ATP; NADP → reduced NADP. Two arrows carrying ATP and reduced NADP across to the right half. Right half \"dark reactions (stroma) / Calvin cycle\": a circular cycle with CO₂ entering and combining with RuBP (5C), forming 2 × PGA (3C), then reduced to triose phosphate (3C) using ATP and reduced NADP; one arrow leaving the cycle to glucose → starch; the rest returning to RuBP using ATP. ADP and NADP arrows return to the left half."
  ]
 ]

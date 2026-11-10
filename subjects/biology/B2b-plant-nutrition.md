@@ -128,7 +128,7 @@ The pathway was worked out by **Melvin Calvin** and his co-workers (using radioa
 
 **Textbook variation:** textbooks use different names for the same things: "light stage" or "photochemical stage" or "light-dependent reactions"; "dark stage" or "thermochemical stage", "biochemical stage", "light-independent reactions" or "Calvin cycle"; "NADPH", "NADPH₂" or "reduced NADP"; "PGA", "phosphoglyceric acid" or "glycerate 3-phosphate"; "PGAL", "GALP" or "triose phosphate". JAMB questions usually test the main ideas: where each stage happens, what goes in and what comes out.
 
-[IMAGE: Flow diagram of the two stages of photosynthesis inside a large oval chloroplast. Left half "light reactions (grana / thylakoids)": sunlight striking a stack of thylakoids; water (H₂O) entering and splitting into oxygen (O₂, arrow leaving the chloroplast) and hydrogen; ADP + phosphate → ATP; NADP → reduced NADP. Two arrows carrying ATP and reduced NADP across to the right half. Right half "dark reactions (stroma) / Calvin cycle": a circular cycle with CO₂ entering and combining with RuBP (5C), forming 2 × PGA (3C), then reduced to triose phosphate (3C) using ATP and reduced NADP; one arrow leaving the cycle to glucose → starch; the rest returning to RuBP using ATP. ADP and NADP arrows return to the left half. Labels: sunlight, chlorophyll, water, photolysis, oxygen, ATP, ADP + phosphate, reduced NADP, NADP, CO₂, RuBP, PGA, triose phosphate, glucose, starch, Calvin cycle, granum, stroma. Clean flat textbook style, white background.]
+![Diagram of photosynthesis showing light reactions in the thylakoid grana producing ATP and reduced NADP, which feed into the stroma Calvin cycle producing triose phosphate, glucose, and starch.](images/B2b-03-photosynthesis-stages-schematic.png)
 
 ### Light and dark reactions compared
 
@@ -351,7 +351,7 @@ The **first** sugar made in photosynthesis becomes **glucose**, but glucose does
 
 **Safety:** keep ethanol away from flames; use forceps to handle the hot leaf; wear eye protection; iodine stains skin and clothes.
 
-[IMAGE: Step-by-step diagram of the iodine test for starch in a leaf, in six numbered panels in two rows. 1: a leaf in a beaker of boiling water over a Bunsen flame. 2: the flame turned off. 3: the leaf in a boiling tube of ethanol standing in the beaker of hot water (water bath), the ethanol turning green. 4: the now pale leaf being dipped in a beaker of warm water. 5: the leaf spread flat on a white tile. 6: iodine solution being added with a dropper, the leaf turning blue-black. Labels: boil in water 1–2 minutes (kills cells), turn off flame, ethanol in water bath (removes chlorophyll), warm water (softens leaf), white tile, iodine solution, blue-black = starch. Clean flat textbook style, white background.]
+![Six-step diagram of the iodine test for starch in a leaf, showing boiling, ethanol decolorisation, rinsing, placing on a white tile, and adding iodine.](images/B2b-09-starch-test-leaf-steps.png)
 
 ### Common errors in the starch test
 

@@ -634,5 +634,26 @@
     "R"
    ]
   ]
+ },
+ "B2b-09-starch-test-leaf-steps": {
+  "caption_below": "Boil in water 1\u20132 minutes (kills cells), turn off flame, ethanol in water bath (removes chlorophyll), warm water (softens leaf), blue-black = starch.",
+  "labels": [
+   [
+    "white tile",
+    [
+     515,
+     924
+    ],
+    "R"
+   ],
+   [
+    "iodine solution",
+    [
+     886,
+     708
+    ],
+    "R"
+   ]
+  ]
  }
 }

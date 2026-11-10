@@ -49,7 +49,7 @@ For a simple contract to be valid and enforceable in a court of law, certain ess
 6. **Legality of object:** The purpose of the contract must be legal. A contract to smuggle contraband goods or commit a crime is illegal and void.
 7. **Consent:** The agreement must be made freely. It must not be obtained through force, threats, or fraud.
 
-[IMAGE: A circular flow diagram showing the 5 main elements of a contract. Five connected circles labeled "Offer (Clear proposal)", "Acceptance (Unconditional agreement)", "Consideration (Value exchanged, like money/goods)", "Intention (Desire to be legally bound)", and "Capacity (Legal ability to agree, e.g., over 18)". Clean flat textbook illustration, white background, bright contrasting colours for each circle.]
+![A circular diagram outlining the five main elements of a contract: offer, acceptance, consideration, intention, and capacity.](images/A14-01-elements-contract.png)
 
 #### 2. Validity of a Contract
 
@@ -132,7 +132,7 @@ If a seller has not been fully paid, they have special rights under the Act:
 
 **Hire Purchase** is a contract where the owner of goods lets them out on hire to a hirer, with an agreement that the hirer will pay in instalments, and the ownership (property) will transfer to the hirer *only when the final instalment is paid*. Until that final payment, the hirer is just renting the goods. If they fail to pay, the owner can repossess (take back) the goods.
 
-[IMAGE: A three-panel cartoon illustrating Hire Purchase. Panel 1: A man drives a new car out of a dealership, a speech bubble says "I'm paying in instalments, but it's still legally the dealer's car!" Panel 2: The man hands over cash month by month. Panel 3: He makes the final payment, the dealer hands him a certificate labeled "Ownership Document", and the man cheers. Clean flat textbook illustration, white background.]
+![A three-panel cartoon showing hire purchase steps: driving off a new car, paying regular monthly installments, and finally celebrating ownership upon receiving the certificate.](images/A14-02-hire-purchase-comic-strip.png)
 
 **Hire Purchase vs. Credit Sale vs. Deferred Payment:**
 It is very important not to confuse these terms.

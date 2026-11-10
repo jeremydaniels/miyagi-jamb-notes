@@ -48,7 +48,7 @@ As mathematics grew more complex, inventors created mechanical devices to help h
 
 **Uses:** It is manually operated to perform basic arithmetic: addition, subtraction, multiplication, and division. A skilled abacus user can calculate totals as fast as someone using a modern electronic calculator. It is still used today in parts of Asia and Africa for teaching mathematics to children.
 
-[IMAGE: An illustration of a traditional Chinese abacus (suanpan) showing a rectangular wooden frame divided by a horizontal beam. The upper deck has two beads per rod; the lower deck has five beads per rod. Some beads are moved towards the centre beam to show a calculated number. Clean flat textbook illustration, white background.]
+![Illustration of a traditional Chinese abacus with a wooden frame, horizontal beam, and colorful beads. The upper deck has two beads per rod, lower deck has five.](images/A1-01-traditional-chinese-abacus-suanpan.png)
 
 ### 2. Napier's Bones
 
@@ -104,7 +104,7 @@ As mathematics grew more complex, inventors created mechanical devices to help h
 **Uses:** It wove complex patterns (like flowers and leaves) into cloth automatically. 
 **Contribution to Computing:** The Jacquard Loom proved that **instructions (a program) could be stored on punch cards** and fed into a machine to control its actions. This idea of storing data and instructions on punched cards was later used in almost all early computers.
 
-[IMAGE: Illustration of the Jacquard Loom. A large wooden weaving frame. At the top, a continuous loop of heavy cardboard punch cards is feeding into the machine's mechanism, controlling the lifting of warp threads below to weave a pattern. Clean flat textbook illustration, white background.]
+![Illustration of a Jacquard Loom showing a wooden frame with punch cards feeding into the top mechanism to control the weaving pattern below.](images/A1-02-jacquard-loom-large-wooden.png)
 
 ### 7. Charles Babbage's Analytical Engine
 
@@ -161,7 +161,7 @@ The 20th century saw the leap from mechanical gears to electricity. World War II
 * **Programming problem:** It did not store programs inside itself. To give it a new set of instructions, human operators (many of whom were brilliant women) had to physically unplug and replug hundreds of thick cables on giant switchboards, which took days.
 * **Uses:** It was funded by the US military to calculate complex artillery firing tables (trajectories of bombs and shells) and to help design the hydrogen bomb.
 
-[IMAGE: A black and white style historical illustration of the ENIAC computer. A massive room filled with towering metal cabinets covered in dials, switches, and thick black cables plugged into various ports like an old telephone exchange. Two operators in 1940s clothing are plugging in patch cables. Clean flat textbook illustration, white background.]
+![A black and white illustration of two women in 1940s clothing operating the ENIAC computer, plugging cables into a large wall of panels with dials and switches.](images/A1-03-black-white-style-historical.png)
 
 ### 2. EDVAC (Electronic Discrete Variable Automatic Computer)
 

@@ -117,7 +117,7 @@ Trade routes were the physical paths that allowed the economy to function.
 - **Overland routes:** In the north, well-established caravan trails stretched across the desert to cities like Tripoli and Tunis. Inland, narrow bush paths connected major market towns. Rulers often maintained and protected these paths, charging tolls to merchants who used them.
 - **Waterways:** In the middle belt and the south, water transport was much faster and cheaper than carrying goods on heads. The Rivers Niger and Benue served as massive natural highways for large trade canoes. Along the coast, a complex, interconnected network of creeks and lagoons allowed traders to move safely without venturing into the rough Atlantic Ocean.
 
-[IMAGE: A map of the Nigeria area and North Africa showing traditional trade routes. Red arrows point northwards across the Sahara Desert from Kano and Borno towards Tripoli and Tunis, labeled "Trans-Saharan Trade (Slaves, Kola, Hides for Salt, Horses)". Blue arrows point southwards from the coast towards the Atlantic Ocean, labeled "Trans-Atlantic Trade (Slaves, Ivory for Guns, Spirits)". Green lines follow the River Niger and River Benue, labeled "Inland Waterway Routes". Clean flat textbook illustration, white background.]
+![A map illustrating traditional trade routes across Nigeria and North Africa, showing Trans-Saharan routes heading north, Trans-Atlantic routes heading south, and inland waterway routes along major rivers.](images/A4-02-map-traditional-nigerian-trade.png)
 
 ## Differentiating economic activities and specialties
 

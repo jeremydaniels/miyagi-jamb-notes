@@ -498,7 +498,7 @@ A **pyramid of energy** shows the **total amount of energy** flowing through eac
 - It is the **most accurate and useful** of the three pyramids, because it shows how efficiently energy is passed on.
 - **Weakness:** it is difficult to measure.
 
-[IMAGE: Three ecological pyramids side by side, each with labelled horizontal bars stacked from bottom to top for producers, primary consumers, secondary consumers and tertiary consumers. (1) Upright pyramid of numbers for grass, grasshoppers, lizards, hawk (wide base, narrow top). (2) Inverted pyramid of numbers for one tree (very narrow base bar with a tree icon), many caterpillars (wide bar), fewer birds (narrower bar) and fewer hawks. (3) Upright pyramid of energy with bars getting about ten times narrower at each level, marked 10,000 kJ, 1,000 kJ, 100 kJ, 10 kJ, and small curved arrows showing heat lost at each level. Labels: "pyramid of numbers (upright)", "pyramid of numbers (inverted: one tree)", "pyramid of energy (always upright)", "producers", "primary consumers", "secondary consumers", "tertiary consumers", "heat lost". Soft greens, yellows and oranges. Clean flat textbook style, white background.]
+![Three ecological diagrams comparing an upright pyramid of numbers, an inverted pyramid of numbers with a single tree, and an upright pyramid of energy with heat loss.](images/C2-08-ecological-pyramids-comparison-charts.png)
 
 #### The three pyramids compared
 
@@ -980,7 +980,7 @@ The nitrates formed are absorbed by plants (back to stage 2), and the cycle cont
 6. **Less need for expensive fertilisers**, which saves money and reduces pollution.
 7. **Protein-rich food:** because they get plenty of nitrogen, legume seeds are rich in **protein** (beans, groundnut and soya bean are important protein sources in Nigerian diets).
 
-[IMAGE: Two panels. Left: a cowpea (or groundnut) plant pulled from the soil showing its root system with many small round root nodules. Right: an enlarged cut-away section through one root nodule attached to a root, showing the outer layer, root cells packed with tiny rod-shaped Rhizobium bacteria, a pink-red central zone (leghaemoglobin) and a vascular strand connecting to the root. Arrows show nitrogen gas from soil air entering the nodule, and ammonia/amino acids passing to the plant and sugars passing from the plant to the nodule. Labels: "cowpea plant", "root nodules", "root", "nodule cortex", "infected cells with Rhizobium", "pink zone (leghaemoglobin)", "vascular tissue", "N2 from soil air", "ammonia and amino acids to plant", "sugars from plant to bacteria". Soft greens, browns and pinks. Clean flat textbook style, white background.]
+![A diagram of a legume plant showing root nodules on the left and a detailed cutaway cross-section of a root nodule with vascular connections on the right.](images/C2-14-root-nodule-anatomy.png)
 
 ### Comparing the three nutrient cycles
 

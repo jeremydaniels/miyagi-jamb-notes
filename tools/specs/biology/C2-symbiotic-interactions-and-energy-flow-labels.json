@@ -354,5 +354,71 @@
     "L"
    ]
   ]
+ },
+ "C2-14-root-nodule-anatomy": {
+  "caption_below": "N2 from soil air, ammonia and amino acids to plant, sugars from plant to bacteria.",
+  "regions": [
+   "nodule cortex",
+   "infected cells with Rhizobium",
+   "pink zone (leghaemoglobin)"
+  ],
+  "labels": [
+   [
+    "cowpea plant",
+    [
+     274,
+     327
+    ],
+    "L"
+   ],
+   [
+    "root nodules",
+    [
+     284,
+     696
+    ],
+    "L"
+   ],
+   [
+    "root",
+    [
+     905,
+     279
+    ],
+    "R"
+   ],
+   [
+    "nodule cortex",
+    [
+     584,
+     437
+    ],
+    "R"
+   ],
+   [
+    "infected cells with Rhizobium",
+    [
+     664,
+     513
+    ],
+    "R"
+   ],
+   [
+    "pink zone (leghaemoglobin)",
+    [
+     733,
+     538
+    ],
+    "R"
+   ],
+   [
+    "vascular tissue",
+    [
+     893,
+     182
+    ],
+    "R"
+   ]
+  ]
  }
 }

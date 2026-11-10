@@ -175,7 +175,7 @@ Surah al-Zalzalah (The Earthquake) is an 8-verse Madinan surah that vividly desc
 - **The Earth as a Witness:** The earth will literally "speak" or bear witness, revealing all the deeds committed on its surface, having been commanded to do so by Allah.
 - **Absolute Justice:** Humanity will be divided into groups to face their records. The core teaching here is divine justice: not a single action, even as small as a mustard seed or an atom (*dharratin*), is lost or ignored. A Muslim must be mindful of even the smallest good or bad deeds.
 
-[IMAGE: A simple flowchart illustrating the events of Surah al-Zalzalah. Top box: "The Final Earthquake". Arrow down to "Earth Yields Her Burdens". Arrow down to "Earth Relates Her Chronicles (Witness)". Arrow down splitting into two paths: "Atom's Weight of Good (Seen)" and "Atom's Weight of Evil (Seen)". Clean flat textbook illustration, white background, bold legible text.]
+![A flowchart detailing events of Surah al-Zalzalah from the final earthquake through the earth yielding burdens and testifying, leading to seeing an atom weight of good or evil.](images/A5b-01-surah-zalzalah-events-flowchart.png)
 
 ---
 

@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Events of Surah al-Zalzalah",
+ "nodes": [
+  {
+   "id": "earthquake",
+   "text": "The Final Earthquake",
+   "shape": "box"
+  },
+  {
+   "id": "burdens",
+   "text": "Earth Yields Her Burdens",
+   "shape": "box"
+  },
+  {
+   "id": "witness",
+   "text": "Earth Relates Her Chronicles (Witness)",
+   "shape": "box"
+  },
+  {
+   "id": "good",
+   "text": "Atom's Weight of Good (Seen)",
+   "shape": "round"
+  },
+  {
+   "id": "evil",
+   "text": "Atom's Weight of Evil (Seen)",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "earthquake",
+   "to": "burdens"
+  },
+  {
+   "from": "burdens",
+   "to": "witness"
+  },
+  {
+   "from": "witness",
+   "to": "good"
+  },
+  {
+   "from": "witness",
+   "to": "evil"
+  }
+ ]
+}

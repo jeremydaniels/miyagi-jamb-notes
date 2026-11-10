@@ -114,7 +114,7 @@ To access a website (for example, to check a result), follow these steps:
 
 When you open a web browser on a desktop computer, the window has several specific parts. While modern browsers (as of the 2020s) try to hide many of these to make the screen look clean, standard textbooks and JAMB questions use the classic browser layout.
 
-[IMAGE: A classic web browser window (like early Internet Explorer or Firefox). It must clearly label the Title Bar at the very top, the Menu Bar just below it (File, Edit, View, History, Bookmarks, Tools, Help), the Tool Bar with Back, Forward, Refresh, and Home button icons, the Address Bar containing a URL (http://www.example.com), a dedicated Search Bar next to it, and a hyperlink underlined in blue within the main webpage area. Style: clean flat textbook illustration, white background.]
+![Diagram of a classic web browser window showing labeled parts including title bar menu bar tool bar address bar search bar and a hyperlink.](images/F3-01-classic-web-browser-window.png)
 
 ### 1. Title Bar
 The topmost horizontal bar of the browser window. It displays the title of the webpage you are currently viewing and the name of the browser software (e.g., "JAMB eFacility - Google Chrome"). It also holds the minimize, maximize, and close buttons.

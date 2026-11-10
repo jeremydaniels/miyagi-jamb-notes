@@ -29,7 +29,7 @@ The professionals who carry out this teaching are called **agricultural extensio
 
 A very important feature of agricultural extension is that it is a **two-way process** (a two-way communication link). It takes new information from researchers to farmers, and it takes the farmers' problems and feedback back to the researchers to find solutions.
 
-[IMAGE: A simple cycle diagram showing the two-way flow of agricultural extension. At the top, a building labelled "Research Institutes (Scientists)". An arrow points right and down to a person with a clipboard labelled "Extension Agent", and continues down to a group of farmers in a field labelled "Farmers (End Users)". This represents "New technologies and ideas". Another arrow points back up from the farmers, through the extension agent, and back to the researchers. This represents "Farmers' problems and feedback". Clean flat textbook style, white background.]
+![Cycle diagram showing two-way agricultural extension flow among research institutes at the top, extension agents in the middle, and farmers at the bottom.](images/D6-01-agricultural-extension-flow.png)
 
 ## Importance of Agricultural Extension
 
@@ -113,7 +113,7 @@ The agent interacts with a group of farmers who have common interests.
 * **Field days and field trips:** Taking a group of farmers to a successful commercial farm or a research institute to see new methods in action.
 * **Town hall meetings and group discussions:** Gathering farmers in the village square to discuss problems and introduce new ideas.
 
-[IMAGE: A scene of a Method Demonstration on a farm. An extension agent in a green shirt and boots is standing in front of five farmers. The agent is holding a knapsack sprayer and pointing to the nozzle, showing the farmers how to adjust it. The farmers are watching closely. A small table beside the agent holds a bottle of safe, organic pesticide and a measuring cup. Labels to add later: "Extension agent", "Knapsack sprayer", "Method demonstration (teaching 'how-to')", "Farmers learning". Clean flat textbook style, white background.]
+![An agricultural extension agent wearing a knapsack sprayer demonstrates its nozzle to five attentive farmers standing near a table with supplies outdoors.](images/D6-02-extension-method-demonstration-scene.png)
 
 **3. Mass Extension Methods**
 These methods are used to reach thousands or millions of farmers at the same time.

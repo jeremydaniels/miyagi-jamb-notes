@@ -46,7 +46,7 @@ Different tree species and parts of the forest yield distinct products that serv
 | **Latex and Gums** | Rubber tree (*Hevea brasiliensis*), Gum Arabic (*Acacia senegal*) | Latex is coagulated and processed into natural rubber for vehicle tyres, footwear, and plastics. Gum Arabic is used as a thickener in the food, paint, and pharmaceutical industries. |
 | **Dyes and Resins** | Camwood, various tree saps | Used for traditional cosmetics, colouring fabrics (tie and dye), and manufacturing varnishes, glues, and adhesives. |
 
-[IMAGE: A cross-section of a rich tropical rainforest showing various forest products being utilized. On the left, a mature mahogany tree with a lumberjack in safety gear preparing to harvest timber. In the centre, a local woman gathering fallen branches for firewood and plucking wild fruits into a woven fibre basket. On the right, a rubber tree with a diagonal cut on its bark and a small cup collecting dripping white latex. Small animals (a monkey and a bird) are in the canopy. Labels to add later: "Timber extraction", "Non-timber forest products (fruits, firewood, fibre basket)", "Latex tapping", "Wildlife habitat". Clean flat textbook style, white background.]
+![A tropical rainforest scene illustrating timber harvesting on the left, non-timber forest products collection in the center, and rubber latex tapping on the right.](images/B15-01-tropical-rainforest-products-utilization.png)
 
 ## Forest conservation and management systems
 
@@ -105,7 +105,7 @@ The **taungya system** is a practice where forestry is integrated with agricultu
 
 **Advantages:** It continuously maintains soil fertility, reducing the need for expensive chemical fertilizers, controls soil erosion, and provides fodder for animals or firewood for the farmer. The farmer does not need to move to new land.
 
-[IMAGE: An alley cropping farm layout. The illustration shows parallel rows of leafy shrubs (Leucaena) that have been heavily pruned at the top. In the wide alleys between these shrub rows, healthy green maize plants are growing. The ground around the maize is covered with cut leaves and branches (mulch) from the shrubs. Labels to add later: "Row of leguminous shrubs", "Prunings used as mulch/green manure", "Alley planted with arable crops (maize)". Clean flat textbook style, white background.]
+![An alley cropping field showing parallel rows of pruned leguminous shrubs alternating with rows of green maize plants, with cut branches and leaves mulching the soil.](images/B15-02-alley-cropping-agroforestry-layout.png)
 
 #### Ley Farming
 **Ley farming** is a system where the planting of arable food crops is alternated with periods of sown pasture (grasses and legumes) for livestock grazing. 

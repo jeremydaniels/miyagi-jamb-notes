@@ -1,0 +1,49 @@
+{
+ "B15-01-tropical-rainforest-products-utilization": {
+  "caption_below": "Timber extraction and latex tapping",
+  "regions": [
+   "Wildlife habitat"
+  ],
+  "labels": [
+   [
+    "Non-timber forest products (fruits, firewood, fibre basket)",
+    [
+     596,
+     726
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B15-02-alley-cropping-agroforestry-layout": {
+  "regions": [
+   "Alley planted with arable crops (maize)"
+  ],
+  "labels": [
+   [
+    "Row of leguminous shrubs",
+    [
+     200,
+     658
+    ],
+    "L"
+   ],
+   [
+    "Prunings used as mulch/green manure",
+    [
+     500,
+     861
+    ],
+    "L"
+   ],
+   [
+    "Alley planted with arable crops (maize)",
+    [
+     464,
+     493
+    ],
+    "L"
+   ]
+  ]
+ }
+}

@@ -43,7 +43,7 @@ To address the fears of ethnic domination and bring government closer to the peo
 The government also set up the **Justice Akinola Aguda Panel** to advise on a new federal capital, because Lagos had become terribly congested, lacked space for expansion, and was geographically in the corner of the country.
 *   The panel recommended moving the capital to a central, neutral location. In **1976**, the government accepted the recommendation and announced the creation of the **Federal Capital Territory (FCT), Abuja**.
 
-[IMAGE: A map of Nigeria in 1976 showing the 19-state structure. The states are clearly outlined and labelled: Sokoto, Niger, Kaduna, Kano, Borno, Bauchi, Plateau, Gongola, Kwara, Oyo, Ondo, Ogun, Lagos, Bendel, Anambra, Imo, Rivers, Cross River, and Benue. A small distinct area in the centre is marked "FCT (Abuja)". Clean flat textbook style, white background, bold clear text.]
+![A schematic map of Nigeria in 1976 displaying its nineteen states and the centrally located Federal Capital Territory of Abuja.](images/D4-01-map-nineteen-states.png)
 
 ### 3. The 1976 Local Government Reforms
 

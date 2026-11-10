@@ -1,0 +1,34 @@
+[
+ [
+  "D2a-03-nucleotide-molecular-structure",
+  "A single nucleotide drawn as three joined simple shapes: a yellow circle for the phosphate group, a pale orange pentagon for the deoxyribose sugar, and a coloured rectangle for the nitrogenous base attached to the sugar. Beside it, four small rectangles in four distinct colours representing the four bases (green, red, blue, orange)."
+ ],
+ [
+  "D2a-05-mitosis-versus-meiosis-comparison",
+  "Side-by-side flow diagrams comparing mitosis and meiosis, starting from a parent cell containing two pairs of chromosomes (one long pair and one short pair; in each pair one chromosome red from the mother and one blue from the father). Left column \"Mitosis\": parent cell → chromosomes duplicated and lined up singly at the equator → two daughter cells each with the same four chromosomes (two red, two blue) as the parent. Right column \"Meiosis\": parent cell → homologous chromosomes paired up, with crossing over shown as swapped red and blue segments → first division separating pairs → second division separating chromatids → four daughter cells each with only two chromosomes (one long and one short), in different red/blue combinations."
+ ],
+ [
+  "D2a-08-monohybrid-cross-punnett-square",
+  "Monohybrid cross diagram for tall and dwarf pea plants in three tiers. Top tier (P): a tall pea plant and a dwarf pea plant with a multiplication sign between them. Arrows down to gametes shown as small circles. Middle tier (F1): four identical tall plants. Bottom tier (F2): a 2 by 2 Punnett square with T and t along the top and side; three squares contain small tall plant icons and one square contains a dwarf plant icon."
+ ],
+ [
+  "D2a-09-genetic-test-cross",
+  "Two side-by-side test-cross diagrams. Left: a black guinea pig crossed with a white guinea pig \"bb\", producing four black offspring. Right: a black guinea pig crossed with a white guinea pig \"bb\", producing two black and two white offspring."
+ ],
+ [
+  "D2a-10-incomplete-dominance-cross",
+  "Incomplete dominance cross in four-o'clock flowers. Top: a red trumpet-shaped flower crossed with a white flower. Middle (F1): pink flowers. Bottom (F2): a 2 by 2 Punnett square with R and W on the top and side; the squares show one red flower, two pink flowers and one white flower."
+ ],
+ [
+  "D2a-11-abo-inheritance-punnett-square",
+  "Punnett square for ABO inheritance: father group A (genotype I^A i) on the left, mother group B (genotype I^B i) on top, with gametes I^A and i down the side and I^B and i across the top. The four squares contain small coloured blood-drop icons: purple for AB, blue for A, green for B and white with red outline for O."
+ ],
+ [
+  "D2a-12-sex-determination-inheritance",
+  "Sex determination diagram. Top: a woman icon labelled with chromosome pair XX and a man icon labelled XY. Arrows to gametes: the woman produces two egg circles each containing X; the man produces one sperm with X and one sperm with Y. Crossing arrows to four children icons at the bottom: two girls labelled XX and two boys labelled XY. Use pink for X chromosomes and blue for the Y chromosome."
+ ],
+ [
+  "D2a-15-albinism-inheritance-pedigree-chart",
+  "A simple family tree (pedigree) over three generations using standard symbols: squares for males and circles for females, joined by horizontal marriage lines and vertical lines to children. Generation I: an unshaded square (normal father) and an unshaded circle (normal mother). Generation II: four children: an unshaded square, a fully shaded circle (girl with albinism), a half-shaded circle (carrier daughter) and an unshaded square. Generation III: the carrier daughter married to an unshaded square has two children, an unshaded circle and a fully shaded square."
+ ]
+]

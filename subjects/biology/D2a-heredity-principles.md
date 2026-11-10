@@ -169,7 +169,7 @@ DNA is a very long molecule made of many small units called **nucleotides** join
 
 Adenine and guanine are larger, double-ring bases called **purines**; cytosine and thymine are smaller, single-ring bases called **pyrimidines**.
 
-[IMAGE: A single nucleotide drawn as three joined simple shapes: a yellow circle for the phosphate group, a pale orange pentagon for the deoxyribose sugar, and a coloured rectangle for the nitrogenous base attached to the sugar. Beside it, four small rectangles in four distinct colours representing the four bases (green, red, blue, orange). Labels to add later: "phosphate", "deoxyribose sugar", "nitrogenous base", "nucleotide", "adenine (A)", "thymine (T)", "guanine (G)", "cytosine (C)". Clean flat textbook style, white background.]
+![Diagram showing the structure of a nucleotide with phosphate, deoxyribose sugar, and nitrogenous base, alongside four colored boxes representing adenine, thymine, guanine, and cytosine.](images/D2a-03-nucleotide-molecular-structure.png)
 
 ### The double helix
 
@@ -251,7 +251,7 @@ Mitosis is used for **growth**, **repair** of damaged tissues (e.g. healing of a
 4. **Second division (meiosis II):** in each of the two cells, the chromatids separate, as in mitosis.
 5. Result: **four haploid cells**, all genetically different from each other and from the parent cell.
 
-[IMAGE: Side-by-side flow diagrams comparing mitosis and meiosis, starting from a parent cell containing two pairs of chromosomes (one long pair and one short pair; in each pair one chromosome red from the mother and one blue from the father). Left column "Mitosis": parent cell → chromosomes duplicated and lined up singly at the equator → two daughter cells each with the same four chromosomes (two red, two blue) as the parent. Right column "Meiosis": parent cell → homologous chromosomes paired up, with crossing over shown as swapped red and blue segments → first division separating pairs → second division separating chromatids → four daughter cells each with only two chromosomes (one long and one short), in different red/blue combinations. Labels to add later: "parent cell (2n = 4)", "mitosis", "meiosis", "homologous pair", "crossing over", "first division: pairs separate", "second division: chromatids separate", "2 identical diploid cells", "4 different haploid cells (n = 2)". Clean flat textbook style, white background.]
+![Side-by-side comparison diagram of mitosis producing two identical diploid cells and meiosis producing four genetically diverse haploid cells from a parent cell with four chromosomes.](images/D2a-05-mitosis-versus-meiosis-comparison.png)
 
 ### Mitosis and meiosis compared
 
@@ -485,7 +485,7 @@ Punnett square:
 - **Phenotypic ratio:** **3 tall : 1 dwarf**.
 - Probability that any one F₂ plant is dwarf = ¼; tall = ¾. Of the tall plants, ⅓ are TT and ⅔ are Tt.
 
-[IMAGE: Monohybrid cross diagram for tall and dwarf pea plants in three tiers. Top tier (P): a tall pea plant and a dwarf pea plant with a multiplication sign between them. Arrows down to gametes shown as small circles. Middle tier (F1): four identical tall plants. Bottom tier (F2): a 2 by 2 Punnett square with T and t along the top and side; three squares contain small tall plant icons and one square contains a dwarf plant icon. Labels to add later: "P: pure tall (TT) × pure dwarf (tt)", "gametes T", "gametes t", "F1: all tall (Tt)", "F1 × F1 (Tt × Tt)", "F2", "TT", "Tt", "Tt", "tt", "3 tall : 1 dwarf", "1 TT : 2 Tt : 1 tt". Clean flat textbook style, white background.]
+![Mendelian monohybrid cross diagram showing P generation crossing tall and dwarf pea plants, F1 generation all tall plants, and F2 Punnett square resulting in 3 tall to 1 dwarf.](images/D2a-08-monohybrid-cross-punnett-square.png)
 
 ### Cross 3: heterozygote × homozygous recessive (Tt × tt): the 1 : 1 ratio
 
@@ -534,7 +534,7 @@ A tall pea plant could be **TT** or **Tt**; you cannot tell by looking. To find 
 
 Why a recessive is used: the homozygous recessive parent gives only recessive alleles, so the offspring's phenotypes directly show which alleles came from the unknown parent. Breeders use test crosses to check that animals or plants are pure-breeding before using them.
 
-[IMAGE: Two side-by-side test-cross diagrams. Left: a black guinea pig labelled "BB?" crossed with a white guinea pig "bb", producing four black offspring. Right: a black guinea pig labelled "Bb?" crossed with a white guinea pig "bb", producing two black and two white offspring. Labels to add later: "Test cross", "unknown black parent", "homozygous recessive white parent (bb)", "all black: parent was BB", "1 black : 1 white: parent was Bb". Clean flat textbook style, white background.]
+![Two test cross diagrams in guinea pigs showing crosses between an unknown black parent and a homozygous recessive white parent to determine homozygous or heterozygous dominant genotype.](images/D2a-09-genetic-test-cross.png)
 
 ## Incomplete dominance and codominance
 
@@ -560,7 +560,7 @@ In **incomplete dominance**, **neither allele is completely dominant**. The hete
 
 Other examples: flower colour in snapdragons (*Antirrhinum*); feather colour in **Andalusian fowl** (black × white-splashed gives **blue** offspring; blue × blue gives 1 black : 2 blue : 1 white-splashed).
 
-[IMAGE: Incomplete dominance cross in four-o'clock flowers. Top: a red trumpet-shaped flower crossed with a white flower. Middle (F1): pink flowers. Bottom (F2): a 2 by 2 Punnett square with R and W on the top and side; the squares show one red flower, two pink flowers and one white flower. Labels to add later: "P: red (RR) × white (WW)", "F1: all pink (RW)", "F2: 1 red : 2 pink : 1 white", "RR", "RW", "RW", "WW", "Mirabilis jalapa (four-o'clock)". Clean flat textbook style, white background.]
+![Diagram of incomplete dominance in Mirabilis jalapa showing a cross between red and white flowers yielding pink F1 offspring, followed by an F2 Punnett square.](images/D2a-10-incomplete-dominance-cross.png)
 
 ### Codominance
 
@@ -616,7 +616,7 @@ A heterozygous group A father (I<sup>A</sup>i) and a heterozygous group B mother
 - **Result:** 1 AB : 1 A : 1 B : 1 O. Each child has a ¼ chance of each blood group. This is how two parents can have four children with **four different blood groups**.
 - If both parents were homozygous (I<sup>A</sup>I<sup>A</sup> × I<sup>B</sup>I<sup>B</sup>), all the children would be **AB**.
 
-[IMAGE: Punnett square for ABO inheritance: father group A (genotype I^A i) on the left, mother group B (genotype I^B i) on top, with gametes I^A and i down the side and I^B and i across the top. The four squares contain small coloured blood-drop icons: purple for AB, blue for A, green for B and white with red outline for O. Labels to add later: "Father: group A (I^A i)", "Mother: group B (I^B i)", "I^A I^B = AB", "I^A i = A", "I^B i = B", "ii = O", "1 AB : 1 A : 1 B : 1 O". Clean flat textbook style, white background.]
+![A Punnett square showing ABO blood group inheritance from a group A father and group B mother, yielding AB, A, B, and O offspring in equal proportions.](images/D2a-11-abo-inheritance-punnett-square.png)
 
 ## Probability in genetics
 
@@ -681,7 +681,7 @@ To find the **expected number** of offspring of each kind, multiply the probabil
 
 **The Y chromosome carries a key gene (called SRY) that makes the embryo develop testes**, which then produce male hormones. Without a Y chromosome, the embryo develops as a female.
 
-[IMAGE: Sex determination diagram. Top: a woman icon labelled with chromosome pair XX and a man icon labelled XY. Arrows to gametes: the woman produces two egg circles each containing X; the man produces one sperm with X and one sperm with Y. Crossing arrows to four children icons at the bottom: two girls labelled XX and two boys labelled XY. Use pink for X chromosomes and blue for the Y chromosome. Labels to add later: "Mother (XX)", "Father (XY)", "eggs: all X", "sperm: X or Y", "XX girl", "XY boy", "1 girl : 1 boy", "the father's sperm decides the sex". Clean flat textbook style, white background.]
+![Sex determination diagram showing how maternal X eggs and paternal X or Y sperm combine to produce an equal ratio of XX female and XY male offspring.](images/D2a-12-sex-determination-inheritance.png)
 
 ### Who decides the sex of a child?
 
@@ -929,7 +929,7 @@ Two parents with normal skin pigmentation have a child with **albinism**.
 6. **Probability that a normal child of theirs is a carrier:** among the normal children (AA, Aa, Aa), 2 out of 3 are carriers, so **⅔**.
 7. **Probability that their next two children both have albinism** = ¼ × ¼ = **1/16**.
 
-[IMAGE: A simple family tree (pedigree) over three generations using standard symbols: squares for males and circles for females, joined by horizontal marriage lines and vertical lines to children. Generation I: an unshaded square (normal father) and an unshaded circle (normal mother). Generation II: four children: an unshaded square, a fully shaded circle (girl with albinism), a half-shaded circle (carrier daughter) and an unshaded square. Generation III: the carrier daughter married to an unshaded square has two children, an unshaded circle and a fully shaded square. Labels to add later: "I", "II", "III", "normal male", "normal female", "affected (albinism)", "carrier", "Aa", "Aa", "aa", "both parents must be carriers (Aa)". Clean flat textbook style, white background.]
+![Pedigree chart over three generations showing the inheritance of albinism, with symbols for normal, carrier, and affected individuals alongside a key and genotype annotations.](images/D2a-15-albinism-inheritance-pedigree-chart.png)
 
 ### Worked problem 6: blood groups
 

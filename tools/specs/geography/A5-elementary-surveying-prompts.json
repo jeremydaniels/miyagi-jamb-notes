@@ -6,5 +6,9 @@
  [
   "A5-03-open-closed-traverse-diagrams",
   "A side-by-side diagram showing an Open Traverse and a Closed Traverse. Left side (Open Traverse): Five points connected by straight lines (A -> B -> C -> D -> E) zigzagging downwards, with an arrow pointing along a winding river next to it. Right side (Closed Traverse): Five points forming a closed pentagon shape (A -> B -> C -> D -> E -> A), with a dashed line showing a slight gap between the final point E and the starting point A,."
+ ],
+ [
+  "A5-02-prismatic-compass",
+  "A detailed diagram of a prismatic compass mounted on a tripod. Key parts are labelled: the sighting slit and hair (on one side), the magnifying glass prism (on the opposite side), the circular aluminium ring graduated in degrees, and the broad magnetic needle pointing North. An eye is shown looking horizontally through the prism towards a distant ranging pole."
  ]
 ]

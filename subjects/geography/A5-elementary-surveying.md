@@ -97,7 +97,7 @@ Traversing involves establishing a series of connected straight lines. At each s
 3. **Ranging Poles, Chain/Tape, and Arrows:** Used for marking stations and measuring the distances between them, just as in chain surveying.
 4. **Field Book:** Used to record distances, Forward Bearings, and Back Bearings.
 
-[IMAGE: A detailed diagram of a prismatic compass mounted on a tripod. Key parts are labelled: the sighting slit and hair (on one side), the magnifying glass prism (on the opposite side), the circular aluminium ring graduated in degrees, and the broad magnetic needle pointing North. An eye is shown looking horizontally through the prism towards a distant ranging pole. Clean flat textbook style, white background.]
+![Diagram of a prismatic compass on a tripod showing an eye sighting through the prism towards a vane, with a circular ring and magnetic needle.](images/A5-02-prismatic-compass.png)
 
 ### Procedure for Compass Surveying
 

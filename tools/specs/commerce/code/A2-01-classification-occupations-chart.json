@@ -1,0 +1,115 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Classification of Occupations",
+ "nodes": [
+  {
+   "id": "occ",
+   "text": "OCCUPATION",
+   "shape": "box",
+   "color": "#1f77b4"
+  },
+  {
+   "id": "ind",
+   "text": "INDUSTRIAL",
+   "shape": "box",
+   "color": "#ff7f0e"
+  },
+  {
+   "id": "comm",
+   "text": "COMMERCIAL",
+   "shape": "box",
+   "color": "#2ca02c"
+  },
+  {
+   "id": "serv",
+   "text": "SERVICES",
+   "shape": "box",
+   "color": "#d62728"
+  },
+  {
+   "id": "ext",
+   "text": "Extractive",
+   "shape": "round",
+   "color": "#aec7e8"
+  },
+  {
+   "id": "man",
+   "text": "Manufacturing",
+   "shape": "round",
+   "color": "#aec7e8"
+  },
+  {
+   "id": "con",
+   "text": "Constructive",
+   "shape": "round",
+   "color": "#aec7e8"
+  },
+  {
+   "id": "trd",
+   "text": "Trade",
+   "shape": "round",
+   "color": "#98df8a"
+  },
+  {
+   "id": "aid",
+   "text": "Aids to Trade",
+   "shape": "round",
+   "color": "#98df8a"
+  },
+  {
+   "id": "dir",
+   "text": "Direct (Personal)",
+   "shape": "round",
+   "color": "#ff9896"
+  },
+  {
+   "id": "indr",
+   "text": "Indirect (Public)",
+   "shape": "round",
+   "color": "#ff9896"
+  }
+ ],
+ "edges": [
+  {
+   "from": "occ",
+   "to": "ind"
+  },
+  {
+   "from": "occ",
+   "to": "comm"
+  },
+  {
+   "from": "occ",
+   "to": "serv"
+  },
+  {
+   "from": "ind",
+   "to": "ext"
+  },
+  {
+   "from": "ind",
+   "to": "man"
+  },
+  {
+   "from": "ind",
+   "to": "con"
+  },
+  {
+   "from": "comm",
+   "to": "trd"
+  },
+  {
+   "from": "comm",
+   "to": "aid"
+  },
+  {
+   "from": "serv",
+   "to": "dir"
+  },
+  {
+   "from": "serv",
+   "to": "indr"
+  }
+ ]
+}

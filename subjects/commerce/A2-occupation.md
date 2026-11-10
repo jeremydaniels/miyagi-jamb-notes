@@ -45,7 +45,7 @@ People engage in occupations for various reasons, and these activities are vital
 
 The various occupations available in an economy can be grouped into three broad categories: **Industrial**, **Commercial**, and **Services**. 
 
-[IMAGE: A detailed organisational chart mapping the classification of occupations. At the top is a box labelled "OCCUPATION". Three arrows branch down from it to boxes labelled "INDUSTRIAL", "COMMERCIAL", and "SERVICES". From "INDUSTRIAL", three sub-branches drop to "Extractive", "Manufacturing", and "Constructive". From "COMMERCIAL", two sub-branches drop to "Trade" and "Aids to Trade". From "SERVICES", two sub-branches drop to "Direct (Personal)" and "Indirect (Public)". Use a clean flat textbook style with a white background and clear, contrasting colours for the different levels of the hierarchy.]
+![A hierarchy diagram branching Occupation into Industrial, Commercial, and Services, further divided into subcategories such as Extractive, Manufacturing, Trade, Aids to Trade, and Personal services.](images/A2-01-classification-occupations-chart.png)
 
 ### 1. Industrial Occupations
 Industry refers to all activities involved in the physical extraction of raw materials, their conversion into finished goods, and the assembly of parts into structures. Industrial occupations are divided into three:

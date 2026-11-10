@@ -22,7 +22,7 @@ In the 19th century, West Africa experienced a wave of Islamic revolutions known
 
 The most famous of these was the **Sokoto Jihad** of 1804 led by Usman dan Fodio in the Hausa states (covered in detail in `B1-the-sokoto-caliphate.md`). However, Sokoto was not the only one. The success in Sokoto inspired and directly influenced other major reform movements across the western Sudan (the savanna belt of West Africa), particularly those of **Seku Ahmadu** in Macina and **Al-Hajj Umar** in the Senegambia and Mali regions. Later in the century, **Samori Toure** used Islam to build a massive resistance empire against the French.
 
-[IMAGE: A detailed historical map of West Africa in the mid-to-late 19th century. The map shows four large shaded regions representing the major Islamic empires. In the east (modern Nigeria/Niger), a large green area labeled "Sokoto Caliphate (Usman dan Fodio)". To its west (modern Mali), a yellow area labeled "Macina Empire / Hamdallahi (Seku Ahmadu)". Further west and stretching across to Senegal, a purple area labeled "Tukolor Empire (Al-Hajj Umar Tall)". In the southwest (modern Guinea/Mali/Ivory Coast border), a red-outlined area labeled "Mandinka / Wassoulou Empire (Samori Toure)". Important cities like Sokoto, Hamdallahi, Segou, Dinguiraye, and Kankan are marked with dots. Clean flat textbook style, white background, clear borders.]
+![A historical map of nineteenth-century West Africa illustrating the Sokoto Caliphate, Macina Empire, Tukolor Empire, and Wassoulou Empire alongside major regional cities.](images/E1-01-historical-map-west-africa.png)
 
 ## The Relationship between the Sokoto Jihad and other Jihads
 

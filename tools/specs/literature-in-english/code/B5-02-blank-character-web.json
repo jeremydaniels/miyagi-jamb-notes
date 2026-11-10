@@ -1,0 +1,10 @@
+{
+ "template": "hub",
+ "center": "Lucas (Protagonist)",
+ "spokes": [
+  "Lucy",
+  "Isabelle",
+  "Character 4",
+  "Character 5"
+ ]
+}

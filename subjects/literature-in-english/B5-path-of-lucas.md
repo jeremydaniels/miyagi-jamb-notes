@@ -43,7 +43,7 @@ Several sources agree that the story is built around Lucas Clarkson, who tells t
 
 **[TO BE COMPLETED: full chapter-by-chapter plot summary, including the main turning points, the climax and the resolution]**
 
-[IMAGE: A blank Freytag's Pyramid (plot mountain) diagram showing five stages: Exposition, Rising Action, Climax, Falling Action and Resolution. Under each stage is an empty rectangular box for students to write the events of the novel. Labels to add later: "Exposition", "Rising Action", "Climax", "Falling Action", "Resolution". Clean flat textbook style, white background.]
+![A diagram of Freytags Pyramid showing Exposition, Rising Action, Climax, Falling Action, and Resolution, each connected to an empty lined text box.](images/B5-01-blank-freytags-pyramid-worksheet.png)
 
 ## Setting and Period (Objective c.iii)
 
@@ -69,7 +69,7 @@ Lucy is Lucas's daughter, the listener in a coma. Study guides and a review name
 
 **[TO BE COMPLETED: the full cast with relationships and traits, supported by actions and speech from the book]**
 
-[IMAGE: A blank character map diagram. In the centre is a large circle labelled "Lucas (Protagonist)". Four smaller blank circles are connected to it by lines. Labels to add later: "Lucas (Protagonist)", "Lucy", "Isabelle", "Character 4", "Character 5". Clean flat textbook style, white background.]
+![Character map with a central green oval labeled Lucas Protagonist connected to four surrounding boxes labeled Lucy, Isabelle, Character 4, and Character 5.](images/B5-02-blank-character-web.png)
 
 ## Themes (Objective c.i)
 

@@ -28,7 +28,7 @@ The normal sequence of land preparation practices is:
 3. **Farm layout and plotting:** Marking out the land into plots, roads, and paths to ensure efficient use of space and easy movement.
 4. **Soil tillage:** The actual mechanical manipulation of the soil to prepare a seedbed.
 
-[IMAGE: A flowchart showing the sequential steps of land preparation. Step 1: "Land Clearing" showing a farmer with a cutlass slashing tall grass. Step 2: "Stumping" showing a pickaxe hitting a thick tree root. Step 3: "Ploughing (Primary Tillage)" showing a tractor with a disc plough turning over large clods of soil. Step 4: "Harrowing (Secondary Tillage)" showing a tractor breaking clods into finer soil. Step 5: "Ridging" showing neat heaps/ridges of soil. Clean flat textbook style, white background, arrows connecting the steps.]
+![Illustrations showing five steps of land preparation including clearing grass, stumping tree roots, ploughing with discs, harrowing to break soil, and formed ridges.](images/B4-01-land-preparation-steps-flowchart.png)
 
 ### Soil tillage
 
@@ -105,7 +105,7 @@ Not all crops require the soil to be heavily ploughed and ridged. Over time, dif
 * Soil may become too compact over time, restricting the root growth of some crops.
 * Pests and disease pathogens left in crop residues on the surface can easily infect the new crop.
 
-[IMAGE: A side-by-side comparison diagram. Left side: "Conventional Tillage" showing bare, loose soil in ridges, vulnerable to a rainstorm washing soil down the slope (erosion). Right side: "Zero Tillage" showing soil covered with dead plant residue (mulch) and new maize plants growing straight out of small slits in the soil, with rain hitting the mulch and soaking in without washing soil away. Clean flat textbook style, white background, clear labels.]
+![A comparison showing soil erosion on bare tilled slopes during rain versus zero tillage with protective mulch allowing water to soak in around growing maize plants.](images/B4-02-conventional-vs-zero-tillage.png)
 
 ## Factors affecting choice of tillage methods
 

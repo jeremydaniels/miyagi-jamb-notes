@@ -48,7 +48,7 @@ Graph $x \ge -2$ on a number line.
 2. Draw a **closed circle** ($\bullet$) at $-2$ because the symbol is $\ge$ (it includes "equal to").
 3. Draw a thick line or an arrow pointing to the right, covering all numbers greater than $-2$.
 
-[IMAGE: A horizontal number line with a shaded closed circle at -2 and a thick line with an arrow pointing to the right. Labels to add later: "-3, -2, -1, 0, 1", "x >= -2". Clean flat textbook style, white background.]
+![A number line displaying the inequality x is greater than or equal to -2, featuring a closed circle at -2 and a shaded ray pointing to the right.](images/B3-01-linear-inequality-number-line.png)
 
 ### Graphical solutions on a Cartesian plane (x-y plane)
 
@@ -65,7 +65,7 @@ Find the graphical solution for $y > 2x + 1$.
 
 **Textbook variation on shading:** In some mathematics textbooks, the required (true) region is shaded. However, in WAEC and JAMB, it is common to shade the **unwanted (false) region** so that the required region is left completely clear and unshaded. This is especially useful when graphing multiple inequalities. Always read the exam question carefully! In these notes, unless stated otherwise, we assume the unshaded region is the required region.
 
-[IMAGE: Cartesian plane showing a dashed straight line passing through (0, 1) and (-0.5, 0). The region below the line (containing the origin) is shaded with light grey diagonal lines. The region above the line is clear and unshaded. Labels to add later: "y", "x", "y = 2x + 1", "Unwanted region (shaded)", "Required region: y > 2x + 1". Clean flat textbook style, white background.]
+![Cartesian graph showing the inequality y > 2x + 1, with a dashed boundary line and the unwanted region below the line shaded with diagonal lines.](images/B3-02-linear-inequality-cartesian-region.png)
 
 ## Quadratic inequalities with integral roots
 
@@ -85,7 +85,7 @@ Solve $x^2 - 5x + 6 > 0$.
 4. **Find the range:** We want the expression to be $> 0$. This means we want the parts of the curve that are **above** the x-axis. Looking at a U-shape, the curve goes above the x-axis on the outside of the roots.
 5. **Answer:** $x < 2$ or $x > 3$.
 
-[IMAGE: U-shaped parabola on a Cartesian plane crossing the horizontal x-axis at 2 and 3. The sections of the parabola that rise above the x-axis on the left and right are drawn with a thick solid line. Labels to add later: "x", "2", "3", "y = x^2 - 5x + 6", "+", "+". Clean flat textbook style, white background.]
+![Graph of the parabola y equals x squared minus 5x plus 6 intersecting the horizontal axis at 2 and 3, with positive regions above the axis marked with plus signs.](images/B3-03-quadratic-inequality-parabola-graph.png)
 
 **Example 5: Using the number line test**
 Solve $8 - 2x - x^2 \le 0$.
@@ -186,7 +186,7 @@ A required (unshaded) region on a Cartesian plane is a triangle in the first qua
    Since $2 < 4$, the inequality is $x + y < 4$.
 5. **Answer:** The region is defined by $x \ge 0$, $y \ge 0$, $x + y < 4$.
 
-[IMAGE: Cartesian plane showing the first quadrant. A dashed straight line passes through (0, 4) and (4, 0). The triangle formed by the x-axis, y-axis, and the dashed line is clear (unshaded), while the regions outside this triangle are shaded with light grey diagonal lines. Labels to add later: "y", "x", "4" on y-axis, "4" on x-axis, "x + y = 4", "Required region R". Clean flat textbook style, white background.]
+![First quadrant showing a dashed line x plus y equals 4 through points 0, 4 and 4, 0, with the region above shaded and labelled Required region R.](images/B3-04-linear-inequality-system-region.png)
 
 **Example 12: Interpreting a quadratic inequality graph**
 The graph shows a parabola crossing the x-axis at $x = -2$ and $x = 4$. It is a U-shape (opens upwards). The required region is marked above the x-axis. Find the inequality.

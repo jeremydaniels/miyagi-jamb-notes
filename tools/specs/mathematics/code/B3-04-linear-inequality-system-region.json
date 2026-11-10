@@ -1,0 +1,70 @@
+{
+ "template": "graph",
+ "x_label": "x",
+ "y_label": "y",
+ "xmax": 8,
+ "ymax": 8,
+ "xticks": [
+  [
+   4,
+   "4"
+  ]
+ ],
+ "yticks": [
+  [
+   4,
+   "4"
+  ]
+ ],
+ "series": [
+  {
+   "points": [
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     0
+    ]
+   ],
+   "style": "dashed",
+   "color": "black"
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     0,
+     4
+    ],
+    [
+     4,
+     0
+    ],
+    [
+     8,
+     0
+    ],
+    [
+     8,
+     8
+    ],
+    [
+     0,
+     8
+    ]
+   ],
+   "text": "Required region R",
+   "color": "#E5E7EB"
+  }
+ ],
+ "notes": [
+  {
+   "x": 2.5,
+   "y": 2.5,
+   "text": "x + y = 4"
+  }
+ ]
+}

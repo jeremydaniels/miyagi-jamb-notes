@@ -1,0 +1,114 @@
+{
+ "E2-01-simple-farm-tools-collection": {
+  "labels": [
+   [
+    "Cutlass",
+    [
+     223,
+     176
+    ],
+    "L"
+   ],
+   [
+    "Hoe",
+    [
+     431,
+     254
+    ],
+    "L"
+   ],
+   [
+    "Axe",
+    [
+     883,
+     129
+    ],
+    "R"
+   ],
+   [
+    "Spade",
+    [
+     125,
+     589
+    ],
+    "L"
+   ],
+   [
+    "Shovel",
+    [
+     448,
+     590
+    ],
+    "L"
+   ],
+   [
+    "Garden fork",
+    [
+     770,
+     579
+    ],
+    "R"
+   ],
+   [
+    "Hand trowel",
+    [
+     120,
+     883
+    ],
+    "L"
+   ],
+   [
+    "Hand fork",
+    [
+     322,
+     890
+    ],
+    "L"
+   ],
+   [
+    "Secateurs",
+    [
+     573,
+     811
+    ],
+    "R"
+   ],
+   [
+    "Watering can",
+    [
+     861,
+     854
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E2-02-farm-tools-use": {
+  "labels": [
+   [
+    "Hand trowel: transplanting",
+    [
+     223,
+     663
+    ],
+    "L"
+   ],
+   [
+    "Sickle: harvesting cereals",
+    [
+     538,
+     483
+    ],
+    "R"
+   ],
+   [
+    "Wheelbarrow: transporting farm produce",
+    [
+     775,
+     619
+    ],
+    "R"
+   ]
+  ]
+ }
+}

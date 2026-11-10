@@ -44,7 +44,7 @@ Farm tools can be classified based on the type of work they do:
 *   **Headpan:** A broad, shallow metal bowl used for carrying items on the head.
 *   **Watering Can:** A metal or plastic container with a handle, a spout, and a detachable perforated nozzle called a **"rose"**. 
 
-[IMAGE: A collection of common simple farm tools laid out on white ground. Top row: a cutlass with a wooden handle, a traditional West African hoe with a heavy curved blade, and an axe. Middle row: a flat-bladed spade, a scoop-shaped shovel, and a garden fork with four prongs. Bottom row: a small hand trowel, a hand fork, a pair of secateurs, and a watering can with a perforated rose. Labels to add later: "Cutlass", "Hoe", "Axe", "Spade", "Shovel", "Garden fork", "Hand trowel", "Hand fork", "Secateurs", "Watering can". Clean flat textbook style, white background.]
+![An illustration of ten common farm tools arranged in three rows, including a cutlass, hoe, axe, spade, shovel, garden fork, hand trowel, hand fork, secateurs, and watering can.](images/E2-01-simple-farm-tools-collection.png)
 
 ## Use and maintenance of farm tools
 
@@ -71,7 +71,7 @@ To answer JAMB questions correctly, you must know the specific agricultural oper
 | **Watering Can** | Used to apply water gently to seedlings in nursery beds or potted plants. The "rose" breaks the water into a gentle shower so small plants are not washed away. |
 | **Wheelbarrow** | Used for transporting farm inputs (seeds, fertilizers, manure) and outputs (harvested crops) over short distances on the farm. |
 
-[IMAGE: Three separate insets showing tools in use. 1: A farmer bending over, using a hand trowel to carefully lift a small green seedling with a ball of soil around its roots for transplanting. 2: A pair of hands using a sickle to slice through a bundle of tall rice stalks. 3: A farmer pushing a wheelbarrow loaded with yams. Labels to add later: "Hand trowel: transplanting", "Sickle: harvesting cereals", "Wheelbarrow: transporting farm produce". Clean flat textbook style, white background.]
+![Three insets showing farm tools in use: transplanting a seedling with a hand trowel, harvesting rice stalks with a sickle, and pushing a wheelbarrow of yams.](images/E2-02-farm-tools-use.png)
 
 ### Maintenance of farm tools
 

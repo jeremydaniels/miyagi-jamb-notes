@@ -85,7 +85,7 @@ In the final chapter of his letter, James gives practical rules for different li
 - If anyone is **merry** (happy), they should sing psalms of praise.
 - If anyone is **sick**, they should call for the **elders of the church**. The elders should pray over the sick person and **anoint them with oil** in the name of the Lord.
 
-[IMAGE: A simple bedroom scene showing a sick person resting in bed. Three respected church elders stand around the bed; one is holding a small flask of olive oil and gently placing a hand on the sick person's forehead, while the others have their heads bowed in prayer. Labels to add later: "Elders of the church", "Anointing with oil", "The prayer of faith for the sick". Clean flat textbook style, white background.]
+![A sick person resting in bed while three elders pray and anoint with oil, with Jesus and angels present behind the bed.](images/D13-02-elders-praying-sick-person.png)
 
 **The power of the prayer of faith:**
 James promises that *"the prayer of faith shall save the sick, and the Lord shall raise him up; and if he have committed sins, they shall be forgiven him"* (James 5:15). He also commands believers to confess their faults to one another and pray for each other so they can be healed.

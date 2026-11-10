@@ -56,7 +56,7 @@ The Islamic empire expanded rapidly, reaching non-Arab lands like Persia, Syria,
 5.  **Distribution:** The committee produced several standard master copies (often said to be between four and seven). This standard text is known as the **Mushaf Uthmānī**.
 6.  **Unifying the Ummah:** Uthman sent these master copies to the major centres of the Islamic world (such as Makkah, Kufa, Basra, and Damascus), keeping one in Madinah. To prevent any future disunity, he ordered all other variant personal copies or fragments to be burnt or destroyed.
 
-[IMAGE: A diagram showing the flow of the Qur'an's preservation. Top panel: The Prophet (SAW) radiating lines to "Memorizers (Huffadh)" and "Scribes writing on bones/leaves". Middle panel: Abu Bakr and Zayd bin Thabit gathering these into a single "Suhuf (Manuscript)". Bottom panel: Uthman sending identical books (Mushaf) out to different cities marked with arrows (Kufa, Basra, Damascus, Makkah). Labels to add later: "Phase 1: Recording (Prophet's era)", "Phase 2: Compilation (Abu Bakr's era)", "Phase 3: Standardization (Uthman's era)". Clean flat textbook style, white background.]
+![Flowchart depicting the three phases of Quranic preservation: recording during the Prophet era, compilation into manuscripts under Abu Bakr, and standardization and distribution under Uthman.](images/A1b-02-multi-phase-historical-flowchart.png)
 
 ## Differences between Makkan and Madinan suwar
 

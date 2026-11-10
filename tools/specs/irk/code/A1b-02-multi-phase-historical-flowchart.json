@@ -1,0 +1,102 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Preservation of the Qur'an",
+ "nodes": [
+  {
+   "id": "prophet",
+   "text": "Phase 1: Recording (Prophet's era)\nThe Prophet (SAW)",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "huffadh",
+   "text": "Memorizers\n(Huffadh)",
+   "shape": "box"
+  },
+  {
+   "id": "scribes",
+   "text": "Scribes writing on\nbones/leaves",
+   "shape": "box"
+  },
+  {
+   "id": "abubakr",
+   "text": "Phase 2: Compilation (Abu Bakr's era)\nAbu Bakr & Zayd bin Thabit",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "suhuf",
+   "text": "Single Suhuf\n(Manuscript)",
+   "shape": "box"
+  },
+  {
+   "id": "uthman",
+   "text": "Phase 3: Standardization (Uthman's era)\nCaliph Uthman (Identical Mushaf)",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "kufa",
+   "text": "Kufa",
+   "shape": "box"
+  },
+  {
+   "id": "basra",
+   "text": "Basra",
+   "shape": "box"
+  },
+  {
+   "id": "damascus",
+   "text": "Damascus",
+   "shape": "box"
+  },
+  {
+   "id": "makkah",
+   "text": "Makkah",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "prophet",
+   "to": "huffadh"
+  },
+  {
+   "from": "prophet",
+   "to": "scribes"
+  },
+  {
+   "from": "huffadh",
+   "to": "abubakr"
+  },
+  {
+   "from": "scribes",
+   "to": "abubakr"
+  },
+  {
+   "from": "abubakr",
+   "to": "suhuf"
+  },
+  {
+   "from": "suhuf",
+   "to": "uthman"
+  },
+  {
+   "from": "uthman",
+   "to": "kufa"
+  },
+  {
+   "from": "uthman",
+   "to": "basra"
+  },
+  {
+   "from": "uthman",
+   "to": "damascus"
+  },
+  {
+   "from": "uthman",
+   "to": "makkah"
+  }
+ ]
+}

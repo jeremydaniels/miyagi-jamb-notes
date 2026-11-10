@@ -1,0 +1,64 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Compiler vs. Interpreter",
+ "nodes": [
+  {
+   "id": "c_src",
+   "text": "Source Code",
+   "shape": "box"
+  },
+  {
+   "id": "comp",
+   "text": "Compiler\n(translates all at once)",
+   "shape": "round"
+  },
+  {
+   "id": "c_obj",
+   "text": "Machine Code File",
+   "shape": "box"
+  },
+  {
+   "id": "c_exec",
+   "text": "Execution",
+   "shape": "plain"
+  },
+  {
+   "id": "i_src",
+   "text": "Source Code",
+   "shape": "box"
+  },
+  {
+   "id": "interp",
+   "text": "Interpreter\n(translates line-by-line)",
+   "shape": "round"
+  },
+  {
+   "id": "i_exec",
+   "text": "Execution\n(no saved file)",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "c_src",
+   "to": "comp"
+  },
+  {
+   "from": "comp",
+   "to": "c_obj"
+  },
+  {
+   "from": "c_obj",
+   "to": "c_exec"
+  },
+  {
+   "from": "i_src",
+   "to": "interp"
+  },
+  {
+   "from": "interp",
+   "to": "i_exec"
+  }
+ ]
+}

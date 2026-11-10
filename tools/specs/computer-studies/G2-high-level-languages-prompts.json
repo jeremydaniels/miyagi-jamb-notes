@@ -1,0 +1,14 @@
+[
+ [
+  "G2-01-various-high-level-language",
+  "A diagram showing various high-level language classifications as nodes branching out from a central 'High-Level Languages' hub. The branches are labelled 'Scientific', 'Business', 'General Purpose', 'AI', 'Domain Specific', and 'Visual', with examples like 'FORTRAN', 'COBOL', 'Python', 'PROLOG', 'SQL', and 'Scratch' attached to the respective branches. Clean flat textbook illustration, white background."
+ ],
+ [
+  "G2-02-comparison-graphic-illustrating-characte",
+  "A comparison graphic illustrating characteristics of High-Level Languages. On the left, a programmer happily reads English-like code ('if score > 50 then print \"Pass\"'). On the right, a frustrated programmer looks at low-level machine code consisting entirely of 1s and 0s. A banner above reads 'Human-readable vs Machine Code'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "G2-03-flowchart-comparing-compiler-interpreter",
+  "A flowchart comparing a Compiler and an Interpreter. Top section (Compiler): 'Source Code' arrow to 'Compiler (translates all at once)' arrow to 'Machine Code File' arrow to 'Execution'. Bottom section (Interpreter): 'Source Code' arrow to 'Interpreter (translates line-by-line)' arrow directly to 'Execution' (no saved file). Clean flat textbook illustration, white background."
+ ]
+]

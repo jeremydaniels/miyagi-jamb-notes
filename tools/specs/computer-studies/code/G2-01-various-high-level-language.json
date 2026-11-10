@@ -1,0 +1,13 @@
+{
+ "template": "hub",
+ "title": "High-Level Language Classifications",
+ "center": "High-Level Languages",
+ "spokes": [
+  "Scientific\n(FORTRAN)",
+  "Business\n(COBOL)",
+  "General Purpose\n(Python)",
+  "AI\n(PROLOG)",
+  "Domain Specific\n(SQL)",
+  "Visual\n(Scratch)"
+ ]
+}

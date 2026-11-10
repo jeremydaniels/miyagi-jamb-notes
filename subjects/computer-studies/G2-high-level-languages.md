@@ -72,7 +72,7 @@ Languages that allow programmers to build programs by dragging and dropping grap
 Languages created as jokes, experiments, or to be deliberately confusing and difficult to use. They test the limits of programming language design but have no practical real-world software applications.
 *   *Examples:* **Brainfuck**, INTERCAL, Malbolge.
 
-[IMAGE: A diagram showing various high-level language classifications as nodes branching out from a central 'High-Level Languages' hub. The branches are labelled 'Scientific', 'Business', 'General Purpose', 'AI', 'Domain Specific', and 'Visual', with examples like 'FORTRAN', 'COBOL', 'Python', 'PROLOG', 'SQL', and 'Scratch' attached to the respective branches. Clean flat textbook illustration, white background.]
+![A diagram classifying high-level languages into Scientific, Business, General Purpose, AI, Domain Specific, and Visual, with examples for each category.](images/G2-01-various-high-level-language.png)
 
 ## Characteristics of High-Level Languages
 
@@ -121,7 +121,7 @@ The language handles complex hardware details behind the scenes. The programmer 
 ### 7. Easy to code, debug and maintain
 Because the code is shorter, structured, and readable, a programmer can write a program much faster than in assembly language. When errors (bugs) occur, they are much easier to spot and fix (debug), and the code can easily be updated by another programmer years later (maintain).
 
-[IMAGE: A comparison graphic illustrating characteristics of High-Level Languages. On the left, a programmer happily reads English-like code ('if score > 50 then print "Pass"'). On the right, a frustrated programmer looks at low-level machine code consisting entirely of 1s and 0s. A banner above reads 'Human-readable vs Machine Code'. Clean flat textbook illustration, white background.]
+![A comparison showing a happy programmer looking at a flowchart on the left and a frustrated programmer looking at a grid of squares on the right.](images/G2-02-comparison-graphic-illustrating-characte.png)
 
 ## Translators
 
@@ -163,7 +163,7 @@ A **compiler** translates the **entire source code** into machine language all a
 
 *Note: Some modern languages, such as Java, use a combination of both. The Java compiler translates the source code into an intermediate code called "bytecode". Then, a Java interpreter (the Java Virtual Machine) translates the bytecode into machine language line by line when the program is run.*
 
-[IMAGE: A flowchart comparing a Compiler and an Interpreter. Top section (Compiler): 'Source Code' arrow to 'Compiler (translates all at once)' arrow to 'Machine Code File' arrow to 'Execution'. Bottom section (Interpreter): 'Source Code' arrow to 'Interpreter (translates line-by-line)' arrow directly to 'Execution' (no saved file). Clean flat textbook illustration, white background.]
+![Flowchart comparing compiler translating all at once to machine code file before execution versus interpreter translating line by line directly to execution with no saved file](images/G2-03-flowchart-comparing-compiler-interpreter.png)
 
 ## Key terms
 

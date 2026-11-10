@@ -55,7 +55,7 @@ These are factors outside the country, in the international environment, that in
 3. **International law and treaties:** Countries must respect international laws, conventions, and agreements they have signed. Breaking these laws can lead to global sanctions or isolation.
 4. **Actions and policies of other states:** A country must react to what others do. If a neighbouring state suddenly becomes hostile or builds up its military, the country must adjust its own foreign policy and defense strategy in response.
 
-[IMAGE: A split diagram titled "Determinants of Foreign Policy". The left side (Internal Factors) shows icons for Geography (a map), Economic Resources (an oil drop and coins), Military (a shield), and Population (a group of people). The right side (External Factors) shows icons for International Organizations (a globe surrounded by flags), International Law (a judge's gavel), and the Global Power Structure (balancing scales). Clean flat textbook style, white background.]
+![A diagram of determinants of foreign policy split into internal factors like geography, economic resources, military, and population, and external factors like international organizations, international law, and global power structure.](images/C1-01-block-foreign-policy-determinants.png)
 
 ## Formulation of foreign policy
 

@@ -55,7 +55,7 @@ The 3rd century AH (roughly the 9th century CE) is known as the **Golden Age of 
 
 They established strict rules for authentication and produced the **Sihāh al-Sittah** (The Six Authentic Books). These six collectors (Bukhari, Muslim, Abu Dawud, Tirmidhi, an-Nasa'i, and Ibn Majah) rigorously sifted through hundreds of thousands of reports to preserve only what was sound.
 
-[IMAGE: A horizontal timeline graphic illustrating the four stages of Hadīth collection. Left side: "Time of the Prophet (SAW) - Oral transmission & personal writing". Next: "Time of Companions - Strict verification & start of Isnād". Next: "Time of Successors (100 AH) - Official compilation under 'Umar bin 'Abd al-'Azīz". Right side: "3rd Century AH (Golden Age) - The Six Authentic Collectors and strict classification". Clean flat textbook style, white background with distinct readable text.]
+![Vertical timeline showing the four stages of Hadīth collection from the Prophet's era to the third century AH, listing key characteristics of each period.](images/A6a-01-hadith-collection-stages-timeline.png)
 
 ## Authentication of Hadīth
 

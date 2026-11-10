@@ -1,0 +1,26 @@
+{
+ "template": "timeline",
+ "title": "Four Stages of Hadīth Collection",
+ "events": [
+  {
+   "when": "Time of the Prophet (SAW)",
+   "title": "Stage 1",
+   "text": "Oral transmission & personal writing"
+  },
+  {
+   "when": "Time of Companions",
+   "title": "Stage 2",
+   "text": "Strict verification & start of Isnād"
+  },
+  {
+   "when": "Time of Successors (100 AH)",
+   "title": "Stage 3",
+   "text": "Official compilation under 'Umar bin 'Abd al-'Azīz"
+  },
+  {
+   "when": "3rd Century AH (Golden Age)",
+   "title": "Stage 4",
+   "text": "The Six Authentic Collectors and strict classification"
+  }
+ ]
+}

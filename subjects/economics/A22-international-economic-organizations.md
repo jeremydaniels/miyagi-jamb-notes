@@ -57,7 +57,7 @@ While the IMF focuses on short-term stability, the **World Bank**, also headquar
 | **Type of Loans** | **Short-term** and medium-term loans | **Long-term** loans and grants |
 | **Reason for Loan** | To fix **Balance of Payments (BOP)** problems | To fund **development projects** (infrastructure, agriculture, schools) |
 
-[IMAGE: A balanced scales diagram illustrating the twin Bretton Woods institutions. On the left side, a blue building labeled 'IMF' with icons of currency symbols, representing short-term stability and exchange rates. On the right side, a green building labeled 'World Bank (IBRD)' with icons of a road, a hospital, and a school, representing long-term development and poverty reduction. Clean flat textbook style, white background.]
+![A balanced scale comparing the IMF with currency symbols for short-term stability and the World Bank with infrastructure icons for long-term development.](images/A22-01-bretton-woods-institutions.png)
 
 ### Global Trade and Development Organizations
 
@@ -89,7 +89,7 @@ Formed on May 28, 1975, with the signing of the Treaty of Lagos, **ECOWAS** is a
 * **Regional Security:** Economic growth requires peace. ECOWAS maintains regional stability through its military peacekeeping arm, **ECOMOG** (ECOWAS Monitoring Group).
 * **Monetary Integration:** It coordinates efforts to eventually establish a single currency (proposed as the "Eco") for the region.
 
-[IMAGE: A map of West Africa with all 15 ECOWAS member countries highlighted in a unified green color against a white background. Arrows point from Nigeria outward to other West African nations to symbolize regional trade and the free movement of people. A small inset shows the ECOWAS logo. Clean flat textbook style.]
+![Map of West Africa showing ECOWAS member countries in green with arrows radiating outward from Nigeria to represent regional trade, alongside an ECOWAS logo inset.](images/A22-02-map-ecowas-member-countries.png)
 
 #### 6. African Union (AU)
 The **AU** was officially launched in 2002, replacing the Organization of African Unity (OAU) which was founded in 1963. Headquartered in Addis Ababa, Ethiopia, it covers the entire African continent.

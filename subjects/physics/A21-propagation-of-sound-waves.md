@@ -36,7 +36,7 @@ As the air is pumped out, reducing the air pressure, the sound of the ringing be
 **Conclusion:**
 Sound requires a material medium (in this case, air) to travel from the bell to our ears. Note that light, being an electromagnetic wave, does not need a material medium. This is why you can still *see* the bell ringing inside the vacuum even when you cannot *hear* it.
 
-[IMAGE: The Bell-Jar Experiment. A glass bell jar placed on a vacuum pump plate. Inside the jar, an electric bell is suspended by rubber bands. Wires lead outside to a battery and switch. An arrow points out from the pump plate labeled "To vacuum pump (air pumped out)". Clean flat textbook illustration, white background.]
+![An illustration of a bell jar vacuum experiment showing an electric bell suspended inside a bell jar on a vacuum base, connected to a battery and switch.](images/A21-01-bell-jar-experiment-apparatus.png)
 
 ## Speed of sound in solids, liquids and air
 
@@ -116,7 +116,7 @@ Since the sound has to travel to the wall and back, the wall must be at least $\
 3. **Oil and Mineral Exploration:** Geologists set off small explosions at the surface. The sound waves travel deep into the earth and bounce off different rock layers. By analysing these seismic echoes, they can locate underground oil, gas, or minerals.
 4. **Animal Navigation (Echolocation):** Bats and dolphins emit ultrasonic clicks and listen for the echoes to navigate and hunt in total darkness (like in the Ogbunike caves).
 
-[IMAGE: A ship on the ocean surface using SONAR. A sound pulse (labeled 'transmitted pulse') travels downwards to the uneven seabed. Another wave (labeled 'reflected echo') travels back up to a receiver on the ship. The depth of the water is marked 'd'. Clean flat textbook illustration, white background.]
+![A textbook illustration of a ship on the ocean surface using sonar waves directed at an uneven seabed with reflected waves returning to a receiver.](images/A21-02-sonar-pulse-depth-schematic.png)
 
 ## Advantages and disadvantages of echoes and reverberations
 
@@ -194,7 +194,7 @@ A man stands between two parallel cliffs. He fires a gun and hears the first ech
 7. **State the final answer:** 
    The total distance between the cliffs is $660\ \text{m}$.
 
-[IMAGE: Diagram showing a man standing between two tall parallel cliffs. A dashed line represents the distance 'd1' to the left cliff, and a longer dashed line represents the distance 'd2' to the right cliff. The total distance between the cliffs is marked 'D = d1 + d2'. Clean flat textbook illustration, white background.]
+![Diagram showing a man between two parallel cliffs with distance d1 to the left cliff, distance d2 to the right cliff, and total distance D = d1 + d2.](images/A21-03-echo-distance-schematic.png)
 
 ## Further problems on echo, reverberation and speed of sound
 

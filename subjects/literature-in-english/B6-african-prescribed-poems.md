@@ -36,7 +36,7 @@ The poem is a reflective lyric. Study guides describe it as **free verse**, one 
 - **Contrast (juxtaposition):** The sincere past is set against the false present.
 **[TO BE COMPLETED: Other devices and exact wording of the images, checked against the text]**
 
-[IMAGE: A two-column comparison illustration for Gabriel Okara's 'Once Upon a Time'. The left column, headed 'The Past (Sincerity)', shows two people laughing warmly and shaking hands. The right column, headed 'The Present (Insincerity)', shows a person holding several face masks and a stiff smile that reveals snake fangs. Clean flat textbook style, soft colours, white background.]
+![A comparison illustration showing two people shaking hands and laughing warmly on the left, beside a person holding several masks and smiling with fangs on the right.](images/B6-01-sincerity-versus-insincerity-contrast.png)
 
 ### Style (Objective c.iii)
 The poem is conversational and confessional. The persona is a **father speaking to his son**, who does not reply. The father regrets that people now exchange false smiles, and he asks his son to teach him to laugh sincerely again. This request is the emotional turning point of the poem.

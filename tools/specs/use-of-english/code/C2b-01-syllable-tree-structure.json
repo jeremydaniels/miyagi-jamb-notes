@@ -1,0 +1,141 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Syllable Trees: 'street' and 'texts'",
+ "nodes": [
+  {
+   "id": "s1",
+   "text": "σ (Syllable)\n'street' /striːt/",
+   "shape": "oval",
+   "color": "gray"
+  },
+  {
+   "id": "on1",
+   "text": "Onset",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "nuc1",
+   "text": "Nucleus",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "coda1",
+   "text": "Coda",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "c1",
+   "text": "/s/ /t/ /r/\n(3-consonant cluster)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "v1",
+   "text": "/iː/",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "c2",
+   "text": "/t/",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "s2",
+   "text": "σ (Syllable)\n'texts' /teksts/",
+   "shape": "oval",
+   "color": "gray"
+  },
+  {
+   "id": "on2",
+   "text": "Onset",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "nuc2",
+   "text": "Nucleus",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "coda2",
+   "text": "Coda",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "c3",
+   "text": "/t/",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "v2",
+   "text": "/e/",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "c4",
+   "text": "/k/ /s/ /t/ /s/\n(4-consonant cluster)",
+   "shape": "box",
+   "color": "blue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "s1",
+   "to": "on1"
+  },
+  {
+   "from": "s1",
+   "to": "nuc1"
+  },
+  {
+   "from": "s1",
+   "to": "coda1"
+  },
+  {
+   "from": "on1",
+   "to": "c1"
+  },
+  {
+   "from": "nuc1",
+   "to": "v1"
+  },
+  {
+   "from": "coda1",
+   "to": "c2"
+  },
+  {
+   "from": "s2",
+   "to": "on2"
+  },
+  {
+   "from": "s2",
+   "to": "nuc2"
+  },
+  {
+   "from": "s2",
+   "to": "coda2"
+  },
+  {
+   "from": "on2",
+   "to": "c3"
+  },
+  {
+   "from": "nuc2",
+   "to": "v2"
+  },
+  {
+   "from": "coda2",
+   "to": "c4"
+  }
+ ]
+}

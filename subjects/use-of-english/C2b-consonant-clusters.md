@@ -125,7 +125,7 @@ This is often written as **(C)(C)(C)V(C)(C)(C)(C)**, where C = consonant and V =
 
 Hausa allows some closed syllables (ending in a consonant), but it does not have long English-type clusters either. This difference is the main reason Nigerian speakers find English clusters hard, and it explains the common changes described later.
 
-[IMAGE: A simple "syllable tree" diagram for the word "street" /striːt/. At the top, the Greek letter σ (syllable). Below it, three branches labelled "Onset", "Nucleus" and "Coda". Under "Onset", three small boxes containing /s/, /t/ and /r/ joined by a bracket labelled "3-consonant cluster". Under "Nucleus", one box containing /iː/. Under "Coda", one box containing /t/. Next to it, a second smaller tree for "texts" /teksts/ with Onset /t/, Nucleus /e/ and Coda /k/ /s/ /t/ /s/ bracketed as "4-consonant cluster". Consonant boxes in soft blue, vowel boxes in soft orange. Clean flat educational illustration, white background.]
+![Two syllable tree diagrams for the words street and texts dividing each into onset, nucleus, and coda components with consonant and vowel phonemes.](images/C2b-01-syllable-tree-structure.png)
 
 ## Initial clusters (at the beginning of a syllable)
 
@@ -358,7 +358,7 @@ This matters because the dropped consonant often carries meaning: past tense (-e
 - **Pronouncing silent letters** as if they formed a cluster: *knife* as [knaif], *psalm* as [psalm], *listen* as [listen]. RP: /naɪf/, /sɑːm/, /ˈlɪsn/.
 - **Adding /ɡ/ after /ŋ/:** *sing* /sɪŋ/ said as [siŋɡ], which creates a false cluster. (See C2a.)
 
-[IMAGE: A two-column comparison chart. Left column titled "RP (correct)" and right column titled "Common change". Four rows, each with a small speech-bubble icon: row 1 "school" with /skuːl/ on the left and "si-kul" on the right, a small red plus sign labelled "vowel added"; row 2 "asked" with /ɑːskt/ on the left and "ask" on the right, a small red minus sign labelled "/t/ dropped"; row 3 "film" with /fɪlm/ on the left and "fi-lim" on the right, labelled "vowel added"; row 4 "tests" with /tests/ on the left and "tes" on the right, labelled "/t/ and /s/ dropped". Left column in soft green, right column in soft red. Clean flat educational illustration, white background.]
+![A pronunciation comparison table contrasting correct RP forms with common phonetic changes across four words: school, asked, film, and tests.](images/C2b-02-pronunciation-comparison-chart.png)
 
 ## How to answer JAMB questions on clusters
 

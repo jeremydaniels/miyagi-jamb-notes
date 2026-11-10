@@ -1,0 +1,31 @@
+{
+ "template": "table",
+ "title": "Pronunciation Comparison",
+ "columns": [
+  "RP (correct)",
+  "Common change"
+ ],
+ "col_colors": [
+  "#d4edda",
+  "#f8d7da"
+ ],
+ "rows": [
+  [
+   "school /skuːl/",
+   "si-kul (+ vowel added)"
+  ],
+  [
+   "asked /ɑːskt/",
+   "ask (- /t/ dropped)"
+  ],
+  [
+   "film /fɪlm/",
+   "fi-lim (vowel added)"
+  ],
+  [
+   "tests /tests/",
+   "tes (/t/ and /s/ dropped)"
+  ]
+ ],
+ "first_col_bold": false
+}

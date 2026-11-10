@@ -205,7 +205,7 @@ Calculate the volume of hydrogen chloride gas produced at s.t.p. when 11.7 g of 
 - It is a colourless, pungent-smelling gas that fumes strongly in moist air (forming tiny droplets of hydrochloric acid).
 - It is **extremely soluble in water**. This is demonstrated by the **fountain experiment**.
 
-[IMAGE: The fountain experiment. An inverted round-bottom flask filled with HCl gas is held on a retort stand. The flask is sealed with a two-hole stopper. A dropper containing a few drops of water goes through one hole, and a long glass tube goes through the other, extending down into a beaker of water mixed with blue litmus indicator. Inside the flask, a spray (fountain) of red liquid shoots up from the glass tube. Labels: "flask containing dry HCl gas", "water dropper", "red fountain", "glass tube", "beaker with blue litmus solution". Clean flat textbook illustration, white background.]
+![An illustration of the fountain experiment showing an inverted flask spraying a red fountain connected via a tube to a beaker of blue liquid.](images/A14a-03-hydrogen-chloride-fountain-experiment.png)
 
 ### Properties of Hydrochloric Acid ($\text{HCl(aq)}$)
 When $\text{HCl(g)}$ dissolves in water, it dissociates completely into $\text{H}^+$ and $\text{Cl}^-$ ions, making it a **strong acid**.

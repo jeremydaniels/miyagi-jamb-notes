@@ -89,5 +89,52 @@
     "R"
    ]
   ]
+ },
+ "A14a-03-hydrogen-chloride-fountain-experiment": {
+  "regions": [
+   "beaker with blue litmus solution"
+  ],
+  "labels": [
+   [
+    "flask containing dry HCl gas",
+    [
+     464,
+     208
+    ],
+    "L"
+   ],
+   [
+    "water dropper",
+    [
+     529,
+     587
+    ],
+    "R"
+   ],
+   [
+    "red fountain",
+    [
+     590,
+     193
+    ],
+    "R"
+   ],
+   [
+    "glass tube",
+    [
+     575,
+     601
+    ],
+    "R"
+   ],
+   [
+    "beaker with blue litmus solution",
+    [
+     538,
+     822
+    ],
+    "R"
+   ]
+  ]
  }
 }

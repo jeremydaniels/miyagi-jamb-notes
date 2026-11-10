@@ -35,7 +35,7 @@ To differentiate these ideologies, we must look at what they value most, how the
 *   **Nigerian example:** The pre-colonial Hausa-Fulani Emirate system had strong feudal characteristics. The Emir was the absolute ruler who distributed territories to district heads (*Hakimi*), while the commoners (*Talakawa*) paid taxes and tributes to them.
 *   **Features:** It is highly hierarchical (unequal), wealth is based entirely on land, and birth determines a person's social class.
 
-[IMAGE: A triangle/pyramid diagram illustrating the Feudal System. The pyramid is divided into four horizontal layers. Top layer: a King wearing a crown (labelled "King - owns all land"). Second layer: wealthy lords and nobles (labelled "Nobles/Lords - provide money and knights"). Third layer: Knights in armour (labelled "Knights/Vassals - provide military service and protection"). Bottom layer, which is the widest: poor farmers with hoes (labelled "Peasants/Serfs - provide food, labour, and pay taxes"). Downward arrows read "Grants land"; Upward arrows read "Provides loyalty/labour". Clean flat textbook style, white background.]
+![Pyramid of the feudal system with the king at the top, then nobles and lords, knights and vassals, and peasants and serfs at the base, with arrows for land granted down and loyalty and labour up.](images/A7-01-feudal-system-social-pyramid.png)
 
 ### Capitalism
 

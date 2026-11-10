@@ -50,7 +50,7 @@ The SAP brought major changes to the Nigerian economy. It led to the rapid growt
 
 High inflation caused severe hardship for many Nigerians, particularly the working class and the poor. This led to widespread student and worker protests, most notably the **"SAP Riots" of 1989**, which the government had to suppress using security forces.
 
-[IMAGE: A flowchart showing the Structural Adjustment Programme (SAP). Top box: "Economic Crisis (Falling oil prices, debt)". Arrow down to middle box: "Introduction of SAP (1986)". Three arrows branch out to three lower boxes: 1. "Devaluation of Naira (SFEM)", 2. "Privatization of public enterprises", 3. "Removal of subsidies". Further arrows point from these to a bottom row showing outcomes: "Growth of banking sector", "Increase in non-oil exports", and "High inflation & SAP Riots (1989)". Clean flat textbook style, white background.]
+![Flowchart showing the Structural Adjustment Programme from initial economic crisis to policy measures including devaluation, privatization, and subsidy removal, leading to banking growth, exports, and riots.](images/D7-01-economic-program-flowchart.png)
 
 ## Social and Rural Development Programmes
 

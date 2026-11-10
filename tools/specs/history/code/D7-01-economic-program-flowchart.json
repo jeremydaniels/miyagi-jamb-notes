@@ -1,0 +1,85 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Structural Adjustment Programme (SAP)",
+ "nodes": [
+  {
+   "id": "crisis",
+   "text": "Economic Crisis\n(Falling oil prices, debt)",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "sap",
+   "text": "Introduction of SAP\n(1986)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "deval",
+   "text": "Devaluation of Naira\n(SFEM)",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "privat",
+   "text": "Privatization of\npublic enterprises",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "subsidies",
+   "text": "Removal of subsidies",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "banking",
+   "text": "Growth of banking sector",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "exports",
+   "text": "Increase in non-oil exports",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "riots",
+   "text": "High inflation &\nSAP Riots (1989)",
+   "shape": "box",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "crisis",
+   "to": "sap"
+  },
+  {
+   "from": "sap",
+   "to": "deval"
+  },
+  {
+   "from": "sap",
+   "to": "privat"
+  },
+  {
+   "from": "sap",
+   "to": "subsidies"
+  },
+  {
+   "from": "deval",
+   "to": "banking"
+  },
+  {
+   "from": "deval",
+   "to": "exports"
+  },
+  {
+   "from": "subsidies",
+   "to": "riots"
+  }
+ ]
+}

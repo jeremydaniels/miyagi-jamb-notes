@@ -79,7 +79,7 @@ These are factors outside the country, in the international environment, that in
 4. **Military instruments:** When diplomacy fails, a country might use force. This can range from the threat of force, supplying weapons to allies, joining peacekeeping missions, to actual warfare. Military action is usually seen as the last resort of foreign policy.
 5. **Cultural and information instruments:** Countries use propaganda, international broadcasting (like Voice of Nigeria, or the BBC), sports, arts, and educational scholarships to build a positive image abroad.
 
-[IMAGE: A flowchart showing the foreign policy process. Top box: "The Executive (President)" with a bold arrow pointing down to "Ministry of Foreign Affairs". A side box labeled "The Legislature" has a dashed line pointing to the top box labeled "Ratifies treaties and approves budget". From the Ministry of Foreign Affairs, a large arrow points down to a section titled "Implementation Tools". Below this, four smaller boxes in a row: "Diplomacy (Embassies & High Commissions)", "Economic Instruments (Aid & Sanctions)", "Military Action", and "Cultural Exchange". Clean flat textbook style, white background.]
+![Flowchart of foreign policy process from Executive and Legislature through the Ministry of Foreign Affairs to implementation tools diplomacy, economic instruments, military action, and cultural exchange.](images/C1-02-flowchart-foreign-policy-process.png)
 
 ## Key terms
 

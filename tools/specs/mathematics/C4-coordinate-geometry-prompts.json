@@ -1,0 +1,14 @@
+[
+ [
+  "C4-01-line-segment-midpoint",
+  "A Cartesian coordinate plane showing a line segment connecting point A(-3, 6) and point B(5, -2). The midpoint M(1, 2) is clearly marked with a distinct dot. The axes should have grid lines and labels. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C4-02-slope-gradient-coordinate",
+  "A diagram illustrating the concept of gradient (slope). A line passes through two points on a grid. A right-angled triangle is drawn below the line connecting the two points, showing a vertical \"Rise\" (\\Delta y) and a horizontal \"Run\" (\\Delta x). The line has a positive slope."
+ ],
+ [
+  "C4-03-parallel-perpendicular-lines",
+  "Two sets of intersecting lines on a coordinate plane. On the left, two parallel lines with positive gradients, labelled L_1 and L_2, with small arrows indicating they are parallel. On the right, two lines intersecting at exactly 90 degrees, marked with a small square right-angle symbol, labelled L_3 and L_4."
+ ]
+]

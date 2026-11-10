@@ -30,7 +30,7 @@ The **midpoint** is the point that divides a line segment into two equal halves.
 For any two points $A(x_1, y_1)$ and $B(x_2, y_2)$, the coordinates of the midpoint $M(x, y)$ are given by the formula:
 $$M(x, y) = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)$$
 
-[IMAGE: A Cartesian coordinate plane showing a line segment connecting point A(-3, 6) and point B(5, -2). The midpoint M(1, 2) is clearly marked with a distinct dot. The axes should have grid lines and labels. Clean flat textbook illustration, white background.]
+![Cartesian coordinate plane showing a line segment connecting points A at -3, 6 and B at 5, -2, with the midpoint M at 1, 2 clearly marked.](images/C4-01-line-segment-midpoint.png)
 
 **Worked Example 1: Finding the midpoint**
 Find the midpoint of the line segment joining the points $A(-3, 6)$ and $B(5, -2)$.
@@ -64,7 +64,7 @@ where $\Delta y$ means "change in $y$" and $\Delta x$ means "change in $x$".
 - A **zero gradient** means the line is completely horizontal.
 - An **undefined gradient** means the line is completely vertical (because the change in $x$ is 0, and you cannot divide by zero).
 
-[IMAGE: A diagram illustrating the concept of gradient (slope). A line passes through two points on a grid. A right-angled triangle is drawn below the line connecting the two points, showing a vertical "Rise" (\Delta y) and a horizontal "Run" (\Delta x). The line has a positive slope. Clean flat textbook style, white background.]
+![A coordinate grid illustrating gradient with a positive line through two points, accompanied by a right triangle showing labeled rise and run segments.](images/C4-02-slope-gradient-coordinate.png)
 
 **Worked Example 3: Finding the gradient**
 Find the gradient of the line passing through the points $C(-2, -4)$ and $D(3, 6)$.
@@ -136,7 +136,7 @@ The condition for perpendicularity is:
 $$m_1 \times m_2 = -1 \quad \text{or} \quad m_1 = -\frac{1}{m_2}$$
 *Note: This rule does not apply if one line is horizontal ($m=0$) and the other is vertical (undefined gradient), though they are still perpendicular.*
 
-[IMAGE: Two sets of intersecting lines on a coordinate plane. On the left, two parallel lines with positive gradients, labelled L_1 and L_2, with small arrows indicating they are parallel. On the right, two lines intersecting at exactly 90 degrees, marked with a small square right-angle symbol, labelled L_3 and L_4. Clean flat textbook style, white background.]
+![Two coordinate planes illustrating linear relationships, with parallel lines labeled L1 and L2 on the left and perpendicular lines labeled L3 and L4 on the right.](images/C4-03-parallel-perpendicular-lines.png)
 
 ### 3. Collinear points
 Points are **collinear** if they lie on the exact same straight line. To prove that three points $A$, $B$, and $C$ are collinear, you must show that the gradient between $A$ and $B$ is the same as the gradient between $B$ and $C$.

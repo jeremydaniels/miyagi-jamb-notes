@@ -40,7 +40,7 @@ God gave Joseph the interpretation: Egypt would experience seven years of great 
 
 Recognising the Spirit of God in Joseph, Pharaoh appointed him as Prime Minister (second-in-command over all Egypt), gave him his signet ring, fine linen, a gold chain, and a new Egyptian name, *Zaphenath-paneah*. Joseph successfully managed the food storage, saving Egypt and the surrounding nations from starvation.
 
-[IMAGE: A majestic Egyptian throne room. On the left, Pharaoh sits on a golden throne, leaning forward intently. On the right, Joseph, a young Hebrew man in simple but clean clothing, stands confidently, gesturing with his hands as he interprets the dreams. In the background, faded "thought bubble" style images of seven fat cows and seven thin cows. Style: clean flat textbook illustration, white background.]
+![Biblical illustration of Joseph interpreting Pharaohs dream, showing Pharaoh on a throne and Joseph gesturing, with thought clouds above depicting healthy cows and gaunt cows.](images/A3-01-joseph-interpreting-pharaoh-dream.png)
 
 ### 3. Revealing Himself to His Brothers (Genesis 45:1-15)
 The famine forced Joseph's brothers to come to Egypt to buy grain. After testing them in earlier encounters to see if they had changed, Joseph could no longer control his emotions. He ordered all Egyptians out of the room, wept loudly, and said, "I am Joseph; is my father still alive?"

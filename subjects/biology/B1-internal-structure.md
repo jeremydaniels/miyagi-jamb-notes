@@ -530,7 +530,7 @@ The digestive system is a long tube, the **alimentary canal**, running from the 
 
 **The rabbit's caecum and appendix:** the rabbit feeds on grass and leaves, which are rich in **cellulose**. Mammals cannot make the enzyme that digests cellulose, so bacteria living in the rabbit's huge caecum and appendix do it for them. The rabbit then eats its own soft caecal droppings (this is called **coprophagy** or caecotrophy) to absorb the products. In humans, the appendix has no digestive role, and inflammation of it (**appendicitis**) is a common emergency needing surgery.
 
-[IMAGE: Digestive system of a rabbit spread out after dissection, as in a practical drawing. Show the oesophagus passing through the diaphragm to a bean-shaped stomach; the lobed dark red-brown liver above the stomach with a small greenish gall bladder and bile duct; the U-shaped duodenum with a pale, diffuse, branching pancreas in its loop and the pancreatic duct; the long coiled ileum; a very large coiled caecum with a finger-like vermiform appendix at its tip; the colon with bead-like faecal pellets; the rectum and anus. Labels: oesophagus, diaphragm, liver, gall bladder, bile duct, stomach, duodenum, pancreas, pancreatic duct, ileum, caecum, appendix, colon, faecal pellets, rectum, anus. Soft natural colours. Clean flat textbook style, white background.]
+![Anatomical diagram of a rabbit digestive system showing the oesophagus, stomach, liver, duodenum with pancreas, coiled intestines, colon with faecal pellets, and rectum.](images/B1-11-rabbit-digestive-system-dissection.png)
 
 ### Excretory organs
 
@@ -545,7 +545,7 @@ The main excretory organs (making up the **urinary system**) are the kidneys, ur
 | **Urinary bladder** | A thin-walled, muscular, pear-shaped bag; pale and transparent when full, with yellowish urine | In the **pelvic region**, at the hind end of the abdomen, on the ventral (front) side |
 | **Urethra** | A narrow tube with a ring of muscle (sphincter) at its start | Runs from the neck of the bladder to the outside. In males it passes through the **penis** and also carries semen; in females it is short and opens just in front of the vagina (in rabbits it opens into the vagina; see below) |
 
-[IMAGE: Urinary (excretory) system of a mammal in ventral view, shown on its own against an outline of the back wall of the abdomen. Two bean-shaped dark red kidneys, the right one drawn slightly further forward (towards the head) as in a rat; a small yellowish adrenal gland on top of each; the dorsal aorta and posterior vena cava running down the middle with a renal artery (red) and renal vein (dark blue-red) to each kidney; two pale ureters leading down to a pear-shaped bladder; the urethra leaving the bladder. Labels: adrenal gland, kidney, hilum, renal artery, renal vein, aorta, vena cava, ureter, bladder, urethra. Clean flat textbook style, white background.]
+![Ventral diagram of mammalian urinary system showing kidneys, adrenal glands, abdominal aorta, inferior vena cava, ureters, urinary bladder, and urethra within a torso outline.](images/B1-12-mammalian-urinary-system.png)
 
 ### Male reproductive organs
 

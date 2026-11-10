@@ -84,7 +84,7 @@ Addiction usually develops step by step:
 | **Relapse** | Returning to drug use after a period of stopping |
 | **Rehabilitation** | Treatment and support to help a person stop using drugs and return to a normal, productive life |
 
-[IMAGE: A simple staircase diagram showing the progression from first use to addiction. Five steps rising from left to right: step 1 a young person being offered a substance by a friend ("Experimental use"), step 2 a party scene ("Occasional use"), step 3 a person alone using a substance ("Regular use"), step 4 the person taking a larger amount ("Tolerance: needs more"), step 5 the person looking distressed and shaking ("Dependence and addiction"). A small side panel shows a down arrow labelled "Withdrawal symptoms when stopped". Labels: "Experimental use", "Occasional use", "Regular use", "Tolerance", "Dependence and addiction", "Withdrawal symptoms". Soft muted colours, no real drug brand names. Clean flat textbook style, white background.]
+![A staircase diagram depicting five stages from experimental use to dependence and addiction, with a side panel illustrating withdrawal symptoms when substance use stops.](images/C7b-01-drug-addiction-progression-staircase.png)
 
 ## Why people abuse drugs
 
@@ -140,7 +140,7 @@ Psychoactive drugs are usually grouped by their main effect on the **central ner
 
 **Textbook variation:** local names change quickly and differ between regions. The names above are common examples, not a complete list.
 
-[IMAGE: A four-panel classification chart of abused drugs. Panel 1 "Stimulants": simple icons of a coffee cup, a kolanut pod with nuts, a cigarette, a small white powder heap and clear crystal shards. Panel 2 "Depressants": a beer bottle and palm wine gourd, a tablet blister pack, a glue tube. Panel 3 "Narcotics (opioids)": a poppy flower with seed pod, a cough syrup bottle without brand, a tablet strip, a syringe. Panel 4 "Hallucinogens": a cannabis leaf and a mushroom. Each panel in a different soft colour. Labels: "Stimulants", "Depressants", "Narcotics (opioids)", "Hallucinogens", "Caffeine", "Kolanut", "Nicotine", "Cocaine", "Methamphetamine", "Alcohol", "Sedative tablets", "Inhalants", "Opium poppy", "Codeine syrup", "Tramadol", "Heroin", "Cannabis", "Magic mushroom". No brand names. Clean flat textbook style, white background.]
+![A four-panel classification chart showing abused drugs categorized into stimulants, depressants, narcotics, and hallucinogens with representative icons and labels for each drug type.](images/C7b-02-abused-drugs-classification-chart.png)
 
 ### Each commonly abused drug explained
 
@@ -317,7 +317,7 @@ Psychoactive drugs are usually grouped by their main effect on the **central ner
 
 **The scale of the problem in Nigeria:** the first large national survey of drug use (2018, carried out by the National Bureau of Statistics and the Centre for Research and Information on Substance Abuse, with the United Nations Office on Drugs and Crime) found that about **14.4%** of Nigerians aged 15 to 64, roughly **14 million people**, had used at least one psychoactive drug (not counting alcohol and tobacco) in the previous year. This is much higher than the global average. **Cannabis** was the most commonly used drug, followed by the **non-medical use of opioid medicines** such as **tramadol**, **codeine** and morphine. About one in every five users was estimated to suffer from drug use disorders (dependence), and many could not get treatment.
 
-[IMAGE: A circular "web of effects" diagram with a central figure of a young person surrounded by a drug symbol (an unbranded pill and bottle). Arrows lead outwards to eight round icons: a brain with a crack ("Mental illness"), lungs with dark patches ("Lung disease"), a heart with a jagged line ("Heart attack"), a liver ("Liver damage"), a syringe with a virus ("HIV and hepatitis"), a wrecked car ("Road accidents"), a broken house ("Family breakdown"), a school building with an exit arrow ("School dropout"), and a handcuff icon ("Crime"). Labels: "Mental illness", "Lung disease", "Heart attack", "Liver damage", "HIV and hepatitis", "Road accidents", "Family breakdown", "School dropout", "Crime". Soft muted colours. Clean flat textbook style, white background.]
+![A circular diagram showing substance abuse at the center with outward arrows to nine health and social consequences, including organ damage, mental illness, accidents, dropout, and crime.](images/C7b-04-effects-drug-abuse-chart.png)
 
 ## Prevention of drug abuse
 

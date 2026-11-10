@@ -1,0 +1,59 @@
+{
+ "C8-01-earthen-fish-pond-cross": {
+  "regions": [
+   "Earthen dyke (embankment)",
+   "Sloping pond bottom"
+  ],
+  "labels": [
+   [
+    "Water inlet",
+    [
+     169,
+     377
+    ],
+    "L"
+   ],
+   [
+    "Earthen dyke (embankment)",
+    [
+     821,
+     437
+    ],
+    "R"
+   ],
+   [
+    "Water level",
+    [
+     435,
+     429
+    ],
+    "L"
+   ],
+   [
+    "Monk (for regulating water and drainage)",
+    [
+     677,
+     311
+    ],
+    "R"
+   ],
+   [
+    "Sloping pond bottom",
+    [
+     454,
+     661
+    ],
+    "L"
+   ],
+   [
+    "Drainage pipe",
+    [
+     806,
+     695
+    ],
+    "R"
+   ]
+  ]
+ },
+ "C8-02-traditional-fish-harvesting-gear": {}
+}

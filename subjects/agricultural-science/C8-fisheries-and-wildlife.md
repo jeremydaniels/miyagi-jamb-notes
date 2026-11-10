@@ -72,7 +72,7 @@ To succeed in intensive fish farming (using ponds), specific factors must be con
 3. **Water Supply:** There must be a reliable, continuous, and clean source of water year-round (streams, springs, boreholes). The water must be free from chemical pollution.
 4. **Vegetation:** The site should not have too many large trees. Large roots make digging difficult and can crack the pond walls (dykes), while too much shade blocks sunlight, preventing algae from photosynthesizing.
 
-[IMAGE: A cross-section of a standard earthen fish pond. Showing a gently sloping bottom. On the left, a water inlet pipe. On the right, a concrete structure called a 'monk' with wooden boards (spillway) controlling the water level, and a drainage pipe at the very bottom leading out through an earthen wall (dyke). A few fish are swimming in the water. Labels to add later: "Water inlet", "Earthen dyke (embankment)", "Water level", "Monk (for regulating water and drainage)", "Sloping pond bottom", "Drainage pipe". Clean flat textbook style, white background.]
+![Cross section of an earthen fish pond showing an inlet pipe on the left, a monk drainage structure with stoplogs on the right, and swimming fish.](images/C8-01-earthen-fish-pond-cross.png)
 
 **Factors in Pond Management:**
 1. **Pond Preparation and Desilting:** Before stocking a pond, it is drained. Over time, mud, fish waste, and uneaten feed accumulate at the bottom as silt. **Desilting** is the removal of this accumulated mud from the pond bottom. If not removed, rotting silt produces toxic gases (like ammonia and hydrogen sulphide) that kill the fish.
@@ -96,7 +96,7 @@ Different tools and methods are appropriate for catching fish depending on the c
 5. **Scoop Nets / Hand Nets:** A small net on a frame with a handle. Appropriate for scooping fingerlings or harvesting small quantities in concrete tanks.
 6. **Total Pond Draining:** In earthen ponds, the drainage pipe (monk) is opened, completely emptying the pond so all the fish collect at the bottom. Appropriate for final harvesting in intensive aquaculture.
 
-[IMAGE: An illustration showing three different fish harvesting tools. Left: A fisherman on the bank throwing a circular Cast Net over the water. Middle: Two fishermen wading in shallow water, pulling a long Drag Net (Seine Net) between them, showing floats on top and weights on the bottom. Right: A woven basket-like fish trap with a funnel entrance lying underwater. Clean flat textbook style, white background.]
+![An illustration showing three fish harvesting methods including a cast net thrown from a bank, a seine net dragged through water, and a submerged basket trap.](images/C8-02-traditional-fish-harvesting-gear.png)
 
 ### Methods of Fish Preservation
 

@@ -56,7 +56,7 @@ To perform well in your exams, you must be able to sharply contrast these forms 
 | **Process** | Observation $\rightarrow$ Pattern $\rightarrow$ Hypothesis $\rightarrow$ General Theory | General Theory $\rightarrow$ Hypothesis $\rightarrow$ Observation $\rightarrow$ Specific Conclusion |
 | **Certainty** | Conclusions are *probable* based on the evidence seen so far. | Conclusions are *certain* as long as the starting theory is correct. |
 
-[IMAGE: Flowchart illustrating the two forms of scientific reasoning. Left side titled "Inductive Reasoning (Bottom-Up)": an arrow pointing upwards from "Specific Observations & Data" to "Detecting Patterns" to "Formulating a Hypothesis" to "General Theory". Right side titled "Deductive Reasoning (Top-Down)": an arrow pointing downwards from "General Theory" to "Hypothesis" to "Observation & Testing" to "Specific Conclusion". Clean flat textbook illustration, white background, blue and orange accents.]
+![A diagram comparing inductive reasoning, moving upwards from specific observations to general theory, with deductive reasoning, moving downwards from general theory to specific conclusions.](images/A3-01-inductive-deductive-reasoning-flowchart.png)
 
 ### Comparing Positive and Normative Reasoning
 
@@ -121,9 +121,9 @@ Formula: $Sector Angle = \frac{Value of Item}{Total Value} \times 360^\circ$
 - Books: $\frac{1,500}{10,000} \times 360^\circ = 54^\circ$
 *(Check: $144 + 90 + 72 + 54 = 360^\circ$)*
 
-[IMAGE: A brightly coloured pie chart divided into four sectors: Food (144°, 40%), Transport (90°, 25%), Savings (72°, 20%), and Books (54°, 15%). The chart has a legend on the right showing the corresponding colours and categories, with the total budget labelled as ₦10,000. Clean flat textbook illustration, white background.]
+![A pie chart displaying monthly budget distribution across Food 40 percent, Transport 25 percent, Savings 20 percent, and Books 15 percent, with total budget ten thousand naira.](images/A3-02-budget-allocation-pie-chart.png)
 
-[IMAGE: Three types of bar charts side-by-side for comparison. Panel 1: Simple Bar Chart showing one colour of bars representing total agricultural output per year. Panel 2: Component (Stacked) Bar Chart showing the same bars but divided into sections (e.g., crop, livestock, fishery) stacked on top of each other in different colours. Panel 3: Multiple (Grouped) Bar Chart showing the same sub-categories as thin distinct bars placed side-by-side for each year. Axes are clearly labelled but without exact numbers. Clean flat textbook illustration, white background.]
+![Three bar charts comparing agricultural output over three years: a simple bar chart of total output, a component stacked bar chart, and a multiple grouped bar chart by category.](images/A3-03-bar-chart-types-comparison.png)
 
 ### 3. Graphs
 Graphs use a Cartesian coordinate system (an X-axis and a Y-axis) to show the relationship between two variables. Points are plotted and connected with a line or curve. 
@@ -132,7 +132,7 @@ Graphs use a Cartesian coordinate system (an X-axis and a Y-axis) to show the re
 
 **Textbook Variation & Essential Rule:** In standard mathematics, the independent variable (the cause) is placed on the horizontal X-axis, and the dependent variable (the effect) is on the vertical Y-axis. However, in economics, due to a tradition started by the famous economist Alfred Marshall, **Price (the independent variable) is always plotted on the Y-axis**, and **Quantity (the dependent variable) is plotted on the X-axis**. You must follow this rule in your exams.
 
-[IMAGE: A Cartesian coordinate system graph representing a typical demand curve. The vertical Y-axis is labelled "Price (₦)" and the horizontal X-axis is labelled "Quantity Demanded (units)". A straight downward-sloping line (labelled 'D') runs from the top-left to the bottom-right. Two dotted lines connect specific price points (P1, P2) on the Y-axis to corresponding quantity points (Q1, Q2) on the X-axis, showing that as price falls, quantity increases. Clean flat textbook illustration, white background.]
+![Graph showing a downward-sloping demand curve where a price drop from P1 to P2 increases quantity demanded from Q1 to Q2.](images/A3-04-standard-demand-curve-graph.png)
 
 ## Analyse Economic Data Using the Tools
 

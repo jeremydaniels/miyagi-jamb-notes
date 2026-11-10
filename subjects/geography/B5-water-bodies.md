@@ -42,7 +42,7 @@ A **sea** is a smaller body of salt water, mostly partially enclosed by land, th
 - **The South China Sea:** A marginal sea of the Western Pacific, bordered by East and Southeast Asian countries.
 - **The Gulf of Guinea:** A very important maritime area for West Africa (including Nigeria), forming the northeasternmost part of the tropical Atlantic Ocean.
 
-[IMAGE: A flat world map showing the continents in pale green and the oceans in light blue. The five oceans (Pacific, Atlantic, Indian, Southern, Arctic) are clearly labelled in bold dark blue text. The Mediterranean Sea, Red Sea, Caribbean Sea, and Gulf of Guinea are labelled with smaller text and arrows pointing to their locations. Clean flat textbook style, white background.]
+![A flat world map labeling the five major oceans and four seas: Caribbean Sea, Mediterranean Sea, Red Sea, and Gulf of Guinea.](images/B5-01-world-oceans-seas-map.png)
 
 ### Characteristics and uses of oceans and seas
 
@@ -132,7 +132,7 @@ Because of the Earth's rotation (the Coriolis force) and the prevailing winds, o
 3. Caught by the Westerlies, it crosses the Atlantic towards Europe as the **North Atlantic Drift** (warm).
 4. As it hits Europe and Africa, it is deflected southwards as the **Canary Current** (cold) back to the equator, completing the clockwise gyre.
 
-[IMAGE: A world map specifically focusing on Ocean Currents. Red arrows indicate warm currents (e.g., Gulf Stream, Agulhas, Kuroshio). Blue arrows indicate cold currents (e.g., Canary, Benguela, Labrador, Peru). The arrows form distinct circular gyres: clockwise in the North Atlantic and North Pacific, anti-clockwise in the South Atlantic, South Pacific, and Indian Ocean. Clean flat textbook style, white background.]
+![World map illustrating major surface ocean currents and gyres, with red arrows showing warm currents and blue arrows showing cold currents forming circular oceanic gyres.](images/B5-02-global-ocean-currents-map.png)
 
 ---
 
@@ -237,7 +237,7 @@ A typical river flows from its source (high up in the mountains) down to its mou
 - **Waterfalls and Rapids:** A waterfall forms when a river plunges vertically over a steep cliff. This usually happens when a band of hard rock lies across the riverbed, on top of softer rock. The river easily erodes the soft rock, undercutting the hard rock until it forms a ledge.
 - **Plunge Pool:** At the base of the waterfall, the tremendous force of the falling water and swirling rocks (corrasion and hydraulic action) digs a deep depression called a plunge pool.
 
-[IMAGE: A cross-section of a waterfall. A river flows over a layer of hard rock that sits on top of softer rock. The softer rock is eroded backwards (undercutting). Water plunges down, swirling rocks at the base to form a deep rounded plunge pool. Labels: "Hard rock", "Soft rock", "Overhang", "Undercutting", "Plunge pool", "Swirling rocks/pebbles". Clean flat textbook style, white background.]
+![Cross section of a waterfall showing hard rock over undercut soft rock, creating an overhang as water plunges into a deep plunge pool with swirling rocks.](images/B5-03-waterfall-erosion-cross-section.png)
 
 #### Landforms of the Middle Course
 - **Meanders:** As the river flows over gentler slopes, it starts to swing from side to side in wide loops known as meanders.

@@ -1,0 +1,52 @@
+{
+ "B5-03-waterfall-erosion-cross-section": {
+  "caption_below": "Undercutting",
+  "regions": [
+   "Hard rock",
+   "Soft rock",
+   "Plunge pool"
+  ],
+  "labels": [
+   [
+    "Hard rock",
+    [
+     326,
+     437
+    ],
+    "L"
+   ],
+   [
+    "Soft rock",
+    [
+     237,
+     640
+    ],
+    "L"
+   ],
+   [
+    "Overhang",
+    [
+     523,
+     454
+    ],
+    "R"
+   ],
+   [
+    "Plunge pool",
+    [
+     754,
+     760
+    ],
+    "R"
+   ],
+   [
+    "Swirling rocks/pebbles",
+    [
+     619,
+     836
+    ],
+    "R"
+   ]
+  ]
+ }
+}

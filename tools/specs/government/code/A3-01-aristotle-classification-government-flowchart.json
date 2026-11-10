@@ -1,0 +1,105 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Aristotle's Classification of Government",
+ "nodes": [
+  {
+   "id": "top",
+   "text": "Who rules?",
+   "shape": "diamond",
+   "color": "blue"
+  },
+  {
+   "id": "one",
+   "text": "One person",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "few",
+   "text": "A few people",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "many",
+   "text": "Many people",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "good_one",
+   "text": "Good: Monarchy",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "bad_one",
+   "text": "Corrupt: Tyranny/Autocracy",
+   "shape": "box",
+   "color": "red"
+  },
+  {
+   "id": "good_few",
+   "text": "Good: Aristocracy",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "bad_few",
+   "text": "Corrupt: Oligarchy",
+   "shape": "box",
+   "color": "red"
+  },
+  {
+   "id": "good_many",
+   "text": "Good: Polity",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "bad_many",
+   "text": "Corrupt: Mob Rule",
+   "shape": "box",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "top",
+   "to": "one"
+  },
+  {
+   "from": "top",
+   "to": "few"
+  },
+  {
+   "from": "top",
+   "to": "many"
+  },
+  {
+   "from": "one",
+   "to": "good_one"
+  },
+  {
+   "from": "one",
+   "to": "bad_one"
+  },
+  {
+   "from": "few",
+   "to": "good_few"
+  },
+  {
+   "from": "few",
+   "to": "bad_few"
+  },
+  {
+   "from": "many",
+   "to": "good_many"
+  },
+  {
+   "from": "many",
+   "to": "bad_many"
+  }
+ ]
+}

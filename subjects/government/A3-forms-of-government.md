@@ -28,7 +28,7 @@ Aristotle said a government is "good" or "normal" if it rules for the benefit of
 
 *Note:* Modern textbooks consider **Democracy** a "good" form of government, even though Aristotle originally saw it as mob rule.
 
-[IMAGE: A flowchart showing Aristotle's classification of government. At the top, a question: "Who rules?". Three arrows point down to "One person", "A few people", and "Many people". Below "One person", a split shows "Good: Monarchy" and "Corrupt: Tyranny/Autocracy". Below "A few people", a split shows "Good: Aristocracy" and "Corrupt: Oligarchy". Below "Many people", a split shows "Good: Polity" and "Corrupt: Mob Rule". Clean flat textbook illustration, white background, distinct colours for Good (green) and Corrupt (red).]
+![A flowchart categorizing Aristotle's types of government by ruler count, dividing them into good forms like monarchy and corrupt forms like tyranny.](images/A3-01-aristotle-classification-government-flowchart.png)
 
 ---
 
@@ -205,7 +205,7 @@ The key difference here lies in the **Head of State**—how they get power and h
 | **Equality** | Inherently unequal; divides society into royals and commoners. | Promotes equality; any citizen can become the Head of State. |
 | **Examples** | Saudi Arabia, UK, Pre-colonial Oyo Empire. | USA, Nigeria (1963–present), Ghana. |
 
-[IMAGE: A split illustration contrasting Monarchy and Republicanism. On the left side (Monarchy): A golden crown resting on a velvet cushion. On the right side (Republicanism): A hand dropping a ballot paper into a transparent ballot box marked "VOTE". Clean flat textbook style, white background.]
+![A split illustration showing a golden crown on a purple velvet cushion on the left, and a hand inserting a ballot into a transparent ballot box on the right.](images/A3-02-monarchy-versus-republic-split.png)
 
 ### 2. Democracy vs. Autocracy
 

@@ -42,7 +42,7 @@ There are three degrees:
 | Comparative | Compares **two** people or things | Ada is **taller** than Ngozi. |
 | Superlative | Compares **three or more**, picking out the top or bottom one | Ada is the **tallest** girl in the class. |
 
-[IMAGE: Three cartoon students standing side by side against a white background, getting taller from left to right, like a simple bar chart of people. Above the shortest: the word "tall" in a small tag; above the middle one: "taller"; above the tallest: "tallest", with a small gold star. Clean flat educational illustration, soft colours, Nigerian school uniforms (white shirts, green shorts or skirts). Labels: "Positive", "Comparative", "Superlative" under each figure.]
+![Three schoolboys in green shorts and white shirts standing side by side, increasing in height from left to right, with tags and a star above them.](images/B5c-01-degrees-comparison-cartoon.png)
 
 ## The positive degree
 
@@ -617,7 +617,7 @@ The meaning of a question tag depends on the **intonation** (the rise or fall of
 | **Falling** (↘) | The speaker is fairly sure and expects agreement. It is not a real question. | *It's a lovely day, ↘ isn't it?* |
 | **Rising** (↗) | The speaker is not sure and is asking a real question. | *You're from Ilorin, ↗ aren't you?* |
 
-[IMAGE: Two speech bubbles shown one above the other on a white background. Each contains a sentence with an arrow drawn over the tag showing the voice movement. Top bubble: "It's hot today, isn't it?" with a smooth arrow curving DOWN over "isn't it", and a small smiling speaker who looks confident; caption beside it: "Falling tone: expecting agreement". Bottom bubble: "You're from Ilorin, aren't you?" with a smooth arrow curving UP over "aren't you", and a small speaker with a slightly puzzled expression; caption: "Rising tone: real question". Clean flat educational illustration, soft colours.]
+![Two speech bubble illustrations, top one showing a smiling speaker with falling pitch contour, bottom one showing an uncertain speaker with rising pitch contour.](images/B5c-02-question-tag-intonation-cartoon.png)
 
 ## Worked examples: question tags step by step
 

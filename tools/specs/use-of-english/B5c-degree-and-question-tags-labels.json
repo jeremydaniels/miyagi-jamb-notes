@@ -1,0 +1,31 @@
+{
+ "B5c-01-degrees-comparison-cartoon": {
+  "labels": [
+   [
+    "Positive",
+    [
+     233,
+     648
+    ],
+    "L"
+   ],
+   [
+    "Comparative",
+    [
+     512,
+     550
+    ],
+    "R"
+   ],
+   [
+    "Superlative",
+    [
+     795,
+     493
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5c-02-question-tag-intonation-cartoon": {}
+}

@@ -164,17 +164,17 @@ def place_points(job, path, labels, feedback=""):
     pr = ("This is an unlabelled textbook illustration. Description: " + job["prompt"] + "\n"
           "For EACH label name below, give the point (x, y) on a 0-1000 scale (x right, y down, origin top-left of the image) where a pointer line should END: "
           "inside the named part (or exactly on the line for a vessel, wall or surface), at its most recognisable spot, clear of the edges of neighbouring parts. "
-          "If a part appears more than once, choose the clearest one. If the label names a whole panel, stage or organism, give its centre. "
+          "If a part appears more than once, choose the clearest one. If the label names a whole panel, stage or organism, give its centre. If the label is an annotation about a process, result or condition (for example a direction of flow, inspiration, oxygen in, a test result, a measurement), point to the arrow, region or structure where that happens. "
           "Return one entry per label, using the label text exactly as given.\nLABELS: " + json.dumps(labels)
           + (f"\nCORRECTIONS from the last attempt (fix these): {feedback}" if feedback else ""))
-    r = vision(pr, [path], S_PTS, "place-labels", thinking="medium")
+    r = vision(pr, [path], S_PTS, "place-labels", thinking="low")
     return {p["label"]: (p["x"], p["y"]) for p in r["points"]}
 
 
 def check_labelled(job, path, labels):
     pr = ("This textbook image has text labels with pointer lines. Each pointer line ends in a dot on the part being named. "
           "Required labels: " + json.dumps(labels) + "\nDescription of the picture: " + job["prompt"] + "\n"
-          "For each label say ok=true only if its pointer dot sits on the correct part (not on a neighbouring part or empty background); otherwise ok=false and say in 'issue' which part it is actually on and where the right part is "
+          "Be reasonable, not pixel-strict: a dot anywhere on the named part counts, and for region or process annotations (flow direction, inspiration, oxygen in, test results, measurements, whole-panel names) a dot on or right beside the relevant arrow, region or structure counts. For each label say ok=true only if its pointer dot sits on the correct part or region (not on a clearly different part, and not far out on empty background); otherwise ok=false and say in 'issue' which part it is actually on and where the right part is "
           "(left/right/above/below the dot). overlap=true if any label text overlaps another label or the picture. unreadable=true if any label is cut off or hard to read.")
     return vision(pr, [path], S_LCHK, "check-labelled", thinking="low")
 
@@ -326,13 +326,13 @@ def run_ai(jobs, workers, use_batch=True, pre_generated=()):
     fb = {}; chks = {}; active = list(jobs); passed = []
     def prompt_of(j):
         return clean_prompt(j["prompt"]) + ("" if j["name"] not in fb else " IMPORTANT corrections from the previous attempt (fix these): " + fb[j["name"]])
-    for rnd in range(3):
+    for rnd in range(2):
         if not active or STOP.is_set():
             break
         need = [j for j in active if not os.path.exists(raw_path(j))]
         pro_round = rnd > 0
         for model in (FLASH_IMG, PRO_IMG):
-            grp = [j for j in need if (PRO_IMG if rnd >= 2 else (j["model"] if rnd == 0 and j["name"] in OVERRIDES else FLASH_IMG)) == model]
+            grp = [j for j in need if (PRO_IMG if rnd >= 1 else (j["model"] if rnd == 0 and j["name"] in OVERRIDES else FLASH_IMG)) == model]
             if not grp:
                 continue
             ok = {}

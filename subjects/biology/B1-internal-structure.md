@@ -106,7 +106,7 @@ A TS of a young maize root shows the same main regions, but with some clear diff
 6. **Pith:** a **large central pith** of parenchyma, in the middle of the ring of vascular tissue.
 7. **No cambium** develops, so monocot roots do not grow thicker by secondary growth.
 
-[IMAGE: Transverse section of a young monocotyledonous root (maize), drawn as a circle. Show from outside inwards: a piliferous layer with root hairs; two or three layers of thick-walled exodermis cells; a wide parenchyma cortex with air spaces; an endodermis ring with U-shaped thickened cells and a few thin-walled passage cells; a thin pericycle; a ring of about twelve to sixteen small xylem groups (each with one large vessel) alternating with the same number of small phloem patches; a large central pith of big rounded parenchyma cells. Labels: root hair, piliferous layer, exodermis, cortex, endodermis, passage cell, pericycle, xylem, phloem, pith. Same colours as the dicot root (xylem pale red, phloem pale blue, cortex pale cream). Clean flat textbook style, white background.]
+![Transverse section of a young maize (monocot) root showing the epidermis with root hairs, exodermis, cortex, endodermis with a passage cell, pericycle, xylem, phloem and the central pith.](images/B1-02-monocot-root-transverse-section.png)
 
 ### Dicot root and monocot root compared
 

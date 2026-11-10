@@ -42,7 +42,7 @@
     "R"
    ],
    [
-    "FADH\u2082",
+    "FADH₂",
     [
      601,
      607
@@ -146,22 +146,6 @@
  "B4b-10-germinating-seeds-heat-production": {
   "labels": [
    [
-    "flask A: germinating seeds (washed in disinfectant)",
-    [
-     291,
-     483
-    ],
-    "L"
-   ],
-   [
-    "flask B (control): boiled seeds (washed in disinfectant)",
-    [
-     706,
-     496
-    ],
-    "R"
-   ],
-   [
     "vacuum flask (reduces heat loss)",
     [
      195,
@@ -209,7 +193,21 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "flask A:\ngerminating seeds\n(washed in\ndisinfectant)",
+    246,
+    983
+   ],
+   [
+    "flask B\n(control): boiled\nseeds (washed in\ndisinfectant)",
+    671,
+    983
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B4b-12-yeast-anaerobic-fermentation-experiment": {
   "labels": [
@@ -270,7 +268,7 @@
     "R"
    ],
    [
-    "water bath at about 30 \u00b0C",
+    "water bath at about 30 °C",
     [
      696,
      614

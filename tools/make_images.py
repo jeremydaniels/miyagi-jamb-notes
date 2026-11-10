@@ -48,6 +48,7 @@ OVERRIDES = {  # image name -> (model, extra prompt text): the four pilot proble
 ACCEPT = set()
 ROUNDS = 2            # AI generation rounds (--rounds 1: one more try only)
 CODE_ATTEMPTS = None  # limit code attempts (--code-attempts)
+CHECK_MODEL = None    # text model for the drawing checks (None = Flash; --pro-check = Pro)
 PRO_CODE = False      # use the Pro text model from the first code attempt
 SIMPLIFIED = {}       # name -> simplified description (cleanup retries)          # image names whose raw picture I have looked at and accepted despite the automatic check (human override)
 CODE_OVERRIDE = {       # AI placeholders better drawn in code: name -> extra instructions
@@ -188,7 +189,7 @@ def check_raw(job, path):
           "For tiny stray text give tiny_boxes as [x0,y0,x1,y1] integers on a 0-1000 scale (x right, y down) around each mark. "
           "alt: a plain-English alt text for the picture, at most 30 words, no brackets, no quotation marks."
           + (f"\nSUBJECT RULES (set ok=false if broken): {SUBJECT_RULES[SUBJECT]}" if SUBJECT in SUBJECT_RULES else ""))
-    return vision(pr, [path], S_RAW, "check-raw")
+    return vision(pr, [path], S_RAW, "check-raw", model=CHECK_MODEL)
 
 
 def place_points(job, path, labels, feedback=""):
@@ -207,7 +208,7 @@ def check_labelled(job, path, labels):
           "Required labels: " + json.dumps(labels) + "\nDescription of the picture: " + job["prompt"] + "\n"
           "Be reasonable, not pixel-strict: a dot anywhere on the named part counts, and for region or process annotations (flow direction, inspiration, oxygen in, test results, measurements, whole-panel names) a dot on or right beside the relevant arrow, region or structure counts. For each label say ok=true only if its pointer dot sits on the correct part or region (not on a clearly different part, and not far out on empty background); otherwise ok=false and say in 'issue' which part it is actually on and where the right part is "
           "(left/right/above/below the dot). overlap=true if any label text overlaps another label or the picture. unreadable=true if any label is cut off or hard to read.")
-    return vision(pr, [path], S_LCHK, "check-labelled", thinking="low")
+    return vision(pr, [path], S_LCHK, "check-labelled", model=CHECK_MODEL, thinking="low")
 
 
 # ---------------------------------------------------------------- generation
@@ -445,6 +446,11 @@ BANNED = {"open", "exec", "eval", "compile", "__import__", "input", "globals", "
 CODE_SYS = """You write Python (matplotlib + numpy) functions that draw exact textbook diagrams as PNG files.
 Write ONE file that defines `def draw(out):` and nothing else executable (no top-level code besides imports and helper functions). Begin with `from style import *` (this gives: plt, np via `import numpy as np` which you must import yourself, canvas(w,h), save(fig, path), the colours INK, GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, the dict DEEP with keys green/blue/pink/orange/lav, and the helpers axes_clean(ax, xlabel, ylabel, xmax, ymax), country_polys(*names), continent_polys('Africa'|'World'|...), nigeria_poly()). Always finish with save(fig, out).
 Rules: only import numpy, matplotlib, math, itertools, textwrap and style. No file or network access. Use the soft palette (GREEN, BLUE, PINK, LAV, CREAM, ORANGE, GREY, ink text, white background; DEEP colours for lines). Use fontsize 14 to 18 (never smaller than 14) so all text is readable on a phone; never let text overlap other text or lines (use white bbox behind labels where lines pass); keep everything inside the canvas. Include EVERY title, label, axis name, key and annotation that the description names, spelled exactly as in the description, and nothing that contradicts it. Maps are simplified sketches: use the Natural Earth helpers for real outlines, shade zones as simple bands or polygons, add a small caption 'Sketch map: zones are approximate' where positions are schematic. Apply scientific accuracy (curve shapes, labelled structure positions, cycle direction, flow arrows). Output ONLY the Python code, no markdown fences."""
+CODE_SYS += ("\nLOGIC CIRCUITS: never hand-draw gate shapes. style also gives gate(ax, kind, x, y, w=1.6, h=1.0) which draws the standard distinctive-shape symbol "
+             "(kind AND, OR, NOT, NAND, NOR, XOR, XNOR, BUFFER) centred at (x, y) and returns {'in': [(x, y), ...], 'out': (x, y)} (pin ends). "
+             "Use fig=canvas(w,h); ax=fig.add_axes([0,0,1,1]); ax.set_aspect('equal'); ax.axis('off') with data coordinates, then join the pins with straight horizontal/vertical wires (ax.plot, color INK, lw 2.4), "
+             "put a filled dot where wires branch, and write input names (A, B), output names and every column or label the description names. Draw circuits left to right. "
+             "For two gates feeding a third, route wires with right angles, never through another gate. Truth tables next to a circuit may be drawn with ax.table or text rows, with the same header names as the description.\n")
 CODE_EX = open(os.path.join(HERE, "codedraw", "samples.py")).read()
 CODE_EX = CODE_EX[CODE_EX.index("def bio_photosynthesis_graph(out):"):CODE_EX.index("def hist_timeline(out):")]
 
@@ -492,7 +498,7 @@ def check_code_img(job, path):
           f"DESCRIPTION: {job['full']}\n"
           "Judge as a teacher choosing a textbook figure. ok=true if the content is correct and complete enough to teach from: every main item, label, title and axis in the description is present, shapes, directions and values are right, all text is readable and nothing overlaps (text on text, text on lines, text cut off by the edge), and nothing contradicts the description. Do NOT fail for paraphrased or slightly shortened wording, colours, style, plain text without a box, or empty space; fail only for a missing or wrong main item, a wrong direction or connection, a misleading shape, unreadable or overlapping text. "
           "List every problem concisely in 'problems' (what is wrong and where). stray_text: set to 'none'. alt: plain-English alt text, at most 30 words, no brackets, no quotation marks.")
-    return vision(pr, [path], S_RAW, "check-code", thinking="medium")
+    return vision(pr, [path], S_RAW, "check-code", model=CHECK_MODEL, thinking="medium")
 
 
 TEMPLATE_NAMES = {"flowchart", "cycle", "hub", "graph", "chart", "table", "timeline", "taccount"}
@@ -679,11 +685,13 @@ def main():
     ap.add_argument("--only", nargs="*", help="only these image names")
     ap.add_argument("--accept", nargs="*", default=[], help="names of raw images accepted after I looked at them")
     ap.add_argument("--rounds", type=int, default=2); ap.add_argument("--code-attempts", type=int); ap.add_argument("--pro", action="store_true", help="Pro for AI round 0 and for code from the first attempt"); ap.add_argument("--simplified", help="JSON file name -> simplified description")
-    ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
+    ap.add_argument("--pro-check", action="store_true", help="Gemini Pro (not Flash) for the drawing checks"); ap.add_argument("--cap", type=float, help="stop when image spend reaches this many USD"); ap.add_argument("--no-code", action="store_true"); ap.add_argument("--no-ai", action="store_true")
     ap.add_argument("--retry-failed", choices=["code", "ai", "all"], help="reset failed jobs of this kind to pending and run them again (new generation, new tries)")
     a = ap.parse_args()
     ACCEPT.update(a.accept)
-    global SUBJECT, SUBJ, ROUNDS, CODE_ATTEMPTS, PRO_CODE
+    global SUBJECT, SUBJ, ROUNDS, CODE_ATTEMPTS, PRO_CODE, CHECK_MODEL, CAP
+    if a.pro_check: CHECK_MODEL = TXT_PRO
+    if a.cap: CAP = a.cap
     SUBJECT = a.subject; SUBJ = a.subject + "-images2"; ROUNDS = a.rounds; CODE_ATTEMPTS = a.code_attempts; PRO_CODE = a.pro
     if a.simplified: SIMPLIFIED.update(json.load(open(a.simplified)))
     jobs = load_jobs(a.subject, a.files)

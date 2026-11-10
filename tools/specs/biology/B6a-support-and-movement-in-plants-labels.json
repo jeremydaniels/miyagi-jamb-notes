@@ -74,5 +74,1025 @@
     "R"
    ]
   ]
+ },
+ "B6a-01-plant-animal-support-comparison": {
+  "labels": [
+   [
+    "leaves held to light",
+    [
+     150,
+     360
+    ],
+    "L"
+   ],
+   [
+    "flower held for pollination",
+    [
+     344,
+     240
+    ],
+    "L"
+   ],
+   [
+    "shoot bends to light",
+    [
+     182,
+     117
+    ],
+    "L"
+   ],
+   [
+    "roots anchor plant",
+    [
+     258,
+     834
+    ],
+    "L"
+   ],
+   [
+    "skeleton supports body",
+    [
+     719,
+     493
+    ],
+    "R"
+   ],
+   [
+    "muscles move legs",
+    [
+     804,
+     591
+    ],
+    "R"
+   ],
+   [
+    "locomotion",
+    [
+     908,
+     573
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-02-plant-supporting-tissues": {
+  "labels": [
+   [
+    "parenchyma",
+    [
+     118,
+     294
+    ],
+    "L"
+   ],
+   [
+    "air space",
+    [
+     120,
+     259
+    ],
+    "L"
+   ],
+   [
+    "vacuole",
+    [
+     115,
+     299
+    ],
+    "L"
+   ],
+   [
+    "collenchyma",
+    [
+     316,
+     294
+    ],
+    "L"
+   ],
+   [
+    "thickened corners",
+    [
+     327,
+     276
+    ],
+    "L"
+   ],
+   [
+    "sclerenchyma fibre",
+    [
+     462,
+     716
+    ],
+    "L"
+   ],
+   [
+    "lumen",
+    [
+     530,
+     206
+    ],
+    "R"
+   ],
+   [
+    "lignified wall",
+    [
+     516,
+     229
+    ],
+    "R"
+   ],
+   [
+    "sclereid (stone cell)",
+    [
+     543,
+     370
+    ],
+    "R"
+   ],
+   [
+    "xylem vessel",
+    [
+     707,
+     283
+    ],
+    "R"
+   ],
+   [
+    "annular thickening",
+    [
+     648,
+     675
+    ],
+    "R"
+   ],
+   [
+    "spiral thickening",
+    [
+     707,
+     675
+    ],
+    "R"
+   ],
+   [
+    "pitted vessel",
+    [
+     769,
+     675
+    ],
+    "R"
+   ],
+   [
+    "sieve tube",
+    [
+     852,
+     716
+    ],
+    "R"
+   ],
+   [
+    "companion cell",
+    [
+     904,
+     765
+    ],
+    "R"
+   ],
+   [
+    "phloem fibre",
+    [
+     939,
+     338
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-03-dicot-root-transverse-section": {
+  "labels": [
+   [
+    "root hair",
+    [
+     90,
+     399
+    ],
+    "L"
+   ],
+   [
+    "piliferous layer",
+    [
+     131,
+     491
+    ],
+    "L"
+   ],
+   [
+    "cortex (parenchyma)",
+    [
+     240,
+     491
+    ],
+    "L"
+   ],
+   [
+    "endodermis",
+    [
+     315,
+     491
+    ],
+    "L"
+   ],
+   [
+    "pericycle",
+    [
+     344,
+     491
+    ],
+    "L"
+   ],
+   [
+    "xylem (central support)",
+    [
+     512,
+     404
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     412,
+     405
+    ],
+    "L"
+   ],
+   [
+    "no pith",
+    [
+     512,
+     512
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-04-dicot-monocot-stem-sections": {
+  "labels": [
+   [
+    "epidermis",
+    [
+     761,
+     280
+    ],
+    "R"
+   ],
+   [
+    "collenchyma",
+    [
+     259,
+     289
+    ],
+    "L"
+   ],
+   [
+    "cortex",
+    [
+     199,
+     332
+    ],
+    "L"
+   ],
+   [
+    "sclerenchyma (pericycle fibres)",
+    [
+     257,
+     339
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     257,
+     358
+    ],
+    "L"
+   ],
+   [
+    "cambium",
+    [
+     257,
+     368
+    ],
+    "L"
+   ],
+   [
+    "xylem",
+    [
+     257,
+     389
+    ],
+    "L"
+   ],
+   [
+    "pith",
+    [
+     259,
+     512
+    ],
+    "L"
+   ],
+   [
+    "vascular bundle",
+    [
+     704,
+     424
+    ],
+    "R"
+   ],
+   [
+    "sclerenchyma sheath",
+    [
+     761,
+     373
+    ],
+    "R"
+   ],
+   [
+    "hypodermal sclerenchyma",
+    [
+     761,
+     302
+    ],
+    "R"
+   ],
+   [
+    "ground tissue",
+    [
+     761,
+     512
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-05-leaf-midrib-transverse-section": {
+  "labels": [
+   [
+    "cuticle",
+    [
+     256,
+     300
+    ],
+    "L"
+   ],
+   [
+    "upper epidermis",
+    [
+     256,
+     337
+    ],
+    "L"
+   ],
+   [
+    "palisade mesophyll",
+    [
+     187,
+     421
+    ],
+    "L"
+   ],
+   [
+    "spongy mesophyll",
+    [
+     138,
+     552
+    ],
+    "L"
+   ],
+   [
+    "lower epidermis",
+    [
+     151,
+     700
+    ],
+    "L"
+   ],
+   [
+    "stoma",
+    [
+     223,
+     700
+    ],
+    "L"
+   ],
+   [
+    "midrib",
+    [
+     378,
+     542
+    ],
+    "L"
+   ],
+   [
+    "collenchyma",
+    [
+     512,
+     319
+    ],
+    "R"
+   ],
+   [
+    "xylem",
+    [
+     512,
+     496
+    ],
+    "R"
+   ],
+   [
+    "phloem",
+    [
+     512,
+     588
+    ],
+    "R"
+   ],
+   [
+    "sclerenchyma",
+    [
+     512,
+     394
+    ],
+    "R"
+   ],
+   [
+    "network of veins",
+    [
+     906,
+     885
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-06-phototropism-seedling-experiment-setup": {
+  "labels": [
+   [
+    "light from one side",
+    [
+     547,
+     479
+    ],
+    "R"
+   ],
+   [
+    "slit",
+    [
+     440,
+     496
+    ],
+    "L"
+   ],
+   [
+    "cardboard box",
+    [
+     292,
+     284
+    ],
+    "L"
+   ],
+   [
+    "shoots bend towards light",
+    [
+     274,
+     481
+    ],
+    "L"
+   ],
+   [
+    "control (light from all sides)",
+    [
+     804,
+     588
+    ],
+    "R"
+   ],
+   [
+    "shoots grow straight",
+    [
+     798,
+     435
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-07-geotropism-clinostat-experiment": {
+  "labels": [
+   [
+    "cork disc",
+    [
+     165,
+     327
+    ],
+    "L"
+   ],
+   [
+    "bean seedling",
+    [
+     252,
+     483
+    ],
+    "L"
+   ],
+   [
+    "radicle bends down",
+    [
+     182,
+     380
+    ],
+    "L"
+   ],
+   [
+    "plumule bends up",
+    [
+     352,
+     486
+    ],
+    "L"
+   ],
+   [
+    "moist cotton wool",
+    [
+     229,
+     392
+    ],
+    "L"
+   ],
+   [
+    "clinostat",
+    [
+     677,
+     794
+    ],
+    "R"
+   ],
+   [
+    "motor",
+    [
+     522,
+     686
+    ],
+    "R"
+   ],
+   [
+    "rotating axle",
+    [
+     607,
+     473
+    ],
+    "R"
+   ],
+   [
+    "radicle grows straight",
+    [
+     722,
+     480
+    ],
+    "R"
+   ],
+   [
+    "plumule grows straight",
+    [
+     865,
+     479
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-08-hydrotropism-experiment-apparatus": {
+  "labels": [
+   [
+    "sieve (wire mesh)",
+    [
+     456,
+     317
+    ],
+    "L"
+   ],
+   [
+    "moist sawdust",
+    [
+     486,
+     421
+    ],
+    "L"
+   ],
+   [
+    "germinating seed",
+    [
+     610,
+     353
+    ],
+    "R"
+   ],
+   [
+    "root grows through mesh",
+    [
+     468,
+     732
+    ],
+    "L"
+   ],
+   [
+    "roots bend back towards moisture",
+    [
+     706,
+     606
+    ],
+    "R"
+   ],
+   [
+    "dry air",
+    [
+     204,
+     737
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B6a-09-climbing-plants-tendril": {
+  "labels": [
+   [
+    "tendril",
+    [
+     369,
+     292
+    ],
+    "L"
+   ],
+   [
+    "support (stake)",
+    [
+     406,
+     253
+    ],
+    "L"
+   ],
+   [
+    "coil around support",
+    [
+     406,
+     339
+    ],
+    "L"
+   ],
+   [
+    "spring-like coil",
+    [
+     300,
+     356
+    ],
+    "L"
+   ],
+   [
+    "faster growth on outer side",
+    [
+     404,
+     573
+    ],
+    "L"
+   ],
+   [
+    "slower growth on side touched",
+    [
+     454,
+     573
+    ],
+    "L"
+   ],
+   [
+    "yam stem twining round stake",
+    [
+     741,
+     438
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-10-tactic-movements-biology": {
+  "labels": [
+   [
+    "light",
+    [
+     421,
+     179
+    ],
+    "L"
+   ],
+   [
+    "Chlamydomonas collect in light",
+    [
+     364,
+     430
+    ],
+    "L"
+   ],
+   [
+    "black cover",
+    [
+     184,
+     399
+    ],
+    "L"
+   ],
+   [
+    "flagella",
+    [
+     186,
+     665
+    ],
+    "L"
+   ],
+   [
+    "eyespot",
+    [
+     210,
+     742
+    ],
+    "L"
+   ],
+   [
+    "chloroplast",
+    [
+     210,
+     834
+    ],
+    "L"
+   ],
+   [
+    "archegonium",
+    [
+     835,
+     655
+    ],
+    "R"
+   ],
+   [
+    "neck",
+    [
+     798,
+     471
+    ],
+    "R"
+   ],
+   [
+    "egg",
+    [
+     772,
+     696
+    ],
+    "R"
+   ],
+   [
+    "sperm (antherozoids)",
+    [
+     626,
+     409
+    ],
+    "R"
+   ],
+   [
+    "water film",
+    [
+     629,
+     614
+    ],
+    "R"
+   ],
+   [
+    "chemical attractant",
+    [
+     772,
+     225
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-14-shoot-tip-longitudinal-section": {
+  "labels": [
+   [
+    "apical meristem (growing point)",
+    [
+     509,
+     286
+    ],
+    "L"
+   ],
+   [
+    "leaf primordium",
+    [
+     598,
+     276
+    ],
+    "R"
+   ],
+   [
+    "young leaf",
+    [
+     657,
+     235
+    ],
+    "R"
+   ],
+   [
+    "axillary bud primordium",
+    [
+     632,
+     404
+    ],
+    "R"
+   ],
+   [
+    "region of cell division",
+    [
+     509,
+     368
+    ],
+    "L"
+   ],
+   [
+    "region of elongation",
+    [
+     571,
+     552
+    ],
+    "R"
+   ],
+   [
+    "region of differentiation",
+    [
+     571,
+     696
+    ],
+    "R"
+   ],
+   [
+    "node",
+    [
+     394,
+     762
+    ],
+    "L"
+   ],
+   [
+    "internode",
+    [
+     404,
+     629
+    ],
+    "L"
+   ],
+   [
+    "developing vascular tissue",
+    [
+     583,
+     471
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-15-auxin-phototropism-mechanism": {
+  "labels": [
+   [
+    "light from one side",
+    [
+     317,
+     153
+    ],
+    "L"
+   ],
+   [
+    "shoot tip makes auxin",
+    [
+     180,
+     333
+    ],
+    "L"
+   ],
+   [
+    "auxin moves to shaded side",
+    [
+     491,
+     327
+    ],
+    "L"
+   ],
+   [
+    "more auxin",
+    [
+     473,
+     491
+    ],
+    "L"
+   ],
+   [
+    "cells elongate more (shaded side)",
+    [
+     750,
+     588
+    ],
+    "R"
+   ],
+   [
+    "less auxin",
+    [
+     528,
+     491
+    ],
+    "R"
+   ],
+   [
+    "cells elongate less (lit side)",
+    [
+     793,
+     588
+    ],
+    "R"
+   ],
+   [
+    "shoot bends towards light",
+    [
+     819,
+     440
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B6a-16-auxin-geotropism-response": {
+  "labels": [
+   [
+    "gravity",
+    [
+     280,
+     384
+    ],
+    "L"
+   ],
+   [
+    "auxin collects on lower side",
+    [
+     703,
+     274
+    ],
+    "R"
+   ],
+   [
+    "shoot: more auxin stimulates growth on lower side",
+    [
+     698,
+     568
+    ],
+    "R"
+   ],
+   [
+    "shoot bends up (negative geotropism)",
+    [
+     868,
+     558
+    ],
+    "R"
+   ],
+   [
+    "root: more auxin inhibits growth on lower side",
+    [
+     261,
+     752
+    ],
+    "L"
+   ],
+   [
+    "upper side grows faster",
+    [
+     348,
+     855
+    ],
+    "L"
+   ],
+   [
+    "root bends down (positive geotropism)",
+    [
+     163,
+     849
+    ],
+    "L"
+   ]
+  ]
  }
 }

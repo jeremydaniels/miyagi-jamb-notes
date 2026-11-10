@@ -89,7 +89,7 @@ Most plants are fixed (rooted) in one place, so they **cannot move from place to
 | Main support | Turgor of cells; collenchyma, sclerenchyma, xylem and phloem fibres; wood | Skeleton (exoskeleton, endoskeleton or hydrostatic skeleton); cartilage and bone |
 | Main purpose of support | Hold leaves to light, flowers for pollination, fruits for dispersal | Shape, protection, muscle attachment, locomotion |
 
-[IMAGE: Two side-by-side panels comparing support and movement. Left panel: a tall plant (e.g. a pawpaw or young mango tree) with leaves held up towards the sun, flowers held high with a bee visiting, a shoot tip bending towards the sun, and roots spreading in the soil. Right panel: an outline of a goat with its skeleton faintly visible, walking towards a patch of grass. Small arrows show the direction of movement in each. Labels: leaves held to light, flower held for pollination, shoot bends to light, roots anchor plant, skeleton supports body, muscles move legs, locomotion. Soft greens and browns. Clean flat textbook style, white background.]
+![A two-panel illustration comparing support and movement in a flowering plant anchored by roots to a walking goat supported by its internal skeleton.](images/B6a-01-plant-animal-support-comparison.png)
 
 ## Supporting tissues in plants
 
@@ -196,7 +196,7 @@ Plants have no bones. They are supported in two ways:
 | Where found | Cortex, pith, mesophyll | Below epidermis of young dicot stems, petioles, midribs | Pericycle, bundle sheaths, hypodermis of monocots, nut shells, fruits | Vascular bundles; wood | Outside or among phloem |
 | Example | Amaranth stem, leaf mesophyll | Celery strings, young sunflower stem | Coconut shell, guava grit, jute | Wood of mahogany, iroko | Jute, kenaf, flax |
 
-[IMAGE: A panel of five enlarged plant supporting tissues drawn side by side, each in transverse section with a small longitudinal section below. (1) Parenchyma: rounded thin-walled living cells with large vacuoles and air spaces. (2) Collenchyma: polygonal living cells with walls thickened at the corners. (3) Sclerenchyma fibres: very thick, evenly lignified walls with a small empty lumen, and in long section long cells with tapering overlapping ends; include one rounded sclereid (stone cell) with layered thick walls. (4) Xylem: a wide vessel with lignified walls, plus long sections showing annular, spiral and pitted thickening. (5) Phloem fibres beside sieve tubes and companion cells. Lignified walls in reddish-brown, cellulose walls in pale green. Labels: parenchyma, air space, vacuole, collenchyma, thickened corners, sclerenchyma fibre, lumen, lignified wall, sclereid (stone cell), xylem vessel, annular thickening, spiral thickening, pitted vessel, sieve tube, companion cell, phloem fibre. Clean flat textbook style, white background.]
+![Diagram showing five plant supporting tissues side by side in transverse and longitudinal sections including parenchyma, collenchyma, sclerenchyma with fibres and sclereid, xylem vessels, and phloem with sieve tubes.](images/B6a-02-plant-supporting-tissues.png)
 
 ## Distribution of supporting tissues in the root, stem and leaf
 
@@ -223,7 +223,7 @@ The supporting tissues are not placed at random. They are arranged in the best p
 
 **How this suits the root's function:** the central core of xylem works like the **central strand of a cable or rope**. It is strong when **pulled**, so it resists the pulling force of the swaying stem and anchors the plant firmly. The flexible outer cortex allows the root to bend around stones as it grows through the soil.
 
-[IMAGE: Transverse section of a young dicotyledonous root (e.g. bean), drawn as a plan diagram. Show the piliferous layer with root hairs, a wide parenchyma cortex, the endodermis, the pericycle, and a central star-shaped xylem with four arms, with phloem groups between the arms. Shade the xylem dark reddish-brown to show it is the main supporting tissue in the centre, and add a small arrow diagram beside it showing a downward pulling force. Labels: root hair, piliferous layer, cortex (parenchyma), endodermis, pericycle, xylem (central support), phloem, no pith. Clean flat textbook style, white background.]
+![Cross section diagram of a young dicot root showing the outer epidermis with root hairs, broad cortex, endodermis, pericycle, central star-shaped xylem, and phloem.](images/B6a-03-dicot-root-transverse-section.png)
 
 ### Supporting tissues in the stem
 
@@ -247,7 +247,7 @@ The supporting tissues are not placed at random. They are arranged in the best p
 
 **How this suits the stem's function:** the strong tissues (collenchyma, sclerenchyma caps and the ring of vascular bundles) are arranged in a **ring near the outside**, like the walls of a hollow pipe or the steel rods near the edge of a concrete pillar. This gives the greatest resistance to **bending** by the wind, with the least amount of material. The flexible collenchyma lets the young stem bend without snapping; the turgid pith and cortex keep the stem firm and fill it out.
 
-[IMAGE: Two transverse sections of young stems drawn as plan diagrams, side by side. Left: dicotyledonous stem (sunflower), circular, with epidermis, a ring of collenchyma just under the epidermis, a parenchyma cortex, a ring of about eight vascular bundles each with a cap of sclerenchyma fibres on the outside, phloem, cambium and xylem, and a large central pith. Right: monocotyledonous stem (maize), circular, with epidermis, a hypodermal band of sclerenchyma, and many small vascular bundles scattered through the ground tissue, each surrounded by a sclerenchyma sheath, more crowded towards the edge. Shade all supporting tissues (collenchyma in light green, sclerenchyma and xylem in reddish-brown). Labels: epidermis, collenchyma, cortex, sclerenchyma (pericycle fibres), phloem, cambium, xylem, pith, vascular bundle, sclerenchyma sheath, hypodermal sclerenchyma, ground tissue. Clean flat textbook style, white background.]
+![Plan diagrams showing cross sections of a dicot stem with a ring of vascular bundles and a monocot stem with scattered vascular bundles.](images/B6a-04-dicot-monocot-stem-sections.png)
 
 ### Supporting tissues in the leaf
 
@@ -264,7 +264,7 @@ The supporting tissues are not placed at random. They are arranged in the best p
 
 **How this suits the leaf's function:** the leaf is held **flat** and **spread out** to catch as much light as possible; the network of veins and the midrib stop it from collapsing or tearing, while the petiole holds it in the best position towards the light.
 
-[IMAGE: Transverse section through the midrib region of a dicotyledonous leaf, drawn as a detailed diagram. Show the upper epidermis with cuticle, palisade mesophyll, spongy mesophyll with air spaces, lower epidermis with a stoma, and the thickened midrib with collenchyma under both upper and lower epidermis, a large vascular bundle with xylem on the upper side and phloem on the lower side, and an arc of sclerenchyma fibres around the bundle. Add a small inset showing a whole leaf with its network of veins acting as a framework. Labels: cuticle, upper epidermis, palisade mesophyll, spongy mesophyll, lower epidermis, stoma, midrib, collenchyma, xylem, phloem, sclerenchyma, network of veins. Clean flat textbook style, white background.]
+![A diagram of a dicotyledonous leaf cross section showing the midrib, epidermis, mesophyll layers, vascular bundle, and an inset of a whole netted-vein leaf.](images/B6a-05-leaf-midrib-transverse-section.png)
 
 ### Summary: distribution of supporting tissues
 
@@ -339,7 +339,7 @@ A **tropism** (tropic movement) is a **growth movement** of **part of a plant** 
 - **Observation:** the shoots in pot A **bend towards the slit**. The shoots in pot B (all-round light) grow **straight up**. (Seedlings kept in total darkness grow straight, tall, thin and pale yellow: they are **etiolated**.)
 - **Conclusion:** shoots are **positively phototropic**: they grow towards light coming from one direction.
 
-[IMAGE: Experimental set-up for phototropism. Left: a cardboard box cut away to show a pot of young bean or maize seedlings inside; a narrow slit on the right side of the box lets in a beam of light (yellow rays), and the seedlings' shoots are bent towards the slit. Right (control): an identical pot of seedlings in open, all-round light, growing straight up. Labels: light from one side, slit, cardboard box, shoots bend towards light, control (light from all sides), shoots grow straight. Clean flat textbook style, white background.]
+![An experiment showing phototropism with potted seedlings inside a box bending toward a slit letting in light, compared to a control pot outside growing straight.](images/B6a-06-phototropism-seedling-experiment-setup.png)
 
 #### Geotropism (response to gravity)
 
@@ -372,7 +372,7 @@ A **clinostat** is an apparatus with a **slowly rotating** disc or axle driven b
 - **Use in phototropism experiments:** turning a pot of seedlings slowly on a **vertical axis** in front of a light from one side makes every side receive light equally, so it **cancels the one-sided effect of light**; the shoots grow straight.
 - In both cases, the clinostat seedlings act as the **control**.
 
-[IMAGE: Geotropism experiment with a clinostat. Left: a stationary cork disc with three bean seedlings pinned horizontally, their radicles curved downwards and their plumules curved upwards, labelled "stationary". Right: an identical cork disc mounted on the horizontal axle of a small motorised clinostat with a curved arrow showing slow rotation; its seedlings remain straight and horizontal. Moist cotton wool around the seeds. Labels: cork disc, bean seedling, radicle bends down, plumule bends up, moist cotton wool, clinostat, motor, rotating axle, radicle grows straight, plumule grows straight. Clean flat textbook style, white background.]
+![Diagram demonstrating geotropism with a clinostat: seedlings on a stationary cork disc show bent radicles and plumules, while those on a rotating clinostat grow straight horizontally.](images/B6a-07-geotropism-clinostat-experiment.png)
 
 #### Hydrotropism (response to water)
 
@@ -397,7 +397,7 @@ A **clinostat** is an apparatus with a **slowly rotating** disc or axle driven b
 
 **Alternative set-up:** seeds are planted in a box of dry soil with a porous clay pot of water buried at one side; the roots grow towards the moist soil around the pot.
 
-[IMAGE: Hydrotropism experiment. A wire-mesh sieve hung at an angle, filled with brown moist sawdust containing germinating bean seeds. Roots have grown downwards through the mesh into the dry air and then curved back upwards to grow along the underside of the mesh towards the moist sawdust. Small blue droplets in the sawdust show moisture. Labels: sieve (wire mesh), moist sawdust, germinating seed, root grows through mesh, roots bend back towards moisture, dry air. Clean flat textbook style, white background.]
+![A wire mesh sieve hung at an angle contains moist sawdust and germinating seeds, with roots growing downwards through the mesh and curving back up toward moisture.](images/B6a-08-hydrotropism-experiment-apparatus.png)
 
 #### Thigmotropism or haptotropism (response to touch or contact)
 
@@ -421,7 +421,7 @@ A **clinostat** is an apparatus with a **slowly rotating** disc or axle driven b
 
 **Textbook variation:** some textbooks treat the coiling of tendrils as **thigmotropism**, while others note that part of the response (the rapid curling, which does not depend on the side touched in some species) is a **thigmonasty**. JAMB follows the usual school-level view: tendril coiling is thigmotropism (haptotropism). "Haptotropism" and "thigmotropism" mean the same thing.
 
-[IMAGE: Two climbing plants side by side. Left: a cucumber or passion fruit stem with a tendril that has touched a thin wooden stake and coiled tightly around it, and the part between the stake and the stem twisted like a spring; an enlarged inset of the tendril shows longer cells on the outer side and shorter cells on the side touching the stake. Right: a yam vine twining around a tall wooden stake in a farm mound. Labels: tendril, support (stake), coil around support, spring-like coil, faster growth on outer side, slower growth on side touched, yam stem twining round stake. Clean flat textbook style, white background.]
+![Diagram comparing climbing plants, showing tendril coiling around a stake with a cellular inset on the left and a twining yam vine on a mound on the right.](images/B6a-09-climbing-plants-tendril.png)
 
 #### Chemotropism (response to chemicals)
 
@@ -469,7 +469,7 @@ A **tactic movement** (taxis; plural: taxes) is the movement of a **whole organi
 - **Thermotaxis:** movement in response to temperature (e.g. some protozoa move towards a favourable temperature).
 - **Aerotaxis:** movement in response to oxygen (some bacteria swim towards oxygen).
 
-[IMAGE: Two panels showing tactic movements. Left: a Petri dish half covered by black card with a lamp shining on the uncovered half; many tiny green Chlamydomonas cells crowded in the lit half and few in the dark half; an enlarged inset of a single Chlamydomonas with two flagella, a red eyespot, a cup-shaped chloroplast and a nucleus, with an arrow pointing towards the light. Right: an enlarged moss or fern archegonium (flask-shaped with a neck and an egg at the base) with several small flagellated sperm swimming in a water film towards the open neck, and dotted lines showing a chemical spreading out from the neck. Labels: light, Chlamydomonas collect in light, black cover, flagella, eyespot, chloroplast, archegonium, neck, egg, sperm (antherozoids), water film, chemical attractant. Clean flat textbook style, white background.]
+![Diagram showing phototaxis in Chlamydomonas swimming toward a light source and chemotaxis of plant sperm swimming toward the open neck of an archegonium.](images/B6a-10-tactic-movements-biology.png)
 
 ### 3. Nastic movements (nasties)
 
@@ -627,7 +627,7 @@ At the tip of every shoot is a **terminal (apical) bud**. In a longitudinal sect
 
 The stem is divided into **nodes** (where leaves are attached) and **internodes** (the parts between the nodes). Growth in length occurs mainly in the **young internodes** near the tip.
 
-[IMAGE: Longitudinal section of a shoot tip (terminal bud). Show a dome-shaped apical meristem at the top, young leaf primordia as small bumps on either side, older young leaves curving over the dome to protect it, small axillary bud primordia in the axils of the leaves, developing procambium strands, and below this a zone of elongating cells and then a zone of differentiated tissues. Mark nodes and internodes on the stem below. Labels: apical meristem (growing point), leaf primordium, young leaf, axillary bud primordium, region of cell division, region of elongation, region of differentiation, node, internode, developing vascular tissue. Clean flat textbook style, white background.]
+![Longitudinal diagram of a plant shoot apex showing the apical meristem dome, leaf primordia, developing vascular strands, and distinct cellular growth zones along the stem.](images/B6a-14-shoot-tip-longitudinal-section.png)
 
 ### Growth regions of roots and shoots compared
 
@@ -673,7 +673,7 @@ The stem is divided into **nodes** (where leaves are attached) and **internodes*
 
 **Textbook variation:** older textbooks say that light **destroys** auxin on the lit side. Experiments (e.g. by Went and later scientists) show that the total amount of auxin does not change much; instead, auxin is mainly **moved sideways** to the shaded side. Some recent research suggests that, in some plants, growth-inhibiting substances on the lit side are also involved. For JAMB, the standard answer is: **more auxin on the shaded side → more elongation on the shaded side → shoot bends towards light.**
 
-[IMAGE: Three-step diagram of auxin and phototropism in a shoot or oat coleoptile. Step 1: a straight shoot with light from the right; dots representing auxin at the tip, evenly spread. Step 2: auxin dots moving to the left (shaded) side and down that side; cells on the shaded side drawn longer than cells on the lit side. Step 3: the shoot bent towards the light on the right. Arrows show the direction of light and auxin movement. Labels: light from one side, shoot tip makes auxin, auxin moves to shaded side, more auxin, cells elongate more (shaded side), less auxin, cells elongate less (lit side), shoot bends towards light. Clean flat textbook style, white background.]
+![Three-step diagram showing phototropism where auxin redistributes to the shaded side of a plant shoot, causing cell elongation on that side and bending toward light.](images/B6a-15-auxin-phototropism-mechanism.png)
 
 ### Role of auxins in geotropism (step by step)
 
@@ -698,7 +698,7 @@ The stem is divided into **nodes** (where leaves are attached) and **internodes*
 
 **Textbook variation:** in roots, the root cap (with its statoliths) detects gravity and is thought to send growth inhibitors, together with auxin, to the lower side. Many textbooks explain root geotropism only in terms of auxin, as above; some mention other inhibitors such as abscisic acid. The JAMB answer is the auxin explanation.
 
-[IMAGE: Diagram of a bean seedling placed horizontally showing auxin and geotropism. Top: the seedling lying on its side with dots (auxin) collecting on the lower side of both the plumule (shoot) and the radicle (root), with a downward arrow labelled gravity. Bottom: the same seedling a day later, with the shoot curving upwards (lower side cells longer) and the root curving downwards (upper side cells longer). Small enlarged cell diagrams show long cells on the lower side of the shoot and long cells on the upper side of the root. Labels: gravity, auxin collects on lower side, shoot: more auxin stimulates growth on lower side, shoot bends up (negative geotropism), root: more auxin inhibits growth on lower side, upper side grows faster, root bends down (positive geotropism). Clean flat textbook style, white background.]
+![Diagram showing geotropism in a horizontally oriented bean seedling, illustrating auxin distribution and differential cell elongation in the root and shoot.](images/B6a-16-auxin-geotropism-response.png)
 
 ### The auxin concentration curve
 

@@ -77,7 +77,7 @@ Following the death of General Abacha in 1998, General Abdulsalami Abubakar prom
 The 1999 Constitution has guided Nigeria's Fourth Republic from 1999 to the present day, making it the longest-running democratic constitution in Nigeria's history. 
 However, it has faced massive criticism for being imposed by the military (it begins with "We the people...", which critics say is a lie). Over the years, it has undergone several amendments (hence "As Amended") to fix practical problems, such as updating electoral rules and reducing the age limits for running for office (the "Not Too Young To Run" amendment).
 
-[IMAGE: A horizontal timeline showing the progression of Nigeria's post-independence constitutions. Dates and events to show: 1963 (First Republic, Parliamentary), 1979 (Second Republic, Presidential), 1989 (Third Republic Aborted, Two-party system), 1999 (Fourth Republic, Presidential). Design as a clean, flat textbook timeline with white background, using standard blue and green colors for markers.]
+![Horizontal timeline of Nigeria post-independence constitutions showing 1963 First Republic, 1979 Second Republic, 1989 Third Republic aborted, and 1999 Fourth Republic.](images/B5-01-horizontal-timeline-post-independence.png)
 
 ---
 
@@ -101,7 +101,7 @@ When examining how well these constitutions served the nation, we must look at t
 | **National Unity:** The introduction of the **Federal Character** principle ensured that all ethnic groups were represented in federal appointments. | **Concentration of Power:** The President had enormous executive powers, which could easily lead to dictatorship or abuse of office. |
 | **Fixed Term:** Knowing the President had a fixed 4-year term brought stability, unlike the parliamentary system where a vote of no confidence could remove the leader anytime. | **Executive-Legislative Clashes:** The strict separation of powers sometimes led to the legislature and executive fighting and delaying government work. |
 
-[IMAGE: A block diagram contrasting the 1963 and 1979 leadership structures. Left side (1963 Parliamentary): Two separate figures, "Ceremonial President (Head of State)" and "Prime Minister (Head of Government)". Right side (1979 Presidential): One single large figure labeled "Executive President (Head of State AND Head of Government)". Clean flat textbook illustration, white background.]
+![A diagram comparing the 1963 Parliamentary system with two roles, Ceremonial President and Prime Minister, against the 1979 Presidential system with a single Executive President.](images/B5-02-block-executive-leadership-comparison.png)
 
 ### Merits and Demerits of the 1989 Constitution
 

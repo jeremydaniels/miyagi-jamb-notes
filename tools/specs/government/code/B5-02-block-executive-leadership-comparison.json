@@ -1,0 +1,46 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Comparison of 1963 and 1979 Leadership Structures",
+ "nodes": [
+  {
+   "id": "sys1963",
+   "text": "1963 Parliamentary System",
+   "shape": "box"
+  },
+  {
+   "id": "pres1963",
+   "text": "Ceremonial President\n(Head of State)",
+   "shape": "round"
+  },
+  {
+   "id": "pm1963",
+   "text": "Prime Minister\n(Head of Government)",
+   "shape": "round"
+  },
+  {
+   "id": "sys1979",
+   "text": "1979 Presidential System",
+   "shape": "box"
+  },
+  {
+   "id": "pres1979",
+   "text": "Executive President\n(Head of State AND\nHead of Government)",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sys1963",
+   "to": "pres1963"
+  },
+  {
+   "from": "sys1963",
+   "to": "pm1963"
+  },
+  {
+   "from": "sys1979",
+   "to": "pres1979"
+  }
+ ]
+}

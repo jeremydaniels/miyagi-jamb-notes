@@ -176,7 +176,7 @@ The rate of photosynthesis depends on several factors. When a process depends on
 
 **Compensation point:** at dawn and dusk, when light is dim, the rate of photosynthesis exactly equals the rate of respiration, so there is no net gain or loss of CO₂ or O₂. This light intensity is called the **compensation point**.
 
-[IMAGE: A line graph of the rate of photosynthesis (y-axis) against light intensity (x-axis). Three curves: the lowest curve levels off early (labelled low CO₂, 25 °C); the middle curve levels off higher (high CO₂, 25 °C); the top curve levels off highest (high CO₂, 35 °C). On the lowest curve, mark the rising part as "light is the limiting factor" and the flat part as "another factor is limiting". Axis labels: rate of photosynthesis, light intensity. Simple coloured lines (green, blue, orange) with a small key. Clean flat textbook style, white background.]
+![Line graph showing rate of photosynthesis against light intensity across three temperature and carbon dioxide conditions, indicating light and other limiting factors along the lowest curve.](images/B2b-04-photosynthesis-rate-line-graph.png)
 
 ### Importance of photosynthesis
 

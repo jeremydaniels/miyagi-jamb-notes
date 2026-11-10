@@ -131,7 +131,7 @@ Nigeria's cattle are mainly **zebu** breeds (humped cattle) in the north, and a 
 - **Crossing** a Friesian with a White Fulani or Sokoto Gudali produces a **crossbred** that combines higher milk yield (from the Friesian) with greater heat and disease tolerance (from the zebu). In Nigeria, research of this kind has been carried out at the **National Animal Production Research Institute (NAPRI), Shika, Zaria**, among others. Artificial insemination with semen from exotic bulls is often used.
 - Crossing trypanotolerant breeds (N'Dama, Muturu) with zebu can combine disease resistance with larger size. The **Keteku** (or Borgu) cattle of western Nigeria are believed to have arisen from crosses between Muturu and zebu.
 
-[IMAGE: Livestock cross-breeding diagram. Top left: a black-and-white Friesian dairy cow with a full udder, labelled with icons of a milk can (high milk) and a thermometer with a red cross (poor heat tolerance). Top right: a white humped White Fulani (Bunaji) cow with long lyre-shaped horns and a small udder, with icons of a sun with a check mark (heat tolerant) and a smaller milk can. A multiplication sign between them. Arrow down to a crossbred cow with a small hump and patchy colouring, with both icons: a large milk can and a sun with a check mark. Labels to add later: "Friesian: high milk yield, poor heat tolerance", "White Fulani (Bunaji): heat and disease tolerant, low milk yield", "Crossbred: more milk and good heat tolerance". Clean flat textbook style, white background.]
+![Diagram showing crossbreeding of a Friesian cow and a White Fulani cow to produce a crossbred cow with high milk yield and heat tolerance traits.](images/D2b-02-livestock-cross-breeding.png)
 
 #### Poultry: broilers and layers
 
@@ -188,7 +188,7 @@ In plants, **cross-pollination** is a form of out-breeding, and many flowers hav
 
 **Hybrid vigour (heterosis):** the offspring of a cross between two unrelated (especially in-bred) lines are often **bigger, stronger, faster-growing, more fertile and more disease-resistant** than either parent. This is called **hybrid vigour** or **heterosis**. Hybrid maize, broiler chickens and mules are examples.
 
-[IMAGE: Two maize plants side by side with their two inbred parents. Left: two short, thin maize plants with small cobs, each labelled as an inbred line (Line A and Line B). A multiplication sign between them and an arrow pointing right to a much taller, sturdy F1 maize plant with two large full cobs. Labels to add later: "Inbred line A (weak, small cobs)", "Inbred line B (weak, small cobs)", "F1 hybrid maize (hybrid vigour)", "taller and stronger", "larger cobs". Clean flat textbook style, white background.]
+![Diagram showing two short inbred parent maize plants crossed together to produce a significantly taller, vigorous F1 hybrid maize plant with two large cobs.](images/D2b-03-maize-hybrid-vigour.png)
 
 ### Advantages and disadvantages compared
 
@@ -236,7 +236,7 @@ In Nigeria, many churches, mosques and families now encourage, and some require,
 
 **Why the sickle-cell allele is common in Africa:** carriers (HbAS) are **more resistant to severe malaria** than people with HbAA. In malaria areas, carriers survive and reproduce more, so the HbS allele has remained common. This is an example of natural selection favouring the heterozygote (**heterozygote advantage**); see `E2-evidence-of-evolution.md`.
 
-[IMAGE: Comparison of red blood cells. Left panel: several normal red blood cells, round biconcave discs, flowing easily through a capillary. Right panel: several sickle-shaped (crescent) red blood cells mixed with a few normal ones, jammed together and blocking a narrow capillary. Labels to add later: "normal red blood cells (HbA)", "flexible, pass easily", "sickled red blood cells (HbS)", "stiff, block capillaries", "blocked blood flow causes pain (crisis)". Clean flat textbook style, white background.]
+![Diagram comparing normal round red blood cells flowing through a capillary with sickle-shaped cells jammed together and blocking flow in a narrow capillary.](images/D2b-04-sickle-cell-capillary-blockage.png)
 
 #### Genotypes and phenotypes
 
@@ -345,7 +345,7 @@ Each parent passes **one** of their two alleles to each child.
 
 **When there is no problem:** if the mother is **Rh+**, or if the baby is **Rh−**, HDN from the Rhesus factor does not occur. An Rh+ mother with an Rh− baby is not at risk, because the Rh− baby's cells have no Rh antigen for the mother to react to, and the baby does not make antibodies against the mother.
 
-[IMAGE: Three-stage diagram of haemolytic disease of the newborn. Stage 1: a pregnant woman labelled Rh− with an Rh+ fetus (red cells drawn with small yellow D antigen markers) in the uterus; a placenta between them. Stage 2: after birth, a few Rh+ red cells shown entering the mother's bloodstream, and the mother's blood now containing Y-shaped anti-D antibodies (purple). Stage 3: a second pregnancy with another Rh+ fetus; purple Y-shaped antibodies crossing the placenta and clumping and bursting the fetus's red cells. Labels to add later: "1 First pregnancy: Rh− mother, Rh+ baby (usually unharmed)", "2 At birth, baby's Rh+ cells enter mother's blood", "mother makes anti-D antibodies", "3 Second pregnancy: antibodies cross placenta", "baby's red cells destroyed", "placenta". Clean flat textbook style, white background.]
+![Three-stage diagram showing haemolytic disease of the newborn across a first pregnancy, maternal sensitization producing anti-D antibodies, and a second pregnancy where antibodies cross the placenta destroying fetal red cells.](images/D2b-06-haemolytic-disease-newborn-stages.png)
 
 #### Prevention and treatment
 
@@ -402,7 +402,7 @@ Counsellors may also advise on:
 7. **Grow (culture)** the selected bacteria in huge stainless steel tanks called **fermenters**, with nutrients, at the right temperature and pH. The bacteria multiply rapidly (as often as every 20 minutes or so) and each one makes human insulin.
 8. **Extract and purify** the insulin from the culture (**downstream processing**), test it and package it for injection.
 
-[IMAGE: Step-by-step diagram of producing human insulin by recombinant DNA technology, arranged as a cycle from left to right. 1: a human cell with its nucleus and a highlighted short gene segment (orange) on a chromosome. 2: a pair of scissors icon cutting the orange gene out, with small sticky ends shown. 3: a bacterium (rod-shaped, pale green) with a circular plasmid (blue ring) and a main chromosome; the plasmid is removed and cut open by scissors. 4: the orange gene being inserted into the open blue plasmid, with a small glue-drop icon for ligase, forming a recombinant plasmid (blue ring with an orange segment). 5: the recombinant plasmid entering a new bacterium. 6: many bacteria multiplying inside a large steel fermenter tank with a stirrer. 7: a vial of insulin and a syringe. Labels to add later: "human insulin gene", "restriction enzyme cuts DNA", "sticky ends", "bacterial plasmid", "DNA ligase joins DNA", "recombinant plasmid", "transformed bacterium", "fermenter", "purified human insulin". Clean flat textbook style, white background.]
+![Diagram showing recombinant DNA technology to produce insulin from gene extraction, insertion into a plasmid, bacterial culture in a fermenter, to the final insulin vial.](images/D2b-07-recombinant-dna-technology.png)
 
 ### Important medical products made by recombinant DNA technology
 
@@ -449,7 +449,7 @@ A **genetically modified organism (GMO)** is an organism whose genetic material 
 | **Virus-resistant papaya** | Gene from the papaya ringspot virus | Saved the papaya industry in Hawaii from a virus disease |
 | **GM bacteria and yeast** | Human genes (e.g. insulin) | Medicines (see objective x) |
 
-[IMAGE: Diagram of how Bt crops work. Left: a rod-shaped bacterium labelled Bacillus thuringiensis with a highlighted gene segment. Arrow to a cowpea plant whose cells now contain the gene, shown as a small inset of a leaf cell nucleus with the inserted segment. Right: a caterpillar (pod borer) eating a pod, then shown lying dead, while a bee and a ladybird nearby are unharmed. Labels to add later: "Bacillus thuringiensis (soil bacterium)", "Bt gene", "gene inserted into cowpea cells", "plant makes Bt protein", "pod borer caterpillar dies after feeding", "fewer insecticide sprays needed". Clean flat textbook style, white background.]
+![Diagram illustrating genetic modification of cowpea with Bacillus thuringiensis genes, showing gene transfer, caterpillar mortality upon feeding on a pod, and harmless effects on bees and ladybirds.](images/D2b-08-bt-crop-mechanism.png)
 
 #### GMOs in Nigeria
 
@@ -485,7 +485,7 @@ These approvals have been welcomed by many farmers and scientists, and criticise
 4. The vector delivers the gene into the patient's cells, either **in the body** or in cells **removed from the patient** (e.g. bone marrow stem cells), which are then returned.
 5. The cells use the normal gene to make the missing protein.
 
-[IMAGE: Diagram of somatic gene therapy using the patient's own blood stem cells, arranged as a loop. 1: a patient lying on a couch with a tube drawing blood (bone marrow stem cells) from the arm. 2: a laboratory dish of stem cells. 3: a harmless virus particle (hexagonal head) carrying a short highlighted normal gene, attaching to and entering a stem cell, the gene shown entering the nucleus. 4: corrected stem cells multiplying in a dish. 5: the corrected cells being returned by drip into the same patient. 6: inset of healthy round red blood cells made by the corrected cells. Labels to add later: "1 stem cells removed from patient", "2 cells grown in the laboratory", "3 virus vector delivers a normal gene", "4 corrected cells multiply", "5 corrected cells returned to patient", "6 healthy red blood cells produced". Clean flat textbook style, white background.]
+![Diagram showing somatic gene therapy steps: harvesting stem cells, culturing, introducing a normal gene via viral vector, cell multiplication, infusion back into the patient, and healthy red blood cell production.](images/D2b-09-stem-cell-gene-therapy.png)
 
 Newer **gene-editing** methods (such as **CRISPR**) can cut DNA at an exact place to correct or switch off a gene.
 

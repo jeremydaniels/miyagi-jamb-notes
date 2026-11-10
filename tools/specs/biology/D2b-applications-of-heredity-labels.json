@@ -1,0 +1,350 @@
+{
+ "D2b-02-livestock-cross-breeding": {
+  "labels": [
+   [
+    "Friesian: high milk yield, poor heat tolerance",
+    [
+     237,
+     253
+    ],
+    "L"
+   ],
+   [
+    "White Fulani (Bunaji): heat and disease tolerant, low milk yield",
+    [
+     775,
+     239
+    ],
+    "R"
+   ],
+   [
+    "Crossbred: more milk and good heat tolerance",
+    [
+     513,
+     684
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D2b-03-maize-hybrid-vigour": {
+  "labels": [
+   [
+    "Inbred line A (weak, small cobs)",
+    [
+     150,
+     584
+    ],
+    "L"
+   ],
+   [
+    "Inbred line B (weak, small cobs)",
+    [
+     417,
+     563
+    ],
+    "L"
+   ],
+   [
+    "F1 hybrid maize (hybrid vigour)",
+    [
+     775,
+     493
+    ],
+    "R"
+   ],
+   [
+    "taller and stronger",
+    [
+     779,
+     278
+    ],
+    "R"
+   ],
+   [
+    "larger cobs",
+    [
+     845,
+     540
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D2b-04-sickle-cell-capillary-blockage": {
+  "labels": [
+   [
+    "normal red blood cells (HbA)",
+    [
+     241,
+     182
+    ],
+    "L"
+   ],
+   [
+    "flexible, pass easily",
+    [
+     322,
+     493
+    ],
+    "L"
+   ],
+   [
+    "sickled red blood cells (HbS)",
+    [
+     689,
+     242
+    ],
+    "R"
+   ],
+   [
+    "stiff, block capillaries",
+    [
+     749,
+     496
+    ],
+    "R"
+   ],
+   [
+    "blocked blood flow causes pain (crisis)",
+    [
+     741,
+     573
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D2b-06-haemolytic-disease-newborn-stages": {
+  "labels": [
+   [
+    "1 First pregnancy: Rh\u2212 mother, Rh+ baby (usually unharmed)",
+    [
+     194,
+     494
+    ],
+    "L"
+   ],
+   [
+    "2 At birth, baby's Rh+ cells enter mother's blood",
+    [
+     579,
+     501
+    ],
+    "R"
+   ],
+   [
+    "mother makes anti-D antibodies",
+    [
+     573,
+     611
+    ],
+    "R"
+   ],
+   [
+    "3 Second pregnancy: antibodies cross placenta",
+    [
+     800,
+     493
+    ],
+    "R"
+   ],
+   [
+    "baby's red cells destroyed",
+    [
+     928,
+     524
+    ],
+    "R"
+   ],
+   [
+    "placenta",
+    [
+     153,
+     494
+    ],
+    "L"
+   ]
+  ]
+ },
+ "D2b-07-recombinant-dna-technology": {
+  "labels": [
+   [
+    "human insulin gene",
+    [
+     307,
+     329
+    ],
+    "L"
+   ],
+   [
+    "restriction enzyme cuts DNA",
+    [
+     404,
+     157
+    ],
+    "L"
+   ],
+   [
+    "sticky ends",
+    [
+     501,
+     186
+    ],
+    "L"
+   ],
+   [
+    "bacterial plasmid",
+    [
+     649,
+     182
+    ],
+    "R"
+   ],
+   [
+    "DNA ligase joins DNA",
+    [
+     945,
+     278
+    ],
+    "R"
+   ],
+   [
+    "recombinant plasmid",
+    [
+     881,
+     578
+    ],
+    "R"
+   ],
+   [
+    "transformed bacterium",
+    [
+     783,
+     760
+    ],
+    "R"
+   ],
+   [
+    "fermenter",
+    [
+     513,
+     742
+    ],
+    "R"
+   ],
+   [
+    "purified human insulin",
+    [
+     129,
+     611
+    ],
+    "L"
+   ]
+  ]
+ },
+ "D2b-08-bt-crop-mechanism": {
+  "labels": [
+   [
+    "Bacillus thuringiensis (soil bacterium)",
+    [
+     129,
+     605
+    ],
+    "L"
+   ],
+   [
+    "Bt gene",
+    [
+     119,
+     509
+    ],
+    "L"
+   ],
+   [
+    "gene inserted into cowpea cells",
+    [
+     483,
+     689
+    ],
+    "L"
+   ],
+   [
+    "plant makes Bt protein",
+    [
+     379,
+     437
+    ],
+    "L"
+   ],
+   [
+    "pod borer caterpillar dies after feeding",
+    [
+     755,
+     640
+    ],
+    "R"
+   ],
+   [
+    "fewer insecticide sprays needed",
+    [
+     883,
+     404
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D2b-09-stem-cell-gene-therapy": {
+  "labels": [
+   [
+    "1 stem cells removed from patient",
+    [
+     200,
+     437
+    ],
+    "L"
+   ],
+   [
+    "2 cells grown in the laboratory",
+    [
+     493,
+     186
+    ],
+    "L"
+   ],
+   [
+    "3 virus vector delivers a normal gene",
+    [
+     805,
+     247
+    ],
+    "R"
+   ],
+   [
+    "4 corrected cells multiply",
+    [
+     823,
+     570
+    ],
+    "R"
+   ],
+   [
+    "5 corrected cells returned to patient",
+    [
+     428,
+     805
+    ],
+    "L"
+   ],
+   [
+    "6 healthy red blood cells produced",
+    [
+     741,
+     827
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -55,7 +55,7 @@ The modern understanding of the atom was built over more than a century through 
 5. **Niels Bohr (1913):** Proposed the **planetary model** of the atom. He suggested that electrons do not spiral into the nucleus but move around it in fixed circular paths called **energy levels** or **orbits** (shells). 
 6. **Henry Moseley (1913):** Discovered the **atomic number** of elements using X-ray spectra. He proved that the identity of an element depends strictly on the number of protons in its nucleus, leading to the modern periodic table.
 
-[IMAGE: A clean, flat textbook illustration of a Bohr model of an atom. In the centre, a compact nucleus containing red spheres (protons, labelled with '+') and blue spheres (neutrons, blank). Around the nucleus, circular orbits (shells) in dashed lines containing small yellow spheres (electrons, labelled with '-'). Labels to add later: "Nucleus (protons + neutrons)", "Electron shell (orbit)", "Electron". Clean flat textbook style, white background.]
+![Diagram of a Bohr model of an atom showing a central nucleus of protons and neutrons surrounded by circular electron shells containing orbiting electrons.](images/A4-01-bohr-model-atom-schematic.png)
 
 ### Objective iii: Deduce the number of protons, neutrons and electrons
 
@@ -108,7 +108,7 @@ Different subshells have different orbital shapes.
 - **$s$-orbital:** It has a **spherical** shape. The nucleus is at the centre of the sphere.
 - **$p$-orbital:** It has a **dumb-bell** shape (two lobes meeting at a node at the nucleus). Because of the magnetic quantum number, there are three $p$-orbitals pointing along the $x$, $y$, and $z$ axes: $p_x$, $p_y$, and $p_z$.
 
-[IMAGE: Three-dimensional representation of s and p atomic orbitals on x, y, and z axes. On the left, a single spherical s-orbital centered on the origin. On the right, three separate p-orbitals: px (a dumbbell along the x-axis), py (a dumbbell along the y-axis), and pz (a dumbbell along the z-axis). Labels to add later: "s-orbital (spherical)", "px-orbital", "py-orbital", "pz-orbital", "node at the nucleus". Clean flat textbook style, white background.]
+![Diagram showing three-dimensional representations of spherical s-orbital and dumbbell-shaped px, py, and pz orbitals aligned along Cartesian axes, indicating nodal points at the nuclei.](images/A4-02-atomic-orbitals-d.png)
 
 ### Objective ix: Determine the number of electrons in s and p atomic orbitals
 
@@ -297,7 +297,7 @@ The shape of a simple molecule is determined by the repulsion between electron p
    - Example: $\text{CH}_4$ (Methane).
    - The central carbon atom has exactly four bond pairs and zero lone pairs. They spread out equally in 3D space to form a tetrahedron with angles of $109.5^\circ$.
 
-[IMAGE: A chart showing the shapes of simple molecules using ball-and-stick models. 1. Linear: A central grey atom with two green atoms attached at 180 degrees (e.g., CO2). 2. Non-linear (V-shaped): A central red atom (Oxygen) with two smaller white atoms (Hydrogen) attached at an angle of 104.5 degrees. 3. Pyramidal: A central blue atom (Nitrogen) with three white atoms at the base, angled downwards at 107 degrees (NH3). 4. Tetrahedral: A central dark atom (Carbon) with four white atoms arranged at 109.5 degrees in a regular tetrahedron (CH4). Labels to add later: "Linear (180°)", "Non-linear / V-shaped (104.5°)", "Pyramidal (107°)", "Tetrahedral (109.5°)". Clean flat textbook style, white background.]
+![A chart showing four molecular shapes with bond angles: linear at 180 degrees, non-linear at 104.5 degrees, pyramidal at 107 degrees, and tetrahedral at 109.5 degrees.](images/A4-03-molecular-shapes-geometry.png)
 
 ## Key terms
 

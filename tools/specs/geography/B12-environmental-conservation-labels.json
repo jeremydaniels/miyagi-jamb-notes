@@ -1,22 +1,19 @@
 {
  "B12-02-contour-ploughing-terracing": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Contour Ploughing: ridges across the slope block water",
-    [
-     274,
-     564
-    ],
-    "L"
+    "Contour Ploughing:\nridges across the slope\nblock water",
+    276,
+    862
    ],
    [
-    "Terracing: steps cut into a steep slope prevent soil wash",
-    [
-     704,
-     493
-    ],
-    "R"
+    "Terracing: steps cut\ninto a steep slope\nprevent soil wash",
+    748,
+    862
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

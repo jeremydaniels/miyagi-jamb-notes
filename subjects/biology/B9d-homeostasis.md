@@ -544,7 +544,7 @@ Insulin and glucagon are a classic **antagonistic pair**: they have opposite eff
 
 **Failure of blood sugar regulation:** in **diabetes mellitus**, the body makes too little insulin, or its cells do not respond to insulin, so the blood glucose stays **high** after meals and glucose appears in the urine. This is described fully in `B9c-hormonal-control.md` and summarised under disorders below.
 
-[IMAGE: Circular flow diagram of the control of blood glucose by insulin and glucagon around a central band labelled normal blood glucose. Upper loop in orange: a plate of rice icon leading to a rising arrow (blood glucose rises), then to the pancreas with its islets highlighted releasing purple insulin dots from beta cells, then to the liver and a muscle icon storing glucose as glycogen granules, then an arrow down to normal. Lower loop in blue: a running figure icon leading to a falling arrow (blood glucose falls), then to the pancreas releasing green glucagon dots from alpha cells, then to the liver releasing glucose from glycogen, then an arrow up to normal. Labels: normal blood glucose, blood glucose rises (after a meal), beta cells release insulin, liver and muscles store glucose as glycogen, cells take up glucose, blood glucose falls (exercise or fasting), alpha cells release glucagon, liver changes glycogen to glucose. Clean flat textbook style, white background.]
+![A circular negative feedback diagram showing blood glucose regulation: insulin lowers high glucose after meals, while glucagon raises low glucose during fasting to maintain normal blood glucose.](images/B9d-10-blood-glucose-regulation-flowchart.png)
 
 ### Thyroxine and adrenaline: regulation of body temperature
 

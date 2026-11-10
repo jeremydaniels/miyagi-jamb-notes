@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Classification of Essential Plant Nutrients",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "Essential Plant Nutrients",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "macro",
+   "text": "Macronutrients\n(Needed in large amounts)",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "micro",
+   "text": "Micronutrients\n(Needed in trace amounts)",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "air_water",
+   "text": "Air and Water:\nC, H, O",
+   "shape": "round",
+   "color": "teal"
+  },
+  {
+   "id": "primary",
+   "text": "Primary:\nN, P, K",
+   "shape": "round",
+   "color": "teal"
+  },
+  {
+   "id": "secondary",
+   "text": "Secondary:\nCa, Mg, S",
+   "shape": "round",
+   "color": "teal"
+  },
+  {
+   "id": "micro_list",
+   "text": "Fe, Zn, Cu, Mn,\nB, Mo, Cl",
+   "shape": "round",
+   "color": "orange"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "macro"
+  },
+  {
+   "from": "root",
+   "to": "micro"
+  },
+  {
+   "from": "macro",
+   "to": "air_water"
+  },
+  {
+   "from": "macro",
+   "to": "primary"
+  },
+  {
+   "from": "macro",
+   "to": "secondary"
+  },
+  {
+   "from": "micro",
+   "to": "micro_list"
+  }
+ ]
+}

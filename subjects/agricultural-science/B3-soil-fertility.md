@@ -37,7 +37,7 @@ There are 16 generally accepted essential plant nutrients. They are classified i
 **2. Micronutrients (Trace elements):** These are nutrients required by plants in very small (trace) quantities. If applied in large amounts, they become toxic. The seven essential micronutrients are:
 - Iron (Fe), Zinc (Zn), Copper (Cu), Manganese (Mn), Boron (B), Molybdenum (Mo), and Chlorine (Cl).
 
-[IMAGE: A tree-diagram classifying the 16 essential plant nutrients. The top box says "Essential Plant Nutrients". It splits into two branches: "Macronutrients (Needed in large amounts)" and "Micronutrients (Needed in trace amounts)". The Macronutrients box splits into "Air and Water: C, H, O", "Primary: N, P, K", and "Secondary: Ca, Mg, S". The Micronutrients box lists "Fe, Zn, Cu, Mn, B, Mo, Cl". Clean flat textbook style, white background.]
+![Tree diagram classifying sixteen essential plant nutrients into macronutrients, divided into air and water, primary, and secondary elements, and micronutrients listing iron, zinc, copper, manganese, boron, molybdenum, and chlorine.](images/B3-01-essential-plant-nutrients-hierarchy.png)
 
 ### Factors affecting nutrient availability
 
@@ -118,7 +118,7 @@ Fertilizers are materials added to the soil to supply essential plant nutrients.
 4. **Top Dressing:** Applying fertilizer to a crop that is already established and actively growing, usually to supply fast-acting nitrogen.
 5. **Foliar Application:** Dissolving micronutrients in water and spraying them directly onto the plant leaves.
 
-[IMAGE: A side-by-side illustration of fertilizer application methods. Left: a hand scattering granular fertilizer randomly over a grassy field ("Broadcasting"). Middle: a maize plant with a straight line of fertilizer placed next to its base ("Row Placement"). Right: a small cocoa tree with a circular trench dug around it containing fertilizer ("Ring Application"). Clean flat textbook style, white background.]
+![Three-panel diagram showing fertilizer application methods: hand broadcasting granules over grass, row placement in a line next to maize, and ring application in a trench around a cocoa tree.](images/B3-03-fertilizer-application-methods.png)
 
 ### Determining common fertilizer ratios
 

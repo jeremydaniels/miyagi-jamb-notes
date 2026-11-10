@@ -86,7 +86,7 @@ In Efua Sutherland's *Marriage of Anansewa*, music and dance are central to the 
 - **Décor and Props (Properties):** The furniture, rugs, and smaller objects (a sword, a letter, a calabash) that actors interact with.
 Together, they establish the setting, time of day, and mood before the actors even speak.
 
-[IMAGE: A stage layout viewed from the audience's perspective. The stage features detailed décor and scenery: a painted backdrop of a night sky with a moon, a raised wooden platform on the left with a royal throne (décor), and potted plants on the right suggesting a garden. Two actors are on stage: one wearing a rich, flowing robe and crown (costume), gesturing with a wooden staff (prop). Labels pointing to specific parts: "Scenery (backdrop)", "Décor/Props (throne, staff)", "Costume (robe and crown)". Clean flat textbook illustration style, white background.]
+![A theatrical stage viewed from the audience, showing two actors, a royal throne on a platform, potted plants, and a night sky backdrop.](images/A1b-01-theater-stage-layout-scenery.png)
 
 ### Acts and Scenes (Content b.viii)
 

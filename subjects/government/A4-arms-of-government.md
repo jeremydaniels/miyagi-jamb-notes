@@ -48,7 +48,7 @@ In Nigeria, the federal legislature (the National Assembly) is bicameral:
 *   **The Senate (Upper House):** Under the 1999 Constitution (as amended), it has 109 members (three from each of the 36 states, plus one from the Federal Capital Territory, Abuja).
 *   **The House of Representatives (Lower House):** It has 360 members, representing constituencies based on population size.
 
-[IMAGE: A simple block diagram showing the structure of the Nigerian National Assembly. A large box at the top labeled "National Assembly (Bicameral Legislature)". Below it, two boxes side-by-side. The left box is labeled "The Senate (Upper House) - 109 members (Equality of States)". The right box is labeled "House of Representatives (Lower House) - 360 members (Population-based)". Clean flat textbook illustration, white background.]
+![Diagram showing the structure of the Nigerian National Assembly, dividing into the Senate with 109 members and the House of Representatives with 360 members.](images/A4-01-bicameral-national-assembly-block.png)
 
 #### Comparison: Unicameral vs Bicameral Legislature
 
@@ -127,7 +127,7 @@ The judiciary is made up of a hierarchy of **courts** and the **personnel** who 
    *   **Customary and Sharia Courts of Appeal:** Handle appeals concerning customary (traditional) law and Islamic personal law, respectively.
    *   **Magistrate Courts and Customary/Area Courts:** The lower courts that handle minor civil and criminal cases.
 
-[IMAGE: A pyramid diagram showing the hierarchy of courts in Nigeria. At the peak, a small section labeled "Supreme Court". Below it, a wider section labeled "Court of Appeal". Below that, "Federal High Court / State High Courts / Sharia & Customary Courts of Appeal". At the base, the widest section labeled "Magistrate Courts / Area & Customary Courts". An arrow points upwards along the side labeled "Direction of Appeals". Clean flat textbook style, white background.]
+![A four-tiered pyramid diagram illustrating the hierarchy of Nigerian courts, from Magistrate Courts at the base up to the Supreme Court, with an upward arrow showing appeal direction.](images/A4-02-court-hierarchy-pyramid.png)
 
 ### Functions and Powers of the Judiciary
 

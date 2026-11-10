@@ -1,0 +1,32 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Structure of the Nigerian National Assembly",
+ "nodes": [
+  {
+   "id": "nass",
+   "text": "National Assembly\n(Bicameral Legislature)",
+   "shape": "box"
+  },
+  {
+   "id": "senate",
+   "text": "The Senate\n(Upper House)\n109 members\n(Equality of States)",
+   "shape": "box"
+  },
+  {
+   "id": "reps",
+   "text": "House of Representatives\n(Lower House)\n360 members\n(Population-based)",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "nass",
+   "to": "senate"
+  },
+  {
+   "from": "nass",
+   "to": "reps"
+  }
+ ]
+}

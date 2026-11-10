@@ -1,0 +1,22 @@
+[
+ [
+  "A39-01-energy-band-gap",
+  "Three side-by-side energy band diagrams. Left: Conductor (metal), showing the lower valence band and upper conduction band overlapping (no gap). Middle: Semiconductor, showing a small forbidden energy gap between the valence band and conduction band. Right: Insulator, showing a large forbidden energy gap between the bands. Clean flat textbook illustration, white background, clearly labeled vertical energy axes pointing upwards."
+ ],
+ [
+  "A39-02-semiconductor-crystal-lattice",
+  "Two side-by-side crystal lattice structures of silicon (Si). Left (n-type): A central Phosphorus (P) atom replaces a Si atom, with four covalent bonds to neighboring Si atoms and one extra \"free electron\" highlighted in red. Right (p-type): A central Boron (B) atom replaces a Si atom, with three covalent bonds and one missing bond leaving a \"hole\" highlighted as an empty white circle. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A39-03-pn-junction-biasing-circuit",
+  "Two circuit diagrams of a p-n junction diode. Top (Forward Bias): The p-region is connected to the positive terminal of a battery and the n-region to the negative terminal; the depletion layer is shown as very narrow, with arrows indicating current flow. Bottom (Reverse Bias): The p-region is connected to the negative terminal and the n-region to the positive terminal; the depletion layer is shown as wide, with a crossed-out arrow indicating no current flow. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A39-04-transistor-schematic-circuit-symbols",
+  "Circuit symbols for transistors. Left: npn transistor with Emitter (E), Base (B), and Collector (C), where the arrow on the emitter points outwards (Not Pointing iN). Right: pnp transistor with E, B, C, where the arrow on the emitter points inwards (Pointing iN Proudly). Clean flat textbook illustration, white background."
+ ],
+ [
+  "A39-05-rectification-voltage-time-graphs",
+  "Three voltage-time graphs stacked vertically. Top: An input alternating current (AC) sinusoidal wave swinging above and below the zero-voltage line. Middle: Output of a half-wave rectifier showing only the positive half-cycles (humps) and flat lines at zero for the negative half-cycles. Bottom: Output of a full-wave rectifier showing continuous positive half-cycles (\"humps\") with no gaps."
+ ]
+]

@@ -41,7 +41,7 @@ There are three key regions in band theory that you must know:
 
 *(Note: Textbooks sometimes vary slightly on the exact band gap value defining an insulator, often stating $>3\ \text{eV}$ or $>5\ \text{eV}$. JAMB focuses on the conceptual difference: zero gap for metals, small gap for semiconductors, large gap for insulators).*
 
-[IMAGE: Three side-by-side energy band diagrams. Left: Conductor (metal), showing the lower valence band and upper conduction band overlapping (no gap). Middle: Semiconductor, showing a small forbidden energy gap (labeled ~1 eV) between the valence band and conduction band. Right: Insulator, showing a large forbidden energy gap (labeled >3 eV) between the bands. Clean flat textbook illustration, white background, clearly labeled vertical energy axes pointing upwards.]
+![Energy band diagrams comparing conductor with overlapping bands, semiconductor with a small band gap around 1 eV, and insulator with a large band gap greater than 3 eV.](images/A39-01-energy-band-gap.png)
 
 ## Intrinsic and Extrinsic Semiconductors
 
@@ -70,7 +70,7 @@ Extrinsic semiconductors are divided into two types depending on the chemical gr
 | **Majority charge carriers**| Electrons | Holes |
 | **Minority charge carriers**| Holes | Electrons |
 
-[IMAGE: Two side-by-side crystal lattice structures of silicon (Si). Left (n-type): A central Phosphorus (P) atom replaces a Si atom, with four covalent bonds to neighboring Si atoms and one extra "free electron" highlighted in red. Right (p-type): A central Boron (B) atom replaces a Si atom, with three covalent bonds and one missing bond leaving a "hole" highlighted as an empty white circle. Clean flat textbook illustration, white background.]
+![Diagram comparing n-type silicon doped with phosphorus having an extra free electron, and p-type silicon doped with boron having an electron vacancy or hole.](images/A39-02-semiconductor-crystal-lattice.png)
 
 ## Electron and Hole Carriers
 
@@ -103,7 +103,7 @@ A diode can be connected to an external battery (biased) in two ways:
 1. **Forward Bias:** The positive terminal of the battery is connected to the p-type material, and the negative terminal to the n-type. The external voltage pushes carriers toward the junction, **narrowing** the depletion layer. The barrier voltage is overcome, and a large current flows easily.
 2. **Reverse Bias:** The positive terminal is connected to the n-type material, and the negative terminal to the p-type. The carriers are pulled away from the junction. The depletion layer **widens**, acting as a strong insulator. Almost zero current flows.
 
-[IMAGE: Two circuit diagrams of a p-n junction diode. Top (Forward Bias): The p-region is connected to the positive terminal of a battery and the n-region to the negative terminal; the depletion layer is shown as very narrow, with arrows indicating current flow. Bottom (Reverse Bias): The p-region is connected to the negative terminal and the n-region to the positive terminal; the depletion layer is shown as wide, with a crossed-out arrow indicating no current flow. Clean flat textbook illustration, white background.]
+![Diagrams comparing forward and reverse biased p-n junction diodes, showing depletion layer widths, battery polarity connections, and resulting current flow directions.](images/A39-03-pn-junction-biasing-circuit.png)
 
 ### Transistors (Bipolar Junction Transistors)
 A transistor is a semiconductor device made of three alternating doped layers, forming two p-n junctions. The three regions are:
@@ -115,7 +115,7 @@ There are two types of bipolar junction transistors:
 - **npn transistor:** A p-type base is sandwiched between an n-type emitter and an n-type collector. (This is the most common type).
 - **pnp transistor:** An n-type base is sandwiched between a p-type emitter and a p-type collector.
 
-[IMAGE: Circuit symbols for transistors. Left: npn transistor with Emitter (E), Base (B), and Collector (C), where the arrow on the emitter points outwards (Not Pointing iN). Right: pnp transistor with E, B, C, where the arrow on the emitter points inwards (Pointing iN Proudly). Clean flat textbook illustration, white background.]
+![Diagram showing circuit symbols for NPN and PNP transistors with collector, base, and emitter terminals labeled and arrow directions indicating current flow mnemonics.](images/A39-04-transistor-schematic-circuit-symbols.png)
 
 ### Transistor Calculations
 In any transistor, the current flowing out of (or into) the emitter is the sum of the very small current in the base and the large current in the collector.
@@ -190,7 +190,7 @@ Because a p-n junction diode only allows current to flow easily in one direction
 - **Half-wave rectification:** Uses a single diode in series with a load. It only allows the positive half of the AC wave to pass, while completely blocking the negative half. The resulting DC output is pulsed and inefficient.
 - **Full-wave rectification:** Uses two diodes (with a center-tapped transformer) or four diodes (arranged in a bridge rectifier). This clever arrangement flips the negative half of the AC wave into a positive half, creating a much smoother and continuous DC output without gaps.
 
-[IMAGE: Three voltage-time graphs stacked vertically. Top: An input alternating current (AC) sinusoidal wave swinging above and below the zero-voltage line. Middle: Output of a half-wave rectifier showing only the positive half-cycles (humps) and flat lines at zero for the negative half-cycles. Bottom: Output of a full-wave rectifier showing continuous positive half-cycles ("humps") with no gaps. Clean flat textbook style, white background, axes labeled Voltage and Time.]
+![Three vertically stacked voltage versus time graphs illustrating an AC input sine wave, half-wave rectified pulses with zero intervals, and continuous full-wave rectified pulses.](images/A39-05-rectification-voltage-time-graphs.png)
 
 ### 2. Transistors in Amplification
 A major use of transistors in consumer electronics (such as radios, televisions, and public address systems in Nigerian markets and places of worship) is **amplification**.

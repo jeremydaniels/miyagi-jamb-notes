@@ -1,0 +1,106 @@
+{
+ "template": "graph",
+ "title": "Force vs Extension for a Metal Wire",
+ "x_label": "Extension, e (m)",
+ "y_label": "Force, F (N)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Force-Extension Curve",
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     2,
+     5
+    ],
+    [
+     2.6,
+     6.2
+    ],
+    [
+     3.5,
+     6.5
+    ],
+    [
+     4.2,
+     6.3
+    ],
+    [
+     6.5,
+     8.5
+    ],
+    [
+     8,
+     9
+    ],
+    [
+     9.2,
+     7.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid"
+  }
+ ],
+ "points": [
+  {
+   "x": 2,
+   "y": 5,
+   "text": "P (Proportional limit)",
+   "dx": -0.8,
+   "dy": 0.8
+  },
+  {
+   "x": 2.6,
+   "y": 6.2,
+   "text": "E (Elastic limit)",
+   "dx": -0.8,
+   "dy": 0.8
+  },
+  {
+   "x": 3.5,
+   "y": 6.5,
+   "text": "Y (Yield point)",
+   "dx": 0.2,
+   "dy": 0.8
+  },
+  {
+   "x": 8,
+   "y": 9,
+   "text": "M (Maximum load)",
+   "dx": 0,
+   "dy": 0.8
+  },
+  {
+   "x": 9.2,
+   "y": 7.5,
+   "text": "B (Breaking point)",
+   "dx": 0.8,
+   "dy": 0.2
+  }
+ ],
+ "notes": [
+  {
+   "x": 1.2,
+   "y": 1.5,
+   "text": "Elastic region"
+  },
+  {
+   "x": 5.5,
+   "y": 1.5,
+   "text": "Plastic region"
+  }
+ ],
+ "guides": [
+  {
+   "x": 2.6,
+   "y": 6.2,
+   "x_text": "",
+   "y_text": ""
+  }
+ ]
+}

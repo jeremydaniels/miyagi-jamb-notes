@@ -100,7 +100,7 @@ The extension is $0.01\ \text{m}$ (or $1\ \text{cm}$).
 
 When a metal wire is stretched by gradually increasing the weight on it until it finally snaps, we can plot a graph of the applied Force ($F$) against the Extension ($e$). This force-extension curve shows us exactly how materials behave under stress.
 
-[IMAGE: A line graph showing a Force (y-axis) against extension (x-axis) curve for a typical metal wire. The curve starts as a straight line from the origin to a point 'P' (Proportional limit). Shortly after 'P' is point 'E' (Elastic limit), where the line begins to curve. Further along is point 'Y' (Yield point) where the curve dips slightly and flattens out, indicating plastic flow. The curve then rises to a peak 'M' (Maximum load or Ultimate tensile strength), and finally ends at a lower point 'B' (Breaking point) where the wire snaps. Labels to add later: "Force, F (N)", "Extension, e (m)", "P (Proportional limit)", "E (Elastic limit)", "Y (Yield point)", "M (Maximum load)", "B (Breaking point)", "Elastic region", "Plastic region". Clean flat textbook illustration, white background.]
+![Force versus extension graph for a metal wire detailing the proportional limit, elastic limit, yield point, maximum load, breaking point, elastic region, and plastic region.](images/A9-01-force-extension-stress-curve.png)
 
 Here is what the key points on the curve mean:
 - **Proportional Limit (P):** The maximum point up to which Hooke's Law is obeyed. The graph is a perfect straight line from the origin up to P, meaning force is directly proportional to extension.

@@ -21,7 +21,7 @@ Differentiation is a core part of calculus. It deals with finding the rate at wh
 
 The **limit** of a function is the value that the function approaches as the input value (often $x$) gets closer and closer to a particular number. We write this as $\lim_{x \to a} f(x) = L$, which is read as "the limit of $f(x)$ as $x$ approaches $a$ is $L$".
 
-[IMAGE: A graph of the function y = (x^2 - 4)/(x - 2), which looks exactly like the straight line y = x + 2, but with a small empty circle (a hole) exactly at the point (2, 4) to show the function is undefined there. An arrow along the x-axis approaches the value 2 from both sides, and corresponding arrows along the y-axis approach the value 4 from both sides. Labels to add later: "y-axis", "x-axis", "Curve y = (x^2 - 4)/(x - 2)", "x approaches 2", "y approaches 4", "Hole at (2, 4)". Clean flat textbook style, white background.]
+![Graph of the line y equals x plus 2 with a hole at 2 comma 4, showing arrows approaching 2 on the x-axis and 4 on the y-axis.](images/D1-01-removable-discontinuity-limit-graph.png)
 
 ### 1. Direct substitution
 
@@ -102,7 +102,7 @@ Differentiation is the process of finding the **derivative** of a function. The 
 
 If a function is written as $y$, its derivative with respect to $x$ is written as $\frac{dy}{dx}$ (pronounced "dee-why by dee-ex"). If the function is written as $f(x)$, its derivative is written as $f'(x)$.
 
-[IMAGE: A 2D Cartesian coordinate system showing a smooth curve, such as y = x^2. A straight tangent line touches the curve exactly at a point P(x, y). A small right-angled triangle is drawn under the tangent line near P, labelled with vertical rise 'dy' and horizontal run 'dx' to show the gradient of the line. Labels to add later: "y-axis", "x-axis", "Curve y = f(x)", "Tangent line", "P(x, y)", "dy", "dx", "Gradient = dy/dx". Clean flat textbook style, white background.]
+![A Cartesian graph showing a curve y = f(x) and its tangent line at point P(x, y), with a rise-over-run triangle labelled dy and dx.](images/D1-02-tangent-line-derivative-graph.png)
 
 ### 1. Differentiating basic polynomials
 

@@ -1,0 +1,10 @@
+[
+ [
+  "D1-01-removable-discontinuity-limit-graph",
+  "A graph of the function y = (x^2 - 4)/(x - 2), which looks exactly like the straight line y = x + 2, but with a small empty circle (a hole) exactly at the point (2, 4) to show the function is undefined there. An arrow along the x-axis approaches the value 2 from both sides, and corresponding arrows along the y-axis approach the value 4 from both sides."
+ ],
+ [
+  "D1-02-tangent-line-derivative-graph",
+  "A 2D Cartesian coordinate system showing a smooth curve, such as y = x^2. A straight tangent line touches the curve exactly at a point P(x, y). A small right-angled triangle is drawn under the tangent line near P, labelled with vertical rise 'dy' and horizontal run 'dx' to show the gradient of the line."
+ ]
+]

@@ -1,0 +1,37 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Apportionment of Rent Expense",
+ "nodes": [
+  {
+   "id": "rent",
+   "text": "Total Rent: ₦100,000",
+   "shape": "box",
+   "color": "lightgray"
+  },
+  {
+   "id": "shoe",
+   "text": "Shoe Department (60% Floor Space)\n₦60,000",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "bag",
+   "text": "Bag Department (40% Floor Space)\n₦40,000",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "rent",
+   "to": "shoe",
+   "label": "60%"
+  },
+  {
+   "from": "rent",
+   "to": "bag",
+   "label": "40%"
+  }
+ ]
+}

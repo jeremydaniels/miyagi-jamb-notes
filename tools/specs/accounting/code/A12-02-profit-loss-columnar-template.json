@@ -1,0 +1,43 @@
+{
+ "template": "table",
+ "title": "Departmental Statement of Profit or Loss",
+ "columns": [
+  "Details",
+  "Total (₦)",
+  "Dept A (₦)",
+  "Dept B (₦)"
+ ],
+ "rows": [
+  [
+   "Sales",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Cost of Sales",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Gross Profit",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Expenses",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Net Profit",
+   "",
+   "",
+   ""
+  ]
+ ],
+ "first_col_bold": true
+}

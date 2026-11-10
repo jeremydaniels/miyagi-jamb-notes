@@ -60,7 +60,7 @@ The most heavily tested area in JAMB for this topic is knowing the correct **bas
 
 If an expense cannot be logically tied to any of these bases (for example, general audit fees or the general manager's salary), it is usually **shared equally** among the departments, or shared based on an agreed arbitrary ratio.
 
-[IMAGE: A visual diagram showing an invoice for "Total Rent: ₦100,000" at the top, splitting into two arrows. One arrow goes to a large blue box labeled "Shoe Department (60% Floor Space) - ₦60,000". The other arrow goes to a smaller green box labeled "Bag Department (40% Floor Space) - ₦40,000". Clean flat textbook illustration, white background.]
+![Diagram showing apportionment of 100,000 Naira total rent into 60,000 Naira for Shoe Department with 60 percent floor space and 40,000 Naira for Bag Department with 40 percent.](images/A12-01-departmental-cost-split.png)
 
 ### Example of expense apportionment
 Aba Retailers has two departments: Shoes and Bags. The total rent for the year is ₦80,000. The Shoe department occupies 600 square meters, and the Bag department occupies 400 square meters. 
@@ -103,7 +103,7 @@ Goods can be transferred between departments at two different prices:
 
 The departmental statement of profit or loss is prepared in a **columnar format**. Instead of one column for numbers, there are separate columns for each department, plus a "Total" column that shows the combined figures for the whole business. 
 
-[IMAGE: A blank template of a Departmental Statement of Profit or Loss showing a columnar layout. The columns are headed "Details", "Total (₦)", "Dept A (₦)", and "Dept B (₦)". It shows rows for Sales, Cost of Sales, Gross Profit, Expenses, and Net Profit. Clean flat textbook style, white background.]
+![A blank columnar template for a Departmental Statement of Profit or Loss with columns for Details, Total, Dept A, and Dept B, and five financial rows.](images/A12-02-profit-loss-columnar-template.png)
 
 ### Fully Worked Example
 

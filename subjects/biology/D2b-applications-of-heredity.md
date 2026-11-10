@@ -80,7 +80,7 @@ Farmers want plants and animals that:
 
 The whole process often takes **many years** (commonly 8 to 15 years for a new crop variety).
 
-[IMAGE: A flow chart of a plant breeding programme in seven boxes connected by arrows, top to bottom. Box 1: two parent cowpea plants, one with many pods (high yield) and one with a shield icon (pest resistant). Box 2: a gloved hand removing stamens from a flower with tweezers and then dusting pollen onto the stigma with a brush; a small paper bag over a flower. Box 3: F1 plants. Box 4: F2 plants showing variety (some tall, some short, some with many pods, some damaged by insects). Box 5: a hand selecting the best plants with check marks. Box 6: field trial plots in rows. Box 7: a seed bag with a new variety tag being handed to a farmer. Labels to add later: "1 Choose parents (high yield × pest resistant)", "2 Emasculation and hand pollination", "3 F1 hybrid", "4 F2: characters segregate", "5 Select the best for several generations", "6 Field trials", "7 Release new variety to farmers". Clean flat textbook style, white background.]
+![Seven-step flowchart illustrating a plant breeding programme from selecting parent plants, emasculation, and hand pollination to F1 and F2 generations, selection, field trials, and farmer release.](images/D2b-01-plant-breeding-programme-flowchart.png)
 
 ### Examples of improved crop varieties
 

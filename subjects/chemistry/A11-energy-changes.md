@@ -105,7 +105,7 @@ The physical state of a substance—solid, liquid, or gas—determines the freed
 - Processes that increase randomness result in a **positive entropy change** ($+\Delta \text{S}$). Examples include **melting** (solid $\rightarrow$ liquid), **boiling/evaporation** (liquid $\rightarrow$ gas), and **sublimation** (solid directly to gas).
 - Processes that increase orderliness result in a **negative entropy change** ($-\Delta \text{S}$). Examples include **freezing** (liquid $\rightarrow$ solid) and **condensation** (gas $\rightarrow$ liquid).
 
-[IMAGE: Three glass beakers side-by-side representing the three states of matter to illustrate entropy. Left beaker (Solid): Blue particles neatly arranged in a tightly packed, regular grid at the bottom. Label below: "Solid (Lowest Entropy, Highly Ordered)". Middle beaker (Liquid): Blue particles loosely gathered at the bottom, slightly jumbled and disorganised. Label below: "Liquid (Higher Entropy, Disordered)". Right beaker (Gas): Blue particles spread far apart throughout the entire beaker, moving in random directions with short motion lines. Label below: "Gas (Highest Entropy, Highly Disordered)". Clean flat textbook illustration, white background.]
+![Illustration of three beakers demonstrating states of matter: tightly arranged particles for solid, loosely gathered for liquid, and dispersed moving particles for gas.](images/A11-02-states-matter-entropy.png)
 
 ## Spontaneity of reactions and criteria for equilibrium
 

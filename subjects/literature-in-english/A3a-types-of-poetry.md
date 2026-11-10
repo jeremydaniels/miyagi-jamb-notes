@@ -78,7 +78,7 @@ Developed in England and made famous by William Shakespeare, this sonnet divides
 | **Development** | Problem in the octave, solution in the sestet | Idea explored in quatrains, concluded in couplet |
 | **Where the Volta is** | Usually at Line 9 | Usually at Line 13 |
 
-[IMAGE: A chart comparing the structure of a Shakespearean Sonnet and a Petrarchan Sonnet. The Shakespearean side shows three blocks of 4 lines (labeled 'Quatrains 1-3') and a final block of 2 lines (labeled 'Couplet'), with a bracket showing the rhyme scheme abab cdcd efef gg. The Petrarchan side shows a block of 8 lines (labeled 'Octave') and a block of 6 lines (labeled 'Sestet'), with a bracket showing the rhyme scheme abbaabba cdecde. An arrow pointing to line 9 on the Petrarchan side and line 13 on the Shakespearean side is labeled 'Volta (the turn in thought)'. Clean flat textbook style, white background.]
+![Diagram comparing Shakespearean and Petrarchan sonnet structures, showing line groupings, rhyme schemes, and the volta positions at line thirteen and line nine respectively.](images/A3a-02-sonnet-structure-comparison-chart.png)
 
 ### 2. Ode
 

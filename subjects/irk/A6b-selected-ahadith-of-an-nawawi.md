@@ -37,7 +37,7 @@ As required by the syllabus, below is a study of the meaning of each of the twen
 - **Translation:** "Islam is built upon five [pillars]."
 - **Interpretation:** The Prophet (SAW) metaphorically describes Islam as a building supported by five foundational pillars. These are: testifying that there is no deity worthy of worship except Allah and that Muhammad is His Messenger (Shahādah), establishing the prayer (Salāh), paying the poor-due (Zakāh), performing pilgrimage to the House (Hajj), and fasting the month of Ramadān (Sawm).
 
-[IMAGE: A structural diagram of a building with a wide dome resting securely on five sturdy pillars. The pillars are labelled from right to left in English: "Shahadah (Faith)", "Salah (Prayer)", "Zakah (Charity)", "Sawm (Fasting)", and "Hajj (Pilgrimage)". The dome is labelled "Islam". Clean flat textbook style, white background.]
+![A diagram of a dome labelled Islam supported by five pillars representing the Five Pillars of Islam, ordered from right to left.](images/A6b-02-five-pillars-islam.png)
 
 ### 5. Hadīth 5: Rejection of Innovation (Bid'ah)
 - **Arabic:** مَنْ أَحْدَثَ فِي أَمْرِنَا هَذَا مَا لَيْسَ مِنْهُ فَهُوَ رَدٌّ
@@ -51,7 +51,7 @@ As required by the syllabus, below is a study of the meaning of each of the twen
 - **Translation:** "Truly, what is lawful (halāl) is clear, and what is unlawful (harām) is clear, and between the two are doubtful matters."
 - **Interpretation:** The Prophet (SAW) explains that things which are clearly permitted and clearly forbidden are well known. However, there are grey areas (mushtabihāt). A believer should avoid these doubtful matters to protect their faith and honour. The hadīth concludes by highlighting that the body contains a morsel of flesh—the heart (qalb). If the heart is pure and sound, the whole body acts rightly; if it is corrupt, the whole body is corrupted.
 
-[IMAGE: A three-part traffic light style diagram or a spectrum bar. The left side is bright green, labelled "Halal (Clearly Lawful)". The right side is bright red, labelled "Haram (Clearly Unlawful)". The middle section is a blurry yellow/grey, labelled "Mushtabihat (Doubtful Matters - Avoid)". Clean flat textbook style, white background.]
+![A horizontal spectrum bar and traffic light circles showing Halal clearly lawful in green, Mushtabihat doubtful matters in yellow, and Haram clearly unlawful in red.](images/A6b-03-halal-doubtful-haram-spectrum.png)
 
 ### 7. Hadīth 7: Religion is Sincerity (Nasīhah)
 - **Arabic:** الدِّينُ النَّصِيحَةُ
@@ -143,7 +143,7 @@ As required by the syllabus, below is a study of the meaning of each of the twen
 - **Translation:** "Whoever among you sees an evil action, let him change it with his hand."
 - **Interpretation:** Every Muslim has a duty to stop evil (munkar). If they have the authority and physical ability, they must change it with their hand. If they cannot, they must speak out against it with their tongue. If they cannot even do that out of fear or weakness, they must at least hate it in their heart, which the Prophet (SAW) described as the "weakest of faith".
 
-[IMAGE: A three-step pyramid or staircase diagram illustrating the levels of changing evil according to Hadith 34. The top step is labelled "1. With the Hand (Action/Authority)". The middle step is labelled "2. With the Tongue (Speaking out)". The bottom step is labelled "3. With the Heart (Hating it - Weakest of Faith)". Clean flat textbook style, white background.]
+![A three tier pyramid diagram illustrating the levels of changing evil from Hadith 34, progressing from with the heart at the base to the hand at the top.](images/A6b-04-hadith-changing-evil-steps.png)
 
 ### 41. Hadīth 41: Subordinating Desires to Revelation
 - **Arabic:** لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يَكُونَ هَوَاهُ تَبَعًا لِمَا جِئْتُ بِهِ

@@ -1,0 +1,40 @@
+{
+ "template": "taccount",
+ "title": "Subscriptions Account",
+ "accounts": [
+  {
+   "title": "",
+   "left_head": "Dr",
+   "right_head": "Cr",
+   "left": [
+    [
+     "",
+     "Opening Arrears (📅 Last Year ↓)",
+     ""
+    ],
+    [
+     "",
+     "**Income & Expenditure (Bal. Fig.)**",
+     ""
+    ],
+    [
+     "",
+     "Closing Advance",
+     ""
+    ]
+   ],
+   "right": [
+    [
+     "",
+     "Opening Advance",
+     ""
+    ],
+    [
+     "",
+     "Cash Received (₦ Bank/Cash)",
+     ""
+    ]
+   ]
+  }
+ ]
+}

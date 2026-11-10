@@ -45,7 +45,7 @@ While both types of organizations use the double-entry bookkeeping system, their
 | **Performance Statement** | Statement of Profit or Loss (Income Statement). | **Income and Expenditure Account**. |
 | **End Result of the Year** | Net Profit or Net Loss. | **Surplus** or **Deficit**. |
 
-[IMAGE: A flowchart showing how money moves in a club. On the left, members handing over cash (labelled "Subscriptions") and a bar selling drinks (labelled "Bar Sales") flowing into a central safe (labelled "Receipts and Payments Account"). From the safe, arrows point outwards to a lightbulb (labelled "Electricity"), a worker (labelled "Wages"), and a new sports trophy (labelled "Equipment"). Another arrow points from the safe to a document titled "Income & Expenditure Account", but only the revenue items (Wages, Electricity) go in, while the Equipment goes to a "Statement of Financial Position". Clean flat textbook illustration, white background.]
+![A flowchart showing club money flows from subscriptions and bar sales into the Receipts and Payments Account, then to expenses and financial statements.](images/A11-01-club-cash-flow-flowchart.png)
 
 ## Computing Cash Balances, Accumulated Funds, Surplus or Deficit
 
@@ -148,7 +148,7 @@ In bookkeeping, this is calculated using a Subscription Account.
 - Cash received is credited (Double entry: Debit Cash Book, Credit Subscription Account).
 - The balancing figure is the income for the year, which is placed on the debit side and transferred to the credit side of the Income and Expenditure Account.
 
-[IMAGE: A visual representation of the Subscriptions T-account layout. A large 'T' shape. On the top left (Debit side): "Opening Arrears" (with an arrow pointing down from a calendar showing last year) and "Closing Advance". On the top right (Credit side): "Opening Advance" and "Cash Received" (with an icon of naira notes). The balancing figure "Income & Expenditure" is highlighted in bold on the debit side. Clean flat textbook illustration, white background.]
+![T-account layout for a Subscriptions Account displaying Opening Arrears, Income and Expenditure, and Closing Advance on the debit side, with Opening Advance and Cash Received on the credit side.](images/A11-02-subscriptions-t-account-layout.png)
 
 Let us prepare the Subscription Account for IOSA:
 

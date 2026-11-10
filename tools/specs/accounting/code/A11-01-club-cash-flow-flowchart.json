@@ -1,0 +1,93 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Flow of Money in a Club Accounts System",
+ "nodes": [
+  {
+   "id": "subs",
+   "text": "Subscriptions\n(Members' Cash)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "bar",
+   "text": "Bar Sales\n(Drinks)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "rp_acc",
+   "text": "Receipts and\nPayments Account",
+   "shape": "box",
+   "color": "yellow"
+  },
+  {
+   "id": "elec",
+   "text": "Electricity",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "wages",
+   "text": "Wages",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "equip",
+   "text": "Equipment",
+   "shape": "round",
+   "color": "cyan"
+  },
+  {
+   "id": "inc_exp",
+   "text": "Income &\nExpenditure Account",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "sofp",
+   "text": "Statement of\nFinancial Position",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "subs",
+   "to": "rp_acc",
+   "label": "Receipts"
+  },
+  {
+   "from": "bar",
+   "to": "rp_acc"
+  },
+  {
+   "from": "rp_acc",
+   "to": "elec",
+   "label": "Payments"
+  },
+  {
+   "from": "rp_acc",
+   "to": "wages"
+  },
+  {
+   "from": "rp_acc",
+   "to": "equip"
+  },
+  {
+   "from": "elec",
+   "to": "inc_exp",
+   "label": "Revenue"
+  },
+  {
+   "from": "wages",
+   "to": "inc_exp"
+  },
+  {
+   "from": "equip",
+   "to": "sofp",
+   "label": "Capital"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Tree Data Structure",
+ "nodes": [
+  {
+   "id": "root",
+   "text": "Root Node",
+   "shape": "oval",
+   "color": "blue"
+  },
+  {
+   "id": "child1",
+   "text": "Child Node",
+   "shape": "oval",
+   "color": "teal"
+  },
+  {
+   "id": "child2",
+   "text": "Child Node",
+   "shape": "oval",
+   "color": "teal"
+  },
+  {
+   "id": "leaf1",
+   "text": "Leaf Node",
+   "shape": "oval",
+   "color": "green"
+  },
+  {
+   "id": "leaf2",
+   "text": "Leaf Node",
+   "shape": "oval",
+   "color": "green"
+  },
+  {
+   "id": "leaf3",
+   "text": "Leaf Node",
+   "shape": "oval",
+   "color": "green"
+  },
+  {
+   "id": "leaf4",
+   "text": "Leaf Node",
+   "shape": "oval",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "root",
+   "to": "child1"
+  },
+  {
+   "from": "root",
+   "to": "child2"
+  },
+  {
+   "from": "child1",
+   "to": "leaf1"
+  },
+  {
+   "from": "child1",
+   "to": "leaf2"
+  },
+  {
+   "from": "child2",
+   "to": "leaf3"
+  },
+  {
+   "from": "child2",
+   "to": "leaf4"
+  }
+ ]
+}

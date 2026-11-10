@@ -269,7 +269,7 @@ A tree is a **hierarchical** data structure. Unlike arrays that store data in a 
 - **Leaf:** A node at the bottom of the tree that has no "children".
 Trees are highly efficient for searching and sorting data (e.g., the directory structure of folders on your computer is a tree).
 
-[IMAGE: A hierarchical diagram of a Tree data structure. At the top is a single circle labeled 'Root Node'. Lines branch down to two child circles. From those, more lines branch down to further child circles labeled 'Leaf Nodes' at the very bottom. Clean flat textbook illustration, white background.]
+![Hierarchical diagram of a Tree data structure showing a root node branching to child nodes which then branch to leaf nodes at the bottom.](images/G4-01-hierarchical-tree-data-structure.png)
 
 ### 2. Graphs
 A graph is a **network** data structure. Unlike a tree, a graph does not have a strict "top-down" hierarchy. Any node can be connected to any other node.
@@ -277,7 +277,7 @@ A graph is a **network** data structure. Unlike a tree, a graph does not have a 
 - **Edges:** The lines connecting the vertices.
 Graphs are used to represent networks, like maps of roads connecting cities, or friends connecting on a social media platform.
 
-[IMAGE: A network diagram of a Graph data structure. Several circles (Vertices) scattered in a space, connected by straight lines (Edges) in a web-like, non-hierarchical pattern. Clean flat textbook illustration, white background.]
+![Network diagram showing a graph data structure with labeled vertices connected by edges in a non-hierarchical web pattern.](images/G4-02-network-graph-data-structure.png)
 
 ### 3. Linked Lists
 A linked list is a linear sequence of data, but unlike an array, the data is not stored together in memory. Instead, each element (called a **node**) contains two parts:
@@ -285,7 +285,7 @@ A linked list is a linear sequence of data, but unlike an array, the data is not
 2. A **Pointer (or Link)** that stores the memory address of the *next* node in the sequence.
 Because of this design, you can easily insert or remove items from the middle of a linked list without moving all the other items (which you would have to do in an array).
 
-[IMAGE: A diagram of a Linked List. Three rectangular boxes arranged horizontally. Each box is divided into two parts: the left part labeled 'Data' and the right part containing an arrow pointing to the next box. The arrow from the final box points to the word 'Null'. Clean flat textbook illustration, white background.]
+![Diagram of a singly linked list with three nodes labeled Data and Next connected by arrows ending at Null](images/G4-03-linked-list-three-rectangular.png)
 
 ### 4. Objects
 An object is an instance of a **Class** (discussed in non-primitive types). Objects are complex because they combine two things into a single unit:

@@ -1,0 +1,41 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Singly Linked List Structure",
+ "nodes": [
+  {
+   "id": "node1",
+   "text": "Data | Next",
+   "shape": "box"
+  },
+  {
+   "id": "node2",
+   "text": "Data | Next",
+   "shape": "box"
+  },
+  {
+   "id": "node3",
+   "text": "Data | Next",
+   "shape": "box"
+  },
+  {
+   "id": "null",
+   "text": "Null",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "node1",
+   "to": "node2"
+  },
+  {
+   "from": "node2",
+   "to": "node3"
+  },
+  {
+   "from": "node3",
+   "to": "null"
+  }
+ ]
+}

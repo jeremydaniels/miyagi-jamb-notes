@@ -1,0 +1,14 @@
+[
+ [
+  "G4-01-hierarchical-tree-data-structure",
+  "A hierarchical diagram of a Tree data structure. At the top is a single circle labeled 'Root Node'. Lines branch down to two child circles. From those, more lines branch down to further child circles labeled 'Leaf Nodes' at the very bottom. Clean flat textbook illustration, white background."
+ ],
+ [
+  "G4-02-network-graph-data-structure",
+  "A network diagram of a Graph data structure. Several circles (Vertices) scattered in a space, connected by straight lines (Edges) in a web-like, non-hierarchical pattern. Clean flat textbook illustration, white background."
+ ],
+ [
+  "G4-03-linked-list-three-rectangular",
+  "A diagram of a Linked List. Three rectangular boxes arranged horizontally. Each box is divided into two parts: the left part labeled 'Data' and the right part containing an arrow pointing to the next box. The arrow from the final box points to the word 'Null'. Clean flat textbook illustration, white background."
+ ]
+]

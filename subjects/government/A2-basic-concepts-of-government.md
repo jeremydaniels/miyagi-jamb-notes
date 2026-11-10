@@ -152,7 +152,7 @@ A very common JAMB trap is testing whether students understand the difference be
 
 Think of a State like a school. The school (buildings, students, alumni, reputation) remains permanent. The Government is like the principal and the teachers; they manage the school, but they eventually retire and are replaced by others, while the school remains.
 
-[IMAGE: A conceptual diagram showing a large circle labelled "The State (Permanent, Includes all citizens)". Inside the large circle is a much smaller circle labelled "The Government (Temporary, Agency of the State, Made up of officials)". Clean flat textbook illustration, white background.]
+![A conceptual diagram showing an inner circle representing The Government nested within a larger outer circle representing The State.](images/A2-01-state-versus-government-venn.png)
 
 ### Comparison: State vs. Government
 

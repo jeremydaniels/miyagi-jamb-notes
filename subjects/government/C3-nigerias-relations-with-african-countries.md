@@ -60,7 +60,7 @@ Nigeria is recognized as the "policeman" of West Africa and a major contributor 
 *   Nigeria has consistently hosted major African summits and provided leadership in the transition from the old Organization of African Unity (OAU) to the modern African Union (AU) in 2002.
 *   Nigeria frequently acts as a mediator in political crises within member states of ECOWAS (for example, intervening diplomatically during political unrest in Mali, Guinea, and The Gambia).
 
-[IMAGE: A map of Africa with Nigeria highlighted in deep green. Arrows point outwards from Nigeria to key areas of intervention: one arrow to Liberia/Sierra Leone labeled "ECOMOG Peacekeeping"; one arrow to Angola labeled "1975 MPLA Support"; one arrow to South Africa labeled "Anti-Apartheid Frontline State". Clean flat textbook style, white background, readable map labels.]
+![Map of Africa with Nigeria highlighted, showing outward arrows toward ECOMOG peacekeeping in West Africa, 1975 MPLA support in Angola, and anti-apartheid efforts in South Africa.](images/C3-01-map-africa-nigerian-foreign.png)
 
 ### Implications of the Afrocentric Policy
 

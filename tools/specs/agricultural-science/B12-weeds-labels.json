@@ -1,0 +1,66 @@
+{
+ "B12-01-grass-sedge-broadleaf-weed": {
+  "labels": [
+   [
+    "Grass: round hollow stem, parallel veins",
+    [
+     182,
+     440
+    ],
+    "L"
+   ],
+   [
+    "Sedge: triangular solid stem",
+    [
+     512,
+     440
+    ],
+    "R"
+   ],
+   [
+    "Broadleaf: branching stem, net veins, taproot",
+    [
+     838,
+     440
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B12-02-weed-seed-dispersal-methods": {
+  "labels": [
+   [
+    "Wind dispersal (parachute/pappus)",
+    [
+     292,
+     223
+    ],
+    "L"
+   ],
+   [
+    "Animal dispersal (hooks)",
+    [
+     715,
+     231
+    ],
+    "R"
+   ],
+   [
+    "Water dispersal (floating)",
+    [
+     263,
+     700
+    ],
+    "L"
+   ],
+   [
+    "Explosive mechanism (pod bursting)",
+    [
+     754,
+     726
+    ],
+    "R"
+   ]
+  ]
+ }
+}

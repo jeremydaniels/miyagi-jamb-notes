@@ -90,7 +90,7 @@ Weeds are highly successful competitors that can easily outgrow cultivated crops
    - **Roots:** They typically have a strong, deep taproot system.
    - **Examples:** *Tridax procumbens*, *Chromolaena odorata* (Siam weed).
 
-[IMAGE: A three-panel diagram showing the morphology of weeds. Left panel: A grass weed showing a round hollow stem with swollen nodes, long narrow leaves with parallel veins, and fibrous roots. Middle panel: A sedge showing a solid triangular cross-section stem without nodes, and grass-like leaves. Right panel: A broadleaf weed showing a solid branching stem, wide leaves with net-veins, and a distinct thick taproot. Labels to add later: "Grass: round hollow stem, parallel veins", "Sedge: triangular solid stem", "Broadleaf: branching stem, net veins, taproot". Clean flat textbook style, white background.]
+![Three-panel botanical diagram showing morphological characteristics of grass, sedge, and broadleaf weeds, including stem cross-sections, leaf forms, and root structures.](images/B12-01-grass-sedge-broadleaf-weed.png)
 
 ### Methods of reproduction in weeds
 
@@ -131,7 +131,7 @@ JAMB expects you to classify weeds based on the structural adaptations of their 
 | **Water Dispersal (Hydrochory)** | Seeds and fruits are buoyant (can float) and have waterproof coats or spongy tissues filled with air. This allows them to be carried by rain runoff, rivers, or irrigation canals without rotting. | *Commelina* species (Water dayflower), Water hyacinth (*Eichhornia crassipes*). |
 | **Explosive Mechanism (Autochory)** | The dry seed pods split open violently with a twisting action when mature and dried by the sun, physically throwing seeds several metres away from the parent plant without any external agent. | *Calopogonium mucunoides*, *Centrosema pubescens* (when acting as weeds), *Mucuna* species. |
 
-[IMAGE: An illustration showing four methods of weed seed dispersal. Top left (Wind): a fluffy Tridax seed with a hair-like parachute being blown by wind lines. Top right (Animal): a spiky Boerhavia seed stuck to the fabric of a farmer's trousers. Bottom left (Water): a smooth seed floating on a cross-section of a water stream. Bottom right (Explosive): a dry leguminous weed pod twisting and bursting open, flinging small round seeds outward. Labels to add later: "Wind dispersal (parachute/pappus)", "Animal dispersal (hooks)", "Water dispersal (floating)", "Explosive mechanism (pod bursting)". Clean flat textbook style, white background.]
+![An illustration showing four seed dispersal methods: wind dispersal with a parachute seed, animal dispersal hooked onto trousers, water dispersal floating, and explosive dispersal from a bursting pod.](images/B12-02-weed-seed-dispersal-methods.png)
 
 ## The different weed control methods
 

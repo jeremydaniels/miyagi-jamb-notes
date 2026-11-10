@@ -1,0 +1,161 @@
+{
+ "template": "graph",
+ "title": "Monopoly Equilibrium and Supernormal Profit",
+ "x_label": "Quantity (Q)",
+ "y_label": "Price / Cost ($)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "AR = D",
+   "points": [
+    [
+     0.5,
+     9.2
+    ],
+    [
+     4.0,
+     7.0
+    ],
+    [
+     7.5,
+     4.8
+    ],
+    [
+     9.0,
+     3.8
+    ]
+   ],
+   "smooth": true,
+   "color": "#1f77b4"
+  },
+  {
+   "label": "MR",
+   "points": [
+    [
+     0.5,
+     8.5
+    ],
+    [
+     2.5,
+     5.5
+    ],
+    [
+     4.0,
+     3.5
+    ],
+    [
+     6.0,
+     0.5
+    ]
+   ],
+   "smooth": true,
+   "color": "#4b72b0"
+  },
+  {
+   "label": "MC",
+   "points": [
+    [
+     1.5,
+     5.5
+    ],
+    [
+     2.8,
+     2.8
+    ],
+    [
+     4.0,
+     3.5
+    ],
+    [
+     5.5,
+     5.0
+    ],
+    [
+     7.0,
+     8.5
+    ]
+   ],
+   "smooth": true,
+   "color": "#d62728"
+  },
+  {
+   "label": "ATC",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     3.0,
+     6.0
+    ],
+    [
+     4.0,
+     5.3
+    ],
+    [
+     5.5,
+     5.0
+    ],
+    [
+     7.5,
+     6.2
+    ],
+    [
+     8.5,
+     7.5
+    ]
+   ],
+   "smooth": true,
+   "color": "#2ca02c"
+  }
+ ],
+ "guides": [
+  {
+   "x": 4.0,
+   "y": 7.0,
+   "x_text": "Q",
+   "y_text": "P"
+  },
+  {
+   "x": 4.0,
+   "y": 5.3,
+   "x_text": "",
+   "y_text": "C"
+  }
+ ],
+ "points": [
+  {
+   "x": 4.0,
+   "y": 3.5,
+   "text": "MC=MR",
+   "dx": 15,
+   "dy": -10
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     0,
+     5.3
+    ],
+    [
+     4.0,
+     5.3
+    ],
+    [
+     4.0,
+     7.0
+    ],
+    [
+     0,
+     7.0
+    ]
+   ],
+   "text": "Supernormal Profit",
+   "color": "#ffeb99"
+  }
+ ]
+}

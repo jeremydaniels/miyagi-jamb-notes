@@ -98,7 +98,7 @@ In the long run, all factors of production are variable, and firms can freely en
 Therefore, in the long run, a perfectly competitive firm can only make **normal profit**. Long-run equilibrium occurs at the lowest point of the Long-Run Average Cost (LAC) curve.
 $$P = AR = MR = LMC = LAC \text{ (at minimum LAC)}$$
 
-[IMAGE: A graph showing the long-run equilibrium of a perfectly competitive firm. A horizontal P=AR=MR line. A U-shaped Long-Run Average Cost (LAC) curve rests its lowest point exactly on the AR line. A Long-Run Marginal Cost (LMC) curve cuts through this lowest tangent point from below. Point of intersection is the long-run equilibrium point. Clean flat textbook illustration, white background.]
+![Graph of a perfectly competitive firm in long-run equilibrium, where LMC cuts through the minimum point of LAC at horizontal price line P equals AR equals MR.](images/A10-03-long-run-competitive-firm.png)
 
 ---
 
@@ -164,7 +164,7 @@ At **5 units**, $MR = MC$ (both are ₦8). The firm sets the price at ₦12 (rea
 * **Short-run equilibrium:** The monopolist produces where $MR = MC$. The price is read off the AR curve at that quantity. Usually, a monopolist makes **supernormal profit**, though in rare cases it could make normal profit or even a loss if costs are too high.
 * **Long-run equilibrium:** Because there are **barriers to entry**, new firms cannot enter to compete. Therefore, the monopolist continues to earn **supernormal profit in the long run**. 
 
-[IMAGE: Monopoly equilibrium graph. Downward sloping AR and MR curves (MR is steeper and below AR). A U-shaped MC curve cuts MR from below at quantity Q. A vertical line goes up from Q to the AR curve to determine price P. An ATC curve sits below the price point. A shaded rectangle indicates supernormal profit. Clean flat textbook illustration, white background.]
+![A monopoly equilibrium diagram showing downward-sloping AR and MR curves, U-shaped MC and ATC curves, profit-maximizing quantity Q, price P, and a shaded supernormal profit area.](images/A10-04-monopoly-equilibrium-price-output.png)
 
 ### Equilibrium of Monopolistic Competition
 * **Short-run equilibrium:** Similar to a monopoly, the firm produces where $MR = MC$ and faces a downward-sloping AR curve. It can make supernormal profit, normal profit, or a loss in the short run.

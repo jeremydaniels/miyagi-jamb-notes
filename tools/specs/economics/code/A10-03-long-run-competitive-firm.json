@@ -1,0 +1,99 @@
+{
+ "template": "graph",
+ "title": "Long-Run Equilibrium of a Perfectly Competitive Firm",
+ "x_label": "Quantity (Q)",
+ "y_label": "Price, Cost, Revenue",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "P = AR = MR",
+   "points": [
+    [
+     0,
+     5
+    ],
+    [
+     10,
+     5
+    ]
+   ],
+   "smooth": false,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "LAC",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     3,
+     6
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     7,
+     6
+    ],
+    [
+     8.5,
+     8.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  },
+  {
+   "label": "LMC",
+   "points": [
+    [
+     2,
+     2.5
+    ],
+    [
+     3.5,
+     3.2
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6.5,
+     7.5
+    ],
+    [
+     8,
+     9.5
+    ]
+   ],
+   "smooth": true,
+   "style": "solid",
+   "label_at": "end"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5,
+   "y": 5,
+   "x_text": "Q*",
+   "y_text": "P*"
+  }
+ ],
+ "points": [
+  {
+   "x": 5,
+   "y": 5,
+   "text": "E (Long-run Equilibrium)",
+   "dx": 0,
+   "dy": -1.2
+  }
+ ]
+}

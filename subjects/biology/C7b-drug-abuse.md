@@ -169,7 +169,7 @@ Psychoactive drugs are usually grouped by their main effect on the **central ner
 - **Withdrawal:** irritability, craving, anxiety, difficulty concentrating, increased appetite.
 - **Law in Nigeria:** the National Tobacco Control Act of 2015 bans smoking in many public places, the sale of tobacco to people under 18, and most tobacco advertising.
 
-[IMAGE: A side-by-side comparison of a healthy human lung and a smoker's lung, front view. Left: pink, healthy lung with clear branching bronchi. Right: darkened grey-black lung with tar deposits, a whitish tumour mass in one lobe, and an inset magnifying damaged, enlarged, broken-down air sacs (emphysema) compared with small healthy air sacs. Below, a small magnified view of the airway lining showing healthy cilia on one side and flattened, damaged cilia covered with tar and mucus on the other. Labels: "Healthy lung", "Smoker's lung", "Tar deposits", "Tumour (lung cancer)", "Healthy alveoli", "Damaged alveoli (emphysema)", "Healthy cilia", "Damaged cilia with tar and mucus". Clean flat textbook style, white background.]
+![Comparison of healthy pink lungs and dark diseased smoker lungs with tumour, alongside magnified views of alveoli and ciliated airway lining.](images/C7b-03-smoker-versus-healthy-lung.png)
 
 #### Cannabis (Indian hemp, igbo)
 

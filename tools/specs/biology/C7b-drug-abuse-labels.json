@@ -1,0 +1,70 @@
+{
+ "C7b-03-smoker-versus-healthy-lung": {
+  "labels": [
+   [
+    "Healthy lung",
+    [
+     247,
+     390
+    ],
+    "L"
+   ],
+   [
+    "Smoker's lung",
+    [
+     636,
+     437
+    ],
+    "R"
+   ],
+   [
+    "Tar deposits",
+    [
+     619,
+     483
+    ],
+    "R"
+   ],
+   [
+    "Tumour (lung cancer)",
+    [
+     883,
+     404
+    ],
+    "R"
+   ],
+   [
+    "Healthy alveoli",
+    [
+     807,
+     702
+    ],
+    "R"
+   ],
+   [
+    "Damaged alveoli (emphysema)",
+    [
+     708,
+     706
+    ],
+    "R"
+   ],
+   [
+    "Healthy cilia",
+    [
+     431,
+     885
+    ],
+    "L"
+   ],
+   [
+    "Damaged cilia with tar and mucus",
+    [
+     592,
+     902
+    ],
+    "R"
+   ]
+  ]
+ }
+}

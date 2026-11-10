@@ -108,7 +108,7 @@ Growth in arthropods therefore happens in **steps** (stepwise or discontinuous g
 2. It becomes **too heavy** for large animals: if an insect were as big as a goat, its exoskeleton would have to be so thick and heavy that the animal could hardly move. This is one reason why land arthropods are small.
 3. It limits flexibility; movement is only possible at the joints.
 
-[IMAGE: Two side-by-side diagrams. Left: a vertical section through an insect exoskeleton showing (from outside to inside) the thin waxy epicuticle, the hard dark exocuticle, the softer endocuticle, a layer of epidermal cells and the basement membrane, with a muscle attached to an apodeme on the inside, and a thin flexible joint membrane between two hard sclerites. Right: a grasshopper or cockroach in outline, with its jointed exoskeleton drawn as hard plates, beside an old split cuticle left after moulting. Labels: epicuticle (wax), exocuticle (hardened chitin), endocuticle, epidermis, sclerite, joint membrane, muscle, apodeme, exoskeleton, moulted cuticle. Clean flat textbook style, white background.]
+![Diagram showing layers of an insect cuticle with muscle attached to an apodeme on the left, beside a grasshopper and its shed exoskeleton on the right.](images/B6b-01-insect-exoskeleton-anatomy.png)
 
 ### 3. The endoskeleton
 
@@ -269,7 +269,7 @@ These functions, and how they affect the wellbeing of the animal, are explained 
 7. **Bones in the skull and rib cage** are shaped as boxes and cages that **protect** the organs inside.
 8. **Living cells and a blood supply** mean bone can **grow**, **repair** itself after a fracture and **reshape** itself according to use (exercise makes bones stronger).
 
-[IMAGE: Two diagrams side by side. Left: a long bone (femur) cut lengthwise, showing the shaft (diaphysis) of thick compact bone around a marrow cavity with yellow marrow, the two enlarged ends (epiphyses) of spongy bone with red marrow, the growth plates, the articular cartilage covering each end, the periosteum on the outside, and a blood vessel entering the bone. Right: an enlarged transverse section of compact bone showing several Haversian systems, each with a central Haversian canal containing a blood vessel, concentric lamellae, osteocytes in lacunae and fine canaliculi radiating out. Labels: articular cartilage, epiphysis, spongy bone, red marrow, growth plate, diaphysis, compact bone, marrow cavity, yellow marrow, periosteum, blood vessel, Haversian canal, lamellae, lacuna, osteocyte, canaliculi. Clean flat textbook style, white background.]
+![Diagram showing a longitudinal section of a long bone alongside a magnified transverse section of compact bone illustrating osteons and lamellae.](images/B6b-02-bone-structure-osteon.png)
 
 ### Chitin, cartilage and bone compared
 
@@ -307,7 +307,7 @@ The mammalian skeleton is divided into two parts:
 1. **The axial skeleton:** the central axis of the body: the **skull**, the **vertebral column** (backbone), the **ribs** and the **sternum** (breastbone).
 2. **The appendicular skeleton:** the **girdles** and the **limbs** (appendages): the **pectoral (shoulder) girdle** and **forelimbs** (arms), and the **pelvic (hip) girdle** and **hindlimbs** (legs).
 
-[IMAGE: Front view of the complete human skeleton standing upright, with the axial skeleton (skull, vertebral column, ribs, sternum) coloured pale blue and the appendicular skeleton (girdles and limbs) coloured pale yellow. Labels: skull (cranium), mandible, cervical vertebrae, clavicle, scapula, sternum, ribs, humerus, thoracic vertebrae, lumbar vertebrae, radius, ulna, pelvic girdle, sacrum, coccyx, carpals, metacarpals, phalanges, femur, patella, tibia, fibula, tarsals, metatarsals, axial skeleton, appendicular skeleton. Clean flat textbook style, white background.]
+![Anatomical illustration of a full human skeleton standing in front view, with different skeletal divisions and regions highlighted in distinct colors.](images/B6b-03-human-skeleton-front-view.png)
 
 ### The axial skeleton
 
@@ -324,7 +324,7 @@ At the back of the base of the skull is a large hole, the **foramen magnum**, th
 
 **Functions of the skull:** protection of the brain and sense organs (eyes, ears, nose, tongue); support for the teeth and jaws (feeding); framework of the face; attachment of jaw and neck muscles.
 
-[IMAGE: Side view of a human skull showing the cranium with the zigzag sutures between its bones, the orbit, the nasal cavity, the maxilla with upper teeth, the mandible with lower teeth hinged to the cranium near the ear opening, the zygomatic arch, and at the base the foramen magnum and occipital condyle (drawn slightly from below to show them). Labels: cranium, suture, orbit, nasal cavity, maxilla, mandible, teeth, zygomatic arch, ear opening, occipital condyle, foramen magnum. Clean flat textbook style, white background.]
+![Side view illustration of a human skull with color-coded cranial bones, sutures, orbit, zygomatic arch, mandible, teeth, and visible foramen magnum and occipital condyles at the base.](images/B6b-04-human-skull-lateral-view.png)
 
 #### The vertebral column (backbone)
 
@@ -606,7 +606,7 @@ Joints are grouped according to how much movement they allow.
 | **Tendons** (around the joint) | Tough, inelastic cords joining **muscle to bone** | Transfer the pull of the muscles to the bones to cause movement |
 | **Cartilage pads (menisci)** (in some joints, e.g. the knee) | Pads of fibrocartilage | Help the bones fit together and absorb shock |
 
-[IMAGE: Longitudinal section through a typical synovial joint (e.g. the knee, simplified), showing the ends of two bones covered with smooth blue articular cartilage, the joint cavity filled with pale yellow synovial fluid, the synovial membrane lining the inside of the capsule, the fibrous joint capsule, ligaments on the outside joining bone to bone, and a muscle with its tendon attached to one bone. Labels: bone, articular cartilage, synovial membrane, synovial fluid, synovial cavity, joint capsule, ligament, muscle, tendon. Clean flat textbook style, white background.]
+![A diagram of a longitudinal section through a synovial joint showing bones, articular cartilage, joint cavity with synovial fluid, capsule, ligaments, muscle, and tendon.](images/B6b-10-synovial-joint-cross-section.png)
 
 ### Types of synovial (movable) joints
 
@@ -649,7 +649,7 @@ Joints are grouped according to how much movement they allow.
 
 **Textbook variation:** some textbooks also describe **saddle joints** (e.g. at the base of the thumb, allowing the thumb to move across the palm) and **condyloid (ellipsoid) joints** (e.g. between the radius and the carpals, or the knuckles), which allow movement in two planes. JAMB usually tests the four main types: ball and socket, hinge, pivot and gliding.
 
-[IMAGE: Four small labelled diagrams of synovial joint types arranged in a 2×2 grid, each with a simple mechanical analogy icon beside it. (1) Ball and socket: the head of the femur in the acetabulum of the hip, with arrows in all directions, and a toy ball-in-cup icon. (2) Hinge: the elbow with the humerus and ulna, with a curved arrow in one plane, and a door-hinge icon. (3) Pivot: the atlas rotating around the odontoid process of the axis, with a circular arrow, and a door-key-in-lock icon. (4) Gliding: wrist carpal bones sliding over each other, with small sliding arrows, and two flat plates icon. Labels: ball and socket joint (hip), head of femur, acetabulum, hinge joint (elbow), humerus, ulna, pivot joint (atlas and axis), odontoid process, gliding joint (wrist), carpals. Clean flat textbook style, white background.]
+![A two-by-two grid illustrating four synovial joints alongside mechanical analogies: ball and socket hip, hinge elbow, pivot cervical vertebrae, and gliding wrist carpals.](images/B6b-11-types-synovial-joints.png)
 
 ### Types of joints compared
 

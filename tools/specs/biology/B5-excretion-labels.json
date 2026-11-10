@@ -114,5 +114,157 @@
     "R"
    ]
   ]
+ },
+ "B5-02-planaria-flame-cell-system": {
+  "labels": [
+   [
+    "excretory canal",
+    [
+     883,
+     523
+    ],
+    "R"
+   ],
+   [
+    "excretory pore",
+    [
+     357,
+     429
+    ],
+    "L"
+   ],
+   [
+    "flame cell",
+    [
+     596,
+     437
+    ],
+    "R"
+   ],
+   [
+    "nucleus",
+    [
+     693,
+     564
+    ],
+    "R"
+   ],
+   [
+    "cilia (flame)",
+    [
+     683,
+     335
+    ],
+    "R"
+   ],
+   [
+    "cavity",
+    [
+     785,
+     319
+    ],
+    "R"
+   ],
+   [
+    "excretory tubule",
+    [
+     754,
+     728
+    ],
+    "R"
+   ],
+   [
+    "tissue fluid",
+    [
+     754,
+     702
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B5-05-stoma-lenticel-plant": {
+  "labels": [
+   [
+    "guard cell",
+    [
+     223,
+     284
+    ],
+    "L"
+   ],
+   [
+    "stoma (pore)",
+    [
+     266,
+     274
+    ],
+    "L"
+   ],
+   [
+    "chloroplast",
+    [
+     321,
+     247
+    ],
+    "L"
+   ],
+   [
+    "epidermal cell",
+    [
+     356,
+     182
+    ],
+    "L"
+   ],
+   [
+    "air space",
+    [
+     268,
+     794
+    ],
+    "L"
+   ],
+   [
+    "lenticel",
+    [
+     754,
+     256
+    ],
+    "R"
+   ],
+   [
+    "complementary cells",
+    [
+     754,
+     435
+    ],
+    "R"
+   ],
+   [
+    "cork",
+    [
+     603,
+     518
+    ],
+    "R"
+   ],
+   [
+    "cork cambium",
+    [
+     626,
+     712
+    ],
+    "R"
+   ],
+   [
+    "cortex",
+    [
+     636,
+     809
+    ],
+    "R"
+   ]
+  ]
  }
 }

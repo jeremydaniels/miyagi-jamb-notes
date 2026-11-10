@@ -143,7 +143,7 @@ Different organisms have different excretory structures, depending on their size
 
 The flame cell system is a simple type of excretory organ called a **protonephridium** (a "first" or primitive nephridium) because the tubules are closed at the inner end by the flame cell, not open to a body cavity.
 
-[IMAGE: Detailed view of the flame cell system of Planaria. Left: outline of a flatworm showing two branched excretory canals running along each side of the body with small excretory pores on the surface. Right: an enlarged single flame cell shaped like a cup, with a nucleus, a tuft of beating cilia in the central cavity, and a tubule leading into an excretory canal; small arrows show fluid moving from surrounding tissue into the cell and along the tubule. Labels: excretory canal, excretory pore, flame cell, nucleus, cilia (flame), cavity, excretory tubule, tissue fluid. Soft greys and pale blue. Clean flat textbook style, white background.]
+![Diagram showing a flatworm outline with branched excretory canals on the left and a detailed cup-shaped flame cell with cilia and duct on the right](images/B5-02-planaria-flame-cell-system.png)
 
 ### 3. The nephridium
 
@@ -237,7 +237,7 @@ The flame cell system is a simple type of excretory organ called a **protonephri
 
 **How the structure suits the function:** the loosely packed cells and air spaces allow gases to pass through an otherwise airtight layer of cork, reaching the living tissues inside thick stems.
 
-[IMAGE: Two diagrams side by side. Left: surface view of a leaf's lower epidermis with an open stoma between two bean-shaped guard cells containing chloroplasts, surrounded by irregular epidermal cells; below it a small vertical section through a leaf showing the stoma opening into an air space, with arrows showing oxygen and water vapour leaving. Right: vertical section through the bark of a woody stem showing a raised lenticel, with loosely packed rounded complementary cells and air spaces breaking through the layer of tightly packed cork cells, with arrows showing carbon (IV) oxide and water vapour leaving and oxygen entering. Labels: guard cell, stoma (pore), chloroplast, epidermal cell, air space, lenticel, complementary cells, cork, cork cambium, cortex. Clean flat textbook style, white background.]
+![Diagram comparing plant gas exchange structures showing a stoma in surface view and cross section alongside a cross section of a stem lenticel.](images/B5-05-stoma-lenticel-plant.png)
 
 ### Relating the characteristics of excretory structures to their functions (summary)
 

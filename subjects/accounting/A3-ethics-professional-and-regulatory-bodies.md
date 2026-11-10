@@ -58,7 +58,7 @@ Accountability is the willingness to take responsibility for one's actions and w
 ### 5. Fairness
 Fairness means treating all parties equally and without bias. An accountant must present financial information that is fair to all stakeholders—including minority shareholders, employees, and the tax authorities. They must not twist figures to benefit the directors while cheating the investors.
 
-[IMAGE: A conceptual illustration showing a professional accountant standing in the centre. Around the accountant are five glowing shields, each with an icon and a label. Top: "Integrity" (a shield with a star). Top right: "Honesty" (a shield with a checkmark). Bottom right: "Fairness" (a balance scale). Bottom left: "Accountability" (a document with a signature). Top left: "Transparency" (a magnifying glass over a clear document). Style: Clean flat textbook illustration, white background.]
+![Diagram showing a central professional accountant surrounded by five shields representing core ethical principles: integrity, honesty, fairness, accountability, and transparency.](images/A3-01-accounting-ethics-shield-concept.png)
 
 ## Accounting professional bodies in Nigeria
 
@@ -137,7 +137,7 @@ The IASB was formed in **2001** to replace the old International Accounting Stan
 
 Nigeria (through the FRCN) adopted the use of IFRS starting in 2012, which is why the work of the IASB deeply affects Nigerian accounting practice today.
 
-[IMAGE: A flowchart showing the relationship between bodies. Top block: "IASB (International)" with an arrow pointing down labelled "Creates IFRS". Middle block: "FRCN (Nigeria)" with an arrow pointing down labelled "Enforces IFRS & registers auditors". Bottom left block: "CAC (Nigeria)" with an arrow pointing to a company building labelled "Registers company & enforces CAMA laws". Bottom right block: "ICAN / ANAN (Nigeria)" with an arrow pointing to accountants inside the company labelled "Trains & disciplines accountants". Style: Clean flat textbook illustration, white background with blue and green blocks.]
+![A diagram showing how IASB, FRCN, CAC, and ICAN or ANAN regulate and interact with a company and its accountants.](images/A3-02-regulatory-bodies-flowchart.png)
 
 ### Differentiating Professional and Regulatory Bodies
 

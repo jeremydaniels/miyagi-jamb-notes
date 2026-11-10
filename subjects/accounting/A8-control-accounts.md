@@ -81,7 +81,7 @@ This account tracks total **Creditors** (a liability). Liabilities increase on t
 - **Returns Outwards:** Goods returned to suppliers (from the Returns Outwards Day Book).
 - **Set-offs (Contra Entries):** Balances cancelled against the sales ledger.
 
-[IMAGE: Flow diagram showing the sources of information for a Sales Ledger Control Account. On the left, a column of source documents and books: "Sales Day Book", "Cash Book (Receipts)", "Returns Inwards Book", "Journal Proper". Arrows point from these to a central T-account labelled "Sales Ledger Control Account". The arrow from Sales Day Book is labelled "Total Credit Sales (Debit)". The arrow from Cash Book is labelled "Total Cash/Cheques Received (Credit)". The arrow from Returns Inwards Book is labelled "Total Returns Inwards (Credit)". The arrow from Journal is labelled "Bad Debts & Set-offs (Credit)". Clean flat textbook style, white background.]
+![Flow diagram linking four source books on the left via labeled debit and credit arrows to a central Sales Ledger Control Account box.](images/A8-01-control-account-flow.png)
 
 ### Special Adjustments: Set-offs and Minority Balances
 

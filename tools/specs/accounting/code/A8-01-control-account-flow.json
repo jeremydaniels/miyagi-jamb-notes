@@ -1,0 +1,59 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Sales Ledger Control Account Sources",
+ "nodes": [
+  {
+   "id": "sdb",
+   "text": "Sales Day Book",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "cb",
+   "text": "Cash Book\n(Receipts)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "rib",
+   "text": "Returns Inwards\nBook",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "jp",
+   "text": "Journal Proper",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "slca",
+   "text": "Sales Ledger Control Account\nDr.                |                Cr.",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sdb",
+   "to": "slca",
+   "label": "Credit Sales (Dr)"
+  },
+  {
+   "from": "cb",
+   "to": "slca",
+   "label": "Receipts (Cr)"
+  },
+  {
+   "from": "rib",
+   "to": "slca",
+   "label": "Returns In (Cr)"
+  },
+  {
+   "from": "jp",
+   "to": "slca",
+   "label": "Bad Debts (Cr)"
+  }
+ ]
+}

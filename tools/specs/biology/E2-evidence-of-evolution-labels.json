@@ -121,123 +121,120 @@
    [
     "feathers",
     [
-     481,
-     368
+     661,
+     508
     ],
-    "L"
+    "R"
    ],
    [
     "wing",
     [
-     729,
-     532
+     849,
+     300
     ],
     "R"
    ],
    [
     "claws on wing fingers",
     [
-     880,
-     570
+     775,
+     239
     ],
     "R"
    ],
    [
     "teeth in jaws",
     [
-     932,
-     226
+     619,
+     342
     ],
     "R"
    ],
    [
     "long bony tail",
     [
-     380,
-     720
-    ],
-    "L"
-   ],
-   [
-    "Archaeopteryx (about 150 million years ago)",
-    [
-     312,
-     389
+     200,
+     538
     ],
     "L"
    ],
    [
     "reptile features",
     [
-     915,
-     223
+     240,
+     327
     ],
-    "R"
+    "L"
    ],
    [
     "bird features",
     [
-     775,
-     564
+     726,
+     437
     ],
     "R"
    ]
-  ]
- },
- "E2-07-human-vestigial-organs": {
-  "labels": [
+  ],
+  "captions": [
    [
-    "ear muscles",
-    [
-     241,
-     257
-    ],
-    "L"
-   ],
-   [
-    "plica semilunaris (remnant of third eyelid)",
-    [
-     708,
-     143
-    ],
-    "R"
-   ],
-   [
-    "wisdom teeth",
-    [
-     760,
-     410
-    ],
-    "R"
-   ],
-   [
-    "vermiform appendix",
-    [
-     296,
-     760
-    ],
-    "L"
-   ],
-   [
-    "coccyx (tail bone)",
-    [
-     771,
-     783
-    ],
-    "R"
-   ],
-   [
-    "vestigial structures in humans",
-    [
-     518,
-     335
-    ],
-    "R"
+    "Archaeopteryx (about 150\nmillion years ago)",
+    762,
+    763
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "E2-09-vertebrate-embryo-development-grid": {
   "labels": [
+   [
+    "fish",
+    [
+     117,
+     828
+    ],
+    "L"
+   ],
+   [
+    "amphibian",
+    [
+     315,
+     829
+    ],
+    "L"
+   ],
+   [
+    "reptile",
+    [
+     520,
+     838
+    ],
+    "R"
+   ],
+   [
+    "bird",
+    [
+     705,
+     833
+    ],
+    "R"
+   ],
+   [
+    "mammal (human)",
+    [
+     908,
+     829
+    ],
+    "R"
+   ],
+   [
+    "early stage: very similar",
+    [
+     508,
+     173
+    ],
+    "L"
+   ],
    [
     "pharyngeal (gill) pouches",
     [
@@ -253,186 +250,114 @@
      263
     ],
     "L"
+   ],
+   [
+    "later stages: differences appear",
+    [
+     508,
+     492
+    ],
+    "L"
    ]
-  ],
-  "split": [
-   [
-    305,
-    120
-   ],
-   [
-    635,
-    120
-   ]
-  ],
-  "captions": [
-   [
-    "fish",
-    121,
-    979
-   ],
-   [
-    "amphibian",
-    317,
-    972
-   ],
-   [
-    "reptile",
-    511,
-    953
-   ],
-   [
-    "bird",
-    714,
-    962
-   ],
-   [
-    "mammal (human)",
-    898,
-    976
-   ],
-   [
-    "early stage:\nvery similar",
-    510,
-    309
-   ],
-   [
-    "later stages:\ndifferences\nappear",
-    511,
-    639
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "E2-05-homologous-pentadactyl-forelimbs-comparison": {
   "labels": [
    [
+    "human (grasping)",
+    [
+     220,
+     271
+    ],
+    "L"
+   ],
+   [
+    "bat (flying)",
+    [
+     498,
+     292
+    ],
+    "L"
+   ],
+   [
+    "bird (flying)",
+    [
+     807,
+     292
+    ],
+    "R"
+   ],
+   [
+    "whale (swimming)",
+    [
+     173,
+     758
+    ],
+    "L"
+   ],
+   [
+    "horse (running)",
+    [
+     508,
+     754
+    ],
+    "L"
+   ],
+   [
+    "frog (landing)",
+    [
+     826,
+     758
+    ],
+    "R"
+   ],
+   [
     "humerus",
     [
-     107,
-     335
+     237,
+     150
     ],
     "L"
    ],
    [
     "radius",
     [
-     98,
-     564
+     198,
+     312
     ],
     "L"
    ],
    [
     "ulna",
     [
-     120,
-     564
+     223,
+     316
     ],
     "L"
    ],
    [
     "carpals",
     [
-     101,
-     689
+     160,
+     381
     ],
     "L"
    ],
    [
     "metacarpals",
     [
-     100,
-     733
+     142,
+     418
     ],
     "L"
    ],
    [
     "phalanges",
     [
-     103,
-     796
+     131,
+     464
     ],
     "L"
-   ]
-  ],
-  "captions": [
-   [
-    "human\n(grasping)",
-    98,
-    857
-   ],
-   [
-    "bat (flying)",
-    268,
-    856
-   ],
-   [
-    "bird (flying)",
-    451,
-    664
-   ],
-   [
-    "whale\n(swimming)",
-    613,
-    857
-   ],
-   [
-    "horse\n(running)",
-    769,
-    859
-   ],
-   [
-    "frog (landing)",
-    910,
-    858
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "E2-11-plant-phylogenetic-evolutionary-tree": {
-  "caption_below": "Water to land evolutionary trends with vascular tissue, seeds, and flowers appearance.",
-  "labels": [
-   [
-    "algae (Thallophyta)",
-    [
-     522,
-     901
-    ],
-    "R"
-   ],
-   [
-    "mosses and liverworts (Bryophyta)",
-    [
-     708,
-     741
-    ],
-    "R"
-   ],
-   [
-    "ferns (Pteridophyta)",
-    [
-     754,
-     493
-    ],
-    "R"
-   ],
-   [
-    "gymnosperms",
-    [
-     339,
-     335
-    ],
-    "L"
-   ],
-   [
-    "angiosperms (flowering plants)",
-    [
-     677,
-     145
-    ],
-    "R"
    ]
   ]
  },
@@ -440,84 +365,74 @@
   "caption_below": "Increase in size from forest to grassland",
   "labels": [
    [
+    "Hyracotherium (Eohippus), about 55 million years ago",
+    [
+     179,
+     785
+    ],
+    "L"
+   ],
+   [
+    "Mesohippus",
+    [
+     365,
+     640
+    ],
+    "L"
+   ],
+   [
+    "Merychippus",
+    [
+     501,
+     464
+    ],
+    "L"
+   ],
+   [
+    "Pliohippus",
+    [
+     666,
+     315
+    ],
+    "R"
+   ],
+   [
+    "Equus (modern horse)",
+    [
+     835,
+     145
+    ],
+    "R"
+   ],
+   [
     "4 toes",
     [
-     176,
-     928
+     206,
+     940
     ],
     "L"
    ],
    [
     "3 toes",
     [
-     380,
-     836
+     404,
+     828
     ],
-    "R"
+    "L"
    ],
    [
     "1 toe (hoof)",
     [
-     884,
-     524
+     888,
+     437
     ],
     "R"
    ],
    [
     "splint bones",
     [
-     866,
-     479
-    ],
-    "R"
-   ]
-  ],
-  "captions": [
-   [
-    "Hyracotherium\n(Eohippus),\nabout 55\nmillion years\nago",
-    157,
-    972
-   ],
-   [
-    "Mesohippus",
-    365,
-    903
-   ],
-   [
-    "Merychippus",
-    531,
-    796
-   ],
-   [
-    "Pliohippus",
-    676,
-    675
-   ],
-   [
-    "Equus (modern\nhorse)",
-    826,
-    673
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "E2-06-analogous-insect-bird-wings": {
-  "caption_below": "Same function flight different structure origin analogous structures convergent evolution",
-  "labels": [
-   [
-    "insect wing: membrane with veins, no bones",
-    [
-     240,
-     494
-    ],
-    "L"
-   ],
-   [
-    "bird wing: modified forelimb with bones and feathers",
-    [
-     636,
-     611
+     871,
+     398
     ],
     "R"
    ]

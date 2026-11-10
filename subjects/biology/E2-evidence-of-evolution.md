@@ -199,7 +199,7 @@ So there are **gaps** in the fossil record. However, new fossils keep filling th
 | Type of evolution | **Divergent** evolution | **Convergent** evolution |
 | Examples | Human arm, bat wing, whale flipper, horse leg; cactus spine and pea tendril (both leaves) | Insect wing and bird wing; octopus and human eye; potato tuber and sweet potato |
 
-![A comparison of an insect wing showing membrane with branching veins alongside a bird wing with internal limb bones and external feathers.](images/E2-06-analogous-insect-bird-wings.png)
+[IMAGE: Analogous wings compared: on the left, a butterfly or dragonfly wing drawn as a thin transparent membrane with branching veins and no bones; on the right, a bird wing shown with feathers and a semi-transparent overlay revealing the arm bones (humerus, radius, ulna, fused hand bones). Between them, an "equals" sign over the word function and a "not equals" sign over the word structure. Labels to add later: "insect wing: membrane with veins, no bones", "bird wing: modified forelimb with bones and feathers", "same function (flight)", "different structure and origin", "analogous structures (convergent evolution)". Clean flat textbook style, white background.]
 
 ### Vestigial organs
 
@@ -225,7 +225,7 @@ So there are **gaps** in the fossil record. However, new fossils keep filling th
 
 **Textbook variation:** the human **appendix** is the most famous example of a vestigial organ in textbooks. Modern research shows that it is not completely useless: it contains **lymphoid (immune) tissue** and may act as a "safe store" of helpful gut bacteria. Many scientists still call it vestigial because it is much reduced and no longer has its ancestral digestive function, and people live normally without it. "Vestigial" means reduced and without its **original** function, not necessarily completely useless.
 
-![A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.](images/E2-07-human-vestigial-organs.png)
+[IMAGE: An outline of a human body (front view, neutral, gender-neutral figure in soft beige) with small highlighted circles and leader lines to five vestigial structures: the ear muscles around the ear, the plica semilunaris in the inner corner of the eye (with a small enlarged eye inset), wisdom teeth at the back of the jaw (small skull inset), the appendix at the lower right of the abdomen (small inset of caecum and appendix), and the coccyx at the base of the spine (small inset of the lower spine). Labels to add later: "ear muscles", "plica semilunaris (remnant of third eyelid)", "wisdom teeth", "vermiform appendix", "coccyx (tail bone)", "vestigial structures in humans". Clean flat textbook style, white background.]
 
 ## 3. Evidence from comparative physiology and biochemistry
 
@@ -376,7 +376,7 @@ The plant groups are described in detail in `A2b-evolution-plants.md`. In order 
 
 **The fossil record of plants matches these trends:** algae are found in very old rocks; the first simple land plants appear roughly **470 million years ago**; vascular plants and ferns follow; seed plants appear roughly **360 million years ago**; and flowering plants appear only roughly **130–140 million years ago**, becoming dominant later. (These dates are approximate and vary between sources.)
 
-![A phylogenetic tree rising from aquatic algae through bryophytes, ferns, and gymnosperms to an angiosperm flowering plant at the top.](images/E2-11-plant-phylogenetic-evolutionary-tree.png)
+[IMAGE: Plant evolution diagram shown as a branching tree rising from water at the bottom to dry land at the top. At the base, in water, a green filamentous alga (Spirogyra). Branching upward onto damp ground: a moss and a liverwort (Marchantia). Next branch: a fern with fronds and a rhizome. Next: a gymnosperm (pine tree with cones). Topmost branch: a flowering plant (a hibiscus shrub with a flower and fruits). Along the side, an arrow labelled with trends. Labels to add later: "algae (Thallophyta)", "mosses and liverworts (Bryophyta)", "ferns (Pteridophyta)", "gymnosperms", "angiosperms (flowering plants)", "water to land", "no vascular tissue", "vascular tissue appears", "seeds appear", "flowers and fruits appear", "increasing complexity". Clean flat textbook style, white background.]
 
 ### Evolutionary trends in animals
 

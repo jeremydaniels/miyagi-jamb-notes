@@ -121,7 +121,7 @@ The idea was disproved by a series of experiments.
 
 **Conclusion:** maggots come from **eggs laid by flies**, not from the meat itself. The gauze jar acted as a **control** to show that air was not the missing factor.
 
-[IMAGE: Redi's experiment shown as three glass jars side by side, each containing a piece of red meat. Jar 1 is open, with flies landing on the meat and white maggots crawling on it. Jar 2 is sealed with a tight lid, the meat brownish but no maggots, flies outside. Jar 3 is covered with fine gauze, with flies sitting on the gauze, tiny eggs on top of the gauze and no maggots on the meat. Labels to add later: "open jar: maggots on meat", "sealed jar: no maggots", "gauze-covered jar: no maggots on meat", "flies", "eggs on gauze", "Redi (1668)". Clean flat textbook style, white background.]
+![Illustration of Francesco Redi experiment with three glass jars: open jar with maggots on meat, sealed jar with no maggots, and gauze-covered jar with fly eggs on gauze.](images/E1-02-redi-spontaneous-generation-experiment.png)
 
 #### Louis Pasteur's swan-neck flask experiment (around 1859–1862)
 
@@ -141,7 +141,7 @@ After microscopes revealed microorganisms, many people still believed that **mic
 
 **Conclusion:** microbes in the broth come from **microbes already present in the air** (on dust), not from the broth itself. Life comes only from pre-existing life (**biogenesis**). Pasteur's experiment also answered the old objection that boiling or sealing "damaged the air".
 
-[IMAGE: Pasteur's swan-neck flask experiment in three panels. Panel 1: a round glass flask of yellowish broth with a long S-shaped (swan) neck open at the end, over a flame, steam rising (boiling). Panel 2: the same flask cooled, with dust specks and tiny microbes trapped in the lowest bend of the neck; the broth clear. Panel 3: the neck broken off short, dust falling straight in, and the broth cloudy with microbes. Labels to add later: "broth boiled to kill microbes", "swan neck open to air", "dust and microbes trapped in bend", "broth stays clear", "neck broken off", "broth becomes cloudy", "Pasteur (about 1860)". Clean flat textbook style, white background.]
+![Diagram showing three stages of Pasteurs swan-neck flask experiment, from boiling broth to cooling with trapped dust, and finally neck broken with microbial growth.](images/E1-03-pasteur-swan-neck-flask.png)
 
 **Note: spontaneous generation and the origin of life.** Disproving spontaneous generation shows that living things today arise only from other living things. Scientists still ask how the **very first** life arose on the early Earth, billions of years ago, under conditions very different from today. One scientific idea is that simple chemicals slowly formed more complex molecules and, eventually, the first simple cells (**chemical evolution**). In **1953**, Stanley Miller and Harold Urey passed electric sparks through a mixture of gases thought (at the time) to resemble the early atmosphere and obtained **amino acids**, the building blocks of proteins. The origin of the first life is still being researched and is not yet fully understood.
 

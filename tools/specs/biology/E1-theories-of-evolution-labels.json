@@ -346,5 +346,63 @@
     "L"
    ]
   ]
+ },
+ "E1-02-redi-spontaneous-generation-experiment": {
+  "caption_below": "Redi 1668",
+  "labels": [
+   [
+    "open jar: maggots on meat",
+    [
+     182,
+     605
+    ],
+    "L"
+   ],
+   [
+    "sealed jar: no maggots",
+    [
+     513,
+     605
+    ],
+    "R"
+   ],
+   [
+    "gauze-covered jar: no maggots on meat",
+    [
+     845,
+     605
+    ],
+    "R"
+   ],
+   [
+    "flies",
+    [
+     200,
+     274
+    ],
+    "L"
+   ],
+   [
+    "eggs on gauze",
+    [
+     881,
+     373
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E1-03-pasteur-swan-neck-flask": {
+  "caption_below": "Pasteur experiment showing broth boiled dust trapped neck broken off broth becomes cloudy",
+  "labels": [
+   [
+    "swan neck open to air",
+    [
+     640,
+     418
+    ],
+    "R"
+   ]
+  ]
  }
 }

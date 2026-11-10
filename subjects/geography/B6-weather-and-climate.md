@@ -83,7 +83,7 @@ Temperature is measured in **degrees Celsius (°C)** or **degrees Fahrenheit (°
 4. When the temperature drops at night, the alcohol contracts. The mercury is pulled back, pushing the metal index up the "Minimum" arm.
 5. The temperatures are read daily from the bottom of each metal index. After reading, a magnet is used to drag the metal indices back down to rest on the mercury columns, resetting the instrument for the next day.
 
-[IMAGE: A U-shaped Six's maximum and minimum thermometer mounted on a wooden board. The left arm is labelled "Minimum" with a scale decreasing upwards; the right arm is labelled "Maximum" with a scale increasing upwards. Mercury sits in the bottom of the U-tube, with alcohol above it in the left arm. Small metal indices are visible in both arms, showing the max and min temperatures recorded. Clean flat textbook illustration, white background.]
+![A diagram of a Sixs maximum and minimum thermometer mounted on a wooden backboard showing mercury in the U-tube and dual measurement scales.](images/B6-01-six-maximum-minimum-thermometer.png)
 
 **The Stevenson Screen:**
 To get the true temperature of the air, thermometers must be protected from direct sunlight, rain, and strong winds. Therefore, they are kept inside a special wooden box called a **Stevenson Screen**.
@@ -117,7 +117,7 @@ Rainfall is measured using a **Rain Gauge**, in units of **millimetres (mm)** or
 5. Every 24 hours (usually at 09:00 GMT), the observer takes out the jar and pours the collected water into a specially graduated measuring cylinder.
 6. The reading is taken at eye level. The water is then emptied, and the gauge is put back.
 
-[IMAGE: Cross-section of a rain gauge set in the ground. An outer copper cylinder is partially buried. Inside is a glass collecting jar. A funnel sits on top, leading into the jar. The rim of the funnel is indicated by a line with an arrow labelled "30 cm above ground". Nearby is a separate graduated measuring cylinder showing millimetre markings. Clean flat textbook illustration, white background.]
+![Cross section diagram of a rain gauge buried in the ground with an inner collecting jar and funnel, alongside a graduated measuring cylinder.](images/B6-02-rain-gauge-apparatus.png)
 
 ### 3. Humidity: The Hygrometer
 
@@ -248,7 +248,7 @@ This is the earliest known attempt at climate classification, developed by ancie
 
 **Limitations of the Greek system:** It is too simple. It ignores precipitation (rainfall), altitude, and air masses. For instance, both the humid Amazon rainforest and the dry Sahara Desert fall into the "Torrid Zone", even though their climates are completely different.
 
-[IMAGE: A diagram of the Earth showing the Greek Climatic Zones. Horizontal dashed lines mark the Equator (0°), Tropics of Cancer and Capricorn (23.5° N/S), and Arctic/Antarctic Circles (66.5° N/S). The band between the tropics is shaded red and labelled "Torrid Zone". The bands between the tropics and the circles are shaded green and labelled "North Temperate Zone" and "South Temperate Zone". The caps at the poles are shaded blue and labelled "Frigid Zone". Clean flat textbook illustration, white background.]
+![Diagram of Earth showing the Greek climatic zones including blue polar Frigid Zones, green North and South Temperate Zones, and a central red Torrid Zone with marked latitudes.](images/B6-03-greek-climatic-zones.png)
 
 ### Köppen's classification
 

@@ -458,7 +458,7 @@ The **peripheral nervous system** is made up of all the **nerves** and **ganglia
 
 **Example:** if a snake suddenly appears on a farm path, your sympathetic system makes your heart race, your pupils widen, your breathing quicken and your mouth go dry, and sends blood and glucose to your muscles, so that you can run. When the danger is over, your parasympathetic system slows your heart and breathing back to normal and restarts digestion.
 
-[IMAGE: A two-column diagram of the autonomic nervous system. In the centre, a vertical brain and spinal cord in pink. On the left side (sympathetic, in soft orange), nerves leaving the thoracic and lumbar parts of the spinal cord to a chain of small ganglia beside the cord, then long fibres to organs: eye (dilated pupil), salivary gland (inhibited), lungs (bronchioles dilated), heart (faster), stomach and intestines (inhibited), adrenal gland (adrenaline released), bladder (relaxed). On the right side (parasympathetic, in soft blue), nerves leaving the brain (including a long vagus nerve) and the sacral spinal cord, going to ganglia next to the same organs: eye (constricted pupil), salivary gland (stimulated), lungs (bronchioles constricted), heart (slower), stomach and intestines (stimulated), bladder (contracted). Labels: brain, spinal cord, sympathetic chain ganglia, thoracic and lumbar region, vagus nerve, sacral region, eye, salivary gland, lungs, heart, stomach, intestine, adrenal gland, bladder; column titles: sympathetic (fight or flight), parasympathetic (rest and digest). Clean flat textbook style, white background.]
+![Diagram comparing sympathetic and parasympathetic autonomic nervous system pathways, showing nerve origins from the brain and spinal cord to target organs and their physiological effects.](images/B9a-08-autonomic-nervous-system-schematic.png)
 
 #### Somatic and autonomic nervous systems compared
 
@@ -504,7 +504,7 @@ An impulse is either produced **fully** or **not at all**. If a stimulus is belo
 
 **Textbook variation:** textbooks give slightly different values for the resting potential (often −60 to −80 mV, usually −70 mV) and the peak of the action potential (about +30 to +40 mV). JAMB does not normally require the numbers; the key ideas are that **the inside is negative at rest** and that **sodium ions entering** causes the impulse.
 
-[IMAGE: Two-part diagram. Top: a section of axon drawn as a long horizontal tube, with plus signs outside and minus signs inside along most of its length (resting), and one short region where the signs are reversed (plus inside, minus outside) labelled as the action potential, with an arrow showing it moving to the right; small arrows show Na+ ions entering at the action potential and K+ ions leaving just behind it. Bottom: a simple line graph of membrane potential (mV) against time (ms), starting flat at −70 mV, rising sharply to about +40 mV, falling back below −70 mV, then returning to −70 mV. Labels top: axon membrane, resting region (inside negative), action potential (inside positive), Na+ ions in, K+ ions out, direction of impulse. Labels bottom: resting potential (−70 mV), threshold, depolarisation (Na+ in), repolarisation (K+ out), refractory period. Soft blue and orange colours. Clean flat textbook style, white background.]
+![Diagram showing action potential conduction along an axon membrane with ion movements above a graph plotting membrane potential in millivolts against time in milliseconds.](images/B9a-09-action-potential-graph-axon.png)
 
 ### 4. Transmission across a synapse
 

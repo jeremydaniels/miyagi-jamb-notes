@@ -1,55 +1,50 @@
 {
  "D1-01-intraspecific-colour-variation-panel": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    321,
+    120
+   ],
+   [
+    669,
+    120
+   ]
+  ],
+  "captions": [
    [
     "Goats (coat colour)",
-    [
-     266,
-     186
-    ],
-    "L"
+    256,
+    305
    ],
    [
     "Chickens (feathers)",
-    [
-     700,
-     208
-    ],
-    "R"
+    768,
+    325
    ],
    [
     "Skin colour",
-    [
-     312,
-     464
-    ],
-    "L"
+    256,
+    673
    ],
    [
     "Eye colour (iris)",
-    [
-     654,
-     587
-    ],
-    "R"
+    768,
+    657
    ],
    [
     "Fish (scales)",
-    [
-     361,
-     778
-    ],
-    "L"
+    256,
+    981
    ],
    [
     "Guinea fowl (feathers)",
-    [
-     649,
-     854
-    ],
-    "R"
+    768,
+    993
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D1-05-measuring-student-height-weight": {
   "labels": [
@@ -104,63 +99,51 @@
   ]
  },
  "D1-08-field-notebook-biological-variation": {
-  "labels": [
+  "labels": [],
+  "split": [
    [
-    "variegated leaf (croton)",
-    [
-     160,
-     264
-    ],
-    "L"
-   ],
-   [
-    "flower colour (hibiscus)",
-    [
-     500,
-     226
-    ],
-    "L"
-   ],
-   [
-    "grain colour (maize)",
-    [
-     702,
-     250
-    ],
-    "R"
-   ],
-   [
-    "seed coat colour (cowpea)",
-    [
-     888,
-     266
-    ],
-    "R"
-   ],
-   [
-    "feather pattern",
-    [
-     129,
-     749
-    ],
-    "L"
-   ],
-   [
-    "banded and plain snail shells",
-    [
-     520,
-     651
-    ],
-    "R"
-   ],
-   [
-    "wing pattern (butterfly)",
-    [
-     901,
-     604
-    ],
-    "R"
+    467,
+    120
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "variegated\nleaf (croton)",
+    159,
+    441
+   ],
+   [
+    "flower colour\n(hibiscus)",
+    441,
+    464
+   ],
+   [
+    "grain colour\n(maize)",
+    701,
+    471
+   ],
+   [
+    "seed coat\ncolour\n(cowpea)",
+    889,
+    443
+   ],
+   [
+    "feather\npattern",
+    205,
+    926
+   ],
+   [
+    "banded and\nplain snail\nshells",
+    521,
+    947
+   ],
+   [
+    "wing pattern\n(butterfly)",
+    827,
+    963
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

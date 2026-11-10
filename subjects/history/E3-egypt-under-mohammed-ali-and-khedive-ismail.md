@@ -75,7 +75,7 @@ Britain was deeply alarmed by Mohammad Ali's success. The British government wan
 
 The Europeans had successfully contained Mohammad Ali, ensuring that Egypt remained subordinate to Western economic and political interests.
 
-[IMAGE: Map of the Middle East and North Africa in the early 19th century. Egypt is highlighted in a dark colour, with arrows showing military expansion into the Sudan (south), the Arabian Peninsula (east across the Red Sea), and Syria/the Levant (northeast). Labels: "Mediterranean Sea", "Red Sea", "Egypt", "Sudan", "Arabia", "Syria", "Ottoman Empire". Clean flat textbook illustration, white background.]
+![A historical map showing Egyptian military expansion during the early nineteenth century with arrows pointing south toward Sudan, east toward Arabia, and northeast toward Syria.](images/E3-01-historical-expansion-map.png)
 
 ## Ismail's fiscal policies
 
@@ -96,7 +96,7 @@ Ismail spent vast sums on modernizing the country. He built thousands of miles o
 **3. The Suez Canal (1869):**
 The most famous project of his reign was the Suez Canal, constructed by a French company to connect the Mediterranean Sea to the Red Sea. Ismail spent fortunes supporting the construction and threw a lavish, incredibly expensive international party for its opening in 1869, inviting European royalty. 
 
-[IMAGE: Illustration of the opening of the Suez Canal in 1869. A wide man-made waterway running through flat desert terrain, with several large steamships and sailing ships passing through in a line. In the foreground, European dignitaries and Egyptian officials in traditional dress watching from a decorated viewing stand. Labels: "Suez Canal", "Opened 1869", "Mediterranean to Red Sea route". Clean flat textbook illustration, white background.]
+![Illustration of the opening of the Suez Canal in 1869, showing steamships and sailing vessels navigating the canal while European and Egyptian officials watch from a viewing platform.](images/E3-02-historical-scene.png)
 
 **4. Expansionist wars:**
 Ismail tried to expand his empire in Africa. He pushed further into Sudan and attempted to conquer Ethiopia, but his modern army was disastrously and expensively defeated at battles like the Battle of Gura in 1876.
@@ -132,7 +132,7 @@ In July 1882, the British navy bombarded the forts of Alexandria. The French gov
 
 **The result:** The British government claimed the occupation was only "temporary" to restore the authority of the Khedive. In reality, British troops remained in Egypt for over 70 years. Egypt became a **veiled protectorate**: officially it was still an Ottoman province ruled by the Khedive, but the actual ruler was the British Consul-General (the most famous being Lord Cromer). 
 
-[IMAGE: A battle map or simple diagram showing the Battle of Tel el-Kebir (1882). On the left, Egyptian lines with the label "Urabi's forces (Egyptians)". On the right, arrows pointing left towards the Egyptian lines labelled "British forces". The setting is flat desert. A prominent label reads "1882: British occupation begins". Clean flat textbook style, white background.]
+![Diagram of the 1882 Battle of Tel el-Kebir showing British forces advancing west across flat desert terrain toward Urabi's Egyptian defensive lines.](images/E3-03-battle-schematic.png)
 
 ## Key terms
 

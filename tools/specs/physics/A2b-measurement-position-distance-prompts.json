@@ -6,5 +6,9 @@
  [
   "A2b-03-cartesian-coordinate-distance-graph",
   "A Cartesian coordinate graph. An x-axis and a y-axis meet at origin O. Two points are plotted: P(x1, y1) and Q(x2, y2). A straight diagonal line 'd' connects P to Q. Dotted lines form a right-angled triangle under the line PQ, with the horizontal leg labelled (x2 - x1) and the vertical leg labelled (y2 - y1). Clean flat textbook illustration, white background."
+ ],
+ [
+  "A2b-01-vernier-caliper-reading",
+  "A clean 2D vector diagram of a vernier caliper reading on a white background. \n\nTop: Main scale horizontal bar, marked 2 to 4 in cm. Subdivided into 0.1 cm tick marks. Clear, spaced numbers.\n\nBottom: Sliding vernier scale bar positioned directly below with a visible gap. Vernier marks from 0 to 10 with wide spacing to avoid number overlap. The vernier 0 mark aligns just past the main scale 3.1 mark. The vernier 4 mark aligns exactly with a main scale tick mark.\n\nLabels placed in clear white space with large padding:\n- Above main scale: \"Main Scale: 3.1 cm\"\n- Below vernier scale: \"Vernier: 0.04 cm\"\n- At the very bottom: \"Reading = 3.14 cm\"\n\nMinimalist layout, uncluttered borders, no overlapping text."
  ]
 ]

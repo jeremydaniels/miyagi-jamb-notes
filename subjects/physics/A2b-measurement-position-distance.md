@@ -49,7 +49,7 @@ It has two scales:
 2. Look along the vernier scale to find the exact line that aligns perfectly with a line on the main scale. Multiply this vernier reading by the instrument's accuracy ($0.01\ \text{cm}$).
 3. Add the two values together.
 
-[IMAGE: A close-up view of a vernier caliper scale. The main scale is marked in cm (from 2 to 4). The zero of the vernier scale is past the 3.1 cm mark on the main scale. The 4th division on the vernier scale aligns perfectly with a line on the main scale. Labels: "Main Scale: 3.1 cm", "Vernier Scale: 4th mark aligns", "Reading = 3.1 + (4 x 0.01) = 3.14 cm". Clean flat textbook illustration, white background.]
+![Diagram of a vernier caliper showing main scale reading of 3.1 cm, vernier reading of 0.04 cm, and total reading of 3.14 cm.](images/A2b-01-vernier-caliper-reading.png)
 
 ### 4. Micrometer Screw Gauge
 The **micrometer screw gauge** is used for measuring extremely small thicknesses or diameters, such as the thickness of a razor blade, a coin, or a thin copper wire. 

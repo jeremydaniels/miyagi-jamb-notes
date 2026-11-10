@@ -128,7 +128,7 @@ Electrolysis is the chemical decomposition of an electrolyte by passing a direct
 - **Anode:** The positive electrode. Anions (negative ions) migrate here and lose electrons (Oxidation).
 - **Cathode:** The negative electrode. Cations (positive ions) migrate here and gain electrons (Reduction).
 
-[IMAGE: A simple electrolytic cell. A glass beaker containing a blue solution (electrolyte) with two carbon rods dipping into it. Wires connect the top of the rods to a DC battery and a switch. The left rod is connected to the positive terminal (labelled "Anode (+)") and the right rod to the negative terminal (labelled "Cathode (-)"). Negative ions in the solution have arrows pointing to the anode, and positive ions have arrows pointing to the cathode. Clean flat textbook style, white background.]
+![Diagram of an electrolytic cell showing an anode and cathode connected to a DC battery and switch, with ions in electrolyte migrating toward oppositely charged electrodes.](images/A10-01-electrolytic-cell-schematic.png)
 
 ### Identifying suitable electrodes for different electrolytes
 
@@ -257,7 +257,7 @@ How do we decide which electrolytic process to apply?
   3. The electrolyte MUST be a solution of the plating metal (e.g. aqueous Silver trioxonitrate(V), $\text{AgNO}_3$).
   When current flows, silver dissolves from the anode and plates beautifully onto the iron bangle at the cathode.
 
-[IMAGE: Diagram of electroplating a spoon. A glass beaker containing a solution of silver salt (AgNO3). A bar of pure silver is connected to the positive terminal (anode). A metal spoon is connected to the negative terminal (cathode). Arrows show Ag+ ions moving from the silver bar through the solution to coat the spoon. Clean flat textbook style, white background.]
+![Diagram showing electroplating of a spoon with silver using an AgNO3 solution, a pure silver anode connected to the positive terminal, and a spoon cathode.](images/A10-02-spoon-electroplating-cell-schematic.png)
 
 ## Electrochemical cells
 

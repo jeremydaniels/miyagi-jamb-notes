@@ -48,7 +48,7 @@ The British government and the African Association sponsored several famous expe
 | **Heinrich Barth** | 1850s | A German scholar working for the British government. He travelled extensively throughout Northern Nigeria (including Borno, Kano, and Katsina) and produced massive, detailed records of the region's history, languages, and geography. |
 | **William Baikie** | 1854 | A Scottish doctor who led an expedition up the River Niger and River Benue. His most important achievement was successfully using **quinine** to prevent and treat malaria. Not a single European on his crew died. This proved that Europeans could survive the West African interior, paving the way for merchants and missionaries. |
 
-[IMAGE: Map of West Africa showing the routes of early European explorers. A dotted red line shows Mungo Park's route from the Gambia to the Niger (flowing east) ending at Bussa. A solid blue line shows the Lander brothers' route from Bussa down the Niger to its mouth at the Niger Delta. A green dashed line shows Heinrich Barth's extensive travels in Northern Nigeria. Labels to add later: "River Niger", "Bussa", "Niger Delta", "Lake Chad", "Sokoto Caliphate". Clean flat textbook map style, white background.]
+![Map of West Africa showing explorer routes: Mungo Park to Bussa, Lander brothers to the Niger Delta, and Heinrich Barth looping through Sokoto and Lake Chad.](images/B8-01-map-european-niger-explorers.png)
 
 ## The suppression of the trans-Atlantic slave trade
 

@@ -1,64 +1,4 @@
 {
- "B2c-01-food-classes-chart": {
-  "labels": [
-   [
-    "carbohydrates",
-    [
-     562,
-     180
-    ],
-    "R"
-   ],
-   [
-    "proteins",
-    [
-     813,
-     360
-    ],
-    "R"
-   ],
-   [
-    "fats and oils",
-    [
-     818,
-     657
-    ],
-    "R"
-   ],
-   [
-    "vitamins",
-    [
-     586,
-     841
-    ],
-    "R"
-   ],
-   [
-    "mineral salts",
-    [
-     299,
-     774
-    ],
-    "L"
-   ],
-   [
-    "water",
-    [
-     179,
-     517
-    ],
-    "L"
-   ],
-   [
-    "roughage (dietary fibre)",
-    [
-     281,
-     253
-    ],
-    "L"
-   ]
-  ]
- },
  "B2c-05-food-groups-market-display": {
   "labels": [],
   "split": [
@@ -106,107 +46,41 @@
   "fixed_sides": true,
   "capsize": 0
  },
- "B2c-06-food-energy-calorimetry-apparatus": {
-  "labels": [
-   [
-    "clamp stand",
-    [
-     262,
-     563
-    ],
-    "L"
-   ],
-   [
-    "boiling tube",
-    [
-     473,
-     307
-    ],
-    "L"
-   ],
-   [
-    "water (20 cm³)",
-    [
-     456,
-     486
-    ],
-    "L"
-   ],
-   [
-    "thermometer",
-    [
-     434,
-     204
-    ],
-    "L"
-   ],
-   [
-    "burning groundnut",
-    [
-     435,
-     671
-    ],
-    "L"
-   ],
-   [
-    "mounted needle",
-    [
-     435,
-     732
-    ],
-    "L"
-   ],
-   [
-    "cork",
-    [
-     435,
-     815
-    ],
-    "L"
-   ],
-   [
-    "Bunsen burner",
-    [
-     690,
-     727
-    ],
-    "R"
-   ]
-  ]
- },
  "B2c-08-rickets-skeletal": {
   "labels": [
    [
+    "normal straight legs",
+    [
+     352,
+     719
+    ],
+    "L"
+   ],
+   [
+    "bow legs (rickets)",
+    [
+     663,
+     735
+    ],
+    "R"
+   ],
+   [
     "soft bent leg bones",
     [
-     681,
-     786
+     775,
+     806
     ],
     "R"
    ],
    [
     "swollen wrist",
     [
-     569,
-     396
+     854,
+     548
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "normal straight legs",
-    270,
-    976
-   ],
-   [
-    "bow legs (rickets)",
-    752,
-    976
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2c-09-goitre-medical": {
   "labels": [
@@ -238,58 +112,6 @@
   "captions": [],
   "fixed_sides": true,
   "capsize": 0
- },
- "B2c-10-balanced-diet-plate": {
-  "labels": [
-   [
-    "fruits and vegetables",
-    [
-     322,
-     368
-    ],
-    "L"
-   ],
-   [
-    "starchy foods (carbohydrates)",
-    [
-     706,
-     491
-    ],
-    "R"
-   ],
-   [
-    "protein foods",
-    [
-     650,
-     706
-    ],
-    "R"
-   ],
-   [
-    "milk and dairy",
-    [
-     593,
-     245
-    ],
-    "R"
-   ],
-   [
-    "fats and oils (small amount)",
-    [
-     544,
-     414
-    ],
-    "R"
-   ],
-   [
-    "water",
-    [
-     888,
-     158
-    ],
-    "R"
-   ]
-  ]
  },
  "B2c-11-iodine-starch-test-tile": {
   "labels": [
@@ -535,6 +357,14 @@
  "B2c-14-lipid-food-tests-results": {
   "labels": [
    [
+    "Sudan III test",
+    [
+     159,
+     307
+    ],
+    "L"
+   ],
+   [
     "red-stained oil layer",
     [
      159,
@@ -551,12 +381,20 @@
     "L"
    ],
    [
+    "grease-spot test",
+    [
+     448,
+     430
+    ],
+    "L"
+   ],
+   [
     "translucent spot (oil)",
     [
      389,
      514
     ],
-    "T"
+    "L"
    ],
    [
     "opaque area (water control)",
@@ -564,7 +402,15 @@
      519,
      509
     ],
-    "T"
+    "R"
+   ],
+   [
+    "emulsion test",
+    [
+     804,
+     312
+    ],
+    "R"
    ],
    [
     "cloudy white emulsion (fat present)",
@@ -582,50 +428,39 @@
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "Sudan III test",
-    160,
-    741
-   ],
-   [
-    "grease-spot test",
-    449,
-    651
-   ],
-   [
-    "emulsion test",
-    806,
-    741
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B2c-07-kwashiorkor-marasmus": {
   "caption_below": "No oedema.",
   "labels": [
    [
+    "kwashiorkor",
+    [
+     281,
+     368
+    ],
+    "L"
+   ],
+   [
     "oedema of feet",
     [
-     198,
-     944
+     208,
+     934
     ],
     "L"
    ],
    [
     "swollen belly",
     [
-     269,
-     527
+     282,
+     523
     ],
     "L"
    ],
    [
     "moon face",
     [
-     274,
+     283,
      223
     ],
     "L"
@@ -633,52 +468,43 @@
    [
     "pale thin hair",
     [
-     272,
-     110
+     290,
+     105
     ],
-    "T"
+    "L"
    ],
    [
     "visible ribs",
     [
-     768,
-     412
+     760,
+     410
     ],
     "R"
    ],
    [
     "wasted muscles",
     [
-     663,
-     498
+     640,
+     520
     ],
     "R"
    ],
    [
     "wrinkled skin",
     [
-     772,
-     153
+     761,
+     136
     ],
-    "T"
+    "R"
    ],
    [
     "old-looking face",
     [
-     768,
-     208
+     775,
+     186
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "kwashiorkor",
-    272,
-    986
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

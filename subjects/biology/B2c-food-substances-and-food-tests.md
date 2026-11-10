@@ -52,7 +52,7 @@ The syllabus lists **six classes of food**:
 
 **Textbook variation:** many textbooks add **roughage (dietary fibre)** as a **seventh class**. Others say roughage is not a true nutrient, because it is not digested or absorbed by humans, and treat it as a part of the diet rather than a class of food. The syllabus does not list it, but JAMB questions often ask about its function (preventing constipation), so learn it. In these notes it is covered after water.
 
-![Educational chart showing seven colored circles around an empty central plate, depicting the food classes: carbohydrates, proteins, fats and oils, vitamins, minerals, water, and roughage.](images/B2c-01-food-classes-chart.png)
+[IMAGE: Chart of the classes of food arranged as seven coloured circles around a central plate. Each circle holds a simple drawing of typical Nigerian foods: carbohydrates (yam tuber, garri, rice, bread), proteins (beans, egg, fish, meat), fats and oils (bottle of red palm oil, groundnuts, butter), vitamins (orange, carrot, green ugwu leaves), mineral salts (salt shaker, milk, crayfish), water (glass of water), roughage (okro, whole fruits, vegetables). Labels: carbohydrates, proteins, fats and oils, vitamins, mineral salts, water, roughage (dietary fibre). Soft pastel colours, each class in a different colour. Clean flat textbook style, white background.]
 
 ### Carbohydrates
 
@@ -533,7 +533,7 @@ Energy per gram = energy released ÷ mass of food burned
 
 **Control/fair test:** use the same mass of food, the same volume of water, the same distance between the flame and the tube, and the same tube for each food.
 
-![Diagram of an experiment measuring energy in food, showing a burning peanut under a clamped boiling tube of water with a thermometer, beside a Bunsen burner.](images/B2c-06-food-energy-calorimetry-apparatus.png)
+[IMAGE: Laboratory set-up for measuring the energy in food: a clamp stand holding a boiling tube containing water with a thermometer in it; below the tube, a burning groundnut on the tip of a mounted needle held in a cork. A Bunsen burner sits to one side. Labels: clamp stand, boiling tube, water (20 cm³), thermometer, burning groundnut, mounted needle, cork, Bunsen burner. Clean flat textbook style, white background.]
 
 ### Factors that change the nutritional value of food
 
@@ -745,7 +745,7 @@ A common guide (shown as a **food plate** or **food pyramid**) is:
 
 **Textbook variation:** different countries and textbooks draw the food guide differently (a pyramid, a plate, or a "food wheel") and suggest slightly different proportions. The principle is the same: variety and moderation.
 
-![A top-down view of a balanced diet plate featuring Nigerian foods arranged in sections, alongside a glass of water.](images/B2c-10-balanced-diet-plate.png)
+[IMAGE: A balanced diet plate divided into sections, viewed from above, with Nigerian foods: about one third vegetables and fruits (ugwu leaves, tomatoes, carrots, orange slices, pawpaw), about one third starchy foods (jollof rice, boiled yam, plantain), a smaller section of protein foods (fried fish, boiled egg, beans, chicken), a small section of milk and dairy (glass of milk, wara), a tiny section of fats and oils (small bottle of palm oil). A glass of water beside the plate. Labels: fruits and vegetables, starchy foods (carbohydrates), protein foods, milk and dairy, fats and oils (small amount), water. Clean flat textbook style, white background.]
 
 ### Importance of a balanced diet
 

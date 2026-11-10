@@ -49,7 +49,7 @@ When it rains, water enters the soil and behaves in different ways depending on 
 | **Effect on soil** | Causes leaching of nutrients and waterlogging (if drainage is poor). | Keeps the soil moist and supplies plants with dissolved nutrients. | Prevents the soil from being completely dry (even oven-dried soil has some hygroscopic water), but does not help plants. |
 | **Removal** | Drains naturally within 24 to 48 hours after heavy rain. | Used up by plant roots or lost slowly through evaporation. | Can only be removed by heating the soil in an oven at $105 \text{ °C}$. |
 
-[IMAGE: A cross-section diagram showing three enlarged soil particles. The first particle has a very thick layer of water around it with a downward arrow labeled "Gravitational water draining away". The second shows water filling the small gaps between particles, labeled "Capillary water available to roots" with a root hair absorbing it. The third shows a very thin, tightly bound dark blue ring of water completely surrounding a dry particle, labeled "Hygroscopic water tightly bound". Clean flat textbook style, white background.]
+![Illustration showing three states of soil water: gravitational water draining down, capillary water absorbed by a root hair between soil particles, and hygroscopic water tightly bound to a particle.](images/B2-01-soil-water-forms-schematic.png)
 
 ### Objective ii: Determine water-holding capacity, wilting points and plant available/unavailable water
 
@@ -148,7 +148,7 @@ Erosion is the physical removal and transportation of the topsoil by agents such
 - **Heavy rainfall and high wind speeds:** Intense tropical storms wash soil away, while strong Harmattan winds blow dry soil away.
 - **Clean clearing:** Removing all stumps and plant residues before planting exposes the soil.
 
-[IMAGE: A four-part diagram showing the progression of water erosion. Panel 1: "Splash" showing a raindrop hitting soil and soil particles splashing out. Panel 2: "Sheet" showing a flat layer of muddy water running off a slope. Panel 3: "Rill" showing small, narrow channels forming in the soil. Panel 4: "Gully" showing a deep, wide, V-shaped trench cutting through the landscape. Clean flat textbook style, white background.]
+![Four-part diagram illustrating stages of water erosion: raindrop splash on soil, sheet erosion across a slope, rill erosion forming narrow channels, and deep gully erosion.](images/B2-02-water-erosion-stages.png)
 
 #### 2. Leaching
 Leaching is the washing down of dissolved plant nutrients (like nitrates and sulfates) beyond the reach of plant roots into the deeper subsoil.
@@ -237,7 +237,7 @@ Irrigation systems are classified by how water is applied to the crops.
    Water is delivered drop-by-drop directly to the base of individual plants through small plastic pipes equipped with emitters.
    - *Pros/Cons:* The most efficient method (almost zero water waste) and reduces weed growth between rows. However, it is very costly and requires skilled management.
 
-[IMAGE: A four-panel diagram showing the types of irrigation. 1. Surface (Furrow): water flowing in trenches between ridges of crops. 2. Sub-surface: underground pipes releasing moisture to roots. 3. Sprinkler: rotating nozzle spraying water over a field of crops. 4. Drip: black plastic pipes on the surface dripping water exactly at the base of tomato plants. Clean flat textbook style, white background.]
+![A four-panel illustration showing surface furrow irrigation, subsurface irrigation pipe under roots, sprinkler irrigation spraying water, and drip irrigation pipes at the base of tomato plants.](images/B2-03-irrigation-systems-comparison.png)
 
 #### Classification of Drainage Systems
 When farms in heavy rainfall areas (like the Niger Delta) or clay soils become waterlogged, drainage is required.

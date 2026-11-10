@@ -48,29 +48,5 @@
     "R"
    ]
   ]
- },
- "B5-04-oxbow-lake-sequential": {
-  "caption_below": "River cuts through with erosion on outer bend and deposition on inner bend",
-  "regions": [
-   "Ox-bow lake"
-  ],
-  "labels": [
-   [
-    "Narrow neck",
-    [
-     805,
-     263
-    ],
-    "R"
-   ],
-   [
-    "Ox-bow lake",
-    [
-     689,
-     658
-    ],
-    "R"
-   ]
-  ]
  }
 }

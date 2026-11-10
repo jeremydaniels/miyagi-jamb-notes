@@ -50,7 +50,7 @@ To easily remember the order of the planets, Nigerian students often use the mne
 *"**M**y **V**ery **E**ducated **M**other **J**ust **S**erved **U**s **N**oodles"*
 (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune).
 
-[IMAGE: A horizontal diagram of the solar system. On the far left, a portion of the large, bright yellow Sun. Stretching to the right are the planets on faint elliptical orbit lines, varying in size. In order: a small grey Mercury, a yellowish-white Venus, a blue and green Earth, a red Mars, a massive striped brown/beige Jupiter, a large Saturn with visible rings, a pale blue Uranus, and a deep blue Neptune. Labels to add later: "Sun", "Mercury", "Venus", "Earth (3rd planet)", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune". Clean flat textbook style, dark background.]
+![A diagram of the solar system showing the Sun on the left followed by the eight planets in order from Mercury to Neptune along their orbital paths.](images/B1-01-solar-system-planetary-layout.png)
 
 ### Effects of the Rotation and Revolution of the Earth
 
@@ -168,7 +168,7 @@ Here is a clear comparison to help you differentiate them:
 - Prime Meridian / Greenwich Meridian ($0\text{°}$)
 - International Date Line ($180\text{°}$ East/West)
 
-[IMAGE: A drawing of a globe showing a grid. The horizontal lines (Latitudes) are parallel, with the Equator marked 0 degrees. The vertical lines (Longitudes) curve and meet at the North Pole and South Pole, with the Prime Meridian marked 0 degrees. Labels to add later: "North Pole", "Lines of Longitude (Meridians) meeting at the poles", "Prime Meridian (0°)", "Lines of Latitude (parallel)", "Equator (0°)", "South Pole". Clean flat textbook style, white background.]
+![Diagram of a globe displaying latitude and longitude grid lines, highlighting the Equator, Prime Meridian, North Pole, and South Pole.](images/B1-03-globe-latitude-longitude-grid.png)
 
 ### Relating Lines of Latitude to Calculation of Distance
 

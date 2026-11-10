@@ -175,7 +175,7 @@
      576,
      430
     ],
-    "R"
+    "T"
    ],
    [
     "paper clip",
@@ -183,7 +183,7 @@
      615,
      454
     ],
-    "R"
+    "T"
    ],
    [
     "sunlight",
@@ -191,7 +191,7 @@
      626,
      218
     ],
-    "R"
+    "T"
    ],
    [
     "blue-black (starch present)",
@@ -209,7 +209,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2b-06-carbon-dioxide-requirement-experiment": {
   "labels": [
@@ -246,7 +249,7 @@
     "L"
    ],
    [
-    "potassium hydroxide (absorbs CO\u2082)",
+    "potassium hydroxide (absorbs CO₂)",
     [
      373,
      701
@@ -403,83 +406,43 @@
      630,
      788
     ],
-    "R"
-   ],
+    "T"
+   ]
+  ],
+  "captions": [
    [
-    "complete (control)",
-    [
-     188,
-     296
-    ],
-    "L"
+    "complete\n(control)",
+    195,
+    893
    ],
    [
     "minus nitrogen",
-    [
-     407,
-     399
-    ],
-    "L"
+    408,
+    894
    ],
    [
-    "minus phosphorus",
-    [
-     630,
-     440
-    ],
-    "R"
+    "minus\nphosphorus",
+    637,
+    894
    ],
    [
-    "minus potassium",
-    [
-     864,
-     378
-    ],
-    "R"
+    "minus\npotassium",
+    865,
+    893
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2b-12-leaf-nutrient-deficiency-symptoms": {
   "labels": [
-   [
-    "healthy",
-    [
-     155,
-     271
-    ],
-    "L"
-   ],
-   [
-    "nitrogen deficiency",
-    [
-     393,
-     271
-    ],
-    "L"
-   ],
-   [
-    "phosphorus deficiency",
-    [
-     629,
-     271
-    ],
-    "R"
-   ],
-   [
-    "potassium deficiency",
-    [
-     866,
-     256
-    ],
-    "R"
-   ],
    [
     "chlorosis",
     [
      343,
      235
     ],
-    "L"
+    "T"
    ],
    [
     "purple colouring",
@@ -487,7 +450,7 @@
      719,
      266
     ],
-    "R"
+    "T"
    ],
    [
     "scorched margin",
@@ -513,7 +476,31 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "healthy",
+    155,
+    411
+   ],
+   [
+    "nitrogen\ndeficiency",
+    393,
+    411
+   ],
+   [
+    "phosphorus\ndeficiency",
+    628,
+    486
+   ],
+   [
+    "potassium\ndeficiency",
+    866,
+    486
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2b-10-chemosynthesis-soil-bacteria": {
   "labels": [
@@ -563,7 +550,7 @@
      552,
      675
     ],
-    "R"
+    "L"
    ],
    [
     "oxygen",
@@ -582,7 +569,7 @@
     "L"
    ],
    [
-    "CO\u2082 + water \u2192 sugar",
+    "CO₂ + water → sugar",
     [
      798,
      773
@@ -597,7 +584,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B2b-07-variegated-leaf-starch-test": {
   "labels": [
@@ -636,7 +626,7 @@
   ]
  },
  "B2b-09-starch-test-leaf-steps": {
-  "caption_below": "Boil in water 1\u20132 minutes (kills cells), turn off flame, ethanol in water bath (removes chlorophyll), warm water (softens leaf), blue-black = starch.",
+  "caption_below": "Boil in water 1–2 minutes (kills cells), turn off flame, ethanol in water bath (removes chlorophyll), warm water (softens leaf), blue-black = starch.",
   "labels": [
    [
     "white tile",
@@ -654,6 +644,9 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

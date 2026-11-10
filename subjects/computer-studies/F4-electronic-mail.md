@@ -79,7 +79,7 @@ An attachment is a computer file (like a Word document, a photograph, or a PDF) 
 3. Select the file you want to send and click "Open" or "Upload".
 4. Wait for the file to finish uploading to the e-mail server before sending.
 
-[IMAGE: A clean, flat textbook illustration of a standard e-mail compose window. It shows fields labeled "To", "Cc", "Bcc", and "Subject". The large body area contains some sample text. At the bottom, a "Send" button is next to an icon of a paperclip with an arrow pointing to it labeled "Attachment icon". White background.]
+![A standard email compose window showing To, Cc, Bcc, and Subject fields, a message body, a Send button, and an arrow pointing to a paperclip attachment icon.](images/F4-01-clean-flat-textbook-standard.png)
 
 **5. Sending and receiving e-mail**
 *   **Sending:** Once your message is composed and attachments are added, click the **"Send"** button. The e-mail server transfers it across the Internet to the recipient's server.
@@ -114,7 +114,7 @@ Let us break down the syllabus example: `xyz@jamb.org.ng`
     *   This is the address of the server that hosts the e-mail account.
     *   It tells the Internet where to send the message.
 
-[IMAGE: A large, clear typographic breakdown of the e-mail address "xyz@jamb.org.ng". Arrows point to "xyz" (labeled "Username / Local part"), to "@" (labeled "'At' symbol, separates user from domain"), and to "jamb.org.ng" (labeled "Domain name"). White background.]
+![Diagram showing the structure of an email address with labels pointing to the username local part the at symbol and the domain name](images/F4-02-large-clear-typographic-breakdown.png)
 
 ### Components of a domain name
 

@@ -86,7 +86,7 @@ where $A$ is a number between $1$ and $10$ (that is, $1 \le A < 10$), and $n$ is
 - For **large numbers** (greater than $10$), the decimal point is moved to the left, and the power $n$ is positive.
 - For **small numbers** (less than $1$), the decimal point is moved to the right, and the power $n$ is negative.
 
-[IMAGE: A visual showing a large number "4 5 0 0 0 0 0" with a decimal point moving 6 places to the left, resulting in "4.5 × 10^6". Below it, a small decimal "0 . 0 0 0 3 2" with the decimal point moving 4 places to the right, resulting in "3.2 × 10^{-4}". Arced arrows above the numbers count the jumps. Clean flat textbook style, white background.]
+![Diagram showing scientific notation decimal point jumps moving six places left to form 4.5 times 10 to the sixth, and four places right to form 3.2 times 10 to the negative fourth.](images/A3-01-scientific-notation-decimal-shift.png)
 
 **Worked Example 1**
 Express $4,500,000$ in standard form.

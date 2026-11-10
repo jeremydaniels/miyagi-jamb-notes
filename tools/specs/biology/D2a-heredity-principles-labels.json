@@ -1,0 +1,174 @@
+{
+ "D2a-01-chromosome-dna-structure": {
+  "labels": [
+   [
+    "chromatid",
+    [
+     161,
+     312
+    ],
+    "L"
+   ],
+   [
+    "sister chromatids",
+    [
+     165,
+     307
+    ],
+    "L"
+   ],
+   [
+    "centromere",
+    [
+     254,
+     495
+    ],
+    "L"
+   ],
+   [
+    "arm",
+    [
+     161,
+     762
+    ],
+    "L"
+   ],
+   [
+    "gene (at a locus)",
+    [
+     361,
+     719
+    ],
+    "L"
+   ],
+   [
+    "telomere",
+    [
+     365,
+     95
+    ],
+    "L"
+   ],
+   [
+    "histone proteins",
+    [
+     760,
+     560
+    ],
+    "R"
+   ],
+   [
+    "DNA double helix",
+    [
+     901,
+     435
+    ],
+    "R"
+   ]
+  ]
+ },
+ "D2a-07-mendel-pea-plant-traits": {
+  "labels": [
+   [
+    "Dominant",
+    [
+     274,
+     75
+    ],
+    "L"
+   ],
+   [
+    "Recessive",
+    [
+     754,
+     145
+    ],
+    "R"
+   ],
+   [
+    "stem length",
+    [
+     227,
+     289
+    ],
+    "L"
+   ],
+   [
+    "seed shape",
+    [
+     286,
+     369
+    ],
+    "L"
+   ],
+   [
+    "seed colour",
+    [
+     274,
+     464
+    ],
+    "L"
+   ],
+   [
+    "flower colour",
+    [
+     280,
+     577
+    ],
+    "L"
+   ],
+   [
+    "pod shape",
+    [
+     284,
+     700
+    ],
+    "L"
+   ],
+   [
+    "pod colour",
+    [
+     286,
+     796
+    ],
+    "L"
+   ],
+   [
+    "flower position",
+    [
+     284,
+     915
+    ],
+    "L"
+   ]
+  ]
+ },
+ "D2a-14-ishihara-colour-blindness-test": {
+  "labels": [
+   [
+    "colour vision test plate",
+    [
+     179,
+     532
+    ],
+    "L"
+   ],
+   [
+    "seen with normal colour vision: 7",
+    [
+     344,
+     436
+    ],
+    "L"
+   ],
+   [
+    "seen with red-green colour blindness: no number visible",
+    [
+     832,
+     512
+    ],
+    "R"
+   ]
+  ]
+ }
+}

@@ -30,5 +30,17 @@
  [
   "D2a-15-albinism-inheritance-pedigree-chart",
   "A simple family tree (pedigree) over three generations using standard symbols: squares for males and circles for females, joined by horizontal marriage lines and vertical lines to children. Generation I: an unshaded square (normal father) and an unshaded circle (normal mother). Generation II: four children: an unshaded square, a fully shaded circle (girl with albinism), a half-shaded circle (carrier daughter) and an unshaded square. Generation III: the carrier daughter married to an unshaded square has two children, an unshaded circle and a fully shaded square."
+ ],
+ [
+  "D2a-01-chromosome-dna-structure",
+  "Diagram of a single duplicated chromosome shaped like an X, made of two identical side-by-side sister chromatids joined at a constricted centromere. Show the chromatids coloured soft purple, with faint horizontal bands. On the right, draw an enlargement (zoom lines from part of one chromatid) showing the chromatin uncoiling: a coil of fibres, then beads of protein (histones) on a string, then a DNA double helix. A short coloured band on one arm marks a gene."
+ ],
+ [
+  "D2a-07-mendel-pea-plant-traits",
+  "A chart of Mendel's seven pairs of contrasting characters in pea plants, arranged in seven rows with the dominant form on the left and the recessive form on the right. Row 1: tall pea plant vs dwarf pea plant. Row 2: round smooth seed vs wrinkled seed. Row 3: yellow seed vs green seed. Row 4: purple flower vs white flower. Row 5: inflated pod vs constricted pod. Row 6: green pod vs yellow pod. Row 7: flowers along the stem (axial) vs flowers at the stem tip (terminal)."
+ ],
+ [
+  "D2a-14-ishihara-colour-blindness-test",
+  "A circular Ishihara-style colour vision test plate made of many small dots of different sizes: the background dots in shades of orange, yellow and brown, and a hidden numeral 7 formed from green and olive dots. Beside it, a smaller second circle showing how the same plate appears to a red-green colour-blind person, with all dots in similar muddy yellow-brown shades so the number cannot be seen."
  ]
 ]

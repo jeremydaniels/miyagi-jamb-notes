@@ -115,7 +115,7 @@ The **nucleus** of almost every cell contains thread-like structures called **ch
 | **Genes** | Short sections of the DNA, arranged in a line along the chromosome, each at a fixed position called its **locus** (plural: loci) |
 | **Telomeres** | The protective ends of each chromosome |
 
-[IMAGE: Diagram of a single duplicated chromosome shaped like an X, made of two identical side-by-side sister chromatids joined at a constricted centromere. Show the chromatids coloured soft purple, with faint horizontal bands. On the right, draw an enlargement (zoom lines from part of one chromatid) showing the chromatin uncoiling: a coil of fibres, then beads of protein (histones) on a string, then a DNA double helix. A short coloured band on one arm marks a gene. Labels to add later: "chromatid", "sister chromatids", "centromere", "arm", "gene (at a locus)", "telomere", "histone proteins", "DNA double helix". Clean flat textbook style, white background.]
+![Diagram showing a duplicated chromosome uncoiling into a condensed fiber, nucleosomes with histone proteins, and unwinding into a DNA double helix.](images/D2a-01-chromosome-dna-structure.png)
 
 ### Chromosome numbers
 
@@ -391,7 +391,7 @@ The zygote divides by **mitosis** over and over, so every cell of the new organi
 | Pod colour (unripe) | Green | Yellow |
 | Flower position | Axial (along the stem) | Terminal (at the tip) |
 
-[IMAGE: A chart of Mendel's seven pairs of contrasting characters in pea plants, arranged in seven rows with the dominant form on the left and the recessive form on the right. Row 1: tall pea plant vs dwarf pea plant. Row 2: round smooth seed vs wrinkled seed. Row 3: yellow seed vs green seed. Row 4: purple flower vs white flower. Row 5: inflated pod vs constricted pod. Row 6: green pod vs yellow pod. Row 7: flowers along the stem (axial) vs flowers at the stem tip (terminal). Labels to add later: column headings "Dominant" and "Recessive", and row names "stem length", "seed shape", "seed colour", "flower colour", "pod shape", "pod colour", "flower position". Clean flat textbook style, white background.]
+![A chart showing Mendels seven pairs of contrasting traits in pea plants arranged in two columns of seven rows representing dominant and recessive traits.](images/D2a-07-mendel-pea-plant-traits.png)
 
 ### Mendel's monohybrid experiment: tall × dwarf
 
@@ -819,7 +819,7 @@ The **X chromosome** is large and carries many genes (several hundred to over a 
 
 - Father X<sup>c</sup>Y × mother X<sup>C</sup>X<sup>C</sup> → all daughters X<sup>C</sup>X<sup>c</sup> (carriers, normal vision); all sons X<sup>C</sup>Y (normal). **None** of the children is colour blind, but the condition may reappear in the daughters' sons (it "skips a generation").
 
-[IMAGE: A circular Ishihara-style colour vision test plate made of many small dots of different sizes: the background dots in shades of orange, yellow and brown, and a hidden numeral 7 formed from green and olive dots. Beside it, a smaller second circle showing how the same plate appears to a red-green colour-blind person, with all dots in similar muddy yellow-brown shades so the number cannot be seen. Labels to add later: "colour vision test plate", "seen with normal colour vision: 7", "seen with red-green colour blindness: no number visible". Clean flat textbook style, white background.]
+![An Ishihara color test plate with the numeral 7 visible in green dots beside a simulated red-green color-blind view where no number is discernible.](images/D2a-14-ishihara-colour-blindness-test.png)
 
 ### Baldness
 

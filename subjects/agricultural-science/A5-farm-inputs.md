@@ -74,7 +74,7 @@ Vegetative materials are parts of the parent plant—such as the stem, root, or 
     *   **Bulbs:** Modified fleshy leaves used to plant **onions**.
     *   **Budding and Grafting materials:** Buds or scions taken from a desired plant and attached to a rooted rootstock. Used for tree crops like **citrus** (oranges), **rubber**, and **cocoa**.
 
-[IMAGE: A collection of various vegetative planting materials clearly labelled. Top left: a farmer's hand holding a bundle of cassava stem cuttings. Top right: a yam sett with a small sprout (eye) emerging from the skin. Bottom left: a plantain sucker showing the bulbous base (corm) and trimmed leaves. Bottom right: a pineapple crown separated from the fruit. Style: Clean flat textbook illustration, white background.]
+![An illustration showing four vegetative planting materials: cassava stem cuttings, a sprouting yam sett, a trimmed plantain sucker with corm, and a pineapple crown.](images/A5-01-vegetative-planting-materials.png)
 
 ### Seed Rate and Plant Population
 When using planting materials, farmers calculate the **seed rate**, which is the amount of seed or planting material required to plant one hectare of land (measured in kg/ha or setts/ha). This ensures the correct **plant density** (the number of plants per hectare) to maximize yield without overcrowding. (Calculations for plant population are covered in `B8-cropping-systems-and-planting-patterns.md`).
@@ -118,7 +118,7 @@ Agrochemicals are poisonous to humans, livestock, and beneficial insects (like b
 5.  **Do not eat or smoke:** Never eat, drink, or smoke while applying chemicals to avoid accidental poisoning.
 6.  **Disposal:** Wash equipment thoroughly after use and bury empty chemical containers far away from water sources. Never wash knapsack sprayers in rivers used for drinking water.
 
-[IMAGE: A farmer properly dressed to apply agrochemicals. The farmer is wearing a green overall, tall black rubber boots, yellow rubber gloves, a white nose mask, and clear goggles. He is carrying a knapsack sprayer on his back. A spray lance in his hand is directing a fine mist onto a row of young crops. An arrow shows the wind blowing from behind the farmer, pushing the mist forward. Labels: "Knapsack sprayer", "Respirator/Mask", "Goggles", "Rubber gloves", "Protective overall", "Rubber boots", "Wind direction". Style: Clean flat textbook illustration, white background.]
+![Textbook illustration of a farmer wearing personal protective equipment including overalls, boots, gloves, mask, and goggles, spraying crops with a knapsack sprayer.](images/A5-02-farmer-protective-agrochemical-gear.png)
 
 ---
 

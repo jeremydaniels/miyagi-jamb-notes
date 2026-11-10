@@ -88,7 +88,7 @@ All flowering plants show primary growth.
 | Tissues formed | Primary tissues (primary xylem, primary phloem, epidermis, cortex) | Secondary xylem (wood), secondary phloem, cork (bark) |
 | Example | A maize plant growing taller | A mango tree trunk getting thicker |
 
-[IMAGE: Longitudinal section of a root tip, drawn vertically with the tip at the bottom. Show the root cap at the very tip, then above it a short region of small, tightly packed dividing cells (some with visible chromosomes), then a region of long, stretched cells with large vacuoles, then a region where cells are specialised, with root hairs growing out of the epidermis and long xylem vessels in the centre. Use brackets on the side to mark the zones. Labels: root cap, zone of cell division (apical meristem), zone of cell elongation, zone of differentiation, root hairs, epidermis, xylem. Soft green and cream colours. Clean flat textbook style, white background.]
+![Diagram of a longitudinal section through a plant root tip showing the root cap, cell division zone, elongation zone, and differentiation zone with root hairs and xylem.](images/B8-01-root-tip-zones-section.png)
 
 #### In animals
 
@@ -199,7 +199,7 @@ A **bean seed** (for example a cowpea or a kidney bean) is a **non-endospermic (
   - **Hypocotyl:** the short region of the axis **between the radicle and the point where the cotyledons are attached**.
   - **Epicotyl:** the short region of the axis **between the cotyledons and the plumule**.
 
-[IMAGE: Three views of a bean seed side by side. 1. External view of a whole kidney-shaped bean seed from the side showing the smooth testa, the oval hilum on the inner curve and the tiny micropyle next to it. 2. The same seed with the testa removed and the two cotyledons opened apart like a book, showing the embryo axis lying along one cotyledon with the curved radicle and the small plumule with two tiny folded leaves. 3. A simple diagram of the embryo axis alone showing radicle, hypocotyl, point of attachment of cotyledons, epicotyl and plumule. Labels: testa (seed coat), hilum, micropyle, cotyledon, radicle, plumule, hypocotyl, epicotyl. Soft beige seed coat, pale yellow-green cotyledons, light green embryo. Clean flat textbook style, white background.]
+![Three diagrams showing the external view of a kidney bean, an opened bean revealing the embryo axis on a cotyledon, and an isolated embryo axis.](images/B8-05-bean-seed-anatomy.png)
 
 ### Structure of a maize grain (a monocotyledonous fruit)
 
@@ -342,7 +342,7 @@ These experiments use the idea of a **controlled experiment**: several set-ups a
 
 **Why tube A is the control:** it has all the conditions, so it shows that the seeds were **viable** and that, in the other tubes, failure to germinate was caused by the **one missing condition**, not by dead seeds.
 
-[IMAGE: Four test tubes in a rack, labelled A, B, C and D, each containing a few bean seeds. Tube A: moist cotton wool at the bottom, seeds with short white radicles and green shoots, open top; tag "water + air + warmth (control)". Tube B: dry cotton wool, dry unchanged seeds; tag "no water". Tube C: seeds at the bottom covered by boiled and cooled water with a thin yellow layer of oil on top, unchanged seeds; tag "no oxygen". Tube D: moist cotton wool with unchanged seeds, shown inside an outline of a refrigerator with a snowflake symbol; tag "cold (about 4 °C)". Labels: moist cotton wool, dry cotton wool, boiled and cooled water, oil layer, germinating seeds, seeds not germinating, refrigerator. Soft blue water, yellow oil, beige seeds, green shoots. Clean flat textbook style, white background.]
+![An experiment showing four test tubes testing conditions needed for seed germination, with only the control tube showing sprouted seeds with green shoots and roots.](images/B8-07-seed-germination-conditions-experiment.png)
 
 #### Alternative set-up for oxygen: alkaline pyrogallol
 
@@ -353,7 +353,7 @@ Another way to remove oxygen is to set up two **sealed** flasks, each with moist
 
 After a few days, the seeds in the control flask germinate, but those in the pyrogallol flask do not, showing that **oxygen is necessary**. (Alkaline pyrogallol is caustic, so it must be handled carefully, and the seeds must not touch it.)
 
-[IMAGE: Two identical sealed conical flasks side by side, each closed with a rubber stopper, each holding a small wire gauze platform or a hanging muslin bag with moist cotton wool and bean seeds above a liquid at the bottom. Left flask (labelled 1): brown liquid at the bottom labelled "alkaline pyrogallol (absorbs oxygen)", seeds unchanged. Right flask (labelled 2, control): clear liquid labelled "water", seeds germinating with short white radicles. Labels: rubber stopper, moist cotton wool, seeds, alkaline pyrogallol, water, no germination, germination. Soft colours. Clean flat textbook style, white background.]
+![Two stoppered conical flasks containing seeds in hanging bags over liquid demonstrating germination with clear liquid and no germination over brown liquid.](images/B8-08-germination-oxygen-requirement-apparatus.png)
 
 #### Experiment: to show that only viable seeds germinate
 
@@ -453,7 +453,7 @@ In **epigeal germination** ("epi" = above, "geo" = earth), the **cotyledons are 
 6. **Growth of the plumule:** the **plumule** grows up between the cotyledons, and its first **foliage leaves** expand and begin photosynthesis.
 7. **Independence:** as their food is used up, the cotyledons **shrivel** and eventually **fall off**. The seedling now makes all its own food by photosynthesis.
 
-[IMAGE: A sequence of five stages of epigeal germination of a bean seed, drawn left to right with a brown soil line across the middle. Stage 1: a swollen bean seed below the soil line with the radicle just emerging. Stage 2: the radicle growing downwards with some root hairs, and the hypocotyl forming an arch that is just pushing up through the soil surface. Stage 3: the hypocotyl arch above ground, pulling up the two cotyledons with the testa still partly attached. Stage 4: the hypocotyl straightened, the two cotyledons opened and green above ground, the plumule with two small leaves between them, lateral roots below. Stage 5: a young seedling with expanded first foliage leaves, shrivelled cotyledons and a branched root system. Labels: testa, radicle, root hairs, hypocotyl, hypocotyl arch (hook), cotyledons (above ground), plumule, first foliage leaves, lateral roots, soil level, shrivelled cotyledons. Soft brown soil, green shoots, beige seed. Clean flat textbook style, white background.]
+![Diagram showing five progressive stages of epigeal bean seed germination from underground emergence to a young seedling with foliage leaves.](images/B8-09-epigeal-germination-stages.png)
 
 ### Hypogeal germination
 
@@ -471,7 +471,7 @@ In **hypogeal germination** ("hypo" = below), the **cotyledons remain below the 
 6. **Root system develops:** later, **adventitious roots** grow from the lower nodes of the stem (including **prop roots** above ground in maize), forming the **fibrous root system** typical of monocots. The primary root does not remain the main root.
 7. **The grain stays below the soil:** throughout, the grain (with the scutellum and the remaining endosperm) remains **underground**, where it gradually shrivels as its food is used up.
 
-[IMAGE: A sequence of four stages of germination of a maize grain, drawn left to right with a brown soil line across the middle. Stage 1: a swollen maize grain below the soil line with the coleorhiza and radicle emerging downward. Stage 2: the radicle longer with root hairs and a few seminal roots, and a pointed coleoptile growing straight upward toward the soil surface. Stage 3: the coleoptile breaking through the soil surface and the first green leaf emerging from its tip. Stage 4: a young maize seedling with two or three long narrow leaves, the grain still buried below the soil and shrivelling, a fibrous root system with seminal roots and adventitious roots from the stem base. Labels: maize grain (stays below ground), coleorhiza, radicle (primary root), seminal roots, coleoptile, first foliage leaf, adventitious roots, soil level. Soft brown soil, yellow grain, green leaves. Clean flat textbook style, white background.]
+![Four sequential stages of maize grain germination illustrating root development, coleoptile emergence, leaf growth, and shrivelling of the seed underground.](images/B8-10-hypogeal-maize-germination-stages.png)
 
 ### Epigeal and hypogeal germination compared
 
@@ -487,7 +487,7 @@ In **hypogeal germination** ("hypo" = below), the **cotyledons remain below the 
 | First part to break through the soil | The hypocotyl arch | The epicotyl arch or the coleoptile |
 | Examples | Bean (*Phaseolus*), cowpea, castor oil, pawpaw, cotton, melon, sunflower, onion | Maize, rice, millet, sorghum, broad bean, garden pea, mango, coconut |
 
-[IMAGE: Two seedlings side by side for comparison, with a brown soil line across both. Left: a young bean seedling (epigeal) with two green cotyledons above the soil, a long hypocotyl between the soil surface and the cotyledons, a short epicotyl above them and the first foliage leaves. Right: a young broad bean or pea seedling (hypogeal) with the seed and its two cotyledons still below the soil, a short hypocotyl, and a long epicotyl rising from below ground up through the soil to the first foliage leaves. Labels on both: cotyledons, hypocotyl, epicotyl, plumule leaves, soil level, root. Titles: epigeal germination (bean, cowpea), hypogeal germination (broad bean, pea). Soft brown, green and beige colours. Clean flat textbook style, white background.]
+![A diagram comparing epigeal germination on the left with cotyledons above ground, and hypogeal germination on the right with cotyledons remaining beneath the soil line.](images/B8-11-epigeal-hypogeal-comparison.png)
 
 **Textbook variation (maize):** most school textbooks and JAMB questions give **maize** as the standard example of **hypogeal** germination, because the grain (with its cotyledon, the scutellum) stays below the soil. However, some textbooks point out that the terms epigeal and hypogeal were defined for **dicotyledonous** seeds, where they describe whether the **hypocotyl** or the **epicotyl** elongates. In maize, the single cotyledon never leaves the grain, and the shoot is carried up by the coleoptile and the first internode (called the **mesocotyl**), not by a true epicotyl. For this reason, some books do not classify cereals strictly as hypogeal, or describe them separately. **For JAMB, treat maize germination as hypogeal.**
 

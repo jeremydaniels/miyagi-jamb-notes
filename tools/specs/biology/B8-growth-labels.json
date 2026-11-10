@@ -1,0 +1,411 @@
+{
+ "B8-01-root-tip-zones-section": {
+  "labels": [
+   [
+    "root cap",
+    [
+     512,
+     911
+    ],
+    "R"
+   ],
+   [
+    "zone of cell division (apical meristem)",
+    [
+     512,
+     762
+    ],
+    "R"
+   ],
+   [
+    "zone of cell elongation",
+    [
+     512,
+     540
+    ],
+    "R"
+   ],
+   [
+    "zone of differentiation",
+    [
+     512,
+     219
+    ],
+    "R"
+   ],
+   [
+    "root hairs",
+    [
+     281,
+     223
+    ],
+    "L"
+   ],
+   [
+    "epidermis",
+    [
+     394,
+     327
+    ],
+    "L"
+   ],
+   [
+    "xylem",
+    [
+     496,
+     143
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B8-05-bean-seed-anatomy": {
+  "labels": [
+   [
+    "testa (seed coat)",
+    [
+     172,
+     435
+    ],
+    "L"
+   ],
+   [
+    "hilum",
+    [
+     258,
+     498
+    ],
+    "L"
+   ],
+   [
+    "micropyle",
+    [
+     272,
+     571
+    ],
+    "L"
+   ],
+   [
+    "cotyledon",
+    [
+     495,
+     483
+    ],
+    "L"
+   ],
+   [
+    "radicle",
+    [
+     961,
+     702
+    ],
+    "R"
+   ],
+   [
+    "plumule",
+    [
+     915,
+     292
+    ],
+    "R"
+   ],
+   [
+    "hypocotyl",
+    [
+     861,
+     626
+    ],
+    "R"
+   ],
+   [
+    "epicotyl",
+    [
+     877,
+     404
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-07-seed-germination-conditions-experiment": {
+  "labels": [
+   [
+    "moist cotton wool",
+    [
+     208,
+     745
+    ],
+    "L"
+   ],
+   [
+    "dry cotton wool",
+    [
+     418,
+     735
+    ],
+    "L"
+   ],
+   [
+    "boiled and cooled water",
+    [
+     619,
+     592
+    ],
+    "R"
+   ],
+   [
+    "oil layer",
+    [
+     616,
+     413
+    ],
+    "R"
+   ],
+   [
+    "germinating seeds",
+    [
+     215,
+     596
+    ],
+    "L"
+   ],
+   [
+    "seeds not germinating",
+    [
+     415,
+     623
+    ],
+    "L"
+   ],
+   [
+    "refrigerator",
+    [
+     901,
+     278
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-08-germination-oxygen-requirement-apparatus": {
+  "labels": [
+   [
+    "rubber stopper",
+    [
+     292,
+     208
+    ],
+    "L"
+   ],
+   [
+    "moist cotton wool",
+    [
+     289,
+     570
+    ],
+    "L"
+   ],
+   [
+    "seeds",
+    [
+     278,
+     636
+    ],
+    "L"
+   ],
+   [
+    "alkaline pyrogallol",
+    [
+     283,
+     813
+    ],
+    "L"
+   ],
+   [
+    "water",
+    [
+     741,
+     800
+    ],
+    "R"
+   ],
+   [
+    "no germination",
+    [
+     275,
+     609
+    ],
+    "L"
+   ],
+   [
+    "germination",
+    [
+     735,
+     615
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-09-epigeal-germination-stages": {
+  "labels": [
+   [
+    "testa",
+    [
+     538,
+     493
+    ],
+    "R"
+   ],
+   [
+    "radicle",
+    [
+     153,
+     619
+    ],
+    "L"
+   ],
+   [
+    "root hairs",
+    [
+     303,
+     661
+    ],
+    "L"
+   ],
+   [
+    "hypocotyl",
+    [
+     661,
+     454
+    ],
+    "R"
+   ],
+   [
+    "hypocotyl arch (hook)",
+    [
+     456,
+     390
+    ],
+    "L"
+   ],
+   [
+    "cotyledons (above ground)",
+    [
+     702,
+     365
+    ],
+    "R"
+   ],
+   [
+    "plumule",
+    [
+     656,
+     338
+    ],
+    "R"
+   ],
+   [
+    "first foliage leaves",
+    [
+     783,
+     274
+    ],
+    "R"
+   ],
+   [
+    "lateral roots",
+    [
+     886,
+     626
+    ],
+    "R"
+   ],
+   [
+    "soil level",
+    [
+     596,
+     509
+    ],
+    "R"
+   ],
+   [
+    "shrivelled cotyledons",
+    [
+     815,
+     380
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B8-10-hypogeal-maize-germination-stages": {
+  "labels": [
+   [
+    "maize grain (stays below ground)",
+    [
+     333,
+     609
+    ],
+    "L"
+   ],
+   [
+    "coleorhiza",
+    [
+     167,
+     640
+    ],
+    "L"
+   ],
+   [
+    "radicle (primary root)",
+    [
+     157,
+     697
+    ],
+    "L"
+   ],
+   [
+    "seminal roots",
+    [
+     393,
+     726
+    ],
+    "L"
+   ],
+   [
+    "coleoptile",
+    [
+     385,
+     492
+    ],
+    "L"
+   ],
+   [
+    "first foliage leaf",
+    [
+     619,
+     332
+    ],
+    "R"
+   ],
+   [
+    "adventitious roots",
+    [
+     804,
+     579
+    ],
+    "R"
+   ],
+   [
+    "soil level",
+    [
+     241,
+     533
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B8-11-epigeal-hypogeal-comparison": {}
+}

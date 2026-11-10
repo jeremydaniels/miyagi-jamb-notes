@@ -49,7 +49,7 @@ Commodities traded on an exchange are usually divided into **soft commodities** 
 | **Solid Minerals (Hard Commodities)** | These are naturally occurring solid substances extracted from the earth through mining. | Gold, tin, columbite, lead, zinc, and limestone. |
 | **Oil and Gas (Hard Commodities)** | These are energy resources extracted from underground reservoirs. They are the most heavily traded commodities globally. | Crude oil (such as Nigeria's Bonny Light and Brent crude) and Natural Gas. |
 
-[IMAGE: A three-part split illustration. Left panel: A burlap sack overflowing with brown cocoa beans (Agricultural produce). Middle panel: Three shiny gold bars stacked together (Solid minerals). Right panel: A black oil barrel and an offshore oil rig in the background (Oil and gas). Labels to add later: "Agricultural Produce (Soft)", "Solid Minerals (Hard)", "Oil & Gas (Hard)". Clean flat textbook style, white background.]
+![A three-part illustration showing a sack of cocoa beans on the left, three stacked gold bars in the middle, and an oil barrel with an offshore rig on the right.](images/A15-01-types-traded-commodities.png)
 
 ## Requirements for Trading
 
@@ -103,7 +103,7 @@ This is the modern method of trading using computer networks and the internet. T
 | **Transparency** | Hard for outsiders to see exactly what is happening | High transparency; prices and volumes are visible on screens to everyone |
 | **Errors** | Prone to human misunderstanding | Highly accurate, relies on software |
 
-[IMAGE: A split-screen illustration contrasting the two trading methods. Left side (Open Outcry): A crowded, circular trading pit with men and women in brightly coloured jackets shouting, holding up paper tickets, and making wild hand gestures. Right side (Electronic Mechanism): A calm, modern office setting where a single trader is looking at multiple computer monitors displaying line charts, candlesticks, and numbers. Labels to add later: "Open Outcry (Traditional)", "Electronic Mechanism (Modern)". Clean flat textbook style, white background.]
+![A split illustration comparing a crowded open outcry trading pit with shouting traders on the left against a calm electronic trader using multiple monitors on the right.](images/A15-02-open-outcry-versus-electronic.png)
 
 ## Benefits of Commodity Exchange
 

@@ -1,0 +1,50 @@
+{
+ "A15-01-types-traded-commodities": {
+  "labels": [
+   [
+    "Agricultural Produce (Soft)",
+    [
+     199,
+     516
+    ],
+    "L"
+   ],
+   [
+    "Solid Minerals (Hard)",
+    [
+     547,
+     571
+    ],
+    "R"
+   ],
+   [
+    "Oil & Gas (Hard)",
+    [
+     855,
+     747
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A15-02-open-outcry-versus-electronic": {
+  "labels": [
+   [
+    "Open Outcry (Traditional)",
+    [
+     256,
+     496
+    ],
+    "L"
+   ],
+   [
+    "Electronic Mechanism (Modern)",
+    [
+     768,
+     496
+    ],
+    "R"
+   ]
+  ]
+ }
+}

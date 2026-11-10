@@ -1,0 +1,83 @@
+{
+ "template": "graph",
+ "title": "Heating Curve for Water",
+ "x_label": "Time",
+ "y_label": "Temperature (°C)",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "Water",
+   "points": [
+    [
+     0.5,
+     1.0
+    ],
+    [
+     2.0,
+     3.0
+    ],
+    [
+     4.0,
+     3.0
+    ],
+    [
+     6.0,
+     7.5
+    ],
+    [
+     8.5,
+     7.5
+    ],
+    [
+     9.5,
+     9.5
+    ]
+   ],
+   "smooth": false,
+   "color": "blue",
+   "style": "solid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 2.0,
+   "y": 3.0,
+   "x_text": "",
+   "y_text": "0"
+  },
+  {
+   "x": 6.0,
+   "y": 7.5,
+   "x_text": "",
+   "y_text": "100"
+  }
+ ],
+ "yticks": [
+  [
+   1.0,
+   "-20"
+  ],
+  [
+   3.0,
+   "0"
+  ],
+  [
+   7.5,
+   "100"
+  ]
+ ],
+ "xticks": [],
+ "notes": [
+  {
+   "x": 3.0,
+   "y": 3.4,
+   "text": "Melting: Latent heat of fusion"
+  },
+  {
+   "x": 7.25,
+   "y": 7.9,
+   "text": "Boiling: Latent heat of vaporization"
+  }
+ ]
+}

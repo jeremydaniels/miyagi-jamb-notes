@@ -52,7 +52,7 @@ This is the heat required to change $1\ \text{kg}$ of a liquid into a gas (vapou
 - **Where:** $Q$ is the heat energy ($\text{J}$), $m$ is the mass ($\text{kg}$), and $L_v$ is the specific latent heat of vaporization ($\text{J kg}^{-1}$).
 - For water, the specific latent heat of vaporization is extremely large: $L_v = 2.26 \times 10^6\ \text{J kg}^{-1}$ (or $2260\ \text{kJ kg}^{-1}$). This massive energy release is the reason why steam burns are much more severe than burns from boiling water at the same temperature.
 
-[IMAGE: A temperature-time graph (heating curve) for water. The vertical axis is Temperature in Celsius, horizontal axis is Time. The graph starts at -20, rises diagonally to 0, goes completely horizontal at 0 (labelled 'Melting: Latent heat of fusion'), then rises diagonally to 100, goes completely horizontal again at 100 (labelled 'Boiling: Latent heat of vaporization'), and then rises diagonally again. Clean flat textbook style, white background.]
+![A heating curve graph of water plotting temperature against time, showing plateaus at 0 degrees Celsius for melting and at 100 degrees Celsius for boiling.](images/A14-01-water-heating-curve-graph.png)
 
 ## Melting, evaporation and boiling processes
 

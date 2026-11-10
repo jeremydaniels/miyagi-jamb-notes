@@ -91,7 +91,7 @@
      495,
      483
     ],
-    "L"
+    "T"
    ],
    [
     "radicle",
@@ -125,7 +125,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-07-seed-germination-conditions-experiment": {
   "labels": [
@@ -195,7 +198,7 @@
      292,
      208
     ],
-    "L"
+    "T"
    ],
    [
     "moist cotton wool",
@@ -228,24 +231,22 @@
      800
     ],
     "R"
-   ],
+   ]
+  ],
+  "captions": [
    [
     "no germination",
-    [
-     275,
-     609
-    ],
-    "L"
+    283,
+    906
    ],
    [
     "germination",
-    [
-     735,
-     615
-    ],
-    "R"
+    738,
+    906
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-09-epigeal-germination-stages": {
   "labels": [
@@ -255,7 +256,7 @@
      538,
      493
     ],
-    "R"
+    "L"
    ],
    [
     "radicle",
@@ -271,7 +272,7 @@
      303,
      661
     ],
-    "L"
+    "T"
    ],
    [
     "hypocotyl",
@@ -279,7 +280,7 @@
      661,
      454
     ],
-    "R"
+    "T"
    ],
    [
     "hypocotyl arch (hook)",
@@ -295,7 +296,7 @@
      702,
      365
     ],
-    "R"
+    "T"
    ],
    [
     "plumule",
@@ -303,7 +304,7 @@
      656,
      338
     ],
-    "R"
+    "T"
    ],
    [
     "first foliage leaves",
@@ -327,7 +328,7 @@
      596,
      509
     ],
-    "R"
+    "T"
    ],
    [
     "shrivelled cotyledons",
@@ -337,7 +338,10 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-10-hypogeal-maize-germination-stages": {
   "labels": [
@@ -347,7 +351,7 @@
      333,
      609
     ],
-    "L"
+    "T"
    ],
    [
     "coleorhiza",
@@ -387,7 +391,7 @@
      619,
      332
     ],
-    "R"
+    "T"
    ],
    [
     "adventitious roots",
@@ -405,7 +409,10 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B8-11-epigeal-hypogeal-comparison": {},
  "B8-12-seed-food-mobilisation-flowchart": {

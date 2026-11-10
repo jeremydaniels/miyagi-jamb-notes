@@ -1,0 +1,86 @@
+{
+ "B4b-04-mitochondrion-electron-transport-chain": {
+  "labels": [
+   [
+    "outer membrane",
+    [
+     636,
+     380
+    ],
+    "R"
+   ],
+   [
+    "inner membrane (cristae)",
+    [
+     379,
+     492
+    ],
+    "L"
+   ],
+   [
+    "matrix (Krebs cycle)",
+    [
+     336,
+     390
+    ],
+    "L"
+   ],
+   [
+    "electron transport chain",
+    [
+     726,
+     702
+    ],
+    "R"
+   ],
+   [
+    "NADH",
+    [
+     564,
+     582
+    ],
+    "R"
+   ],
+   [
+    "FADH\u2082",
+    [
+     601,
+     607
+    ],
+    "R"
+   ],
+   [
+    "electrons passed along carriers",
+    [
+     696,
+     649
+    ],
+    "R"
+   ],
+   [
+    "ATP made",
+    [
+     735,
+     771
+    ],
+    "R"
+   ],
+   [
+    "oxygen (final acceptor)",
+    [
+     844,
+     819
+    ],
+    "R"
+   ],
+   [
+    "water formed",
+    [
+     859,
+     815
+    ],
+    "R"
+   ]
+  ]
+ }
+}

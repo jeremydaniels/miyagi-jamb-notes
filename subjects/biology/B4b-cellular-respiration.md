@@ -235,7 +235,7 @@ The **electron transport chain** (also called the **respiratory chain** or **cyt
 
 **Textbook variation:** many school textbooks do not describe the electron transport chain at all and simply say that "hydrogen from the Krebs cycle combines with oxygen to form water, releasing energy which is stored as ATP". More detailed books describe how the energy is first used to pump hydrogen ions across the inner membrane, and the ions then flow back through an enzyme called **ATP synthase**, which makes the ATP (the chemiosmotic theory of Peter Mitchell). JAMB requires only the simplified idea.
 
-[IMAGE: Cut-away drawing of a mitochondrion showing the outer membrane, the folded inner membrane (cristae) and the matrix. An enlarged inset of one crista shows a row of carrier proteins in the membrane with NADH and FADH₂ handing over hydrogen at the start, a wavy arrow of electrons passing from carrier to carrier, small ATP symbols being produced along the chain, and at the end oxygen joining with hydrogen to form water. Labels to add: "outer membrane", "inner membrane (cristae)", "matrix (Krebs cycle)", "electron transport chain", "NADH", "FADH₂", "electrons passed along carriers", "ATP made", "oxygen (final acceptor)", "water formed". Clean flat textbook style, white background.]
+![A cut-away diagram of a mitochondrion showing outer membrane, cristae, and matrix, with a circular inset illustrating carrier proteins and the electron transport chain.](images/B4b-04-mitochondrion-electron-transport-chain.png)
 
 ### ATP production in aerobic respiration: the totals
 

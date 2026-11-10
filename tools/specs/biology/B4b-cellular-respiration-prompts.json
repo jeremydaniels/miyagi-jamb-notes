@@ -10,5 +10,9 @@
  [
   "B4b-07-oxygen-deficit-exercise-line",
   "Line graph of oxygen consumption against time for a person before, during and after a short period of vigorous exercise. The horizontal axis shows time in minutes with three marked zones (rest, exercise, recovery); the vertical axis shows oxygen uptake. The line is low and flat at rest, rises during exercise to a plateau, then falls gradually back to the resting level during recovery. A shaded area at the start of exercise (where uptake lags behind need) is marked as the oxygen deficit, and the shaded area under the curve during recovery above the resting level is marked as the oxygen debt. A dashed line shows the oxygen actually needed during exercise above the plateau."
+ ],
+ [
+  "B4b-04-mitochondrion-electron-transport-chain",
+  "Cut-away drawing of a mitochondrion showing the outer membrane, the folded inner membrane (cristae) and the matrix. An enlarged inset of one crista shows a row of carrier proteins in the membrane with NADH and FADH₂ handing over hydrogen at the start, a wavy arrow of electrons passing from carrier to carrier, small ATP symbols being produced along the chain, and at the end oxygen joining with hydrogen to form water."
  ]
 ]

@@ -32,7 +32,7 @@ By the end of these notes, you should be able to:
 
 Insurance is an arrangement in which a company (the insurer) provides a guarantee of compensation for a specified loss, damage, illness, or death in return for payment of a specified premium. It works on the concept of **pooling of risks**, where many people contribute a little money to a common fund, which is then used to compensate the unfortunate few who actually suffer a loss.
 
-[IMAGE: A conceptual diagram illustrating the "Pooling of Risks". On the left, several people are shown handing small coins (premiums) into a large central pot labelled "Common Pool". On the right, the pot pours a large sum of money into the hands of one sad person standing beside a burning building (the claimant). Labels to add later: "Many policyholders pay small premiums", "Common Pool managed by Insurer", "Compensation paid to the few who suffer losses". Clean flat textbook style, white background.]
+![A diagram illustrating risk pooling where multiple people deposit coins into a pot, and a pot pours coins out to a sad person beside a burning house.](images/A6b-01-pooling-risks-conceptual.png)
 
 ### Types of risk in insurance
 
@@ -302,7 +302,7 @@ When deciding where to build or rent a warehouse, businesses must evaluate sever
 5. **Availability of regular power and water:** Especially important for cold-storage warehouses (for meat, fish, medicines) which require uninterrupted electricity to run freezers.
 6. **Security:** The location must have a low crime rate and support security infrastructure to prevent burglary.
 
-[IMAGE: An architectural layout of an ideal warehouse location. A large rectangular building labeled "Warehouse" is situated near a highway (for road transport), with a railway siding at the back. Power lines run to the building, and a factory is visible in the nearby distance. A sign near the gate reads "Affordable Industrial Estate". Labels to add later: "Access to road network", "Proximity to factory", "Availability of power", "Space for heavy vehicles". Clean flat textbook style, white background.]
+![Isometric architectural layout of a warehouse situated near a multilane road, with a railway siding at the back, power lines, an entrance sign, and a distant factory.](images/A6b-02-warehouse-location-architectural-layout.png)
 
 ## Key terms
 

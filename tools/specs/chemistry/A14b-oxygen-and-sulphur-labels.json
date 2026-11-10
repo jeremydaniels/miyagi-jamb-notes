@@ -1,31 +1,31 @@
 {
  "A14b-01-oxygen-gas-laboratory-preparation": {
-  "caption_below": "Heat.",
   "regions": [
    "Water trough"
   ],
+  "caption_below": "Heat.",
   "labels": [
    [
     "KClO3 + MnO2 catalyst",
     [
-     398,
-     500
+     258,
+     421
     ],
     "L"
    ],
    [
     "Delivery tube",
     [
-     595,
-     437
+     596,
+     547
     ],
     "R"
    ],
    [
     "Water trough",
     [
-     636,
-     828
+     619,
+     702
     ],
     "R"
    ],
@@ -33,15 +33,15 @@
     "Inverted gas jar",
     [
      800,
-     523
+     362
     ],
     "R"
    ],
    [
     "Oxygen gas bubbles",
     [
-     798,
-     658
+     789,
+     466
     ],
     "R"
    ]

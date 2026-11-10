@@ -651,5 +651,103 @@
     "R"
    ]
   ]
+ },
+ "B2e-06-hepatobiliary-pancreatic-ducts": {
+  "regions": [
+   "liver",
+   "pancreas",
+   "duodenum",
+   "stomach"
+  ],
+  "labels": [
+   [
+    "liver",
+    [
+     380,
+     223
+    ],
+    "L"
+   ],
+   [
+    "hepatic duct",
+    [
+     483,
+     369
+    ],
+    "L"
+   ],
+   [
+    "gall bladder",
+    [
+     335,
+     494
+    ],
+    "L"
+   ],
+   [
+    "cystic duct",
+    [
+     445,
+     437
+    ],
+    "L"
+   ],
+   [
+    "bile duct",
+    [
+     490,
+     493
+    ],
+    "L"
+   ],
+   [
+    "pancreas",
+    [
+     596,
+     792
+    ],
+    "R"
+   ],
+   [
+    "pancreatic duct",
+    [
+     636,
+     733
+    ],
+    "R"
+   ],
+   [
+    "islets of Langerhans",
+    [
+     513,
+     785
+    ],
+    "R"
+   ],
+   [
+    "duodenum",
+    [
+     349,
+     778
+    ],
+    "L"
+   ],
+   [
+    "stomach",
+    [
+     724,
+     564
+    ],
+    "R"
+   ],
+   [
+    "pyloric sphincter",
+    [
+     487,
+     605
+    ],
+    "L"
+   ]
+  ]
  }
 }

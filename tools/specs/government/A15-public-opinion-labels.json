@@ -1,38 +1,35 @@
 {
  "A15-01-public-opinion-expression-panels": {
-  "labels": [
+  "labels": [],
+  "split": [
+   [
+    475,
+    120
+   ]
+  ],
+  "captions": [
    [
     "Opinion Polls",
-    [
-     253,
-     278
-    ],
-    "L"
+    274,
+    479
    ],
    [
     "Peaceful Protests",
-    [
-     768,
-     290
-    ],
-    "R"
+    756,
+    480
    ],
    [
     "Elections",
-    [
-     239,
-     741
-    ],
-    "L"
+    267,
+    981
    ],
    [
-    "Media Phone-in Programmes",
-    [
-     749,
-     749
-    ],
-    "R"
+    "Media Phone-in\nProgrammes",
+    755,
+    973
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

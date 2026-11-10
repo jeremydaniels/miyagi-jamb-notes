@@ -139,7 +139,7 @@ Different length instruments are used depending on the size of the object and th
 3. **Micrometer Screw Gauge:** Used to measure very small lengths, such as the thickness of a piece of paper or the diameter of a thin copper wire. It is very precise, measuring accurately to $0.001\ \text{cm}$ ($0.01\ \text{mm}$).
    - **Reading a micrometer:** Read the highest visible mark on the Sleeve (main scale in mm). Then, look at the Thimble (circular scale). Find the line on the thimble that aligns with the central line of the sleeve. Multiply this by $0.01\ \text{mm}$ and add it to the sleeve reading.
 
-[IMAGE: A close-up side-by-side illustration of a vernier caliper and a micrometer screw gauge taking readings. Left side: Vernier caliper with the main scale showing 2.4 cm before the vernier zero, and the 6th vernier mark aligning with a main scale line, giving a reading of 2.46 cm. Right side: Micrometer screw gauge with the sleeve showing 5.5 mm and the thimble aligned at the 12th mark, giving a reading of 5.62 mm. Labels: "Main Scale", "Vernier Scale", "Sleeve", "Thimble", with the step-by-step reading calculations below each. Clean flat textbook style, white background.]
+![Side-by-side diagrams of a vernier caliper reading 2.46 centimeters and a micrometer screw gauge reading 5.62 millimeters with labeled parts and calculation steps.](images/A1-01-caliper-micrometer-scale-readings.png)
 
 ### Use simple beam balance
 

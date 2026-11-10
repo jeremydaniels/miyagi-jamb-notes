@@ -737,7 +737,7 @@ The syllabus says "etc.", so you should know of these:
 8. **Sex education** and health education in schools and communities.
 9. Avoiding alcohol and drug abuse, which lead to risky sexual behaviour (see `C7b-drug-abuse.md`).
 
-[IMAGE: A simple diagram of HIV infection. Left: a round HIV virus particle in cross-section showing the outer envelope with surface proteins, the protein coat (capsid), two strands of RNA and the reverse transcriptase enzyme. Right: a larger CD4 T-helper white blood cell with HIV particles attaching to it, one particle inside, and new HIV particles budding out from its surface. Below, a simple line graph of "CD4 cell count" falling slowly over about ten years, with "HIV in blood" high at first, falling, then rising again, and a shaded section marked "AIDS". Labels: "Envelope", "Surface protein", "Capsid (protein coat)", "RNA", "Reverse transcriptase", "CD4 T-helper cell", "New viruses budding", "CD4 cell count", "Amount of virus", "Years after infection", "AIDS". Clean flat textbook style, white background.]
+![Diagram showing HIV structure, CD4 T-helper cell infection and budding, and a line graph tracking CD4 count decline and viral load progression toward AIDS over ten years.](images/C7a-09-hiv-structure-cd-course.png)
 
 ### Master table of the listed diseases
 
@@ -790,7 +790,7 @@ The body defends itself against pathogens in three ways:
 
 This is the **principle of vaccination**: give the body its "first exposure" safely, so that a real infection later meets a fast, strong secondary response.
 
-[IMAGE: A line graph of antibody concentration in the blood (vertical axis) against time in days (horizontal axis). An arrow at day 0 labelled "first exposure (vaccine)" followed by a small, slow rise and fall in antibody (primary response). A second arrow at a later time labelled "second exposure (infection)" followed by a fast, tall and long-lasting rise (secondary response). A dashed horizontal line labelled "level needed for protection". Labels: "Antibody concentration", "Time (days)", "First exposure (vaccine)", "Primary response: slow and small", "Second exposure (same pathogen)", "Secondary response: fast and large", "Level needed for protection". Clean flat textbook style, white background.]
+![Line graph showing antibody concentration over time, comparing the small primary immune response after vaccination to a much larger and faster secondary response after a second exposure.](images/C7a-10-antibody-concentration-primary-secondary.png)
 
 ### Inoculation and vaccination
 

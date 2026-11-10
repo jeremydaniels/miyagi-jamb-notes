@@ -136,6 +136,9 @@ def gate(ax, kind, x, y, w=1.6, h=1.0, color=None, lw=2.4):
         tri_end = x1 - (bubble * 2 if kind == "NOT" else 0)
         ax.add_patch(Polygon([(x0, y1), (x0, y0), (tri_end, y)], closed=True, fc=col, ec=ink, lw=lw, joinstyle="round", zorder=3))
         end = tri_end
+        if kind == "NOT":
+            ax.add_patch(Circle((tri_end + bubble, y), bubble, fc="white", ec=ink, lw=lw, zorder=4))
+            end = tri_end + 2 * bubble
         ins = [(x0 - pin, y)]
         ax.plot([x0 - pin, x0], [y, y], color=ink, lw=lw, zorder=2)
     else:

@@ -75,7 +75,7 @@ This is the breakdown of rocks by living organisms (plants, animals, and humans)
 | **Key Processes** | Exfoliation, block and granular disintegration | Oxidation, carbonation, hydration, solution, hydrolysis |
 | **End Product** | Smaller physical fragments of the original rock | New chemical substances (e.g., clay, lateritic soils) |
 
-[IMAGE: A series of three panels showing the Exfoliation process. Panel 1: A solid granite rock under a blazing yellow sun, with red arrows pointing outwards to show expansion. Panel 2: The same rock under a moon and stars with blue arrows pointing inwards showing contraction, and a few small cracks appearing parallel to the surface. Panel 3: Curved outer sheets of the rock peeling away like onion skins, leaving a rounded dome core. Labels: "Daytime heating and expansion", "Nighttime cooling and contraction", "Outer layers peel off (Exfoliation)". Clean flat textbook illustration, white background.]
+![Three-panel diagram showing the exfoliation weathering process on a rounded rock from daytime heating and nighttime cooling to outer layers peeling away like onion skin.](images/B4-01-rock-exfoliation-process.png)
 
 ## Mass movement
 
@@ -99,7 +99,7 @@ Mass movements are generally classified by how fast they occur and how much wate
 - **Landslides:** The sudden, rapid slipping of a large, dry or slightly wet mass of rock and soil down a steep slope or cliff. It leaves a bare scar on the hillside.
 - **Rockfalls:** The free-falling of individual loose rock fragments from a steep cliff face, often triggered by weathering.
 
-[IMAGE: A cross-section of a gentle grassy hillside illustrating Soil Creep. A large tree has a trunk that curves outward at the base before growing straight up. A wooden fence is leaning downhill. A telegraph pole is also leaning downhill. Small blue arrows in the soil point slowly down the slope to indicate the creeping movement of the earth. Labels: "Bent tree trunk", "Leaning fence", "Leaning pole", "Slow downward movement of soil". Clean flat textbook illustration, white background.]
+![A cross-section illustration of soil creep showing a curved tree trunk, a leaning fence, and a tilted utility pole on a grassy slope.](images/B4-02-soil-creep-hillside.png)
 
 ## Erosion
 
@@ -168,7 +168,7 @@ Rivers create different landforms depending on whether they are in their upper (
   4. During a flood, the river cuts straight through the narrow neck.
   5. Deposition seals off the ends of the old bend, leaving it isolated as an ox-bow lake.
 
-[IMAGE: A four-panel step-by-step diagram showing Ox-bow lake formation. Panel 1: A river flowing in a wide curve (meander), with arrows showing fast water eroding the outer bank. Panel 2: The neck of land between the two loops becomes very narrow. Panel 3: The river cuts straight across the neck during a flood. Panel 4: The old loop is cut off by deposition at its ends, forming a crescent-shaped ox-bow lake, while the main river flows straight. Clean flat textbook illustration, white background.]
+![A four-panel diagram showing the stages of ox-bow lake formation: meandering river erosion, narrowing neck, cutoff during flood, and isolated crescent-shaped ox-bow lake.](images/B4-03-oxbow-lake-formation-stages.png)
 
 **Depositional Landforms of Rivers:**
 - **Floodplains:** Wide, flat lands on either side of the river in its lower course, built up by layers of fertile silt deposited during floods.
@@ -192,7 +192,7 @@ Wind sculpts the hot deserts (like the Sahara) into bizarre and distinct shapes.
   - **Seif Dunes (Longitudinal Dunes):** Long, narrow, parallel ridges of sand that can stretch for hundreds of kilometers in the direction of the prevailing wind.
 - **Loess:** Extensive, very deep deposits of fine, wind-blown yellow dust. Loess soils are extremely fertile.
 
-[IMAGE: A split diagram of wind landforms. On the left, an erosional Rock Pedestal: a large rounded rock resting on a very thin, severely eroded column, surrounded by flying sand particles carried by horizontal wind arrows near the ground. On the right, a depositional Barchan Dune: a smooth crescent-shaped hill of golden sand, with wind arrows hitting the gently sloping back and the two pointed "horns" pointing forward in the direction of the wind. Labels: "Rock Pedestal (Mushroom Rock)", "Intense abrasion near ground", "Barchan Dune", "Wind direction", "Horns pointing downwind". Clean flat textbook illustration, white background.]
+![A split educational diagram showing wind landforms: an erosional rock pedestal eroded by blowing sand on the left, and a crescent-shaped barchan dune on the right.](images/B4-04-desert-wind-landforms.png)
 
 ### 4. Landforms of Wave Action (Coasts)
 Waves shape the boundaries where the land meets the sea.

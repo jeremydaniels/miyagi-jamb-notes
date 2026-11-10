@@ -29,7 +29,7 @@ In the 1999 Constitution of the Federal Republic of Nigeria (as amended), Chapte
 4. **Respect for international law and treaty obligations:** Nigeria commits to solving international disputes through negotiation, mediation, arbitration, or other peaceful means.
 5. **Promotion of a just world economic order:** Nigeria advocates for fairness in global trade and economic relations, ensuring that developing nations are not exploited by richer, industrialised countries.
 
-[IMAGE: A conceptual diagram showing a central circle labelled "Nigeria's Foreign Policy Objectives" surrounded by five connected outer circles. The outer circles are labelled: "National Interest", "African Unity (Centre-piece)", "International Co-operation", "Respect for International Law", and "Just World Economic Order". Clean flat textbook illustration, white background.]
+![A diagram displaying Nigerias Foreign Policy Objectives in a central circle connected to five surrounding key foreign policy goals.](images/C2-01-hub-spoke-foreign-policy.png)
 
 ## Relations with major powers
 
@@ -88,7 +88,7 @@ Nigeria has a long and proud history of participating in international peace-kee
 
 By contributing to peace-keeping, Nigeria proves its commitment to the objective of "promoting international co-operation and universal peace."
 
-[IMAGE: A two-panel illustration. Left panel: A young Nigerian doctor in a white coat shaking hands with locals in a Caribbean island setting, labelled "Technical Aid Corps (TAC)". Right panel: A Nigerian soldier wearing a blue UN helmet or green ECOMOG helmet standing in front of an armoured vehicle, handing a water bottle to a civilian, labelled "Peace-Keeping Operations". Clean flat textbook illustration, white background.]
+![Two-panel illustration showing a Nigerian doctor greeting locals in a tropical village, and a UN peacekeeper soldier handing a water bottle to a civilian beside an armored vehicle.](images/C2-02-nigerian-foreign-assistance.png)
 
 ## Nigeria’s Non-Alignment Policy
 

@@ -144,7 +144,7 @@ Once both chambers pass the exact same version of the bill, a clean copy is sent
 - **Veto:** If the President dislikes the bill, they can refuse to sign it. This refusal is known as the power of veto.
 - **Overriding the Veto:** The parliament is not helpless if the President uses a veto. If the President refuses to sign, the parliament can pass the bill again. In Nigeria, if a **two-thirds (2/3) majority** of both the Senate and the House of Representatives vote to pass the bill again, it overrides the President's veto. The bill becomes law automatically, even without the President's signature.
 
-[IMAGE: A flowchart showing the journey of a bill. From top to bottom: "Drafting", an arrow to a box "First Reading (Title read, no debate)", arrow to "Second Reading (General principles debated, vote taken)", arrow to "Committee Stage (Detailed clause-by-clause scrutiny, public hearings)", arrow to "Report Stage (Committee reports back, amendments considered)", arrow to "Third Reading (Final review, minor corrections, final vote)". An arrow then points sideways to "Concurrence in Upper House (Process repeats)", then an arrow pointing to a split path. Left path: "Presidential Assent (President signs) -> Becomes an Act". Right path: "President Vetoes -> Legislature can override with 2/3 majority -> Becomes an Act". Clean flat textbook style, white background, using neat boxed text.]
+![Flowchart tracing the journey of a bill from drafting through three readings, committee and report stages, upper house concurrence, and presidential assent or veto override into an act.](images/A10-01-legislative-process-flowchart.png)
 
 ## Key terms
 

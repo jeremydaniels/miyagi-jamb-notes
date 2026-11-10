@@ -1,0 +1,111 @@
+{
+ "template": "flowchart",
+ "title": "The Journey of a Bill",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "draft",
+   "text": "Drafting",
+   "shape": "box"
+  },
+  {
+   "id": "read1",
+   "text": "First Reading\n(Title read, no debate)",
+   "shape": "box"
+  },
+  {
+   "id": "read2",
+   "text": "Second Reading\n(General principles debated, vote taken)",
+   "shape": "box"
+  },
+  {
+   "id": "comm",
+   "text": "Committee Stage\n(Detailed scrutiny, public hearings)",
+   "shape": "box"
+  },
+  {
+   "id": "report",
+   "text": "Report Stage\n(Reports back, amendments considered)",
+   "shape": "box"
+  },
+  {
+   "id": "read3",
+   "text": "Third Reading\n(Final review, final vote)",
+   "shape": "box"
+  },
+  {
+   "id": "upper",
+   "text": "Concurrence in Upper House\n(Process repeats)",
+   "shape": "box"
+  },
+  {
+   "id": "assent",
+   "text": "Presidential Assent\n(President signs)",
+   "shape": "box"
+  },
+  {
+   "id": "veto",
+   "text": "President Vetoes",
+   "shape": "box"
+  },
+  {
+   "id": "override",
+   "text": "Legislature Override\n(2/3 majority required)",
+   "shape": "box"
+  },
+  {
+   "id": "act",
+   "text": "Becomes an Act",
+   "shape": "round"
+  }
+ ],
+ "edges": [
+  {
+   "from": "draft",
+   "to": "read1"
+  },
+  {
+   "from": "read1",
+   "to": "read2"
+  },
+  {
+   "from": "read2",
+   "to": "comm"
+  },
+  {
+   "from": "comm",
+   "to": "report"
+  },
+  {
+   "from": "report",
+   "to": "read3"
+  },
+  {
+   "from": "read3",
+   "to": "upper"
+  },
+  {
+   "from": "upper",
+   "to": "assent",
+   "label": "Approved"
+  },
+  {
+   "from": "upper",
+   "to": "veto",
+   "label": "Vetoed"
+  },
+  {
+   "from": "assent",
+   "to": "act"
+  },
+  {
+   "from": "veto",
+   "to": "override"
+  },
+  {
+   "from": "override",
+   "to": "act",
+   "label": "Overridden"
+  }
+ ]
+}

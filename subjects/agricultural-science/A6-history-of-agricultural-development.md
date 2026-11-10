@@ -47,7 +47,7 @@ JAMB often tests your ability to distinguish between systems that sound similar.
 | **Return to land** | The abandoned land is often never cultivated again. | The farmer returns to the resting land after the fallow period. |
 | **Land availability** | Requires a very sparse population and vast virgin forests. | Practiced where population is growing and land is somewhat limited. |
 
-[IMAGE: A comparative split illustration of shifting cultivation and bush fallowing. On the left (Shifting Cultivation), a farmer is shown packing their belongings onto their head and abandoning a depleted farm plot with withered crops, moving entirely to a distant virgin forest. On the right (Bush Fallowing), a farmer remains living in their permanent village hut, while arrows point between different farm plots nearby, showing rotation from a harvested field left to rest (overgrown with weeds) to a freshly planted field. Labels to add later: "Shifting cultivation: farmer relocates permanently", "Abandoned depleted land", "New forest plot", "Bush fallowing: farmer stays in settlement", "Fallow land resting", "Active farm plot". Clean flat textbook style, white background.]
+![Comparison between shifting cultivation showing a farmer leaving depleted land for a forest, and bush fallowing showing rotational farming plots around a permanent village.](images/A6-01-shifting-cultivation-vs-bush.png)
 
 **2. Monoculture vs. Mixed Cropping**
 
@@ -93,7 +93,7 @@ To improve agricultural production, it is important to match each problem with i
 - **Effects:** A high rate of **post-harvest losses** occurs because perishable produce (like tomatoes, vegetables, and yams) cannot be stored or transported to urban markets quickly. The lack of rural amenities also drives the youth to migrate to urban areas (rural-urban migration), leaving only the elderly to farm.
 - **Solutions:** Governments must actively provide rural infrastructure: tarring feeder roads, implementing rural electrification projects, building solar-powered cold rooms, constructing functional silos, and providing irrigation dams.
 
-[IMAGE: A split scene showing rural agricultural infrastructure problems and solutions. Top half (Problem): a broken-down delivery truck carrying tomatoes stuck on a muddy, unpaved rural road, with baskets of rotten tomatoes on the ground. Bottom half (Solution): a smooth paved feeder road with a modern delivery truck driving towards a clean, solar-powered agricultural storage facility. Labels to add later: "Problem: poor roads and lack of storage lead to spoilage", "Solution: good feeder roads and modern storage facilities". Clean flat textbook style, white background.]
+![Illustration contrasting a truck stuck on a muddy road with spoiled produce above, and a refrigerated truck driving on a paved road toward a solar-powered facility below.](images/A6-02-rural-agricultural-infrastructure-split.png)
 
 **3. Inadequate finance for agriculture**
 - **Effects:** Poor farmers lack the collateral (like land titles) demanded by commercial banks. Without finance, they cannot afford modern inputs such as tractors, high-yielding seeds, agrochemicals, and fertilizers. Consequently, farm yields and incomes remain miserably low.

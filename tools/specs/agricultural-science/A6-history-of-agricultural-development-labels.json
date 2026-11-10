@@ -1,0 +1,48 @@
+{
+ "A6-01-shifting-cultivation-vs-bush": {
+  "caption_below": "Shifting cultivation: farmer relocates permanently versus Bush fallowing: farmer stays in settlement",
+  "regions": [
+   "Abandoned depleted land",
+   "New forest plot",
+   "Fallow land resting",
+   "Active farm plot"
+  ],
+  "labels": [
+   [
+    "Abandoned depleted land",
+    [
+     198,
+     658
+    ],
+    "L"
+   ],
+   [
+    "New forest plot",
+    [
+     274,
+     264
+    ],
+    "L"
+   ],
+   [
+    "Fallow land resting",
+    [
+     702,
+     677
+    ],
+    "R"
+   ],
+   [
+    "Active farm plot",
+    [
+     807,
+     523
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A6-02-rural-agricultural-infrastructure-split": {
+  "caption_below": "Problem: poor roads and lack of storage lead to spoilage. Solution: good feeder roads and modern storage facilities."
+ }
+}

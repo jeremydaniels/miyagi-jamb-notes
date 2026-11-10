@@ -28,7 +28,7 @@ By the end of these notes, you should be able to apply the general prose objecti
 
 **Period (Time):** The story is set in post-civil-war Liberia, during the government of President Charles Taylor, while the country is still recovering from the war. The characters live with memories of the earlier violence.
 
-[IMAGE: Illustration of post-war Monrovia, Liberia, showing a street with a mix of damaged buildings and new construction, and a young woman walking thoughtfully along it. Soft colours, hopeful but sober mood. No text or labels. Clean flat textbook style, white background.]
+![An illustration of a young woman walking through a street lined with war-damaged ruins alongside freshly reconstructed houses and small stalls.](images/B4-01-postwar-monrovia-street-scene.png)
 
 ## Socio-Political Context
 

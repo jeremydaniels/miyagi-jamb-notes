@@ -25,7 +25,7 @@ If we calculate the mean for both students:
 
 Both students have the exact same mean score of $50$. However, Amina is extremely consistent (her scores are identical), meaning there is **zero dispersion** in her data. Bola is very inconsistent; her scores are widely spread out from the mean, meaning there is **large dispersion** in her data. Measures of dispersion allow us to quantify this spread mathematically.
 
-[IMAGE: Two bell-shaped curves on the same horizontal axis. One curve is tall and narrow (blue), indicating data closely packed together. The other curve is short and wide (red), indicating data spread far apart. A vertical dashed line passes through the exact centre of both curves. Labels to add later: "Small dispersion (data clustered around mean)", "Large dispersion (data spread out widely)", "Mean". Clean flat textbook style, white background.]
+![A comparison of two normal distributions sharing the same mean, displaying a tall narrow curve for small dispersion and a short wide curve for large dispersion.](images/E3-01-dispersion-comparison-normal-curves.png)
 
 The four main measures of dispersion tested in the JAMB exam are:
 1. **Range:** The total distance from the lowest value to the highest value.

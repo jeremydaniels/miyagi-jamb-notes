@@ -1,0 +1,134 @@
+{
+ "template": "graph",
+ "title": "Comparison of Dispersion in Normal Distributions",
+ "x_label": "Value",
+ "y_label": "Probability Density",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "",
+   "points": [
+    [
+     1.0,
+     0.05
+    ],
+    [
+     2.0,
+     0.2
+    ],
+    [
+     3.0,
+     0.8
+    ],
+    [
+     3.8,
+     2.5
+    ],
+    [
+     4.4,
+     5.5
+    ],
+    [
+     5.0,
+     9.0
+    ],
+    [
+     5.6,
+     5.5
+    ],
+    [
+     6.2,
+     2.5
+    ],
+    [
+     7.0,
+     0.8
+    ],
+    [
+     8.0,
+     0.2
+    ],
+    [
+     9.0,
+     0.05
+    ]
+   ],
+   "smooth": true,
+   "color": "blue",
+   "style": "solid"
+  },
+  {
+   "label": "",
+   "points": [
+    [
+     0.5,
+     0.2
+    ],
+    [
+     1.5,
+     0.6
+    ],
+    [
+     2.5,
+     1.2
+    ],
+    [
+     3.5,
+     2.3
+    ],
+    [
+     4.2,
+     3.2
+    ],
+    [
+     5.0,
+     3.8
+    ],
+    [
+     5.8,
+     3.2
+    ],
+    [
+     6.5,
+     2.3
+    ],
+    [
+     7.5,
+     1.2
+    ],
+    [
+     8.5,
+     0.6
+    ],
+    [
+     9.5,
+     0.2
+    ]
+   ],
+   "smooth": true,
+   "color": "red",
+   "style": "solid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 5.0,
+   "y": 9.0,
+   "x_text": "Mean",
+   "y_text": ""
+  }
+ ],
+ "notes": [
+  {
+   "x": 2.2,
+   "y": 7.5,
+   "text": "Small dispersion (data clustered around mean)"
+  },
+  {
+   "x": 7.8,
+   "y": 5.0,
+   "text": "Large dispersion (data spread out widely)"
+  }
+ ]
+}

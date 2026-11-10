@@ -31,7 +31,7 @@ The inside of the Earth consists of three main concentric layers (like the layer
    - **Continental Crust (Sial):** The upper layer forming the continents. It is made mostly of granite rocks which are rich in **Si**lica and **Al**uminium (SIAL). It is lighter and thicker.
    - **Oceanic Crust (Sima):** The lower layer forming the ocean floors. It is made mostly of heavier basaltic rocks rich in **Si**lica and **Ma**gnesium (SIMA).
 
-[IMAGE: A cross-section of the Earth showing a wedge cut out, similar to a slice of cake. The layers are clearly marked from the centre outwards: Inner Core (solid sphere at the tip), Outer Core (liquid layer), Mantle (thickest middle layer), and Crust (very thin outermost line). Enlarged detail of the crust showing the thicker Continental Crust (Sial) forming land, sitting above the thinner Oceanic Crust (Sima) under the ocean. Labels: "Inner Core (solid iron/nickel)", "Outer Core (liquid)", "Mantle (semi-solid rock)", "Crust (solid rock)", "Sial (Continental crust)", "Sima (Oceanic crust)". Clean flat textbook illustration, white background.]
+![A cross-section diagram of Earth showing its inner core, outer core, mantle, and crust, accompanied by an inset detail of continental and oceanic crust.](images/B2-01-earth-internal-crust-cross.png)
 
 ### External components of the Earth
 The external part of the Earth is composed of the "spheres" that surround the solid body of the planet:
@@ -190,7 +190,7 @@ The Earth's crust is not a single solid shell; it is broken into massive moving 
 | **Primary process** | Folding (bending of rocks) | Faulting (cracking and displacement) |
 | **Resultant landforms** | Fold mountains (anticlines and synclines) | Rift valleys (grabens) and Block mountains (horsts) |
 
-[IMAGE: Split diagram contrasting the forces. Top half (Compressional): Two arrows pointing inwards towards a block of layered rock, which is buckled into a wavy shape. Labels: "Compressional force", "Anticline (upfold)", "Syncline (downfold)", "Fold Mountain". Bottom half (Tensional): Two arrows pointing outwards away from a block of rock. The rock is cracked by two diagonal lines, and the middle block has slid downwards. Labels: "Tensional force", "Normal faults", "Rift Valley (Graben)", "Block Mountains (Horsts)" on the sides. Clean flat textbook illustration, white background.]
+![Textbook diagram showing compressional forces forming fold mountains with anticlines and synclines, and tensional forces forming rift valleys and block mountains along normal faults.](images/B2-02-compressional-vs-tensional-forces.png)
 
 ## Major Landforms
 **Objective vii: identify and describe the major landforms.**
@@ -254,7 +254,7 @@ Because water sinks into the rock, rivers flow underground and carve out massive
 - **Stalagmites:** Mounds of limestone growing upwards from the **floor** of the cave, directly under a stalactite.
 - **Pillars (Columns):** Formed when a stalactite and a stalagmite grow until they meet and join.
 
-[IMAGE: Cross-section of a Karst limestone cave. Rainwater is shown infiltrating from the grassy surface through cracks (swallow holes). Inside the dark cavern, cone-shaped rock formations hang from the ceiling (Stalactites). Water drips from them onto upward-pointing cones on the floor (Stalagmites). On the left, a stalactite and stalagmite have joined to form a thick vertical column (Pillar). An underground river flows at the base. Labels: "Limestone rock", "Swallow hole", "Stalactite (roof)", "Stalagmite (floor)", "Pillar/Column", "Underground river". Clean flat textbook illustration, white background.]
+![Cross section diagram of a karst limestone landscape showing swallow holes on the surface, infiltrating water, stalactites hanging from the cavern roof, stalagmites, a pillar, and an underground river.](images/B2-03-karst-cave-cross-section.png)
 
 ### 6. Desert Landforms
 Deserts are arid regions with very little rainfall. The landscape is shaped primarily by **wind** action, though occasional heavy rains (water action) also play a role.

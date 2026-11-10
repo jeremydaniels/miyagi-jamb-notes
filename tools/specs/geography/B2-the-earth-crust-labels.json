@@ -1,0 +1,117 @@
+{
+ "B2-01-earth-internal-crust-cross": {
+  "regions": [
+   "Inner Core (solid iron/nickel)",
+   "Outer Core (liquid)",
+   "Mantle (semi-solid rock)",
+   "Crust (solid rock)",
+   "Sial (Continental crust)",
+   "Sima (Oceanic crust)"
+  ],
+  "labels": [
+   [
+    "Inner Core (solid iron/nickel)",
+    [
+     538,
+     471
+    ],
+    "R"
+   ],
+   [
+    "Outer Core (liquid)",
+    [
+     437,
+     412
+    ],
+    "L"
+   ],
+   [
+    "Mantle (semi-solid rock)",
+    [
+     601,
+     208
+    ],
+    "R"
+   ],
+   [
+    "Crust (solid rock)",
+    [
+     473,
+     91
+    ],
+    "L"
+   ],
+   [
+    "Sial (Continental crust)",
+    [
+     553,
+     760
+    ],
+    "R"
+   ],
+   [
+    "Sima (Oceanic crust)",
+    [
+     636,
+     804
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B2-03-karst-cave-cross-section": {
+  "regions": [
+   "Limestone rock"
+  ],
+  "labels": [
+   [
+    "Limestone rock",
+    [
+     669,
+     369
+    ],
+    "R"
+   ],
+   [
+    "Swallow hole",
+    [
+     636,
+     305
+    ],
+    "R"
+   ],
+   [
+    "Stalactite (roof)",
+    [
+     396,
+     528
+    ],
+    "L"
+   ],
+   [
+    "Stalagmite (floor)",
+    [
+     533,
+     762
+    ],
+    "R"
+   ],
+   [
+    "Pillar/Column",
+    [
+     208,
+     641
+    ],
+    "L"
+   ],
+   [
+    "Underground river",
+    [
+     437,
+     890
+    ],
+    "L"
+   ]
+  ]
+ }
+}

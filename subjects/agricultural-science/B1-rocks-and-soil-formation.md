@@ -86,7 +86,7 @@ Depending on the weathering process and parent material, different types of soil
 
 A **soil profile** is a vertical cross-section of the soil showing distinct horizontal layers from the surface down to the underlying unweathered parent rock. These layers are called **horizons**.
 
-[IMAGE: A vertical cross-section of soil showing five distinct layers. From top to bottom: O horizon (a thin dark layer of decomposing leaves and organic matter), A horizon (dark topsoil with plant roots), B horizon (lighter brown subsoil with clay accumulation), C horizon (weathered rock fragments), and D/R horizon (solid grey bedrock). Labels on the left for each horizon: O, A, B, C, D/R. Clean flat textbook illustration, white background.]
+![A cross-section illustration of soil layers showing organic leaf litter, dark topsoil with roots, subsoil, weathered rock fragments, and solid bedrock at the base.](images/B1-01-soil-profile-horizons.png)
 
 A mature soil profile usually has the following horizons:
 - **O horizon (Organic layer):** The topmost layer consisting of freshly fallen leaves, twigs, and partially decomposed organic matter.
@@ -160,7 +160,7 @@ The soil particles settle out according to their sizes and weights.
 - The very fine **clay** particles stay suspended in the water the longest, eventually settling as a fine muddy layer on top of the silt.
 - Dark pieces of **organic matter (humus)** are less dense than water and will float on the water's surface.
 
-[IMAGE: A tall glass measuring cylinder filled with water and settled soil. From bottom to top, the layers are labelled: "Gravel" at the very bottom, "Coarse sand", "Fine sand", "Silt", "Cloudy water with suspended clay", and dark pieces of "Organic matter (humus)" floating on the water surface. Clean flat textbook style, white background.]
+![A measuring cylinder containing settled soil layers with gravel at the base, coarse sand, fine sand, silt, cloudy water with clay, and organic humus floating at the surface.](images/B1-02-soil-sedimentation-measuring-cylinder.png)
 
 ### iv. Determine the water-holding capacity of soil
 
@@ -174,7 +174,7 @@ The soil particles settle out according to their sizes and weights.
 5. Allow the water to drain completely into the measuring cylinders.
 6. Record the volume of water drained (collected) for each soil.
 
-[IMAGE: Three glass funnels plugged with cotton wool at the neck, placed in three measuring cylinders. Funnel A contains dry sand, Funnel B contains dry loam, Funnel C contains dry clay. A beaker is shown pouring the same volume of water (e.g., 50 cm³) into each funnel. The measuring cylinders below show different amounts of drained water: most water drained in A (sand), medium in B (loam), and least in C (clay). Labels: "dry sand", "dry loam", "dry clay", "cotton wool plug", "drained water". Clean flat textbook style, white background.]
+![Three funnels with different soil types demonstrating water drainage into measuring cylinders, showing sand draining the most, loam medium, and clay the least.](images/B1-03-soil-water-retention-experiment.png)
 
 **Worked Example 2: Calculating Water-Holding Capacity**
 

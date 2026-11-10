@@ -1,0 +1,48 @@
+{
+ "B1-01-soil-profile-horizons": {},
+ "B1-02-soil-sedimentation-measuring-cylinder": {},
+ "B1-03-soil-water-retention-experiment": {
+  "labels": [
+   [
+    "dry sand",
+    [
+     223,
+     454
+    ],
+    "L"
+   ],
+   [
+    "dry loam",
+    [
+     510,
+     454
+    ],
+    "L"
+   ],
+   [
+    "dry clay",
+    [
+     800,
+     454
+    ],
+    "R"
+   ],
+   [
+    "cotton wool plug",
+    [
+     512,
+     563
+    ],
+    "R"
+   ],
+   [
+    "drained water",
+    [
+     222,
+     828
+    ],
+    "L"
+   ]
+  ]
+ }
+}

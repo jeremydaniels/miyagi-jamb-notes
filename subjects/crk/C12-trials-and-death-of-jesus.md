@@ -84,7 +84,7 @@ When Jesus was returned, Pilate called the chief priests and the rulers, remindi
 | **Witnesses** | False witnesses who did not agree | The chief priests and the screaming crowd |
 | **Verdict** | Guilty of death | Declared innocent by Pilate and Herod, but condemned to please the crowd |
 
-[IMAGE: A comparison illustration showing two scenes side-by-side. Left: Jesus standing before Caiaphas, the High Priest tearing his rich robes in anger, surrounded by bearded Jewish elders (Sanhedrin). Right: Jesus standing before Pontius Pilate on a Roman judgment seat; Pilate is washing his hands in a bronze bowl held by a servant, while an angry crowd shouts below. Clean flat textbook style, white background.]
+![A comparison showing Jesus before Caiaphas tearing his robes before Jewish elders on the left, and Jesus before Pontius Pilate washing his hands before a shouting crowd on the right.](images/C12-01-trials-jesus.png)
 
 ## Objective ii: Describe the crucifixion and burial of Jesus
 
@@ -118,7 +118,7 @@ Because it was the Day of Preparation (the day before the Sabbath), the Jews ask
 *   Mary Magdalene and "the other Mary" (the mother of Joses) sat opposite the tomb, watching where He was laid.
 *   **The Guard (Matthew only):** The next day, the chief priests went to Pilate, remembering Jesus said He would rise after three days. They asked Pilate to secure the tomb so disciples couldn't steal the body. Pilate gave them a guard of soldiers, and they sealed the stone.
 
-[IMAGE: A solemn scene depicting the burial of Jesus. The body of Jesus, wrapped in white linen bands, is being gently carried by two bearded men (Joseph of Arimathea and Nicodemus) into a dark cave-like tomb carved into a rocky hillside. A large, heavy, round stone sits on a track beside the entrance, ready to be rolled into place. Two women in modest ancient dress watch quietly from a short distance. Clean flat textbook style, white background, respectful tone.]
+![Joseph of Arimathea and Nicodemus carry the wrapped body of Jesus into a rock-cut tomb with a rolling stone, while two women watch from nearby.](images/C12-02-burial-jesus-scene.png)
 
 ## Objective iv: Recount the statements of Jesus on the cross
 

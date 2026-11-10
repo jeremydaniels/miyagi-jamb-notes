@@ -99,7 +99,7 @@ The vast, open, grassy plains of the Guinea and Sudan savannas dominate the nort
   - **Livestock Rearing:** The open grassland, free from the deadly forest tsetse fly, supported millions of cattle, sheep, and goats. The pastoral Fulani specialized in moving their herds across these plains to find pasture and water.
   - **Crafts and Industries:** The abundance of livestock led to a booming **leatherwork** industry among the Hausa (especially in Kano). Cotton farming gave rise to excellent weaving and dyeing industries (famous indigo dye pits in Kano and Zaria).
 
-[IMAGE: A four-panel illustration showing human activities mapped to geography. Panel 1: Ijo men in a large wooden canoe fishing in a mangrove creek. Panel 2: An Igbo or Yoruba farmer tending to mounds of yams in a cleared patch of rainforest. Panel 3: People in the Jos Plateau tending crops on terraced hillsides. Panel 4: A Fulani herdsman with a stick leading long-horned cattle across flat, dry savanna grass. Clean flat textbook style, white background.]
+![Four panels showing Nigerian geographic livelihoods: mangrove canoe fishing, rainforest yam farming, terraced agriculture on the Jos Plateau, and savanna pastoral cattle herding.](images/A1-02-four-panel-traditional-economic.png)
 
 ## Relationship Between the People and the Environment
 
@@ -166,7 +166,7 @@ As people traded and migrated, ideas moved with them.
 - **Shared Traditions:** Cultural practices often crossed borders. The Yoruba system of **Ifa divination** (consulting an oracle to solve problems) was adopted and adapted by the Edo and by the Igbo (where it is known as *Afa*). 
 - **Linguistic Borrowing:** Languages heavily influenced each other. The Hausa language absorbed many Arabic words due to Islam. In the south, coastal languages borrowed from Portuguese (the first Europeans to arrive in the 1400s), and borderland groups often spoke multiple indigenous languages to facilitate trade.
 
-[IMAGE: A flow diagram or stylized map showing "Forces of Integration in the Nigeria Area prior to 1800". Central map of the area. Arrows point North to South labeled "Cattle, Leather, Natron, Horses". Arrows point South to North labeled "Kola nut, Palm oil, Ivory". Icons of two hands shaking represent "Intermarriage at borderlands". An icon of a crescent moon represents "Spread of Islam via trade routes". An icon of crossed swords represents "Imperial Expansion (e.g., Oyo, Benin)". Clean flat textbook style, white background.]
+![Diagram of Nigerian integration forces prior to 1800 showing north-south trade routes, intermarriage zones, Islamic expansion, and imperial expansion.](images/A1-03-schematic-pre-colonial-integration.png)
 
 ## Key terms
 

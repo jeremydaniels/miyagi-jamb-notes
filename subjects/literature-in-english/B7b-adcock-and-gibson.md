@@ -57,7 +57,7 @@ A speaker receives a telephone call from a firm called "Universal Lotteries". Th
 4. **Conversational language:** The language is everyday speech, which matches the subject of a phone call.
 5. **Enjambment:** One study guide notes that lines run on into each other. **[TO BE COMPLETED: Examples from the text.]**
 
-[IMAGE: A simple flat illustration of an old-style telephone handset beside a shiny prize trophy with a question mark above it, suggesting a promised prize that may be a trick. White background, no text, clean textbook style.]
+![An illustration of a vintage rotary telephone with an off-hook handset next to a golden trophy cup with a question mark floating above it.](images/B7b-01-telephone-handset-beside-trophy.png)
 
 ---
 
@@ -96,7 +96,7 @@ A young woman's lover is killed in a quarry accident when a rock falls on him. S
 3. **Symbol of stone:** Stone links the quarry that killed the man with the headstone that remembers him, and with the woman's numbness.
 4. **Length and rhyme:** One guide says the poem is about 97 lines. **[TO BE COMPLETED: Confirm the exact line count, stanza form and rhyme scheme from the printed text.]**
 
-[IMAGE: A simple flat illustration of a stone quarry with cut grey stone blocks, a mason's hammer and chisel, and a plain unmarked headstone in the foreground. White background, no text, clean textbook style.]
+![An illustration showing a stone quarry with terraced rock faces, cut stone blocks stacked nearby, a mason hammer, chisels, and a plain upright headstone block.](images/B7b-02-stone-quarry-unmarked-headstone.png)
 
 ---
 

@@ -433,7 +433,7 @@ Xylem is made of four kinds of cells:
 
 **Key features to remember about phloem:** mostly **living** cells; sieve tubes have **sieve plates** and **no nucleus**; companion cells have a nucleus; flow can be **in both directions** (up and down); walls are not lignified (except fibres).
 
-[IMAGE: Longitudinal sections of xylem and phloem side by side. Left (xylem, red-brown tones): a xylem vessel made of several cells end to end with the end walls gone, showing ring (annular), spiral and pitted lignin thickening in different parts, and beside it a tracheid with tapering ends and pits. Right (phloem, green tones): a sieve tube made of several cells joined by sieve plates with pores, thin cytoplasm and no nucleus, with a narrow companion cell beside each element containing a nucleus and dense cytoplasm. Below each, a small transverse section. Labels to add: "xylem vessel", "no end walls", "annular thickening", "spiral thickening", "pits", "lignin", "tracheid", "phloem", "sieve tube element", "sieve plate", "pores", "companion cell", "nucleus", "cytoplasm". Clean flat textbook style, white background.]
+![Diagram showing longitudinal and transverse sections of xylem vessels and tracheids alongside phloem sieve tube elements and companion cells.](images/B3b-08-xylem-phloem-longitudinal-section.png)
 
 ## Functions of the xylem and phloem
 

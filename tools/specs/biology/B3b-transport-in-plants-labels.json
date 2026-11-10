@@ -965,5 +965,121 @@
     "L"
    ]
   ]
+ },
+ "B3b-08-xylem-phloem-longitudinal-section": {
+  "labels": [
+   [
+    "xylem vessel",
+    [
+     281,
+     163
+    ],
+    "L"
+   ],
+   [
+    "no end walls",
+    [
+     281,
+     471
+    ],
+    "L"
+   ],
+   [
+    "annular thickening",
+    [
+     163,
+     256
+    ],
+    "L"
+   ],
+   [
+    "spiral thickening",
+    [
+     281,
+     337
+    ],
+    "L"
+   ],
+   [
+    "pits",
+    [
+     281,
+     542
+    ],
+    "L"
+   ],
+   [
+    "lignin",
+    [
+     346,
+     307
+    ],
+    "L"
+   ],
+   [
+    "tracheid",
+    [
+     409,
+     358
+    ],
+    "L"
+   ],
+   [
+    "phloem",
+    [
+     747,
+     102
+    ],
+    "R"
+   ],
+   [
+    "sieve tube element",
+    [
+     762,
+     378
+    ],
+    "R"
+   ],
+   [
+    "sieve plate",
+    [
+     762,
+     496
+    ],
+    "R"
+   ],
+   [
+    "pores",
+    [
+     747,
+     271
+    ],
+    "R"
+   ],
+   [
+    "companion cell",
+    [
+     868,
+     204
+    ],
+    "R"
+   ],
+   [
+    "nucleus",
+    [
+     868,
+     373
+    ],
+    "R"
+   ],
+   [
+    "cytoplasm",
+    [
+     868,
+     440
+    ],
+    "R"
+   ]
+  ]
  }
 }

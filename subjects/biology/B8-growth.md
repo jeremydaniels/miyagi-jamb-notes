@@ -121,7 +121,7 @@ Most organisms (and populations, and the parts of organisms such as leaves and f
 3. **Deceleration (slowing) phase:** growth slows down as the organism approaches its mature size, or as limiting factors (food, space, light) begin to act.
 4. **Stationary (plateau, maturity) phase:** growth stops; the organism has reached its maximum size. The curve becomes flat. In annual plants, this is followed by **senescence** (ageing) and death after seeding, so the dry mass may then fall.
 
-[IMAGE: Line graph with "time" on the horizontal axis and "size (height or dry mass)" on the vertical axis, showing a smooth S-shaped (sigmoid) curve in soft green. Divide the curve with light vertical dashed lines into four regions and label them below the axis: lag phase, log (exponential) phase, deceleration phase, stationary phase. Add a small text arrow pointing to the steepest part labelled "fastest growth". Axis labels: time, size. Clean flat textbook style, white background.]
+![A sigmoid growth curve showing size versus time, divided into lag phase, log exponential phase, deceleration phase, and stationary phase, with fastest growth marked at the steepest point.](images/B8-02-sigmoid-growth-curve-graph.png)
 
 #### Human growth
 
@@ -138,7 +138,7 @@ Different parts of the body grow at different rates. A newborn baby's head is ab
 
 Insects and other **arthropods** have a hard, non-living **exoskeleton** that cannot stretch. They grow by **moulting** (**ecdysis**): the old exoskeleton is shed, the animal quickly swells (by taking in water or air) before the new soft exoskeleton hardens, and then its size stays the same until the next moult. Their growth curve (for length) therefore looks like a **staircase** of steps. (Their dry mass, however, increases more smoothly between moults.)
 
-[IMAGE: Two small line graphs side by side, both with "time" on the horizontal axis and "length" on the vertical axis. Left: human growth curve from birth to 20 years, rising steeply in infancy, then steadily through childhood, with a second steep rise at puberty, then levelling off; label "infancy growth", "adolescent growth spurt", "adult size". Right: a staircase-shaped curve for an insect, with flat steps and sudden rises; label each sudden rise "moult (ecdysis)" and the flat parts "no increase in length (hard exoskeleton)". Titles: human growth curve, insect (stepwise) growth curve. Soft blue and green lines. Clean flat textbook style, white background.]
+![Two graphs comparing continuous human growth with a sigmoidal curve from birth to adulthood against stepwise insect growth with flat intervals and rapid rises during moulting.](images/B8-03-human-vs-insect-growth.png)
 
 #### Growth curve of a germinating seed (dry mass)
 

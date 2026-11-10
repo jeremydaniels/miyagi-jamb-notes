@@ -1,0 +1,10 @@
+[
+ [
+  "B8-02-sigmoid-growth-curve-graph",
+  "Line graph with \"time\" on the horizontal axis and \"size (height or dry mass)\" on the vertical axis, showing a smooth S-shaped (sigmoid) curve in soft green. Divide the curve with light vertical dashed lines into four regions and label them below the axis: lag phase, log (exponential) phase, deceleration phase, stationary phase. Add a small text arrow pointing to the steepest part. Axis labels: time, size."
+ ],
+ [
+  "B8-03-human-vs-insect-growth",
+  "Two small line graphs side by side, both with \"time\" on the horizontal axis and \"length\" on the vertical axis. Left: human growth curve from birth to 20 years, rising steeply in infancy, then steadily through childhood, with a second steep rise at puberty, then levelling off; label \"infancy growth\", \"adolescent growth spurt\", \"adult size\". Right: a staircase-shaped curve for an insect, with flat steps and sudden rises; label each sudden rise \"moult (ecdysis)\" and the flat parts \"no increase in length (hard exoskeleton)\". Titles: human growth curve, insect (stepwise) growth curve. Soft blue and green lines."
+ ]
+]

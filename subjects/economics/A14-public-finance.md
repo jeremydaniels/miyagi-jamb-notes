@@ -238,7 +238,7 @@ A budget is a deficit when the proposed expenditure is **greater than** the esti
 * **Effect (Stimulating the Economy):** A deficit budget is an expansionary fiscal tool used to cure unemployment and pull an economy out of a recession. By pumping borrowed money into public projects, it boosts aggregate demand.
 * **Effect (Inflation Risk):** If the deficit is financed by printing more money (via the Central Bank) or heavy borrowing during normal times, it can cause severe inflation and increase the national debt burden.
 
-[IMAGE: A simple diagram showing the three types of budgets using scales or balances. Left scale: Revenue side is heavier than Expenditure (labeled "Budget Surplus - Fights Inflation"). Middle scale: Revenue and Expenditure are level (labeled "Balanced Budget - Neutral"). Right scale: Expenditure side is heavier than Revenue (labeled "Budget Deficit - Fights Recession but increases Debt"). Clean flat textbook style, white background.]
+![Three balance scales illustrating budget types with one tilted to the left, the middle balanced evenly, and the right scale tilted to the right.](images/A14-02-budget-types-balance-scale.png)
 
 ### Public Debts
 When a government runs a deficit budget, it must borrow to finance the gap. **Public debt** (or national debt) is the total amount of money owed by the government to individuals, institutions, and other countries.

@@ -46,7 +46,7 @@ Following Peter's sermon on the day of Pentecost, about three thousand souls wer
 4. **Daily Fellowship:** Day by day, they attended the temple together. They broke bread in their homes, sharing food with glad and generous hearts, praising God.
 5. **Favour and Growth:** They had favour with all the people, and the Lord added to their number day by day those who were being saved.
 
-[IMAGE: A vibrant ancient Jerusalem street scene showing early Christians in fellowship. In the foreground, a wealthy believer is handing a bag of coins to an apostle. In the background, small groups of believers are happily sharing bread and a meal at a wooden table outside a stone house. The atmosphere is joyful and peaceful. Labels to add later: "Believers sharing meals", "Apostles receiving funds", "Distributing to the needy". Clean flat textbook style, white background.]
+![Early Christians fellowship outside a stone house in ancient Jerusalem, with a believer offering a bag of coins in the foreground while others share bread at a table.](images/C16-01-early-church-fellowship-jerusalem.png)
 
 ### Absolute Unity and the Example of Barnabas (Acts 4:32-37)
 
@@ -116,7 +116,7 @@ The chosen men were brought to the apostles, who prayed and laid their hands on 
 | **Hypocrisy and Lying** | Ananias and Sapphira | Faking complete generosity; lying to the Holy Spirit by hiding part of the money. | Divine punishment (death) pronounced by Peter. Resulted in great fear, reverence, and purity in the church. |
 | **Discrimination / Inequality** | Hellenists vs. Hebrews | Hellenist widows were neglected in the daily food distribution. | Appointment of seven qualified deacons to manage welfare fairly. Resulted in church growth and the apostles having time to preach. |
 
-[IMAGE: A split-panel illustration. Left panel: Peter standing with a stern face pointing at Ananias, who has fallen to the ground dead with coins spilling from a pouch, while bystanders look on in shock. Right panel: Seven diverse men standing in a line; the apostles are laying hands on the head of Stephen, who is kneeling. Labels to add later: "Deceit: Ananias falls dead", "Solution: The Seven Deacons appointed". Clean flat textbook style, white background.]
+![Split panel illustration of Peter pointing at fallen Ananias with spilled coins, and apostles laying hands on kneeling Stephen before seven chosen men.](images/C16-02-ananias-judgment-deacons-appointment.png)
 
 ## How communal living helped the growth of the Early Church
 

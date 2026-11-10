@@ -433,7 +433,7 @@ Xylem is made of four kinds of cells:
 
 **Key features to remember about phloem:** mostly **living** cells; sieve tubes have **sieve plates** and **no nucleus**; companion cells have a nucleus; flow can be **in both directions** (up and down); walls are not lignified (except fibres).
 
-![Diagram showing longitudinal and transverse sections of xylem vessels and tracheids alongside phloem sieve tube elements and companion cells.](images/B3b-08-xylem-phloem-longitudinal-section.png)
+[IMAGE: Longitudinal sections of xylem and phloem side by side. Left (xylem, red-brown tones): a xylem vessel made of several cells end to end with the end walls gone, showing ring (annular), spiral and pitted lignin thickening in different parts, and beside it a tracheid with tapering ends and pits. Right (phloem, green tones): a sieve tube made of several cells joined by sieve plates with pores, thin cytoplasm and no nucleus, with a narrow companion cell beside each element containing a nucleus and dense cytoplasm. Below each, a small transverse section. Labels to add: "xylem vessel", "no end walls", "annular thickening", "spiral thickening", "pits", "lignin", "tracheid", "phloem", "sieve tube element", "sieve plate", "pores", "companion cell", "nucleus", "cytoplasm". Clean flat textbook style, white background.]
 
 ## Functions of the xylem and phloem
 
@@ -710,7 +710,7 @@ A **potometer** is an apparatus that measures the **rate of water uptake** by a 
 
 **Weighing method:** another way to measure water loss is to weigh a potted plant (with the pot and soil sealed in polythene) at intervals. The loss of mass is mainly the water lost by transpiration.
 
-![Diagram of a bubble potometer setup showing a leafy shoot in a flask, a capillary tube with scale and bubble, a reservoir with tap, and a beaker.](images/B3b-13-bubble-potometer-apparatus.png)
+[IMAGE: A bubble potometer set-up. A leafy shoot fitted through a rubber bung into a water-filled glass tube or flask, sealed with petroleum jelly. The tube connects to a horizontal capillary tube with a millimetre scale beside it and an air bubble in it, with a small arrow showing the bubble moving towards the shoot. A water reservoir with a tap joins the tube. The open end of the capillary dips into a beaker of water. Labels to add: "leafy shoot", "airtight seal (petroleum jelly)", "rubber bung", "water", "reservoir", "tap", "capillary tube", "scale", "air bubble", "direction of bubble movement", "beaker of water". Clean flat textbook style, white background.]
 
 ### Guttation
 

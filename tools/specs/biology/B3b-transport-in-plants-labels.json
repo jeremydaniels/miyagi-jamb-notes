@@ -18,6 +18,30 @@
     "L"
    ],
    [
+    "start",
+    [
+     97,
+     512
+    ],
+    "L"
+   ],
+   [
+    "after 30 minutes",
+    [
+     268,
+     512
+    ],
+    "L"
+   ],
+   [
+    "after some hours",
+    [
+     440,
+     512
+    ],
+    "L"
+   ],
+   [
     "cotton wool soaked in ammonia",
     [
      598,
@@ -49,26 +73,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "start",
-    97,
-    624
-   ],
-   [
-    "after 30\nminutes",
-    266,
-    624
-   ],
-   [
-    "after some\nhours",
-    436,
-    624
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B3b-02-osmosis-plant-animal-cells": {},
  "B3b-03-potato-osmometer-experiment": {
@@ -148,73 +153,78 @@
  "B3b-04-onion-epidermis-cell-plasmolysis": {
   "labels": [
    [
+    "1. in water: turgid",
+    [
+     261,
+     261
+    ],
+    "L"
+   ],
+   [
+    "2. in strong sugar solution: plasmolysed",
+    [
+     760,
+     261
+    ],
+    "R"
+   ],
+   [
+    "3. returned to water: deplasmolysis",
+    [
+     512,
+     762
+    ],
+    "R"
+   ],
+   [
     "cell wall",
     [
-     522,
-     76
+     264,
+     208
     ],
-    "T"
+    "L"
    ],
    [
     "cell membrane",
     [
-     278,
-     497
+     689,
+     93
     ],
-    "L"
+    "R"
    ],
    [
     "cytoplasm",
     [
-     168,
-     264
+     677,
+     231
     ],
-    "L"
+    "R"
    ],
    [
     "vacuole with coloured cell sap",
     [
-     240,
-     189
+     670,
+     163
     ],
-    "T"
+    "R"
    ],
    [
     "nucleus",
     [
-     171,
-     179
+     632,
+     215
     ],
-    "L"
+    "R"
    ],
    [
     "space filled with outside solution",
     [
-     230,
-     428
+     658,
+     81
     ],
-    "L"
+    "R"
    ]
-  ],
-  "captions": [
-   [
-    "1. in water: turgid",
-    511,
-    335
-   ],
-   [
-    "2. in strong sugar solution: plasmolysed",
-    511,
-    652
-   ],
-   [
-    "3. returned to water: deplasmolysis",
-    511,
-    960
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B3b-05-dicot-root-transverse-section": {
   "labels": [
@@ -289,96 +299,96 @@
    [
     "epidermis",
     [
-     670,
-     445
+     741,
+     369
     ],
     "R"
    ],
    [
     "cuticle",
     [
-     632,
-     454
+     760,
+     335
     ],
     "R"
    ],
    [
     "collenchyma",
     [
-     768,
-     419
+     742,
+     410
     ],
     "R"
    ],
    [
     "cortex",
     [
-     880,
-     471
+     658,
+     476
     ],
     "R"
    ],
    [
     "vascular bundle",
     [
-     311,
-     143
+     414,
+     240
     ],
     "L"
    ],
    [
     "phloem",
     [
-     675,
-     604
+     774,
+     596
     ],
     "R"
    ],
    [
     "cambium",
     [
-     762,
-     622
+     773,
+     654
     ],
     "R"
    ],
    [
     "xylem",
     [
-     788,
-     686
+     781,
+     765
     ],
     "R"
    ],
    [
     "xylem vessel",
     [
-     742,
-     737
+     839,
+     695
     ],
     "R"
    ],
    [
     "fibres",
     [
-     696,
-     512
+     774,
+     523
     ],
     "R"
    ],
    [
     "medullary ray",
     [
-     716,
-     834
+     628,
+     652
     ],
     "R"
    ],
    [
     "pith",
     [
-     911,
-     890
+     794,
+     883
     ],
     "R"
    ]
@@ -439,122 +449,6 @@
     [
      778,
      361
-    ],
-    "R"
-   ]
-  ]
- },
- "B3b-08-xylem-phloem-longitudinal-section": {
-  "labels": [
-   [
-    "xylem vessel",
-    [
-     281,
-     163
-    ],
-    "L"
-   ],
-   [
-    "no end walls",
-    [
-     281,
-     471
-    ],
-    "L"
-   ],
-   [
-    "annular thickening",
-    [
-     163,
-     256
-    ],
-    "L"
-   ],
-   [
-    "spiral thickening",
-    [
-     281,
-     337
-    ],
-    "L"
-   ],
-   [
-    "pits",
-    [
-     281,
-     542
-    ],
-    "L"
-   ],
-   [
-    "lignin",
-    [
-     346,
-     307
-    ],
-    "L"
-   ],
-   [
-    "tracheid",
-    [
-     409,
-     358
-    ],
-    "L"
-   ],
-   [
-    "phloem",
-    [
-     747,
-     102
-    ],
-    "R"
-   ],
-   [
-    "sieve tube element",
-    [
-     762,
-     378
-    ],
-    "R"
-   ],
-   [
-    "sieve plate",
-    [
-     762,
-     496
-    ],
-    "R"
-   ],
-   [
-    "pores",
-    [
-     747,
-     271
-    ],
-    "R"
-   ],
-   [
-    "companion cell",
-    [
-     868,
-     204
-    ],
-    "R"
-   ],
-   [
-    "nucleus",
-    [
-     868,
-     373
-    ],
-    "R"
-   ],
-   [
-    "cytoplasm",
-    [
-     868,
-     440
     ],
     "R"
    ]
@@ -1069,91 +963,6 @@
      764
     ],
     "L"
-   ]
-  ]
- },
- "B3b-13-bubble-potometer-apparatus": {
-  "caption_below": "Direction of bubble movement.",
-  "labels": [
-   [
-    "leafy shoot",
-    [
-     240,
-     223
-    ],
-    "L"
-   ],
-   [
-    "airtight seal (petroleum jelly)",
-    [
-     280,
-     538
-    ],
-    "L"
-   ],
-   [
-    "rubber bung",
-    [
-     280,
-     591
-    ],
-    "L"
-   ],
-   [
-    "water",
-    [
-     238,
-     762
-    ],
-    "L"
-   ],
-   [
-    "reservoir",
-    [
-     626,
-     294
-    ],
-    "R"
-   ],
-   [
-    "tap",
-    [
-     652,
-     437
-    ],
-    "R"
-   ],
-   [
-    "capillary tube",
-    [
-     719,
-     658
-    ],
-    "R"
-   ],
-   [
-    "scale",
-    [
-     527,
-     642
-    ],
-    "R"
-   ],
-   [
-    "air bubble",
-    [
-     628,
-     647
-    ],
-    "R"
-   ],
-   [
-    "beaker of water",
-    [
-     875,
-     805
-    ],
-    "R"
    ]
   ]
  }

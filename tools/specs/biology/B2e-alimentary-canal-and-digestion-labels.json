@@ -236,48 +236,48 @@
    [
     "bolus of food",
     [
-     506,
-     604
+     493,
+     496
     ],
     "L"
    ],
    [
     "circular muscle contracted (behind)",
     [
-     424,
-     343
+     555,
+     247
     ],
-    "L"
+    "R"
    ],
    [
     "circular muscle relaxed (in front)",
     [
-     399,
-     716
+     619,
+     528
     ],
-    "L"
+    "R"
    ],
    [
     "longitudinal muscle",
     [
-     380,
-     419
+     275,
+     480
     ],
     "L"
    ],
    [
     "direction of movement",
     [
-     512,
-     276
+     754,
+     677
     ],
     "R"
    ],
    [
     "mucus",
     [
-     456,
-     286
+     388,
+     760
     ],
     "L"
    ]
@@ -562,7 +562,7 @@
     "R"
    ],
    [
-    "cloudy (control); water bath at 37 \u00b0C; thermometer",
+    "cloudy (control); water bath at 37 °C; thermometer",
     [
      831,
      358
@@ -649,104 +649,6 @@
      369
     ],
     "R"
-   ]
-  ]
- },
- "B2e-06-hepatobiliary-pancreatic-ducts": {
-  "regions": [
-   "liver",
-   "pancreas",
-   "duodenum",
-   "stomach"
-  ],
-  "labels": [
-   [
-    "liver",
-    [
-     380,
-     223
-    ],
-    "L"
-   ],
-   [
-    "hepatic duct",
-    [
-     483,
-     369
-    ],
-    "L"
-   ],
-   [
-    "gall bladder",
-    [
-     335,
-     494
-    ],
-    "L"
-   ],
-   [
-    "cystic duct",
-    [
-     445,
-     437
-    ],
-    "L"
-   ],
-   [
-    "bile duct",
-    [
-     490,
-     493
-    ],
-    "L"
-   ],
-   [
-    "pancreas",
-    [
-     596,
-     792
-    ],
-    "R"
-   ],
-   [
-    "pancreatic duct",
-    [
-     636,
-     733
-    ],
-    "R"
-   ],
-   [
-    "islets of Langerhans",
-    [
-     513,
-     785
-    ],
-    "R"
-   ],
-   [
-    "duodenum",
-    [
-     349,
-     778
-    ],
-    "L"
-   ],
-   [
-    "stomach",
-    [
-     724,
-     564
-    ],
-    "R"
-   ],
-   [
-    "pyloric sphincter",
-    [
-     487,
-     605
-    ],
-    "L"
    ]
   ]
  }

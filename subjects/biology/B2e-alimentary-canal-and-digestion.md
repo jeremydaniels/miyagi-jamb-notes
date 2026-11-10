@@ -333,7 +333,7 @@ It is a **dual (mixed) gland**:
 - **Pancreatic lipase (steapsin):** fats → fatty acids and glycerol.
 - (Also nucleases, which digest nucleic acids.)
 
-![Diagram showing the liver, gallbladder, stomach, pancreas, and duodenum along with their associated duct systems in a front view.](images/B2e-06-hepatobiliary-pancreatic-ducts.png)
+[IMAGE: Diagram of the liver, gall bladder, pancreas and duodenum and their ducts, front view. Show the large lobed liver at the top with the hepatic duct coming out, the green gall bladder below it joined by the cystic duct, the two ducts joining to form the bile duct, the pancreas lying horizontally below with the pancreatic duct running through it, the bile duct and pancreatic duct joining and opening into the C-shaped duodenum, the stomach and pyloric sphincter on the left of the duodenum, and a few small islets of Langerhans shown as dots in the pancreas. Labels: liver, hepatic duct, gall bladder, cystic duct, bile duct, pancreas, pancreatic duct, islets of Langerhans, duodenum, stomach, pyloric sphincter, hepatic portal vein. Clean flat textbook style, white background.]
 
 ### Summary: parts of the alimentary canal and their functions
 

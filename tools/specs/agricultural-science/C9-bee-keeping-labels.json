@@ -1,51 +1,42 @@
 {
  "C9-01-honeybee-castes-morphological-comparison": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Queen (fertile female, egg layer)",
-    [
-     204,
-     528
-    ],
-    "L"
+    "Queen (fertile\nfemale, egg\nlayer)",
+    204,
+    767
    ],
    [
-    "Drone (male, mates with queen)",
-    [
-     528,
-     528
-    ],
-    "R"
+    "Drone (male,\nmates with\nqueen)",
+    529,
+    720
    ],
    [
-    "Worker (sterile female, gathers food and builds comb)",
-    [
-     833,
-     537
-    ],
-    "R"
+    "Worker\n(sterile\nfemale,\ngathers food\nand builds\ncomb)",
+    834,
+    699
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C9-02-traditional-versus-modern-beehive": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Traditional woven basket hive (Fixed comb)",
-    [
-     274,
-     527
-    ],
-    "L"
+    "Traditional woven basket\nhive (Fixed comb)",
+    286,
+    914
    ],
    [
-    "Modern Kenyan Top-Bar hive (Movable comb)",
-    [
-     786,
-     573
-    ],
-    "R"
+    "Modern Kenyan Top-Bar\nhive (Movable comb)",
+    754,
+    912
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C9-03-beekeeper-protective-equipment": {
   "labels": [

@@ -1,0 +1,18 @@
+[
+ [
+  "A6-01-friction-forces-block",
+  "A rectangular block on a horizontal table. Four labelled arrows show the forces acting on it: Weight (W) pointing downwards from the centre, Normal Reaction (R) pointing vertically upwards, an Applied Force (P) pointing to the right, and Frictional Force (F) pointing to the left along the boundary between the block and the table. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A6-02-static-kinetic-friction-graph",
+  "A line graph of Frictional Force (y-axis) against Applied Force (x-axis). The graph starts at the origin and rises as a straight, sloping line at a 45-degree angle. At the very top of this peak, it is. After the peak, the line drops slightly and then continues as a horizontal straight line to the right,."
+ ],
+ [
+  "A6-03-inclined-plane-resolved-forces",
+  "A block of mass m resting on an inclined plane at an angle theta to the horizontal. Arrows show the forces: Weight (mg) acting straight down, Normal Reaction (R) acting perpendicular to the surface upwards, the weight component down the slope (mg sin theta), and Friction (F) acting up the slope."
+ ],
+ [
+  "A6-04-terminal-velocity-free-body",
+  "A spherical object falling through a fluid. Arrows show Weight (W) acting downwards from the centre, while Upthrust (U) and Viscous Drag (F) point vertically upwards from the top. A side note reads \"At terminal velocity: W = U + F, Acceleration = 0\"."
+ ]
+]

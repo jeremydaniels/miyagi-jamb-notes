@@ -36,7 +36,7 @@ JAMB frequently tests your knowledge of the laws governing solid friction. They 
 4. **Proportional to normal reaction:** The frictional force ($F$) is directly proportional to the perpendicular force pressing the surfaces together, known as the normal reaction ($R$).
 5. **Dynamic friction is less than limiting friction:** It takes more force to start moving a resting object than it takes to keep it moving.
 
-[IMAGE: A rectangular block on a horizontal table. Four labelled arrows show the forces acting on it: Weight (W) pointing downwards from the centre, Normal Reaction (R) pointing vertically upwards, an Applied Force (P) pointing to the right, and Frictional Force (F) pointing to the left along the boundary between the block and the table. Clean flat textbook illustration, white background.]
+![A diagram of a rectangular block on a horizontal table showing weight acting downward, normal reaction upward, applied force to the right, and friction to the left.](images/A6-01-friction-forces-block.png)
 
 ---
 
@@ -67,7 +67,7 @@ Dynamic friction is divided into two types:
 | **Maximum value** | Reaches a peak called *limiting friction* | Always strictly less than the limiting static friction |
 | **Coefficient** | Higher coefficient ($\mu_s$) | Lower coefficient ($\mu_k$) |
 
-[IMAGE: A line graph of Frictional Force (y-axis) against Applied Force (x-axis). The graph starts at the origin and rises as a straight, sloping line at a 45-degree angle (labelled "Static Friction: F = Applied Force"). At the very top of this peak, it is labelled "Limiting Friction". After the peak, the line drops slightly and then continues as a horizontal straight line to the right, labelled "Dynamic (Kinetic) Friction". Clean flat textbook style, white background.]
+![Graph of frictional force versus applied force showing static friction rising linearly to limiting friction, followed by a slight drop to a constant dynamic kinetic friction level.](images/A6-02-static-kinetic-friction-graph.png)
 
 ---
 
@@ -112,7 +112,7 @@ $$\mu = \frac{F}{R} = \frac{mg \sin \theta}{mg \cos \theta} = \tan \theta$$
 
 **Textbook variation:** You may see the term **angle of friction**. The angle of friction is the angle between the normal reaction and the resultant of the normal reaction and the frictional force. Numerically, the angle of friction is exactly equal to the angle of repose. $\mu = \tan \theta$ applies to both.
 
-[IMAGE: A block of mass m resting on an inclined plane at an angle theta to the horizontal. Arrows show the forces: Weight (mg) acting straight down, Normal Reaction (R) acting perpendicular to the surface upwards, the weight component down the slope (mg sin theta), and Friction (F) acting up the slope. Clean flat textbook style, white background.]
+![A block of mass m on an inclined plane showing normal reaction, weight, down-slope weight component, and upward friction.](images/A6-03-inclined-plane-resolved-forces.png)
 
 ### Worked Examples on Coefficient of Friction
 
@@ -199,7 +199,7 @@ $$W = U + F$$
 
 At this point, the net force on the falling object is zero. According to Newton's First Law, its acceleration becomes zero, and it falls at a constant, maximum speed. This constant speed is called the **terminal velocity**.
 
-[IMAGE: A spherical object falling through a fluid. Arrows show Weight (W) acting downwards from the centre, while Upthrust (U) and Viscous Drag (F) point vertically upwards from the top. A side note reads "At terminal velocity: W = U + F, Acceleration = 0". Clean flat textbook style, white background.]
+![Diagram of a spherical object falling in fluid, showing downward weight balanced by upward upthrust and viscous drag, with terminal velocity formulas beside it.](images/A6-04-terminal-velocity-free-body.png)
 
 ---
 

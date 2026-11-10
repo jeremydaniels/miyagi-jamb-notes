@@ -53,7 +53,7 @@ The word "omniscient" means "all-knowing". This is a specific type of third-pers
 *   **Effect:** The narrator can jump from one character's mind to another's (sometimes called "head-hopping"). The reader gets a "God-like" overview of everything happening.
 *   **Example (made up for teaching):** *"Amina stared at the test paper in panic. Across the room, Mr. Ade noticed her shaking and felt sorry for her, wishing he had made the questions easier."* (Here, the narrator knows both Amina's and Mr. Ade's thoughts).
 
-[IMAGE: A diagram illustrating the three main Points of View. Top left: First Person - a stick figure with a speech bubble saying "I saw the dog." Top right: Second Person - a hand pointing out at the viewer, with text saying "You saw the dog." Bottom center: Third Person Omniscient - a giant eye floating in the sky looking down at several different stick figures with visible thought bubbles above all their heads, with text saying "He was sad, but she was happy." Clean flat textbook illustration, white background.]
+![Diagram showing three points of view with a person speaking, a pointing hand, and a large eye watching figures with emotion thought bubbles.](images/A2b-01-points-view-illustrated.png)
 
 ### 5. Stream of Consciousness
 Stream of consciousness is a narrative technique that tries to capture the continuous, unfiltered flow of a character's thoughts and feelings as they happen.

@@ -2,16 +2,12 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**103 images placed.** 0 placeholders are still in the notes (listed at the end).
+**101 images placed.** 2 placeholders are still in the notes (listed at the end).
 
 **All images in this subject need teacher review** (religious scenes drawn under the rules in IMAGES-PLAN.md).
 
 
 ## A1-sovereignty-of-god
-
-![A six panel illustration showing the biblical creation days, including light, sky and waters, land and plants, celestial bodies, birds and fish, and land animals with humanity.](A1-01-six-days-creation-panels.png)
-
-*A six panel illustration showing the biblical creation days, including light, sky and waters, land and plants, celestial bodies, birds and fish, and land animals with humanity.* - **Needs teacher review**
 
 ![An ancient Middle Eastern potter shapes clay on a spinning wheel while finished pottery sits nearby and Jeremiah stands watching in simple robes.](A1-02-potter-at-wheel-biblical.png)
 
@@ -362,10 +358,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## C5-the-parables
 
-![A four-panel illustration depicting the Parable of the Sower showing a seed eaten by a bird on a path, a withered shoot on rocky soil, thorns choking a plant, and healthy wheat.](C5-01-parable-sower-panels.png)
-
-*A four-panel illustration depicting the Parable of the Sower showing a seed eaten by a bird on a path, a withered shoot on rocky soil, thorns choking a plant, and healthy wheat.* - **Needs teacher review**
-
 ![A father runs with open arms toward his kneeling, repentant son dressed in rags, with servants holding a robe and ring near a house in the background.](C5-02-return-prodigal-son.png)
 
 *A father runs with open arms toward his kneeling, repentant son dressed in rags, with servants holding a robe and ring near a house in the background.* - **Needs teacher review**
@@ -574,3 +566,8 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A split illustration showing a citizen paying taxes at a desk on the left, and a congregation praying for Nigeria in church on the right.* - **Needs teacher review**
 
+
+## Not made (placeholder still in the notes)
+
+- `A1-sovereignty-of-god`: A clean, flat textbook illustration showing the six days of creation in a grid of six panels. Panel 1: A striking contrast of bright golden li...
+- `C5-the-parables`: A four-panel illustration showing the Parable of the Sower. Panel 1: A seed on a hard dirt path being eaten by a crow. Panel 2: A small green...

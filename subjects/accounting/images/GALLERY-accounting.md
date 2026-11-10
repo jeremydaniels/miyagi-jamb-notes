@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**35 images placed.** 1 placeholders are still in the notes (listed at the end).
+**34 images placed.** 2 placeholders are still in the notes (listed at the end).
 
 
 ## A1-nature-and-significance-of-bookkeeping-and-accounting
@@ -110,10 +110,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## A18-information-technology-in-accounting
 
-![A split comparison contrasting a cluttered wooden desk with paper ledgers, receipts, and an adding machine against a modern clean desk with a computer dashboard and smartphone.](A18-01-accounting-methods-comparison-scene.png)
-
-*A split comparison contrasting a cluttered wooden desk with paper ledgers, receipts, and an adding machine against a modern clean desk with a computer dashboard and smartphone.*
-
 ![Diagram of blockchain in accounting showing three connected blocks with transactions, linked computers forming a shared distributed ledger, and an auditor verifying the chain.](A18-03-blockchain-schematic.png)
 
 *Diagram of blockchain in accounting showing three connected blocks with transactions, linked computers forming a shared distributed ledger, and an auditor verifying the chain.*
@@ -201,4 +197,5 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
+- `A18-information-technology-in-accounting`: Split illustration contrasting manual and computerized accounting. Left half: a wooden desk with huge physical ledger books, a calculator, a p...
 - `A18-information-technology-in-accounting`: A flowchart showing the data processing cycle in six steps connected by arrows in a continuous loop. 1. Data Collection (icons of paper receip...

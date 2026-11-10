@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**152 images placed.** 2 placeholders are still in the notes (listed at the end).
+**150 images placed.** 4 placeholders are still in the notes (listed at the end).
 
 
 ## A1-measurements-and-units
@@ -232,10 +232,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram showing standing wave displacement patterns in an open pipe for the fundamental frequency, second harmonic, and third harmonic, with labeled nodes, antinodes, and wavelengths.](A22-05-open-pipe-resonance-harmonics.png)
 
 *Diagram showing standing wave displacement patterns in an open pipe for the fundamental frequency, second harmonic, and third harmonic, with labeled nodes, antinodes, and wavelengths.*
-
-![Diagram of a resonance tube apparatus showing a glass tube with water, a vibrating tuning fork above it, a ruler, and a connected water reservoir.](A22-06-resonance-tube-apparatus.png)
-
-*Diagram of a resonance tube apparatus showing a glass tube with water, a vibrating tuning fork above it, a ruler, and a connected water reservoir.*
 
 
 ## A23-light-energy
@@ -556,10 +552,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram comparing nuclear fission of uranium into barium, krypton, and neutrons on the left with nuclear fusion of deuterium and tritium into helium-4 and a neutron on the right.*
 
-![A diagram of an electron diffraction tube showing a heated cathode, anode, thin crystal target, and concentric diffraction rings forming on a fluorescent screen.](A38b-03-electron-diffraction-apparatus-schematic.png)
-
-*A diagram of an electron diffraction tube showing a heated cathode, anode, thin crystal target, and concentric diffraction rings forming on a fluorescent screen.*
-
 
 ## A39-introductory-electronics
 
@@ -759,5 +751,7 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
+- `A22-characteristics-of-sound-waves`: A resonance tube apparatus. A tall glass tube containing water, with a meter rule beside it. A tuning fork is vibrating just above the open to...
 - `A25b-refraction-glass-prism-lenses`: Two ray diagrams side by side. Left: A convex lens with an upright arrow object placed beyond 2F. A ray parallel to the axis passes through F...
 - `A34-force-on-current-carrying-conductor`: A diagram showing a left hand with the thumb, first finger, and second finger held at 90 degrees to each other. The thumb is pointing up, labe...
+- `A38b-radioactivity-and-modern-physics`: Diagram showing an electron diffraction experiment. A heated filament (cathode) emits electrons which are accelerated by an anode into a fine...

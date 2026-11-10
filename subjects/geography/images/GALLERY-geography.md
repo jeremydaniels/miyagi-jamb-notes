@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**66 images placed.** 1 placeholders are still in the notes (listed at the end).
+**64 images placed.** 3 placeholders are still in the notes (listed at the end).
 
 
 ## A1-maps
@@ -203,10 +203,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A four-panel diagram showing the stages of ox-bow lake formation: meandering river erosion, narrowing neck, cutoff during flood, and isolated crescent-shaped ox-bow lake.*
 
-![A split educational diagram showing wind landforms: an erosional rock pedestal eroded by blowing sand on the left, and a crescent-shaped barchan dune on the right.](B4-04-desert-wind-landforms.png)
-
-*A split educational diagram showing wind landforms: an erosional rock pedestal eroded by blowing sand on the left, and a crescent-shaped barchan dune on the right.*
-
 
 ## B5-water-bodies
 
@@ -221,10 +217,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Cross section of a waterfall showing hard rock over undercut soft rock, creating an overhang as water plunges into a deep plunge pool with swirling rocks.](B5-03-waterfall-erosion-cross-section.png)
 
 *Cross section of a waterfall showing hard rock over undercut soft rock, creating an overhang as water plunges into a deep plunge pool with swirling rocks.*
-
-![Four-step diagram illustrating ox-bow lake formation from a meandering river, ending with sediment deposition sealing off an abandoned meander loop alongside a straightened channel.](B5-04-oxbow-lake-sequential.png)
-
-*Four-step diagram illustrating ox-bow lake formation from a meandering river, ending with sediment deposition sealing off an abandoned meander loop alongside a straightened channel.*
 
 
 ## B6-weather-and-climate
@@ -343,4 +335,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 ## Not made (placeholder still in the notes)
 
+- `B4-denudation-processes`: A split diagram of wind landforms. On the left, an erosional Rock Pedestal: a large rounded rock resting on a very thin, severely eroded colum...
+- `B5-water-bodies`: Four small sequential diagrams showing the formation of an ox-bow lake. 1: A river flowing in a wide horseshoe loop (meander) with arrows show...
 - `D2-economic-and-human-geography`: Map of Nigeria showing the distribution of major cash crops. Regions shaded or symbolized: Cocoa in the South-West, Oil palm in the South-East...

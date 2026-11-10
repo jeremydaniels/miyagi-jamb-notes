@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**68 images placed.** 0 placeholders are still in the notes (listed at the end).
+**67 images placed.** 1 placeholders are still in the notes (listed at the end).
 
 
 ## A1-separation-of-mixtures
@@ -103,10 +103,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 
 ## A14c-nitrogen-and-carbon
-
-![A laboratory apparatus diagram showing the preparation and collection of nitrogen gas by heating a chemical mixture in a flask and collecting gas over water.](A14c-01-nitrogen-gas-laboratory-preparation.png)
-
-*A laboratory apparatus diagram showing the preparation and collection of nitrogen gas by heating a chemical mixture in a flask and collecting gas over water.*
 
 ![Flowchart of the Haber Process showing nitrogen and hydrogen entering a compressor, passing through a catalyzed reactor to a condenser, yielding liquid ammonia and recycling unreacted gases.](A14c-02-haber-process-industrial-flowchart.png)
 
@@ -345,3 +341,7 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *A dropper dispensing purple potassium permanganate solution into a clamped test tube containing a clear liquid solution.*
 
+
+## Not made (placeholder still in the notes)
+
+- `A14c-nitrogen-and-carbon`: A laboratory setup showing a round-bottom flask containing a mixture of ammonium chloride and sodium nitrite solutions, heated with a Bunsen b...

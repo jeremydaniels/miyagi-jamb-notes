@@ -2,7 +2,7 @@
 
 Every image placed in the notes, grouped by notes file. Tap an image to enlarge. The caption under each image is its alt text.
 
-**108 images placed.** 0 placeholders are still in the notes (listed at the end).
+**104 images placed.** 4 placeholders are still in the notes (listed at the end).
 
 
 ## A1-meaning-and-scope-of-agriculture
@@ -58,10 +58,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![An illustration showing four vegetative planting materials: cassava stem cuttings, a sprouting yam sett, a trimmed plantain sucker with corm, and a pineapple crown.](A5-01-vegetative-planting-materials.png)
 
 *An illustration showing four vegetative planting materials: cassava stem cuttings, a sprouting yam sett, a trimmed plantain sucker with corm, and a pineapple crown.*
-
-![Textbook illustration of a farmer wearing personal protective equipment including overalls, boots, gloves, mask, and goggles, spraying crops with a knapsack sprayer.](A5-02-farmer-protective-agrochemical-gear.png)
-
-*Textbook illustration of a farmer wearing personal protective equipment including overalls, boots, gloves, mask, and goggles, spraying crops with a knapsack sprayer.*
 
 
 ## A6-history-of-agricultural-development
@@ -240,10 +236,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![Diagram comparing plant gametogenesis showing anther cross section with a pollen grain containing two nuclei beside an ovule containing an eight-nucleate embryo sac.](B6-01-gametogenesis-floral-cross-section.png)
 
 *Diagram comparing plant gametogenesis showing anther cross section with a pollen grain containing two nuclei beside an ovule containing an eight-nucleate embryo sac.*
-
-![Diagram showing double fertilization in a flower carpel, with a pollen tube growing into the ovule and sperm nuclei reaching the egg cell and polar nuclei.](B6-02-double-fertilization-process.png)
-
-*Diagram showing double fertilization in a flower carpel, with a pollen tube growing into the ovule and sperm nuclei reaching the egg cell and polar nuclei.*
 
 ![A three-step sequence showing flower fertilization, ovary expansion into a developing seed with an embryo, and a cross section of a mature fruit with seeds.](B6-03-flower-fruit-development.png)
 
@@ -508,10 +500,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Illustration of the rear view of a modern farm tractor showing the three-point linkage system, power take-off shaft, and drawbar with hole.*
 
-![A side-by-side comparison diagram showing a disc plough with three concave circular discs on the left and a mouldboard plough with share and mouldboard on the right.](E3-02-disc-mouldboard-ploughs.png)
-
-*A side-by-side comparison diagram showing a disc plough with three concave circular discs on the left and a mouldboard plough with share and mouldboard on the right.*
-
 
 ## E4-mechanization-and-sources-of-farm-power
 
@@ -533,10 +521,6 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 ![An illustration of a traditional yam barn structure with live wooden poles supporting leafy shade, horizontal crossbars, and individual yam tubers tied to the frame.](E5-02-traditional-yam-barn-structure.png)
 
 *An illustration of a traditional yam barn structure with live wooden poles supporting leafy shade, horizontal crossbars, and individual yam tubers tied to the frame.*
-
-![A wooden maize crib raised on stilt legs with conical rat guards, wire mesh walls filled with corn cobs, and a corrugated iron roof.](E5-03-maize-storage-crib.png)
-
-*A wooden maize crib raised on stilt legs with conical rat guards, wire mesh walls filled with corn cobs, and a corrugated iron roof.*
 
 ![A tall cylindrical grain silo with a conical roof, conical bottom, side ladder, and aeration blower alongside a tractor unloading grain.](E5-04-modern-grain-silo.png)
 
@@ -571,3 +555,10 @@ Every image placed in the notes, grouped by notes file. Tap an image to enlarge.
 
 *Diagram of a randomized complete block design showing three blocks along a soil fertility gradient with randomized plot assignments for two treatments and a control.*
 
+
+## Not made (placeholder still in the notes)
+
+- `A5-farm-inputs`: A farmer properly dressed to apply agrochemicals. The farmer is wearing a green overall, tall black rubber boots, yellow rubber gloves, a whit...
+- `B6-growth-development-and-reproduction`: A diagram illustrating the process of double fertilization in a flower. Show a pollen grain on the stigma with a long pollen tube growing down...
+- `E3-farm-machinery-and-implements`: Side-by-side comparison of a disc plough and a mouldboard plough. Left: A disc plough showing three heavy saucer-shaped steel discs mounted on...
+- `E5-processing-and-storage`: A rectangular farm structure known as a maize crib. It has a wooden framework raised on stilt legs about 1 metre off the ground. On each leg i...

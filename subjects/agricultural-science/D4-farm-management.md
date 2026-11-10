@@ -66,7 +66,7 @@ The specific functions are grouped into five major categories:
 4.  **Marketing:** Identifying the best markets, negotiating prices, and selling farm produce at a profit.
 5.  **Evaluation and Record-keeping:** Keeping accurate daily records of farm activities, assessing the success or failure of farm enterprises, and calculating profit or loss.
 
-[IMAGE: A farm manager wearing a sun hat and a checkered shirt standing in a maize field holding a clipboard, speaking to a farm worker driving a tractor. Labels to add later: "Farm manager", "giving instructions (administration)", "clipboard for record-keeping", "farm worker", "mechanized farming". Clean flat textbook style, white background.]
+![A farm manager in a hat and checkered shirt holds a clipboard while talking to a farm worker seated inside a tractor near maize plants.](images/D4-01-farm-manager-giving-instructions.png)
 
 **Problems of a Farm Manager:**
 Farm managers in Nigeria and West Africa face several challenges that hinder maximum productivity:

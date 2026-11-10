@@ -1,0 +1,31 @@
+{
+ "D4-01-farm-manager-giving-instructions": {
+  "caption_below": "Giving instructions (administration) in mechanized farming.",
+  "labels": [
+   [
+    "Farm manager",
+    [
+     292,
+     494
+    ],
+    "L"
+   ],
+   [
+    "clipboard for record-keeping",
+    [
+     354,
+     498
+    ],
+    "L"
+   ],
+   [
+    "farm worker",
+    [
+     786,
+     421
+    ],
+    "R"
+   ]
+  ]
+ }
+}

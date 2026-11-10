@@ -133,7 +133,7 @@ Islam destroyed the concept of blind tribal loyalty (*Asabiyyah*).
 
 * **The trace of reform:** The Prophet (SAW) declared that whoever fights or dies for *Asabiyyah* is not of the Muslims. Islam replaced the tribe with the **Ummah** (the universal brotherhood of believers). The new rule of justice was established: all humans are equal like the teeth of a comb. During his Farewell Pilgrimage, the Prophet famously declared that an Arab has no superiority over a non-Arab, nor a white person over a black person, except by piety (*Taqwa*).
 
-[IMAGE: A split-panel illustration comparing Jahiliyyah and Islam. Left panel (Jahiliyyah - warm dusty colours): a rugged Arab man casting arrows to gamble, a stone idol in the background, and a wealthy merchant angrily demanding doubled payment from a poor debtor. Right panel (Islam - clean cool colours): men of different races standing shoulder to shoulder in Salah, a merchant fairly weighing grain on a scale, and a father joyfully carrying his young daughter on his shoulders. Labels to add later: "Jahiliyyah", "Gambling and Idolatry", "Usury (Riba)", "Islam", "Brotherhood in Salah", "Fair Trade", "Love for Daughters". Clean flat textbook illustration, white background.]
+![A split panel illustration comparing Jahiliyyah practices like gambling, usury, and idolatry on the left to Islamic values like communal prayer, fair trade, and love for daughters on the right.](images/C15-01-jahiliyyah-versus-islam-comparison.png)
 
 ### Summary Table: Tracing the Islamic Reforms
 

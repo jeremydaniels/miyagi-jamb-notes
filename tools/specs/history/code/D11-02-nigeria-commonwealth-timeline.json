@@ -1,0 +1,36 @@
+{
+ "template": "timeline",
+ "title": "Nigeria in the Commonwealth",
+ "events": [
+  {
+   "when": "1960",
+   "title": "Independence",
+   "text": "Nigeria joins upon independence"
+  },
+  {
+   "when": "1961",
+   "title": "Apartheid Stance",
+   "text": "Nigeria pushes for South Africa's exit over apartheid"
+  },
+  {
+   "when": "1986",
+   "title": "Edinburgh Boycott",
+   "text": "Nigeria boycotts Edinburgh Games"
+  },
+  {
+   "when": "1995",
+   "title": "Suspension",
+   "text": "Suspended by the Commonwealth under Abacha regime"
+  },
+  {
+   "when": "1999",
+   "title": "Readmission",
+   "text": "Readmitted upon return to civilian rule"
+  },
+  {
+   "when": "2003",
+   "title": "CHOGM Abuja",
+   "text": "Hosts CHOGM in Abuja"
+  }
+ ]
+}

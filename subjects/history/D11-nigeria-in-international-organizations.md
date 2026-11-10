@@ -80,7 +80,7 @@ Nigeria’s relationship with the Commonwealth faced a major crisis in the 1990s
 ### Hosting the Commonwealth
 To signal its full return to the international community, Nigeria hosted the **Commonwealth Heads of Government Meeting (CHOGM)** in Abuja in **2003**.
 
-[IMAGE: A timeline graphic titled "Nigeria in the Commonwealth". Key dates plotted on a line: 1960 (Nigeria joins upon independence), 1961 (Nigeria pushes for South Africa's exit over apartheid), 1986 (Nigeria boycotts Edinburgh Games), 1995 (Suspended by the Commonwealth under Abacha regime), 1999 (Readmitted upon return to civilian rule), 2003 (Hosts CHOGM in Abuja). Clean flat textbook style, white background.]
+![A vertical timeline titled Nigeria in the Commonwealth showing key milestones from joining upon independence in 1960 to hosting CHOGM in Abuja in 2003.](images/D11-02-nigeria-commonwealth-timeline.png)
 
 ## Organization of Petroleum Exporting Countries (OPEC)
 
@@ -144,7 +144,7 @@ In the early 2000s, a major conflict erupted in the Darfur region of Sudan, lead
 *   **Diplomacy:** In 2006, Nigeria hosted peace talks in its capital, resulting in the signing of the **Abuja Peace Agreement** between the Sudanese government and some rebel groups.
 *   **Peacekeeping:** Nigeria was a leading contributor of troops and police to the AU Mission in Sudan (AMIS) and later the joint UN-AU Hybrid Operation in Darfur (UNAMID). Nigerian commanders also served in high leadership positions within the force.
 
-[IMAGE: Map of Africa with star markers indicating the locations of Nigeria's major peacekeeping interventions: Congo (Central Africa), Chad (North-Central), Liberia and Sierra Leone (West Africa coast), Guinea-Bissau (West Africa coast), and Sudan/Darfur (East-Central). A bold arrow points from Nigeria to each of these conflict zones. Clean flat textbook illustration, white background.]
+![Map of Africa showing deployment arrows from Nigeria to peacekeeping intervention zones in Chad, Sudan, Congo, Liberia, Sierra Leone, and Guinea-Bissau.](images/D11-03-map-nigerian-peacekeeping-missions.png)
 
 ## Key terms
 

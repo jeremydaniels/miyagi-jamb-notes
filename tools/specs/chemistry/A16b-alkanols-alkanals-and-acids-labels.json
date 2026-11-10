@@ -1,0 +1,79 @@
+{
+ "A16b-01-lucas-test-test-tubes": {
+  "labels": [
+   [
+    "1\u00b0 alkanol",
+    [
+     240,
+     684
+    ],
+    "L"
+   ],
+   [
+    "2\u00b0 alkanol",
+    [
+     517,
+     680
+    ],
+    "R"
+   ],
+   [
+    "3\u00b0 alkanol",
+    [
+     794,
+     684
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A16b-02-traditional-local-gin-distillation": {
+  "caption_below": "Ethanol vapour.",
+  "labels": [
+   [
+    "firewood",
+    [
+     275,
+     890
+    ],
+    "L"
+   ],
+   [
+    "drum of boiling palm wine",
+    [
+     272,
+     587
+    ],
+    "L"
+   ],
+   [
+    "cooling water barrel",
+    [
+     596,
+     528
+    ],
+    "R"
+   ],
+   [
+    "condensed local gin (ogogoro)",
+    [
+     839,
+     602
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A16b-03-esterification-reflux-apparatus-setup": {
+  "labels": [
+   [
+    "heating mantle",
+    [
+     509,
+     828
+    ],
+    "L"
+   ]
+  ]
+ }
+}

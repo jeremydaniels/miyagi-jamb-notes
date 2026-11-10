@@ -57,7 +57,7 @@ This test uses the **Lucas reagent**, which is a mixture of anhydrous zinc chlor
 - **Secondary ($2^\circ$) alkanols:** React moderately. **Turbidity appears in 5 to 10 minutes**.
 - **Primary ($1^\circ$) alkanols:** Do not react at room temperature. **No turbidity** is observed unless the mixture is strongly heated.
 
-[IMAGE: Three test tubes showing the Lucas test results for primary, secondary, and tertiary alkanols. Tube 1 (primary): clear, colourless liquid. Tube 2 (secondary): slightly cloudy liquid, labelled "turbidity after 5-10 mins". Tube 3 (tertiary): opaque, milky white suspension, labelled "immediate turbidity". Labels: "1° alkanol", "2° alkanol", "3° alkanol", "Lucas reagent (ZnCl₂ + conc. HCl)". Clean flat textbook style, white background.]
+![Illustration of three test tubes in a rack with droppers above, showing Lucas test results ranging from clear liquid to slightly cloudy to an opaque milky suspension.](images/A16b-01-lucas-test-test-tubes.png)
 
 **2. Oxidation Test**
 Alkanols can be oxidized using strong oxidizing agents like acidified potassium heptaoxodichromate(VI) ($\text{K}_2\text{Cr}_2\text{O}_7$) or acidified potassium tetraoxomanganate(VII) ($\text{KMnO}_4$).
@@ -82,7 +82,7 @@ Fermentation is the slow breakdown of sugars by microorganisms (yeast) in the ab
   - **Step 3:** The enzyme **zymase** (also from yeast) directly ferments glucose down into ethanol and carbon (IV) oxide.
     $$ \text{C}_6\text{H}_{12}\text{O}_6\text{(aq)} \rightarrow 2\text{C}_2\text{H}_5\text{OH(aq)} + 2\text{CO}_2\text{(g)} $$
 
-[IMAGE: A traditional distillation set-up for making local gin from palm wine. A metal drum over a firewood fire contains boiling fermented palm wine. A pipe leads from the top of the drum through a large wooden barrel filled with cooling water, then out the bottom where clear liquid drops into a collection calabash or glass bottle. Labels: "firewood", "drum of boiling palm wine", "ethanol vapour", "cooling water barrel", "condensed local gin (ogogoro)". Clean flat textbook illustration, white background.]
+![A diagram of a traditional distillation setup showing boiling palm wine in a drum heated by firewood, a cooling barrel with a coiled condenser pipe, and a collection vessel.](images/A16b-02-traditional-local-gin-distillation.png)
 
 **2. From petroleum by-products (Industrial)**
 Ethanol is manufactured on a massive scale by the catalytic hydration of ethene (an alkene obtained from the cracking of crude oil). 
@@ -171,7 +171,7 @@ When an alkanoic acid is heated with an alkanol in the presence of a few drops o
 $$ \text{CH}_3\text{COOH(l)} + \text{CH}_3\text{CH}_2\text{OH(l)} \rightleftharpoons \text{CH}_3\text{COOCH}_2\text{CH}_3\text{(l)} + \text{H}_2\text{O(l)} $$
 (Ethanoic acid + Ethanol $\rightleftharpoons$ Ethyl ethanoate + Water)
 
-[IMAGE: A laboratory reflux set-up for esterification. A round-bottom flask sits in a heating mantle. Inside the flask is a mixture of ethanol, ethanoic acid, and a few drops of concentrated tetraoxosulphate(VI) acid. A vertically mounted Liebig condenser is attached to the flask with water flowing in at the bottom and out at the top. Labels: "heating mantle", "reaction mixture (alkanol + alkanoic acid + conc. H₂SO₄ catalyst)", "Liebig condenser (reflux)", "water in", "water out". Clean flat textbook style, white background.]
+![A laboratory reflux apparatus with a round-bottom flask in a heating mantle clamped to a stand beneath a vertical Liebig condenser.](images/A16b-03-esterification-reflux-apparatus-setup.png)
 
 **Worked Example 2: Esterification Calculation**
 **Question:** Calculate the mass of ethyl ethanoate formed when $4.6 \text{ g}$ of ethanol reacts completely with excess ethanoic acid, assuming a 100% yield. (H = 1, C = 12, O = 16)
@@ -196,7 +196,7 @@ $$ \text{Fat or Oil} + 3\text{NaOH} \rightarrow 3\text{Soap} + \text{Glycerol} $
 After boiling, common salt (sodium chloride, $\text{NaCl}$) is added to the mixture. This decreases the solubility of the soap, causing it to precipitate and float to the top as a solid (a process called *salting out*). The glycerol remains at the bottom in the liquid layer.
 Sodium salts produce hard soaps (like laundry bar soap), while potassium salts produce soft soaps (like shampoos and shaving creams).
 
-[IMAGE: A flowchart showing the industrial production of soap. Box 1: "Vegetable oil or animal fat + Concentrated NaOH (caustic soda)". Box 2: "Boiled in a large kettle (Saponification)". Box 3: "Sodium chloride (salt) added to precipitate soap (Salting out)". Box 4: "Soap rises to top, glycerol remains in liquid below". Box 5: "Soap skimmed off, washed, and moulded into bars". Clean flat textbook style, white background.]
+![Flowchart detailing the five industrial steps of soap production, from boiling fats with caustic soda to separating, washing, and moulding the soap bars.](images/A16b-04-saponification-soap-making-flowchart.png)
 
 **Worked Example 3: Saponification Mass Calculation**
 **Question:** What mass of soap (sodium stearate) is produced when $8.9 \text{ g}$ of the fat tristearin is completely saponified by sodium hydroxide? 

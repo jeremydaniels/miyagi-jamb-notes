@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Industrial Production of Soap",
+ "nodes": [
+  {
+   "id": "box1",
+   "text": "Vegetable oil or animal fat\n+ Concentrated NaOH\n(caustic soda)",
+   "shape": "box"
+  },
+  {
+   "id": "box2",
+   "text": "Boiled in a large kettle\n(Saponification)",
+   "shape": "box"
+  },
+  {
+   "id": "box3",
+   "text": "Sodium chloride (salt) added\nto precipitate soap\n(Salting out)",
+   "shape": "box"
+  },
+  {
+   "id": "box4",
+   "text": "Soap rises to top,\nglycerol remains in\nliquid below",
+   "shape": "box"
+  },
+  {
+   "id": "box5",
+   "text": "Soap skimmed off, washed,\nand moulded into bars",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "box1",
+   "to": "box2"
+  },
+  {
+   "from": "box2",
+   "to": "box3"
+  },
+  {
+   "from": "box3",
+   "to": "box4"
+  },
+  {
+   "from": "box4",
+   "to": "box5"
+  }
+ ]
+}

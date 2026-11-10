@@ -45,7 +45,7 @@ The search for crude oil in Nigeria began in 1908 by the Nigerian Bitumen Corpor
 - **First Export:** Nigeria exported its first crude oil in **1958**.
 - **The Oil Boom:** By the 1970s, the global price of oil skyrocketed. Nigeria experienced an "oil boom," and petroleum quickly replaced agriculture and solid minerals as the country's main source of revenue. Today, crude oil is extracted mostly from the Niger Delta region and offshore in the Atlantic Ocean.
 
-[IMAGE: A map of Nigeria showing the distribution of major natural resources. Small simple icons indicate where resources are found: an oil derrick icon in the Niger Delta area (Bayelsa, Rivers, Delta) labeled "Crude Oil", a black lump icon in Enugu labeled "Coal", a metal ingot icon in Jos labeled "Tin/Columbite", and tree icons in Edo/Ondo labeled "Timber". Clean flat textbook illustration, white background, distinct regions outlined.]
+![A sketch map of Nigeria showing the geographic distribution of major natural resources including crude oil, coal, tin or columbite, and timber.](images/A18-01-map-nigeria-natural-resources.png)
 
 ## Contributions of the oil and the non-oil sectors to the Nigerian economy
 
@@ -95,7 +95,7 @@ In economics, a **linkage effect** (a concept introduced by Albert Hirschman) oc
    - *Example:* The agriculture sector needs tractors and fertilizers, encouraging the growth of local tractor manufacturing and chemical plants.
 3. **Consumption (or Demand) Linkages:** When workers in the natural resource sector earn wages, they spend their money on food, housing, and entertainment. This creates a market for local farmers, builders, and shopkeepers.
 
-[IMAGE: A flow chart titled "Linkage Effects in the Oil Sector". In the center, a large box says "Crude Oil Extraction". An arrow points backward from the center to a box labeled "Backward Linkages: Production of drilling pipes, engineering services, boats". An arrow points forward from the center to a box labeled "Forward Linkages: Refineries, Petrochemicals, Plastics". An arrow points downward from the center to a box labeled "Consumption Linkages: Workers buy food, housing, and clothes". Clean flat textbook style, white background with blue and green boxes.]
+![Flowchart showing linkage effects of crude oil extraction connecting backward linkages to drilling supplies, forward linkages to refineries, and downward to worker consumption linkages.](images/A18-02-oil-sector-linkages-flowchart.png)
 
 ## Distinguishing upstream and downstream activities in the oil sector
 

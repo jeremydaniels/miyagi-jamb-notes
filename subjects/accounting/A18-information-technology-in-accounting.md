@@ -102,7 +102,7 @@ A **blockchain** is a type of digital, decentralized, and distributed ledger. Im
 4. **Faster and Easier Auditing:** Auditors spend a lot of time verifying paper trails to ensure numbers haven't been faked. With blockchain, the records are guaranteed to be accurate and untampered, so auditing can be done almost instantly.
 5. **Smart Contracts:** These are computer programs stored on the blockchain that run automatically when certain conditions are met. For example, a smart contract can automatically release payment to a supplier the moment a delivery is digitally signed for at the warehouse, saving time and paperwork.
 
-[IMAGE: A diagram explaining Blockchain in accounting. A horizontal chain of three square blocks. Block 1 has a lock icon and "Transaction A". Block 2 has a lock icon and "Transaction B". Arrows connect them. A magnifying glass icon representing an "Auditor" is looking at the chain. Above it, three computers are connected to the chain showing a "Shared Distributed Ledger". Clean flat textbook style, white background.]
+![Diagram of blockchain in accounting showing three connected blocks with transactions, linked computers forming a shared distributed ledger, and an auditor verifying the chain.](images/A18-03-blockchain-schematic.png)
 
 ## Virtual accounting
 

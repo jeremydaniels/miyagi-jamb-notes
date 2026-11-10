@@ -56,7 +56,7 @@ A tooth is studied by cutting it lengthwise (a **longitudinal section**, LS). A 
 | **Neck** | At the level of the gum | The slightly narrowed part where the crown meets the root; it is surrounded by the gum |
 | **Root** | Below the gum, inside the jaw bone | Fixes the tooth firmly in its socket in the jaw bone. A tooth may have one, two or three roots |
 
-[IMAGE: Longitudinal section of a human molar tooth fixed in the jaw bone, shown large and centred. Show the crown with two cusps above the gum, the narrow neck at gum level, and two roots inside the jaw bone. Inside, show the outer white enamel layer over the crown, the thick cream-coloured dentine under it, the central pink pulp cavity extending down into each root as root canals, with red blood vessels and yellow nerves entering through a small opening at the tip of each root. Show the thin cement layer covering the roots, the periodontal membrane (fibres) between the cement and the bone, and pink gum covering the jaw bone around the neck. Labels: crown, neck, root, enamel, dentine, pulp cavity, cement, periodontal membrane, gum, jaw bone, blood vessels, nerve, root canal, opening at root tip (apical foramen). Clean flat textbook style, white background.]
+![Longitudinal diagram of a human molar tooth anchored in jaw bone, displaying enamel, dentine, pulp cavity with nerves and vessels, roots, periodontal ligament, and surrounding gums.](images/B2d-01-molar-tooth-cross-section.png)
 
 ### The parts of a tooth and their functions
 
@@ -219,7 +219,7 @@ Mammals are **diphyodont**: they have two sets of teeth.
 
 **Note:** the human milk set has **"molars"** (milk molars), but these are **replaced by the permanent premolars**. The permanent molars have no milk predecessors. That is why lowercase letters are often used for milk teeth (i, c, m) to avoid confusing them with permanent teeth.
 
-[IMAGE: Two diagrams of the human upper and lower jaws seen from above (occlusal view), side by side. Left: a child's jaws with 20 milk teeth, colour-coded: incisors (blue), canines (green), milk molars (orange). Right: an adult's jaws with 32 permanent teeth, colour-coded: incisors (blue), canines (green), premolars (yellow), molars (orange), with the third molars (wisdom teeth) shaded lighter. Labels: milk teeth (20), permanent teeth (32), incisors, canines, milk molars, premolars, molars, wisdom tooth (third molar). Clean flat textbook style, white background.]
+![Diagram comparing dental arches of child milk teeth with 20 teeth and adult permanent teeth with 32 teeth, colour-coded by tooth type.](images/B2d-03-human-dental-arcade-chart.png)
 
 ## Dental formulae of man, sheep and dog
 
@@ -292,7 +292,7 @@ Key features of the sheep's teeth:
 - Many textbooks say the cheek teeth of herbivores have **"open roots"** and "grow throughout life". This is true of rabbits and rodents (and of the incisors of rodents). In sheep, goats and cattle, the cheek teeth are very tall and keep emerging from the jaw as they wear, but their roots eventually close in older animals.
 - Goats and cattle have the **same dental formula** as sheep.
 
-[IMAGE: Side view of a sheep's skull with the jaws slightly apart. Show the horny dental pad at the front of the upper jaw with no upper front teeth; the lower jaw with forward-sloping chisel-shaped incisors and an incisor-like canine; a wide toothless gap (diastema) behind the front teeth in both jaws; and a row of tall cheek teeth (premolars and molars) at the back. Add a small inset showing the grinding surface of a sheep molar from above with crescent-shaped enamel ridges. Labels: dental pad, lower incisors, incisor-like lower canine, diastema, premolars, molars, enamel ridges (inset), upper jaw, lower jaw. Clean flat textbook style, white background.]
+![Illustration of a sheep skull showing the horny dental pad, lower incisors, diastema, and molars, alongside an inset of the molar grinding surface with crescent ridges.](images/B2d-05-sheep-skull-dentition.png)
 
 ### Dental formula of dog (a carnivore)
 
@@ -313,7 +313,7 @@ Key features of the dog's teeth:
 7. **Up-and-down jaw movement only:** the jaw joint is a tight hinge, so the jaw cannot move much sideways. This gives a powerful **cutting and crushing** bite, not grinding. Very strong jaw muscles (the temporal muscles) close the jaw with great force.
 8. Flesh is easier to digest than grass, so dogs swallow food in large pieces after little chewing.
 
-[IMAGE: Side view of a dog's skull with the jaws slightly open, showing small front incisors, long curved pointed upper and lower canines, pointed premolars, the large blade-like carnassial teeth (upper last premolar and lower first molar) highlighted in red, and small flattened molars behind them. Add a small inset showing the upper and lower carnassials sliding past each other like scissor blades. Labels: incisors, canine, premolars, carnassial teeth (upper premolar 4 and lower molar 1), molars, scissor-like shearing action (inset), upper jaw, lower jaw. Clean flat textbook style, white background.]
+![Illustration of a dog skull with jaws open displaying differentiated teeth with carnassials highlighted in red alongside a circular inset showing their shearing action.](images/B2d-06-dog-skull-carnassials.png)
 
 ### The dental formulae compared
 
@@ -363,7 +363,7 @@ Key features of the dog's teeth:
 | Main jaw muscles | Masseter (side-to-side grinding) well developed | Temporal muscles (powerful closing) well developed | Both moderately developed |
 | Chewing | Long, thorough chewing (and chewing the cud in ruminants) | Little chewing; food swallowed in large pieces | Moderate chewing |
 
-[IMAGE: Three skulls side by side in side view for comparison: a sheep (herbivore), a dog (carnivore) and a human (omnivore). Colour-code the teeth in all three: incisors (blue), canines (green), premolars (yellow), molars (orange), carnassials outlined in red on the dog. Show the dental pad and diastema on the sheep. Under each skull, a small curved arrow shows the main jaw movement: side to side for the sheep, up and down for the dog, up and down plus some side to side for the human. Labels: sheep (herbivore), dental pad, diastema, dog (carnivore), long canine, carnassial teeth, human (omnivore), incisors, canines, premolars, molars. Clean flat textbook style, white background.]
+![Three skulls of a sheep, dog, and human arranged side by side with color-coded teeth and arrows beneath showing typical jaw movements for each diet type.](images/B2d-07-comparative-mammalian-skulls.png)
 
 **Rodents and rabbits (gnawing mammals; rabbits are herbivores, rats are omnivores):** rats, squirrels, the grasscutter (cane rat) and rabbits have **large, chisel-like incisors** that grow throughout life, **no canines**, and a wide **diastema**. The grasscutter, a popular bush meat in Nigeria, uses its powerful incisors to cut tough grass and sugar cane stems.
 
@@ -384,7 +384,7 @@ The syllabus does not list dental diseases by name, but questions on the structu
 5. When the decay reaches the **pulp cavity**, bacteria infect the pulp. The pulp becomes inflamed, causing severe **toothache**.
 6. Infection may spread to the root tip and jaw bone, forming a painful swelling of pus (**abscess**). The tooth may die and have to be removed.
 
-[IMAGE: Four longitudinal sections of a molar in a row showing the stages of dental caries. Stage 1: plaque on the enamel surface. Stage 2: a small dark cavity in the enamel. Stage 3: the cavity spreading into the dentine. Stage 4: the cavity reaching the pulp cavity, with an abscess (swelling of pus) at the root tip. Labels: plaque, enamel, cavity in enamel, dentine, decay in dentine, pulp cavity, infected pulp, abscess. Clean flat textbook style, white background.]
+![Diagram in four panels showing the progression of tooth decay from plaque buildup and enamel cavity to dentine decay and pulp infection with an abscess.](images/B2d-08-dental-caries-progression.png)
 
 ### Gum (periodontal) disease
 

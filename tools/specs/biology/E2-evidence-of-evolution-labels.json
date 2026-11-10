@@ -467,5 +467,82 @@
     "R"
    ]
   ]
+ },
+ "E2-04-horse-evolution-stages-foot": {
+  "caption_below": "Increase in size from forest to grassland",
+  "labels": [
+   [
+    "Hyracotherium (Eohippus), about 55 million years ago",
+    [
+     173,
+     749
+    ],
+    "L"
+   ],
+   [
+    "Mesohippus",
+    [
+     357,
+     640
+    ],
+    "L"
+   ],
+   [
+    "Merychippus",
+    [
+     500,
+     494
+    ],
+    "L"
+   ],
+   [
+    "Pliohippus",
+    [
+     663,
+     357
+    ],
+    "R"
+   ],
+   [
+    "Equus (modern horse)",
+    [
+     829,
+     186
+    ],
+    "R"
+   ],
+   [
+    "4 toes",
+    [
+     176,
+     928
+    ],
+    "L"
+   ],
+   [
+    "3 toes",
+    [
+     380,
+     836
+    ],
+    "L"
+   ],
+   [
+    "1 toe (hoof)",
+    [
+     884,
+     524
+    ],
+    "R"
+   ],
+   [
+    "splint bones",
+    [
+     866,
+     479
+    ],
+    "R"
+   ]
+  ]
  }
 }

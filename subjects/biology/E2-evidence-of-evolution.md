@@ -111,7 +111,7 @@ The horse has one of the most complete fossil records of any animal, mainly from
 
 **Textbook variation:** older textbooks show horse evolution as a straight line. Palaeontologists now know that it was a **branching bush**, with many side branches that died out, and the dates and sizes are approximate.
 
-[IMAGE: Evolution of the horse in five steps from bottom-left to top-right, each showing a side view of the whole animal at relative size and, beneath it, a simplified front-foot skeleton. 1: small fox-sized Hyracotherium (Eohippus) in a forest, foot with four toes. 2: Mesohippus, goat-sized, three toes. 3: Merychippus, pony-sized, three toes with a large middle toe. 4: Pliohippus, one main toe with side splints. 5: modern Equus, large, single hoofed toe with tiny splint bones, on open grassland. Labels to add later: "Hyracotherium (Eohippus), about 55 million years ago", "Mesohippus", "Merychippus", "Pliohippus", "Equus (modern horse)", "4 toes", "3 toes", "1 toe (hoof)", "splint bones", "increase in size", "forest to grassland". Clean flat textbook style, white background.]
+![Diagram showing five stages of horse evolution from bottom-left to top-right, comparing the increasing body size of ancestral equines and the corresponding reduction from four toes to a single hoof.](images/E2-04-horse-evolution-stages-foot.png)
 
 ### Human fossils and Africa
 

@@ -82,7 +82,7 @@ Most traditional plays follow a standard five-part plot structure. This was mapp
 4.  **Falling Action:** These are the events that happen as a result of the climax. The tension begins to drop, the conflict unravels, and the play moves towards its conclusion. 
 5.  **Resolution (Denouement):** This is the end of the play. All the loose ends are tied up, mysteries are explained, and a new normal is established. ("Denouement" is a French word meaning "untying the knot").
 
-[IMAGE: A line graph shaped like a triangle or pyramid, illustrating Freytag's Pyramid. The line starts low on the left labelled "1. Exposition", angles upwards labelled "2. Rising Action", reaches a sharp peak at the top labelled "3. Climax", angles downwards on the right labelled "4. Falling Action", and flattens out at the bottom right labelled "5. Resolution / Denouement". Underneath the peak, the word "Tension" indicates that tension is highest at the climax. Clean flat textbook illustration, white background, clear bold text.]
+![Freytag's Pyramid diagram showing five stages of dramatic structure: Exposition, Rising Action, Climax with highest tension, Falling Action, and Resolution or Denouement.](images/A1c-01-freytags-pyramid-plot.png)
 
 ### Main plot and Sub-plot
 

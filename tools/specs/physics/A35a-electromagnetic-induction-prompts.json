@@ -1,0 +1,18 @@
+[
+ [
+  "A35a-02-ac-generator-schematic",
+  "Diagram of an A.C. Generator. A rectangular coil labelled ABCD lies horizontally between a North and South magnetic pole. The ends of the coil connect to two continuous, separate metal rings (slip rings) mounted on an axle. Two small rectangular blocks (carbon brushes) press against the slip rings and connect to wires leading to an external resistor and a galvanometer. Arrows show rotation direction. Style: Clean flat textbook illustration, white background."
+ ],
+ [
+  "A35a-03-dc-generator-schematic",
+  "Diagram of a D.C. Generator. Identical to the A.C. generator above, except instead of two full slip rings, the ends of the coil attach to a single ring sliced into two separate halves (a split-ring commutator). The carbon brushes press against opposite sides of this split ring. Style: Clean flat textbook illustration, white background."
+ ],
+ [
+  "A35a-04-transformer-schematic",
+  "Diagram of a typical transformer. A square-shaped laminated soft iron core. On the left arm, a coil of wire with a few turns is. On the right arm, a coil with many turns is. Magnetic flux lines are drawn in a loop inside the iron core linking both coils. Style: Clean flat textbook illustration, white background."
+ ],
+ [
+  "A35a-05-induction-coil-circuit",
+  "Circuit diagram of an induction coil. A central iron core has a primary coil (few turns) connected in series with a battery and a mechanical interrupter switch (an armature and contact screw). A capacitor is wired in parallel across the interrupter contacts. Around the primary is a secondary coil with many turns, leading to an open spark gap. Style: Clean flat textbook illustration, white background."
+ ]
+]

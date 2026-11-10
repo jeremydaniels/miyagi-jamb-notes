@@ -161,7 +161,7 @@ An A.C. generator consists of four main parts:
 3. **Slip rings:** Two completely separate, continuous circular metal rings mounted on the axle. One end of the armature coil is permanently welded to the first slip ring, and the other end is welded to the second slip ring. The rings rotate completely as the coil rotates.
 4. **Carbon brushes:** Fixed blocks of carbon that press lightly against the spinning slip rings. They act as sliding contacts, conducting the generated current from the spinning rings to the stationary external circuit without the wires getting twisted and snapped.
 
-[IMAGE: Diagram of an A.C. Generator. A rectangular coil labelled ABCD lies horizontally between a North and South magnetic pole. The ends of the coil connect to two continuous, separate metal rings (slip rings) mounted on an axle. Two small rectangular blocks (carbon brushes) press against the slip rings and connect to wires leading to an external resistor and a galvanometer. Arrows show rotation direction. Style: Clean flat textbook illustration, white background.]
+![A diagram of an AC generator showing a rectangular wire coil rotating between two curved magnetic poles, connected via slip rings and brushes to an external circuit with a galvanometer.](images/A35a-02-ac-generator-schematic.png)
 
 **How the A.C. generator works:**
 1. As the coil is turned mechanically, one side of the coil (say, AB) moves up through the magnetic field while the opposite side (CD) moves down. 
@@ -176,7 +176,7 @@ A D.C. generator produces current that flows in only one direction in the extern
 The physical setup is almost exactly the same as the A.C. generator, but with one crucial difference:
 Instead of two separate slip rings, it uses a **split-ring commutator**. This is a single copper ring cut into two halves, separated by a thin strip of insulator. Each end of the coil connects to one half of the split ring.
 
-[IMAGE: Diagram of a D.C. Generator. Identical to the A.C. generator above, except instead of two full slip rings, the ends of the coil attach to a single ring sliced into two separate halves (a split-ring commutator). The carbon brushes press against opposite sides of this split ring. Style: Clean flat textbook illustration, white background.]
+![Diagram of a DC generator showing a rotating wire coil between magnet poles, connected to a split-ring commutator with brushes wired to an external circuit.](images/A35a-03-dc-generator-schematic.png)
 
 **How the D.C. generator works:**
 1. Just like the A.C. generator, an alternating current is generated *inside the spinning coil itself*.
@@ -228,7 +228,7 @@ Transformers operate strictly on the principle of **mutual induction** between t
 
 > **CRITICAL RULE:** Transformers **do not work on Direct Current (D.C.)** like a car battery. A battery creates a steady, constant current, which creates a steady, unmoving magnetic field. Since there is no *change* in flux over time ($\Delta \Phi / \Delta t = 0$), absolutely no voltage is induced in the secondary coil. The output voltage will be zero.
 
-[IMAGE: Diagram of a typical transformer. A square-shaped laminated soft iron core. On the left arm, a coil of wire with a few turns is labelled "Primary coil". On the right arm, a coil with many turns is labelled "Secondary coil". Magnetic flux lines are drawn in a loop inside the iron core linking both coils. Style: Clean flat textbook illustration, white background.]
+![Diagram of a step-up transformer showing a laminated soft iron core with a primary coil on the left and a secondary coil on the right linked by magnetic flux.](images/A35a-04-transformer-schematic.png)
 
 ### Transformer Equations
 
@@ -309,7 +309,7 @@ An induction coil consists of:
 4. An **interrupter (make-and-break contact)** attached to a soft iron armature on a spring. This acts as an automatic switch.
 5. A **capacitor (condenser)** connected strictly *in parallel across the contact points* of the interrupter.
 
-[IMAGE: Circuit diagram of an induction coil. A central iron core has a primary coil (few turns) connected in series with a battery and a mechanical interrupter switch (an armature and contact screw). A capacitor is wired in parallel across the interrupter contacts. Around the primary is a secondary coil with many turns, leading to an open spark gap. Style: Clean flat textbook illustration, white background.]
+![Induction coil circuit diagram showing primary coil with battery, interrupter, and parallel capacitor, soft iron core, and secondary coil leading to an open spark gap.](images/A35a-05-induction-coil-circuit.png)
 
 ### Conclusions from the Operation of an Induction Coil
 

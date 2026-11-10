@@ -48,52 +48,55 @@
    [
     "stem cutting",
     [
-     312,
-     192
+     262,
+     240
     ],
     "L"
    ],
    [
     "scion (bud)",
     [
-     804,
-     145
+     770,
+     186
     ],
-    "R"
+    "T"
    ],
    [
     "rootstock",
     [
-     742,
-     131
+     773,
+     394
     ],
     "R"
    ],
    [
     "T-cut",
     [
-     770,
-     223
+     808,
+     168
     ],
-    "R"
+    "T"
    ],
    [
     "cleft cut",
     [
-     239,
-     761
+     256,
+     716
     ],
     "L"
    ],
    [
     "air layering wrap",
     [
-     794,
-     794
+     742,
+     645
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7-03-seedling-transplanting-sequence": {}
 }

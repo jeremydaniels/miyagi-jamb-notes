@@ -66,7 +66,7 @@ The PNS is further divided by function into:
 - the **somatic nervous system**, which controls voluntary actions of skeletal muscles and carries sensations from the skin and sense organs; and
 - the **autonomic nervous system**, which controls involuntary actions of internal organs. It has two parts: the **sympathetic** and **parasympathetic** systems.
 
-[IMAGE: Outline of a human figure from the front, standing, with the nervous system drawn in. Show the brain in the head in soft pink, the spinal cord running down the back inside the outline of the vertebral column in pink, and many thin yellow nerves branching out from the brain and spinal cord to the arms, legs, chest and abdomen. On the right side, a simple branching chart: Nervous system splits into Central nervous system (brain, spinal cord) and Peripheral nervous system (cranial nerves, spinal nerves); Peripheral splits into Somatic and Autonomic; Autonomic splits into Sympathetic and Parasympathetic. Labels on the figure: brain, spinal cord, cranial nerve, spinal nerves, nerves to the arm, nerves to the leg. Clean flat textbook style, white background.]
+![Diagram showing the human nervous system with brain, spinal cord, branching nerves, and a branching hierarchy tree on the right.](images/B9a-01-human-nervous-system.png)
 
 ## Nerve cells (neurones)
 
@@ -181,7 +181,7 @@ The CNS is very delicate, and damaged neurones in the CNS usually cannot be repl
 
 **Meningitis** is inflammation of the meninges, usually caused by bacteria or viruses. Bacterial (cerebrospinal) meningitis causes fever, severe headache, a stiff neck and sometimes death or deafness. Northern Nigeria is part of the African "**meningitis belt**", where epidemics occur in the hot, dry season. Doctors diagnose it by testing a sample of CSF taken from the lower back (a lumbar puncture). Vaccination helps prevent it.
 
-[IMAGE: Cross-section through the top of the skull and brain surface showing the protective layers in order from outside inward: scalp skin, skull bone (cranium), dura mater (thick, tough), arachnoid mater (thin with web-like strands), subarachnoid space filled with pale blue cerebrospinal fluid and a blood vessel, pia mater (very thin, closely following the folds of the brain), and the folded grey cerebral cortex with white matter beneath. Labels: scalp, skull (cranium), dura mater, arachnoid mater, subarachnoid space with cerebrospinal fluid, pia mater, blood vessel, grey matter (cerebral cortex), white matter. Soft beige skull, pale pink membranes, light blue fluid, grey and white brain tissue. Clean flat textbook style, white background.]
+![Cross section illustration of the human head showing layers from the scalp and cranium through the meninges, subarachnoid space, and cerebral cortex.](images/B9a-04-cranial-meninges-cross-section.png)
 
 ### The brain
 
@@ -195,7 +195,7 @@ The human brain weighs about **1.3–1.4 kg** in an adult. It is divided into th
 
 The midbrain, pons and medulla oblongata together form the **brainstem**, which connects the brain to the spinal cord.
 
-[IMAGE: Longitudinal (vertical midline) section of the human brain viewed from the side, facing left. Show the large folded cerebrum occupying the top and front, the band-like corpus callosum curving in the middle joining the two hemispheres, the thalamus as an oval mass in the centre below it, the hypothalamus just below and in front of the thalamus, the pituitary gland hanging from the hypothalamus on a short stalk, the small midbrain, the rounded pons bulging forward below the midbrain, the medulla oblongata tapering down into the spinal cord, and the cerebellum at the back below the cerebrum with its finely folded, tree-like pattern. Labels: cerebrum, cerebral cortex, corpus callosum, thalamus, hypothalamus, pituitary gland, midbrain, pons, medulla oblongata, cerebellum, spinal cord. Use soft distinct pastel colours for each part. Clean flat textbook style, white background.]
+![A sagittal midline section of the human brain illustrating the cerebrum, corpus callosum, thalamus, hypothalamus, pituitary gland, brainstem, and cerebellum in distinct pastel colors.](images/B9a-05-human-brain-sagittal-section.png)
 
 #### The cerebrum
 
@@ -226,7 +226,7 @@ The midbrain, pons and medulla oblongata together form the **brainstem**, which 
 
 **Textbook variation:** some school textbooks give simplified lists of functions for each lobe; in reality many abilities (such as memory and language) involve several areas working together.
 
-[IMAGE: Side view of the left cerebral hemisphere (outer surface) showing the four lobes in different soft colours: frontal lobe (front, soft blue), parietal lobe (top middle, soft green), occipital lobe (back, soft orange), temporal lobe (lower side, soft purple), with the cerebellum and brainstem below in grey. Mark a narrow strip at the back of the frontal lobe as the motor area and the strip just behind it at the front of the parietal lobe as the sensory area. Labels: frontal lobe, parietal lobe, occipital lobe, temporal lobe, motor area, sensory area, cerebellum, brainstem. Clean flat textbook style, white background.]
+![An illustration of the human brain lateral view showing color-coded lobes, the motor and sensory strips, the cerebellum, and the brainstem.](images/B9a-06-cerebral-hemisphere-lobes.png)
 
 #### The thalamus
 
@@ -338,7 +338,7 @@ Because the medulla controls the heartbeat and breathing, **damage to it is usua
 
 **Effects of damage:** if the spinal cord is cut or crushed (for example in a road accident or a fall from a tree or building), impulses cannot pass between the brain and the body below the injury. The person loses feeling and voluntary movement below the injury (**paralysis**): paralysis of both legs (paraplegia) after injury in the lower back, or of all four limbs (quadriplegia) after injury in the neck.
 
-[IMAGE: Transverse section of the spinal cord with a pair of spinal nerves, in a three-dimensional slice view. Show the outer white matter (cream), the central H-shaped or butterfly-shaped grey matter (grey) with two dorsal horns pointing to the back and two ventral horns pointing to the front, a tiny central canal in the middle, the three meninges wrapped around the cord, and on each side a dorsal root with an oval dorsal root ganglion and a ventral root joining to form a spinal nerve. Draw the cord inside the outline of a vertebra. Labels: white matter, grey matter, dorsal horn, ventral horn, central canal, dorsal root, dorsal root ganglion, ventral root, spinal nerve (mixed), meninges, vertebra, dorsal side (back), ventral side (front). Soft cream, grey, yellow and beige palette. Clean flat textbook style, white background.]
+![Cross section diagram of the spinal cord within a vertebra showing grey matter, white matter, central canal, meninges, dorsal and ventral roots, and spinal nerves.](images/B9a-07-spinal-cord-transverse-section.png)
 
 ### Applying the structure and functions of the CNS to the co-ordination of body functions
 
@@ -573,7 +573,7 @@ The pathway taken by the impulses in a reflex action is called a **reflex arc**.
 
 The reflex arc is the **shortest** pathway between a receptor and an effector, with very few synapses, which is why reflexes are so fast.
 
-[IMAGE: Classic diagram of a spinal reflex arc for withdrawing the hand from a hot object. On the left, a hand touching a hot pot on a flame, with a receptor in the skin of the fingertip. A sensory neurone (drawn in blue) runs from the receptor up the arm into a transverse section of the spinal cord on the right, entering through the dorsal root with its cell body in the dorsal root ganglion. Inside the H-shaped grey matter, a short relay neurone (green) connects to a motor neurone (red), whose cell body is in the ventral horn; the motor neurone leaves through the ventral root and runs back to the biceps muscle of the upper arm. Show a thin branch of the relay pathway going up the white matter towards the brain (with an arrow labelled "to brain"). Arrows along all neurones show the direction of the impulse. Labels: stimulus (heat), receptor in skin, sensory neurone, dorsal root, dorsal root ganglion, relay neurone, grey matter, white matter, motor neurone, ventral root, effector (biceps muscle), response (arm bends, hand withdrawn), synapse, to brain. Clean flat textbook style, white background.]
+![A diagram of a spinal reflex arc showing a finger touching a hot pot, sensory nerve pathway to spinal cord, relay neuron, and motor neuron to muscle.](images/B9a-11-spinal-reflex-arc.png)
 
 ### Illustrating reflex actions
 
@@ -602,7 +602,7 @@ The **knee jerk** (patellar reflex) is a **spinal reflex** that doctors use to t
 
 **Textbook variation:** many school textbooks draw the knee jerk with a relay neurone, as in the general reflex arc. Strictly, the knee jerk has **no relay neurone** (it is monosynaptic), whereas the withdrawal reflex does have one. If a JAMB question asks about the general reflex arc, include the relay neurone; if it asks specifically about the knee jerk, remember that it is monosynaptic.
 
-[IMAGE: Diagram of the knee jerk reflex. On the left, a person's leg seen from the side, with the thigh horizontal and the lower leg hanging down, a small rubber hammer tapping the tendon just below the kneecap, and a dotted outline showing the lower leg kicking forward. The quadriceps muscle on the front of the thigh is shaded pink with a small stretch receptor (muscle spindle) inside it. A sensory neurone (blue) runs from the stretch receptor to a transverse section of the spinal cord on the right, entering through the dorsal root with its ganglion, and synapses directly with a motor neurone (red) in the ventral horn of the grey matter (no relay neurone). The motor neurone runs back to the quadriceps. Arrows show the direction of impulses. Labels: hammer tap, patellar tendon, kneecap, quadriceps muscle (effector), stretch receptor, sensory neurone, dorsal root ganglion, spinal cord, synapse (only one), motor neurone, lower leg kicks forward. Clean flat textbook style, white background.]
+![Diagram of the knee jerk reflex showing the patellar tap, sensory neuron entering the spinal cord, and motor neuron returning to the quadriceps muscle causing the leg to kick.](images/B9a-12-knee-jerk-reflex-arc.png)
 
 #### 2. Blinking of the eyes
 
@@ -623,7 +623,7 @@ The **knee jerk** (patellar reflex) is a **spinal reflex** that doctors use to t
 
 **Note:** blinking when an object suddenly **moves towards** the eye (for example, when someone pretends to poke you) involves the eyes seeing the object, so the visual parts of the brain are also involved. It is still involuntary. You can blink **voluntarily** too, for example when you deliberately wink, which is a voluntary action controlled by the cerebrum.
 
-[IMAGE: Side view of a human head with the eye in the centre, showing a puff of air (wavy lines) or a small dust particle approaching the front of the eye. Inside the head, a simplified brain with the brainstem highlighted; a sensory pathway (blue) runs from the cornea to the brainstem, and a motor pathway (red) runs from the brainstem to the eyelid muscle, which is shown closing the eyelid. Small inset of the eye with the eyelid closed and a tear. Labels: stimulus (puff of air or dust), cornea (receptor), sensory nerve, brainstem (co-ordinator), motor nerve, eyelid muscle (effector), eyelid closes (response), tears. Clean flat textbook style, white background.]
+![Diagram of corneal blink reflex arc in a human head showing sensory pathway from cornea to brainstem, motor pathway to eyelid muscle, and an inset of blinking with a tear.](images/B9a-13-cranial-blink-reflex.png)
 
 #### 3. Withdrawal of the hand from a hot object
 

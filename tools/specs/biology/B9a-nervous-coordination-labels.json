@@ -1,0 +1,623 @@
+{
+ "B9a-01-human-nervous-system": {},
+ "B9a-04-cranial-meninges-cross-section": {
+  "labels": [
+   [
+    "scalp",
+    [
+     619,
+     152
+    ],
+    "R"
+   ],
+   [
+    "skull (cranium)",
+    [
+     524,
+     278
+    ],
+    "R"
+   ],
+   [
+    "dura mater",
+    [
+     573,
+     335
+    ],
+    "R"
+   ],
+   [
+    "arachnoid mater",
+    [
+     592,
+     351
+    ],
+    "R"
+   ],
+   [
+    "subarachnoid space with cerebrospinal fluid",
+    [
+     666,
+     402
+    ],
+    "R"
+   ],
+   [
+    "pia mater",
+    [
+     674,
+     457
+    ],
+    "R"
+   ],
+   [
+    "blood vessel",
+    [
+     538,
+     464
+    ],
+    "R"
+   ],
+   [
+    "grey matter (cerebral cortex)",
+    [
+     654,
+     571
+    ],
+    "R"
+   ],
+   [
+    "white matter",
+    [
+     749,
+     676
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-05-human-brain-sagittal-section": {
+  "labels": [
+   [
+    "cerebrum",
+    [
+     437,
+     247
+    ],
+    "L"
+   ],
+   [
+    "cerebral cortex",
+    [
+     463,
+     145
+    ],
+    "L"
+   ],
+   [
+    "corpus callosum",
+    [
+     493,
+     338
+    ],
+    "L"
+   ],
+   [
+    "thalamus",
+    [
+     500,
+     445
+    ],
+    "L"
+   ],
+   [
+    "hypothalamus",
+    [
+     439,
+     508
+    ],
+    "L"
+   ],
+   [
+    "pituitary gland",
+    [
+     396,
+     596
+    ],
+    "L"
+   ],
+   [
+    "midbrain",
+    [
+     529,
+     541
+    ],
+    "R"
+   ],
+   [
+    "pons",
+    [
+     524,
+     658
+    ],
+    "R"
+   ],
+   [
+    "medulla oblongata",
+    [
+     584,
+     766
+    ],
+    "R"
+   ],
+   [
+    "cerebellum",
+    [
+     735,
+     654
+    ],
+    "R"
+   ],
+   [
+    "spinal cord",
+    [
+     636,
+     901
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-06-cerebral-hemisphere-lobes": {
+  "labels": [
+   [
+    "frontal lobe",
+    [
+     274,
+     374
+    ],
+    "L"
+   ],
+   [
+    "parietal lobe",
+    [
+     689,
+     328
+    ],
+    "R"
+   ],
+   [
+    "occipital lobe",
+    [
+     861,
+     528
+    ],
+    "R"
+   ],
+   [
+    "temporal lobe",
+    [
+     529,
+     591
+    ],
+    "R"
+   ],
+   [
+    "motor area",
+    [
+     437,
+     338
+    ],
+    "L"
+   ],
+   [
+    "sensory area",
+    [
+     508,
+     328
+    ],
+    "L"
+   ],
+   [
+    "cerebellum",
+    [
+     708,
+     702
+    ],
+    "R"
+   ],
+   [
+    "brainstem",
+    [
+     596,
+     789
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-07-spinal-cord-transverse-section": {
+  "labels": [
+   [
+    "white matter",
+    [
+     352,
+     493
+    ],
+    "L"
+   ],
+   [
+    "grey matter",
+    [
+     573,
+     547
+    ],
+    "R"
+   ],
+   [
+    "dorsal horn",
+    [
+     592,
+     445
+    ],
+    "R"
+   ],
+   [
+    "ventral horn",
+    [
+     430,
+     557
+    ],
+    "L"
+   ],
+   [
+    "central canal",
+    [
+     512,
+     517
+    ],
+    "R"
+   ],
+   [
+    "dorsal root",
+    [
+     689,
+     396
+    ],
+    "R"
+   ],
+   [
+    "dorsal root ganglion",
+    [
+     806,
+     517
+    ],
+    "R"
+   ],
+   [
+    "ventral root",
+    [
+     723,
+     640
+    ],
+    "R"
+   ],
+   [
+    "spinal nerve (mixed)",
+    [
+     904,
+     640
+    ],
+    "R"
+   ],
+   [
+    "meninges",
+    [
+     735,
+     572
+    ],
+    "R"
+   ],
+   [
+    "vertebra",
+    [
+     538,
+     826
+    ],
+    "R"
+   ],
+   [
+    "dorsal side (back)",
+    [
+     512,
+     122
+    ],
+    "R"
+   ],
+   [
+    "ventral side (front)",
+    [
+     512,
+     901
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-11-spinal-reflex-arc": {
+  "labels": [
+   [
+    "stimulus (heat)",
+    [
+     173,
+     883
+    ],
+    "L"
+   ],
+   [
+    "receptor in skin",
+    [
+     194,
+     529
+    ],
+    "L"
+   ],
+   [
+    "sensory neurone",
+    [
+     437,
+     571
+    ],
+    "L"
+   ],
+   [
+    "dorsal root",
+    [
+     601,
+     186
+    ],
+    "R"
+   ],
+   [
+    "dorsal root ganglion",
+    [
+     519,
+     247
+    ],
+    "R"
+   ],
+   [
+    "relay neurone",
+    [
+     754,
+     285
+    ],
+    "R"
+   ],
+   [
+    "grey matter",
+    [
+     866,
+     333
+    ],
+    "R"
+   ],
+   [
+    "white matter",
+    [
+     677,
+     278
+    ],
+    "R"
+   ],
+   [
+    "motor neurone",
+    [
+     538,
+     476
+    ],
+    "R"
+   ],
+   [
+    "ventral root",
+    [
+     619,
+     380
+    ],
+    "R"
+   ],
+   [
+    "effector (biceps muscle)",
+    [
+     710,
+     684
+    ],
+    "R"
+   ],
+   [
+    "response (arm bends, hand withdrawn)",
+    [
+     315,
+     542
+    ],
+    "L"
+   ],
+   [
+    "synapse",
+    [
+     749,
+     292
+    ],
+    "R"
+   ],
+   [
+    "to brain",
+    [
+     947,
+     131
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-12-knee-jerk-reflex-arc": {
+  "labels": [
+   [
+    "hammer tap",
+    [
+     454,
+     377
+    ],
+    "L"
+   ],
+   [
+    "patellar tendon",
+    [
+     393,
+     437
+    ],
+    "L"
+   ],
+   [
+    "kneecap",
+    [
+     393,
+     396
+    ],
+    "L"
+   ],
+   [
+    "quadriceps muscle (effector)",
+    [
+     227,
+     291
+    ],
+    "L"
+   ],
+   [
+    "stretch receptor",
+    [
+     223,
+     322
+    ],
+    "L"
+   ],
+   [
+    "sensory neurone",
+    [
+     410,
+     235
+    ],
+    "L"
+   ],
+   [
+    "dorsal root ganglion",
+    [
+     600,
+     218
+    ],
+    "R"
+   ],
+   [
+    "spinal cord",
+    [
+     820,
+     247
+    ],
+    "R"
+   ],
+   [
+    "synapse (only one)",
+    [
+     769,
+     263
+    ],
+    "R"
+   ],
+   [
+    "motor neurone",
+    [
+     475,
+     292
+    ],
+    "L"
+   ],
+   [
+    "lower leg kicks forward",
+    [
+     538,
+     775
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9a-13-cranial-blink-reflex": {
+  "labels": [
+   [
+    "stimulus (puff of air or dust)",
+    [
+     658,
+     475
+    ],
+    "R"
+   ],
+   [
+    "cornea (receptor)",
+    [
+     559,
+     483
+    ],
+    "R"
+   ],
+   [
+    "sensory nerve",
+    [
+     404,
+     494
+    ],
+    "L"
+   ],
+   [
+    "brainstem (co-ordinator)",
+    [
+     305,
+     468
+    ],
+    "L"
+   ],
+   [
+    "motor nerve",
+    [
+     392,
+     454
+    ],
+    "L"
+   ],
+   [
+    "eyelid muscle (effector)",
+    [
+     501,
+     445
+    ],
+    "L"
+   ],
+   [
+    "eyelid closes (response)",
+    [
+     855,
+     506
+    ],
+    "R"
+   ],
+   [
+    "tears",
+    [
+     922,
+     546
+    ],
+    "R"
+   ]
+  ]
+ }
+}

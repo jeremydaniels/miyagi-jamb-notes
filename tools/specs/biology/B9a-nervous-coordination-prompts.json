@@ -6,5 +6,37 @@
  [
   "B9a-09-action-potential-graph-axon",
   "Two-part diagram. Top: a section of axon drawn as a long horizontal tube, with plus signs outside and minus signs inside along most of its length (resting), and one short region where the signs are reversed (plus inside, minus outside) labelled as the action potential, with an arrow showing it moving to the right; small arrows show Na+ ions entering at the action potential and K+ ions leaving just behind it. Bottom: a simple line graph of membrane potential (mV) against time (ms), starting flat at −70 mV, rising sharply to about +40 mV, falling back below −70 mV, then returning to −70 mV. Labels top: axon membrane, resting region (inside negative), action potential (inside positive), Na+ ions in, K+ ions out, direction of impulse. Labels bottom: resting potential (−70 mV), threshold, depolarisation (Na+ in), repolarisation (K+ out), refractory period. Soft blue and orange colours."
+ ],
+ [
+  "B9a-01-human-nervous-system",
+  "Outline of a human figure from the front, standing, with the nervous system drawn in. Show the brain in the head in soft pink, the spinal cord running down the back inside the outline of the vertebral column in pink, and many thin yellow nerves branching out from the brain and spinal cord to the arms, legs, chest and abdomen. On the right side, a simple branching chart: Nervous system splits into Central nervous system (brain, spinal cord) and Peripheral nervous system (cranial nerves, spinal nerves); Peripheral splits into Somatic and Autonomic; Autonomic splits into Sympathetic and Parasympathetic. Labels on the figure: brain, spinal cord, cranial nerve, spinal nerves, nerves to the arm, nerves to the leg."
+ ],
+ [
+  "B9a-04-cranial-meninges-cross-section",
+  "Cross-section through the top of the skull and brain surface showing the protective layers in order from outside inward: scalp skin, skull bone (cranium), dura mater (thick, tough), arachnoid mater (thin with web-like strands), subarachnoid space filled with pale blue cerebrospinal fluid and a blood vessel, pia mater (very thin, closely following the folds of the brain), and the folded grey cerebral cortex with white matter beneath. Soft beige skull, pale pink membranes, light blue fluid, grey and white brain tissue."
+ ],
+ [
+  "B9a-05-human-brain-sagittal-section",
+  "Longitudinal (vertical midline) section of the human brain viewed from the side, facing left. Show the large folded cerebrum occupying the top and front, the band-like corpus callosum curving in the middle joining the two hemispheres, the thalamus as an oval mass in the centre below it, the hypothalamus just below and in front of the thalamus, the pituitary gland hanging from the hypothalamus on a short stalk, the small midbrain, the rounded pons bulging forward below the midbrain, the medulla oblongata tapering down into the spinal cord, and the cerebellum at the back below the cerebrum with its finely folded, tree-like pattern. Use soft distinct pastel colours for each part."
+ ],
+ [
+  "B9a-06-cerebral-hemisphere-lobes",
+  "Side view of the left cerebral hemisphere (outer surface) showing the four lobes in different soft colours: frontal lobe (front, soft blue), parietal lobe (top middle, soft green), occipital lobe (back, soft orange), temporal lobe (lower side, soft purple), with the cerebellum and brainstem below in grey. Mark a narrow strip at the back of the frontal lobe as the motor area and the strip just behind it at the front of the parietal lobe as the sensory area."
+ ],
+ [
+  "B9a-07-spinal-cord-transverse-section",
+  "Transverse section of the spinal cord with a pair of spinal nerves, in a three-dimensional slice view. Show the outer white matter (cream), the central H-shaped or butterfly-shaped grey matter (grey) with two dorsal horns pointing to the back and two ventral horns pointing to the front, a tiny central canal in the middle, the three meninges wrapped around the cord, and on each side a dorsal root with an oval dorsal root ganglion and a ventral root joining to form a spinal nerve. Draw the cord inside the outline of a vertebra. Soft cream, grey, yellow and beige palette."
+ ],
+ [
+  "B9a-11-spinal-reflex-arc",
+  "Classic diagram of a spinal reflex arc for withdrawing the hand from a hot object. On the left, a hand touching a hot pot on a flame, with a receptor in the skin of the fingertip. A sensory neurone (drawn in blue) runs from the receptor up the arm into a transverse section of the spinal cord on the right, entering through the dorsal root with its cell body in the dorsal root ganglion. Inside the H-shaped grey matter, a short relay neurone (green) connects to a motor neurone (red), whose cell body is in the ventral horn; the motor neurone leaves through the ventral root and runs back to the biceps muscle of the upper arm. Show a thin branch of the relay pathway going up the white matter towards the brain (with an arrow). Arrows along all neurones show the direction of the impulse."
+ ],
+ [
+  "B9a-12-knee-jerk-reflex-arc",
+  "Diagram of the knee jerk reflex. On the left, a person's leg seen from the side, with the thigh horizontal and the lower leg hanging down, a small rubber hammer tapping the tendon just below the kneecap, and a dotted outline showing the lower leg kicking forward. The quadriceps muscle on the front of the thigh is shaded pink with a small stretch receptor (muscle spindle) inside it. A sensory neurone (blue) runs from the stretch receptor to a transverse section of the spinal cord on the right, entering through the dorsal root with its ganglion, and synapses directly with a motor neurone (red) in the ventral horn of the grey matter (no relay neurone). The motor neurone runs back to the quadriceps. Arrows show the direction of impulses."
+ ],
+ [
+  "B9a-13-cranial-blink-reflex",
+  "Side view of a human head with the eye in the centre, showing a puff of air (wavy lines) or a small dust particle approaching the front of the eye. Inside the head, a simplified brain with the brainstem highlighted; a sensory pathway (blue) runs from the cornea to the brainstem, and a motor pathway (red) runs from the brainstem to the eyelid muscle, which is shown closing the eyelid. Small inset of the eye with the eyelid closed and a tear."
  ]
 ]

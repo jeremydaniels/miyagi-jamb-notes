@@ -58,7 +58,7 @@ Where:
 4. As the rod heats up, it expands and pushes against the micrometer screw gauge. Adjust the micrometer to gently touch the rod again, and take the new reading.
 5. **Calculation:** The difference between the two micrometer readings gives the extension ($\Delta L$). Calculate the linear expansivity using $\alpha = \frac{\Delta L}{L_1 \Delta T}$.
 
-[IMAGE: A clean, flat textbook illustration showing the experiment to determine the linear expansivity of a solid. A long metal rod is enclosed in a horizontal cylindrical steam jacket. Steam enters through a tube at the top left and exits through a tube at the bottom right. Two thermometers are inserted into the steam jacket. The left end of the rod is firmly fixed to a rigid block. The right end of the rod touches the spindle of a micrometer screw gauge fixed to the table. Labels: "steam in", "steam out", "thermometers", "steam jacket", "metal rod", "fixed end", "micrometer screw gauge". White background.]
+![An experimental setup for measuring the linear expansivity of a metal rod inside a horizontal steam jacket fitted with two thermometers and a micrometer screw gauge.](images/A15-01-linear-expansivity-apparatus.png)
 
 #### 2. Area Expansivity ($\beta$)
 If the solid is a flat sheet (like a metal roof), it expands in both length and width. 
@@ -147,7 +147,7 @@ A **bimetallic strip** is a highly useful application of unequal thermal expansi
 1. **Thermostats:** Used to regulate temperature in electric irons, ovens, and refrigerators. When the iron gets too hot, the strip bends away from an electrical contact, breaking the circuit and turning off the heater. As it cools, it straightens, remaking the contact.
 2. **Fire alarms:** The heat from a fire causes the strip to bend towards an electrical contact. When they touch, the circuit is completed, and the warning bell rings.
 
-[IMAGE: A diagram showing a bimetallic strip. Top panel: The straight bimetallic strip at room temperature, with brass (coloured gold) on top and iron (coloured grey) on the bottom. Middle panel: The strip heated, bending downwards (convex on the brass side) because brass expands more. Bottom panel: A simple fire alarm circuit. The heated strip bends downwards to touch an electrical contact point, completing a circuit connected to a battery and a ringing alarm bell. Labels: "brass (higher expansivity)", "iron (lower expansivity)", "room temperature", "heated", "contact point", "battery", "bell". White background.]
+![Diagram showing a bimetallic strip straight at room temperature, bending downwards when heated, and completing an electrical fire alarm circuit with a battery and ringing bell.](images/A15-02-bimetallic-strip-fire-alarm.png)
 
 ## Thermal expansion of liquids
 
@@ -184,7 +184,7 @@ The apparent expansivity, $\gamma_a$, is calculated using the formula:
 $$\gamma_a = \frac{\text{Mass of liquid expelled}}{\text{Mass of liquid remaining} \times \text{Temperature rise}}$$
 $$\gamma_a = \frac{m_1 - m_2}{m_2 \times (T_2 - T_1)}$$
 
-[IMAGE: A clean, flat textbook illustration of a specific gravity bottle used for liquid expansivity. Left: The bottle completely filled with a liquid at room temperature, with a tiny droplet on top of the stopper. Right: The bottle placed inside a beaker of hot water on a tripod stand over a Bunsen burner, with a thermometer in the water. More liquid is overflowing from the capillary tube in the stopper due to thermal expansion. Labels: "glass stopper with capillary tube", "specific gravity bottle", "liquid", "overflowing liquid", "hot water bath", "thermometer", "heat source". White background.]
+![A diagram demonstrating liquid expansivity using a specific gravity bottle at room temperature and heated in a hot water bath over a Bunsen burner.](images/A15-03-specific-gravity-bottle-experiment.png)
 
 ### Determining volume, apparent, and real expansivities of liquids
 
@@ -247,7 +247,7 @@ This unusual behaviour is called the **anomalous expansion of water**.
 Because water expands as it cools from $4^\circ\text{C}$ to $0^\circ\text{C}$, its volume reaches a **minimum** at $4^\circ\text{C}$.
 Since Density = Mass / Volume, a minimum volume means a maximum density. Therefore, **water reaches its maximum density at $4^\circ\text{C}$** (approximately $1000\ \text{kg m}^{-3}$). As it cools below $4^\circ\text{C}$, it becomes less dense.
 
-[IMAGE: Two side-by-side line graphs demonstrating the anomalous expansion of water. Left graph: Volume on the y-axis versus Temperature (°C) on the x-axis. The curve starts at a higher value at 0°C, dips down to a minimum at 4°C, and then rises smoothly as temperature increases. Right graph: Density on the y-axis versus Temperature (°C) on the x-axis. The curve starts at a lower value at 0°C, rises to a peak maximum at 4°C, and then falls smoothly. Labels on axes: "Volume", "Density", "Temperature (°C)", with "4°C" explicitly marked on the x-axis of both graphs at the turning points. White background.]
+![Two graphs illustrating anomalous expansion of water: volume reaches a minimum at 4 degrees Celsius, while density reaches a maximum at 4 degrees Celsius.](images/A15-04-anomalous-water-expansion-line.png)
 
 **Hope's Apparatus:**
 In the laboratory, the anomalous expansion of water is demonstrated using **Hope's apparatus**. It consists of a tall metal cylinder filled with water, with one thermometer near the top and another near the bottom. A trough of freezing mixture (ice and salt) is wrapped around the middle of the cylinder. 

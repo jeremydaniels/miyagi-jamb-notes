@@ -1,0 +1,114 @@
+{
+ "A15-01-linear-expansivity-apparatus": {
+  "caption_below": "Steam in and steam out circulation through apparatus.",
+  "regions": [
+   "steam jacket"
+  ],
+  "labels": [
+   [
+    "thermometers",
+    [
+     360,
+     380
+    ],
+    "L"
+   ],
+   [
+    "steam jacket",
+    [
+     464,
+     466
+    ],
+    "L"
+   ],
+   [
+    "metal rod",
+    [
+     458,
+     498
+    ],
+    "L"
+   ],
+   [
+    "fixed end",
+    [
+     163,
+     538
+    ],
+    "L"
+   ],
+   [
+    "micrometer screw gauge",
+    [
+     856,
+     524
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A15-03-specific-gravity-bottle-experiment": {
+  "regions": [
+   "liquid",
+   "hot water bath"
+  ],
+  "labels": [
+   [
+    "glass stopper with capillary tube",
+    [
+     256,
+     339
+    ],
+    "L"
+   ],
+   [
+    "specific gravity bottle",
+    [
+     142,
+     689
+    ],
+    "L"
+   ],
+   [
+    "liquid",
+    [
+     241,
+     723
+    ],
+    "L"
+   ],
+   [
+    "overflowing liquid",
+    [
+     749,
+     237
+    ],
+    "R"
+   ],
+   [
+    "hot water bath",
+    [
+     613,
+     493
+    ],
+    "R"
+   ],
+   [
+    "thermometer",
+    [
+     880,
+     284
+    ],
+    "R"
+   ],
+   [
+    "heat source",
+    [
+     741,
+     808
+    ],
+    "R"
+   ]
+  ]
+ }
+}

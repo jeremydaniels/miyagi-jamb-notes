@@ -418,5 +418,65 @@
     "R"
    ]
   ]
+ },
+ "B2d-04-human-skull-dentition": {
+  "labels": [
+   [
+    "incisors",
+    [
+     157,
+     726
+    ],
+    "L"
+   ],
+   [
+    "canine",
+    [
+     198,
+     721
+    ],
+    "L"
+   ],
+   [
+    "premolars",
+    [
+     260,
+     724
+    ],
+    "L"
+   ],
+   [
+    "molars",
+    [
+     335,
+     714
+    ],
+    "L"
+   ],
+   [
+    "upper jaw (maxilla)",
+    [
+     227,
+     636
+    ],
+    "L"
+   ],
+   [
+    "lower jaw (mandible)",
+    [
+     435,
+     741
+    ],
+    "L"
+   ],
+   [
+    "no diastema",
+    [
+     188,
+     721
+    ],
+    "L"
+   ]
+  ]
  }
 }

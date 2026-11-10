@@ -266,7 +266,7 @@ Always check whether the question asks for the number in the half-jaw or the who
 - **No dental pad** and **no carnassial teeth**.
 - The jaw can move **up and down** and **sideways**, so humans can both bite and grind. This suits a **mixed (omnivorous) diet** of plant and animal foods.
 
-[IMAGE: Side view of a human skull with the jaws slightly open, showing a continuous row of teeth without gaps. Colour-code the teeth: incisors (blue), canine (green), premolars (yellow), molars (orange). Labels: incisors, canine, premolars, molars, upper jaw (maxilla), lower jaw (mandible), no diastema. Clean flat textbook style, white background.]
+![Profile view of a human skull with color-coded teeth showing incisors, canines, premolars, and molars in a continuous row without gaps.](images/B2d-04-human-skull-dentition.png)
 
 ### Dental formula of sheep (a herbivore)
 

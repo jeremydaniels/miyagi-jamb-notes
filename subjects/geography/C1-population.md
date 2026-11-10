@@ -89,7 +89,7 @@ The age and sex structure of a population is visually represented by a bar graph
 * **Broad-based pyramid:** Has a wide base that narrows sharply towards the top. This indicates a high birth rate (many children) and a high death rate (few elderly people). It is typical of developing countries with a large youthful population.
 * **Narrow-based (or barrel-shaped) pyramid:** Has a narrow base and a bulging middle. This indicates a low birth rate (fewer children) and a long life expectancy (many adults and elderly people). It is typical of developed countries with an aging population.
 
-[IMAGE: Two population pyramids side by side. The left one (Developing Country, e.g., Nigeria) has a wide base that narrows sharply to the top, showing many young people and few old people. The right one (Developed Country, e.g., Japan) has a narrower base and a bulging middle, showing fewer young people and many middle-aged/elderly people. The horizontal axis shows percentage of population, the vertical axis shows age groups (0-4, 5-9, up to 80+), with males on the left (blue) and females on the right (pink). Clean flat textbook illustration, white background.]
+![Side-by-side population pyramids comparing an expansive pyramid for a developing country with a constrictive, aging pyramid for a developed country across age groups by gender.](images/C1-01-comparative-population-pyramids-plot.png)
 
 **3. The Dependency Ratio**
 The age structure determines the **dependency ratio**, which measures the proportion of the population that relies on the working-age population for financial and social support. 
@@ -117,7 +117,7 @@ The world's population is spread very unevenly. Some areas are packed with peopl
 * **Densely populated areas:** South and East Asia (India, China, Japan), Western Europe, the North-Eastern U.S.A., and fertile river valleys (like the Nile Valley and the Niger Delta).
 * **Sparsely populated areas:** Hot deserts (the Sahara), cold deserts and tundras (Antarctica, Northern Canada), high rugged mountains (the Himalayas), and dense tropical rainforests (the Amazon Basin).
 
-[IMAGE: A simplified world map showing global population distribution. Dark shading indicates densely populated areas (e.g., North-Eastern USA, Western Europe, India, Eastern China). Light shading indicates sparsely populated areas (e.g., Sahara Desert, Amazon Basin in South America, Northern Canada, Australian Outback). Clean flat textbook style, white background.]
+![World map illustrating global population distribution, highlighting densely populated regions like Western Europe, India, and Eastern China, alongside sparsely populated areas including Northern Canada, the Sahara, and Australian Outback.](images/C1-02-global-population-density-map.png)
 
 **Factors Influencing Population Distribution**
 Population distribution is influenced by both physical (natural) and human (economic/social) factors.
@@ -211,7 +211,7 @@ Migration is driven by forces that push people away from their homes and forces 
 | Natural disasters (floods, drought, soil exhaustion) | Favourable climate and fertile land |
 | War, terrorism, or political instability | Peace, safety, and political stability |
 
-[IMAGE: A conceptual diagram showing migration. On the left, a rural village (Source) with arrows pointing outward labelled "Push Factors" (poverty, lack of jobs, poor amenities, soil exhaustion). A large arrow points to the right, representing "Migration". On the right, a modern city skyline (Destination) with arrows pointing inward labelled "Pull Factors" (jobs, electricity, hospitals, higher wages). Clean flat textbook illustration, white background.]
+![Diagram showing rural-urban migration with push factors on the left, an arrow indicating migration, and pull factors attracting people to urban destinations on the right.](images/C1-03-migration-push-pull-factors.png)
 
 ### Effects of migration
 Migration drastically changes both the source and the destination regions.

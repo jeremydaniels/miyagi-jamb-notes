@@ -72,7 +72,7 @@ Microsoft PowerPoint has a rich environment designed to help you create visual s
 ### Output Features
 * **Create a video of your presentation:** Instead of just saving the file as a presentation for a live speaker, you can export the entire slideshow as a video file (like MP4). This video will record all your slide timings, animations, transitions, and even recorded voice narration, turning your presentation into a standalone movie.
 
-[IMAGE: A clean, flat textbook illustration of a PowerPoint window. The image should highlight the Ribbon at the top (labelled "Automatic Ribbons Toolbars"), the slide pane on the left showing slides divided by a "Section" header (labelled "Sections"), a picture on the main slide with dashed alignment lines (labelled "Smart Guides"), and a cursor hovering over an animation star icon with a paintbrush (labelled "Animation Painter"). White background.]
+![Illustration of a presentation window showing Automatic Ribbons Toolbars Sections in the slide pane Animation Painter tool and Smart Guides aligning figures on a slide.](images/C5-01-clean-flat-textbook-powerpoint.png)
 
 ## Steps in activating an existing PowerPoint
 

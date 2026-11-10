@@ -27,7 +27,7 @@ To identify the type of a drama, you must look at three main clues:
 
 By examining these three elements, you can group any play into one of the major types of drama: **Tragedy**, **Comedy**, **Tragicomedy**, **Melodrama**, **Farce**, or **Opera**. 
 
-[IMAGE: Two classic theatre masks side by side. The left mask (Melpomene) is the mask of Tragedy, showing a deeply sad, crying expression with downturned lips. The right mask (Thalia) is the mask of Comedy, showing a joyful, exaggerated smiling expression. Labels to add later: "Tragedy: Serious tone, disastrous ending", "Comedy: Lighthearted tone, happy ending". Clean flat textbook style, white background.]
+![Two classic theatre masks side by side showing a crying, sorrowful tragedy mask on the left and a smiling comedy mask on the right.](images/A1a-01-tragedy-comedy-theater-masks.png)
 
 ## Analysing the contents of the various types of drama
 

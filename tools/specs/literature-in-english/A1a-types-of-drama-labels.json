@@ -1,0 +1,22 @@
+{
+ "A1a-01-tragedy-comedy-theater-masks": {
+  "labels": [
+   [
+    "Tragedy: Serious tone, disastrous ending",
+    [
+     274,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Comedy: Lighthearted tone, happy ending",
+    [
+     751,
+     493
+    ],
+    "R"
+   ]
+  ]
+ }
+}

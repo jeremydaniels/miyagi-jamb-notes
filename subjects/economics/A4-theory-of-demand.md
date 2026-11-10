@@ -101,7 +101,7 @@ A **demand curve** is the graphical representation of a demand schedule. It plot
 
 Because of the inverse relationship between price and quantity, a normal demand curve **slopes downwards from left to right**. 
 
-[IMAGE: A standard demand graph based on Table 1. The vertical axis is labelled "Price (₦)" with grid marks at 50, 100, 150, 200, 250. The horizontal axis is labelled "Quantity Demanded (cups)" with grid marks at 5, 10, 15, 20, 25. A straight line labelled 'D' slopes downwards from top-left to bottom-right, passing through the coordinate points (5, 250), (10, 200), (15, 150), (20, 100), and (25, 50). Dotted lines connect the axes to the point (10, 200). Clean flat textbook illustration, white background.]
+![A downward sloping demand curve plotting price in naira against quantity demanded in cups, showing points from five to twenty-five with dotted lines at ten and two hundred.](images/A4-01-plotted-demand-schedule-graph.png)
 
 *Why does it slope downwards?*
 1.  **Income effect:** As the price falls, the consumer's real income (purchasing power) increases, allowing them to buy more.
@@ -121,7 +121,7 @@ A **change in quantity demanded** occurs when the amount bought changes **solely
 *   **Expansion (Extension) of demand:** When the price falls, consumers buy more. The point moves downward along the curve.
 *   **Contraction of demand:** When the price rises, consumers buy less. The point moves upward along the curve.
 
-[IMAGE: A single downward-sloping demand curve labelled D. The vertical axis is Price, horizontal is Quantity. There are two points on the curve, A and B. Point A is high up (high price P1, low quantity Q1). Point B is lower down (low price P2, high quantity Q2). Arrows show movement along the curve from A down to B, labelled "Expansion of Demand". Clean flat textbook illustration, white background.]
+![A demand curve showing movement from point A at higher price and lower quantity to point B at lower price and higher quantity, illustrating expansion of demand.](images/A4-02-movement-along-demand-curve.png)
 
 #### 2. Change in Demand (Shift of the curve)
 A **change in demand** occurs when the amount bought changes **because of a change in any of the other determinants** (like income, population, or taste), while the **price of the commodity itself remains constant**.
@@ -139,7 +139,7 @@ A **change in demand** occurs when the amount bought changes **because of a chan
     *   An increase in the price of a complement (e.g., petrol becomes too expensive, reducing demand for cars).
     *   The good going out of fashion.
 
-[IMAGE: A graph showing three parallel downward-sloping demand curves. The middle curve is D1. A horizontal dashed line represents a fixed Price P crossing all three curves. The curve to the right is D2. The curve to the left is D3. A horizontal arrow points from D1 to D2 labelled "Increase in Demand (Rightward Shift)". Another horizontal arrow points from D1 to D3 labelled "Decrease in Demand (Leftward Shift)". Clean flat textbook illustration, white background.]
+![A demand curve graph showing an initial downward-sloping curve D1 shifting right to D2 for an increase in demand and left to D3 for a decrease in demand at price P.](images/A4-03-shift-demand-curves-graph.png)
 
 **Table 2: Comparing the two concepts**
 
@@ -231,7 +231,7 @@ Based on the absolute numerical value of $E_d$, we classify demand into five cat
 4.  **Elastic demand ($E_d > 1$):** A small percentage change in price causes a much larger percentage change in quantity demanded. (e.g., price rises by 10%, demand falls by 40%). The curve is **gentle/flat**. Example: Luxury goods.
 5.  **Perfectly elastic demand ($E_d = \infty$):** At a specific prevailing price, consumers will buy an infinite amount, but if the price is raised even slightly, demand drops instantly to zero. The curve is a **horizontal straight line**. Occurs theoretically in perfect competition.
 
-[IMAGE: A panel of 5 small graphs side by side showing the degrees of PED. 1: Vertical line labelled "Perfectly Inelastic (Ed=0)". 2: A steep downward line labelled "Inelastic (Ed<1)". 3: A smooth curved downward line (rectangular hyperbola) labelled "Unitary Elastic (Ed=1)". 4: A gentle/flat downward line labelled "Elastic (Ed>1)". 5: A horizontal line labelled "Perfectly Elastic (Ed=infinity)". Clean flat textbook illustration, white background.]
+![Five demand curves illustrating degrees of price elasticity of demand: perfectly inelastic, inelastic, unitary elastic, elastic, and perfectly elastic.](images/A4-04-price-elasticity-demand-curves.png)
 
 #### 2. Income Elasticity of Demand (YED)
 YED measures how responsive quantity demanded is to a change in consumers' **income** ($Y$).

@@ -1,0 +1,57 @@
+{
+ "template": "graph",
+ "title": "Expansion of Demand",
+ "x_label": "Quantity",
+ "y_label": "Price",
+ "xmax": 10,
+ "ymax": 10,
+ "series": [
+  {
+   "label": "D",
+   "points": [
+    [
+     1.5,
+     8.5
+    ],
+    [
+     8.5,
+     1.5
+    ]
+   ],
+   "style": "solid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 3,
+   "y": 7,
+   "x_text": "Q1",
+   "y_text": "P1"
+  },
+  {
+   "x": 7,
+   "y": 3,
+   "x_text": "Q2",
+   "y_text": "P2"
+  }
+ ],
+ "points": [
+  {
+   "x": 3,
+   "y": 7,
+   "text": "A (P1, Q1)"
+  },
+  {
+   "x": 7,
+   "y": 3,
+   "text": "B (P2, Q2)"
+  }
+ ],
+ "notes": [
+  {
+   "x": 5.2,
+   "y": 5.2,
+   "text": "Expansion of Demand ↓"
+  }
+ ]
+}

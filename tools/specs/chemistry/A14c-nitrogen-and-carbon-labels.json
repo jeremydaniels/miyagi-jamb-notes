@@ -1,55 +1,13 @@
 {
- "A14c-01-nitrogen-gas-laboratory-preparation": {
-  "caption_below": "Heat.",
-  "regions": [
-   "mixture of NH\u2084Cl and NaNO\u2082",
-   "water",
-   "nitrogen gas"
-  ],
-  "labels": [
-   [
-    "mixture of NH\u2084Cl and NaNO\u2082",
-    [
-     317,
-     564
-    ],
-    "L"
-   ],
-   [
-    "delivery tube",
-    [
-     559,
-     493
-    ],
-    "R"
-   ],
-   [
-    "water",
-    [
-     583,
-     839
-    ],
-    "R"
-   ],
-   [
-    "nitrogen gas",
-    [
-     768,
-     510
-    ],
-    "R"
-   ]
-  ]
- },
  "A14c-03-nitrate-brown-ring-test": {
   "regions": [
-   "aqueous mixture of NO\u2083\u207b and FeSO\u2084",
-   "Brown ring (FeSO\u2084\u00b7NO)",
-   "Concentrated H\u2082SO\u2084"
+   "aqueous mixture of NO₃⁻ and FeSO₄",
+   "Brown ring (FeSO₄·NO)",
+   "Concentrated H₂SO₄"
   ],
   "labels": [
    [
-    "aqueous mixture of NO\u2083\u207b and FeSO\u2084",
+    "aqueous mixture of NO₃⁻ and FeSO₄",
     [
      577,
      399
@@ -57,7 +15,7 @@
     "R"
    ],
    [
-    "Brown ring (FeSO\u2084\u00b7NO)",
+    "Brown ring (FeSO₄·NO)",
     [
      491,
      540
@@ -65,7 +23,7 @@
     "L"
    ],
    [
-    "Concentrated H\u2082SO\u2084",
+    "Concentrated H₂SO₄",
     [
      389,
      701

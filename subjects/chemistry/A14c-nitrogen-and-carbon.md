@@ -49,7 +49,7 @@ Heating ammonium nitrite directly is dangerous because it can explode. Therefore
 
 The gas is collected over water because it is only slightly soluble in water.
 
-![A laboratory apparatus diagram showing the preparation and collection of nitrogen gas by heating a chemical mixture in a flask and collecting gas over water.](images/A14c-01-nitrogen-gas-laboratory-preparation.png)
+[IMAGE: A laboratory setup showing a round-bottom flask containing a mixture of ammonium chloride and sodium nitrite solutions, heated with a Bunsen burner. A delivery tube leads from the flask to a pneumatic trough, where nitrogen gas bubbles up into an inverted gas jar filled with water. Labels to add: "mixture of NH₄Cl and NaNO₂", "heat", "delivery tube", "water", "nitrogen gas". Clean flat textbook illustration, white background.]
 
 **Industrial production from liquid air:**
 On a large scale, nitrogen is obtained by the **fractional distillation of liquid air**. 

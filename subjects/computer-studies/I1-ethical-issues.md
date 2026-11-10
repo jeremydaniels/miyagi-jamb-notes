@@ -85,7 +85,7 @@ To stop strangers or unapproved workers from using a computer system, organisati
 4. **Two-Factor Authentication (2FA):** Combining two different methods. For example, to log into a bank app, you might need a password (something you know) AND an OTP (One-Time Password) sent to your mobile phone (something you have).
 5. **Smart Cards and Tokens:** Physical devices that a user must possess to gain access. If you don't have the card, you cannot log in, even if you know the password.
 
-[IMAGE: A computer login screen displaying three methods of authentication: a text box for "Username and Password", an icon for "Fingerprint Scanner", and an icon showing a "Smart Card reader". Clean flat textbook illustration, white background.]
+![Login screen showing three authentication methods Username and Password Fingerprint Scanner and Smart Card Reader in separate panels](images/I1-01-computer-login-screen-displaying.png)
 
 ### List methods to protect computer resources using both electronic and manual methods
 
@@ -135,7 +135,7 @@ These are software tools used to physically stop data from leaking or being view
 * **Secure Socket Layer (SSL/TLS):** Electronic protocols used on websites (indicated by `https://` and a padlock icon). This protects a customer's privacy by encrypting data as it travels from their web browser to the company's server.
 * **Virtual Private Networks (VPNs):** An electronic tool that creates a secure, encrypted tunnel for workers to access company networks safely when working from home or using public Wi-Fi.
 
-[IMAGE: A side-by-side comparison diagram. On the left under "By Law": a document with a judge's gavel labeled "Data Protection Act" and "NDA Contract". On the right under "Electronically": a laptop with a padlock on the screen, a string of scrambled text (Encryption), and a "VPN" shield. Clean flat textbook style.]
+![Diagram comparing data protection methods By Law like Data Protection Act and NDA versus Electronically using Secure Device VPN Shield and Encryption.](images/I1-02-comparison-left-under-law.png)
 
 ---
 

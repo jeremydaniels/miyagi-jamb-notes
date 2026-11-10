@@ -54,7 +54,7 @@ A **fossil** is the **remains, impression or trace** of an organism that lived l
 5. Water seeping through the rock carries **minerals** that slowly fill or replace the hard parts, turning them to stone (**petrification**).
 6. Millions of years later, movements of the Earth's crust lift the rocks, and **erosion** by wind and water exposes the fossil, or people find it by digging or quarrying.
 
-[IMAGE: Five-stage diagram of fossil formation in a row of vertical cross-sections through ground and water. Stage 1: a fish dies and sinks to the bottom of a lake. Stage 2: the body is covered by a layer of mud and sand; soft parts decaying. Stage 3: only the skeleton remains, under more layers of sediment. Stage 4: many layers of rock above the skeleton, which is now grey stone (mineralised). Stage 5: the land surface has been lifted and eroded, and a palaeontologist with a brush uncovers the fossil skeleton on a hillside. Labels to add later: "1 organism dies and sinks", "2 buried quickly by sediment", "3 soft parts decay, hard parts remain", "4 layers become rock; minerals replace bone", "5 uplift and erosion expose fossil", "sedimentary rock layers". Clean flat textbook style, white background.]
+![Five sequential vertical panels illustrating the fossilisation of a fish from sinking and burial through mineralisation in rock layers to excavation by a palaeontologist.](images/E2-01-fossil-formation-stages.png)
 
 ### Dating fossils
 
@@ -70,7 +70,7 @@ A **fossil** is the **remains, impression or trace** of an organism that lived l
 3. **Intermediate forms (transitional fossils, "missing links")** have been found that have features of two different groups, showing how one group arose from another.
 4. **Gradual change within a line of descent** can be traced, for example in the horse.
 
-[IMAGE: A vertical cliff cross-section showing six stacked sedimentary rock layers in different soft earth colours, with fossils drawn in each: bottom layer with simple worm-like and jellyfish-like imprints and trilobites; next layer with fish fossils; next with an amphibian; next with reptile and dinosaur bones and fern leaves; next with an early mammal and a bird skeleton; top layer with modern mammal bones and flowering plant leaves. A vertical arrow on the left side pointing up. Labels to add later: "oldest layers (bottom)", "youngest layers (top)", "simple invertebrates", "fish", "amphibians", "reptiles", "mammals and birds", "flowering plants", "time". Clean flat textbook style, white background.]
+![A sedimentary rock cross-section with six colored layers showing progressive fossil succession from bottom invertebrates to fish, amphibians, reptiles, early mammals with birds, and modern mammals.](images/E2-02-sedimentary-rock-fossil-strata.png)
 
 ### Transitional fossils
 
@@ -87,7 +87,7 @@ A **fossil** is the **remains, impression or trace** of an organism that lived l
 
 *Archaeopteryx* shows that **birds evolved from reptiles** (today, scientists believe they evolved from small, feathered dinosaurs). Many other feathered dinosaur fossils have been found since the 1990s, especially in China.
 
-[IMAGE: Reconstruction drawing of the fossil animal Archaeopteryx, shown both as a slab of pale limestone with the fossil skeleton and feather impressions, and beside it as a living-animal reconstruction in soft colours: a crow-sized creature with feathered wings, three clawed fingers on each wing, small teeth in its jaws and a long bony tail with feathers along both sides. Labels to add later: "feathers", "wing", "claws on wing fingers", "teeth in jaws", "long bony tail", "Archaeopteryx (about 150 million years ago)", "reptile features", "bird features". Clean flat textbook style, white background.]
+![Reconstruction of Archaeopteryx shown beside a limestone fossil slab revealing its skeleton, clawed wings, toothed jaws, and long feathered tail.](images/E2-03-archaeopteryx-fossil-reconstruction.png)
 
 #### *Tiktaalik*: between fish and amphibians
 
@@ -225,7 +225,7 @@ So there are **gaps** in the fossil record. However, new fossils keep filling th
 
 **Textbook variation:** the human **appendix** is the most famous example of a vestigial organ in textbooks. Modern research shows that it is not completely useless: it contains **lymphoid (immune) tissue** and may act as a "safe store" of helpful gut bacteria. Many scientists still call it vestigial because it is much reduced and no longer has its ancestral digestive function, and people live normally without it. "Vestigial" means reduced and without its **original** function, not necessarily completely useless.
 
-[IMAGE: An outline of a human body (front view, neutral, gender-neutral figure in soft beige) with small highlighted circles and leader lines to five vestigial structures: the ear muscles around the ear, the plica semilunaris in the inner corner of the eye (with a small enlarged eye inset), wisdom teeth at the back of the jaw (small skull inset), the appendix at the lower right of the abdomen (small inset of caecum and appendix), and the coccyx at the base of the spine (small inset of the lower spine). Labels to add later: "ear muscles", "plica semilunaris (remnant of third eyelid)", "wisdom teeth", "vermiform appendix", "coccyx (tail bone)", "vestigial structures in humans". Clean flat textbook style, white background.]
+![A diagram of a human body with circular insets highlighting five vestigial structures including ear muscles, plica semilunaris, wisdom teeth, appendix, and coccyx.](images/E2-07-human-vestigial-organs.png)
 
 ## 3. Evidence from comparative physiology and biochemistry
 
@@ -300,7 +300,7 @@ As development continues, the embryos become more and more different, and the sp
 
 **Why this is evidence for evolution:** the similarities are best explained if all vertebrates **share a common ancestor** whose development they have inherited, with later stages modified in each group. The gill pouches of a human embryo, which never become gills, are inherited from fish-like aquatic ancestors.
 
-[IMAGE: A grid of vertebrate embryos at three stages of development, in five columns: fish, salamander (amphibian), turtle (reptile), chicken (bird) and human (mammal). Top row (earliest stage): all five embryos look very similar, curled, with a large head, visible pharyngeal pouches (gill pouches) in the neck region and a tail. Middle row: differences beginning to appear (fins, limb buds, beak, etc.). Bottom row: recognisable young of each animal. Draw in soft pinks and beiges, simple and accurate, not exaggerated. Labels to add later: "fish", "amphibian", "reptile", "bird", "mammal (human)", "early stage: very similar", "pharyngeal (gill) pouches", "tail", "later stages: differences appear". Clean flat textbook style, white background.]
+![Comparison grid showing vertebrate embryos of fish, salamander, turtle, chick, and human across three developmental stages from similar early embryos to distinct juvenile forms.](images/E2-09-vertebrate-embryo-development-grid.png)
 
 ### Life histories as evidence
 

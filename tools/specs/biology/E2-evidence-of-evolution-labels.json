@@ -1,0 +1,326 @@
+{
+ "E2-01-fossil-formation-stages": {
+  "labels": [
+   [
+    "1 organism dies and sinks",
+    [
+     131,
+     726
+    ],
+    "L"
+   ],
+   [
+    "2 buried quickly by sediment",
+    [
+     315,
+     677
+    ],
+    "L"
+   ],
+   [
+    "3 soft parts decay, hard parts remain",
+    [
+     518,
+     655
+    ],
+    "R"
+   ],
+   [
+    "4 layers become rock; minerals replace bone",
+    [
+     708,
+     626
+    ],
+    "R"
+   ],
+   [
+    "5 uplift and erosion expose fossil",
+    [
+     883,
+     609
+    ],
+    "R"
+   ],
+   [
+    "sedimentary rock layers",
+    [
+     702,
+     437
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E2-02-sedimentary-rock-fossil-strata": {
+  "labels": [
+   [
+    "oldest layers (bottom)",
+    [
+     528,
+     901
+    ],
+    "R"
+   ],
+   [
+    "youngest layers (top)",
+    [
+     379,
+     200
+    ],
+    "L"
+   ],
+   [
+    "simple invertebrates",
+    [
+     749,
+     880
+    ],
+    "R"
+   ],
+   [
+    "fish",
+    [
+     319,
+     742
+    ],
+    "L"
+   ],
+   [
+    "amphibians",
+    [
+     538,
+     587
+    ],
+    "R"
+   ],
+   [
+    "reptiles",
+    [
+     369,
+     464
+    ],
+    "L"
+   ],
+   [
+    "mammals and birds",
+    [
+     644,
+     309
+    ],
+    "R"
+   ],
+   [
+    "flowering plants",
+    [
+     241,
+     152
+    ],
+    "L"
+   ],
+   [
+    "time",
+    [
+     95,
+     385
+    ],
+    "L"
+   ]
+  ]
+ },
+ "E2-03-archaeopteryx-fossil-reconstruction": {
+  "labels": [
+   [
+    "feathers",
+    [
+     481,
+     368
+    ],
+    "L"
+   ],
+   [
+    "wing",
+    [
+     729,
+     532
+    ],
+    "R"
+   ],
+   [
+    "claws on wing fingers",
+    [
+     880,
+     570
+    ],
+    "R"
+   ],
+   [
+    "teeth in jaws",
+    [
+     932,
+     226
+    ],
+    "R"
+   ],
+   [
+    "long bony tail",
+    [
+     380,
+     720
+    ],
+    "L"
+   ],
+   [
+    "Archaeopteryx (about 150 million years ago)",
+    [
+     312,
+     389
+    ],
+    "L"
+   ],
+   [
+    "reptile features",
+    [
+     915,
+     223
+    ],
+    "R"
+   ],
+   [
+    "bird features",
+    [
+     775,
+     564
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E2-07-human-vestigial-organs": {
+  "labels": [
+   [
+    "ear muscles",
+    [
+     241,
+     257
+    ],
+    "L"
+   ],
+   [
+    "plica semilunaris (remnant of third eyelid)",
+    [
+     708,
+     143
+    ],
+    "R"
+   ],
+   [
+    "wisdom teeth",
+    [
+     760,
+     410
+    ],
+    "R"
+   ],
+   [
+    "vermiform appendix",
+    [
+     296,
+     760
+    ],
+    "L"
+   ],
+   [
+    "coccyx (tail bone)",
+    [
+     771,
+     783
+    ],
+    "R"
+   ],
+   [
+    "vestigial structures in humans",
+    [
+     518,
+     335
+    ],
+    "R"
+   ]
+  ]
+ },
+ "E2-09-vertebrate-embryo-development-grid": {
+  "labels": [
+   [
+    "fish",
+    [
+     117,
+     828
+    ],
+    "L"
+   ],
+   [
+    "amphibian",
+    [
+     315,
+     829
+    ],
+    "L"
+   ],
+   [
+    "reptile",
+    [
+     520,
+     838
+    ],
+    "R"
+   ],
+   [
+    "bird",
+    [
+     705,
+     833
+    ],
+    "R"
+   ],
+   [
+    "mammal (human)",
+    [
+     908,
+     829
+    ],
+    "R"
+   ],
+   [
+    "early stage: very similar",
+    [
+     508,
+     173
+    ],
+    "L"
+   ],
+   [
+    "pharyngeal (gill) pouches",
+    [
+     136,
+     152
+    ],
+    "L"
+   ],
+   [
+    "tail",
+    [
+     84,
+     263
+    ],
+    "L"
+   ],
+   [
+    "later stages: differences appear",
+    [
+     508,
+     492
+    ],
+    "L"
+   ]
+  ]
+ }
+}

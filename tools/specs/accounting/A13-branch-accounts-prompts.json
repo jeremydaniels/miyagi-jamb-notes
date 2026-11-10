@@ -1,0 +1,14 @@
+[
+ [
+  "A13-01-branch-organization-chart",
+  "Organization chart illustrating a business structure with a central 'Head Office' block at the top. Two arrows point down. The left arrow points to a 'Dependent Branch' box. The right arrow points to an 'Independent Branch' box."
+ ],
+ [
+  "A13-02-branch-accounting-flow",
+  "Flow diagram showing the relationship between Head Office and Branch accounts under the Cost Plus Mark-up Method. A box labeled 'Head Office' sends an arrow labeled 'Goods at Invoice Price (Cost + Mark-up)' to a box labeled 'Branch Stock Account'. From the Branch Stock Account, arrows point out to 'Cash Sales (Cash Book)', 'Credit Sales (Branch Debtors)', and 'Closing Stock'. A dashed arrow points from the 'Invoice Price' arrow down to a 'Branch Adjustment Account', labeled 'Unrealised Profit (Mark-up) removed to find Gross Profit'."
+ ],
+ [
+  "A13-03-reconciliation-balance",
+  "Illustration of a scale or balance showing the reconciliation between Head Office and Branch books. On the left side, a ledger book titled 'Head Office Books (Branch Current A/c - Debit Balance)' with an incoming envelope labeled 'Cash in Transit (subtract to adjust)'. On the right side, a ledger book titled 'Branch Books (Head Office Current A/c - Credit Balance)' with an incoming delivery box labeled 'Goods in Transit (add to adjust)'. Both sides point down to an equals sign showing 'Adjusted Reconciled Balance'."
+ ]
+]

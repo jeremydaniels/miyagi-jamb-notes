@@ -1,0 +1,67 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Reconciliation of Head Office and Branch Accounts",
+ "nodes": [
+  {
+   "id": "cit",
+   "text": "✉ Envelope:\nCash in Transit (subtract to adjust)",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "git",
+   "text": "📦 Delivery Box:\nGoods in Transit (add to adjust)",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "ho_books",
+   "text": "Left Pan / Ledger Book:\nHead Office Books\n(Branch Current A/c - Debit Balance)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "branch_books",
+   "text": "Right Pan / Ledger Book:\nBranch Books\n(Head Office Current A/c - Credit Balance)",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "equals",
+   "text": "= (Balance)",
+   "shape": "oval",
+   "color": "lightgray"
+  },
+  {
+   "id": "reconciled",
+   "text": "Adjusted Reconciled Balance",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "cit",
+   "to": "ho_books",
+   "label": "incoming"
+  },
+  {
+   "from": "git",
+   "to": "branch_books",
+   "label": "incoming"
+  },
+  {
+   "from": "ho_books",
+   "to": "equals"
+  },
+  {
+   "from": "branch_books",
+   "to": "equals"
+  },
+  {
+   "from": "equals",
+   "to": "reconciled"
+  }
+ ]
+}

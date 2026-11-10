@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "title": "Head Office and Branch Accounts: Cost Plus Mark-up Method",
+ "direction": "TB",
+ "nodes": [
+  {
+   "id": "ho",
+   "text": "Head Office",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ip_node",
+   "text": "Goods at Invoice Price\n(Cost + Mark-up)",
+   "shape": "plain"
+  },
+  {
+   "id": "bsa",
+   "text": "Branch Stock Account",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "baa",
+   "text": "Branch Adjustment Account\n(Unrealised Profit / Mark-up removed\nto find Gross Profit)",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "cs",
+   "text": "Cash Sales\n(Cash Book)",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "crs",
+   "text": "Credit Sales\n(Branch Debtors)",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "cls",
+   "text": "Closing Stock",
+   "shape": "round",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ho",
+   "to": "ip_node"
+  },
+  {
+   "from": "ip_node",
+   "to": "bsa"
+  },
+  {
+   "from": "ip_node",
+   "to": "baa",
+   "label": "Mark-up"
+  },
+  {
+   "from": "bsa",
+   "to": "cs"
+  },
+  {
+   "from": "bsa",
+   "to": "crs"
+  },
+  {
+   "from": "bsa",
+   "to": "cls"
+  }
+ ]
+}

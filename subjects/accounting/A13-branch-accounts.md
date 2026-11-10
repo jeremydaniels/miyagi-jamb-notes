@@ -47,7 +47,7 @@ For accounting purposes, branches are divided into two main categories depending
 | **Final Accounts** | The head office prepares the Trading and Profit & Loss Account for the branch. | The branch prepares its own Trading and Profit & Loss Account and sends a copy (along with a Trial Balance) to the head office. |
 | **Management Control** | Strictly controlled by the head office. | Operates almost like a separate business entity, but with the head office acting as the owner. |
 
-[IMAGE: Organization chart illustrating a business structure with a central 'Head Office' block at the top. Two arrows point down. The left arrow points to a 'Dependent Branch' box (labeled: strictly controlled, no separate double entry, head office provides all goods and pays expenses). The right arrow points to an 'Independent Branch' box (labeled: separate double entry ledgers, buys goods locally, pays own expenses). Clean flat textbook style, white background.]
+![Organization chart showing Head Office branching into Dependent Branch with strict control and central accounting, and Independent Branch with separate ledgers and local operations.](images/A13-01-branch-organization-chart.png)
 
 ## Pricing Methods and Accounts Maintained by Head Office
 
@@ -75,7 +75,7 @@ Goods are sent to the branch at cost plus a fixed percentage of expected profit 
 ### 3. Selling Price Method (Retail Price Method)
 Goods are sent to the branch at the exact price they must be sold to the public (the retail or selling price). This method is very similar to the Cost Plus Mark-up method, but it is much stricter because the branch manager has absolutely no power to change the selling price or give discounts without head office permission. Under this method, every unit sent must equal a unit sold or a unit in stock. Any balancing figure on the Branch Stock Account represents a physical loss (shortage) of goods.
 
-[IMAGE: Flow diagram showing the relationship between Head Office and Branch accounts under the Cost Plus Mark-up Method. A box labeled 'Head Office' sends an arrow labeled 'Goods at Invoice Price (Cost + Mark-up)' to a box labeled 'Branch Stock Account'. From the Branch Stock Account, arrows point out to 'Cash Sales (Cash Book)', 'Credit Sales (Branch Debtors)', and 'Closing Stock'. A dashed arrow points from the 'Invoice Price' arrow down to a 'Branch Adjustment Account', labeled 'Unrealised Profit (Mark-up) removed to find Gross Profit'. Clean flat textbook style, white background.]
+![Flow diagram showing Head Office transferring goods at invoice price to Branch Stock Account and Branch Adjustment Account, leading to cash sales, credit sales, and closing stock.](images/A13-02-branch-accounting-flow.png)
 
 ## Account Maintained by a Branch
 
@@ -190,7 +190,7 @@ The disagreement is almost always caused by **timing differences** (items in tra
 2. **Goods in transit:** Goods dispatched by the head office to the branch, but not yet received by the branch before the year ends. (The head office has added it, but the branch has not).
 3. **Errors or Omissions:** For example, the head office charges the branch for management fees, but the branch has not yet received the notification and recorded it.
 
-[IMAGE: Illustration of a scale or balance showing the reconciliation between Head Office and Branch books. On the left side, a ledger book titled 'Head Office Books (Branch Current A/c - Debit Balance)' with an incoming envelope labeled 'Cash in Transit (subtract to adjust)'. On the right side, a ledger book titled 'Branch Books (Head Office Current A/c - Credit Balance)' with an incoming delivery box labeled 'Goods in Transit (add to adjust)'. Both sides point down to an equals sign showing 'Adjusted Reconciled Balance'. Clean flat textbook style, white background.]
+![Diagram showing reconciliation of Head Office and Branch books adjusting for cash and goods in transit to arrive at an equal reconciled balance.](images/A13-03-reconciliation-balance.png)
 
 ### How to Reconcile
 The golden rule for reconciliation is: **Ask yourself, "Who has NOT recorded the transaction?"** The party that has not yet received the item or the notification must make the adjustment in its own books.

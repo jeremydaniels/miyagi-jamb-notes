@@ -1,0 +1,35 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Business Structure: Branch Classification",
+ "nodes": [
+  {
+   "id": "ho",
+   "text": "Head Office",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "dep",
+   "text": "Dependent Branch\n• Strictly controlled\n• No separate double entry\n• Head office provides goods & pays expenses",
+   "shape": "round",
+   "color": "lightblue"
+  },
+  {
+   "id": "indep",
+   "text": "Independent Branch\n• Separate double entry ledgers\n• Buys goods locally\n• Pays own expenses",
+   "shape": "round",
+   "color": "lightgreen"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ho",
+   "to": "dep"
+  },
+  {
+   "from": "ho",
+   "to": "indep"
+  }
+ ]
+}

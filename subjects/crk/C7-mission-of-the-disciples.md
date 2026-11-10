@@ -26,7 +26,7 @@ Jesus sent the twelve out to preach the kingdom of God and to heal the sick. Acc
 
 He gave them very specific instructions regarding **where to go**, **what to preach**, and **how to travel**. In Matthew's account, Jesus strictly commanded them: "Go nowhere among the Gentiles, and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel." Their mission was exclusively to the Jewish people.
 
-[IMAGE: Two men in first-century Middle Eastern clothing walking down a dusty dirt road. They have no extra bags, no money pouches, and are simply dressed in tunics. In the background, a small village of stone and mud-brick houses can be seen. Labels to add later: "Sent two by two", "No bag or money", "Preaching the Kingdom". Clean flat textbook style, white background.]
+![Two men wearing biblical tunics and headdresses walk together down a dirt path leading away from a small village of flat-roofed houses.](images/C7-01-disciples-sent-out-two.png)
 
 ### The Message and the Method
 Jesus told them to preach a simple but powerful message: "The kingdom of heaven is at hand." They were commanded to:
@@ -123,7 +123,7 @@ Both missions were highly successful and demonstrated the transfer of Jesus' spi
 4. **Correction of priorities:** The most important outcome was Jesus teaching them that spiritual power is secondary to salvation. Their greatest joy should not be their power over demons, but the fact that their "names are written in heaven" (they had received eternal life). 
 5. **Jesus' rejoicing:** The success of the humble seventy caused Jesus to rejoice in the Holy Spirit, thanking God for revealing his power through ordinary people.
 
-[IMAGE: A joyful scene of several disciples returning to Jesus. One is raising his hands in excitement, speaking to Jesus. Jesus is smiling gently, pointing upward toward heaven. Labels to add later: "The Seventy return with joy", "Demons are subject to us!", "Rejoice that your names are written in heaven". Clean flat textbook style, white background.]
+![A group of joyful disciples returning to Jesus, with one raising his hands in excitement while Jesus smiles and points upward toward a radiant cloud in the sky.](images/C7-02-biblical-scene-disciples-returning.png)
 
 ## Distinguishing between the mission of the twelve and the seventy
 

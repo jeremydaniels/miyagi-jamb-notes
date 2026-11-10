@@ -153,7 +153,7 @@ Hydroelectric dams require specific geographical features. They are usually buil
 *   **Shiroro Dam:** Located on the Kaduna River in Niger State.
 *   **Jebba Dam:** Located on the River Niger, downstream of Kainji.
 
-[IMAGE: A cross-sectional diagram of a hydroelectric dam. On the left, a large reservoir of water held back by a thick concrete dam wall. A tunnel (penstock) slopes down through the dam to a turbine with blades. The turbine is connected by a vertical shaft to a generator in a powerhouse above. Water flows out the right side into the lower river. Labels to add: "Reservoir (Potential Energy)", "Penstock", "Flowing water (Kinetic Energy)", "Turbine", "Generator", "Power lines". Clean flat textbook style, white background.]
+![A cross-section illustration of a hydroelectric dam showing the water reservoir, intake penstock tunnel, turbine, powerhouse generator, and outgoing power lines.](images/A7b-01-hydroelectric-power-plant-cross.png)
 
 **Energy Production in a Dam:**
 Hydroelectricity relies on the mechanical energy of water. 
@@ -182,7 +182,7 @@ When we talk about solar panels generating electricity (as opposed to just heat)
 
 The individual units inside a solar electricity panel are **photovoltaic (PV) cells**. They are usually made from semiconductor materials like silicon. When sunlight hits the PV cell, the light energy excites electrons in the silicon, knocking them loose. The structure of the cell forces these free electrons to flow in one direction, creating a direct electric current (DC). This direct conversion of light to electricity is a practical application of the photoelectric effect.
 
-[IMAGE: A diagram showing a simple photovoltaic cell. Sunlight (wavy yellow arrows pointing down) strikes the top layer of a rectangular silicon wafer. Inside the wafer, small circles representing electrons are knocked loose and flow through an external wire attached to the top and bottom layers, passing through a lightbulb that is glowing. Labels to add: "Sunlight (photons)", "N-type silicon", "P-type silicon", "Free electrons", "Electric current", "Lightbulb". Clean flat textbook style, white background.]
+![Diagram of a simple photovoltaic cell showing sunlight striking an N-type silicon layer, causing free electrons to flow through an external circuit to power a glowing lightbulb.](images/A7b-02-photovoltaic-cell.png)
 
 ### The photoelectric effect
 

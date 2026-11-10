@@ -1,0 +1,50 @@
+{
+ "A7b-01-hydroelectric-power-plant-cross": {
+  "caption_below": "Flowing water Kinetic Energy",
+  "regions": [
+   "Reservoir (Potential Energy)"
+  ],
+  "labels": [
+   [
+    "Reservoir (Potential Energy)",
+    [
+     153,
+     494
+    ],
+    "L"
+   ],
+   [
+    "Penstock",
+    [
+     390,
+     592
+    ],
+    "L"
+   ],
+   [
+    "Turbine",
+    [
+     559,
+     666
+    ],
+    "R"
+   ],
+   [
+    "Generator",
+    [
+     555,
+     393
+    ],
+    "R"
+   ],
+   [
+    "Power lines",
+    [
+     807,
+     326
+    ],
+    "R"
+   ]
+  ]
+ }
+}

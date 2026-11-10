@@ -37,7 +37,7 @@ Throughout history, the right to vote was not given to everyone. It usually evol
    - The **Macpherson Constitution of 1951** and **Lyttelton Constitution of 1954** expanded voting rights, but it was still restricted in many areas. For example, in Northern Nigeria, only men could vote (male adult suffrage).
    - The **1979 Constitution** finally introduced fully nationwide **Universal Adult Suffrage**, giving voting rights to all eligible adult citizens, including women in Northern Nigeria, for the first time.
 
-[IMAGE: A timeline showing the evolution of suffrage in Nigeria. 1922: A formally dressed wealthy man in Lagos dropping a ballot into a box (Clifford Constitution, limited franchise). 1951/54: A larger group of men voting in different regions (expanding franchise). 1979: A diverse queue of Nigerian men and women, including women in hijab from the North, voting together (Universal Adult Suffrage). Labels to add later: "1922: Limited Franchise (Lagos/Calabar only, £100 income)", "1951-1954: Expanded Male Suffrage", "1979: Universal Adult Suffrage Nationwide". Clean flat textbook style, white background.]
+![Four panels illustrating the evolution of suffrage in Nigeria, from a single wealthy man voting, to expanding male suffrage, to universal adult suffrage with diverse men and women.](images/A12-01-evolution-suffrage-timeline.png)
 
 ### Types of Suffrage (Franchise)
 
@@ -185,7 +185,7 @@ How exactly does an election happen?
 6. **Sorting and Counting:** Votes are counted at the polling unit in front of party agents.
 7. **Collation and Declaration:** Results from units are grouped together at ward, local government, state, and national levels until the final winner is declared.
 
-[IMAGE: A flowchart of the electoral process from start to finish. Boxes connected by arrows: 1. Delimitation of Constituencies -> 2. Voter Registration -> 3. Party Primaries -> 4. Political Campaigns -> 5. Accreditation & Voting -> 6. Counting & Collation -> 7. Declaration of Results. Use clean flat textbook style, white background, with a small relevant icon in each box (e.g., a map for delimitation, a megaphone for campaigns, a ballot box for voting).]
+![A vertical flowchart illustrating seven sequential stages of the electoral process from constituency delimitation to declaration of results.](images/A12-03-electoral-process-stage-flowchart.png)
 
 ### Problems Facing Electoral Commissions in Developing Nations
 

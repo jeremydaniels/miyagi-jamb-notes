@@ -26,7 +26,21 @@ def canvas(w=10, h=7):
     return fig
 
 
+MIN_PT = 14
+
+
 def save(fig, path):
+    """Save with a text lint: every text is raised to at least MIN_PT and overlapping texts are nudged apart."""
+    from matplotlib.text import Text
+    texts = [t for t in fig.findobj(Text) if t.get_text().strip() and t.get_visible()]
+    for t in texts:
+        if t.get_fontsize() < MIN_PT:
+            t.set_fontsize(MIN_PT)
+    try:
+        from templates import declutter
+        declutter(fig, [t for t in texts if t.axes is not None], None)
+    except Exception:
+        pass
     fig.savefig(path, facecolor="white", bbox_inches="tight", pad_inches=0.25)
     plt.close(fig)
 

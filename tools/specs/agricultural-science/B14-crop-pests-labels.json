@@ -1,0 +1,69 @@
+{
+ "B14-01-grasshopper-life-cycle": {
+  "caption_below": "Incomplete metamorphosis",
+  "labels": [
+   [
+    "Egg pod in soil",
+    [
+     235,
+     573
+    ],
+    "L"
+   ],
+   [
+    "Nymph (wingless)",
+    [
+     596,
+     719
+    ],
+    "R"
+   ],
+   [
+    "Adult grasshopper",
+    [
+     663,
+     253
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B14-02-maize-weevil-life-cycle": {
+  "caption_below": "Complete metamorphosis",
+  "labels": [
+   [
+    "Egg",
+    [
+     520,
+     241
+    ],
+    "R"
+   ],
+   [
+    "Larva (grub)",
+    [
+     864,
+     390
+    ],
+    "R"
+   ],
+   [
+    "Pupa",
+    [
+     512,
+     833
+    ],
+    "R"
+   ],
+   [
+    "Adult weevil",
+    [
+     181,
+     488
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B14-03-pesticide-modes-action": {}
+}

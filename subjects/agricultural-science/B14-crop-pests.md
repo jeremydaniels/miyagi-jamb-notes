@@ -123,7 +123,7 @@ The grasshopper undergoes **incomplete metamorphosis** (Egg $\rightarrow$ Nymph 
 2.  **Nymph:** After a few weeks (or months, depending on the dry season), the eggs hatch into nymphs. Nymphs look like small adult grasshoppers but do not have wings. They immediately begin to bite and chew on low-growing vegetation.
 3.  **Adult:** The nymph feeds heavily and moults (sheds its exoskeleton) about 5 to 6 times. With each moult (called an instar), it grows larger and develops wing pads. After the final moult, it becomes a fully winged, sexually mature adult capable of flying, mating, and causing severe damage to crop foliage.
 
-[IMAGE: Life cycle of a grasshopper. A circular diagram with three main stages. 1. An adult grasshopper depositing a pod of eggs into the soil. 2. A tiny nymph hatching from the egg, looking like a wingless grasshopper. 3. An adult grasshopper with fully developed wings feeding on a green leaf. Arrows connect Egg to Nymph to Adult, and back to Egg. Labels: "Egg pod in soil", "Nymph (wingless)", "Adult grasshopper", "Incomplete metamorphosis". Clean flat textbook style, white background.]
+![A circular life cycle diagram of a grasshopper showing egg laying in soil, a nymph hatching from an egg underground, and an adult grasshopper perched on a plant.](images/B14-01-grasshopper-life-cycle.png)
 
 #### 2. Boring Insect: The Maize Weevil
 The maize weevil (*Sitophilus zeamais*) undergoes **complete metamorphosis** (Egg $\rightarrow$ Larva $\rightarrow$ Pupa $\rightarrow$ Adult).
@@ -133,7 +133,7 @@ The maize weevil (*Sitophilus zeamais*) undergoes **complete metamorphosis** (Eg
 3.  **Pupa:** Once fully grown, the larva pupates inside the hollowed-out grain. The pupa does not feed; it is undergoing internal transformation.
 4.  **Adult:** The adult weevil emerges from the pupa, chews an exit hole through the seed coat, and crawls out. It will mate, and the females will begin laying eggs in fresh grains.
 
-[IMAGE: Life cycle of a maize weevil. A circular diagram with four stages centered around a maize grain. 1. Egg: A cross-section of a maize grain showing a tiny egg laid inside a sealed hole. 2. Larva: A fat, white, legless grub eating the inside of the grain. 3. Pupa: A resting pupa inside the hollowed grain. 4. Adult: A dark-brown weevil with a distinct snout emerging from a round exit hole in the grain. Labels: "Egg", "Larva (grub)", "Pupa", "Adult weevil", "Complete metamorphosis". Clean flat textbook style, white background.]
+![Circular life cycle diagram of a maize weevil showing egg, larva, pupa, and adult weevil stages inside corn kernels around a central maize grain.](images/B14-02-maize-weevil-life-cycle.png)
 
 #### 3. Sucking Insects: Aphid and Cotton Stainer
 
@@ -214,7 +214,7 @@ Pesticides are grouped based on the specific type of pest they are designed to k
     *   *How they work:* These are chemicals applied in a gaseous form. The toxic gas is inhaled by the pest through its respiratory system, killing it. 
     *   *Best for:* **Storage pests** (weevils and beetles in airtight silos) and **soil pests** (nematodes). E.g., Phostoxin tablets.
 
-[IMAGE: A four-panel illustration showing pesticide modes of action. 1. Stomach Poison: A caterpillar chewing on a leaf that has chemical droplets on the surface, with a skull/crossbones inside its stomach. 2. Contact Poison: A beetle walking over a sprayed surface, with chemical droplets absorbing through its legs and back. 3. Systemic Poison: An aphid sucking sap from a stem; arrows show the chemical moving from the roots, up the stem, and into the aphid. 4. Fumigant: Gas clouds surrounding a weevil inside a closed silo container. Clean flat textbook style, white background.]
+![A four-panel illustration showing pesticide modes of action: stomach poison in a caterpillar, contact poison on a beetle, systemic poison uptake into an aphid, and fumigation of a weevil.](images/B14-03-pesticide-modes-action.png)
 
 ### Side Effects of Pesticides
 

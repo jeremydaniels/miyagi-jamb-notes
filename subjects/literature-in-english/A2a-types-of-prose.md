@@ -59,7 +59,7 @@ A novel is a long, complex work of prose fiction.
 - **Components:** It features a large cast of characters (both major and minor), multiple settings, and a complex plot that often includes several **sub-plots** (smaller secondary stories running alongside the main story). It explores themes in great depth and often takes place over a long period.
 - **Example:** Chimamanda Ngozi Adichie's *Half of a Yellow Sun*.
 
-[IMAGE: A comparative infographic showing three physical books of increasing thickness side-by-side. Book 1 (far left) is very thin, labelled "Short Story", with text reading "One main conflict, few characters, read in one sitting." Book 2 (middle) is medium thickness, labelled "Novella/Novelette", with text reading "Longer than a short story, single focus but more character development." Book 3 (far right) is very thick, labelled "Novel", with text reading "Long, complex, many characters, multiple sub-plots." Clean flat textbook illustration style, white background.]
+![Diagram comparing three books of increasing thickness representing short story, novella, and novel, alongside descriptions of their typical length, scope, and character complexity.](images/A2a-01-prose-types-comparison-infographic.png)
 
 ## Differentiate between types of novel
 

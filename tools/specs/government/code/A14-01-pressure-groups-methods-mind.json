@@ -1,0 +1,13 @@
+{
+ "template": "hub",
+ "title": "Modus Operandi of Pressure Groups",
+ "center": "Pressure Groups",
+ "spokes": [
+  "Lobbying\n(Persuading lawmakers)",
+  "Strikes\n(Refusing to work)",
+  "Protests\n(Public marches)",
+  "Mass Media\n(Press conferences & campaigns)",
+  "Litigation\n(Going to court)",
+  "Boycotts\n(Refusing to buy/participate)"
+ ]
+}

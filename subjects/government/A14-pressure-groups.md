@@ -79,7 +79,7 @@ The syllabus uses the term **modus operandi**, which is a Latin phrase meaning "
 6. **Boycotts:** This involves organizing members and the public to refuse to buy a certain product, use a particular service, or participate in an event to protest an unfair policy.
 7. **Litigation (Court actions):** If a government policy violates the constitution or the rights of the group's members, the pressure group can take the government to court. Promotional groups like SERAP frequently use this method in Nigeria.
 
-[IMAGE: A flowchart or mind-map diagram titled "Modus Operandi of Pressure Groups". In the centre, a circle says "Pressure Groups". Arrows point outward to smaller circles representing different methods: "Lobbying (Persuading lawmakers)", "Strikes (Refusing to work)", "Protests (Public marches)", "Mass Media (Press conferences & campaigns)", "Litigation (Going to court)", and "Boycotts (Refusing to buy/participate)". Clean flat textbook style, white background, using distinct colours for each method to make it easy to remember.]
+![Mind map illustrating the modus operandi of pressure groups branching into lobbying, strikes, protests, mass media, litigation, and boycotts.](images/A14-01-pressure-groups-methods-mind.png)
 
 ## Differences between Pressure Groups and Political Parties
 

@@ -52,7 +52,7 @@ JAMB frequently tests the differences between Matthew's and Luke's accounts of t
 | **Addition of Woes?** | No woes | Four woes (e.g., "Woe to you that are rich") |
 | **Focus** | **Spiritual** (e.g., "poor *in spirit*", "hunger and thirst *for righteousness*") | **Physical/Social** (e.g., "you that are poor", "you that hunger now") |
 
-[IMAGE: A comparative split-panel illustration. On the left, Jesus sitting on a grassy hillside (Mount) teaching a large crowd, with a banner reading "Matthew 5: Nine Spiritual Beatitudes". On the right, Jesus standing on a flat, level field (Plain) teaching people, with a banner reading "Luke 6: Four Physical Beatitudes & Four Woes". Clean flat textbook style, white background.]
+![Split panel illustration showing Jesus seated on a grassy hillside teaching a group, and Jesus standing on a flat plain teaching a surrounding crowd.](images/C6-01-sermon-mount-plain.png)
 
 ### 2. Believers as Salt and Light (Matthew 5:13-16)
 
@@ -107,7 +107,7 @@ Jesus commanded: *"Do not lay up for yourselves treasures on earth... but lay up
 3. **Spiritual Darkness (The Evil Eye):** Jesus described the eye as the "lamp of the body." If your eye is sound (generous, focused on God), you are full of light. If your eye is not sound (greedy, envious, focused on money), your whole body will be full of darkness. Placing wealth first blinds a person to spiritual realities.
 4. **Enslavement to Mammon:** You cannot be a slave to two masters. If you prioritize worldly possessions, wealth becomes your master ("Mammon"). Consequently, you will end up hating, despising, or neglecting God. You cannot serve both.
 
-[IMAGE: An illustration showing a scale or a fork in a path. On one side, earthly treasures: a chest overflowing with gold coins, but with moths flying around it, rust creeping over the chest, and a thief sneaking in the background. On the other side, a glowing chest in the clouds, representing heavenly treasures, untouched and shining with divine light. Labels to add later: "Treasures on Earth: Moth, Rust, Thieves", "Treasures in Heaven: Secure, Eternal". Clean flat textbook style, white background.]
+![A balance scale weighing earthly treasures decayed by moths, rust, and thieves against eternal heavenly treasures surrounded by light, angels, and Jesus.](images/C6-02-earthly-versus-heavenly-treasure.png)
 
 ## Objective iv: Associate the rewards for obedience with the Sermon on the Mount
 

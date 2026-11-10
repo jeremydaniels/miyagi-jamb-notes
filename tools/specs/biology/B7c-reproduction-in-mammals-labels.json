@@ -232,7 +232,7 @@
      272,
      159
     ],
-    "L"
+    "T"
    ],
    [
     "acrosome enzymes",
@@ -283,14 +283,6 @@
     "R"
    ],
    [
-    "zygote (2n)",
-    [
-     755,
-     737
-    ],
-    "R"
-   ],
-   [
     "polar body",
     [
      769,
@@ -298,7 +290,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "zygote (2n)",
+    755,
+    943
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7c-06-ovulation-implantation-pathway": {
   "labels": [
@@ -367,7 +368,7 @@
     "L"
    ],
    [
-    "morula (day 3\u20134)",
+    "morula (day 3–4)",
     [
      366,
      347
@@ -375,7 +376,7 @@
     "L"
    ],
    [
-    "blastocyst (day 4\u20135)",
+    "blastocyst (day 4–5)",
     [
      307,
      466
@@ -399,7 +400,7 @@
     "L"
    ],
    [
-    "implantation (day 6\u20137)",
+    "implantation (day 6–7)",
     [
      335,
      487
@@ -491,7 +492,7 @@
     "R"
    ],
    [
-    "incubator (37 \u00b0C)",
+    "incubator (37 °C)",
     [
      573,
      555

@@ -94,14 +94,6 @@
   ],
   "labels": [
    [
-    "Sheep",
-    [
-     258,
-     247
-    ],
-    "L"
-   ],
-   [
     "drooping ears",
     [
      120,
@@ -116,14 +108,6 @@
      761
     ],
     "L"
-   ],
-   [
-    "Goat",
-    [
-     754,
-     292
-    ],
-    "R"
    ],
    [
     "erect ears",
@@ -157,7 +141,21 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Sheep",
+    269,
+    524
+   ],
+   [
+    "Goat",
+    758,
+    507
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C1-03-large-white-pig-profile": {
   "regions": [

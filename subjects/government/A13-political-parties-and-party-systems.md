@@ -46,7 +46,7 @@ Political parties are usually structured hierarchically, much like a pyramid, st
 3. **The State Level:** This level coordinates party activities across all LGAs in a state. It is responsible for organizing campaigns for the governorship and state house of assembly elections.
 4. **The National Level:** This is the peak of the party's structure. The national headquarters coordinates the party across the entire country and prepares for federal elections (like the presidency and the national assembly).
 
-[IMAGE: A pyramid diagram showing the structure of a political party in Nigeria. The bottom and widest section is labeled "Ward Level (Grassroots)", the next section up is "Local Government Level", then "State Level", and the small triangle at the top is "National Level". An arrow points upwards to indicate the flow of power and representation. Clean flat textbook style, white background, clear bold text.]
+![A four-tier pyramid showing the structure of a Nigerian political party from Ward Level at the base up to National Level, with an upward arrow indicating representation flow.](images/A13-01-political-party-hierarchy-pyramid.png)
 
 ### Key Organs of a Political Party
 At the national and state levels, parties operate through specific committees and bodies:

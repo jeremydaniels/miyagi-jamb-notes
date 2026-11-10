@@ -1,0 +1,75 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Memorandum Joint Venture System",
+ "nodes": [
+  {
+   "id": "books_a",
+   "text": "Venturer A's Books",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "data_a",
+   "text": "Costs: ₦160,000\nRevenues: ₦120,000",
+   "shape": "plain"
+  },
+  {
+   "id": "books_b",
+   "text": "Venturer B's Books",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "data_b",
+   "text": "Costs: ₦85,000\nRevenues: ₦215,000",
+   "shape": "plain"
+  },
+  {
+   "id": "memo_acct",
+   "text": "Memorandum Joint Venture Account\n(Rough Sheet - Profit: ₦90,000)",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "share_a",
+   "text": "Venturer A's Profit Share\nCredited to Joint Venture A/c",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "share_b",
+   "text": "Venturer B's Profit Share\nCredited to Joint Venture A/c",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "books_a",
+   "to": "data_a"
+  },
+  {
+   "from": "data_a",
+   "to": "memo_acct"
+  },
+  {
+   "from": "books_b",
+   "to": "data_b"
+  },
+  {
+   "from": "data_b",
+   "to": "memo_acct"
+  },
+  {
+   "from": "memo_acct",
+   "to": "share_a",
+   "label": "Split profit"
+  },
+  {
+   "from": "memo_acct",
+   "to": "share_b",
+   "label": "Split profit"
+  }
+ ]
+}

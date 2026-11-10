@@ -175,7 +175,7 @@ The Memorandum Joint Venture Account is a rough statement prepared on a separate
 * **Credit side:** All sales and unsold stock taken over by **all** venturers.
 * The balancing figure is the Profit or Loss, which is then shared in the agreed ratio.
 
-[IMAGE: Flow diagram illustrating the Memorandum Joint Venture system. Two distinct boxes represent "Venturer A's Books" and "Venturer B's Books", both feeding data into a central "Memorandum Joint Venture Account" on a rough sheet. Arrows show Venturer A's costs (₦160,000) and revenues (₦120,000) and Venturer B's costs (₦85,000) and revenues (₦215,000) flowing into the Memorandum Account to calculate a final profit of ₦90,000, which is then split and sent back to their respective books. Clean flat textbook style, white background.]
+![Diagram showing financial flows from Venturer A and B into a central Memorandum Joint Venture Account to determine net profit and distribute shares back.](images/A14-01-joint-venture-flow.png)
 
 #### Worked Example: Memorandum Method
 

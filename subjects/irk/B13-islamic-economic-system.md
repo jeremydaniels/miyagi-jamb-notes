@@ -83,7 +83,7 @@ In Pickthall's translation, Q.83:1-6 reads:
 3. **Divine punishment:** As stated in Surah al-Mutaffifin, those who engage in this fraud will face severe judgment on the Day of Resurrection.
 4. **Social injustice:** It is a form of stealing that often hurts the poor and vulnerable who rely on getting exact value for their hard-earned money.
 
-[IMAGE: A vibrant Nigerian outdoor market scene. On the left, a deceitful trader is secretly pressing a finger under a weighing scale while selling yams, giving less weight. On the right, an honest trader with a balanced traditional scale is carefully pouring grains into a measuring bowl to ensure it is full. Above, a stylized balance scale tips heavily to one side. Labels to add later: "At-tatfif (Defrauding)", "Dishonest trader giving short measure", "Honest trade (Halal)". Clean flat textbook style, white background.]
+![A market scene comparing a dishonest trader manipulating a yam scale on the left with an honest trader measuring grain accurately on the right, under a tilted balance scale.](images/B13-01-market-defrauding-vs-honest.png)
 
 ## Hoarding (Ihtikar)
 
@@ -185,7 +185,7 @@ Baitul-Mal is not the personal bank account of the ruler; it is a trust belongin
 5. **Debt Relief:** Paying off the debts of individuals who died leaving behind unpaid lawful debts and no assets to cover them.
 6. **Support for Non-Muslims:** The welfare aspect of the Baitul-Mal covers needy non-Muslim citizens (Dhimmis) as well, as they paid Jizyah when they were able-bodied.
 
-[IMAGE: A flowchart showing the flow of funds in the Baitul-Mal. Top row showing sources of income with arrows pointing into a central treasury building labeled "Baitul-Mal". Sources include: "Zakah (Alms tax)", "Jizyah (Poll tax)", "Kharaj (Land tax)", "Ghanimah (1/5th of Spoils)". Bottom row showing arrows pointing out from the treasury to disbursement categories: "Social Welfare (Poor, Orphans)", "Public Infrastructure (Roads, Hospitals)", "State Salaries", "Emergency Relief". Clean flat textbook style, white background.]
+![Flowchart showing income sources flowing into the Baitul-Mal central treasury and disbursements flowing out to public welfare, infrastructure, salaries, and emergency relief.](images/B13-02-baitul-mal-treasury-flowchart.png)
 
 ## Comparing Islamic and Western Economic Systems
 

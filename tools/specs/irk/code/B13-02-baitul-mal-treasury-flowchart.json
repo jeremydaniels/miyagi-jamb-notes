@@ -1,0 +1,95 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Flow of Funds in the Baitul-Mal",
+ "nodes": [
+  {
+   "id": "zakah",
+   "text": "Zakah\n(Alms tax)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "jizyah",
+   "text": "Jizyah\n(Poll tax)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "kharaj",
+   "text": "Kharaj\n(Land tax)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "ghanimah",
+   "text": "Ghanimah\n(1/5th of Spoils)",
+   "shape": "box",
+   "color": "lightgreen"
+  },
+  {
+   "id": "baitul_mal",
+   "text": "Baitul-Mal\n(Central Treasury)",
+   "shape": "round",
+   "color": "yellow"
+  },
+  {
+   "id": "welfare",
+   "text": "Social Welfare\n(Poor, Orphans)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "infra",
+   "text": "Public Infrastructure\n(Roads, Hospitals)",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "salaries",
+   "text": "State Salaries",
+   "shape": "box",
+   "color": "lightblue"
+  },
+  {
+   "id": "emergency",
+   "text": "Emergency Relief",
+   "shape": "box",
+   "color": "lightblue"
+  }
+ ],
+ "edges": [
+  {
+   "from": "zakah",
+   "to": "baitul_mal"
+  },
+  {
+   "from": "jizyah",
+   "to": "baitul_mal"
+  },
+  {
+   "from": "kharaj",
+   "to": "baitul_mal"
+  },
+  {
+   "from": "ghanimah",
+   "to": "baitul_mal"
+  },
+  {
+   "from": "baitul_mal",
+   "to": "welfare"
+  },
+  {
+   "from": "baitul_mal",
+   "to": "infra"
+  },
+  {
+   "from": "baitul_mal",
+   "to": "salaries"
+  },
+  {
+   "from": "baitul_mal",
+   "to": "emergency"
+  }
+ ]
+}

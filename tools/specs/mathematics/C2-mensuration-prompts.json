@@ -1,0 +1,30 @@
+[
+ [
+  "C2-01-triangle-types-geometry",
+  "A right-angled triangle with base b and height h, an isosceles triangle with a dashed vertical height line, and a scalene triangle with sides a, b, c. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C2-02-quadrilateral-types-geometry",
+  "A collection of quadrilaterals: a rectangle, square, parallelogram (with vertical height h), rhombus (with intersecting diagonals shown), trapezium, and kite. Clean flat textbook illustration, white background."
+ ],
+ [
+  "C2-03-circle-chord-geometry",
+  "A circle with a chord drawn. The chord subtends an angle theta at the centre. A perpendicular line from the centre bisects the chord and the angle, splitting the main triangle into two right-angled triangles."
+ ],
+ [
+  "C2-04-circle-sector-segment",
+  "Two side-by-side circles. The left circle highlights a sector bounded by two radii and an arc, with central angle theta. The right circle highlights a minor segment bounded by a chord and an arc."
+ ],
+ [
+  "C2-05-geometric-solids-mensuration",
+  "A 3D illustration of a cuboid, a cylinder, and a cone, each with their key dimensions (l, b, h for cuboid; r, h for cylinder; r, h, l for cone) clearly labelled."
+ ],
+ [
+  "C2-06-cone-net-folding",
+  "A 2D net of a sector of a circle with radius R being folded into a 3D cone. The resulting cone has a base radius r and a slant height l (which equals R). Arrows indicate the rolling action."
+ ],
+ [
+  "C2-07-earth-geometry-latitude-longitude",
+  "A 3D sphere representing the Earth, with the Equator, the Greenwich Meridian, a smaller parallel of latitude and a meridian of longitude drawn. The radius R from the centre to the Equator and the smaller radius r for the parallel of latitude are shown, highlighting the angle alpha between them."
+ ]
+]

@@ -46,7 +46,7 @@ A triangle is a three-sided polygon. The formula you use for its area depends on
   $$A = \frac{1}{2}ab\sin\theta$$
   *(Note: In the JAMB exam, trigonometric tables or an on-screen calculator will be provided for you to find sine values).*
 
-[IMAGE: A right-angled triangle with base b and height h, an isosceles triangle with a dashed vertical height line, and a scalene triangle with sides a, b, c. Clean flat textbook illustration, white background.]
+![Three labeled triangles side by side: a blue right-angled triangle with base b and height h, a green isosceles triangle with vertical dashed height line, and an orange scalene triangle with sides a, b, and c.](images/C2-01-triangle-types-geometry.png)
 
 #### 2. Quadrilaterals
 A quadrilateral is a four-sided polygon. The common ones tested by JAMB include:
@@ -60,7 +60,7 @@ A quadrilateral is a four-sided polygon. The common ones tested by JAMB include:
 | **Trapezium** | $P = a+b+c+d$ | $A = \frac{1}{2}(a+b)h$ | $a$, $b$ = parallel sides, $c$, $d$ = non-parallel sides, $h$ = height |
 | **Kite** | $P = 2(a + b)$ | $A = \frac{1}{2}d_1d_2$ | $a$, $b$ = pairs of equal sides, $d_1$, $d_2$ = diagonals |
 
-[IMAGE: A collection of quadrilaterals: a rectangle, square, parallelogram (with vertical height h), rhombus (with intersecting diagonals shown), trapezium, and kite. Clean flat textbook illustration, white background.]
+![A diagram showing six labeled quadrilaterals: square, rectangle, parallelogram with vertical height h, rhombus with intersecting diagonals, trapezium, and kite, each with geometric properties marked.](images/C2-02-quadrilateral-types-geometry.png)
 
 #### 3. Circles
 A circle is a shape where all boundary points are at an equal distance (the **radius**, $r$) from the centre.
@@ -143,7 +143,7 @@ If a chord subtends an angle $\theta$ at the centre of a circle of radius $r$, i
 $$L = 2r\sin\left(\frac{\theta}{2}\right)$$
 **Why this works:** If you draw a triangle using the two radii and the chord, dropping a perpendicular line from the centre to the chord bisects both the angle (making it $\frac{\theta}{2}$) and the chord. Using basic trigonometry (SOH), the half-chord length is $r\sin(\frac{\theta}{2})$, so the full chord is twice that.
 
-[IMAGE: A circle with a chord drawn. The chord subtends an angle theta at the centre. A perpendicular line from the centre bisects the chord and the angle, splitting the main triangle into two right-angled triangles. Labels: "r", "theta", "chord". Clean flat textbook style, white background.]
+![A circle diagram displaying a chord subtending central angle theta, bisected perpendicularly from the centre to form two right-angled triangles with radius r.](images/C2-03-circle-chord-geometry.png)
 
 ### Perimeters and areas of sectors and segments of circles
 
@@ -165,7 +165,7 @@ A **segment** is the region bounded by a chord and an arc.
   $$P = \text{Arc length} + \text{Chord length}$$
   $$P = \left(\frac{\theta}{360^\circ} \times 2\pi r\right) + 2r\sin\left(\frac{\theta}{2}\right)$$
 
-[IMAGE: Two side-by-side circles. The left circle highlights a sector bounded by two radii and an arc, with central angle theta. The right circle highlights a minor segment bounded by a chord and an arc. Clean flat textbook style, white background.]
+![Two diagrams comparing circle features: a sector bounded by two radii and an arc with angle theta, alongside a minor segment bounded by a chord and an arc.](images/C2-04-circle-sector-segment.png)
 
 ---
 
@@ -243,7 +243,7 @@ A pyramid has a polygon base and flat triangular faces that meet at a point (ape
   - $TSA = \pi r l + \pi r^2 = \pi r(r + l)$
   - *Relationship between $r$, $h$, and $l$:* They form a right-angled triangle, so by Pythagoras' theorem, $l = \sqrt{r^2 + h^2}$.
 
-[IMAGE: A 3D illustration of a cuboid, a cylinder, and a cone, each with their key dimensions (l, b, h for cuboid; r, h for cylinder; r, h, l for cone) clearly labelled. Clean flat textbook style, white background.]
+![Diagram showing a cuboid with dimensions l, b, and h, a cylinder with r and h, and a cone with r, h, and slant height l.](images/C2-05-geometric-solids-mensuration.png)
 
 #### 3. Spheres and Hemispheres
 A sphere is a perfectly round ball. A hemisphere is exactly half of a sphere.
@@ -269,7 +269,7 @@ A very common UTME question involves folding a flat 2D sector of a circle into a
    where $\theta$ is the angle of the sector, $R$ is the sector's radius, and $r$ is the cone's radius.
 3. Once you have $l$ and $r$, you find the cone's vertical height using Pythagoras: $h = \sqrt{l^2 - r^2}$.
 
-[IMAGE: A 2D net of a sector of a circle with radius R being folded into a 3D cone. The resulting cone has a base radius r and a slant height l (which equals R). Arrows indicate the rolling action. Clean flat textbook style, white background.]
+![Diagram showing a 2D circular sector net with radius R and arc length 2 pi r folding into a 3D cone with slant height l=R and base radius r.](images/C2-06-cone-net-folding.png)
 
 ---
 
@@ -341,7 +341,7 @@ To find distances, you must know if you are travelling on a Great Circle or a Sm
 2. **Small Circles:** These are all the other parallels of latitude (except the Equator). Because they are closer to the poles, they are smaller than the Earth's full size. The radius $r$ of a Small Circle at latitude $\alpha$ is:
    $$r = R \cos \alpha$$
 
-[IMAGE: A 3D sphere representing the Earth, with the Equator, the Greenwich Meridian, a smaller parallel of latitude and a meridian of longitude drawn. The radius R from the centre to the Equator and the smaller radius r for the parallel of latitude are shown, highlighting the angle alpha between them. Clean flat textbook style, white background.]
+![A diagram of the Earth illustrating latitude and longitude with radius R to the equator, radius r to a parallel of latitude, and angle alpha.](images/C2-07-earth-geometry-latitude-longitude.png)
 
 #### Calculating the angle difference ($\theta$)
 Whether you are moving along a latitude or a longitude, you must first find the angle difference between the two locations:

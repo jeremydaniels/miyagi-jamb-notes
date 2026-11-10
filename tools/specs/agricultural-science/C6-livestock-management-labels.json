@@ -12,26 +12,10 @@
   ],
   "labels": [
    [
-    "Deep litter system",
-    [
-     518,
-     430
-    ],
-    "R"
-   ],
-   [
     "Wood shavings",
     [
      493,
      437
-    ],
-    "L"
-   ],
-   [
-    "Battery cage system",
-    [
-     378,
-     640
     ],
     "L"
    ],
@@ -59,7 +43,27 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "split": [
+   [
+    485,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "Deep litter system",
+    508,
+    493
+   ],
+   [
+    "Battery cage system",
+    510,
+    972
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C6-03-rabbit-handling-housing": {
   "caption_below": "Correct handling hold scruff and support rump never hold by ears",
@@ -67,14 +71,6 @@
    "Nest box"
   ],
   "labels": [
-   [
-    "Raised hutch",
-    [
-     518,
-     677
-    ],
-    "R"
-   ],
    [
     "Wire mesh floor",
     [
@@ -91,6 +87,15 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Raised hutch",
+    698,
+    976
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -1,128 +1,4 @@
 {
- "B3a-05-mammalian-heart-internal-section": {
-  "labels": [
-   [
-    "superior vena cava",
-    [
-     305,
-     247
-    ],
-    "L"
-   ],
-   [
-    "inferior vena cava",
-    [
-     288,
-     839
-    ],
-    "L"
-   ],
-   [
-    "right atrium",
-    [
-     322,
-     496
-    ],
-    "L"
-   ],
-   [
-    "tricuspid valve",
-    [
-     373,
-     609
-    ],
-    "L"
-   ],
-   [
-    "right ventricle",
-    [
-     496,
-     783
-    ],
-    "L"
-   ],
-   [
-    "pulmonary artery",
-    [
-     626,
-     266
-    ],
-    "R"
-   ],
-   [
-    "semilunar valves",
-    [
-     452,
-     538
-    ],
-    "L"
-   ],
-   [
-    "pulmonary veins",
-    [
-     765,
-     404
-    ],
-    "R"
-   ],
-   [
-    "left atrium",
-    [
-     636,
-     435
-    ],
-    "R"
-   ],
-   [
-    "bicuspid (mitral) valve",
-    [
-     657,
-     524
-    ],
-    "R"
-   ],
-   [
-    "chordae tendineae",
-    [
-     677,
-     599
-    ],
-    "R"
-   ],
-   [
-    "papillary muscle",
-    [
-     698,
-     742
-    ],
-    "R"
-   ],
-   [
-    "left ventricle",
-    [
-     600,
-     641
-    ],
-    "R"
-   ],
-   [
-    "septum",
-    [
-     589,
-     742
-    ],
-    "R"
-   ],
-   [
-    "aorta",
-    [
-     491,
-     189
-    ],
-    "L"
-   ]
-  ]
- },
  "B3a-06-human-heart-external-anatomy": {
   "labels": [
    [
@@ -254,174 +130,66 @@
    [
     "red blood cell (no nucleus)",
     [
-     573,
-     129
+     412,
+     450
     ],
-    "R"
+    "L"
    ],
    [
     "side view of red blood cell",
     [
-     612,
-     276
+     521,
+     103
     ],
     "R"
    ],
    [
     "neutrophil",
     [
-     307,
-     286
+     343,
+     314
     ],
     "L"
    ],
    [
     "lymphocyte",
     [
-     742,
-     281
+     644,
+     275
     ],
     "R"
    ],
    [
     "monocyte",
     [
-     522,
-     512
+     751,
+     465
     ],
     "R"
    ],
    [
     "eosinophil",
     [
-     286,
-     727
+     326,
+     701
     ],
     "L"
    ],
    [
     "basophil",
     [
-     742,
-     737
+     678,
+     739
     ],
     "R"
    ],
    [
     "platelets",
     [
-     792,
-     512
-    ],
-    "R"
-   ]
-  ]
- },
- "B3a-16-human-lymphatic-system-anatomy": {
-  "labels": [
-   [
-    "tonsils",
-    [
-     286,
-     191
+     485,
+     520
     ],
     "L"
-   ],
-   [
-    "lymph nodes of neck",
-    [
-     273,
-     209
-    ],
-    "L"
-   ],
-   [
-    "thymus",
-    [
-     296,
-     261
-    ],
-    "L"
-   ],
-   [
-    "thoracic duct",
-    [
-     294,
-     356
-    ],
-    "L"
-   ],
-   [
-    "right lymphatic duct",
-    [
-     270,
-     225
-    ],
-    "L"
-   ],
-   [
-    "left subclavian vein",
-    [
-     335,
-     229
-    ],
-    "L"
-   ],
-   [
-    "lymph nodes of armpit",
-    [
-     215,
-     292
-    ],
-    "L"
-   ],
-   [
-    "spleen",
-    [
-     351,
-     360
-    ],
-    "L"
-   ],
-   [
-    "lacteals of small intestine",
-    [
-     302,
-     454
-    ],
-    "L"
-   ],
-   [
-    "lymph nodes of groin",
-    [
-     261,
-     547
-    ],
-    "L"
-   ],
-   [
-    "lymph vessel",
-    [
-     876,
-     614
-    ],
-    "R"
-   ],
-   [
-    "valve",
-    [
-     876,
-     555
-    ],
-    "R"
-   ],
-   [
-    "lymph node",
-    [
-     711,
-     476
-    ],
-    "R"
    ]
   ]
  },
@@ -860,42 +628,42 @@
   ]
  },
  "B3a-12-hepatic-portal-circulation-schematic": {
-  "caption_below": "Digested food to liver and urea removed by kidney.",
   "regions": [
    "liver",
    "small intestine",
    "kidney"
   ],
+  "caption_below": "Digested food to liver and urea removed by kidney.",
   "labels": [
    [
     "aorta",
     [
-     541,
-     437
+     670,
+     636
     ],
     "R"
    ],
    [
     "inferior vena cava",
     [
-     476,
-     572
+     755,
+     421
     ],
-    "L"
+    "R"
    ],
    [
     "liver",
     [
-     312,
-     263
+     823,
+     335
     ],
-    "L"
+    "R"
    ],
    [
     "small intestine",
     [
-     431,
-     887
+     241,
+     391
     ],
     "L"
    ],
@@ -903,54 +671,53 @@
     "hepatic portal vein",
     [
      493,
-     466
+     435
     ],
     "L"
    ],
    [
     "hepatic artery",
     [
-     573,
-     366
+     657,
+     369
     ],
     "R"
    ],
    [
     "hepatic vein",
     [
-     369,
-     186
+     660,
+     244
     ],
-    "L"
+    "R"
    ],
    [
     "kidney",
     [
-     335,
-     564
+     531,
+     811
     ],
-    "L"
+    "R"
    ],
    [
     "renal artery",
     [
-     596,
-     479
+     613,
+     775
     ],
     "R"
    ],
    [
     "renal vein",
     [
-     600,
-     501
+     609,
+     800
     ],
     "R"
    ]
   ]
  },
  "B3a-17-cockroach-open-circulatory-system": {
-  "caption_below": "Direction of flow with haemolymph bathing organs.",
   "regions": [
    "haemocoel",
    "gut",
@@ -958,78 +725,79 @@
    "thorax",
    "abdomen"
   ],
+  "caption_below": "Direction of flow with haemolymph bathing organs.",
   "labels": [
    [
     "tubular heart",
     [
-     677,
-     437
+     437,
+     410
     ],
-    "R"
+    "L"
    ],
    [
     "ostia",
     [
-     595,
-     421
+     398,
+     435
     ],
-    "R"
+    "L"
    ],
    [
     "alary muscles",
     [
-     483,
-     402
+     457,
+     477
     ],
     "L"
    ],
    [
     "aorta",
     [
-     321,
-     430
+     749,
+     436
     ],
-    "L"
+    "R"
    ],
    [
     "haemocoel",
     [
      369,
-     454
+     636
     ],
     "L"
    ],
    [
     "gut",
     [
-     642,
-     528
+     596,
+     501
     ],
     "R"
    ],
    [
     "head",
     [
-     157,
-     535
+     911,
+     513
     ],
-    "L"
+    "R"
    ],
    [
     "thorax",
     [
-     370,
-     538
+     775,
+     392
     ],
-    "L"
+    "R"
    ],
    [
     "abdomen",
     [
-     681,
-     559
+     271,
+     647
     ],
-    "R"
+    "L"
    ]
   ]
  }

@@ -323,7 +323,7 @@ The tricuspid and bicuspid valves are called **atrioventricular valves**. Their 
 
 **Memory trick:** "**Tri** on the **R**ight" (both contain an "r"), and "**LAB**": **L**eft **A**trium, **B**icuspid.
 
-![Diagram of a longitudinal section of the mammalian heart showing the four chambers, valves, septum, major vessels, and direction of blood flow.](images/B3a-05-mammalian-heart-internal-section.png)
+[IMAGE: Longitudinal (vertical) section of the mammalian heart in front view (so the right side of the heart is on the viewer's left). Show the four chambers with the thin-walled atria at the top and thick-walled ventricles below, the left ventricle wall clearly thickest, the septum, the tricuspid and bicuspid valves with chordae tendineae and papillary muscles, semilunar valves at the base of the pulmonary artery and aorta, and the major vessels. Blood on the right side tinted blue and on the left side tinted red, with small arrows showing flow. Labels to add: "superior vena cava", "inferior vena cava", "right atrium", "tricuspid valve", "right ventricle", "pulmonary artery", "semilunar valves", "pulmonary veins", "left atrium", "bicuspid (mitral) valve", "chordae tendineae", "papillary muscle", "left ventricle", "septum", "aorta". Clean flat textbook style, white background.]
 
 ![Anatomical illustration showing an external anterior view of the human heart, depicting the atria, ventricles, coronary blood vessels, and the great vessels.](images/B3a-06-human-heart-external-anatomy.png)
 
@@ -822,7 +822,7 @@ The **lymphatic system** is made up of:
 3. **Valves** stop it flowing backwards.
 4. New tissue fluid constantly entering the lymph capillaries pushes the lymph along.
 
-![Diagram showing the human lymphatic system with lymph vessels, nodes, spleen, thymus, tonsils, and an inset of a lymph node and lymphatic valve.](images/B3a-16-human-lymphatic-system-anatomy.png)
+[IMAGE: Outline of the human body in front view showing the lymphatic system in pale green: a network of lymph vessels throughout the arms, legs and trunk, clusters of bean-shaped lymph nodes in the neck, armpits and groin, the thoracic duct running up the middle of the chest and emptying into the left subclavian vein near the heart, the right lymphatic duct, and the spleen, thymus and tonsils. An inset box shows a close-up of a lymph node with lymph vessels entering and leaving and valves inside a lymph vessel. Labels to add: "tonsils", "lymph nodes of neck", "thymus", "thoracic duct", "right lymphatic duct", "left subclavian vein", "lymph nodes of armpit", "spleen", "lacteals of small intestine", "lymph nodes of groin", "lymph vessel", "valve", "lymph node". Clean flat textbook style, white background.]
 
 ### Functions of the lymphatic system and lymph
 

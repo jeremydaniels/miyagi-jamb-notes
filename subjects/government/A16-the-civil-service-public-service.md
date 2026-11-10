@@ -50,7 +50,7 @@ The civil service is divided into distinct classes based on educational qualific
 4.  **The Clerical Class:** This class includes clerks, typists, secretaries, and record keepers. They handle the routine paperwork, filing, sorting of mail, and typing of documents. **Qualification:** Senior School Certificate Examination (SSCE), GCE, or NECO.
 5.  **The Manipulative/Auxiliary/Messengerial Class:** This is the lowest class. It consists of cleaners, drivers, messengers, and security guards who perform manual labour and keep the environment orderly. **Qualification:** First School Leaving Certificate (FSLC) or lower secondary education.
 
-[IMAGE: A pyramid diagram illustrating the hierarchical structure of the civil service. The pyramid is divided into five horizontal layers. Top layer: "Administrative Class (Permanent Secretaries, Directors)". Second layer down: "Professional/Technical Class (Doctors, Engineers, Lawyers)". Third layer: "Executive Class (Executive Officers)". Fourth layer: "Clerical Class (Clerks, Typists)". Bottom widest layer: "Auxiliary/Manipulative Class (Cleaners, Messengers)". A vertical arrow points upwards on the left side labelled "Increasing Authority and Salary"; an arrow points downwards on the right side labelled "Increasing Number of Staff". Clean flat textbook illustration, white background.]
+![A pyramid diagram showing the five-tier civil service hierarchy, flanked by arrows indicating authority increasing upward and staff numbers increasing downward.](images/A16-01-civil-service-hierarchy-pyramid.png)
 
 ### Control of the Civil Service
 To prevent civil servants from abusing their power or becoming inefficient, they are controlled both internally and externally:

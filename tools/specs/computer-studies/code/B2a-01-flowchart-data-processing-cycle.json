@@ -1,0 +1,35 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Data Processing Cycle",
+ "nodes": [
+  {
+   "id": "input",
+   "text": "DATA (Input)\n45, 60, 72",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "proc",
+   "text": "PROCESSING\n⚙ [±] Calculation / Sorting",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "output",
+   "text": "INFORMATION (Output)\nTable: [Name | Score]",
+   "shape": "box",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "input",
+   "to": "proc"
+  },
+  {
+   "from": "proc",
+   "to": "output"
+  }
+ ]
+}

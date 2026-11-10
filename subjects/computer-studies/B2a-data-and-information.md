@@ -51,7 +51,7 @@ To turn data into information, it must go through a process. This happens in thr
 2.  **Process:** The computer performs operations on the data. This could involve calculating averages, sorting names into alphabetical order, comparing values, or formatting text.
 3.  **Output:** The result of the processing is presented to the user in a meaningful way as information (e.g., a printed report card or a chart on a screen).
 
-[IMAGE: A flowchart showing the Data Processing Cycle. Three main boxes connected by arrows pointing left to right. First box on the left: "DATA (Input)" with loose numbers like 45, 60, 72 scattered inside. Middle box: "PROCESSING" with a gear icon and a plus/minus symbol indicating calculation or sorting. Right box: "INFORMATION (Output)" showing a neat table with headings "Name" and "Score". Clean flat textbook illustration, white background.]
+![A flowchart illustrating the data processing cycle with three sequential boxes for data input processing and information output](images/B2a-01-flowchart-data-processing-cycle.png)
 
 ## Content a: Differences between Data and Information
 

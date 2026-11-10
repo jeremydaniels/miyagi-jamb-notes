@@ -1,30 +1,24 @@
 {
  "A13-02-party-systems-comparative": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "One-Party System: Limited Choice",
-    [
-     182,
-     208
-    ],
-    "L"
+    "One-Party\nSystem: Limited\nChoice",
+    177,
+    631
    ],
    [
-    "Two-Party System: Clear Alternative",
-    [
-     518,
-     205
-    ],
-    "R"
+    "Two-Party\nSystem: Clear\nAlternative",
+    512,
+    631
    ],
    [
-    "Multi-Party System: Wide Variety",
-    [
-     839,
-     208
-    ],
-    "R"
+    "Multi-Party\nSystem: Wide\nVariety",
+    846,
+    631
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

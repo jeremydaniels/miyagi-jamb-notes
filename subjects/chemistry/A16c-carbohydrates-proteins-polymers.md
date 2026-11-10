@@ -181,7 +181,7 @@ To detect the presence of proteins in a food sample or solution, the following s
 | **Polymer empirical formula** | Exactly the same as the monomer | Different from the monomers (due to the eliminated small molecules) |
 | **Examples** | Polyethene, Polyvinyl chloride (PVC), Polystyrene, Natural rubber, Teflon | Nylon (a polyamide), Terylene (a polyester), Proteins, Starch, Cellulose |
 
-[IMAGE: Two-panel comparative diagram. Left panel (Addition Polymerization): Three molecules of ethene (CH2=CH2) with plus signs between them, an arrow pointing to a continuous polymer chain segment showing only single bonds [...-CH2-CH2-CH2-CH2-CH2-CH2-...]. Right panel (Condensation Polymerization): A square block molecule ending with two -OH groups plus a round block molecule ending with two -H groups. An arrow points to an alternating chain of square and round blocks, with small H2O molecules dropping out of the connections. Clean flat textbook style, white background.]
+![Two-panel diagram comparing addition polymerization of ethene into polyethene with condensation polymerization of alternating block monomers releasing water as a by-product.](images/A16c-02-polymerization-mechanisms-schematic.png)
 
 **Worked Example 3: Calculating the molar mass of an addition polymer**
 Calculate the molar mass of a polyethene molecule formed by the addition polymerization of 1000 ethene monomers. (C = 12, H = 1).

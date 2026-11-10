@@ -212,7 +212,7 @@ The body of the organism **breaks into two or more pieces** (fragments), and eac
 
 **Textbook variation:** some textbooks treat parthenogenesis as a form of asexual reproduction (only one parent; no fertilisation); others treat it as a modified form of **sexual** reproduction, because it involves an egg, a sex cell produced in a reproductive organ. Know both views.
 
-![A four-panel diagram illustrating asexual reproduction modes: spore formation in Rhizopus on bread, fragmentation in Spirogyra, regeneration in Planaria, and parthenogenesis in honeybees.](images/B7a-03-asexual-reproduction-types-grid.png)
+[IMAGE: A four-panel grid of other types of asexual reproduction: (1) Rhizopus growing on bread with upright sporangiophores carrying round black sporangia, one bursting and releasing tiny spores; (2) a green Spirogyra filament with spiral chloroplasts breaking into three fragments, each growing; (3) a Planaria cut into three pieces, each regrowing into a complete flatworm with eyespots; (4) a honey bee queen laying an unfertilised egg that develops into a drone. Labels: sporangium, spores, sporangiophore, hyphae, Spirogyra filament, fragment, Planaria pieces, regeneration, unfertilised egg, drone (parthenogenesis). Clean flat textbook style, white background.]
 
 ## Asexual and sexual reproduction compared
 
@@ -282,7 +282,7 @@ The body of the organism **breaks into two or more pieces** (fragments), and eac
 3. Good combinations of characteristics in the parents may be **broken up** in the offspring.
 4. In plants, it depends on **agents of pollination** (wind, insects, birds) and suitable conditions.
 
-![A diagram comparing asexual reproduction from a tuber producing three identical plants with sexual reproduction showing two flowers producing gametes that fuse to form varied offspring](images/B7a-04-asexual-vs-sexual-reproduction.png)
+[IMAGE: A two-column comparison diagram. Left column "Asexual reproduction": one parent plant (e.g. a yam tuber sprouting several identical shoots) with arrows to three identical offspring all in the same green colour, labelled "mitosis" and "clones". Right column "Sexual reproduction": a male and a female parent (e.g. two different-coloured flowers or two goats), each producing a gamete (sperm and egg) that fuse to form a zygote, with arrows to three offspring each in slightly different colours, labelled "meiosis", "fertilisation" and "variation". Labels: one parent, no gametes, mitosis, identical offspring (clone), two parents, male gamete, female gamete, fertilisation, zygote, offspring show variation. Clean flat textbook style, white background.]
 
 ## Vegetative propagation
 

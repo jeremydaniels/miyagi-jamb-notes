@@ -81,8 +81,8 @@
    [
     "cell wall",
     [
-     123,
-     625
+     136,
+     349
     ],
     "L"
    ],
@@ -90,290 +90,131 @@
     "cytoplasm",
     [
      88,
-     559
+     454
     ],
     "L"
    ],
    [
     "nucleus",
     [
-     120,
-     508
+     123,
+     416
     ],
     "L"
    ],
    [
     "vacuole",
     [
-     150,
-     571
+     148,
+     498
     ],
     "L"
    ],
    [
     "bud",
     [
-     365,
-     445
+     423,
+     335
     ],
     "L"
    ],
    [
     "nucleus divides",
     [
-     305,
-     528
+     354,
+     434
     ],
-    "T"
+    "L"
    ],
    [
     "daughter nucleus enters bud",
     [
-     553,
-     428
+     647,
+     295
     ],
-    "T"
+    "R"
    ],
    [
     "chain of cells",
     [
-     726,
-     493
+     856,
+     182
     ],
     "R"
    ],
    [
     "bud scar",
     [
-     904,
-     506
+     488,
+     708
     ],
-    "R"
-   ]
-  ],
-  "split": [
-   [
-    476,
-    120
-   ]
-  ],
-  "captions": [
+    "L"
+   ],
    [
     "daughter cell",
-    928,
-    484
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B7a-03-asexual-reproduction-types-grid": {
-  "labels": [
-   [
-    "sporangium",
     [
-     309,
-     101
-    ],
-    "T"
-   ],
-   [
-    "spores",
-    [
-     437,
-     150
-    ],
-    "T"
-   ],
-   [
-    "sporangiophore",
-    [
-     326,
-     247
-    ],
-    "T"
-   ],
-   [
-    "hyphae",
-    [
-     176,
-     329
-    ],
-    "L"
-   ],
-   [
-    "unfertilised egg",
-    [
-     794,
-     709
+     605,
+     811
     ],
     "R"
    ]
-  ],
-  "captions": [
-   [
-    "Spirogyra filament;\nfragment",
-    768,
-    527
-   ],
-   [
-    "Planaria pieces;\nregeneration",
-    256,
-    985
-   ],
-   [
-    "drone (parthenogenesis)",
-    768,
-    992
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B7a-04-asexual-vs-sexual-reproduction": {
-  "labels": [
-   [
-    "no gametes",
-    [
-     241,
-     493
-    ],
-    "L"
-   ],
-   [
-    "mitosis",
-    [
-     258,
-     640
-    ],
-    "L"
-   ],
-   [
-    "fertilisation",
-    [
-     762,
-     569
-    ],
-    "R"
-   ]
-  ],
-  "split": [
-   [
-    688,
-    120
-   ]
-  ],
-  "captions": [
-   [
-    "one parent",
-    254,
-    380
-   ],
-   [
-    "identical offspring\n(clone)",
-    256,
-    921
-   ],
-   [
-    "two parents",
-    886,
-    376
-   ],
-   [
-    "male gamete",
-    679,
-    536
-   ],
-   [
-    "female gamete",
-    851,
-    688
-   ],
-   [
-    "zygote",
-    766,
-    692
-   ],
-   [
-    "offspring show\nvariation",
-    764,
-    928
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B7a-05-underground-vegetative-organs": {
   "labels": [
    [
-    "bulb (onion)",
-    [
-     199,
-     307
-    ],
-    "L"
-   ],
-   [
     "disc stem",
     [
-     275,
-     428
+     257,
+     344
     ],
     "L"
    ],
    [
     "fleshy scale leaf",
     [
-     338,
-     279
+     343,
+     212
     ],
-    "L"
+    "T"
    ],
    [
     "dry scale leaf",
     [
-     107,
-     335
+     111,
+     238
     ],
     "L"
    ],
    [
     "terminal bud",
     [
-     278,
-     327
+     254,
+     200
     ],
-    "L"
+    "T"
    ],
    [
     "axillary bud",
     [
-     352,
-     335
+     303,
+     292
     ],
     "L"
    ],
    [
     "adventitious roots",
     [
-     290,
-     493
+     266,
+     395
     ],
     "L"
    ],
    [
-    "corm (cocoyam)",
-    [
-     774,
-     329
-    ],
-    "R"
-   ],
-   [
     "node",
     [
-     741,
-     320
+     758,
+     274
     ],
     "R"
    ],
@@ -381,75 +222,83 @@
     "cormel",
     [
      640,
-     380
+     300
     ],
-    "R"
-   ],
-   [
-    "rhizome (ginger)",
-    [
-     240,
-     839
-    ],
-    "L"
+    "T"
    ],
    [
     "internode",
     [
-     276,
-     834
+     228,
+     764
     ],
     "L"
    ],
    [
     "aerial shoot",
     [
-     464,
-     642
+     437,
+     626
     ],
     "L"
    ],
    [
-    "stem tuber (Irish potato)",
-    [
-     754,
-     777
-    ],
-    "R"
-   ],
-   [
     "eye",
     [
-     743,
-     714
+     728,
+     685
     ],
     "R"
    ],
    [
     "scale leaf scar",
     [
-     726,
-     866
+     806,
+     640
     ],
     "R"
    ],
    [
     "stolon scar",
     [
-     677,
-     933
+     954,
+     677
     ],
     "R"
    ],
    [
     "sprouting shoot",
     [
-     908,
-     702
+     826,
+     761
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "bulb (onion)",
+    260,
+    436
+   ],
+   [
+    "corm (cocoyam)",
+    762,
+    444
+   ],
+   [
+    "rhizome (ginger)",
+    261,
+    939
+   ],
+   [
+    "stem tuber (Irish\npotato)",
+    763,
+    892
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-06-aboveground-vegetative-propagation": {
   "labels": [

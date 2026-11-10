@@ -702,5 +702,313 @@
     "R"
    ]
   ]
+ },
+ "B4a-10-stoma-opening-closing-mechanism": {
+  "labels": [
+   [
+    "light: stoma open",
+    [
+     272,
+     150
+    ],
+    "L"
+   ],
+   [
+    "dark: stoma closed",
+    [
+     769,
+     152
+    ],
+    "R"
+   ],
+   [
+    "turgid guard cell",
+    [
+     138,
+     518
+    ],
+    "L"
+   ],
+   [
+    "flaccid guard cell",
+    [
+     695,
+     513
+    ],
+    "R"
+   ],
+   [
+    "thick inner wall",
+    [
+     223,
+     573
+    ],
+    "L"
+   ],
+   [
+    "thin outer wall",
+    [
+     59,
+     636
+    ],
+    "L"
+   ],
+   [
+    "potassium ions enter",
+    [
+     382,
+     437
+    ],
+    "L"
+   ],
+   [
+    "potassium ions leave",
+    [
+     830,
+     538
+    ],
+    "R"
+   ],
+   [
+    "water enters by osmosis",
+    [
+     404,
+     357
+    ],
+    "L"
+   ],
+   [
+    "water leaves by osmosis",
+    [
+     605,
+     369
+    ],
+    "R"
+   ],
+   [
+    "pore",
+    [
+     266,
+     518
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B4a-11-fish-ventilation-mechanism-stages": {
+  "labels": [
+   [
+    "1. inspiration",
+    [
+     266,
+     512
+    ],
+    "L"
+   ],
+   [
+    "2. expiration",
+    [
+     752,
+     512
+    ],
+    "R"
+   ],
+   [
+    "mouth open",
+    [
+     263,
+     247
+    ],
+    "L"
+   ],
+   [
+    "mouth closed",
+    [
+     754,
+     260
+    ],
+    "R"
+   ],
+   [
+    "buccal cavity",
+    [
+     223,
+     396
+    ],
+    "L"
+   ],
+   [
+    "floor of mouth lowered",
+    [
+     265,
+     437
+    ],
+    "L"
+   ],
+   [
+    "floor of mouth raised",
+    [
+     752,
+     361
+    ],
+    "R"
+   ],
+   [
+    "gills",
+    [
+     861,
+     615
+    ],
+    "R"
+   ],
+   [
+    "operculum closed",
+    [
+     437,
+     626
+    ],
+    "L"
+   ],
+   [
+    "operculum open",
+    [
+     555,
+     629
+    ],
+    "R"
+   ],
+   [
+    "water in",
+    [
+     164,
+     249
+    ],
+    "L"
+   ],
+   [
+    "water out over gills",
+    [
+     560,
+     696
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B4a-12-human-breathing-mechanism-ventilation": {
+  "labels": [
+   [
+    "inspiration",
+    [
+     274,
+     538
+    ],
+    "L"
+   ],
+   [
+    "expiration",
+    [
+     755,
+     538
+    ],
+    "R"
+   ],
+   [
+    "trachea",
+    [
+     273,
+     349
+    ],
+    "L"
+   ],
+   [
+    "lungs",
+    [
+     361,
+     492
+    ],
+    "L"
+   ],
+   [
+    "ribs move up and out",
+    [
+     107,
+     611
+    ],
+    "L"
+   ],
+   [
+    "ribs move down and in",
+    [
+     915,
+     609
+    ],
+    "R"
+   ],
+   [
+    "external intercostal muscles contract",
+    [
+     161,
+     538
+    ],
+    "L"
+   ],
+   [
+    "external intercostal muscles relax",
+    [
+     652,
+     540
+    ],
+    "R"
+   ],
+   [
+    "diaphragm contracts and flattens",
+    [
+     278,
+     685
+    ],
+    "L"
+   ],
+   [
+    "diaphragm relaxes and domes upwards",
+    [
+     760,
+     693
+    ],
+    "R"
+   ],
+   [
+    "air in",
+    [
+     275,
+     305
+    ],
+    "L"
+   ],
+   [
+    "air out",
+    [
+     760,
+     309
+    ],
+    "R"
+   ],
+   [
+    "volume increases, pressure falls",
+    [
+     173,
+     523
+    ],
+    "L"
+   ],
+   [
+    "volume decreases, pressure rises",
+    [
+     850,
+     487
+    ],
+    "R"
+   ]
+  ]
  }
 }

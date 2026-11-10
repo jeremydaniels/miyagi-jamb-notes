@@ -375,7 +375,7 @@ This older theory was first proposed in the early twentieth century (by J. D. Sa
 | Speed explained | Fast opening (minutes) | Too slow to explain fast opening |
 | Common ground | Guard cell sap becomes more concentrated → water enters by osmosis → guard cells become turgid → stoma opens; the reverse closes it | Same |
 
-[IMAGE: Two side-by-side surface views of a pair of kidney-shaped guard cells. Left (stoma open, in light): swollen turgid guard cells curved apart, with blue arrows showing water entering, small orange dots representing potassium ions inside, and a small sun symbol. Right (stoma closed, in dark): thin, flaccid, straight guard cells pressed together, with arrows showing water and potassium ions leaving, and a small moon symbol. The thick inner walls are drawn darker than the outer walls in both. Labels to add: "light: stoma open", "dark: stoma closed", "turgid guard cell", "flaccid guard cell", "thick inner wall", "thin outer wall", "potassium ions enter", "potassium ions leave", "water enters by osmosis", "water leaves by osmosis", "pore". Clean flat textbook style, white background.]
+![Diagram comparing open turgid guard cells under a sun symbol to closed flaccid guard cells under a moon symbol, showing water movement and potassium ion concentration.](images/B4a-10-stoma-opening-closing-mechanism.png)
 
 ### Factors that affect the opening of stomata
 
@@ -488,7 +488,7 @@ Fish keep a **continuous, one-way current** of water flowing over their gills: i
 
 **Effect of low oxygen in water:** fish in warm, polluted or overcrowded ponds may come to the surface and "gulp" at the air. This is common in Nigerian fish ponds on hot afternoons and is a sign that the water needs more oxygen (e.g. by changing the water or aerating it). The African lungfish (*Protopterus*) and the catfish *Clarias* (popular in Nigerian fish farming) have extra air-breathing organs and can survive in water with very little oxygen.
 
-[IMAGE: Two-step diagram of breathing in a bony fish, each step shown as a simple horizontal section through the head seen from above. Step 1 (inspiration): mouth open, floor of buccal cavity lowered (shown by a downward arrow), operculum closed, water arrows entering the mouth. Step 2 (expiration): mouth closed, floor of buccal cavity raised (upward arrow), water arrows passing over the gills and out under the open operculum. Labels to add: "1. inspiration", "2. expiration", "mouth open", "mouth closed", "buccal cavity", "floor of mouth lowered", "floor of mouth raised", "gills", "operculum closed", "operculum open", "water in", "water out over gills". Clean flat textbook style, white background.]
+![Two-step horizontal section diagram of bony fish ventilation showing inspiration with open mouth and closed operculum, followed by expiration with closed mouth and open operculum.](images/B4a-11-fish-ventilation-mechanism-stages.png)
 
 ### Breathing in tadpoles
 
@@ -567,7 +567,7 @@ The structures involved are:
 | Movement of air | **Into** the lungs | **Out** of the lungs |
 | Energy | Active (muscle contraction) | Mainly passive at rest; active when forced |
 
-[IMAGE: Two side-by-side front views of the human chest showing the rib cage, lungs and diaphragm. Left (inspiration): ribs raised and moved outwards (arrows up and out), diaphragm flattened (arrow down), lungs larger, arrow showing air entering the trachea. Right (expiration): ribs lowered (arrows down and in), diaphragm domed upwards (arrow up), lungs smaller, arrow showing air leaving. A small side-view inset in each shows the sternum moving up and forward in inspiration and down and back in expiration. Labels to add: "inspiration", "expiration", "trachea", "lungs", "ribs move up and out", "ribs move down and in", "external intercostal muscles contract", "external intercostal muscles relax", "diaphragm contracts and flattens", "diaphragm relaxes and domes upwards", "air in", "air out", "volume increases, pressure falls", "volume decreases, pressure rises". Clean flat textbook style, white background.]
+![Diagram comparing human thorax mechanics during inspiration and expiration showing movement of ribs, diaphragm, trachea, and lungs with lateral view insets.](images/B4a-12-human-breathing-mechanism-ventilation.png)
 
 #### Experiment: the bell jar model of the lungs
 

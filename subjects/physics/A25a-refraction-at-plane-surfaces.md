@@ -192,7 +192,7 @@ When you look straight down into a clear swimming pool in a hotel in Lagos, the 
 
 Light rays reflecting off the coin at the bottom of the bucket travel upward through the water. When they reach the surface and enter the air, they bend **away from the normal** (because air is less dense than water). When these diverging rays enter your eye, your brain traces them straight back. Your brain assumes light travels in a straight line, so it sees an **apparent image** of the coin above its real position.
 
-[IMAGE: A diagram showing apparent depth. A bucket contains water. A coin is at the bottom (real depth). Two light rays from the coin travel upwards to the water surface and bend away from the normal as they enter the air, entering an observer's eye. Dashed lines trace the bent rays straight back downwards to form a "ghost" image of the coin higher up in the water. Vertical lines on the left indicate "Real depth" (surface to actual coin) and "Apparent depth" (surface to ghost image). Clean flat textbook style, white background.]
+![Diagram illustrating apparent depth of a coin in water, showing ray refraction at the water surface and apparent image formation closer to the surface.](images/A25a-02-apparent-depth-refraction-ray.png)
 
 The distance the object appears to have moved upward is called the **apparent displacement** (or **shift**).
 $$\text{Shift} = \text{Real Depth} - \text{Apparent Depth}$$
@@ -363,7 +363,7 @@ An optical fibre is a very thin, flexible thread of high-quality glass or plasti
 When a light ray enters the core, it strikes the core-cladding boundary at an angle greater than the critical angle. It undergoes total internal reflection, bouncing back and forth along the inside of the fibre without leaking out, even if the fibre is bent.
 - **Uses:** Telecommunications (companies like MTN and Glo use fibre optic cables under streets and under the ocean to send internet and phone signals very quickly) and in medicine (endoscopes used by doctors to look inside a patient's stomach).
 
-[IMAGE: Cross-section of an optical fibre. A central solid tube (Core, high refractive index) surrounded by an outer layer (Cladding, lower refractive index). A red light ray enters the left end, hits the top boundary between core and cladding, reflects downwards (TIR), hits the bottom boundary, reflects upwards, and continues zigzagging down the tube. Clean flat textbook style, white background.]
+![Cross-section of an optical fibre showing a light ray undergoing total internal reflection within the core surrounded by cladding.](images/A25a-04-optical-fiber-total-internal.png)
 
 ### 2. Prisms in Periscopes and Binoculars
 A standard right-angled isosceles glass prism (angles 45°, 90°, 45°) is often used in optical instruments to change the direction of light. The critical angle for typical glass is about $42^\circ$.

@@ -6,5 +6,13 @@
  [
   "A25a-03-lateral-displacement-glass-block",
   "A ray diagram showing lateral displacement. A rectangular glass block. An incident ray strikes the top at angle i. The ray refracts closer to the normal at angle r inside the block. It hits the bottom boundary and refracts away from the normal, emerging parallel to the original incident ray's path. A dashed straight line extends the original incident ray right through the block. A perpendicular line labeled 'd' (lateral displacement) connects the emergent ray to the dashed line."
+ ],
+ [
+  "A25a-02-apparent-depth-refraction-ray",
+  "A diagram showing apparent depth. A bucket contains water. A coin is at the bottom (real depth). Two light rays from the coin travel upwards to the water surface and bend away from the normal as they enter the air, entering an observer's eye. Dashed lines trace the bent rays straight back downwards to form a \"ghost\" image of the coin higher up in the water. Vertical lines on the left indicate \"Real depth\" (surface to actual coin) and \"Apparent depth\" (surface to ghost image)."
+ ],
+ [
+  "A25a-04-optical-fiber-total-internal",
+  "Cross-section of an optical fibre. A central solid tube (Core, high refractive index) surrounded by an outer layer (Cladding, lower refractive index). A red light ray enters the left end, hits the top boundary between core and cladding, reflects downwards (TIR), hits the bottom boundary, reflects upwards, and continues zigzagging down the tube."
  ]
 ]

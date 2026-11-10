@@ -110,7 +110,7 @@ Bar graphs use rectangular bars to show data. The length or height of the bar is
 | **Common climatic use** | Representing temperature (because temperature is continuous). | Representing rainfall (because rain is collected as a monthly total). |
 | **Visual representation** | A single continuous line connecting plotted dots. | Distinct, separate rectangular columns. |
 
-[IMAGE: A combined line and bar graph showing a typical tropical climate. X-axis labelled with months J to D. Y-axis on the left shows Rainfall in mm (0 to 300) with blue vertical bars. Y-axis on the right shows Temperature in °C (20 to 35) with a red line graph. Clean flat textbook illustration, white background.]
+![A combined climate graph showing monthly rainfall in blue bars from 0 to 300 mm and monthly temperature in a red line from 20 to 35 °C.](images/A4-01-climograph-rainfall-temperature-chart.png)
 
 ### 3. Pie Charts (Divided Circles)
 A pie chart is a circle divided into sectors (slices), where the angle of each sector is proportional to the value it represents. It is used to show percentages or how a total amount is divided up. The whole circle represents 360° or 100%.
@@ -140,7 +140,7 @@ A wind rose is a diagram used to show the direction and frequency of winds over 
 *   **Interpretation:** The number written inside the central octagon represents the number of **calm days** (days with no wind). The length of each radiating bar shows the number of days the wind blew *from* that direction.
 *   **Compound wind roses:** These have bars with different shadings or varying thicknesses to show both the direction, the frequency, and the *speed* of the wind.
 
-[IMAGE: A simple wind rose diagram for a month. A central octagon with the number '3' inside it representing 3 calm days. Eight bars radiate out for N, NE, E, SE, S, SW, W, NW. The longest bar is pointing from the South-West, representing 12 days. Clean flat textbook illustration, white background.]
+![A monthly wind rose diagram showing 8 directional bars with a central octagon indicating 3 calm days and a prominent southwest bar representing 12 prevailing wind days.](images/A4-03-monthly-wind-rose.png)
 
 ### 5. Scatter Graphs (Scattergrams)
 Scatter graphs are used to show the relationship (or correlation) between two sets of variables. The points are plotted as dots on the X and Y axes, but they are not joined by lines.

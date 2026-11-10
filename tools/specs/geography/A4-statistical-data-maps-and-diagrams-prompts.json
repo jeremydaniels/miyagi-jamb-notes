@@ -14,5 +14,13 @@
  [
   "A4-06-isotherm-contour-map",
   "An isoline map showing isotherms over a landmass. Wavy lines cross the map labelled 24°C, 26°C, 28°C, and 30°C. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-01-climograph-rainfall-temperature-chart",
+  "A combined line and bar graph showing a typical tropical climate. X-axis labelled with months J to D. Y-axis on the left shows Rainfall in mm (0 to 300) with blue vertical bars. Y-axis on the right shows Temperature in °C (20 to 35) with a red line graph. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-03-monthly-wind-rose",
+  "A simple wind rose diagram for a month. A central octagon with the number '3' inside it representing 3 calm days. Eight bars radiate out for N, NE, E, SE, S, SW, W, NW. The longest bar is pointing from the South-West, representing 12 days. Clean flat textbook illustration, white background."
  ]
 ]

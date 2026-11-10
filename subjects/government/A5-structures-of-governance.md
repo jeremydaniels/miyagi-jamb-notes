@@ -63,7 +63,7 @@ Examples of countries with a unitary structure include **Britain (the UK), Franc
 - **Slow local development:** Because decisions are made in a distant capital, the unique developmental needs of rural or distant areas may be neglected.
 - **Kills local initiative:** Citizens at the grassroots level have little say in how they are governed, which discourages local political participation.
 
-[IMAGE: A hierarchical flow chart showing the Unitary structure. At the top, a large prominent box labeled "Central Government (Holds all constitutional power)". Below it, arrows point down to three smaller, identical boxes labeled "Local Authority A", "Local Authority B", and "Local Authority C". A dotted line from the Local Authorities back up to the Central Government is labeled "Powers delegated and can be withdrawn". Clean flat textbook style, white background.]
+![Diagram showing a unitary system of government with central government holding constitutional power and delegating powers downward to three local authorities, which can be withdrawn.](images/A5-01-unitary-system-hierarchy-chart.png)
 
 ## Federal Structure of Governance
 
@@ -105,7 +105,7 @@ Examples of countries with a federal structure include **Nigeria, the United Sta
 - **Threat of secession:** Component states may become too powerful and attempt to break away from the country (e.g., the Biafran attempt to secede from Nigeria in 1967).
 - **Uneven development:** Because states have different resources and leadership, some states will develop rapidly while others remain poor, leading to inequality among citizens.
 
-[IMAGE: A Venn diagram-style structural chart showing the Federal structure. At the top, a document icon labeled "Supreme Constitution". Two arrows point down from the Constitution. One goes left to a box labeled "Federal Government (Exclusive Powers)". One goes right to a box labeled "State Governments (Residual Powers)". The overlapping space between them is labeled "Concurrent Powers". Clean flat textbook style, white background.]
+![A diagram with Supreme Constitution at the top pointing down to a Venn diagram comparing Federal Government Exclusive Powers and State Governments Residual Powers with overlapping Concurrent Powers.](images/A5-02-federal-division-powers.png)
 
 ## Confederal Structure of Governance
 

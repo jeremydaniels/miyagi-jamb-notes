@@ -1,0 +1,27 @@
+{
+ "C16-01-jabal-nur-cave-hira": {
+  "caption_below": "Site of First Revelation",
+  "regions": [
+   "Jabal an-Nur",
+   "Cave of Hira"
+  ],
+  "labels": [
+   [
+    "Jabal an-Nur",
+    [
+     454,
+     495
+    ],
+    "L"
+   ],
+   [
+    "Cave of Hira",
+    [
+     547,
+     396
+    ],
+    "R"
+   ]
+  ]
+ }
+}

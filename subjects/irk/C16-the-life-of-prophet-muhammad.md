@@ -59,7 +59,7 @@ At age 35, he prevented a tribal war in Makkah during the rebuilding of the Ka'b
 
 As Muhammad (SAW) approached the age of 40, he began to retreat to the **Cave of Hira** (Ghar Hira) in Jabal an-Nur (The Mountain of Light) near Makkah. He would spend days there in deep meditation, seeking truth and avoiding the idol worship of his people.
 
-[IMAGE: Simple, respectful illustration showing the rugged Jabal an-Nur (Mountain of Light) near Makkah at night, with a small glowing cave opening (Cave of Hira) near the peak. A crescent moon in the sky. Labels to add later: "Jabal an-Nur", "Cave of Hira", "Site of First Revelation". Clean flat textbook illustration, white background.]
+![Textbook illustration of Jabal an-Nur with a glowing Cave of Hira near the mountain peak beneath a crescent moon and stars on a white background.](images/C16-01-jabal-nur-cave-hira.png)
 
 **The First Revelation:**
 In the month of Ramadan, when he was 40 years old (around 610 CE), the **Angel Jibril** (Gabriel) appeared to him in the cave and commanded him: "Iqra!" (Read!).
@@ -114,7 +114,7 @@ Allah informed the Prophet (SAW) of the plot. He asked his cousin 'Ali to sleep 
 The Prophet and Abu Bakr left secretly and hid in the **Cave of Thawr** for three days. A Quraysh search party reached the very mouth of the cave, but Allah protected them (tradition states a spider spun a web and a dove laid eggs over the entrance, convincing the trackers the cave was empty). 
 They took a coastal, less-travelled route. They stopped at Quba, just outside Madinah, where they built the first mosque in Islam (Masjid Quba). They finally entered Madinah to a joyous welcome by the Muslims.
 
-[IMAGE: Map of the Arabian Peninsula showing the Hijrah route from Makkah to Madinah (Yathrib). A dotted line starts at Makkah, moves south slightly to the Cave of Thawr, then traces a coastal, less-travelled route northwards along the Red Sea coast before turning inland to Quba and finally Madinah. Labels to add later: "Makkah", "Cave of Thawr", "Red Sea", "Quba", "Madinah (Yathrib)", "Hijrah Route". Clean flat textbook illustration, white background.]
+![Map of the Hijrah route along the Red Sea coast from Makkah and Cave of Thawr northwards to Quba and Madinah.](images/C16-02-prophet-muhammad-hijrah-route.png)
 
 **Effects and Significance of the Hijrah:**
 1. It marked the creation of the first independent Islamic state.

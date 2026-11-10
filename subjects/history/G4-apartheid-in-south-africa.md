@@ -145,7 +145,7 @@ In the 1980s, internal resistance peaked.
 * Townships exploded in daily violent clashes with the army. The ANC, broadcasting from exile, called on South Africans to make the country "ungovernable." 
 * The government responded by declaring repeated States of Emergency, putting thousands in detention without trial, and using army hit squads.
 
-[IMAGE: A timeline graphic titled "Internal Resistance to Apartheid". Left to right milestones: 1912 (ANC Formed), 1952 (Defiance Campaign), 1955 (Freedom Charter), 1960 (Sharpeville Massacre), 1961 (MK Armed Struggle begins), 1964 (Mandela sentenced to life), 1976 (Soweto Uprising), 1983 (UDF Formed). The timeline should have small illustrative icons for each event, such as a passbook on fire for Sharpeville, or a fist for Soweto. Clean, flat textbook style.]
+![Timeline of internal resistance to apartheid from 1912 to 1983, highlighting key milestones including the formation of the ANC, Sharpeville Massacre, and Soweto Uprising.](images/G4-03-horizontal-historical-milestone-timeline.png)
 
 ## External reactions, the Frontline States, the Commonwealth, OAU and the UN
 

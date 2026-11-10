@@ -336,7 +336,7 @@ The graph of a quadratic polynomial $y = ax^2 + bx + c$ is a curve called a **pa
 - If $a$ (the coefficient of $x^2$) is **positive**, the curve is a U-shape. It has a lowest point called a **minimum**.
 - If $a$ is **negative**, the curve is an n-shape (like a hill). It has a highest point called a **maximum**.
 
-[IMAGE: A coordinate plane showing the graph of the quadratic curve y = x^2 - 4x + 3. The curve is a U-shape (parabola) opening upwards. It crosses the x-axis at x = 1 and x = 3, and the y-axis at y = 3. The lowest point (minimum) is marked at the coordinates (2, -1). Clean flat textbook style, white background.]
+![A coordinate plane showing the parabola y = x^2 - 4x + 3, with x-intercepts at 1 and 3, y-intercept at 3, and minimum at (2, -1).](images/B1-01-quadratic-parabola-curve-plot.png)
 
 #### Finding the maximum or minimum value
 The turning point (vertex) of a quadratic graph occurs at the $x$-coordinate given by the formula:
@@ -369,7 +369,7 @@ $$x = \frac{-b}{2a}$$
 A cubic graph $y = ax^3 + bx^2 + cx + d$ is wavy. It can cross the $x$-axis up to three times (meaning it has up to three roots) and usually has two turning points (a local maximum and a local minimum). 
 If a graph is given and it crosses the $x$-axis at $-1$, $1$, and $2$, then its roots are $x=-1$, $x=1$, and $x=2$. The factors are $(x+1)$, $(x-1)$, and $(x-2)$. Multiply these out to find the equation of the polynomial.
 
-[IMAGE: A coordinate plane showing the cubic graph y = x^3 - 3x^2. The curve comes from the bottom left, goes up to a local maximum at the origin (0, 0), dips down to a local minimum at (2, -4), and then curves back up to the top right. The x-intercepts are at 0 and 3. Clean flat textbook style, white background.]
+![Graph of cubic curve y equals x cubed minus 3x squared with local maximum at the origin, local minimum at 2, -4, and x-intercept at 3, 0.](images/B1-02-cubic-polynomial-graph.png)
 
 ---
 

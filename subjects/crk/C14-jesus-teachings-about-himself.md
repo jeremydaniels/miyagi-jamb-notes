@@ -47,7 +47,7 @@ The Gospel of John records distinct conversations and events where Jesus explain
 5. **The explanation:** Jesus explained the difference between the two waters: "Whosoever drinketh of this water shall thirst again: But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life" (Jn. 4:13-14).
 6. **The outcome:** The woman, still thinking of physical water and wanting an easier life, asked Him to give her this water so she would never be thirsty or have to travel to the well again.
 
-[IMAGE: Jesus sitting by a stone well in an arid landscape, talking to a Samaritan woman holding a clay water jar. Labels to add later: "Jacob's well at Sychar", "Physical water (temporary)", "Living water (eternal life)". Clean flat textbook style, white background.]
+![An illustration showing Jesus sitting beside a stone well in an arid landscape, conversing with a Samaritan woman who is holding a clay water jar.](images/C14-01-jesus-samaritan-woman-well.png)
 
 #### The Bread of Life (John 6:25-58)
 
@@ -97,7 +97,7 @@ Jesus used the setting of a sheepfold (a pen where sheep were kept safe at night
    - Jesus noted that He has "other sheep" (meaning the Gentiles) who are not of this fold, and He must bring them in too, so there will be "one fold, and one shepherd."
    - Jesus analysed His own upcoming death by emphasizing it was voluntary: "No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again."
 
-[IMAGE: A Middle Eastern sheepfold made of low stone walls. A shepherd stands directly in the narrow opening, acting physically as the door, guarding the sheep inside while a wolf lurks far away in the shadows. Labels to add later: "The Door", "The Good Shepherd", "Protection and Salvation". Clean flat textbook style, white background.]
+![A shepherd standing at the opening of a low stone sheepfold guarding sheep inside with a wolf lurking far in the background and angels above.](images/C14-02-shepherd-standing-sheepfold-gate.png)
 
 ### The True Vine
 

@@ -70,7 +70,7 @@ The collapse of the greatest Yoruba power had massive and long-lasting effects:
 4. **Spread of Islam:** Ilorin's position as a jihadist outpost facilitated the rapid spread of Islam into northern and central Yorubaland.
 5. **Rise of a new military class:** Power shifted away from traditional kings based on royal blood (like the Alaafin) to a new class of professional warriors and warlords called the **Ologun**, whose authority was based on their military skill.
 
-[IMAGE: A map of Yorubaland in the early 19th century. The top shows the ruined location of "Old Oyo (Oyo-Ile)" in the savanna. Arrows point downwards to the south, showing migration routes. In the lower forest region, clearly marked new settlements are circled: "Ibadan", "Abeokuta", "Ijaye", and "New Oyo". To the northeast, "Ilorin" is marked with a crescent symbol to denote the Emirate. Clean flat textbook style, white background.]
+![Map of early 19th-century Yorubaland showing Old Oyo in the savanna, southward migration routes into the forest region toward New Oyo, Ijaye, Abeokuta, and Ibadan, and Ilorin Emirate northeast.](images/B3-01-map-th-century-yorubaland.png)
 
 ## The Yoruba Civil Wars and Their Impact
 

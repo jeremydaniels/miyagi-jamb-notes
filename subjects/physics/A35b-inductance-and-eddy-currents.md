@@ -28,7 +28,7 @@ There are two types of inductance:
 
 An electrical component designed specifically to have a known inductance is called an **inductor** (often referred to simply as a coil or a choke).
 
-[IMAGE: Two panels illustrating inductance. Left panel (Self-Inductance): A single coil of wire wrapped around a core, connected to a battery and a switch. Magnetic field lines expand around the coil, with an arrow showing an induced "back e.m.f." pointing opposite to the battery current. Right panel (Mutual Inductance): Two separate coils placed side by side. The primary coil is connected to a battery and switch; the secondary coil is connected to a galvanometer. Expanding magnetic field lines from the primary coil cut through the secondary coil. Clean flat textbook illustration, white background.]
+![Two panels comparing self-inductance in a single coil with back EMF opposing current, and mutual inductance between primary and secondary coils linked by magnetic field lines.](images/A35b-01-self-mutual-inductance.png)
 
 ## Unit of inductance
 
@@ -61,7 +61,7 @@ $$\frac{1}{L_p} = \frac{1}{L_1} + \frac{1}{L_2} + \frac{1}{L_3} + \dots$$
 For just **two** inductors in parallel, you can use the shortcut "product over sum":
 $$L_p = \frac{L_1 \times L_2}{L_1 + L_2}$$
 
-[IMAGE: Two circuit diagrams showing inductors. Top diagram (Series): Three coiled symbols representing inductors labelled L₁, L₂, and L₃ connected end-to-end in a single line. Bottom diagram (Parallel): Three inductor symbols connected in separate parallel branches, with the branches meeting at common junctions on the left and right. Labels L₁, L₂, and L₃ on each branch. Clean flat textbook illustration, white background.]
+![Circuit diagrams showing three inductors labeled L1, L2, and L3 connected in series at the top and in parallel at the bottom between terminals A and B.](images/A35b-02-inductors-series-parallel-circuit.png)
 
 ### Worked Examples: Series and Parallel Inductance
 
@@ -174,7 +174,7 @@ Instead of using a single solid block of iron for the core, the core is sliced i
 **How lamination works:** 
 The insulating layers prevent electricity from flowing freely between the sheets. This forces the eddy currents to stay within the narrow boundary of each individual sheet. Because the path is so narrow, the electrical resistance increases dramatically, and the size of the eddy currents shrinks. Smaller eddy currents mean much less energy is wasted as heat.
 
-[IMAGE: Two panels comparing solid and laminated metal cores in a changing magnetic field. Left panel: A solid rectangular block of metal showing large, circular, swirling eddy currents (thick circular arrows) inside it, with a label "Large eddy currents = High heat loss". Right panel: A similar block sliced into thin vertical sheets (laminations) separated by thin insulating layers. Inside each thin sheet, much smaller, narrower eddy current loops are shown, with a label "Small eddy currents = Low heat loss". Clean flat textbook illustration, white background.]
+![Diagram comparing large eddy currents in a solid core causing high heat loss against smaller eddy currents in a laminated core resulting in low heat loss.](images/A35b-03-eddy-currents-laminated-core.png)
 
 ## Applications of eddy currents
 

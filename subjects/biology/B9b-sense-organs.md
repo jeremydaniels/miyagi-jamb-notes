@@ -107,7 +107,7 @@ The skin does not have one big receptor. Instead, it contains millions of tiny r
 
 **Textbook variation:** older textbooks, including many used in West Africa, teach that **Ruffini endings detect heat** and **Krause end bulbs detect cold**. Modern research shows that most heat and cold sensing is done by **free nerve endings**, and that Ruffini endings mainly sense stretching of the skin; the exact job of Krause end bulbs is still uncertain. For JAMB, if asked, the traditional answers are: Meissner's corpuscle = touch, Pacinian corpuscle = pressure, free nerve endings = pain, Ruffini = heat, Krause = cold. But know that the real picture is less tidy.
 
-[IMAGE: Vertical section through human skin as a sense organ. Show the epidermis on top (thin cornified layer of flat dead cells, granular layer, Malpighian layer with brown melanin dots), the thicker pale pink dermis below with wavy dermal papillae, and a yellow subcutaneous fat layer at the bottom. Include one hair in its follicle with a sebaceous gland and erector muscle, one coiled sweat gland with its duct opening at a pore, and red and blue capillaries. Draw the sense receptors clearly in purple, each attached to a thin yellow nerve fibre: free nerve endings reaching into the epidermis, an oval Meissner's corpuscle in a dermal papilla, a Merkel disc at the base of the epidermis, a large onion-like layered Pacinian corpuscle deep in the fat layer, a spindle-shaped Ruffini ending in the deep dermis, a small round Krause end bulb, and a network of nerve endings around the hair follicle. Labels: epidermis, dermis, subcutaneous fat, free nerve endings (pain), Meissner's corpuscle (light touch), Merkel disc (touch), Pacinian corpuscle (pressure), Ruffini ending, Krause end bulb, hair follicle receptor, sensory nerve fibre, sweat gland, hair. Clean flat textbook style, white background.]
+![Cross section diagram of human skin showing the epidermis, dermis, and subcutaneous fat layers, featuring sensory receptors, a hair follicle with erector muscle, and a sweat gland.](images/B9b-01-human-skin-anatomy.png)
 
 ### How the skin detects a stimulus, step by step
 
@@ -173,7 +173,7 @@ The sense of smell is called **olfaction**, and the nose is the **olfactory orga
 | **Olfactory bulb** | A swelling of the brain just above the cribriform plate | Receives impulses from the receptor cells and passes them on |
 | **Olfactory nerve** (cranial nerve I) | Bundles of nerve fibres from the receptor cells to the olfactory bulb | Carries smell impulses to the brain |
 
-[IMAGE: Side view (sagittal section) of the human head showing the nose and the smell pathway. Show the nostril, nasal hairs, the nasal cavity with three curved turbinate bones, a curved arrow showing air flowing in and some swirling up to the roof, a small yellow patch of olfactory epithelium in the roof of the nasal cavity, the thin cribriform plate of bone above it, the olfactory bulb above that, and the olfactory tract leading back into the brain (cerebrum). Add a circular enlarged inset of the olfactory epithelium showing tall olfactory receptor cells with hair-like cilia projecting into a blue mucus layer, supporting cells between them, and nerve fibres passing up through holes in the cribriform plate to the olfactory bulb. Labels: nostril, nasal cavity, turbinate bones, olfactory epithelium, cribriform plate, olfactory bulb, olfactory nerve, mucus, olfactory hairs (cilia), olfactory receptor cell, supporting cell, brain. Clean flat textbook style, white background.]
+![Sagittal cross section of human head showing olfactory pathway in nasal cavity and brain, with circular inset detailing receptor and supporting cells in olfactory epithelium.](images/B9b-02-olfactory-pathway-anatomy.png)
 
 ### How we smell, step by step
 
@@ -228,7 +228,7 @@ A **taste bud** is a tiny, barrel- or onion-shaped cluster of cells, buried in t
 
 The human mouth contains several thousand taste buds. **Textbook variation:** figures range from about 2,000 to 10,000, because the number differs a lot from person to person and falls with age.
 
-[IMAGE: Two-part diagram of the human tongue. Left: top view of the whole tongue in pink, showing the V-shaped row of large circumvallate papillae at the back, leaf-like foliate papillae on the back side edges, small red dot-like fungiform papillae scattered mostly at the tip and sides, and the rough surface of tiny filiform papillae. Right: an enlarged vertical section of one circumvallate papilla with its surrounding groove, and a further enlarged single onion-shaped taste bud set in the epithelium, showing the taste pore at the top, taste hairs (microvilli) poking into the pore, long taste cells in the centre, supporting cells around them, basal cells at the bottom and yellow sensory nerve fibres leaving from the base. Labels: circumvallate papillae, foliate papillae, fungiform papilla, filiform papillae, groove, taste bud, taste pore, taste hairs, taste cell, supporting cell, basal cell, sensory nerve fibre. Clean flat textbook style, white background.]
+![Diagram showing the surface of the tongue with various papillae, a cross section of a circumvallate papilla and groove, and a detailed cross section of a taste bud.](images/B9b-03-tongue-papillae-taste-bud.png)
 
 ### The basic tastes
 
@@ -265,7 +265,7 @@ Many textbooks show a **tongue map**, with each taste detected in only one area:
 
 **For the exam:** JAMB and some older past questions may still use the tongue map. If a question clearly expects it (for example, "which part of the tongue is most sensitive to bitter taste?"), the expected answer is the **back**; for sweet, the **tip**. Remember that this is a simplification, not the full truth.
 
-[IMAGE: Two tongue outlines side by side for comparison. Left tongue titled area labels in the old style: tip shaded pink, front sides shaded light blue, back sides shaded light green, back shaded light purple, each area plainly coloured with a big red cross mark in the corner of this panel to show it is outdated. Right tongue: the whole surface evenly speckled with small dots in all four colours plus orange mixed together, with a green tick mark in the corner. Labels for the left tongue: sweet (tip), salty (front sides), sour (back sides), bitter (back), old tongue map (outdated). Labels for the right tongue: all tastes detected all over, modern view. Clean flat textbook style, white background.]
+![Comparison of two tongues showing the outdated localized taste map on the left with a cross mark and the modern view with evenly distributed tastes on the right with a check mark.](images/B9b-04-tongue-taste-map-comparison.png)
 
 ### How we taste, step by step
 
@@ -314,7 +314,7 @@ The eye is the organ of **sight (vision)**. Its receptors are **photoreceptors**
 
 **Textbook variation:** many textbooks say the conjunctiva covers the **cornea**. Strictly, the conjunctiva covers the white of the eye and lines the eyelids, and the cornea has its own thin outer layer that is continuous with it. Either description is usually accepted at this level.
 
-[IMAGE: Front view of a human eye with its accessory structures. Show the eyebrow, upper and lower eyelids with eyelashes, the white sclera, a dark brown iris and black pupil in the centre, the inner corner of the eye with the small tear duct opening, and a cut-away area above the outer corner showing the almond-shaped lachrymal (tear) gland with small ducts and blue arrows showing tears flowing across the eye towards the tear duct and down into the nose. Labels: eyebrow, eyelid, eyelashes, sclera, iris, pupil, conjunctiva, lachrymal (tear) gland, tear duct. Clean flat textbook style, white background.]
+![An illustration of a human eye displaying accessory structures, including the lacrimal gland, tear ducts, eyelids, eyelashes, and directional arrows indicating tear flow.](images/B9b-05-external-eye-lacrimal-apparatus.png)
 
 ### Internal structure of the eye
 
@@ -353,7 +353,7 @@ The eyeball is a roughly spherical organ, about 2.5 cm across. Its wall has **th
 
 **Textbook variation:** some textbooks use "yellow spot" for the whole small central area (the **macula lutea**) and "fovea" (fovea centralis) for the tiny pit at its centre; others treat the two words as the same thing.
 
-[IMAGE: Horizontal (longitudinal) section through the human eyeball, viewed from above, front of the eye on the left. Show the tough white sclera forming the outer coat, continuing at the front as the transparent bulging cornea; the dark brown choroid inside the sclera; the pink retina lining the back; the ciliary body with ciliary muscles in a ring; suspensory ligaments as fine lines from the ciliary body to the edge of the biconvex transparent lens; the iris in front of the lens with the gap of the pupil; the small front chamber filled with pale blue aqueous humour; the large rear chamber filled with very pale blue jelly-like vitreous humour; a small pit (fovea) on the retina directly opposite the lens; the blind spot where the yellow optic nerve leaves the back of the eye slightly to one side; the conjunctiva over the front; and a few eye muscles attached to the sclera. Labels: cornea, conjunctiva, aqueous humour, iris, pupil, lens, ciliary body (ciliary muscle), suspensory ligaments, vitreous humour, sclera, choroid, retina, fovea (yellow spot), blind spot, optic nerve, eye muscle. Clean flat textbook style, white background.]
+![An unlabelled diagram showing a horizontal section through the human eyeball, illustrating structures such as the cornea, lens, retina, sclera, and optic nerve.](images/B9b-06-human-eyeball-horizontal-section.png)
 
 ### How an image is formed on the retina (how we see)
 
@@ -451,7 +451,7 @@ The two sets of muscles are **antagonistic**: when one contracts, the other rela
 
 **Note:** when light is shone into one eye, the pupils of **both** eyes get smaller. Doctors and nurses shine a torch into a patient's eyes to test this reflex, because it shows whether the nerves and brain stem are working (for example, after a head injury).
 
-[IMAGE: Two front views of a human eye side by side showing the pupil reflex. Left panel titled bright light: small sun icon, small pupil, the iris drawn with the circular muscle ring shaded darker to show contraction and the radial muscle lines thin. Right panel titled dim light: small moon icon, large pupil, radial muscle lines shaded darker and thicker to show contraction and the circular muscle ring thin. Brown iris. Labels: circular muscles contracted, radial muscles relaxed, pupil constricted, radial muscles contracted, circular muscles relaxed, pupil dilated. Clean flat textbook style, white background.]
+![Two diagrams comparing the human pupil reflex under bright light with a constricted pupil and dim light with a dilated pupil showing circular and radial iris muscles.](images/B9b-09-pupil-light-reflex.png)
 
 ### Rods and cones
 
@@ -476,7 +476,7 @@ The retina contains two types of photoreceptor cells, named after their shapes.
 
 **Rods and cones in other animals:** animals that are active at night (nocturnal), such as owls, bats and bushbabies, have retinas with mostly rods, so they see well in dim light but see little colour. Cats have a reflecting layer behind the retina (the **tapetum lucidum**), which bounces light back through the rods and makes their eyes shine at night when light falls on them. Day-active birds have many cones and excellent colour vision.
 
-[IMAGE: Diagram of a small piece of the retina in section, with light arrows entering from the top. Show the layers: nerve fibres leading to the optic nerve at the top, a layer of nerve cells, then a row of photoreceptors at the bottom against the dark choroid. Draw tall thin rod cells in purple and shorter cone-shaped cone cells in three colours (red, green, blue) side by side, each connected upwards to nerve cells. Beside it, a small separate drawing of one rod and one cone enlarged, showing the outer segment with stacked discs, the cell body with nucleus, and the synaptic ending. Labels: light, nerve fibres to optic nerve, nerve cells, rod, cone, outer segment, nucleus, choroid. Clean flat textbook style, white background.]
+![Cross section diagram of the retinal layers showing light entering past nerve fibres, ganglion cells, and bipolar cells to rods and cones resting on the choroid, with enlarged views.](images/B9b-10-retina-histology-rods-cones.png)
 
 ### The blind spot
 
@@ -550,7 +550,7 @@ The ear has three parts: the **outer (external) ear**, the **middle ear** and th
 
 The whole inner ear (cochlea, vestibule and semicircular canals) is a complicated system of tubes in the skull bone and is called the **labyrinth** (meaning "maze").
 
-[IMAGE: Vertical section through the human ear showing the outer, middle and inner ear, with each region lightly shaded in a different soft colour (outer ear peach, middle ear light blue, inner ear light green) separated by the eardrum and the oval window. Show the pinna, the external ear canal with tiny hairs and wax glands, the thin eardrum, the air-filled middle ear cavity with the three tiny ossicles in a chain (hammer-shaped malleus touching the eardrum, anvil-shaped incus, stirrup-shaped stapes fitting into the oval window), the round window below the oval window, the Eustachian tube running down to the throat, the coiled snail-like cochlea, the three semicircular canals at right angles with swellings (ampullae), the small vestibule with utriculus and sacculus, and the yellow auditory nerve leading to the brain. Skull bone around shown in pale grey. Labels: pinna, ear canal, eardrum, malleus, incus, stapes, middle ear cavity, Eustachian tube, oval window, round window, cochlea, semicircular canals, ampulla, utriculus, sacculus, auditory nerve, outer ear, middle ear, inner ear. Clean flat textbook style, white background.]
+![A cross section diagram of the human ear displaying the outer ear canal, middle ear with ossicles, and inner ear with cochlea and semicircular canals.](images/B9b-12-human-ear-anatomy.png)
 
 ### How we hear, step by step
 

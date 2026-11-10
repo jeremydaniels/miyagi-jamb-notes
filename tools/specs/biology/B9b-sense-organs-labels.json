@@ -1,0 +1,795 @@
+{
+ "B9b-01-human-skin-anatomy": {
+  "labels": [
+   [
+    "epidermis",
+    [
+     247,
+     208
+    ],
+    "L"
+   ],
+   [
+    "dermis",
+    [
+     272,
+     523
+    ],
+    "L"
+   ],
+   [
+    "subcutaneous fat",
+    [
+     602,
+     859
+    ],
+    "R"
+   ],
+   [
+    "free nerve endings (pain)",
+    [
+     223,
+     275
+    ],
+    "L"
+   ],
+   [
+    "Meissner's corpuscle (light touch)",
+    [
+     369,
+     361
+    ],
+    "L"
+   ],
+   [
+    "Merkel disc (touch)",
+    [
+     861,
+     339
+    ],
+    "R"
+   ],
+   [
+    "Pacinian corpuscle (pressure)",
+    [
+     335,
+     811
+    ],
+    "L"
+   ],
+   [
+    "Ruffini ending",
+    [
+     310,
+     587
+    ],
+    "L"
+   ],
+   [
+    "Krause end bulb",
+    [
+     812,
+     654
+    ],
+    "R"
+   ],
+   [
+    "hair follicle receptor",
+    [
+     643,
+     670
+    ],
+    "R"
+   ],
+   [
+    "sensory nerve fibre",
+    [
+     217,
+     640
+    ],
+    "L"
+   ],
+   [
+    "sweat gland",
+    [
+     454,
+     596
+    ],
+    "L"
+   ],
+   [
+    "hair",
+    [
+     689,
+     379
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9b-02-olfactory-pathway-anatomy": {
+  "labels": [
+   [
+    "nostril",
+    [
+     143,
+     542
+    ],
+    "L"
+   ],
+   [
+    "nasal cavity",
+    [
+     266,
+     437
+    ],
+    "L"
+   ],
+   [
+    "turbinate bones",
+    [
+     378,
+     468
+    ],
+    "L"
+   ],
+   [
+    "olfactory epithelium",
+    [
+     379,
+     329
+    ],
+    "L"
+   ],
+   [
+    "cribriform plate",
+    [
+     640,
+     564
+    ],
+    "R"
+   ],
+   [
+    "olfactory bulb",
+    [
+     396,
+     240
+    ],
+    "L"
+   ],
+   [
+    "olfactory nerve",
+    [
+     677,
+     501
+    ],
+    "R"
+   ],
+   [
+    "mucus",
+    [
+     702,
+     901
+    ],
+    "R"
+   ],
+   [
+    "olfactory hairs (cilia)",
+    [
+     670,
+     850
+    ],
+    "R"
+   ],
+   [
+    "olfactory receptor cell",
+    [
+     764,
+     742
+    ],
+    "R"
+   ],
+   [
+    "supporting cell",
+    [
+     705,
+     726
+    ],
+    "R"
+   ],
+   [
+    "brain",
+    [
+     433,
+     93
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9b-03-tongue-papillae-taste-bud": {
+  "labels": [
+   [
+    "circumvallate papillae",
+    [
+     226,
+     182
+    ],
+    "L"
+   ],
+   [
+    "foliate papillae",
+    [
+     437,
+     256
+    ],
+    "L"
+   ],
+   [
+    "fungiform papilla",
+    [
+     269,
+     859
+    ],
+    "L"
+   ],
+   [
+    "filiform papillae",
+    [
+     292,
+     571
+    ],
+    "L"
+   ],
+   [
+    "groove",
+    [
+     631,
+     247
+    ],
+    "R"
+   ],
+   [
+    "taste bud",
+    [
+     636,
+     309
+    ],
+    "R"
+   ],
+   [
+    "taste pore",
+    [
+     755,
+     573
+    ],
+    "R"
+   ],
+   [
+    "taste hairs",
+    [
+     759,
+     605
+    ],
+    "R"
+   ],
+   [
+    "taste cell",
+    [
+     765,
+     689
+    ],
+    "R"
+   ],
+   [
+    "supporting cell",
+    [
+     702,
+     710
+    ],
+    "R"
+   ],
+   [
+    "basal cell",
+    [
+     735,
+     806
+    ],
+    "R"
+   ],
+   [
+    "sensory nerve fibre",
+    [
+     811,
+     872
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9b-04-tongue-taste-map-comparison": {},
+ "B9b-05-external-eye-lacrimal-apparatus": {
+  "labels": [
+   [
+    "eyebrow",
+    [
+     430,
+     223
+    ],
+    "L"
+   ],
+   [
+    "eyelid",
+    [
+     524,
+     749
+    ],
+    "R"
+   ],
+   [
+    "eyelashes",
+    [
+     702,
+     693
+    ],
+    "R"
+   ],
+   [
+    "sclera",
+    [
+     660,
+     582
+    ],
+    "R"
+   ],
+   [
+    "iris",
+    [
+     430,
+     636
+    ],
+    "L"
+   ],
+   [
+    "pupil",
+    [
+     517,
+     569
+    ],
+    "R"
+   ],
+   [
+    "conjunctiva",
+    [
+     292,
+     595
+    ],
+    "L"
+   ],
+   [
+    "lachrymal (tear) gland",
+    [
+     735,
+     357
+    ],
+    "R"
+   ],
+   [
+    "tear duct",
+    [
+     186,
+     726
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9b-06-human-eyeball-horizontal-section": {
+  "labels": [
+   [
+    "cornea",
+    [
+     142,
+     494
+    ],
+    "L"
+   ],
+   [
+    "conjunctiva",
+    [
+     149,
+     693
+    ],
+    "L"
+   ],
+   [
+    "aqueous humour",
+    [
+     186,
+     501
+    ],
+    "L"
+   ],
+   [
+    "iris",
+    [
+     232,
+     421
+    ],
+    "L"
+   ],
+   [
+    "pupil",
+    [
+     254,
+     513
+    ],
+    "L"
+   ],
+   [
+    "lens",
+    [
+     320,
+     507
+    ],
+    "L"
+   ],
+   [
+    "ciliary body (ciliary muscle)",
+    [
+     294,
+     314
+    ],
+    "L"
+   ],
+   [
+    "suspensory ligaments",
+    [
+     294,
+     379
+    ],
+    "L"
+   ],
+   [
+    "vitreous humour",
+    [
+     522,
+     457
+    ],
+    "R"
+   ],
+   [
+    "sclera",
+    [
+     694,
+     198
+    ],
+    "R"
+   ],
+   [
+    "choroid",
+    [
+     675,
+     227
+    ],
+    "R"
+   ],
+   [
+    "retina",
+    [
+     661,
+     254
+    ],
+    "R"
+   ],
+   [
+    "fovea (yellow spot)",
+    [
+     798,
+     518
+    ],
+    "R"
+   ],
+   [
+    "blind spot",
+    [
+     805,
+     619
+    ],
+    "R"
+   ],
+   [
+    "optic nerve",
+    [
+     886,
+     652
+    ],
+    "R"
+   ],
+   [
+    "eye muscle",
+    [
+     463,
+     110
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9b-09-pupil-light-reflex": {
+  "labels": [
+   [
+    "circular muscles contracted",
+    [
+     241,
+     473
+    ],
+    "L"
+   ],
+   [
+    "radial muscles relaxed",
+    [
+     335,
+     528
+    ],
+    "L"
+   ],
+   [
+    "pupil constricted",
+    [
+     260,
+     513
+    ],
+    "L"
+   ],
+   [
+    "radial muscles contracted",
+    [
+     839,
+     527
+    ],
+    "R"
+   ],
+   [
+    "circular muscles relaxed",
+    [
+     783,
+     454
+    ],
+    "R"
+   ],
+   [
+    "pupil dilated",
+    [
+     760,
+     509
+    ],
+    "R"
+   ]
+  ]
+ },
+ "B9b-10-retina-histology-rods-cones": {
+  "labels": [
+   [
+    "light",
+    [
+     251,
+     150
+    ],
+    "L"
+   ],
+   [
+    "nerve fibres to optic nerve",
+    [
+     528,
+     212
+    ],
+    "R"
+   ],
+   [
+    "nerve cells",
+    [
+     438,
+     437
+    ],
+    "L"
+   ],
+   [
+    "rod",
+    [
+     769,
+     439
+    ],
+    "R"
+   ],
+   [
+    "cone",
+    [
+     899,
+     464
+    ],
+    "R"
+   ],
+   [
+    "outer segment",
+    [
+     774,
+     327
+    ],
+    "R"
+   ],
+   [
+    "nucleus",
+    [
+     774,
+     652
+    ],
+    "R"
+   ],
+   [
+    "choroid",
+    [
+     369,
+     841
+    ],
+    "L"
+   ]
+  ]
+ },
+ "B9b-12-human-ear-anatomy": {
+  "labels": [
+   [
+    "pinna",
+    [
+     142,
+     328
+    ],
+    "L"
+   ],
+   [
+    "ear canal",
+    [
+     404,
+     542
+    ],
+    "L"
+   ],
+   [
+    "eardrum",
+    [
+     538,
+     538
+    ],
+    "R"
+   ],
+   [
+    "malleus",
+    [
+     545,
+     461
+    ],
+    "R"
+   ],
+   [
+    "incus",
+    [
+     570,
+     465
+    ],
+    "R"
+   ],
+   [
+    "stapes",
+    [
+     626,
+     500
+    ],
+    "R"
+   ],
+   [
+    "middle ear cavity",
+    [
+     626,
+     559
+    ],
+    "R"
+   ],
+   [
+    "Eustachian tube",
+    [
+     754,
+     684
+    ],
+    "R"
+   ],
+   [
+    "oval window",
+    [
+     649,
+     498
+    ],
+    "R"
+   ],
+   [
+    "round window",
+    [
+     670,
+     553
+    ],
+    "R"
+   ],
+   [
+    "cochlea",
+    [
+     775,
+     537
+    ],
+    "R"
+   ],
+   [
+    "semicircular canals",
+    [
+     702,
+     348
+    ],
+    "R"
+   ],
+   [
+    "ampulla",
+    [
+     636,
+     445
+    ],
+    "R"
+   ],
+   [
+    "utriculus",
+    [
+     673,
+     437
+    ],
+    "R"
+   ],
+   [
+    "sacculus",
+    [
+     678,
+     462
+    ],
+    "R"
+   ],
+   [
+    "auditory nerve",
+    [
+     828,
+     428
+    ],
+    "R"
+   ],
+   [
+    "outer ear",
+    [
+     241,
+     553
+    ],
+    "L"
+   ],
+   [
+    "middle ear",
+    [
+     605,
+     541
+    ],
+    "R"
+   ],
+   [
+    "inner ear",
+    [
+     726,
+     509
+    ],
+    "R"
+   ]
+  ]
+ }
+}

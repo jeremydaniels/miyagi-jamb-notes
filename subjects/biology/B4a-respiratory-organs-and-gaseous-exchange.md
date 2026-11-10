@@ -244,7 +244,7 @@ Birds are very active, warm-blooded animals that fly, which needs a great deal o
 - They lead to an extensive system of **air spaces**, giving the mesophyll cells a huge, **moist** surface.
 - They can **open and close** to balance the need for CO₂ (photosynthesis) against the danger of losing too much water.
 
-[IMAGE: Surface view of a piece of lower leaf epidermis showing irregular, jigsaw-shaped epidermal cells without chloroplasts and several stomata, each between two kidney-shaped guard cells containing green chloroplasts; one stoma drawn open and one closed. Beside it, a small vertical section through a stoma showing the guard cells, the pore and the substomatal air space leading into the spongy mesophyll. A small inset shows dumbbell-shaped guard cells of a grass. Labels to add: "epidermal cell", "guard cell", "chloroplast", "stoma (open)", "stoma (closed)", "thick inner wall", "thin outer wall", "substomatal air space", "spongy mesophyll", "grass stoma (dumbbell-shaped guard cells)". Clean flat textbook style, white background.]
+![Diagram showing surface view of leaf epidermis with open and closed stomata, a cross section through a stoma with substomatal cavity, and inset of grass guard cells.](images/B4a-08-leaf-epidermis-stomata-structure.png)
 
 ### Lenticels
 

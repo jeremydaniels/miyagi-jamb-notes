@@ -1021,5 +1021,89 @@
     "L"
    ]
   ]
+ },
+ "B4a-08-leaf-epidermis-stomata-structure": {
+  "labels": [
+   [
+    "epidermal cell",
+    [
+     399,
+     199
+    ],
+    "L"
+   ],
+   [
+    "guard cell",
+    [
+     220,
+     312
+    ],
+    "L"
+   ],
+   [
+    "chloroplast",
+    [
+     303,
+     266
+    ],
+    "L"
+   ],
+   [
+    "stoma (open)",
+    [
+     254,
+     305
+    ],
+    "L"
+   ],
+   [
+    "stoma (closed)",
+    [
+     547,
+     430
+    ],
+    "R"
+   ],
+   [
+    "thick inner wall",
+    [
+     235,
+     307
+    ],
+    "L"
+   ],
+   [
+    "thin outer wall",
+    [
+     179,
+     305
+    ],
+    "L"
+   ],
+   [
+    "substomatal air space",
+    [
+     819,
+     793
+    ],
+    "R"
+   ],
+   [
+    "spongy mesophyll",
+    [
+     878,
+     870
+    ],
+    "R"
+   ],
+   [
+    "grass stoma (dumbbell-shaped guard cells)",
+    [
+     874,
+     172
+    ],
+    "R"
+   ]
+  ]
  }
 }

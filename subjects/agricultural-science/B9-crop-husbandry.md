@@ -76,7 +76,7 @@ Cereals are grasses (family Poaceae) grown for their edible grains.
   - **Maize weevil (*Sitophilus zeamais*):** A major storage pest that bores holes into dry grains, turning them to powder and drastically reducing market value.
 - **Economic importance:** Major staple food (pap/ogi, tuwo, roasted/boiled maize); principal carbohydrate source in poultry and livestock feeds; industrial raw material for corn starch, corn oil, and breweries.
 
-[IMAGE: A maize plant illustrating gross morphology. Show a tall, green stalk with prominent nodes. At the base, label the "fibrous roots" and the thicker "prop roots" coming from the lowest nodes. Halfway up the stem, show a green cob emerging from a leaf axil, labelled "female inflorescence (ear/cob)". At the very top, show the branching male flower, labelled "male inflorescence (tassel)". Clean flat textbook style, white background.]
+![An illustration of a maize plant showing underground fibrous roots, aboveground prop roots, a segmented stalk with leaves, a developing ear of corn, and a terminal tassel.](images/B9-01-maize-plant-morphology.png)
 
 ### Rice (*Oryza sativa*)
 
@@ -160,7 +160,7 @@ Examples include White yam (*Dioscorea rotundata*) and Water yam (*Dioscorea ala
 - **Pests:** Yam beetle (adults bore deep holes into the growing tubers in the soil, reducing market value); Rodents.
 - **Economic importance:** Major cultural and staple carbohydrate food (pounded yam, boiled yam, yam flour/elubo).
 
-[IMAGE: Yam propagation and husbandry. Left panel: A large yam tuber cut into sections, labelled "yam setts". Middle panel: A farmer planting a sett into a large soil mound. Right panel: A mature yam plant with its vine wrapped around a tall wooden pole, labelled "staking to expose leaves to sunlight". Clean flat textbook style, white background.]
+![Three-panel diagram showing yam propagation: cutting a yam into setts, planting a sett in a soil mound, and a mature yam vine climbing a stake.](images/B9-02-yam-propagation-husbandry.png)
 
 ### Cassava (*Manihot esculenta*)
 
@@ -266,7 +266,7 @@ Crops whose seeds or leaves are processed to make stimulating drinks.
 - **Pests:** **Capsid bugs (Mirids):** They pierce the pods and stems to suck sap, injecting toxic saliva that causes black lesions and dieback of branches.
 - **Economic importance:** Nigeria is one of the world's top exporters of cocoa. It is a massive source of foreign exchange and the primary raw material for chocolate and beverage industries (e.g., Milo, Bournvita).
 
-[IMAGE: Cocoa processing. Panel 1: A farmer breaking open a yellow cocoa pod, revealing white mucilage-covered beans. Panel 2: Beans covered with banana leaves in a wooden box, labelled "Fermentation (4-7 days) to develop flavour". Panel 3: Brown beans spread on a raised bamboo mat under the sun, labelled "Sun drying to 7% moisture". Clean flat textbook style, white background.]
+![Three-panel illustration of cocoa processing showing pod splitting to reveal beans, beans fermenting under banana leaves in a box, and brown beans drying on a bamboo mat.](images/B9-03-cocoa-bean-processing-sequence.png)
 
 ### Kola (*Cola nitida*, *Cola acuminata*) and Coffee (*Coffea* spp.)
 

@@ -62,7 +62,7 @@ Every syllable can be split into two parts:
 
 *Cat*, *hat*, *flat* and *at* all rhyme because their rhyme part is the same: /æt/.
 
-[IMAGE: A simple diagram showing how a syllable splits into onset and rhyme. Three rows for the words "cat", "hat" and "flat". Each word is drawn as a long rounded bar split into two coloured blocks: a pale blue block on the left for the onset (/k/, /h/, /fl/) and a soft orange block on the right for the rhyme (/æt/). The three orange blocks line up vertically to show that they are identical, with a curved bracket on the right joining them. Labels: "Onset", "Rhyme", "Same rhyme = words rhyme". Clean flat educational illustration, white background, soft colours.]
+![Diagram illustrating syllable onset and rhyme for the words cat, hat, and flat, highlighting their identical rhymes to demonstrate why they rhyme.](images/C3-01-syllable-onset-rhyme.png)
 
 ### Rhyme depends on sound, not spelling
 
@@ -558,7 +558,7 @@ A handy way to remember:
 - homo**GRAPH** → same **writing** (think of a para**graph**);
 - homo**NYM** → same **name**, i.e. same word form.
 
-[IMAGE: A three-circle Venn-style chart comparing homophones, homographs and homonyms. Left circle (soft blue) titled "Homophones – same sound" with the examples "sea / see" and "right / write". Right circle (soft green) titled "Homographs – same spelling" with the example "lead (to guide) / lead (metal)" and "tear (from the eye) / tear (to rip)". The overlap of the two circles (soft yellow) titled "Homonyms – same sound AND same spelling" with the examples "bank (money) / bank (river)" and "bat (animal) / bat (sport)". Small icons: an ear for sound, a pencil for spelling. Clean flat educational illustration, white background.]
+![A Venn diagram comparing homophones same sound, homographs same spelling, and homonyms same sound and spelling, with definitions and word examples in each section.](images/C3-02-homophones-homographs-venn.png)
 
 ## Nigerian pronunciation traps
 

@@ -745,7 +745,7 @@ Consider a young bean seedling laid **horizontally** on its side.
 - **One ripe fruit ripens the others:** a ripe or bruised fruit gives off ethylene, which speeds up the ripening of nearby fruits. This is why traders and households put unripe plantain, bananas, mangoes or avocado pears in a **closed sack, basket or polythene bag**, or cover them with leaves, often with an already ripe fruit: the ethylene builds up inside and speeds ripening. It is also why "one bad fruit spoils the whole basket".
 - **Keeping fruits separate and well ventilated** slows ripening.
 
-[IMAGE: Sequence of five bananas in a row from left to right showing ripening: hard dark green, light green, green-yellow, bright yellow, and yellow with small brown spots, with small wavy grey arrows representing ethylene gas rising from the riper bananas. Below the row, a simple illustration of a woven basket with a cloth cover containing green plantains and one ripe yellow plantain giving off ethylene arrows. Labels: unripe (hard, green, starchy), ripening, ripe (soft, yellow, sweet), ethylene gas, ripe fruit releases ethylene, covered basket traps ethylene. Clean flat textbook style, white background.]
+![Diagram showing five stages of banana ripening emitting ethylene gas, alongside a woven basket with cloth containing green plantains and a ripe yellow plantain releasing ethylene.](images/B9c-14-fruit-ripening-ethylene.png)
 
 ### 5. Abscisic acid
 

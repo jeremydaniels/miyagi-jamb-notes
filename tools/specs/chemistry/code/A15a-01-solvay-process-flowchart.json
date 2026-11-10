@@ -1,0 +1,105 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Solvay Process Flowchart",
+ "nodes": [
+  {
+   "id": "brine",
+   "text": "Ammoniacal Brine",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "co2_in",
+   "text": "CO2",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "tower",
+   "text": "Carbonating Tower",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "filter",
+   "text": "Filter",
+   "shape": "box",
+   "color": "teal"
+  },
+  {
+   "id": "calciner",
+   "text": "Calciner",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "caoh2",
+   "text": "Ca(OH)2",
+   "shape": "round",
+   "color": "gray"
+  },
+  {
+   "id": "recovery",
+   "text": "Ammonia Recovery Unit",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "na2co3",
+   "text": "Na2CO3",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "recycled_co2",
+   "text": "Recycled CO2",
+   "shape": "plain"
+  },
+  {
+   "id": "recycled_nh3",
+   "text": "Recycled NH3",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "brine",
+   "to": "tower"
+  },
+  {
+   "from": "co2_in",
+   "to": "tower"
+  },
+  {
+   "from": "tower",
+   "to": "filter"
+  },
+  {
+   "from": "filter",
+   "to": "calciner",
+   "label": "Solid NaHCO3"
+  },
+  {
+   "from": "filter",
+   "to": "recovery",
+   "label": "Liquid NH4Cl"
+  },
+  {
+   "from": "calciner",
+   "to": "na2co3"
+  },
+  {
+   "from": "calciner",
+   "to": "recycled_co2"
+  },
+  {
+   "from": "caoh2",
+   "to": "recovery"
+  },
+  {
+   "from": "recovery",
+   "to": "recycled_nh3"
+  }
+ ]
+}

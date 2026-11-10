@@ -163,7 +163,7 @@ It is produced industrially by the **Solvay Process**. The raw materials are bri
   $$2\text{NaHCO}_{3\text{(s)}} \rightarrow \text{Na}_2\text{CO}_{3\text{(s)}} + \text{H}_2\text{O}_{\text{(g)}} + \text{CO}_{2\text{(g)}}$$
 *(Note: Potassium trioxocarbonate(IV) cannot be made this way because $\text{KHCO}_3$ is too soluble to precipitate out).*
 
-[IMAGE: Flowchart of the Solvay process. Ammoniacal brine and CO2 enter a Carbonating Tower. The mixture goes to a filter, separating solid NaHCO3 (which goes to a calciner to be heated into Na2CO3, recycling CO2) and liquid NH4Cl (which goes to an Ammonia Recovery unit where it reacts with Ca(OH)2 to release NH3, which is recycled back). Clean flat textbook style, white background.]
+![Flowchart of the Solvay process showing reactants entering a carbonating tower, filtration into sodium bicarbonate and ammonium chloride, calcination to sodium carbonate, and ammonia recovery.](images/A15a-01-solvay-process-flowchart.png)
 
 **Worked Example 2: Solvay process stoichiometry**
 **Question:** If $16.8 \text{ g}$ of sodium hydrogen trioxocarbonate(IV) is heated in the Solvay process, what mass of sodium trioxocarbonate(IV) is produced? ($\text{Na} = 23, \text{H} = 1, \text{C} = 12, \text{O} = 16$).

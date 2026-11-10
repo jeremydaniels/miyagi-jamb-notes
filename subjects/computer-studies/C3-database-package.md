@@ -66,7 +66,7 @@ The network model is similar to the hierarchical model but more flexible. It is 
 This is the most common model used today (including in MS Access and Oracle). Data is organized into independent **tables** consisting of rows and columns. Different tables can be connected (related) to each other using common fields (keys). 
 *Example:* A "Students" table and an "Exam Scores" table can be linked together using the student's Admission Number.
 
-[IMAGE: Three diagrams showing database models. 1. Hierarchical: A top-down tree structure with one parent box connecting to three child boxes. 2. Network: A web-like structure where child boxes have multiple connections to different parent boxes. 3. Relational: A table grid showing rows and columns with a key linking to another table. Clean flat textbook style, white background.]
+![Three diagrams showing hierarchical network and relational database models with their respective structures and connections](images/C3-01-three-diagrams-database-models.png)
 
 | Feature | Hierarchical | Network | Relational |
 | :--- | :--- | :--- | :--- |
@@ -94,7 +94,7 @@ Microsoft Access structures its data in a specific relational format. You must u
 3. **Row containing related information about a record:** Each horizontal row represents exactly one complete record. For example, a single row holds the ID, Name, Age, and Class belonging to one specific student.
 4. **Column containing specific type of information about a field:** Each vertical column represents one field and holds only one specific type of data for all the records. For example, a "Date of Birth" column will contain nothing but dates for every person in the table.
 
-[IMAGE: A Microsoft Access table in Datasheet View showing columns labelled "ID", "First Name", and "Date of Birth", and rows containing sample student data. An arrow points to a single column with the label "Field (Column)", and another arrow points to a single horizontal row with the label "Record (Row)". Clean flat textbook illustration, white background.]
+![Diagram of an Access table highlighting a vertical column as Field and a horizontal row as Record with sample student data](images/C3-02-microsoft-access-table-datasheet.png)
 
 ## Creating a database in MS Access
 

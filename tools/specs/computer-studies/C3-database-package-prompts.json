@@ -1,0 +1,10 @@
+[
+ [
+  "C3-01-three-diagrams-database-models",
+  "Three diagrams showing database models. 1. Hierarchical: A top-down tree structure with one parent box connecting to three child boxes. 2. Network: A web-like structure where child boxes have multiple connections to different parent boxes. 3. Relational: A table grid showing rows and columns with a key linking to another table."
+ ],
+ [
+  "C3-02-microsoft-access-table-datasheet",
+  "A Microsoft Access table in Datasheet View showing columns, \"First Name\", and \"Date of Birth\", and rows containing sample student data. An arrow points to a single column with the label \"Field (Column)\", and another arrow points to a single horizontal row with the label \"Record (Row)\". Clean flat textbook illustration, white background."
+ ]
+]

@@ -116,7 +116,7 @@ Before 'Umar died, he appointed a committee (*Shura*) of six prominent Companion
 2. **Transfer of the Capital:** Because of the rebellions in Arabia and Syria, and because most of his supporters were in Iraq, 'Ali moved the capital of the Islamic state from Madinah to **Kufa** (in modern-day Iraq). This was a major strategic shift in Islamic history.
 3. **Intellectual and Legal Contributions:** 'Ali was highly regarded for his profound wisdom, eloquence, and knowledge of the Qur'an and Sunnah. He was considered the chief judge of Madinah during the reigns of the previous Caliphs. He laid down the foundational rules for Arabic grammar to help non-Arabs understand the Qur'an properly, and left behind a legacy of wise sayings, sermons, and theological insights.
 
-[IMAGE: A clean, flat textbook-style timeline diagram of the four Rightly Guided Caliphs. From left to right along a central arrow line: Abu Bakr (632-634 CE / 11-13 AH), 'Umar (634-644 CE / 13-23 AH), 'Uthman (644-656 CE / 23-35 AH), 'Ali (656-661 CE / 35-40 AH). Below each name, a single icon representing their main achievement: a sword and shield (Abu Bakr - Riddah wars), a scroll/register ('Umar - Diwan/administration), an open book ('Uthman - standardized Mushaf), and a weighing scale ('Ali - justice/preservation). White background.]
+![Timeline of the four Rightly Guided Caliphs showing Abu Bakr, Umar, Uthman, and Ali with their reign dates, associated icons, and key historical achievements.](images/C17-01-rightly-guided-caliphs-timeline.png)
 
 ---
 

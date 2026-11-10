@@ -16,7 +16,7 @@ Computer Studies is planned, written, verified and illustrated, and everything i
 Re-verification of B2b, C4 and I4 gave 0 problems; the other 39 files needed no change. I also ran every Python block in the notes (G1, G2, G4): all run, and the one stated output (`6`) is right; one fragment (a simple-interest line) is meant to be partial. All B2b conversions, additions, subtractions and multiplications and the practice answers were recomputed and are right. Not independently confirmed beyond the verifier: the other files' prose facts (the verifier found nothing).
 
 ## Images: placed and left
-- 86 placeholders: 31 AI, 54 code-drawn, 1 map. **78 images placed, 8 placeholders left** (89 percent after the B1d fix below). Gallery: `subjects/computer-studies/images/GALLERY-computer-studies.md`.
+- 86 placeholders: 31 AI, 54 code-drawn, 1 map. **78 images placed, 8 placeholders left** (91 percent). Gallery: `subjects/computer-studies/images/GALLERY-computer-studies.md`.
 - Pipeline as asked: Flash image generation in Batch, no text in the pictures, labels by `label.py`, captions under panels, flowcharts, tables, charts and circuits drawn in code, final drawing checks by Gemini Pro, up to 2 retries.
 - **Left as placeholders (failed the Pro check twice):** `A2-02` three panels of computer types (stray numbers and a dollar sign in the picture); `E1-02` cold and warm boot comparison (panels stacked, not side by side); `C2-01` Excel window; `C2-02` spreadsheet with a small table; `C4-03` three-stage CorelDraw steps; `C5-02` PowerPoint ribbon; `C6-01` Dreamweaver split screen; `F6-02` email versus website. Five are software-screen mock-ups that code drawing cannot yet lay out cleanly.
 - **Fixes I made during the run:**

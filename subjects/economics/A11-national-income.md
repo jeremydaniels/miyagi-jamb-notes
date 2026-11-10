@@ -175,7 +175,7 @@ The two-sector model assumes a simple economy with only two actors: **Households
 * In return for the factors, firms pay **Factor Incomes** (wages, rent, interest, profit) to households.
 * Households use all this income to buy the goods and services produced by firms. This is **Consumption Expenditure**.
 
-[IMAGE: A diagram showing the Two-Sector Circular Flow. On the left is a box labelled "Households", on the right is a box labelled "Firms". Two inner arrows (representing real flows) show "Factors of Production" pointing from Households to Firms, and "Goods and Services" pointing from Firms to Households. Two outer arrows (representing money flows) show "Factor Incomes (Wages, Rent, etc.)" pointing from Firms to Households, and "Consumption Expenditure" pointing from Households to Firms. Style: clean flat textbook illustration, white background.]
+![A diagram illustrating the two-sector circular flow between households and firms, depicting real flows of goods and factors and corresponding money flows.](images/A11-01-two-sector-circular-flow.png)
 
 ### The Three-Sector Model
 The three-sector model introduces the **Government** into the flow. It also introduces the concepts of **Injections** and **Leakages** (Withdrawals).

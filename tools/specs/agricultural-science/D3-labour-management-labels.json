@@ -1,31 +1,25 @@
 {
  "D3-01-types-farm-labour": {
-  "labels": [
+  "labels": [],
+  "captions": [
    [
-    "Family Labour (Unpaid)",
-    [
-     182,
-     494
-    ],
-    "L"
+    "Family Labour\n(Unpaid)",
+    182,
+    999
    ],
    [
-    "Casual Unskilled Labour (Daily Paid)",
-    [
-     512,
-     514
-    ],
-    "R"
+    "Casual\nUnskilled\nLabour (Daily\nPaid)",
+    511,
+    999
    ],
    [
-    "Permanent Skilled Labour (Salaried)",
-    [
-     839,
-     505
-    ],
-    "R"
+    "Permanent\nSkilled Labour\n(Salaried)",
+    839,
+    999
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D3-02-poultry-farm-supervision-scene": {
   "caption_below": "Ensuring correct feed rationing.",

@@ -290,66 +290,6 @@
    ]
   ]
  },
- "C1-08-rain-gauge-apparatus": {
-  "labels": [
-   [
-    "rain",
-    [
-     523,
-     150
-    ],
-    "R"
-   ],
-   [
-    "funnel",
-    [
-     493,
-     369
-    ],
-    "L"
-   ],
-   [
-    "rim (level, above ground)",
-    [
-     497,
-     252
-    ],
-    "L"
-   ],
-   [
-    "outer cylinder",
-    [
-     379,
-     815
-    ],
-    "L"
-   ],
-   [
-    "collecting bottle",
-    [
-     501,
-     571
-    ],
-    "L"
-   ],
-   [
-    "ground level",
-    [
-     247,
-     555
-    ],
-    "L"
-   ],
-   [
-    "measuring cylinder (graduated in mm)",
-    [
-     726,
-     327
-    ],
-    "R"
-   ]
-  ]
- },
  "C1-09-hygrometer-apparatus": {
   "labels": [
    [
@@ -393,80 +333,6 @@
     "R"
    ]
   ]
- },
- "C1-10-wind-vane-anemometer": {
-  "labels": [
-   [
-    "arrowhead (points to where the wind comes from)",
-    [
-     182,
-     262
-    ],
-    "L"
-   ],
-   [
-    "tail fin",
-    [
-     487,
-     283
-    ],
-    "T"
-   ],
-   [
-    "compass directions",
-    [
-     319,
-     492
-    ],
-    "L"
-   ],
-   [
-    "cups",
-    [
-     640,
-     268
-    ],
-    "T"
-   ],
-   [
-    "spindle",
-    [
-     774,
-     404
-    ],
-    "R"
-   ],
-   [
-    "counter (meter)",
-    [
-     774,
-     658
-    ],
-    "R"
-   ],
-   [
-    "wind",
-    [
-     157,
-     380
-    ],
-    "L"
-   ]
-  ],
-  "captions": [
-   [
-    "wind vane",
-    317,
-    979
-   ],
-   [
-    "cup anemometer",
-    772,
-    977
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
  },
  "C1-11-ecological-measurement-instruments-set": {
   "labels": [
@@ -568,7 +434,7 @@
      512,
      390
     ],
-    "T"
+    "R"
    ],
    [
     "clay soil",
@@ -608,7 +474,7 @@
      512,
      828
     ],
-    "T"
+    "R"
    ],
    [
     "most water drained",
@@ -623,77 +489,6 @@
     [
      823,
      864
-    ],
-    "R"
-   ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "C1-13-human-impact-ecosystems": {
-  "labels": [
-   [
-    "deforestation",
-    [
-     256,
-     128
-    ],
-    "L"
-   ],
-   [
-    "bush burning",
-    [
-     768,
-     128
-    ],
-    "R"
-   ],
-   [
-    "farming (monocropping and chemicals)",
-    [
-     256,
-     384
-    ],
-    "L"
-   ],
-   [
-    "urbanisation and roads",
-    [
-     768,
-     384
-    ],
-    "R"
-   ],
-   [
-    "dam and reservoir",
-    [
-     256,
-     640
-    ],
-    "L"
-   ],
-   [
-    "pollution (oil spill and gas flaring)",
-    [
-     768,
-     640
-    ],
-    "R"
-   ],
-   [
-    "overgrazing",
-    [
-     256,
-     896
-    ],
-    "L"
-   ],
-   [
-    "hunting",
-    [
-     768,
-     896
     ],
     "R"
    ]

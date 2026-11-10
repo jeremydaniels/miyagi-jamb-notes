@@ -572,7 +572,7 @@ A **rain gauge** measures the amount of **rainfall**, in **millimetres (mm)**. A
 
 **Uses:** recording the rainfall pattern of an area; deciding planting dates; comparing the rainfall of different places (for example, Port Harcourt and Kano) to explain differences in vegetation.
 
-![Cutaway diagram of a rain gauge in the ground with funnel and collecting bottle, alongside a graduated measuring cylinder with collected rainwater.](images/C1-08-rain-gauge-apparatus.png)
+[IMAGE: Cut-away side view of a standard rain gauge set in the ground in an open grassy area, with rain falling. Show the outer metal cylinder with part of it below ground, a funnel at the top with its rim level, rain drops entering the funnel and running down into a glass collecting bottle inside. Beside the gauge, a separate tall measuring cylinder marked in millimetres, with collected water in it. Labels: "rain", "funnel", "rim (level, above ground)", "outer cylinder", "collecting bottle", "ground level", "measuring cylinder (graduated in mm)". Grey metal, pale blue water, green grass. Clean flat textbook style, white background.]
 
 ### 4. Hygrometer and the wet-and-dry bulb thermometer (measuring relative humidity)
 
@@ -619,7 +619,7 @@ An **anemometer** measures **wind speed**.
 
 Wind speed can also be estimated without an instrument by observing its effects on trees, smoke and flags, using the **Beaufort scale** (from 0, calm, to 12, hurricane).
 
-![Illustration of a wind vane with an arrowhead, fin, and compass arms beside a cup anemometer with three cups and a meter, mounted on a rooftop.](images/C1-10-wind-vane-anemometer.png)
+[IMAGE: A wind vane and a cup anemometer standing side by side on poles on top of a building, against a white background. The wind vane has an arrowhead, a broad tail fin and fixed compass arms marked N, S, E and W below. The cup anemometer has three cups on horizontal arms spinning on a vertical spindle with a small box (counter) at the base. Small curved lines show the wind blowing from the left. Labels: "wind vane", "arrowhead (points to where the wind comes from)", "tail fin", "compass directions", "cup anemometer", "cups", "spindle", "counter (meter)", "wind". Soft greys and blues. Clean flat textbook style, white background.]
 
 ### 6. pH meter and indicator paper (measuring pH)
 
@@ -866,7 +866,7 @@ Conservation measures (national parks, game reserves, laws against poaching) are
 - **Introduction of new species:** humans have brought in plants and animals that spread and harm local species, such as the water hyacinth in southern waterways.
 - **Conservation:** humans can also **improve** the distribution of organisms by planting trees (afforestation and reforestation, such as shelterbelts in the north), protecting habitats in national parks (Yankari Game Reserve, Kainji Lake National Park, Cross River National Park, Old Oyo National Park), and controlling pollution.
 
-![An eight panel illustration showing human impacts on ecosystems including deforestation, bush burning, farming, urbanization, a dam, oil pollution, overgrazing, and hunting.](images/C1-13-human-impact-ecosystems.png)
+[IMAGE: A single landscape scene divided into panels showing human activities that change the distribution of organisms in Nigeria: (1) a cleared forest with tree stumps and a log truck; (2) bush burning in dry savanna grass with smoke and birds flying away; (3) a large flat farm of one crop with a tractor spraying chemicals; (4) a city with buildings and a road cutting through bush; (5) a dam across a river with a large lake behind it; (6) an oil spill in a mangrove creek with dead fish and an oil-coated bird, and a gas flare in the background; (7) bare, trampled land with too many cattle and goats; (8) a hunter carrying bushmeat. Labels: "deforestation", "bush burning", "farming (monocropping and chemicals)", "urbanisation and roads", "dam and reservoir", "pollution (oil spill and gas flaring)", "overgrazing", "hunting". Soft natural colours. Clean flat textbook style, white background.]
 
 ## Key terms
 

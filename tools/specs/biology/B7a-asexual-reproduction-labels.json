@@ -47,7 +47,7 @@
      322,
      501
     ],
-    "L"
+    "T"
    ],
    [
     "macronucleus elongates",
@@ -55,7 +55,7 @@
      292,
      491
     ],
-    "L"
+    "T"
    ],
    [
     "constriction",
@@ -64,16 +64,17 @@
      507
     ],
     "R"
-   ],
-   [
-    "daughter Paramecia",
-    [
-     913,
-     507
-    ],
-    "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "daughter\nParamecia",
+    722,
+    802
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-02-yeast-budding-stages": {
   "labels": [
@@ -123,7 +124,7 @@
      305,
      528
     ],
-    "L"
+    "T"
    ],
    [
     "daughter nucleus enters bud",
@@ -131,7 +132,7 @@
      553,
      428
     ],
-    "R"
+    "T"
    ],
    [
     "chain of cells",
@@ -148,16 +149,23 @@
      506
     ],
     "R"
-   ],
+   ]
+  ],
+  "split": [
+   [
+    476,
+    120
+   ]
+  ],
+  "captions": [
    [
     "daughter cell",
-    [
-     928,
-     414
-    ],
-    "R"
+    928,
+    484
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-03-asexual-reproduction-types-grid": {
   "labels": [
@@ -167,7 +175,7 @@
      309,
      101
     ],
-    "L"
+    "T"
    ],
    [
     "spores",
@@ -175,7 +183,7 @@
      437,
      150
     ],
-    "L"
+    "T"
    ],
    [
     "sporangiophore",
@@ -183,7 +191,7 @@
      326,
      247
     ],
-    "L"
+    "T"
    ],
    [
     "hyphae",
@@ -194,65 +202,36 @@
     "L"
    ],
    [
-    "Spirogyra filament",
-    [
-     693,
-     214
-    ],
-    "R"
-   ],
-   [
-    "fragment",
-    [
-     775,
-     263
-    ],
-    "R"
-   ],
-   [
-    "Planaria pieces",
-    [
-     251,
-     685
-    ],
-    "L"
-   ],
-   [
-    "regeneration",
-    [
-     347,
-     880
-    ],
-    "L"
-   ],
-   [
     "unfertilised egg",
     [
      794,
      709
     ],
     "R"
+   ]
+  ],
+  "captions": [
+   [
+    "Spirogyra filament;\nfragment",
+    768,
+    527
+   ],
+   [
+    "Planaria pieces;\nregeneration",
+    256,
+    985
    ],
    [
     "drone (parthenogenesis)",
-    [
-     928,
-     877
-    ],
-    "R"
+    768,
+    992
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-04-asexual-vs-sexual-reproduction": {
   "labels": [
-   [
-    "one parent",
-    [
-     247,
-     292
-    ],
-    "L"
-   ],
    [
     "no gametes",
     [
@@ -270,62 +249,59 @@
     "L"
    ],
    [
-    "identical offspring (clone)",
-    [
-     263,
-     828
-    ],
-    "L"
-   ],
-   [
-    "two parents",
-    [
-     768,
-     251
-    ],
-    "R"
-   ],
-   [
-    "male gamete",
-    [
-     693,
-     479
-    ],
-    "R"
-   ],
-   [
-    "female gamete",
-    [
-     848,
-     496
-    ],
-    "R"
-   ],
-   [
     "fertilisation",
     [
      762,
      569
     ],
     "R"
+   ]
+  ],
+  "split": [
+   [
+    688,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "one parent",
+    254,
+    380
+   ],
+   [
+    "identical offspring\n(clone)",
+    256,
+    921
+   ],
+   [
+    "two parents",
+    886,
+    376
+   ],
+   [
+    "male gamete",
+    679,
+    536
+   ],
+   [
+    "female gamete",
+    851,
+    688
    ],
    [
     "zygote",
-    [
-     768,
-     642
-    ],
-    "R"
+    766,
+    692
    ],
    [
-    "offspring show variation",
-    [
-     770,
-     830
-    ],
-    "R"
+    "offspring show\nvariation",
+    764,
+    928
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-05-underground-vegetative-organs": {
   "labels": [
@@ -515,7 +491,7 @@
      754,
      150
     ],
-    "R"
+    "T"
    ],
    [
     "slip",
@@ -574,14 +550,6 @@
     "L"
    ],
    [
-    "Bryophyllum leaf",
-    [
-     775,
-     796
-    ],
-    "R"
-   ],
-   [
     "notch",
     [
      684,
@@ -597,18 +565,19 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Bryophyllum leaf",
+    768,
+    944
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-07-plant-stem-cuttings": {
   "labels": [
-   [
-    "cassava stem",
-    [
-     142,
-     279
-    ],
-    "L"
-   ],
    [
     "node (bud)",
     [
@@ -618,7 +587,7 @@
     "L"
    ],
    [
-    "cutting 20\u201325 cm",
+    "cutting 20–25 cm",
     [
      247,
      410
@@ -658,20 +627,12 @@
     "L"
    ],
    [
-    "sugar cane sett",
-    [
-     541,
-     573
-    ],
-    "R"
-   ],
-   [
     "bud",
     [
      492,
      677
     ],
-    "L"
+    "T"
    ],
    [
     "furrow",
@@ -679,15 +640,7 @@
      636,
      619
     ],
-    "R"
-   ],
-   [
-    "hibiscus cutting",
-    [
-     841,
-     223
-    ],
-    "R"
+    "T"
    ],
    [
     "rooting powder",
@@ -705,7 +658,26 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "cassava stem",
+    193,
+    1013
+   ],
+   [
+    "sugar cane\nsett",
+    546,
+    898
+   ],
+   [
+    "hibiscus\ncutting",
+    861,
+    988
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-08-cleft-grafting-stages": {
   "labels": [
@@ -723,7 +695,7 @@
      254,
      186
     ],
-    "L"
+    "T"
    ],
    [
     "scion",
@@ -731,7 +703,7 @@
      719,
      198
     ],
-    "R"
+    "T"
    ],
    [
     "bud",
@@ -739,7 +711,7 @@
      677,
      208
     ],
-    "R"
+    "T"
    ],
    [
     "wedge-shaped base",
@@ -747,7 +719,7 @@
      583,
      335
     ],
-    "R"
+    "T"
    ],
    [
     "cambium layers in contact",
@@ -782,14 +754,6 @@
     "R"
    ],
    [
-    "approach grafting",
-    [
-     888,
-     849
-    ],
-    "R"
-   ],
-   [
     "parent tree branch",
     [
      949,
@@ -805,7 +769,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "approach\ngrafting",
+    891,
+    1014
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-09-t-budding-propagation": {
   "labels": [
@@ -831,7 +804,7 @@
      437,
      223
     ],
-    "L"
+    "T"
    ],
    [
     "bud stick",
@@ -839,7 +812,7 @@
      828,
      145
     ],
-    "R"
+    "T"
    ],
    [
     "bud",
@@ -879,7 +852,7 @@
      658,
      794
     ],
-    "R"
+    "T"
    ],
    [
     "stock cut back above bud",
@@ -896,16 +869,17 @@
      677
     ],
     "R"
-   ],
-   [
-    "patch budding (rubber)",
-    [
-     431,
-     813
-    ],
-    "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "patch budding\n(rubber)",
+    433,
+    983
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "B7a-10-layering-propagation-methods": {
   "labels": [
@@ -963,7 +937,7 @@
      508,
      351
     ],
-    "L"
+    "T"
    ],
    [
     "cut here",
@@ -1020,23 +994,21 @@
      784
     ],
     "R"
-   ],
+   ]
+  ],
+  "captions": [
    [
-    "marcotting (air layering)",
-    [
-     815,
-     496
-    ],
-    "R"
+    "marcotting (air\nlayering)",
+    815,
+    927
    ],
    [
     "simple layering",
-    [
-     321,
-     505
-    ],
-    "L"
+    307,
+    805
    ]
-  ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

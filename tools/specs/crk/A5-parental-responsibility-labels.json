@@ -1,0 +1,75 @@
+{
+ "A5-01-eli-hearing-battle-news": {
+  "caption_below": "News of the captured Ark",
+  "labels": [
+   [
+    "Messenger from the battle",
+    [
+     703,
+     524
+    ],
+    "R"
+   ],
+   [
+    "Eli falling backwards",
+    [
+     290,
+     571
+    ],
+    "L"
+   ]
+  ]
+ },
+ "A5-02-david-fleeing-mount-olives": {
+  "caption_below": "Barefoot and weeping",
+  "regions": [
+   "Mount of Olives"
+  ],
+  "labels": [
+   [
+    "King David fleeing",
+    [
+     524,
+     495
+    ],
+    "R"
+   ],
+   [
+    "Mount of Olives",
+    [
+     951,
+     654
+    ],
+    "R"
+   ]
+  ]
+ },
+ "A5-03-king-asa-cutting-idols": {
+  "labels": [
+   [
+    "King Asa",
+    [
+     347,
+     493
+    ],
+    "L"
+   ],
+   [
+    "Asherah idol cut down",
+    [
+     670,
+     454
+    ],
+    "R"
+   ],
+   [
+    "Queen Mother Maacah deposed",
+    [
+     176,
+     393
+    ],
+    "L"
+   ]
+  ]
+ }
+}

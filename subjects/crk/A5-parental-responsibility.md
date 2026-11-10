@@ -47,7 +47,7 @@ During a battle against the Philistines, the Israelites foolishly brought the Ar
 - When a messenger ran to Shiloh and told the blind, 98-year-old Eli the news, upon hearing that the **Ark of God was captured**, Eli fell backward off his seat by the gate, broke his neck, and died.
 - Phinehas's pregnant wife went into labour upon hearing the news. Before dying in childbirth, she named the child **Ichabod** (meaning "The glory has departed"), because the Ark of God had been captured and her father-in-law and husband were dead.
 
-[IMAGE: A dramatic textbook illustration of an elderly, blind Eli sitting on a stone seat by the city gate. A breathless, distressed messenger with torn clothes and dust on his head is speaking to him. Eli is shown just starting to fall backwards off the seat in shock, dropping his staff. In the background, people are weeping. Labels to add later: "Messenger from the battle", "Eli falling backwards", "News of the captured Ark". Clean flat textbook style, white background.]
+![An elderly Eli falls backward from a stone bench upon hearing shocking battle news from a distressed messenger outside the city gate while onlookers weep.](images/A5-01-eli-hearing-battle-news.png)
 
 ### Samuel and his corrupt sons (Joel and Abijah)
 Samuel grew up to be a great prophet and judge who led Israel faithfully. However, when Samuel grew old, he appointed his two sons, **Joel (the firstborn) and Abijah**, to be judges over Israel in Beersheba (1 Sam. 8:1-5).
@@ -85,7 +85,7 @@ Absalom began a subtle campaign to steal the throne:
 After four years (some translations say forty, but four fits the timeline), Absalom asked David for permission to go to **Hebron** to pay a vow. Once there, he sent secret messengers throughout Israel to declare, *"As soon as you hear the sound of the trumpet, then say, ‘Absalom is king at Hebron!’"* 
 The conspiracy grew strong. When David heard of it, he and his loyal servants fled Jerusalem weeping, bare-footed, and with their heads covered, to avoid a bloodbath in the city.
 
-[IMAGE: King David, looking older and deeply sorrowful, walking barefoot up the Mount of Olives. His head is covered with a mantle, and he is weeping. Around him, loyal servants and soldiers march solemnly. The city of Jerusalem is visible in the background below. Labels to add later: "King David fleeing", "Mount of Olives", "Barefoot and weeping". Clean flat textbook style, white background.]
+![An elderly King David weeping and barefoot climbs the Mount of Olives accompanied by loyal followers and soldiers, with Jerusalem visible below.](images/A5-02-david-fleeing-mount-olives.png)
 
 ### The defeat and death of Absalom (II Sam. 18)
 David organised his remaining troops into three groups under Joab, Abishai, and Ittai. As they marched out to fight Absalom's rebel army in the forest of Ephraim, David gave his commanders a strict order in the hearing of all the troops: *"Deal gently for my sake with the young man Absalom."* 
@@ -137,7 +137,7 @@ Asa pleased God by initiating sweeping religious reforms to rid Judah of idolatr
 
 Though the "high places" (local altars on hills) were not completely taken away, the Bible records that **Asa's heart was wholly true to the Lord all his days**. He had peace during his reign, demonstrating God's approval of his leadership and his willingness to take responsibility for the spiritual health of his nation and family.
 
-[IMAGE: A determined King Asa pointing commandingly as soldiers chop down a wooden idol (an Asherah pole) with axes. In the background, an older woman (Queen Mother Maacah) looks on in shock and anger. The setting is near a rocky stream (the brook Kidron). Labels to add later: "King Asa", "Asherah idol cut down", "Queen Mother Maacah deposed". Clean flat textbook style, white background.]
+![King Asa commands soldiers to chop down a carved wooden Asherah idol by a rocky brook as Queen Mother Maacah watches in distress.](images/A5-03-king-asa-cutting-idols.png)
 
 ## Biblical Teachings on Child Training
 

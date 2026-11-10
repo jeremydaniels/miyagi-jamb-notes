@@ -1,0 +1,55 @@
+{
+ "template": "table",
+ "title": "Comparison of Private Enterprises",
+ "columns": [
+  "Feature",
+  "Sole Proprietorship",
+  "Partnership",
+  "Private Limited Company",
+  "Public Limited Company",
+  "Cooperative Society"
+ ],
+ "rows": [
+  [
+   "Ownership size",
+   "1 person",
+   "2 to 20 partners (up to 50)",
+   "2 to 200 members",
+   "Minimum 7, no maximum limit",
+   "Minimum 10 adults, no limit"
+  ],
+  [
+   "Liability",
+   "Unlimited",
+   "Unlimited (joint and several)",
+   "Limited to shares",
+   "Limited to shares",
+   "Limited to capital contributed"
+  ],
+  [
+   "Legal Status",
+   "No separate legal entity",
+   "No separate legal entity",
+   "Separate legal entity",
+   "Separate legal entity",
+   "Separate legal entity"
+  ],
+  [
+   "Source of Capital",
+   "Personal savings, loans",
+   "Partners' capital, loans",
+   "Share capital from members",
+   "Public issue of shares, debentures",
+   "Share capital from members"
+  ],
+  [
+   "Control",
+   "Owner has full control",
+   "Shared among partners",
+   "Board of directors",
+   "Board of directors",
+   "Elected managing committee (1 vote/member)"
+  ]
+ ],
+ "first_col_bold": true
+}

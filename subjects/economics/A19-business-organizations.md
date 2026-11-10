@@ -78,7 +78,7 @@ A cooperative society is a voluntary association of individuals with common inte
 *   **Types:** Consumer cooperatives (buy goods in bulk to sell cheaply to members), Producer cooperatives (farmers pooling resources), Thrift and Credit cooperatives (saving money together to give loans to members).
 *   **Features:** Governed by democratic principles (**"One man, one vote"** regardless of how much capital you contributed). Profits are distributed based on a member's participation, known as a **patronage dividend**.
 
-[IMAGE: A large comparison table chart titled "Comparison of Private Enterprises". It has columns for Sole Proprietorship, Partnership, Private Limited Company, Public Limited Company, and Cooperative Society. Rows compare "Ownership size", "Liability", "Legal Status", "Source of Capital", and "Control". Clean flat textbook illustration, corporate blue and white background.]
+![A comparison table analyzing sole proprietorship, partnership, private company, public company, and cooperative society across ownership size, liability, legal status, capital source, and control.](images/A19-01-business-organizations-comparison-table.png)
 
 **Summary Comparison Table of Private Enterprises**
 
@@ -195,7 +195,7 @@ The size of any firm is constrained or expanded by the following factors:
 5. **Risk and Uncertainty:** Expanding a business is risky. If the economic environment is unstable (high inflation, unpredictable government policies), owners may choose to keep their businesses small to limit their exposure to potential losses.
 6. **Level of Technology:** Access to advanced technology allows a firm to mass-produce goods and expand. Firms relying on manual labor are usually constrained in size compared to automated factories.
 
-[IMAGE: A balanced scale or flowchart. On the left, a small shop representing a small firm. On the right, a large factory representing a large firm. Between them, a set of arrows pointing to the factory labeled with the factors of growth: "Large Market Demand", "Access to Huge Capital", "Advanced Technology", "Skilled Management". Clean flat textbook style, white background.]
+![A flowchart showing a small shop transitioning to a large factory through four growth drivers: market demand, huge capital, advanced technology, and skilled management.](images/A19-02-firm-growth-factors.png)
 
 ---
 

@@ -1,0 +1,78 @@
+{
+ "template": "flowchart",
+ "direction": "LR",
+ "title": "Factors Enabling the Growth of a Firm",
+ "nodes": [
+  {
+   "id": "small_firm",
+   "text": "Small Shop\n(Small Firm)",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "factor1",
+   "text": "Large Market Demand",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "factor2",
+   "text": "Access to Huge Capital",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "factor3",
+   "text": "Advanced Technology",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "factor4",
+   "text": "Skilled Management",
+   "shape": "box",
+   "color": "gray"
+  },
+  {
+   "id": "large_firm",
+   "text": "Large Factory\n(Large Firm)",
+   "shape": "round",
+   "color": "green"
+  }
+ ],
+ "edges": [
+  {
+   "from": "small_firm",
+   "to": "factor1",
+   "label": "growth drivers"
+  },
+  {
+   "from": "small_firm",
+   "to": "factor2"
+  },
+  {
+   "from": "small_firm",
+   "to": "factor3"
+  },
+  {
+   "from": "small_firm",
+   "to": "factor4"
+  },
+  {
+   "from": "factor1",
+   "to": "large_firm"
+  },
+  {
+   "from": "factor2",
+   "to": "large_firm"
+  },
+  {
+   "from": "factor3",
+   "to": "large_firm"
+  },
+  {
+   "from": "factor4",
+   "to": "large_firm"
+  }
+ ]
+}

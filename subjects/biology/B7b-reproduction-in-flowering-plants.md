@@ -95,7 +95,7 @@ The **androecium** is made of **stamens**. Each stamen has:
 
 **Function of the androecium:** to produce, hold and release pollen grains, which carry the male gametes.
 
-![A diagram of a stamen showing the filament and anther with pollen sacs releasing pollen, alongside a cross section of a pollen grain revealing its walls and nuclei.](images/B7b-02-stamen-pollen-grain-structure.png)
+[IMAGE: Two diagrams side by side. Left: a single stamen showing a long thin filament topped by an anther with two lobes, one lobe cut across to show four pollen sacs, one sac split open with pollen grains spilling out. Right: an enlarged pollen grain shown in section with a thick spiky outer wall and thin inner wall, a tube nucleus and a generative nucleus. Labels: filament, anther, pollen sac, line of dehiscence, pollen grains, exine (outer wall), intine (inner wall), tube nucleus, generative nucleus. Use pale green for the filament, yellow-orange for the anther and pollen. Clean flat textbook style, white background.]
 
 ### The gynoecium (pistil): the female part
 
@@ -354,7 +354,7 @@ Insects visit flowers to feed on **nectar** and **pollen**. As they move around 
 6. **Small, light, smooth, dry pollen grains** that are easily carried by wind.
 7. Flowers are often held **high up** above the leaves (for example the maize **tassel** at the top of the plant), or appear before the leaves.
 
-![Botanical diagram of a maize plant showing male tassel, female cob, windblown pollen, and insets of a male flower with anthers and an ovary with silk.](images/B7b-08-maize-plant-reproduction.png)
+[IMAGE: A maize plant shown whole on the left, with a male tassel (branched spike of male flowers) at the top and a female cob in a leaf axil lower down with long silky threads (silks) hanging out of its husk. On the right, two enlargements: a male spikelet with three anthers dangling on long thin filaments, and a section of the female cob showing a single grain-forming ovary with its very long silk (style and stigma) leading out. Show tiny pollen grains drifting in the air from the tassel towards the silks. Labels: tassel (male inflorescence), cob (female inflorescence), husk leaves, silks (styles and stigmas), anthers hanging out, long filaments, ovary, pollen grains carried by wind. Soft green and pale yellow colours. Clean flat textbook style, white background.]
 
 #### Insect-pollinated and wind-pollinated flowers compared
 
@@ -789,7 +789,7 @@ Some **dry dehiscent fruits** burst open suddenly when ripe and throw out their 
 | **Self (explosive)** | Dry dehiscent pericarp that splits suddenly | Cowpea, *Crotalaria*, Flamboyant, castor oil, balsam, sandbox tree |
 | **Humans** | Useful or attractive fruits and seeds | Crops (maize, cassava, cocoa), ornamental plants |
 
-![Six panels showing fruit and seed dispersal adaptations including wind dispersal with pappus and wings, fibrous coconut in water, bird eating guava, burr in fur, and explosive pod.](images/B7b-16-fruit-seed-dispersal-mechanisms.png)
+[IMAGE: A panel of six small fruit and seed drawings grouped by dispersal method, each in its own rounded box. 1. Wind: a Tridax fruit with a feathery pappus, and a four-winged Combretum fruit. 2. Wind: a cotton seed with long white fibres. 3. Water: a coconut floating on water, cut-away showing the fibrous husk with air spaces. 4. Animal (eaten): a ripe guava cut open with many small seeds, and a small bird eating it. 5. Animal (attached): a Bidens fruit with two barbed spines caught in animal fur. 6. Explosive: a dry cowpea pod splitting and twisting, with seeds flying out. Labels: pappus, wing, hairs (fibres), fibrous mesocarp, hard seeds, barbed spines, twisted pod valves; box titles: wind, wind, water, animals (eaten), animals (hooks), self (explosive). Clean flat textbook style, white background.]
 
 ## Key terms
 

@@ -107,82 +107,6 @@
    ]
   ]
  },
- "B7b-02-stamen-pollen-grain-structure": {
-  "labels": [
-   [
-    "filament",
-    [
-     208,
-     677
-    ],
-    "L"
-   ],
-   [
-    "anther",
-    [
-     223,
-     241
-    ],
-    "L"
-   ],
-   [
-    "pollen sac",
-    [
-     322,
-     186
-    ],
-    "L"
-   ],
-   [
-    "line of dehiscence",
-    [
-     369,
-     309
-    ],
-    "L"
-   ],
-   [
-    "pollen grains",
-    [
-     377,
-     380
-    ],
-    "L"
-   ],
-   [
-    "exine (outer wall)",
-    [
-     693,
-     327
-    ],
-    "R"
-   ],
-   [
-    "intine (inner wall)",
-    [
-     702,
-     357
-    ],
-    "R"
-   ],
-   [
-    "tube nucleus",
-    [
-     666,
-     494
-    ],
-    "R"
-   ],
-   [
-    "generative nucleus",
-    [
-     749,
-     568
-    ],
-    "R"
-   ]
-  ]
- },
  "B7b-03-plant-ovule-longitudinal-section": {
   "labels": [
    [
@@ -377,169 +301,101 @@
   ]
  },
  "B7b-06-flamboyant-pride-barbados-comparison": {},
- "B7b-08-maize-plant-reproduction": {
-  "labels": [
-   [
-    "tassel (male inflorescence)",
-    [
-     266,
-     182
-    ],
-    "L"
-   ],
-   [
-    "cob (female inflorescence)",
-    [
-     329,
-     654
-    ],
-    "L"
-   ],
-   [
-    "husk leaves",
-    [
-     290,
-     693
-    ],
-    "L"
-   ],
-   [
-    "silks (styles and stigmas)",
-    [
-     418,
-     674
-    ],
-    "L"
-   ],
-   [
-    "anthers hanging out",
-    [
-     735,
-     376
-    ],
-    "R"
-   ],
-   [
-    "long filaments",
-    [
-     728,
-     247
-    ],
-    "R"
-   ],
-   [
-    "ovary",
-    [
-     661,
-     785
-    ],
-    "R"
-   ],
-   [
-    "pollen grains carried by wind",
-    [
-     445,
-     385
-    ],
-    "L"
-   ]
-  ]
- },
  "B7b-09-insect-vs-wind-pollination": {},
  "B7b-11-double-fertilisation-angiosperms": {
   "labels": [
    [
     "pollen grain",
     [
-     451,
-     110
+     458,
+     65
     ],
     "L"
    ],
    [
     "stigma",
     [
-     573,
-     144
+     479,
+     107
     ],
-    "R"
+    "L"
    ],
    [
     "style",
     [
-     544,
-     335
+     493,
+     314
     ],
-    "R"
+    "L"
    ],
    [
     "pollen tube",
     [
-     500,
-     356
+     526,
+     437
     ],
-    "L"
+    "R"
    ],
    [
     "tube nucleus",
     [
-     509,
-     841
+     531,
+     861
     ],
-    "L"
+    "R"
    ],
    [
     "male nuclei",
     [
-     445,
-     861
+     652,
+     704
     ],
-    "L"
+    "R"
    ],
    [
     "ovary wall",
     [
-     351,
-     684
+     356,
+     638
     ],
     "L"
    ],
    [
     "ovule",
     [
-     609,
-     686
+     464,
+     666
     ],
-    "R"
+    "L"
    ],
    [
     "micropyle",
     [
      513,
-     826
+     836
     ],
     "R"
    ],
    [
     "integuments",
     [
-     596,
-     643
-    ],
-    "R"
-   ],
-   [
-    "egg cell",
-    [
-     510,
-     779
+     423,
+     611
     ],
     "L"
    ],
    [
+    "egg cell",
+    [
+     514,
+     779
+    ],
+    "R"
+   ],
+   [
     "synergids",
     [
-     466,
+     472,
      789
     ],
     "L"
@@ -547,18 +403,18 @@
    [
     "polar nuclei",
     [
-     496,
-     678
+     524,
+     696
     ],
-    "L"
+    "R"
    ],
    [
     "antipodal cells",
     [
-     513,
-     574
+     510,
+     587
     ],
-    "R"
+    "L"
    ]
   ]
  },
@@ -594,7 +450,7 @@
      492,
      564
     ],
-    "T"
+    "L"
    ],
    [
     "bract",
@@ -602,7 +458,7 @@
      483,
      611
     ],
-    "T"
+    "L"
    ],
    [
     "central axis (core)",
@@ -610,7 +466,7 @@
      631,
      575
     ],
-    "T"
+    "R"
    ],
    [
     "crown",
@@ -618,7 +474,7 @@
      488,
      390
     ],
-    "T"
+    "L"
    ],
    [
     "pericarp",
@@ -636,10 +492,7 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "B7b-15-cashew-apple-nut-structure": {
   "labels": [
@@ -751,7 +604,7 @@
      564,
      437
     ],
-    "T"
+    "R"
    ],
    [
     "mesocarp",
@@ -759,7 +612,7 @@
      591,
      473
     ],
-    "T"
+    "R"
    ],
    [
     "seed",
@@ -775,7 +628,7 @@
      435,
      447
     ],
-    "T"
+    "L"
    ],
    [
     "placenta",
@@ -791,7 +644,7 @@
      643,
      508
     ],
-    "T"
+    "R"
    ],
    [
     "fibrous mesocarp (husk)",
@@ -809,90 +662,6 @@
     ],
     "R"
    ]
-  ],
-  "captions": [],
-  "fixed_sides": true,
-  "capsize": 0
- },
- "B7b-16-fruit-seed-dispersal-mechanisms": {
-  "labels": [
-   [
-    "pappus",
-    [
-     152,
-     131
-    ],
-    "L"
-   ],
-   [
-    "wing",
-    [
-     280,
-     289
-    ],
-    "L"
-   ],
-   [
-    "hairs (fibres)",
-    [
-     512,
-     223
-    ],
-    "T"
-   ],
-   [
-    "fibrous mesocarp",
-    [
-     883,
-     390
-    ],
-    "R"
-   ],
-   [
-    "hard seeds",
-    [
-     167,
-     760
-    ],
-    "L"
-   ],
-   [
-    "barbed spines",
-    [
-     527,
-     658
-    ],
-    "R"
-   ]
-  ],
-  "captions": [
-   [
-    "twisted pod\nvalves; box\ntitles: wind;\nself\n(explosive)",
-    842,
-    1000
-   ],
-   [
-    "wind",
-    181,
-    536
-   ],
-   [
-    "water",
-    842,
-    536
-   ],
-   [
-    "animals (eaten)",
-    181,
-    1000
-   ],
-   [
-    "animals (hooks)",
-    511,
-    1000
-   ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  }
 }

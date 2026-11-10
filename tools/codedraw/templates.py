@@ -6,7 +6,7 @@
 Every template measures its text, sizes boxes to fit, and never uses a font below MIN_PT, so text never
 overlaps and is always readable on a phone. Templates (spec["template"]):
 
-  flowchart  {"nodes":[{"id","text","shape":"box|round|diamond|oval|plain","color"}], "edges":[{"from","to","label"}],
+  flowchart  {"nodes":[{"id","text","shape":"box|round|diamond|oval|parallelogram|plain","color"}], "edges":[{"from","to","label"}],
               "direction":"TB|LR", "title"}                      flows, trees, organisation charts, classifications
   cycle      {"items":["text",...], "center":"text", "edge_labels":["text",...], "title", "colors":[...]}
   hub        {"center":"text", "spokes":["text",...], "title"}                  concept maps, "users of ..." diagrams
@@ -160,7 +160,7 @@ def flowchart(spec, out):
     for n in nodes:
         t = W(n["text"], wrap_n); w, h = measure(probe, t, MIN_PT)
         shape = n.get("shape", "box")
-        pad_w, pad_h = (0.55, 0.38) if shape in ("diamond",) else (0.4, 0.3)
+        pad_w, pad_h = (0.55, 0.38) if shape in ("diamond",) else ((0.9, 0.3) if shape in ("parallelogram", "io") else (0.4, 0.3))
         if shape == "diamond": w, h = w * 1.5, h * 1.6
         size[n["id"]] = (w + pad_w, h + pad_h, t)
     plt.close(probe)
@@ -188,6 +188,9 @@ def flowchart(spec, out):
             ax.add_patch(Polygon([[x, y + h / 2], [x + w / 2, y], [x, y - h / 2], [x - w / 2, y]], fc=c, ec=EDGE, lw=1.6, zorder=3))
         elif shape == "oval":
             ax.add_patch(Ellipse((x, y), w, h, fc=c, ec=EDGE, lw=1.6, zorder=3))
+        elif shape in ("parallelogram", "io"):   # input/output symbol
+            sk = min(0.35, 0.3 * h)
+            ax.add_patch(Polygon([[x - w / 2 + sk, y + h / 2], [x + w / 2, y + h / 2], [x + w / 2 - sk, y - h / 2], [x - w / 2, y - h / 2]], fc=c, ec=EDGE, lw=1.6, zorder=3, joinstyle="round"))
         elif shape == "plain":
             pass
         else:

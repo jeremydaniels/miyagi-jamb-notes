@@ -507,7 +507,7 @@ import templates as tpl
 TPL_SYS = ("You turn a textbook figure description into a JSON spec for a FIXED drawing template. Output ONLY one JSON object, no markdown.\n"
            "The object must have \"template\": the template name you are told to use, and the fields documented below. The template does the layout, so you give only content.\n"
            "Rules: include EVERY item, label, title, axis name, value and annotation the description names, spelled exactly as in the description, and nothing that contradicts it. "
-           "Keep each text short (under 8 words); put detail in separate nodes only when the description lists it. Flowcharts: at most 4 nodes in one row and 9 layers; give every edge a from and to; label decision branches (yes/no). "
+           "Keep each text short (under 8 words); put detail in separate nodes only when the description lists it. Flowcharts: use the standard symbols: shape oval for Start and Stop, parallelogram for every input or output step (Read, Input, Print, Display, Output), box for a process or calculation, diamond for a decision; never use plain for a step. At most 4 nodes in one row and 9 layers; give every edge a from and to; label decision branches (yes/no). "
            "Graphs: give coordinates on a 0-10 scale (xmax and ymax 10) so curves have the right shape (demand slopes down, supply up, U-shaped cost curves, S-curves etc.); name every curve with 'label'; mark intersections with 'guides' (dashed lines to the axes with x_text and y_text). "
            "Tables: put the column headings in 'columns' and one list per row. Scientific and factual accuracy matters: do not invent facts beyond the description.\n\nTEMPLATE DOCUMENTATION:\n" + tpl.__doc__)
 

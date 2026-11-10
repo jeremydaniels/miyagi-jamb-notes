@@ -52,7 +52,7 @@ The English word "love" is used to describe many different feelings (e.g., "I lo
 
 In Christian teaching, **Agape** is the standard for how believers should treat God and one another.
 
-[IMAGE: A clean, flat textbook illustration showing a four-quadrant chart of the Greek types of love. Top-left: Agape (symbolised by hands holding a heart with a cross inside). Top-right: Phileo (symbolised by two friends with arms around each other's shoulders). Bottom-left: Eros (symbolised by a married couple holding hands). Bottom-right: Storge (symbolised by a mother holding a child). Labels: "AGAPE (Unconditional/Divine)", "PHILEO (Brotherly/Friendship)", "EROS (Romantic/Spousal)", "STORGE (Family/Affection)". White background.]
+![A four-quadrant chart depicting ancient Greek types of love: Agape divine love, Phileo friendship, Eros romantic love, and Storge family affection, illustrated with symbolic stick figures.](images/C15-01-four-greek-loves-quadrant.png)
 
 ## Love for one another
 
@@ -101,7 +101,7 @@ Applying these teachings to everyday life in Nigeria, Christians can specify the
 5. **Praying for others:** Interceding for friends, family, and even enemies.
 6. **Being patient and kind:** Avoiding unnecessary anger, insults, and rudeness in public transport, markets, and homes.
 
-[IMAGE: A two-panel illustration showing practical ways of demonstrating Christian love in a Nigerian context. Left panel: A young person sharing a bowl of food with an elderly, less privileged person sitting by the roadside. Right panel: Two students in school uniform, one helping the other study a textbook, with a speech bubble showing words of encouragement. Labels: "Sharing with those in need", "Helping and encouraging others". Clean flat textbook style, white background.]
+![Two-panel illustration: left shows a young person offering food to a seated elderly man outdoors; right shows two uniformed students studying a book together.](images/C15-02-nigerian-christian-charity-scenes.png)
 
 ## The significance of love
 

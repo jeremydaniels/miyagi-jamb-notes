@@ -68,7 +68,7 @@ The writings and theories of philosophers have greatly influenced constitution-m
 ### 8. International Treaties and Agreements
 When a country signs international agreements (like the UN Declaration of Human Rights or African Charter on Human and Peoples' Rights), it often adjusts its constitution to reflect these international standards.
 
-[IMAGE: A conceptual map (mind map) showing "SOURCES OF A CONSTITUTION" in the center circle. Eight arrows point outward to smaller circles labeled: "Customs & Traditions", "Past Constitutions", "Acts of Parliament", "Judicial Precedents", "Conventions", "Constitutional Conferences", "Works of Political Thinkers", and "International Treaties". Clean flat textbook illustration, white background.]
+![A mind map with Sources of a Constitution at the center connecting to eight sources including customs, past constitutions, judicial precedents, and international treaties.](images/A8-01-sources-constitution-mind-map.png)
 
 ## Types and Nature of Constitutions
 
@@ -162,7 +162,7 @@ A **flexible constitution** is one that is very easy to amend. It does not requi
 | **Suitability** | Best suited for diverse, Federal states (e.g., Nigeria, USA). | Best suited for homogeneous, Unitary states (e.g., Britain). |
 | **Protection of Minorities**| Strong protection, as changes require widespread agreement. | Weak protection, as a simple majority can change the rules. |
 
-[IMAGE: A split illustration contrasting Rigid and Flexible constitutions. Left side (Rigid): A heavy steel safe with multiple large padlocks, and a piece of paper labeled "Constitution" inside. A group of people struggle to unlock it together. Right side (Flexible): A simple, unlocked wooden box with the lid open, and a person easily reaching in to swap papers. Labels to add: "Rigid Constitution: Difficult to amend, requires special procedures", "Flexible Constitution: Easy to amend, like ordinary laws". Clean flat textbook style, white background.]
+![A split illustration contrasting a rigid constitution represented by people struggling to unlock a chained safe containing a document, and a flexible constitution showing a person easily accessing an open wooden box.](images/A8-02-rigid-versus-flexible-constitution.png)
 
 ## Key terms
 

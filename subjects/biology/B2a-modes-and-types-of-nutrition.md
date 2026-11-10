@@ -159,7 +159,7 @@ The syllabus content item "types of nutrition" includes symbiosis, although the 
 - **Termites and gut microorganisms:** protozoa and bacteria in the termite's gut digest the **cellulose** in the wood the termite eats; the microorganisms get food and shelter.
 - **Ruminants and rumen microorganisms:** bacteria and protozoa in the rumen of the sheep, goat and cow digest **cellulose** (see the sheep below).
 
-[IMAGE: Flow chart of the modes and types of nutrition. Top box "Nutrition" splitting into two boxes "Autotrophic" and "Heterotrophic". Under Autotrophic: "Photosynthetic (green plants, algae)" and "Chemosynthetic (nitrifying bacteria)". Under Heterotrophic: "Holozoic (sheep, man)", "Parasitic (roundworm, tapeworm, Loranthus)", "Saprophytic (Rhizopus, mushroom)", "Symbiotic (Rhizobium and legumes, lichens)". A side box joined to both main branches by dotted lines: "Carnivorous plants (sundew, bladderwort): photosynthesise and digest insects". Each lower box has a small simple icon of the example. Labels are the box texts given. Soft pastel colours: green for autotrophic, orange for heterotrophic. Clean flat textbook style, white background.]
+![Flowchart classifying nutrition into autotrophic (photosynthetic and chemosynthetic) and heterotrophic (holozoic, parasitic, saprophytic and symbiotic) modes, with carnivorous plants shown as a mixed case.](images/B2a-02-classification-nutrition-flowchart.png)
 
 ## Differentiating the examples of heterotrophic feeding
 

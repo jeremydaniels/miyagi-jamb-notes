@@ -56,7 +56,7 @@ A **raw material** is an unprocessed, basic natural resource used to manufacture
 | **Soaps and Detergents** | Animal fats, vegetable oils (e.g., palm oil), sodium hydroxide (caustic soda, $\text{NaOH}$) | Palm oil from southern Nigeria |
 | **Paints and Dyes** | Petrochemical solvents, natural resins, mineral pigments | Extracted locally or derived from the petrochemical sector |
 
-[IMAGE: A large flow chart mapping Nigeria's natural resources to their respective chemical industries. Top level shows raw materials like 'Crude Oil', 'Limestone', 'Metallic Ores', and 'Agricultural Produce'. Arrows lead to 'Petrochemical Industry', 'Cement Industry', 'Metallurgical Industry', and 'Food & Beverage Industry' respectively. From these, arrows lead out to products like 'Plastics & Fuels', 'Building Materials', 'Steel & Aluminium', and 'Ethanol & Processed Foods'. Clean flat textbook illustration, white background with neat bold text boxes.]
+![Flowchart mapping Nigerias natural resources such as crude oil and limestone to their respective chemical industries and resulting consumer products like fuels and cement.](images/A17-01-resources-industry-flowchart.png)
 
 ### Distinguishing between fine and heavy chemicals
 
@@ -80,7 +80,7 @@ Chemical products are divided into two broad categories based on the scale of th
 
 **Textbook variation:** Some modern textbooks also mention a third category called *Specialty Chemicals* (chemicals sold for a specific function rather than their composition, like adhesives or specialized lubricants), but for JAMB, the core distinction you must know is between heavy and fine chemicals.
 
-[IMAGE: A split illustration comparing Fine and Heavy Chemicals. On the left side labelled "Heavy Chemicals", a massive industrial plant with tall smoking chimneys, storage silos, and tanker trucks carrying concentrated tetraoxosulphate(VI) acid. On the right side labelled "Fine Chemicals", a pristine, bright laboratory interior with a scientist in a white coat carefully holding a small vial of a high-purity drug, with an analytical balance nearby. Clean flat textbook style, white background.]
+![A split illustration showing an industrial chemical plant with silos and tanker trucks on the left alongside a clean modern laboratory with a scientist examining a vial on the right.](images/A17-02-heavy-versus-fine-chemicals.png)
 
 ### The relevance of chemical industries
 
@@ -114,7 +114,7 @@ Major industrial applications of biotechnology include:
 4. **Waste Management and Biofuels:**
    In biogas production, specific bacteria (methanogens) decompose agricultural or animal waste (like cow dung) in the absence of oxygen to produce methane gas ($\text{CH}_4$), which is used as a renewable fuel for cooking and electricity.
 
-[IMAGE: A labelled cross-section of a stainless steel industrial fermenter used in biotechnology. It shows a tall cylindrical tank. At the top, there are inlets for 'Nutrients and Microorganisms (e.g. yeast)' and 'Sterile air'. A central motor drives a vertical shaft with stirring paddles. A water cooling jacket surrounds the tank with 'Cold water in' at the bottom and 'Warm water out' at the top. At the bottom is a harvest tap labelled 'Product outlet (e.g. ethanol or antibiotics)'. An exhaust pipe for gases (like CO2) is at the top. Clean flat textbook style, white background.]
+![A cross-section illustration of an industrial fermenter showing the cylindrical tank, central motor and stirring paddles, water cooling jacket, top inlets and outlets, and bottom drain pipe.](images/A17-03-industrial-fermenter-bioreactor-cross.png)
 
 ### Worked industrial calculations
 

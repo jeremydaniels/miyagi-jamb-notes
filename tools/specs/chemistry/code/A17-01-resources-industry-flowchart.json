@@ -1,0 +1,109 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Nigeria's Natural Resources and Chemical Industries",
+ "nodes": [
+  {
+   "id": "oil",
+   "text": "Crude Oil",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "lime",
+   "text": "Limestone",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "ores",
+   "text": "Metallic Ores",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "agri",
+   "text": "Agricultural Produce",
+   "shape": "box",
+   "color": "blue"
+  },
+  {
+   "id": "petro_ind",
+   "text": "Petrochemical Industry",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "cement_ind",
+   "text": "Cement Industry",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "metal_ind",
+   "text": "Metallurgical Industry",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "food_ind",
+   "text": "Food & Beverage Industry",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "prod_oil",
+   "text": "Plastics & Fuels",
+   "shape": "plain"
+  },
+  {
+   "id": "prod_cement",
+   "text": "Building Materials",
+   "shape": "plain"
+  },
+  {
+   "id": "prod_metal",
+   "text": "Steel & Aluminium",
+   "shape": "plain"
+  },
+  {
+   "id": "prod_agri",
+   "text": "Ethanol & Processed Foods",
+   "shape": "plain"
+  }
+ ],
+ "edges": [
+  {
+   "from": "oil",
+   "to": "petro_ind"
+  },
+  {
+   "from": "lime",
+   "to": "cement_ind"
+  },
+  {
+   "from": "ores",
+   "to": "metal_ind"
+  },
+  {
+   "from": "agri",
+   "to": "food_ind"
+  },
+  {
+   "from": "petro_ind",
+   "to": "prod_oil"
+  },
+  {
+   "from": "cement_ind",
+   "to": "prod_cement"
+  },
+  {
+   "from": "metal_ind",
+   "to": "prod_metal"
+  },
+  {
+   "from": "food_ind",
+   "to": "prod_agri"
+  }
+ ]
+}

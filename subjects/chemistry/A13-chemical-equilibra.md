@@ -46,7 +46,7 @@ Over time, the forward reaction slows down (because the concentration of reactan
 
 It is called "dynamic" because the reactions have not stopped. The forward and backward reactions are still actively happening, but they are perfectly balancing each other out. At this point, the **macroscopic properties** (measurable things like concentration, pressure, and colour intensity) remain completely constant. 
 
-[IMAGE: A graph showing Reaction Rate on the y-axis and Time on the x-axis. Two curves are drawn. The top curve (labelled "Forward reaction rate") starts high and curves downwards. The bottom curve (labelled "Backward reaction rate") starts at zero and curves upwards. The two curves eventually merge into a single horizontal line. A dashed vertical line marks where they merge, labelled "Equilibrium established". Clean flat textbook style, white background.]
+![Graph of Reaction Rate versus Time showing forward and backward reaction rates converging into a single horizontal line at dynamic equilibrium.](images/A13-01-chemical-equilibrium-rate-graph.png)
 
 ## Factors affecting the position of equilibrium
 
@@ -100,7 +100,7 @@ The forward reaction is endothermic (positive $\Delta H$).
 - If we **heat** the mixture, the system shifts in the endothermic direction (the forward reaction) to absorb the extra heat. The equilibrium shifts to the **right**, and the mixture turns a darker brown because more $\text{NO}_2$ is formed.
 - If we **cool** the mixture, the system shifts in the exothermic direction (the backward reaction) to replace the lost heat. The equilibrium shifts to the **left**, and the mixture turns colourless as $\text{N}_2\text{O}_4$ reforms.
 
-[IMAGE: Three identical closed glass syringes side-by-side. The left syringe is sitting in ice water and contains a pale, almost colourless gas ($\text{N}_2\text{O}_4$ dominating). The middle syringe is at room temperature and contains a medium brown gas. The right syringe is in hot water and contains a dark, rich brown gas ($\text{NO}_2$ dominating). Labels: "Ice water: equilibrium shifts left (colourless)", "Room temperature", "Hot water: equilibrium shifts right (dark brown)". Clean flat textbook style, white background.]
+![Three sealed syringes side by side demonstrating equilibrium: the left in ice water contains pale gas, the middle at room temperature contains light brown gas, and the right in hot water contains dark brown gas.](images/A13-02-nitrogen-dioxide-equilibrium-syringe.png)
 
 ### 3. Effect of Pressure
 

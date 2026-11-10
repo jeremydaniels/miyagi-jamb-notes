@@ -83,7 +83,7 @@ Unstressed syllables are quieter and shorter, and their vowels often weaken to /
 
 Compare the two *a*'s in *banana* /bəˈnɑːnə/: only the middle one is stressed, with a full /ɑː/. The first and last are weak /ə/.
 
-[IMAGE: A "stress beat" diagram for three words, each shown as a row of circles, one circle per syllable, with the syllable written under each circle. Row 1: "TA – ble": a large dark-orange circle then a small pale circle. Row 2: "ba – NA – na": small, large, small. Row 3: "pho – TO – gra – phy": small, large, small, small. Large circles are labelled "stressed (loud, long, full vowel)" and small circles "unstressed (quiet, short, often /ə/)". Clean flat educational illustration, white background, soft colour palette.]
+![A diagram illustrating word stress patterns using large orange circles for stressed syllables and small pale circles for unstressed syllables across three example words.](images/C4-01-syllable-stress-beat.png)
 
 ### Why stress matters
 
@@ -290,7 +290,7 @@ Some words are spelt the same as noun and verb but keep the same stress.
 
 **British vs American:** in RP, *address* is /əˈdres/ (second syllable) as both noun and verb. In American English the noun is often *ADdress*. JAMB uses RP, so choose *adDRESS*.
 
-[IMAGE: A two-column "noun vs verb" chart. Left column header "NOUN: stress first" (soft blue), right column header "VERB: stress second" (soft orange). Four rows, each with a simple icon and the word with capitals: row 1 a vinyl disc icon "REcord" | a microphone icon "reCORD"; row 2 a wrapped gift box "PREsent" | a person handing over a certificate "preSENT"; row 3 a group holding placards "PROtest" | a person raising a hand to object "proTEST"; row 4 a ship with containers "EXport" | an arrow leaving a map of Nigeria "exPORT". Above each word, small beat circles (large for stressed, small for unstressed). Clean flat educational illustration, white background.]
+![Educational chart comparing syllable stress between nouns and verbs using icons and stress indicators for record, present, protest, and export.](images/C4-02-noun-versus-verb-stress.png)
 
 ### Pattern 4: compound nouns are usually stressed on the FIRST part
 
@@ -447,7 +447,7 @@ When you add suffixes to a word, the stress often moves. This changes the vowels
 - In *nation* /ˈneɪʃn/ → *national* /ˈnæʃnəl/, the stress stays on the first syllable but the **vowel changes** from /eɪ/ to /æ/.
 - *Advertisement* is a famous trap. In RP it is *adVERtisement* /ədˈvɜːtɪsmənt/. In American English it is often *adverTISEment* /ˌædvərˈtaɪzmənt/. JAMB follows RP.
 
-[IMAGE: A "word family ladder" for the word photograph. Four horizontal steps going up from left to right. On each step, the word is written in syllable blocks with the stressed block in dark orange and the others in pale grey: Step 1 "PHO-to-graph", Step 2 "pho-TO-gra-pher", Step 3 "pho-TO-gra-phy", Step 4 "pho-to-GRA-phic". A small arrow under each word points to the stressed block. Title above: "The stress moves when the word grows". Clean flat educational illustration, white background.]
+![Word family ladder showing shifting syllable stress across four steps: photograph, photographer, photography, and photographic, with highlighted stressed syllables and arrows pointing to them.](images/C4-03-word-stress-shift-ladder.png)
 
 ## Stress patterns often heard in Nigeria
 

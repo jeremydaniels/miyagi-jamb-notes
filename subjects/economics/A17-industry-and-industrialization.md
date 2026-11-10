@@ -139,7 +139,7 @@ The government buys large tracts of land, provides them with good roads, electri
 
 * **Appraisal:** It solves the problem of poor infrastructure and land acquisition for factories. However, they are expensive for the government to maintain, and sometimes become concentrated in only a few urban areas, worsening rural-urban migration.
 
-[IMAGE: A flowchart showing the two main industrialization paths: "Import Substitution (ISI)" pointing to a factory producing goods with a label "Replaces Imports, Conserves Forex", and "Export Promotion (EPI)" pointing to a ship loaded with local manufactured goods with a label "Targets Global Markets, Earns Forex". A warning sign near ISI says "Danger: Often relies on imported raw materials". Clean flat textbook style, white background.]
+![A flowchart outlines two industrialization paths, import substitution leading to domestic factory production and export promotion leading to global shipping and exports, along with a warning note.](images/A17-02-industrialization-strategies-flowchart.png)
 
 ## Problems of industrialization in Nigeria
 

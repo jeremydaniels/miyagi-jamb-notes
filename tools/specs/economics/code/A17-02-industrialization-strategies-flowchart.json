@@ -1,0 +1,66 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Main Industrialization Paths",
+ "nodes": [
+  {
+   "id": "strategies",
+   "text": "Industrialization Strategies",
+   "shape": "round",
+   "color": "blue"
+  },
+  {
+   "id": "isi",
+   "text": "Import Substitution (ISI)",
+   "shape": "box",
+   "color": "orange"
+  },
+  {
+   "id": "epi",
+   "text": "Export Promotion (EPI)",
+   "shape": "box",
+   "color": "green"
+  },
+  {
+   "id": "isi_factory",
+   "text": "Domestic Factory Production\n(Replaces Imports, Conserves Forex)",
+   "shape": "round",
+   "color": "orange"
+  },
+  {
+   "id": "epi_ship",
+   "text": "Global Shipping & Exports\n(Targets Global Markets, Earns Forex)",
+   "shape": "round",
+   "color": "green"
+  },
+  {
+   "id": "isi_warning",
+   "text": "Danger: Often relies on\nimported raw materials",
+   "shape": "plain",
+   "color": "red"
+  }
+ ],
+ "edges": [
+  {
+   "from": "strategies",
+   "to": "isi"
+  },
+  {
+   "from": "strategies",
+   "to": "epi"
+  },
+  {
+   "from": "isi",
+   "to": "isi_factory"
+  },
+  {
+   "from": "isi",
+   "to": "isi_warning",
+   "label": "Warning"
+  },
+  {
+   "from": "epi",
+   "to": "epi_ship"
+  }
+ ]
+}

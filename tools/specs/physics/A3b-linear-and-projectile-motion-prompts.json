@@ -1,0 +1,22 @@
+[
+ [
+  "A3b-01-distance-time-motion-graphs",
+  "Three separate small distance-time graphs. Left: a horizontal line showing an object at rest. Middle: a straight diagonal line starting from the origin, showing uniform velocity. Right: a curve bending upwards, showing acceleration. Axes must be clearly on the y-axis and \"Time, t (s)\" on the x-axis. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3b-02-velocity-time-motion-graphs",
+  "Three separate small velocity-time graphs. Left: a horizontal line above the x-axis showing uniform velocity (zero acceleration). Middle: a straight diagonal line starting from the origin showing uniform acceleration. Right: a straight line sloping down from the y-axis to the x-axis showing uniform deceleration. Axes and \"Time, t (s)\". Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3b-03-trapezoidal-velocity-time-graph",
+  "A velocity-time graph showing a trapezium. The y-axis is and the x-axis \"Time (s)\". The line starts at the origin (0,0), goes diagonally straight to the point (10, 20), and then stays perfectly horizontal to the point (20, 20). Dashed lines drop down from t=10 and t=20 to the x-axis, dividing the area into a triangle (0 to 10s) and a rectangle (10s to 20s). Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3b-04-projectile-trajectory-vector",
+  "A parabolic trajectory of a kicked football starting from the origin (0,0). An arrow shows the initial velocity vector 'u' at an angle '\\theta' to the horizontal ground. Dashed arrows show its components: horizontal 'u cos \\theta' and vertical 'u sin \\theta'. At the peak of the curve, a dot indicates the maximum height 'H', where the velocity arrow points purely horizontally. The total horizontal distance along the ground from start to finish is marked with a bracket labeled 'Range, R'. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A3b-05-horizontal-projectile-trajectory",
+  "A cliff of height 'h' above the ground. A stone is thrown perfectly horizontally from the edge of the cliff with an initial horizontal velocity arrow 'u'. The path of the stone is a half-parabola curving downwards, eventually hitting the ground. The horizontal distance from the bottom of the cliff to the impact point is labeled 'R'. Clean flat textbook illustration, white background."
+ ]
+]

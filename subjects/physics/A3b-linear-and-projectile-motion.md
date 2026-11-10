@@ -285,7 +285,7 @@ Graphs are a visual way to describe motion. JAMB frequently tests your ability t
 *   **Straight diagonal line:** The object is moving with a constant (uniform) velocity.
 *   **Curved line:** The velocity is changing (the object is accelerating).
 
-[IMAGE: Three separate small distance-time graphs. Left: a horizontal line showing an object at rest. Middle: a straight diagonal line starting from the origin, showing uniform velocity. Right: a curve bending upwards, showing acceleration. Axes must be clearly labeled "Distance, s (m)" on the y-axis and "Time, t (s)" on the x-axis. Clean flat textbook illustration, white background.]
+![Three distance-time graphs showing an object at rest with a horizontal line, uniform velocity with a straight diagonal line, and acceleration with an upward-curving line.](images/A3b-01-distance-time-motion-graphs.png)
 
 ### Velocity-Time Graphs
 *   **Y-axis:** Velocity ($v$)
@@ -296,13 +296,13 @@ Graphs are a visual way to describe motion. JAMB frequently tests your ability t
 *   **Straight diagonal line sloping up:** Constant (uniform) acceleration.
 *   **Straight diagonal line sloping down:** Constant deceleration (retardation).
 
-[IMAGE: Three separate small velocity-time graphs. Left: a horizontal line above the x-axis showing uniform velocity (zero acceleration). Middle: a straight diagonal line starting from the origin showing uniform acceleration. Right: a straight line sloping down from the y-axis to the x-axis showing uniform deceleration. Axes labeled "Velocity, v (m/s)" and "Time, t (s)". Clean flat textbook illustration, white background.]
+![Three velocity-time graphs showing uniform velocity as a horizontal line, uniform acceleration as an upward sloping line, and uniform deceleration as a downward sloping line.](images/A3b-02-velocity-time-motion-graphs.png)
 
 ### Worked Example on Graphs
 Look at the hypothetical velocity-time graph described below to calculate values:
 A car accelerates uniformly from rest to $20\ \text{m s}^{-1}$ in $10\ \text{s}$. It then maintains this constant velocity of $20\ \text{m s}^{-1}$ for another $10\ \text{s}$.
 
-[IMAGE: A velocity-time graph showing a trapezium. The y-axis is labeled "Velocity (m/s)" and the x-axis "Time (s)". The line starts at the origin (0,0), goes diagonally straight to the point (10, 20), and then stays perfectly horizontal to the point (20, 20). Dashed lines drop down from t=10 and t=20 to the x-axis, dividing the area into a triangle (0 to 10s) and a rectangle (10s to 20s). Clean flat textbook illustration, white background.]
+![Velocity-time graph showing a line rising from the origin to 10 seconds at 20 meters per second, then staying flat to 20 seconds, forming a triangle and rectangle underneath.](images/A3b-03-trapezoidal-velocity-time-graph.png)
 
 1.  **Calculate the acceleration during the first 10s:**
     *   $\text{Acceleration} = \text{Slope} = \frac{\text{Change in velocity}}{\text{Time taken}}$
@@ -330,7 +330,7 @@ If a projectile is launched from the ground with an initial velocity $u$ at an a
 *   Horizontal initial velocity: $u_x = u \cos \theta$
 *   Vertical initial velocity: $u_y = u \sin \theta$
 
-[IMAGE: A parabolic trajectory of a kicked football starting from the origin (0,0). An arrow shows the initial velocity vector 'u' at an angle '\theta' to the horizontal ground. Dashed arrows show its components: horizontal 'u cos \theta' and vertical 'u sin \theta'. At the peak of the curve, a dot indicates the maximum height 'H', where the velocity arrow points purely horizontally. The total horizontal distance along the ground from start to finish is marked with a bracket labeled 'Range, R'. Clean flat textbook illustration, white background.]
+![Parabolic projectile motion diagram showing initial velocity u with horizontal and vertical components, maximum height H at the peak, and total horizontal range R.](images/A3b-04-projectile-trajectory-vector.png)
 
 ### Establishing the Expressions
 
@@ -412,7 +412,7 @@ $$h = 0 + \frac{1}{2}gt^2 \implies t = \sqrt{\frac{2h}{g}}$$
 The horizontal range (distance from the base of the cliff) is:
 $$R = u_x \times t = u \sqrt{\frac{2h}{g}}$$
 
-[IMAGE: A cliff of height 'h' above the ground. A stone is thrown perfectly horizontally from the edge of the cliff with an initial horizontal velocity arrow 'u'. The path of the stone is a half-parabola curving downwards, eventually hitting the ground. The horizontal distance from the bottom of the cliff to the impact point is labeled 'R'. Clean flat textbook illustration, white background.]
+![Diagram of horizontal projectile motion of a stone thrown horizontally with speed u from a cliff of height h, landing a distance R away.](images/A3b-05-horizontal-projectile-trajectory.png)
 
 **Example 12: Projecting from a height**
 A stone is thrown horizontally with a velocity of $20\ \text{m s}^{-1}$ from the top of a tower $45\ \text{m}$ high. Calculate the time it takes to reach the ground and the horizontal distance from the base of the tower. ($g = 10\ \text{m s}^{-2}$)

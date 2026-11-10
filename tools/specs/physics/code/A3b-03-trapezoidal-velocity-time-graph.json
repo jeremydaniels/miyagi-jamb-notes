@@ -1,0 +1,109 @@
+{
+ "template": "graph",
+ "title": "Velocity-Time Graph",
+ "x_label": "Time (s)",
+ "y_label": "v (m/s)",
+ "xmax": 25,
+ "ymax": 25,
+ "series": [
+  {
+   "label": "Velocity",
+   "points": [
+    [
+     0,
+     0
+    ],
+    [
+     10,
+     20
+    ],
+    [
+     20,
+     20
+    ]
+   ],
+   "smooth": false,
+   "style": "solid"
+  }
+ ],
+ "guides": [
+  {
+   "x": 10,
+   "y": 20,
+   "x_text": "10",
+   "y_text": "20"
+  },
+  {
+   "x": 20,
+   "y": 20,
+   "x_text": "20",
+   "y_text": ""
+  }
+ ],
+ "shades": [
+  {
+   "polygon": [
+    [
+     0,
+     0
+    ],
+    [
+     10,
+     20
+    ],
+    [
+     10,
+     0
+    ]
+   ],
+   "text": "Triangle",
+   "color": "#e0f2fe"
+  },
+  {
+   "polygon": [
+    [
+     10,
+     0
+    ],
+    [
+     10,
+     20
+    ],
+    [
+     20,
+     20
+    ],
+    [
+     20,
+     0
+    ]
+   ],
+   "text": "Rectangle",
+   "color": "#fef3c7"
+  }
+ ],
+ "xticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   10,
+   "10"
+  ],
+  [
+   20,
+   "20"
+  ]
+ ],
+ "yticks": [
+  [
+   0,
+   "0"
+  ],
+  [
+   20,
+   "20"
+  ]
+ ]
+}

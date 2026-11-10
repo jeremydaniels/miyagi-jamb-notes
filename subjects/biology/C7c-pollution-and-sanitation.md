@@ -427,7 +427,7 @@ Many pollutants already described also pollute soil:
 
 **Good household practice:** keep refuse in **covered bins**; separate waste (organic, plastics, glass, metal); hand it to approved collectors (in many states, licensed private collectors work with state waste agencies); never dump refuse in drains, roadsides or rivers; never burn plastics.
 
-![A cross-section illustration of a sanitary landfill showing lined waste layers, soil covers, leachate collection, methane vents with a flare, and a bulldozer.](images/C7c-08-sanitary-landfill-cross-section.png)
+[IMAGE: A cross-section of a sanitary landfill. A large excavated pit lined with a thick clay layer and a plastic liner at the bottom. Refuse placed in compacted layers, each covered by a layer of soil. A bulldozer compacting the top layer. Pipes at the bottom collecting leachate into a tank, and vertical pipes venting methane gas to a small flare or collection unit. A fence and a growing grass cover on a finished section. Labels: "Clay and plastic liner", "Compacted refuse", "Daily soil cover", "Leachate collection pipe", "Leachate tank", "Methane vent", "Bulldozer compacting refuse", "Final soil and grass cover". Clean flat textbook style, white background.]
 
 ### Sewage and its disposal
 

@@ -216,7 +216,7 @@ Quadrats cannot be used for animals that move about (fish, grasshoppers, beetles
 - N = (40 × 50) ÷ 10 = 2,000 ÷ 10 = **200 *Tilapia*** in the pond.
 - If the pond's area is 100 m², the density = 200 ÷ 100 = **2 *Tilapia* per m²**.
 
-[IMAGE: Three-step diagram of the capture–recapture method in a pond, arranged left to right with arrows. Step 1: a net catching several Tilapia fish, with a counter showing the first sample. Step 2: the same fish each given a small coloured mark on the fin and released back into the pond, mixing with unmarked fish. Step 3: a second net catch containing mostly unmarked fish and a few marked fish (marked ones highlighted). Below, the formula box. Labels: "1. capture and count (n1)", "2. mark and release", "marked fish mix with population", "3. recapture: count total (n2) and marked (m)", "marked fish", "unmarked fish", "N = (n1 × n2) ÷ m". Soft blues and greens. Clean flat textbook style, white background.]
+![Three-step diagram showing the capture-recapture method using fish in a pond, followed by the Lincoln-Petersen index formula to estimate total population size.](images/C5-04-capture-recapture-process.png)
 
 **Assumptions (conditions for the method to be accurate):**
 
@@ -756,7 +756,7 @@ The **climax community** is the final, stable stage of succession.
 
 **Plagioclimax (deflected climax):** when human activity or another factor (repeated **bush burning**, heavy **grazing**, regular **cutting** or mowing) continually stops succession from reaching its natural climax, the community is held at an earlier stage. This is called a **plagioclimax** (or **biotic climax**; a **fire climax** if caused by burning). Much of Nigeria's **derived savanna** and some Guinea savanna is maintained by regular bush burning: without the fires, it would gradually turn back into forest. A well-kept lawn or school field is also held at the grass stage by mowing.
 
-[IMAGE: A graph-like diagram comparing natural succession with a plagioclimax. A staircase of vegetation stages rising from left to right (bare soil, weeds, grasses, shrubs, young trees, climax forest) labelled with an arrow reaching the top. A second path branches off at the grass stage and stays flat, with small flame icons and grazing cattle showing repeated bush burning and grazing holding the vegetation at the grass stage. Labels: "natural succession", "climax forest", "weeds", "grasses", "shrubs", "young trees", "repeated burning and grazing", "plagioclimax (held at grass stage)". Soft greens, yellows and orange. Clean flat textbook style, white background.]
+![Graph showing natural succession rising through bare soil, weeds, grasses, shrubs, young trees, and climax forest, compared with a plagioclimax held at grasses by burning and grazing.](images/C5-09-plagioclimax-succession-schematic.png)
 
 ## Key terms
 

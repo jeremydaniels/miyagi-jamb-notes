@@ -35,7 +35,7 @@ Programming languages are broadly classified into two main levels based on how c
 2. Assembly Language (Low-Level)
 3. High-Level Language
 
-[IMAGE: A pyramid diagram showing the hierarchy of programming languages. At the bottom (widest part) is "Hardware". The layer above it is "Machine Language (1s and 0s)", followed by "Assembly Language (Mnemonics)". The top layer is "High-Level Languages (Python, Java, C, etc.)", showing an arrow pointing upwards labeled "Closer to human language" and an arrow pointing downwards labeled "Closer to machine hardware". Clean flat textbook illustration, white background.]
+![Pyramid diagram showing programming language hierarchy from Hardware at bottom to High-Level Languages at top with arrows indicating closeness to human or machine language](images/G1-01-pyramid-hierarchy-programming-languages.png)
 
 ### 1. Machine Language
 

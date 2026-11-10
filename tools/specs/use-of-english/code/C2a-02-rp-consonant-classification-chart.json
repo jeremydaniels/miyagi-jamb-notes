@@ -1,0 +1,35 @@
+{
+ "template": "table",
+ "title": "English Consonants",
+ "columns": [
+  "Type",
+  "Consonants"
+ ],
+ "first_col_bold": true,
+ "rows": [
+  [
+   "Plosive",
+   "p, b, t, d, k, g"
+  ],
+  [
+   "Fricative",
+   "f, v, th, dh, s, z, sh, zh, h"
+  ],
+  [
+   "Affricate",
+   "ch, j"
+  ],
+  [
+   "Nasal",
+   "m, n, ng"
+  ],
+  [
+   "Lateral",
+   "l"
+  ],
+  [
+   "Approximant",
+   "r, w, y"
+  ]
+ ]
+}

@@ -131,7 +131,7 @@ In each box with two symbols, the **first is voiceless** and the **second is voi
 
 **Count check:** 6 plosives + 9 fricatives + 2 affricates + 3 nasals + 1 lateral + 3 approximants = **24 consonants**.
 
-[IMAGE: A colour-coded consonant chart (grid) for the 24 RP consonants, matching the table in the notes. Columns across the top: Bilabial, Labiodental, Dental, Alveolar, Post-alveolar, Palatal, Velar, Glottal. Rows down the side: Plosive, Fricative, Affricate, Nasal, Lateral, Approximant. Voiceless symbols in the left half of each cell in a soft blue, voiced symbols in the right half in a soft orange. A small key: "Blue = voiceless, Orange = voiced". Under each symbol, a tiny key word: p (pen), b (bag), t (top), d (dog), k (cat), ɡ (go), f (fan), v (van), θ (thin), ð (this), s (sun), z (zoo), ʃ (shoe), ʒ (measure), h (hat), tʃ (chair), dʒ (jam), m (man), n (no), ŋ (sing), l (leg), r (red), w (wet), j (yes). Clean flat educational illustration, white background.]
+![A table categorizing English consonants by type: plosive, fricative, affricate, nasal, lateral, and approximant, with corresponding letter representations.](images/C2a-02-rp-consonant-classification-chart.png)
 
 ## The 24 consonants one by one
 

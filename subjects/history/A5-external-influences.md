@@ -41,7 +41,7 @@ The **trans-Saharan trade** was the vast network of commercial exchange across t
   - **From West Africa (South to North):** The primary exports were gold, slaves, ivory, kola nuts, ostrich feathers, and animal hides. Kano was famous for exporting dyed cotton cloth (Kano cloth) and tanned goatskin leather (sold in North Africa as "Morocco leather").
   - **From North Africa (North to South):** West Africans needed salt (mined in the desert oases like Bilma), horses, copper, cowrie shells (used as currency), weapons (swords and firearms), glassware, and books.
 
-[IMAGE: Map of West and North Africa showing the trans-Saharan trade routes. Thick lines connecting Tripoli and Tunis in the north to Kano and Ngazargamu (Borno) in the south. Icons of camels on the routes, salt bars in the desert, and gold/kola nuts in the savanna. Labels: "Tripoli", "Fezzan", "Bilma (Salt)", "Kano", "Kanem-Borno", "Agadez". Clean flat textbook illustration, white background.]
+![Map of Trans-Saharan trade routes linking Tunis and Tripoli through Fezzan, Bilma, and Agadez to Kano and Kanem-Borno, highlighting camel caravans, salt, and gold trade goods.](images/A5-01-map-trans-saharan-trade.png)
 
 ### The role of the Tuaregs in the trans-Saharan trade
 
@@ -56,7 +56,7 @@ The Tuaregs are a nomadic Berber people who live in the Sahara Desert. Often cal
 5. **Middlemen and Traders:** Some Tuaregs were merchants themselves, trading salt from desert mines (like Bilma and Taghaza) for food crops from the savanna.
 6. **Threats and Raiders:** It is important to note that if they were not paid protection money, Tuaregs could also be dangerous raiders who attacked and looted trade caravans.
 
-[IMAGE: Illustration of a trans-Saharan caravan. In the foreground, a Tuareg man on a camel, his face wrapped in a blue indigo veil (tagelmust) with only his eyes showing, holding a spear and guiding the caravan. Behind him, a long line of heavily loaded camels walking across sandy dunes. The bright sun beats down. Clean flat textbook illustration, white background.]
+![Illustration of a trans-Saharan caravan led by a Tuareg man riding a camel, holding a spear, followed by heavily loaded camels crossing sand dunes under the bright sun.](images/A5-02-trans-saharan-caravan.png)
 
 ### Introduction, spread and impact of Islam
 
@@ -143,7 +143,7 @@ Europeans rarely went inland because of the risk of malaria and strong coastal a
 - **Judicial punishment:** Criminals or debtors were sometimes sold into slavery as punishment.
 - **Oracles:** In Igboland, the Aro people used the powerful **Aro Chukwu oracle (Ibin Ukpabi)** to manipulate people and acquire slaves.
 
-[IMAGE: Map of the Triangular Trade spanning the Atlantic Ocean. Arrow 1 (blue) from Europe to West Africa labelled "Manufactured goods, guns, rum". Arrow 2 (red) from West Africa to the Americas (Caribbean/Brazil/North America) labelled "The Middle Passage: Enslaved Africans". Arrow 3 (green) from the Americas back to Europe labelled "Raw materials: Sugar, Cotton, Tobacco". Clean flat textbook illustration, white background.]
+![A map of the Atlantic Ocean illustrating the Triangular Trade routes connecting Europe, West Africa, and the Caribbean with labeled trade goods and routes.](images/A5-03-flow-triangular-trade-route.png)
 
 ### Impact of the Trans-Atlantic Slave Trade
 

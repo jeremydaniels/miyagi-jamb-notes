@@ -57,7 +57,7 @@ Even though computers come in many shapes and sizes (from huge servers to small 
    - **Primary Storage (Main Memory):** Holds data temporarily while the computer is actively working on it (e.g., RAM).
    - **Secondary Storage:** Holds data permanently for future use, even when the power is turned off (e.g., Hard disk, flash drive).
 
-[IMAGE: A block diagram showing the flow of data between the functional parts of a computer. Four large boxes: 'Input Unit' on the left with an arrow pointing to a large central box 'Processing Unit (CPU)'. Below the CPU is 'Storage Unit' with arrows pointing in both directions between them (up and down). An arrow points from the CPU to the 'Output Unit' on the right. Clean flat textbook illustration, bold text, white background.]
+![Block diagram showing data flow between functional computer units including Input CPU Output and Storage](images/B1a-01-block-flow-data-between.png)
 
 ---
 

@@ -30,30 +30,6 @@
  "D2b-03-maize-hybrid-vigour": {
   "labels": [
    [
-    "Inbred line A (weak, small cobs)",
-    [
-     150,
-     584
-    ],
-    "L"
-   ],
-   [
-    "Inbred line B (weak, small cobs)",
-    [
-     417,
-     563
-    ],
-    "L"
-   ],
-   [
-    "F1 hybrid maize (hybrid vigour)",
-    [
-     775,
-     493
-    ],
-    "R"
-   ],
-   [
     "taller and stronger",
     [
      779,
@@ -69,18 +45,29 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "Inbred line A\n(weak, small\ncobs)",
+    149,
+    875
+   ],
+   [
+    "Inbred line B\n(weak, small\ncobs)",
+    414,
+    877
+   ],
+   [
+    "F1 hybrid maize\n(hybrid vigour)",
+    783,
+    877
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D2b-04-sickle-cell-capillary-blockage": {
   "labels": [
-   [
-    "normal red blood cells (HbA)",
-    [
-     241,
-     182
-    ],
-    "L"
-   ],
    [
     "flexible, pass easily",
     [
@@ -88,14 +75,6 @@
      493
     ],
     "L"
-   ],
-   [
-    "sickled red blood cells (HbS)",
-    [
-     689,
-     242
-    ],
-    "R"
    ],
    [
     "stiff, block capillaries",
@@ -113,41 +92,31 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "normal red blood\ncells (HbA)",
+    276,
+    910
+   ],
+   [
+    "sickled red\nblood cells\n(HbS)",
+    747,
+    910
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D2b-06-haemolytic-disease-newborn-stages": {
   "labels": [
-   [
-    "1 First pregnancy: Rh\u2212 mother, Rh+ baby (usually unharmed)",
-    [
-     194,
-     494
-    ],
-    "L"
-   ],
-   [
-    "2 At birth, baby's Rh+ cells enter mother's blood",
-    [
-     579,
-     501
-    ],
-    "R"
-   ],
    [
     "mother makes anti-D antibodies",
     [
      573,
      611
     ],
-    "R"
-   ],
-   [
-    "3 Second pregnancy: antibodies cross placenta",
-    [
-     800,
-     493
-    ],
-    "R"
+    "T"
    ],
    [
     "baby's red cells destroyed",
@@ -165,7 +134,26 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1 First\npregnancy: Rh−\nmother, Rh+ baby\n(usually\nunharmed)",
+    185,
+    798
+   ],
+   [
+    "2 At birth,\nbaby's Rh+\ncells enter\nmother's blood",
+    512,
+    800
+   ],
+   [
+    "3 Second\npregnancy:\nantibodies cross\nplacenta",
+    835,
+    798
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D2b-07-recombinant-dna-technology": {
   "labels": [
@@ -183,7 +171,7 @@
      404,
      157
     ],
-    "L"
+    "T"
    ],
    [
     "sticky ends",
@@ -191,7 +179,7 @@
      501,
      186
     ],
-    "L"
+    "T"
    ],
    [
     "bacterial plasmid",
@@ -199,37 +187,13 @@
      649,
      182
     ],
-    "R"
+    "T"
    ],
    [
     "DNA ligase joins DNA",
     [
      945,
      278
-    ],
-    "R"
-   ],
-   [
-    "recombinant plasmid",
-    [
-     881,
-     578
-    ],
-    "R"
-   ],
-   [
-    "transformed bacterium",
-    [
-     783,
-     760
-    ],
-    "R"
-   ],
-   [
-    "fermenter",
-    [
-     513,
-     742
     ],
     "R"
    ],
@@ -241,7 +205,32 @@
     ],
     "L"
    ]
-  ]
+  ],
+  "split": [
+   [
+    653,
+    120
+   ]
+  ],
+  "captions": [
+   [
+    "recombinant\nplasmid",
+    879,
+    661
+   ],
+   [
+    "transformed\nbacterium",
+    780,
+    817
+   ],
+   [
+    "fermenter",
+    441,
+    958
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "D2b-08-bt-crop-mechanism": {
   "labels": [
@@ -296,55 +285,36 @@
   ]
  },
  "D2b-09-stem-cell-gene-therapy": {
-  "labels": [
+  "labels": [],
+  "split": [
    [
-    "1 stem cells removed from patient",
-    [
-     200,
-     437
-    ],
-    "L"
-   ],
-   [
-    "2 cells grown in the laboratory",
-    [
-     493,
-     186
-    ],
-    "L"
-   ],
-   [
-    "3 virus vector delivers a normal gene",
-    [
-     805,
-     247
-    ],
-    "R"
-   ],
-   [
-    "4 corrected cells multiply",
-    [
-     823,
-     570
-    ],
-    "R"
-   ],
-   [
-    "5 corrected cells returned to patient",
-    [
-     428,
-     805
-    ],
-    "L"
-   ],
-   [
-    "6 healthy red blood cells produced",
-    [
-     741,
-     827
-    ],
-    "R"
+    358,
+    120
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "1 stem cells\nremoved from\npatient",
+    227,
+    876
+   ],
+   [
+    "2 cells grown in the\nlaboratory; 3 virus vector\ndelivers a normal gene",
+    666,
+    366
+   ],
+   [
+    "4 corrected\ncells multiply",
+    831,
+    927
+   ],
+   [
+    "5 corrected cells returned to\npatient; 6 healthy red blood\ncells produced",
+    544,
+    936
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  }
 }

@@ -34,7 +34,7 @@ The style of this play is its most important feature. Sutherland described her f
 
 **[TO BE COMPLETED: exact stage directions for how the Property Man is used, and the exact role of the Players, from the prescribed edition]**
 
-[IMAGE: A simple stage layout for an Anansegoro storytelling performance. A Storyteller stands at the front facing the audience. Players act a scene in the middle. A Property Man sits at the side with a few props. A small group of musicians sings and plays drums. Clean flat textbook style, white background, no text or labels.]
+![An Anansegoro performance stage layout showing a storyteller in front, actors performing in the middle, musicians on the left, and a property man with props on the right.](images/B1-01-anansegoro-storytelling-stage-layout.png)
 
 ## Plot Summary (Drama objective b.i)
 

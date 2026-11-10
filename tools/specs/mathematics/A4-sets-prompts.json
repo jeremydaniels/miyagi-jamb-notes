@@ -1,0 +1,14 @@
+[
+ [
+  "A4-01-subset-relationship-venn",
+  "A Venn diagram showing a subset relationship. A large circle labeled B containing a completely enclosed smaller circle labeled A. This illustrates that A is a proper subset of B (A ⊂ B). The outer rectangular boundary represents the universal set U. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-02-two-set-venn",
+  "A rectangular Venn diagram representing two intersecting sets A and B within a universal set U. The rectangle is labeled U in the top right corner. Two large circles labeled A and B overlap in the center. The region inside circle A but outside B is or \"A ∩ B'\". The overlapping region is. The region inside B but outside A is or \"A' ∩ B\". The region outside both circles but inside the rectangle is. Clean flat textbook illustration, white background."
+ ],
+ [
+  "A4-03-three-set-venn",
+  "A rectangular Venn diagram representing three intersecting sets A, B, and C within a universal set U. Three large circles A, B, and C overlap, resembling a three-leaf clover, creating 8 distinct regions. The top left circle is A, top right is B, bottom center is C. The regions are clearly marked: 'Only A', 'Only B', 'Only C', 'A and B only', 'A and C only', 'B and C only', 'All three (A ∩ B ∩ C)', and the outside area '(A ∪ B ∪ C)''. Clean flat textbook illustration, white background."
+ ]
+]

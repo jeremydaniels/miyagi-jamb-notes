@@ -72,7 +72,7 @@ Two sets are **disjoint** if they have absolutely no elements in common.
 * **Equal sets:** Two sets are equal ($A = B$) if they have exactly the same elements, regardless of order. Example: $\{1, 2, 3\} = \{3, 1, 2\}$.
 * **Equivalent sets:** Two sets are equivalent if they have the same *number* of elements (the same cardinality), even if the elements are completely different. Example: $\{a, b, c\}$ and $\{7, 8, 9\}$ are equivalent because they both have $3$ elements.
 
-[IMAGE: A Venn diagram showing a subset relationship. A large circle labeled B containing a completely enclosed smaller circle labeled A. This illustrates that A is a proper subset of B (A ⊂ B). The outer rectangular boundary represents the universal set U. Clean flat textbook illustration, white background.]
+![A Venn diagram showing a universal set U containing circle B, which completely encloses a smaller circle A, representing that A is a proper subset of B.](images/A4-01-subset-relationship-venn.png)
 
 **Common mistakes:**
 Students often confuse the empty set symbols.
@@ -232,7 +232,7 @@ In a group of $50$ people, $30$ speak Hausa and $25$ speak Igbo. If $12$ people 
 
 A **Venn diagram** is a visual representation of sets. The universal set $U$ is drawn as a rectangle, and the sets inside it are drawn as overlapping circles. 
 
-[IMAGE: A rectangular Venn diagram representing two intersecting sets A and B within a universal set U. The rectangle is labeled U in the top right corner. Two large circles labeled A and B overlap in the center. The region inside circle A but outside B is labeled "Only A" or "A ∩ B'". The overlapping region is labeled "A ∩ B". The region inside B but outside A is labeled "Only B" or "A' ∩ B". The region outside both circles but inside the rectangle is labeled "(A ∪ B)'". Clean flat textbook illustration, white background.]
+![Venn diagram with two intersecting circles Set A and Set B inside universal set U, showing regions for Only A, Only B, intersection, and complement.](images/A4-02-two-set-venn.png)
 
 ### Steps for solving word problems with Venn diagrams
 
@@ -242,7 +242,7 @@ A **Venn diagram** is a visual representation of sets. The universal set $U$ is 
 4. **Fill the single sets:** Subtract all the inner parts of a circle from the circle's total to find the "only one set" region.
 5. **Form an equation:** Add up every single distinct region inside the rectangle (including the "neither" group outside the circles) and set it equal to the universal total to solve for any unknown.
 
-[IMAGE: A rectangular Venn diagram representing three intersecting sets A, B, and C within a universal set U. Three large circles A, B, and C overlap, resembling a three-leaf clover, creating 8 distinct regions. The top left circle is A, top right is B, bottom center is C. The regions are clearly marked: 'Only A', 'Only B', 'Only C', 'A and B only', 'A and C only', 'B and C only', 'All three (A ∩ B ∩ C)', and the outside area '(A ∪ B ∪ C)''. Clean flat textbook illustration, white background.]
+![A Venn diagram showing three intersecting sets A, B, and C inside universal set U, with all eight regions clearly labeled.](images/A4-03-three-set-venn.png)
 
 **Common mistakes:**
 Ignoring the word "only" in word problems, or failing to subtract the center intersection when filling the 2-set overlapping regions.

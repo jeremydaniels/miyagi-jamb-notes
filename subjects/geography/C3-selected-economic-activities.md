@@ -141,7 +141,7 @@ Why is a factory built in one town and not another? The decision is based on sev
 5.  **Transportation and Communication:** A good network of roads, railways, or ports is vital for bringing in materials and shipping out finished goods. Coastal cities like Lagos and Port Harcourt attract industries due to their seaports.
 6.  **Government Policy:** Governments can force or encourage industries to locate in rural or less developed areas to create jobs (industrial decentralization) by offering tax holidays or free land.
 
-[IMAGE: A conceptual diagram illustrating industrial location (Weber's triangle concept). A central factory icon. Three arrows point to it from three corners: "Raw Material Source", "Power/Energy Source", and "Market (City)". A truck is shown driving on a road connecting the factory to the market. Labels should clearly show that the factory's location balances the pull of raw materials, power, and market. Clean flat textbook illustration, white background.]
+![Diagram of Webers location triangle showing a central factory balancing pulls from raw materials, power energy source, and a city market with delivery truck.](images/C3-02-weber-industrial-location-triangle.png)
 
 ### Distribution of manufacturing industries
 

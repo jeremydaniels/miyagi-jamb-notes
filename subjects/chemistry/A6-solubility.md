@@ -88,7 +88,7 @@ The amount of solute that can dissolve in a solvent depends heavily on the tempe
 
 A **solubility curve** is a graph that plots the solubility of a substance (on the vertical y-axis) against temperature (on the horizontal x-axis).
 
-![A graph titled Solubility Curves showing solubility versus temperature for KNO3 rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.](images/A6-02-solubility-curves-line-graph.png)
+![A graph titled Solubility Curves showing solubility versus temperature for KNO₃ rapidly rising, NaCl nearly flat, and calcium hydroxide or a gas decreasing.](images/A6-02-solubility-curves-line-graph.png)
 
 **Important deductions from solubility curves:**
 1. **Finding exact solubility:** You can find the maximum amount of solute that will dissolve at any specific temperature by reading the value on the y-axis that corresponds to a temperature on the x-axis.

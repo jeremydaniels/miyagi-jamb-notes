@@ -255,7 +255,7 @@ All the idioms below are standard British English idioms found in major British 
 | to rest on one's laurels | to stop trying because of past success | *Having won once, the team must not rest on its laurels.* |
 | a household name | a person or thing that everyone knows | *Chinua Achebe is a household name in African literature.* |
 
-[IMAGE: A set of six small cartoon panels in a 3 × 2 grid, each showing the funny literal picture behind an idiom, to help memory: (1) a cat jumping out of a cloth bag; (2) a student studying at a desk by an old oil lamp at night with a moon at the window; (3) a man standing in a large pot of steaming water, looking worried; (4) a person balanced on top of a wooden fence between two fields; (5) a farmer gripping a bull by its horns; (6) a large white elephant standing in an empty, unfinished stadium. Each panel has a small caption area at the bottom for the idiom. Soft colours, friendly cartoon style, white background.]
+![A six-panel cartoon grid depicting literal idioms: cat out of the bag, burning the midnight oil, in hot water, on the fence, taking the bull by the horns, and a white elephant.](images/B7b-01-idioms-literal-meaning-cartoon.png)
 
 ## Idioms with fixed prepositions and particles
 

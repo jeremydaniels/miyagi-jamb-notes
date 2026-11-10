@@ -73,7 +73,7 @@ Different security domains require specific tools. Here is how they pair up:
 | **Data / Information Security** | **Encryption**, Backup drives | Encryption scrambles data into unreadable text (ciphertext). Even if stolen, it cannot be read without a secret key. |
 | **End User Security** | **Antivirus software**, Multi-Factor Authentication (MFA) | Antivirus software scans a user's computer for malware. MFA requires users to provide two pieces of evidence (e.g., a password and a code sent to their phone) to log in. |
 
-[IMAGE: A diagram showing a layered defense system: an outer wall labelled "Firewall" protecting a network, a vault labelled "Encryption" protecting data inside, and a magnifying glass labelled "Antivirus" inspecting a file on a computer. Clean flat textbook illustration, white background.]
+![Diagram of layered defense showing firewall outer wall an encryption vault and an antivirus magnifying glass inspecting a file](images/I2-01-layered-defense-system-outer.png)
 
 ## Categories of application threats
 
@@ -117,7 +117,7 @@ The core of all information security is a model known as the **CIA Triad**. Ever
     *   **Example:** A bank's ATM or mobile app must be online and working when a customer needs to transfer money.
     *   **Tools used:** Backup generators for power cuts, duplicate servers (redundancy), and protection against attacks that try to crash the server.
 
-[IMAGE: A triangle diagram labelled "The CIA Triad". The three points of the triangle are labelled "Confidentiality (Secrecy)", "Integrity (Accuracy)", and "Availability (Accessibility)". In the centre of the triangle is a shield icon representing Information Security. Clean flat textbook illustration, white background.]
+![Triangle diagram of the CIA Triad with Confidentiality Integrity and Availability at the corners around an Information Security shield](images/I2-02-triangle-three-points-triangle.png)
 
 ## Network security issues
 

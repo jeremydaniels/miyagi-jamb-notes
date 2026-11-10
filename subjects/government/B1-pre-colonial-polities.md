@@ -82,7 +82,7 @@ To help him rule, the Emir appointed a cabinet of senior officials. Unlike the Y
 
 The pre-colonial Yoruba political system was **centralised** but operated with a complex and highly effective system of **checks and balances**. Unlike the absolute power of the Fulani Emirs, Yoruba kings ruled constitutionally. The **Oyo Empire** is the standard model used in JAMB to illustrate the Yoruba political system.
 
-[IMAGE: A circular cycle diagram showing the checks and balances in the Oyo Empire. At the top: 'Alaafin (King)'. Arrow points from Alaafin to 'Oyomesi' (Must be consulted on major state matters). Arrow points from 'Oyomesi' to 'Alaafin' (Can present an empty calabash to force his suicide). Arrow points from 'Oyomesi' to 'Ogboni' (Ogboni must approve the empty calabash). Arrow points from 'Ogboni' to 'Oyomesi' and 'Alaafin' (Acts as a mediator and religious check on both). Style: Clean flat textbook illustration, white background, bold text and arrows.]
+![Diagram showing checks and balances among the Alaafin, Oyomesi, and Ogboni in the Oyo Empire with labeled arrows indicating mutual political and religious controls.](images/B1-02-oyo-empire-checks-balances.png)
 
 #### Structural Organization and Functions of Political Institutions
 
@@ -123,7 +123,7 @@ The pre-colonial Igbo political system was completely different from the Hausa/F
 
 *(Note: A few Igbo communities, like Onitsha and Oguta, had kings called Obi, but this was due to the influence of the neighbouring Benin Empire. The classic Igbo system tested in JAMB is the acephalous model).*
 
-[IMAGE: A pyramid diagram showing the bottom-up structure of the Igbo political system. Base level: 'Ezi / Ulo (The Nuclear Family)'. Second level: 'Umunna (The Extended Family / Lineage)'. Third level: 'Ogbe (The Village)'. Top level: 'Obodo (The Village Group / Town)'. Style: Clean flat textbook illustration, white background, clearly labelled blocks.]
+![A four-tiered pyramid diagram showing the Igbo political system, rising from the nuclear family at the base to the village group or town at the top.](images/B1-03-igbo-political-structure-pyramid.png)
 
 #### Structural Organization and Functions of Political Institutions
 

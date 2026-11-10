@@ -53,7 +53,7 @@ An angle is formed when two lines meet at a point. Angles are measured in degree
 2.  **Angles at a point:** Angles around a single point add up to $360^\circ$.
 3.  **Vertically opposite angles:** When two straight lines intersect, the angles opposite each other are equal.
 
-[IMAGE: Three simple diagrams side-by-side. 1. A straight horizontal line with a diagonal line cutting it, creating angles a and b. Label: a + b = 180°. 2. A central point with four rays coming out, creating angles p, q, r, s. Label: p + q + r + s = 360°. 3. Two straight lines forming an X shape, with top/bottom angles labelled x and x, and left/right angles labelled y and y. Label: Vertically opposite angles are equal. Clean flat textbook illustration, white background.]
+![Three geometry diagrams showing angles on a straight line summing to 180 degrees, angles around a point summing to 360 degrees, and equal vertically opposite angles.](images/C1-01-basic-angle-theorems.png)
 
 ### Angles formed by parallel lines and a transversal
 
@@ -219,7 +219,7 @@ Angles subtended by the same chord (or arc) at the circumference in the same seg
 **Theorem 3: Angle in a semicircle is a right angle.**
 If a triangle is inscribed in a circle and one of its sides is the diameter, the angle opposite the diameter is always $90^\circ$.
 
-[IMAGE: Three circles side-by-side illustrating the first three theorems. 1. A circle with an arc AB. Lines go from A and B to the centre O (angle 2x) and from A and B to a point P on the circumference (angle x). 2. A circle with a chord CD. Lines go from C and D to two different points P and Q on the same side of the circumference. Both angles at P and Q are labelled $\theta$. 3. A circle with diameter XY passing through centre O. Lines go from X and Y to a point Z on the circumference. The angle at Z has a square right-angle symbol. Clean flat textbook style, white background.]
+![Three circle theorem diagrams showing angle at centre theorem, angles in the same segment, and angle in a semicircle with right angle indicated.](images/C1-03-circle-geometry-theorems.png)
 
 **Theorem 4: Cyclic quadrilaterals.**
 A cyclic quadrilateral is a four-sided shape whose four vertices (corners) all touch the circumference of a single circle.
@@ -235,7 +235,7 @@ A tangent is always perpendicular ($90^\circ$) to the radius at the point of con
 **Theorem 7: Alternate Segment Theorem.**
 The angle between a tangent and a chord through the point of contact is equal to the angle in the alternate segment. (If you draw a triangle starting from the point where the tangent touches, the angle between the tangent and one side of the triangle equals the angle inside the opposite corner of the triangle).
 
-[IMAGE: A circle illustrating the alternate segment theorem. A tangent line touches the circle at point P. A triangle PQR is drawn inside the circle. The angle between the tangent and chord PQ is labelled $x$. The angle at the opposite vertex R is also labelled $x$. Clean flat textbook style, white background.]
+![A circle with inscribed triangle PQR and a tangent at P, showing equal angles x between chord PQ and the tangent, and at opposite vertex R.](images/C1-04-alternate-segment-theorem.png)
 
 **Theorem 8: Intersecting Chords Theorem.**
 When two chords intersect *inside* a circle, the product of the segments of one chord equals the product of the segments of the other.

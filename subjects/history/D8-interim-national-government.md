@@ -19,7 +19,7 @@ Early results showed Chief M.K.O. Abiola winning across the country. However, on
 
 This annulment caused a massive political crisis. There were violent protests, riots, and strikes across the country, particularly in the South-West. Pro-democracy groups, such as the Campaign for Democracy (CD), demanded that the military hand over power to the winner of the June 12 election. Under immense pressure from the public, civil society, and parts of the military, General Babangida announced that he would "step aside". On **26 August 1993**, he handed power to an unelected, transitional body called the Interim National Government.
 
-[IMAGE: A timeline spanning the year 1993 from left to right. Key dates marked with text boxes above and below the line: "June 12: Presidential election held", "June 23: Election annulled by the military", "August 26: Babangida steps aside; ING formed under Shonekan", "November 10: High Court declares ING illegal", "November 17: Shonekan resigns; Abacha takes over". Clean flat textbook style, white background, clear bold dates.]
+![Timeline of Nigeria 1993 political crisis showing key events from June to November, including the June 12 election, annulment, and subsequent power transitions.](images/D8-01-horizontal-historical-timeline.png)
 
 ## The Role and Challenges of the Interim National Government
 
@@ -88,7 +88,7 @@ On **17 November 1993**, General Sani Abacha, along with other senior military o
 
 General Sani Abacha immediately took over as the new military Head of State. He dismantled all remaining democratic institutions from the Babangida transition programme, including the National Assembly, the state civilian governors, and the two political parties (SDP and NRC), returning Nigeria to full military rule.
 
-[IMAGE: A flowchart showing the transfer of power in 1993. Top box: "General Ibrahim Babangida (Military Rule)". An arrow labeled "Steps aside (Aug 26)" points down to a middle box: "Chief Ernest Shonekan (Interim National Government)". Another arrow labeled "Forced resignation (Nov 17)" points down to a bottom box: "General Sani Abacha (Military Rule)". Clean flat textbook style, white background.]
+![Flowchart depicting the 1993 transfer of power in Nigeria from General Babangida to Chief Shonekan and subsequently to General Abacha.](images/D8-02-power-transition-flowchart.png)
 
 ## Key terms
 

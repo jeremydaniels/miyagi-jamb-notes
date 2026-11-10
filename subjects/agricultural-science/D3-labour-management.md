@@ -45,7 +45,7 @@ When farmers employ hired labour, it is further classified based on how long the
 - **Semi-skilled Labour:** These workers may not have high-level formal education, but they have acquired specific on-the-job training and experience. Examples include experienced milker attendants, grafters in a tree nursery, and knapsack sprayer operators.
 - **Unskilled Labour:** These workers lack formal education or specialized training. They rely entirely on physical strength to perform manual, routine tasks. Examples include labourers hired to clear bushes with cutlasses, fetch water, or clean animal pens.
 
-[IMAGE: A three-panel illustration showing different classifications of farm labour. Left panel: A man, woman, and teenage boy (family labour) working on a small yam farm with hoes. Middle panel: A casual, unskilled labourer manually weeding a farm with a cutlass, receiving daily wages in cash from a farmer. Right panel: A skilled, permanent worker in a clean uniform operating a modern tractor, representing hired skilled labour. Labels to add later: "Family Labour (Unpaid)", "Casual Unskilled Labour (Daily Paid)", "Permanent Skilled Labour (Salaried)". Clean flat textbook style, white background.]
+![A three-panel illustration showing family farm labour weeding with hoes, a casual labourer receiving cash wages while weeding, and a skilled worker operating a modern tractor.](images/D3-01-types-farm-labour.png)
 
 ## Differentiating Types and Sources of Labour
 
@@ -93,7 +93,7 @@ Key aspects of labour relations include:
 **Qualities of a good farm supervisor:**
 A good supervisor must possess technical knowledge (know how the job is done), fairness (not showing favouritism), good communication skills, and patience.
 
-[IMAGE: A scene on a commercial poultry farm showing farm supervision. A farm manager holding a clipboard and wearing a protective coat is observing and talking to an attendant who is distributing feed into feeding troughs for layer chickens. The manager is pointing at the feed level to guide the attendant. Labels to add later: "Farm Manager (Supervisor)", "Poultry Attendant", "Ensuring correct feed rationing", "Clipboard for record keeping". Clean flat textbook style, white background.]
+![A farm manager in a lab coat holding a clipboard points to a feed trough while supervising a poultry attendant feeding layer chickens in a poultry house.](images/D3-02-poultry-farm-supervision-scene.png)
 
 ## Ways to Achieve Labour Efficiency
 

@@ -57,7 +57,7 @@ where:
 ### Graphs of Boyle's Law
 If we plot Pressure ($P$) against Volume ($V$), we get a curve that slopes downwards (a hyperbola). However, if we plot Pressure ($P$) against the inverse of volume ($\frac{1}{V}$), we get a straight line passing through the origin.
 
-[IMAGE: Two side-by-side graphs for Boyle's Law on a clean white background. The left graph plots Pressure (P) on the vertical axis against Volume (V) on the horizontal axis, showing a smooth curve decreasing from top-left to bottom-right (a hyperbola). The right graph plots Pressure (P) on the vertical axis against 1/Volume (1/V) on the horizontal axis, showing a straight line starting from the origin (0,0) and going upwards to the top-right. Both graphs should have clear, standard textbook axes and labels.]
+![Two side-by-side graphs illustrating Boyles Law, one showing a hyperbolic curve of Pressure versus Volume and the other showing a linear graph of Pressure versus 1/Volume.](images/A16-01-boyles-law-p-v.png)
 
 **Worked Example 1: Boyle's Law Calculation**
 A fixed mass of gas occupies a volume of $2.0\ \text{dm}^3$ at a pressure of $3.0 \times 10^5\ \text{Pa}$. If the volume is reduced to $1.5\ \text{dm}^3$ at constant temperature, calculate the new pressure.
@@ -100,7 +100,7 @@ where:
 ### Graphs of Charles's Law
 If we plot Volume ($V$) against Temperature in degree Celsius ($^\circ\text{C}$), the graph is a straight line that intersects the temperature axis at exactly $-273\ ^\circ\text{C}$. If we plot Volume ($V$) against the absolute temperature in Kelvin ($\text{K}$), the graph is a straight line passing directly through the origin ($0, 0$).
 
-[IMAGE: Two side-by-side graphs for Charles's Law on a clean white background. The left graph plots Volume (V) on the vertical axis against Temperature (T) in °C on the horizontal axis. It shows a straight line sloping upwards to the right. The line intersects the horizontal axis at a point labelled -273 °C (Absolute Zero) and is dashed just before it reaches that point. The right graph plots Volume (V) against Temperature (T) in Kelvin (K). It shows a straight line passing directly through the origin (0,0) and sloping upwards to the right. Clear textbook style.]
+![Two graphs illustrating Charles Law: Volume versus Temperature in Celsius extrapolating to absolute zero at minus 273 degrees, and Volume versus Temperature in Kelvin passing through origin.](images/A16-02-charles-law-v-t.png)
 
 **Worked Example 2: Charles's Law Calculation**
 The volume of a given mass of gas is $400\ \text{cm}^3$ at $27\ ^\circ\text{C}$. Find its volume at $87\ ^\circ\text{C}$, assuming the pressure remains constant.

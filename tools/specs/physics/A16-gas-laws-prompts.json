@@ -1,0 +1,10 @@
+[
+ [
+  "A16-01-boyles-law-p-v",
+  "Two side-by-side graphs for Boyle's Law on a clean white background. The left graph plots Pressure (P) on the vertical axis against Volume (V) on the horizontal axis, showing a smooth curve decreasing from top-left to bottom-right (a hyperbola). The right graph plots Pressure (P) on the vertical axis against 1/Volume (1/V) on the horizontal axis, showing a straight line starting from the origin (0,0) and going upwards to the top-right. Both graphs should have clear, standard textbook axes and labels."
+ ],
+ [
+  "A16-02-charles-law-v-t",
+  "Two side-by-side graphs for Charles's Law on a clean white background. The left graph plots Volume (V) on the vertical axis against Temperature (T) in °C on the horizontal axis. It shows a straight line sloping upwards to the right. The line intersects the horizontal axis at a point labelled -273 °C (Absolute Zero) and is dashed just before it reaches that point. The right graph plots Volume (V) against Temperature (T) in Kelvin (K). It shows a straight line passing directly through the origin (0,0) and sloping upwards to the right. Clear textbook style."
+ ]
+]

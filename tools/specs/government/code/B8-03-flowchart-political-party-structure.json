@@ -1,0 +1,50 @@
+{
+ "template": "flowchart",
+ "direction": "TB",
+ "title": "Typical Fourth Republic Political Party Structure",
+ "nodes": [
+  {
+   "id": "convention",
+   "text": "National Convention\n(Highest decision-making body)",
+   "shape": "box"
+  },
+  {
+   "id": "nec_nwc",
+   "text": "National Executive Committee (NEC) /\nNational Working Committee (NWC)",
+   "shape": "box"
+  },
+  {
+   "id": "state",
+   "text": "State Executive Committee",
+   "shape": "box"
+  },
+  {
+   "id": "lga",
+   "text": "Local Government Executive",
+   "shape": "box"
+  },
+  {
+   "id": "ward",
+   "text": "Ward Executive",
+   "shape": "box"
+  }
+ ],
+ "edges": [
+  {
+   "from": "convention",
+   "to": "nec_nwc"
+  },
+  {
+   "from": "nec_nwc",
+   "to": "state"
+  },
+  {
+   "from": "state",
+   "to": "lga"
+  },
+  {
+   "from": "lga",
+   "to": "ward"
+  }
+ ]
+}

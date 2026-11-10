@@ -33,7 +33,7 @@ The membership of First Republic parties was heavily **regional and ethnic**. A 
 - **Action Group (AG):** Dominated the Western Region. Led by Chief Obafemi Awolowo, it was largely composed of Yoruba professionals, businessmen, and traditional leaders, evolving from the Yoruba cultural group, *Egbe Omo Oduduwa*.
 - **Minority Parties:** There were smaller parties fighting for the rights of ethnic minorities, such as the Northern Elements Progressive Union (NEPU) led by Aminu Kano (representing commoners in the North) and the United Middle Belt Congress (UMBC) led by J.S. Tarka (fighting for a separate Middle Belt state).
 
-[IMAGE: A map of Nigeria in the early 1960s showing three regions. The Northern Region is coloured green and labelled "NPC Dominance". The Western Region (including the Mid-West created in 1963) is coloured blue and labelled "AG Dominance". The Eastern Region is coloured red and labelled "NCNC Dominance". Clean flat textbook style, white background.]
+![Map of Nigeria in the early 1960s showing three regions: green Northern Region NPC Dominance, blue Western Region AG Dominance, and red Eastern Region NCNC Dominance.](images/B8-01-map-early-s-nigeria.png)
 
 ## Second Republic
 
@@ -67,7 +67,7 @@ Because there were only two choices, politicians from all ethnic groups and form
 - **Social Democratic Party (SDP):** Created by the military to lean "a little to the left" (progressive/welfarist). It was led by Chief M.K.O. Abiola, who won the annulled June 12, 1993, presidential election. It was composed of progressive politicians from the North, the Middle Belt, the West, and the East.
 - **National Republican Convention (NRC):** Created to lean "a little to the right" (conservative/capitalist). Its presidential candidate was Alhaji Bashir Tofa. It attracted conservative elites and businessmen from across the country.
 
-[IMAGE: A side-by-side illustration of the two Third Republic parties. On the left, the SDP logo (a green horse on a white background) with the text "Social Democratic Party (SDP) - 'A little to the left'". On the right, the NRC logo (a green eagle on a white background) with the text "National Republican Convention (NRC) - 'A little to the right'". Clean flat textbook style, white background.]
+![Side-by-side comparison of Nigerian Third Republic political parties showing the SDP logo and slogan on the left and the NRC logo and slogan on the right.](images/B8-02-political-party-logos.png)
 
 ## Fourth Republic
 
@@ -120,7 +120,7 @@ An **ideology** is a set of beliefs about how society and the economy should be 
 - **Ethnicity:** First Republic party composition was almost entirely ethnic (Hausa/Fulani in NPC, Yoruba in AG, Igbo in NCNC). The Second Republic tried to change this but largely failed. By the Third and Fourth Republics, national composition became a reality. Today, the major parties contain a mix of all ethnic groups.
 - **Elite and Wealth Dominance:** The composition of modern Nigerian parties is heavily dominated by wealthy elites. Politics in the Fourth Republic is highly "monetised" (expensive). This has led to the phenomenon of **"Godfatherism"**, where wealthy, influential individuals sponsor candidates and then expect to control the government and resources if their candidate wins.
 
-[IMAGE: An organisational flowchart of a typical Fourth Republic political party structure. Top box: "National Convention" (highest decision-making body). Below it: "National Executive Committee (NEC) / National Working Committee (NWC)". Branching down to: "State Executive Committee", then "Local Government Executive", and finally "Ward Executive" at the bottom. Clean flat textbook style, white background.]
+![Flowchart showing the hierarchical structure of a Fourth Republic political party descending from National Convention to National Executive, State Executive, Local Government Executive, and Ward Executive.](images/B8-03-flowchart-political-party-structure.png)
 
 ## Key terms
 

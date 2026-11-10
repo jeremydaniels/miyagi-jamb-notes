@@ -741,8 +741,8 @@
    [
     "orchid (epiphyte)",
     [
-     232,
-     129
+     292,
+     90
     ],
     "L"
    ],
@@ -750,20 +750,28 @@
     "aerial roots with velamen",
     [
      173,
-     369
+     279
     ],
     "L"
    ],
    [
     "staghorn fern",
     [
-     526,
-     293
+     369,
+     390
     ],
-    "R"
+    "L"
    ],
    [
     "liana (climber)",
+    [
+     59,
+     571
+    ],
+    "L"
+   ],
+   [
+    "mona monkey",
     [
      380,
      677
@@ -771,98 +779,90 @@
     "L"
    ],
    [
-    "mona monkey",
-    [
-     826,
-     186
-    ],
-    "R"
-   ],
-   [
     "grasping hands",
     [
-     681,
-     198
+     483,
+     670
     ],
-    "R"
+    "L"
    ],
    [
     "long tail for balance",
     [
-     945,
-     493
+     326,
+     881
     ],
-    "R"
+    "L"
    ],
    [
     "chameleon",
     [
-     120,
-     571
+     592,
+     547
     ],
-    "L"
+    "R"
    ],
    [
     "zygodactylous feet",
     [
-     150,
-     600
+     620,
+     565
     ],
-    "L"
+    "R"
    ],
    [
     "prehensile tail",
     [
-     107,
-     689
+     573,
+     658
     ],
-    "L"
+    "R"
    ],
    [
     "long sticky tongue",
     [
-     274,
-     547
+     726,
+     500
     ],
-    "L"
+    "R"
    ],
    [
     "tree frog",
     [
-     193,
+     588,
      811
     ],
-    "L"
+    "R"
    ],
    [
     "adhesive toe pads",
     [
-     223,
-     886
+     591,
+     865
     ],
-    "L"
+    "R"
    ],
    [
     "hornbill",
     [
-     545,
-     755
+     800,
+     787
     ],
     "R"
    ],
    [
     "anomalure (gliding membrane)",
     [
-     800,
-     605
+     818,
+     240
     ],
     "R"
    ],
    [
     "weaver ant nest",
     [
-     861,
-     826
+     915,
+     524
     ],
     "R"
    ]
@@ -873,120 +873,120 @@
    [
     "grass tufts",
     [
-     828,
-     587
+     538,
+     495
     ],
     "R"
    ],
    [
     "spear grass",
     [
-     140,
-     677
+     275,
+     726
     ],
     "L"
    ],
    [
     "underground rhizome",
     [
-     363,
-     901
+     167,
+     924
     ],
     "L"
    ],
    [
     "shea tree (thick corky bark)",
     [
-     189,
-     369
+     275,
+     289
     ],
     "L"
    ],
    [
     "baobab (water-storing trunk)",
     [
-     755,
-     309
+     804,
+     315
     ],
     "R"
    ],
    [
     "Tridax (wind-dispersed seeds)",
     [
-     590,
-     567
+     901,
+     856
     ],
     "R"
    ],
    [
     "termite mound",
     [
-     380,
-     494
+     883,
+     740
     ],
-    "L"
+    "R"
    ],
    [
     "grasshopper (camouflaged)",
     [
-     278,
-     633
+     320,
+     610
     ],
     "L"
    ],
    [
     "variegated grasshopper (warning colours)",
     [
-     547,
-     679
+     454,
+     775
     ],
-    "R"
+    "L"
    ],
    [
     "Agama lizard",
     [
-     658,
-     775
+     693,
+     723
     ],
     "R"
    ],
    [
     "grasscutter",
     [
-     830,
-     685
+     429,
+     663
     ],
-    "R"
+    "L"
    ],
    [
     "rat burrow",
     [
-     821,
-     898
+     559,
+     928
     ],
     "R"
    ],
    [
     "hawk",
     [
-     412,
-     152
+     540,
+     122
     ],
-    "L"
+    "R"
    ],
    [
     "cattle egret",
     [
-     693,
-     483
+     728,
+     521
     ],
     "R"
    ],
    [
     "cow",
     [
-     854,
-     445
+     866,
+     482
     ],
     "R"
    ]
@@ -1130,8 +1130,8 @@
    [
     "algae on stones",
     [
-     247,
-     528
+     106,
+     524
     ],
     "L"
    ],
@@ -1139,79 +1139,79 @@
     "moss",
     [
      883,
-     457
+     247
     ],
     "R"
    ],
    [
     "mayfly nymph (flattened body)",
     [
-     274,
-     708
+     182,
+     670
     ],
     "L"
    ],
    [
     "caddisfly larva in stone case",
     [
-     464,
-     749
+     347,
+     839
     ],
     "L"
    ],
    [
     "blackfly larvae (attached by hooks)",
     [
-     237,
-     468
+     582,
+     708
     ],
-    "L"
+    "R"
    ],
    [
     "freshwater limpet",
     [
-     410,
-     571
+     338,
+     538
     ],
     "L"
    ],
    [
     "flatworm",
     [
-     636,
-     636
+     658,
+     784
     ],
     "R"
    ],
    [
     "freshwater crab",
     [
-     754,
-     749
+     785,
+     899
     ],
     "R"
    ],
    [
     "fish facing upstream",
     [
-     595,
-     476
+     865,
+     654
     ],
     "R"
    ],
    [
     "stones and gravel",
     [
-     517,
-     654
+     437,
+     693
     ],
-    "R"
+    "L"
    ],
    [
     "fallen leaves",
     [
-     726,
-     296
+     530,
+     309
     ],
     "R"
    ]

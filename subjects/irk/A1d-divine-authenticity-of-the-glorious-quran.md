@@ -72,7 +72,7 @@ When evaluating the uniqueness of the Qur'an, one must consider that the challen
 
 Furthermore, unlike human texts that become outdated or are revised over time, the Qur'an's style remains perpetually relevant. Its unique structure, which weaves laws, historical narratives, and spiritual admonitions seamlessly together, distinguishes it completely from human literature.
 
-[IMAGE: A beautiful flat illustration showing two contrasting scenes to represent the challenge of the Qur'an. On the left side, a group of ancient Arab poets with scrolls, looking bewildered and defeated under a starlit desert sky. On the right, a glowing, beautifully illuminated open Qur'an (Mushaf) radiating light, symbolizing its unbeatable, divine eloquence. Labels to add later: "Humanity and Jinn attempting to match it", "The Glorious Qur'an: Matchless and Divine (Q.17:88)". Clean flat textbook style, white background.]
+![A group of ancient Arab scholars inspecting scrolls under a starry desert sky next to an illuminated open Quran radiating divine light on a wooden stand.](images/A1d-01-symbolic-religious-scene.png)
 
 ## Divine preservation of the Glorious Qur’ān (Q.15:9)
 

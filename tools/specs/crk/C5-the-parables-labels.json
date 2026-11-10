@@ -1,45 +1,4 @@
 {
- "C5-01-parable-sower-panels": {
-  "regions": [
-   "Path (snatched away)",
-   "Rocky Ground (withers in hardship)",
-   "Good Soil (bears fruit)"
-  ],
-  "labels": [
-   [
-    "Path (snatched away)",
-    [
-     200,
-     437
-    ],
-    "L"
-   ],
-   [
-    "Rocky Ground (withers in hardship)",
-    [
-     698,
-     434
-    ],
-    "R"
-   ],
-   [
-    "Thorns (choked by riches/cares)",
-    [
-     266,
-     762
-    ],
-    "L"
-   ],
-   [
-    "Good Soil (bears fruit)",
-    [
-     726,
-     939
-    ],
-    "R"
-   ]
-  ]
- },
  "C5-02-return-prodigal-son": {
   "labels": [
    [

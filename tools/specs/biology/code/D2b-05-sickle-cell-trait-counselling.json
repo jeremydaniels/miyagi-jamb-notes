@@ -1,0 +1,22 @@
+{
+ "template": "table",
+ "title": "Punnett Square",
+ "columns": [
+  "Father: AS \\ Mother: AS",
+  "A",
+  "S"
+ ],
+ "rows": [
+  [
+   "A",
+   "AA (Normal)",
+   "AS (Carrier)"
+  ],
+  [
+   "S",
+   "AS (Carrier)",
+   "SS (Sickle cell)"
+  ]
+ ],
+ "first_col_bold": true
+}

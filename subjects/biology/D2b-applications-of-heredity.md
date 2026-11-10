@@ -277,7 +277,7 @@ Each parent passes **one** of their two alleles to each child.
 - **¼ (25%) AA** (normal), **½ (50%) AS** (carriers), **¼ (25%) SS** (sickle-cell anaemia).
 - For **each** pregnancy, there is a **1 in 4** chance that the child will have sickle-cell anaemia. This chance does not change with the number of children already born: a couple could have several SS children, or none.
 
-[IMAGE: Genetic counselling diagram for two carrier parents. Top: a man and a woman, each with a small badge showing "AS" and a red blood cell icon that is half round and half sickle-shaped. Arrows to gametes: each parent produces one gamete circle marked A (round red cell icon) and one marked S (sickle cell icon). Below, a 2 by 2 Punnett square with four child icons: one child with round red cells (AA), two children with half-round half-sickle cells (AS), and one child with sickle cells (SS) shown resting with a hot-water bottle. Labels to add later: "Father: AS (carrier)", "Mother: AS (carrier)", "gametes A or S", "AA normal (25%)", "AS carrier (50%)", "AS carrier", "SS sickle-cell anaemia (25%)", "chance is the same for every pregnancy". Clean flat textbook style, white background.]
+![A Punnett square for two carrier parents AS showing offspring genotypes: AA normal, two AS carriers, and SS sickle cell.](images/D2b-05-sickle-cell-trait-counselling.png)
 
 **4. AS × SS:**
 

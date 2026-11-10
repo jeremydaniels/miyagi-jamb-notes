@@ -1,25 +1,31 @@
 {
  "C9-01-honeybee-castes-morphological-comparison": {
-  "labels": [],
-  "captions": [
+  "labels": [
    [
-    "Queen (fertile\nfemale, egg\nlayer)",
-    204,
-    767
+    "Queen (fertile female, egg layer)",
+    [
+     198,
+     497
+    ],
+    "L"
    ],
    [
-    "Drone (male,\nmates with\nqueen)",
-    529,
-    720
+    "Drone (male, mates with queen)",
+    [
+     538,
+     491
+    ],
+    "R"
    ],
    [
-    "Worker\n(sterile\nfemale,\ngathers food\nand builds\ncomb)",
-    834,
-    699
+    "Worker (sterile female, gathers food and builds comb)",
+    [
+     845,
+     512
+    ],
+    "R"
    ]
-  ],
-  "fixed_sides": true,
-  "capsize": 0
+  ]
  },
  "C9-02-traditional-versus-modern-beehive": {
   "labels": [],

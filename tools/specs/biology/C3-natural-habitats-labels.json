@@ -314,14 +314,6 @@
     "L"
    ],
    [
-    "water lettuce",
-    [
-     762,
-     357
-    ],
-    "R"
-   ],
-   [
     "water-repellent hairs",
     [
      906,
@@ -345,7 +337,16 @@
     ],
     "R"
    ]
-  ]
+  ],
+  "captions": [
+   [
+    "water lettuce",
+    770,
+    830
+   ]
+  ],
+  "fixed_sides": true,
+  "capsize": 0
  },
  "C3-05-deep-lake-ecological-zones": {
   "labels": [

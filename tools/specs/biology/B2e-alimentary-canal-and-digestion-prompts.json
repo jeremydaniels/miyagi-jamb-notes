@@ -1,0 +1,38 @@
+[
+ [
+  "B2e-01-human-digestive-system-anatomy",
+  "Front view of the human digestive system inside an outline of the head and trunk. Show the mouth, tongue and teeth, three pairs of salivary glands (parotid in front of the ear, submandibular under the jaw, sublingual under the tongue), pharynx, oesophagus passing through the chest, the diaphragm, J-shaped stomach, the large reddish-brown liver above the stomach on the right, the green gall bladder under the liver, the bile duct, the pancreas lying behind and below the stomach, the C-shaped duodenum, coiled jejunum and ileum filling the middle of the abdomen, the caecum and appendix at the lower right, ascending colon, transverse colon, descending colon, rectum and anus."
+ ],
+ [
+  "B2e-02-small-intestine-cross-section",
+  "Transverse section of a part of the small intestine showing the layers of the gut wall as rings from the inside out: the central lumen, the folded mucosa with finger-like villi and glands, the submucosa with blood vessels and lymph vessels, an inner ring of circular muscle, an outer ring of longitudinal muscle, and the thin serosa on the outside."
+ ],
+ [
+  "B2e-03-oesophageal-peristalsis-mechanism",
+  "Longitudinal section of a length of oesophagus showing peristalsis: a round bolus of food inside the tube; behind the bolus, the wall is narrowed with circular muscles contracted; in front of the bolus, the wall is wider with circular muscles relaxed. A large arrow shows the direction of movement downwards."
+ ],
+ [
+  "B2e-04-stomach-anatomy-longitudinal-section",
+  "Longitudinal section of the human stomach showing the oesophagus entering at the top through the cardiac sphincter, the J-shaped body of the stomach with folds (rugae) in its inner lining, a thick muscular wall with three muscle layers, and the pyloric sphincter at the lower right end opening into the duodenum. Add a small inset of a gastric pit (gastric gland) in the lining showing mucus cells near the top, parietal (oxyntic) cells secreting hydrochloric acid and chief (zymogen) cells at the base secreting pepsinogen."
+ ],
+ [
+  "B2e-05-intestinal-villus-structure",
+  "Longitudinal section of a single villus from the ileum, enlarged. Show the finger-like villus covered by a single layer of tall columnar epithelial cells with a fuzzy brush border of microvilli on their outer surface, a few goblet cells, a central lacteal (lymph vessel, pale yellow) running up the middle, a dense network of red and blue blood capillaries around the lacteal joining an arteriole and a venule at the base, and intestinal glands (crypts) between neighbouring villi at the base. Add a small inset showing one epithelial cell with microvilli."
+ ],
+ [
+  "B2e-07-enzyme-activity-rate-graphs",
+  "Two simple line graphs side by side. Left graph: rate of enzyme reaction (y-axis) against temperature in °C (x-axis, 0 to 70), showing a curve rising gradually to a peak at about 37 °C then falling steeply to zero by about 60 °C; mark the peak as optimum temperature and the falling part as enzyme denatured. Right graph: rate of reaction (y-axis) against pH (x-axis, 1 to 11), showing three bell-shaped curves peaking at about pH 2, pH 7 and pH 8."
+ ],
+ [
+  "B2e-08-lock-key-enzyme-flowchart",
+  "Lock-and-key model of enzyme action in four stages from left to right: an enzyme (large blue shape with a notch-shaped active site) and a matching substrate (orange shape); the substrate fitted into the active site forming an enzyme-substrate complex; the substrate split into two product pieces still at the site; the two products moving away and the unchanged enzyme. A fifth small panel shows a denatured enzyme with a distorted active site that the substrate no longer fits."
+ ],
+ [
+  "B2e-10-carbohydrate-digestion-flowchart",
+  "Flow chart of carbohydrate digestion down the gut drawn beside a simple outline of the alimentary canal. Mouth: starch to maltose (salivary amylase). Stomach: no carbohydrate digestion (acid stops amylase). Duodenum: starch to maltose (pancreatic amylase). Ileum: maltose to glucose (maltase); sucrose to glucose and fructose (sucrase); lactose to glucose and galactose (lactase). Arrow from the ileum to the blood labelled glucose absorbed."
+ ],
+ [
+  "B2e-12-ruminant-stomach-chambers",
+  "Diagram of the four-chambered stomach of a sheep with arrows showing the path of food. The oesophagus enters between the large rumen (left, largest) and the smaller reticulum with a honeycomb pattern on its lining. A curved arrow goes from the reticulum back up the oesophagus labelled cud returned to mouth for chewing. A second arrow shows re-swallowed food passing from the reticulum to the omasum with leaf-like folds, then to the abomasum, then into the small intestine. Small dots in the rumen represent bacteria and protozoa."
+ ]
+]

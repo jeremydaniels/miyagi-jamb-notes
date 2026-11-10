@@ -61,7 +61,7 @@ The parts, in order, are:
 
 The **accessory organs** are not part of the tube, but pour secretions into it through ducts: the **salivary glands**, the **liver** (with the **gall bladder**) and the **pancreas**.
 
-[IMAGE: Front view of the human digestive system inside an outline of the head and trunk. Show the mouth, tongue and teeth, three pairs of salivary glands (parotid in front of the ear, submandibular under the jaw, sublingual under the tongue), pharynx, oesophagus passing through the chest, the diaphragm, J-shaped stomach, the large reddish-brown liver above the stomach on the right, the green gall bladder under the liver, the bile duct, the pancreas lying behind and below the stomach, the C-shaped duodenum, coiled jejunum and ileum filling the middle of the abdomen, the caecum and appendix at the lower right, ascending colon, transverse colon, descending colon, rectum and anus. Labels: mouth, tongue, salivary glands, pharynx, oesophagus, diaphragm, liver, gall bladder, bile duct, stomach, pancreas, duodenum, ileum, caecum, appendix, colon, rectum, anus. Clean flat textbook style, white background.]
+![Front view diagram of the human digestive system showing the mouth, salivary glands, oesophagus, stomach, liver, gall bladder, pancreas, and intestines within a body outline.](images/B2e-01-human-digestive-system-anatomy.png)
 
 ### The general structure of the gut wall
 
@@ -75,7 +75,7 @@ From the oesophagus to the rectum, the wall of the alimentary canal has the same
 | **Longitudinal muscle** | Muscle fibres running **along** the gut | Contracts to **shorten** the gut and widen it in front of the food |
 | **Serosa** (serous coat) | Thin outer covering, part of the peritoneum | Reduces friction between the gut and other organs |
 
-[IMAGE: Transverse section of a part of the small intestine showing the layers of the gut wall as rings from the inside out: the central lumen, the folded mucosa with finger-like villi and glands, the submucosa with blood vessels and lymph vessels, an inner ring of circular muscle, an outer ring of longitudinal muscle, and the thin serosa on the outside. Labels: lumen, villi, mucosa, intestinal gland, submucosa, blood vessel, lymph vessel, circular muscle, longitudinal muscle, serosa. Clean flat textbook style, white background.]
+![Diagram showing a transverse cross section of the small intestine gut wall displaying the lumen villi mucosa submucosa muscle layers and outer serosa](images/B2e-02-small-intestine-cross-section.png)
 
 ### Peristalsis: how food moves along the gut
 
@@ -92,7 +92,7 @@ Peristalsis happens in the **oesophagus, stomach and intestines**. It works even
 
 **Sphincters** are rings of circular muscle that close an opening and control the flow of food, e.g. the **cardiac sphincter** (between the oesophagus and stomach), the **pyloric sphincter** (between the stomach and duodenum) and the **anal sphincters**.
 
-[IMAGE: Longitudinal section of a length of oesophagus showing peristalsis: a round bolus of food inside the tube; behind the bolus, the wall is narrowed with circular muscles contracted; in front of the bolus, the wall is wider with circular muscles relaxed. A large arrow shows the direction of movement downwards. Labels: bolus of food, circular muscle contracted (behind), circular muscle relaxed (in front), longitudinal muscle, direction of movement, mucus. Clean flat textbook style, white background.]
+![Diagram showing peristalsis in the oesophagus, with a food bolus moving downwards, contracted muscles behind it, and relaxed muscles ahead.](images/B2e-03-oesophageal-peristalsis-mechanism.png)
 
 ## Structure and function of the parts of the alimentary canal
 
@@ -167,7 +167,7 @@ If food or water "goes down the wrong way" into the larynx, it triggers violent 
 
 The stomach is a **J-shaped**, muscular bag on the left side of the upper abdomen, just below the diaphragm. In an adult it can hold about 1 to 1.5 litres of food (more when stretched). Food stays in it for about **2 to 4 hours** (longer after a fatty meal).
 
-[IMAGE: Longitudinal section of the human stomach showing the oesophagus entering at the top through the cardiac sphincter, the J-shaped body of the stomach with folds (rugae) in its inner lining, a thick muscular wall with three muscle layers, and the pyloric sphincter at the lower right end opening into the duodenum. Add a small inset of a gastric pit (gastric gland) in the lining showing mucus cells near the top, parietal (oxyntic) cells secreting hydrochloric acid and chief (zymogen) cells at the base secreting pepsinogen. Labels: oesophagus, cardiac sphincter, rugae (folds), muscular wall, pyloric sphincter, duodenum, gastric pit, mucus cells, parietal cells (hydrochloric acid), chief cells (pepsinogen). Clean flat textbook style, white background.]
+![Diagram showing a longitudinal section of the stomach with its sphincters, muscle layers, rugae, duodenum, and an inset of a gastric gland with cell types.](images/B2e-04-stomach-anatomy-longitudinal-section.png)
 
 | Structure | Function |
 | --- | --- |
@@ -245,7 +245,7 @@ The ileum completes digestion and is the main site of **absorption**. Its struct
 
 **Textbook variation:** the total surface area of the small intestine is often quoted in textbooks as about 200–300 m² (larger than a tennis court). More recent measurements suggest a smaller figure, about 30 m² (about half a badminton court). Either way, the folds, villi and microvilli give an enormous area for absorption.
 
-[IMAGE: Longitudinal section of a single villus from the ileum, enlarged. Show the finger-like villus covered by a single layer of tall columnar epithelial cells with a fuzzy brush border of microvilli on their outer surface, a few goblet cells, a central lacteal (lymph vessel, pale yellow) running up the middle, a dense network of red and blue blood capillaries around the lacteal joining an arteriole and a venule at the base, and intestinal glands (crypts) between neighbouring villi at the base. Add a small inset showing one epithelial cell with microvilli. Labels: villus, epithelium (one cell thick), microvilli, goblet cell, lacteal, blood capillaries, arteriole, venule (to hepatic portal vein), lymph vessel, intestinal gland (crypt), muscle fibres. Clean flat textbook style, white background.]
+![Longitudinal diagram of an intestinal villus showing columnar epithelium with microvilli, goblet cells, central lacteal, blood capillaries, crypts, and muscle layers, with an inset of one epithelial cell.](images/B2e-05-intestinal-villus-structure.png)
 
 ### The large intestine
 
@@ -381,7 +381,7 @@ It is a **dual (mixed) gland**:
 
 **Textbook variation:** the optimum temperature and pH of each enzyme are given slightly differently in different books (e.g. pepsin pH 1.5–2.5; salivary amylase pH 6.5–7). The patterns are what matter: pepsin works in acid, trypsin in alkali, salivary amylase near neutral, and human enzymes best at about body temperature.
 
-[IMAGE: Two simple line graphs side by side. Left graph: rate of enzyme reaction (y-axis) against temperature in °C (x-axis, 0 to 70), showing a curve rising gradually to a peak at about 37 °C then falling steeply to zero by about 60 °C; mark the peak as optimum temperature and the falling part as enzyme denatured. Right graph: rate of reaction (y-axis) against pH (x-axis, 1 to 11), showing three bell-shaped curves peaking at about pH 2, pH 7 and pH 8. Labels: rate of reaction, temperature (°C), optimum temperature (37 °C), enzyme denatured, pH, pepsin (pH 2), salivary amylase (pH 7), trypsin (pH 8). Clean flat textbook style, white background.]
+![Two line graphs showing enzyme activity. Left graph shows temperature dependence peaking at 37 degrees Celsius. Right graph shows pH dependence for pepsin, salivary amylase, and trypsin.](images/B2e-07-enzyme-activity-rate-graphs.png)
 
 ### The lock and key model
 
@@ -393,7 +393,7 @@ It is a **dual (mixed) gland**:
 
 When an enzyme is **denatured** by heat or extreme pH, the shape of its active site is changed permanently, so the substrate no longer fits. That is why boiled saliva cannot digest starch.
 
-[IMAGE: Lock-and-key model of enzyme action in four stages from left to right: an enzyme (large blue shape with a notch-shaped active site) and a matching substrate (orange shape); the substrate fitted into the active site forming an enzyme-substrate complex; the substrate split into two product pieces still at the site; the two products moving away and the unchanged enzyme. A fifth small panel shows a denatured enzyme with a distorted active site that the substrate no longer fits. Labels: enzyme, active site, substrate, enzyme-substrate complex, products, enzyme unchanged, denatured enzyme (active site changed). Clean flat textbook style, white background.]
+![Diagram illustrating the lock-and-key model of enzyme action across four sequential stages, alongside a separate panel demonstrating how denaturation prevents substrate binding.](images/B2e-08-lock-key-enzyme-flowchart.png)
 
 ### Experiment: effect of temperature on the action of salivary amylase
 
@@ -472,7 +472,7 @@ When an enzyme is **denatured** by heat or extreme pH, the shape of its active s
 
 **End products:** **monosaccharides**, mainly **glucose** (with fructose and galactose).
 
-[IMAGE: Flow chart of carbohydrate digestion down the gut drawn beside a simple outline of the alimentary canal. Mouth: starch to maltose (salivary amylase). Stomach: no carbohydrate digestion (acid stops amylase). Duodenum: starch to maltose (pancreatic amylase). Ileum: maltose to glucose (maltase); sucrose to glucose and fructose (sucrase); lactose to glucose and galactose (lactase). Arrow from the ileum to the blood labelled glucose absorbed. Labels: mouth, stomach, duodenum, ileum, salivary amylase, pancreatic amylase, maltase, sucrase, lactase, starch, maltose, glucose, fructose, galactose. Clean flat textbook style, white background.]
+![Diagram showing carbohydrate digestion along the alimentary canal, detailing enzymes and chemical reactions in the mouth, stomach, duodenum, and ileum leading to glucose absorption into blood.](images/B2e-10-carbohydrate-digestion-flowchart.png)
 
 #### Digestion of proteins
 
@@ -651,7 +651,7 @@ The sheep's stomach has **four chambers**: the **rumen**, **reticulum**, **omasu
 8. In the large intestine and the moderately large **caecum**, some further microbial digestion of cellulose and absorption of water take place.
 9. Undigested material is **egested** as faecal pellets.
 
-[IMAGE: Diagram of the four-chambered stomach of a sheep with arrows showing the path of food. The oesophagus enters between the large rumen (left, largest) and the smaller reticulum with a honeycomb pattern on its lining. A curved arrow goes from the reticulum back up the oesophagus labelled cud returned to mouth for chewing. A second arrow shows re-swallowed food passing from the reticulum to the omasum with leaf-like folds, then to the abomasum, then into the small intestine. Small dots in the rumen represent bacteria and protozoa. Labels: oesophagus, rumen (fermentation by microbes), reticulum (honeycomb), cud returned to mouth, omasum (water absorbed), abomasum (true stomach, gastric juice), small intestine (duodenum), microbes. Clean flat textbook style, white background.]
+![Diagram showing the four chambers of a ruminant stomach including the rumen with microbes, reticulum with honeycomb lining, omasum with leaf-like folds, and abomasum leading to the intestine.](images/B2e-12-ruminant-stomach-chambers.png)
 
 ### Digestion in man and sheep compared
 

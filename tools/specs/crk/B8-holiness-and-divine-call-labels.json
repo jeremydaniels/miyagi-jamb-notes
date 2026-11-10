@@ -1,0 +1,41 @@
+{
+ "B8-01-isaiah-temple-vision": {
+  "regions": [
+   "Temple filled with smoke"
+  ],
+  "labels": [
+   [
+    "The Lord high and lifted up",
+    [
+     510,
+     182
+    ],
+    "L"
+   ],
+   [
+    "Seraph with six wings",
+    [
+     223,
+     279
+    ],
+    "L"
+   ],
+   [
+    "Temple filled with smoke",
+    [
+     820,
+     726
+    ],
+    "R"
+   ],
+   [
+    "Isaiah aware of his unclean lips",
+    [
+     380,
+     805
+    ],
+    "L"
+   ]
+  ]
+ }
+}

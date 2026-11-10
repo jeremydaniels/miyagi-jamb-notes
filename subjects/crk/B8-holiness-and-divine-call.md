@@ -54,7 +54,7 @@ God told Isaiah to make the hearts of the people "fat" (stubborn), their ears he
 
 Isaiah asked, "Lord, how long?" God replied that he must preach until the cities were laid waste without inhabitant, the houses were without people, and the land was completely desolate. However, God promised that a tenth would remain, like a stump of a tree that has been cut down. This "holy seed" (the stump) represented a faithful remnant that would survive the judgment.
 
-[IMAGE: An illustration of Isaiah's vision in the temple. At the top, a glowing, exalted throne with the hem of a majestic robe flowing down to fill a stone temple space. On either side, a six-winged seraph hovering in the air, using two wings to cover its face and two to cover its feet. At the bottom, a terrified Isaiah kneeling on the floor, holding his hands out in awe as thick smoke rolls around the temple pillars. Labels to add later: "The Lord high and lifted up", "Seraph with six wings", "Temple filled with smoke", "Isaiah aware of his unclean lips". Clean flat textbook style, white background.]
+![An illustration of Isaiah kneeling in awe inside a smoky temple before the glowing throne of the Lord, flanked by hovering six-winged seraphim.](images/B8-01-isaiah-temple-vision.png)
 
 ## The Call of Ezekiel
 

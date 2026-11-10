@@ -47,7 +47,7 @@ Ekpe was a male secret society. The word "Ekpe" means Leopard, an animal symboli
 *   **Social Control:** Ekpe enforced respect for elders and rulers. During Ekpe festivals, masquerades (representing the spirit of the leopard) would patrol the streets to enforce curfews and maintain order.
 *   **Integration:** Ekpe brought the leaders of rival Efik towns (like Duke Town and Creek Town) together into one supreme council, preventing full-scale wars between them.
 
-[IMAGE: An illustration of an Ekpe masquerader in a traditional raffia costume, holding a staff and a bell. The costume should be colourful with geometric patterns, completely covering the person, with a large, elaborate raffia mane around the neck. Beside him, an Efik chief in traditional 19th-century wealthy attire (a top hat, a long wrapper, and a staff) standing respectfully. Clean flat textbook style, white background.]
+![An Ekpe masquerader in a full patterned raffia costume holding a staff and bell standing beside an Efik chief wearing a top hat, wrapper, and staff.](images/B7-02-ekpe-masquerader-efik-chief.png)
 
 ### Cultural Developments
 

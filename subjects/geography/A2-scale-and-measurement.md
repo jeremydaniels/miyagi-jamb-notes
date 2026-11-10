@@ -32,7 +32,7 @@ There are three main ways a scale is represented on a topographical map:
 3. **Linear Scale:** 
    This is a special ruler drawn at the bottom of the map, marked with actual ground distances in kilometres or metres. It usually has a **primary section** (major divisions reading to the right of zero) and a **secondary section** (subdivisions reading to the left of zero for measuring smaller fractions of a kilometre).
 
-[IMAGE: Three panels showing types of map scales. Top panel: Text reading "Statement scale: 1 cm represents 500 m". Middle panel: Text reading "Representative Fraction (RF): 1:50,000". Bottom panel: A linear scale drawn like a ruler, with zero marked in the middle, primary divisions extending right to 1, 2, 3, 4 km, and secondary subdivisions extending left from 0 to 1 km marked in 100s of metres. Clean flat textbook style, white background.]
+![Three panels illustrating types of map scales: verbal statement scale, representative fraction scale, and a graphical linear scale with primary divisions in kilometers and secondary subdivisions in meters.](images/A2-01-map-scale-types.png)
 
 ### Measurement of distances
 
@@ -58,7 +58,7 @@ If the map distance along a winding road is $15.6 \text{ cm}$ on a topographical
 **Step 3:** Multiply the map distance by the ground equivalent.
 $\text{Actual distance} = 15.6 \text{ cm} \times 0.5 \text{ km/cm} = 7.8 \text{ km}$.
 
-[IMAGE: A pair of hands tracing a winding blue river on a topographical map using a white piece of thread. The thread follows the S-curves of the river carefully. Next to it, the straightened piece of thread is shown laid flat against a clear ruler measuring exactly 15.6 cm. Labels to add later: "Winding river", "Thread following river path", "Straightened thread on ruler". Clean flat textbook style, white background.]
+![Hands trace a curved river on a contour map with white thread, followed below by the straightened thread measured against a clear ruler.](images/A2-02-measuring-curved-distance-thread.png)
 
 ### Measurement of areas
 
@@ -140,7 +140,7 @@ $\text{HE} = 5 \text{ cm} \times 500 \text{ m/cm} = 2,500 \text{ m}$.
 $$\text{Gradient} = \frac{\text{VI}}{\text{HE}} = \frac{250}{2500} = \frac{1}{10}$$
 **Answer:** The gradient is 1 in 10 (or 1:10).
 
-[IMAGE: A cross-section diagram showing a right-angled triangle representing a hillside. The vertical side is labelled "Vertical Interval (VI) = 250 m". The horizontal base is labelled "Horizontal Equivalent (HE) = 2500 m". The hypotenuse is the slope of the hill. A text box beside it shows the calculation "Gradient = VI / HE = 250 / 2500 = 1 in 10". Clean flat textbook style, white background.]
+![A right-angled triangle diagram of a hill slope showing horizontal equivalent 2500 meters, vertical interval 250 meters, and a calculation yielding a gradient of 1 in 10.](images/A2-03-gradient-vertical-interval-triangle.png)
 
 ### Map reduction and enlargement
 
@@ -174,7 +174,7 @@ Direction is simply the position of one point in relation to another. It is dete
 * **8-point compass:** Adds North-East (NE), South-East (SE), South-West (SW), North-West (NW).
 * **16-point compass:** Adds intermediate points like North-North-East (NNE), East-North-East (ENE), etc.
 
-[IMAGE: A standard 16-point compass rose. The four main cardinal points (N, E, S, W) are bold. The 4 intercardinal points (NE, SE, SW, NW) are slightly smaller. The 8 further subdivisions (NNE, ENE, ESE, SSE, SSW, WSW, WNW, NNW) are the smallest. The corresponding degrees (0°/360° at N, 90° at E, 180° at S, 270° at W) are marked around the outer circle. Clean flat textbook style, white background.]
+![A 16-point compass rose illustrating cardinal, intercardinal, and secondary intercardinal directions, along with degree markings at north, east, south, and west.](images/A2-04-sixteen-point-compass-rose.png)
 
 ### Bearings
 

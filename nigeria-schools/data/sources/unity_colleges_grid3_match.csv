@@ -1,0 +1,111 @@
+unity_source_id,unity_name,state,grid3_source_id,grid3_name,grid3_lga,match_method,gender_basis
+fgc-ohafia,"Federal Government College, Ohafia",Abia,d6d8e5a6-5f03-4bb4-88a9-465d67114d9a,Federal Government College Ebem Ohafia,Ohafia,town_in_name,spotlight_2022
+fggc-umuahia,"Federal Government Girls College, Umuahia",Abia,,,,no_match,spotlight_2022
+fstc-ohanso,"Federal Science and Technical College, Ohanso",Abia,f0dd0007-9fc1-4702-8f20-7281cfb562f5,Federal Science And Technical College Ohanso,Ukwa East,town_in_name,spotlight_2022
+fgc-ganye,"Federal Government College, Ganye",Adamawa,19fa4a15-58f6-4f69-a88c-5dcfbf364a16,Federal Government College,Ganye,town_in_lga_or_ward,spotlight_2022
+fggc-yola,"Federal Government Girls College, Yola",Adamawa,,,,no_match,spotlight_2022
+fstc-michika,"Federal Science and Technical College, Michika",Adamawa,,,,no_match,spotlight_2022
+fgc-ikot-ekpene,"Federal Government College, Ikot Ekpene",Akwa Ibom,e81c0783-85eb-4dc7-8f15-42fa1dcaba49,Federal Government College Ikot Ikpong Urukuso,Ikot Ekpene,town_in_name,spotlight_2022
+fggc-ikot-obio-itong,"Federal Government Girls College, Ikot Obio Itong",Akwa Ibom,6ce124c1-13fb-458d-a84d-ce8a96ecb864,Federal Government Girls College Ikot Obio Itong,Mkpat Enin,town_in_name,spotlight_2022
+fstc-uyo,"Federal Science and Technical College, Uyo",Akwa Ibom,,,,no_match,spotlight_2022
+fgc-nise,"Federal Government College, Nise",Anambra,84b1252c-bfb0-40ba-88c6-a4f924c56fec,Federal Government College Ara Nise,Awka South,town_in_name,spotlight_2022
+fggc-onitsha,"Federal Government Girls College, Onitsha",Anambra,e9c9d2a3-6d1e-45a9-ad5f-8bfcc6bc8c53,Federal Girls College Nkwelle Oyolu Phase 2 Nkwelle Ezunaka,Oyi,town_in_name,spotlight_2022
+fstc-awka,"Federal Science and Technical College, Awka",Anambra,,,,no_match,spotlight_2022
+fgc-azare,"Federal Government College, Azare",Bauchi,,,,no_match,spotlight_2022
+fggc-bauchi,"Federal Government Girls College, Bauchi",Bauchi,,,,rejected_after_review,spotlight_2022
+fgc-odi,"Federal Government College, Odi",Bayelsa,94d56659-2528-4c29-845d-5e206bbec0d4,Federal Government College,Kolokuma/Opokuma,town_in_lga_or_ward,spotlight_2022
+fggc-imiringi,"Federal Government Girls College, Imiringi",Bayelsa,475791f7-18ce-4e0e-b68f-c0728e32b106,Federal Government Girls College Imiringi,Ogbia,town_in_name,spotlight_2022
+fstc-tungbo,"Federal Science and Technical College, Tungbo",Bayelsa,f246ff66-4760-4087-ad39-7c470af9a4c8,Federal Science and Technical College Tungbo,Sagbama,town_in_name,spotlight_2022
+fgc-otobi,"Federal Government College, Otobi",Benue,31aef2e6-c459-4b5f-af7d-104cd36ee8ac,Federal Government College Oturkpo,Oturkpo,town_in_lga_or_ward,spotlight_2022
+fgc-vandeikya,"Federal Government College, Vandeikya",Benue,,,,rejected_after_review,spotlight_2022
+fggc-gboko,"Federal Government Girls College, Gboko",Benue,,,,no_match,spotlight_2022
+fstc-otukpo,"Federal Science and Technical College, Otukpo",Benue,0a7f40d6-896b-408f-bf3b-9cc5aad5fba3,Federal Technical College Oturkpo,Oturkpo,manual_reviewed,spotlight_2022
+fgc-maiduguri,"Federal Government College, Maiduguri",Borno,7fd339e7-43b5-43f1-911d-2fa727077911,Fed Govt College Maiduguri,Jere,town_in_name,spotlight_2022
+fggc-monguno,"Federal Government Girls College, Monguno",Borno,2f626992-c163-4fbb-b5c9-7b40f180ca80,Fedral Government Girl Collage Monguno,Monguno,town_in_name,spotlight_2022
+fstc-lassa,"Federal Science and Technical College, Lassa",Borno,,,,no_match,spotlight_2022
+fgc-ikom,"Federal Government College, Ikom",Cross River,,,,no_match,spotlight_2022
+fggc-calabar,"Federal Government Girls College, Calabar",Cross River,cdf4e938-907c-4dc8-89e9-4341e3832473,Federal Government Girls College,Calabar South,town_in_lga_or_ward,spotlight_2022
+fsc-ogoja,"Federal Science College, Ogoja",Cross River,,,,no_match,spotlight_2022
+fgc-warri,"Federal Government College, Warri",Delta,,,,no_match,spotlight_2022
+fggc-ibusa,"Federal Government Girls College, Ibusa",Delta,89777715-bd7d-40b2-afe7-499865e12f0a,Federal Government Girls College Ibusa,Oshimili North,town_in_name,spotlight_2022
+fgc-okposi,"Federal Government College, Okposi",Ebonyi,f9a1963a-f068-4efe-af81-ae6f5292811d,Federal Government College Okposi,Ohaozara,town_in_name,spotlight_2022
+fggc-ezzamgbo,"Federal Government Girls College, Ezzamgbo",Ebonyi,46ebc542-64df-4e74-b8ef-2225a16cbb24,Federal Government Girls College Ezzangbo,Ohaukwu,town_in_lga_or_ward,spotlight_2022
+fstc-amuzu,"Federal Science and Technical College, Amuzu",Ebonyi,,,,no_match,spotlight_2022
+fgc-ibillo,"Federal Government College, Ibillo",Edo,,,,no_match,spotlight_2022
+fggc-benin,"Federal Government Girls College, Benin",Edo,,,,no_match,spotlight_2022
+fstc-uromi,"Federal Science and Technical College, Uromi",Edo,5a0145dd-cb5c-499e-b939-4c8630bcd9c3,Federal Science And Technical College,Esan North-East,manual_reviewed,spotlight_2022
+fgc-ikole-ekiti,"Federal Government College, Ikole Ekiti",Ekiti,8fb6d835-ac69-4a67-ab5b-b88efead3914,Federal Government College Imported,Ikole,town_in_lga_or_ward,spotlight_2022
+fggc-efon-alaaye,"Federal Government Girls College, Efon Alaaye",Ekiti,a02cc1b4-f629-4d36-9747-d425203d8d52,Federal Government Girls College,Efon,town_in_lga_or_ward,name
+fstc-usi-ekiti,"Federal Science and Technical College, Usi-Ekiti",Ekiti,9fc246e7-7415-4ad3-b485-883d4acedbd8,Federal Science And Technical Collegeusi Ekiti,Ido-Osi,town_in_name,enrolment_2021
+fgc-enugu,"Federal Government College, Enugu",Enugu,770093a9-beb4-475d-bf09-c04fcaa56066,Federal Government College Enugu,Enugu North,town_in_name,spotlight_2022
+fggc-lejja,"Federal Government Girls College, Lejja",Enugu,790c1b77-e315-41f4-9b05-4eb26ef7e637,Federal Government Girls College Lejja Nsukka,Nsukka,town_in_name,spotlight_2022
+fgbc-garki,"Federal Government Boys College, Garki",FCT,,,,no_match,name
+fgc-kwali,"Federal Government College, Kwali",FCT,4f230a9c-4603-4b55-92ce-71e389809afa,Federal Government College Kwali,Kwali,town_in_name,enrolment_2021
+fgc-rubochi,"Federal Government College, Rubochi",FCT,5b912fb7-e946-4eff-864e-68c1249fc6b0,Federal Government College Rubochi,Kuje,town_in_name,enrolment_2021
+fggc-abaji,"Federal Government Girls College, Abaji",FCT,756d49bb-4a2c-4018-8a7b-55a001354df1,Federal Government Girls College Abaji,Abaji,town_in_name,name
+fggc-bwari,"Federal Government Girls College, Bwari",FCT,a3762320-e766-4afb-9b42-1cfe089f416f,Federal Government Girls College Bwari Fct Abuja,Bwari,town_in_name,name
+fstc-orozo,"Federal Science and Technical College, Orozo",FCT,,,,no_match,enrolment_2021
+fgc-billiri,"Federal Government College, Billiri",Gombe,07751c15-ce51-416d-abf5-d6716c1ff772,Federal Government College Billiri,Billiri,town_in_name,enrolment_2021
+fggc-bajoga,"Federal Government Girls College, Bajoga",Gombe,9e3b120e-2130-4021-9228-deb8f1d2556f,Federal Government Girls College,Funakaye,town_in_lga_or_ward,name
+fgc-okigwe,"Federal Government College, Okigwe",Imo,9a9b6f55-2d85-4856-9bb5-5aeb04f8e313,Federal Government College Okigwe,Okigwe,town_in_name,enrolment_2021
+fggc-owerri,"Federal Government Girls College, Owerri",Imo,c5898f6f-8fab-4a25-a877-3311e1e35225,Federal Government Girls College Owerri,Owerri Municipal,town_in_name,name
+fstc-umuaka,"Federal Science and Technical College, Umuaka",Imo,,,,no_match,unknown
+fgc-kiyawa,"Federal Government College, Kiyawa",Jigawa,776e90cd-35e8-4529-8aae-c688ffc1b013,Federal Government College Kiyawa,Kiyawa,town_in_name,enrolment_2021
+fggc-kazaure,"Federal Government Girls College, Kazaure",Jigawa,,,,no_match,name
+fstc-hadejia,"Federal Science and Technical College, Hadejia",Jigawa,,,,no_match,unknown
+fgc-kaduna,"Federal Government College, Kaduna",Kaduna,6df57e76-d4cf-4f63-ae85-58a3ebb9ba94,Federal Government College Malali,Kaduna North,town_in_lga_or_ward,enrolment_2021
+fggc-zaria,"Federal Government Girls College, Zaria",Kaduna,,,,no_match,name
+fstc-kafanchan,"Federal Science and Technical College, Kafanchan",Kaduna,,,,no_match,enrolment_2021
+fgc-kano,"Federal Government College, Kano",Kano,,,,no_match,enrolment_2021
+fggc-minjibir,"Federal Government Girls College, Minjibir",Kano,,,,no_match,name
+fstc-ganduje,"Federal Science and Technical College, Ganduje",Kano,,,,no_match,unknown
+fgc-daura,"Federal Government College, Daura",Katsina,,,,no_match,enrolment_2021
+fggc-bakori,"Federal Government Girls College, Bakori",Katsina,6a5daebe-20b3-43b1-9637-b7a13cd4d480,Federal Government Girls College Bakori,Bakori,town_in_name,name
+fstc-dayi,"Federal Science and Technical College, Dayi",Katsina,0240ca8f-ae20-4a9e-b2f7-35411da5147d,Federal Government Science and Technology Dayi,Malumfashi,town_in_name,enrolment_2021
+fgc-birnin-yauri,"Federal Government College, Birnin Yauri",Kebbi,,,,no_match,enrolment_2021
+fggc-gwandu,"Federal Government Girls College, Gwandu",Kebbi,0dd79bd1-4602-4633-b045-cf88ff005f62,Federal Governement Girls College Gwandu,Gwandu,town_in_name,name
+fstc-zuru,"Federal Science and Technical College, Zuru",Kebbi,,,,no_match,enrolment_2021
+fgc-ugwolawo,"Federal Government College, Ugwolawo",Kogi,b49c2c8c-a9b2-407a-9eb5-dc09f3a28234,Federal Government College Ugwolawo,Ofu,town_in_name,enrolment_2021
+fggc-kabba,"Federal Government Girls College, Kabba",Kogi,d0e4c95a-d542-4379-b3ab-d0cb5abd714b,Federal Government Girls College Kabba,Kabba/Bunu,town_in_name,name
+fstc-ugugu,"Federal Science and Technical College, Ugugu",Kogi,,,,no_match,unknown
+fgc-ilorin,"Federal Government College, Ilorin",Kwara,,,,no_match,enrolment_2021
+fggc-omu-aran,"Federal Government Girls College, Omu-Aran",Kwara,,,,no_match,name
+fgc-ijanikin,"Federal Government College, Ijanikin",Lagos,cad9abd2-6e3d-40df-9933-ddb6246c1913,Federal Government College Ijanikin,Ojo,town_in_name,enrolment_2021
+fstc-yaba,"Federal Science and Technical College, Yaba",Lagos,dfced3fc-8347-4f83-9171-1b871653e44f,Federal Science And Technical College,Lagos Mainland,manual_reviewed,enrolment_2021
+kc-lagos,"King's College, Lagos",Lagos,841047dc-6975-4b43-bc06-24c6efdca83f,Kings College,Lagos Island,town_in_lga_or_ward,name
+qc-lagos,"Queen's College, Lagos",Lagos,4d978638-ee83-492f-b176-8a5ed38c30c7,Queens College,Lagos Mainland,town_in_lga_or_ward,name
+fgc-keffi,"Federal Government College, Keffi",Nasarawa,c62d942c-665a-4bff-b2c3-01c65fb807d1,Federal Government College Keffi,Keffi,town_in_name,enrolment_2021
+fggc-keana,"Federal Government Girls College, Keana",Nasarawa,,,,no_match,name
+fstc-doma,"Federal Science and Technical College, Doma",Nasarawa,1cbbfbbc-dce2-4be2-bed6-504660281ad7,Federal Sciene and Technical College Doma,Doma,town_in_name,enrolment_2021
+fga-suleja,"Federal Government Academy, Suleja",Niger,a643f2a3-fa67-4a1b-a0f8-d03e2507a51b,Federal Government Academy Suleja,Suleja,town_in_name,enrolment_2021
+fgc-minna,"Federal Government College, Minna",Niger,48a5d4d4-72a7-43af-b44f-58f0596f63e7,Federal Government College Minna,Bosso,town_in_name,enrolment_2021
+fgc-new-bussa,"Federal Government College, New Bussa",Niger,,,,rejected_after_review,enrolment_2021
+fggc-bida,"Federal Government Girls College, Bida",Niger,783e6baa-ab2b-48ec-997e-af4773bc6794,Federal Government Girls College Dabarako 3,Bida,town_in_lga_or_ward,name
+fstc-kuta-shiroro,"Federal Science and Technical College, Kuta, Shiroro",Niger,,,,no_match,unknown
+fgc-odogbolu,"Federal Government College, Odogbolu",Ogun,600ef30b-adc2-4d6b-921c-ffdeb15b2171,Federal Government College Odogbolu,Odogbolu,town_in_name,enrolment_2021
+fggc-sagamu,"Federal Government Girls College, Sagamu",Ogun,bb3c5b55-d667-49fc-b318-7d1e68b93b98,Federal Govt Girls College Sagamu,Ikenne,town_in_name,name
+fstc-ijebu-mushin,"Federal Science and Technical College, Ijebu-Mushin",Ogun,d0e9e463-311a-4a72-be67-97be39a13e7b,Federal Science and Technical College,Ijebu East,town_in_lga_or_ward,unknown
+fgc-idoani,"Federal Government College, Idoani",Ondo,8bf30731-7f9c-439e-8791-bd55ef5c3e70,Federal Government College,Ose,town_in_lga_or_ward,enrolment_2021
+fggc-akure,"Federal Government Girls College, Akure",Ondo,ab8ca61d-09a0-46e8-bfe7-8f643f1ccd4b,Federal Government Girls College,Akure North,town_in_lga_or_ward,name
+fstc-ikare-akoko,"Federal Science and Technical College, Ikare Akoko",Ondo,,,,no_match,enrolment_2021
+fgc-ikirun,"Federal Government College, Ikirun",Osun,,,,no_match,enrolment_2021
+fggc-ipetumodu,"Federal Government Girls College, Ipetumodu",Osun,,,,no_match,name
+fstc-ilesa,"Federal Science and Technical College, Ilesa",Osun,,,,no_match,enrolment_2021
+fgc-ogbomoso,"Federal Government College, Ogbomoso",Oyo,6d1b5ea0-5ab8-457a-aeda-d39af03db32b,Federal Government College,Ogbomosho North,manual_reviewed,enrolment_2021
+fggc-oyo,"Federal Government Girls College, Oyo",Oyo,30f6cbe9-d454-4d8a-9ed1-7902028bd760,Federal Government Girls College Oyo,Atiba,manual_reviewed,name
+fstc-igangan,"Federal Science and Technical College, Igangan",Oyo,,,,no_match,unknown
+fgc-jos,"Federal Government College, Jos",Plateau,,,,no_match,enrolment_2021
+fggc-langtang,"Federal Government Girls College, Langtang",Plateau,5a156d7c-ec21-456f-a97a-68d6eb83a7da,Federal Government Girls College Langtang,Langtang North,town_in_name,name
+fgc-port-harcourt,"Federal Government College, Port Harcourt",Rivers,,,,no_match,enrolment_2021
+fggc-abuloma,"Federal Government Girls College, Abuloma",Rivers,9893e9e6-4f49-45cc-ac0d-658b310013f5,Federal Government Girls College,Port-Harcourt,manual_reviewed,name
+fstc-ahoada,"Federal Science and Technical College, Ahoada",Rivers,,,,no_match,enrolment_2021
+fgc-sokoto,"Federal Government College, Sokoto",Sokoto,565b7f21-6d8e-4cbf-8431-7db21b945c05,Federal Government College Mabeka Sabon Gida,Sokoto South,town_in_lga_or_ward,enrolment_2021
+fggc-tambuwal,"Federal Government Girls College, Tambuwal",Sokoto,9cc43886-c87e-4464-8713-302247d74511,Federal Government Girls College Tambuwal,Tambuwal,town_in_name,name
+fsc-sokoto,"Federal Science College, Sokoto",Sokoto,,,,no_match,enrolment_2021
+fgc-wukari,"Federal Government College, Wukari",Taraba,0e517aae-ebaf-43c8-a5a2-680f27afe97b,Federal Government College,Wukari,town_in_lga_or_ward,enrolment_2021
+fggc-jalingo,"Federal Government Girls College, Jalingo",Taraba,139fadad-e6b7-4592-99f7-76173486481c,Jalingo Federal Government Girls College,Jalingo,town_in_name,name
+fstc-jalingo,"Federal Science and Technical College, Jalingo",Taraba,12fa4795-58c2-41ff-8a0c-99146a2f6a44,Jalingo Federal Science and Technical College,Jalingo,town_in_name,enrolment_2021
+fgc-buni-yadi,"Federal Government College, Buni Yadi",Yobe,910a3970-c9d2-460d-a719-b09a6221c3c9,Federal Government College,Gujba,town_in_lga_or_ward,enrolment_2021
+fggc-potiskum,"Federal Government Girls College, Potiskum",Yobe,,,,no_match,name
+fgc-anka,"Federal Government College, Anka",Zamfara,744030cb-ff60-4d9c-87f3-6fbd86224b70,Federal Government College Anka,Anka,town_in_name,enrolment_2021
+fggc-gusau,"Federal Government Girls College, Gusau",Zamfara,,,,rejected_after_review,name

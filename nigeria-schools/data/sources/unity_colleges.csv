@@ -1,0 +1,111 @@
+name,level,region,state,lga,ward,exam_code,institution_type,accommodation_type,gender,lat,lon,source,source_id
+"Federal Government College, Ohafia",junior+senior,South East,Abia,Ohafia,Ebemoha,,PUBLIC,,mixed,5.618574,7.813002,unity_colleges,fgc-ohafia
+"Federal Government Girls College, Umuahia",junior+senior,South East,Abia,,,,PUBLIC,,girls,,,unity_colleges,fggc-umuahia
+"Federal Science and Technical College, Ohanso",junior+senior,South East,Abia,Ukwa East,Obohia,,PUBLIC,,mixed,4.896216,7.366312,unity_colleges,fstc-ohanso
+"Federal Government College, Ganye",junior+senior,North East,Adamawa,Ganye,Ganye 2,,PUBLIC,,mixed,8.462706,12.054224,unity_colleges,fgc-ganye
+"Federal Government Girls College, Yola",junior+senior,North East,Adamawa,,,,PUBLIC,,girls,,,unity_colleges,fggc-yola
+"Federal Science and Technical College, Michika",junior+senior,North East,Adamawa,,,,PUBLIC,,mixed,,,unity_colleges,fstc-michika
+"Federal Government College, Ikot Ekpene",junior+senior,South South,Akwa Ibom,Ikot Ekpene,Uruk Uso / Ikot Ekpene 2,,PUBLIC,,mixed,5.182819,7.743200,unity_colleges,fgc-ikot-ekpene
+"Federal Government Girls College, Ikot Obio Itong",junior+senior,South South,Akwa Ibom,Mkpat Enin,Ikpa Ibom1,,PUBLIC,,girls,4.671136,7.783864,unity_colleges,fggc-ikot-obio-itong
+"Federal Science and Technical College, Uyo",junior+senior,South South,Akwa Ibom,,,,PUBLIC,,girls,,,unity_colleges,fstc-uyo
+"Federal Government College, Nise",junior+senior,South East,Anambra,Awka South,Nise 1,,PUBLIC,,mixed,6.145176,7.061110,unity_colleges,fgc-nise
+"Federal Government Girls College, Onitsha",junior+senior,South East,Anambra,Oyi,Nkwelle 1,,PUBLIC,,girls,6.185190,6.805157,unity_colleges,fggc-onitsha
+"Federal Science and Technical College, Awka",junior+senior,South East,Anambra,,,,PUBLIC,,mixed,,,unity_colleges,fstc-awka
+"Federal Government College, Azare",junior+senior,North East,Bauchi,,,,PUBLIC,,mixed,,,unity_colleges,fgc-azare
+"Federal Government Girls College, Bauchi",junior+senior,North East,Bauchi,,,,PUBLIC,,girls,,,unity_colleges,fggc-bauchi
+"Federal Government College, Odi",junior+senior,South South,Bayelsa,Kolokuma/Opokuma,Odi Central,,PUBLIC,,mixed,5.165929,6.291582,unity_colleges,fgc-odi
+"Federal Government Girls College, Imiringi",junior+senior,South South,Bayelsa,Ogbia,Imiringi-Ward 8,,PUBLIC,,girls,4.861506,6.373958,unity_colleges,fggc-imiringi
+"Federal Science and Technical College, Tungbo",junior+senior,South South,Bayelsa,Sagbama,Adagbabiri,,PUBLIC,,mixed,5.131179,6.172682,unity_colleges,fstc-tungbo
+"Federal Government College, Otobi",junior+senior,North Central,Benue,Oturkpo,Otobi,,PUBLIC,,mixed,7.101990,8.092050,unity_colleges,fgc-otobi
+"Federal Government College, Vandeikya",junior+senior,North Central,Benue,,,,PUBLIC,,mixed,,,unity_colleges,fgc-vandeikya
+"Federal Government Girls College, Gboko",junior+senior,North Central,Benue,,,,PUBLIC,,girls,,,unity_colleges,fggc-gboko
+"Federal Science and Technical College, Otukpo",junior+senior,North Central,Benue,Oturkpo,Township 1,,PUBLIC,,mixed,7.201450,8.151060,unity_colleges,fstc-otukpo
+"Federal Government College, Maiduguri",junior+senior,North East,Borno,Jere,Mairi,,PUBLIC,,mixed,11.815113,13.182498,unity_colleges,fgc-maiduguri
+"Federal Government Girls College, Monguno",junior+senior,North East,Borno,Monguno,Monguno,,PUBLIC,,girls,12.691989,13.620790,unity_colleges,fggc-monguno
+"Federal Science and Technical College, Lassa",junior+senior,North East,Borno,,,,PUBLIC,,mixed,,,unity_colleges,fstc-lassa
+"Federal Government College, Ikom",junior+senior,South South,Cross River,,,,PUBLIC,,mixed,,,unity_colleges,fgc-ikom
+"Federal Government Girls College, Calabar",junior+senior,South South,Cross River,Calabar South,Ward 1,,PUBLIC,,girls,4.979440,8.352822,unity_colleges,fggc-calabar
+"Federal Science College, Ogoja",junior+senior,South South,Cross River,,,,PUBLIC,,mixed,,,unity_colleges,fsc-ogoja
+"Federal Government College, Warri",junior+senior,South South,Delta,,,,PUBLIC,,mixed,,,unity_colleges,fgc-warri
+"Federal Government Girls College, Ibusa",junior+senior,South South,Delta,Oshimili North,Ogbowele,,PUBLIC,,girls,6.181316,6.618199,unity_colleges,fggc-ibusa
+"Federal Government College, Okposi",junior+senior,South East,Ebonyi,Ohaozara,Etiti,,PUBLIC,,mixed,6.035390,7.804650,unity_colleges,fgc-okposi
+"Federal Government Girls College, Ezzamgbo",junior+senior,South East,Ebonyi,Ohaukwu,Ezzamgbo / Ishiizhia Amao / Nsurakpa / Umuebe,,PUBLIC,,girls,6.394940,7.975554,unity_colleges,fggc-ezzamgbo
+"Federal Science and Technical College, Amuzu",junior+senior,South East,Ebonyi,,,,PUBLIC,,mixed,,,unity_colleges,fstc-amuzu
+"Federal Government College, Ibillo",junior+senior,South South,Edo,,,,PUBLIC,,mixed,,,unity_colleges,fgc-ibillo
+"Federal Government Girls College, Benin",junior+senior,South South,Edo,,,,PUBLIC,,girls,,,unity_colleges,fggc-benin
+"Federal Science and Technical College, Uromi",junior+senior,South South,Edo,Esan North-East,Obiyon / Amendokhian,,PUBLIC,,mixed,6.732430,6.345890,unity_colleges,fstc-uromi
+"Federal Government College, Ikole Ekiti",junior+senior,South West,Ekiti,Ikole,Odo Oro,,PUBLIC,,mixed,7.803968,5.538255,unity_colleges,fgc-ikole-ekiti
+"Federal Government Girls College, Efon Alaaye",junior+senior,South West,Ekiti,Efon,Alanaka,,PUBLIC,,girls,7.666510,4.913130,unity_colleges,fggc-efon-alaaye
+"Federal Science and Technical College, Usi-Ekiti",junior+senior,South West,Ekiti,Ido-Osi,Ido 1,,PUBLIC,,mixed,7.884773,5.170628,unity_colleges,fstc-usi-ekiti
+"Federal Government College, Enugu",junior+senior,South East,Enugu,Enugu North,Ogui New Layout,,PUBLIC,,mixed,6.425160,7.524350,unity_colleges,fgc-enugu
+"Federal Government Girls College, Lejja",junior+senior,South East,Enugu,Nsukka,Akaibute,,PUBLIC,,girls,6.772558,7.382703,unity_colleges,fggc-lejja
+"Federal Government Boys College, Garki",junior+senior,North Central,FCT,,,,PUBLIC,,boys,,,unity_colleges,fgbc-garki
+"Federal Government College, Kwali",junior+senior,North Central,FCT,Kwali,Kinlakwa,,PUBLIC,,mixed,8.836580,7.049950,unity_colleges,fgc-kwali
+"Federal Government College, Rubochi",junior+senior,North Central,FCT,Kuje,Rubochi,,PUBLIC,,mixed,8.527230,7.039030,unity_colleges,fgc-rubochi
+"Federal Government Girls College, Abaji",junior+senior,North Central,FCT,Abaji,North East,,PUBLIC,,girls,8.475582,6.950017,unity_colleges,fggc-abaji
+"Federal Government Girls College, Bwari",junior+senior,North Central,FCT,Bwari,Kuduru,,PUBLIC,,girls,9.282659,7.369407,unity_colleges,fggc-bwari
+"Federal Science and Technical College, Orozo",junior+senior,North Central,FCT,,,,PUBLIC,,mixed,,,unity_colleges,fstc-orozo
+"Federal Government College, Billiri",junior+senior,North East,Gombe,Billiri,Billiri South,,PUBLIC,,mixed,9.880185,11.225560,unity_colleges,fgc-billiri
+"Federal Government Girls College, Bajoga",junior+senior,North East,Gombe,Funakaye,Bajoga West,,PUBLIC,,girls,10.843680,11.421030,unity_colleges,fggc-bajoga
+"Federal Government College, Okigwe",junior+senior,South East,Imo,Okigwe,Ihube 1 and 2,,PUBLIC,,mixed,5.842179,7.335382,unity_colleges,fgc-okigwe
+"Federal Government Girls College, Owerri",junior+senior,South East,Imo,Owerri Municipal,Ikenegbu 1,,PUBLIC,,girls,5.499741,7.033789,unity_colleges,fggc-owerri
+"Federal Science and Technical College, Umuaka",junior+senior,South East,Imo,,,,PUBLIC,,,,,unity_colleges,fstc-umuaka
+"Federal Government College, Kiyawa",junior+senior,North West,Jigawa,Kiyawa,Kiyawa,,PUBLIC,,mixed,11.778620,9.585863,unity_colleges,fgc-kiyawa
+"Federal Government Girls College, Kazaure",junior+senior,North West,Jigawa,,,,PUBLIC,,girls,,,unity_colleges,fggc-kazaure
+"Federal Science and Technical College, Hadejia",junior+senior,North West,Jigawa,,,,PUBLIC,,,,,unity_colleges,fstc-hadejia
+"Federal Government College, Kaduna",junior+senior,North West,Kaduna,Kaduna North,Badarawa,,PUBLIC,,mixed,10.554034,7.476258,unity_colleges,fgc-kaduna
+"Federal Government Girls College, Zaria",junior+senior,North West,Kaduna,,,,PUBLIC,,girls,,,unity_colleges,fggc-zaria
+"Federal Science and Technical College, Kafanchan",junior+senior,North West,Kaduna,,,,PUBLIC,,mixed,,,unity_colleges,fstc-kafanchan
+"Federal Government College, Kano",junior+senior,North West,Kano,,,,PUBLIC,,mixed,,,unity_colleges,fgc-kano
+"Federal Government Girls College, Minjibir",junior+senior,North West,Kano,,,,PUBLIC,,girls,,,unity_colleges,fggc-minjibir
+"Federal Science and Technical College, Ganduje",junior+senior,North West,Kano,,,,PUBLIC,,,,,unity_colleges,fstc-ganduje
+"Federal Government College, Daura",junior+senior,North West,Katsina,,,,PUBLIC,,mixed,,,unity_colleges,fgc-daura
+"Federal Government Girls College, Bakori",junior+senior,North West,Katsina,Bakori,Kurami Yankwani,,PUBLIC,,girls,11.535999,7.345642,unity_colleges,fggc-bakori
+"Federal Science and Technical College, Dayi",junior+senior,North West,Katsina,Malumfashi,Dayi,,PUBLIC,,mixed,11.962957,7.688525,unity_colleges,fstc-dayi
+"Federal Government College, Birnin Yauri",junior+senior,North West,Kebbi,,,,PUBLIC,,mixed,,,unity_colleges,fgc-birnin-yauri
+"Federal Government Girls College, Gwandu",junior+senior,North West,Kebbi,Gwandu,Gwandu D Galadima,,PUBLIC,,girls,12.512090,4.630740,unity_colleges,fggc-gwandu
+"Federal Science and Technical College, Zuru",junior+senior,North West,Kebbi,,,,PUBLIC,,mixed,,,unity_colleges,fstc-zuru
+"Federal Government College, Ugwolawo",junior+senior,North Central,Kogi,Ofu,Ugwolawo 1,,PUBLIC,,mixed,7.229331,6.912765,unity_colleges,fgc-ugwolawo
+"Federal Government Girls College, Kabba",junior+senior,North Central,Kogi,Kabba/Bunu,Okekoko,,PUBLIC,,girls,7.841440,6.103010,unity_colleges,fggc-kabba
+"Federal Science and Technical College, Ugugu",junior+senior,North Central,Kogi,,,,PUBLIC,,,,,unity_colleges,fstc-ugugu
+"Federal Government College, Ilorin",junior+senior,North Central,Kwara,,,,PUBLIC,,mixed,,,unity_colleges,fgc-ilorin
+"Federal Government Girls College, Omu-Aran",junior+senior,North Central,Kwara,,,,PUBLIC,,girls,,,unity_colleges,fggc-omu-aran
+"Federal Government College, Ijanikin",junior+senior,South West,Lagos,Ojo,Ijanikin,,PUBLIC,,mixed,6.494140,3.134680,unity_colleges,fgc-ijanikin
+"Federal Science and Technical College, Yaba",junior+senior,South West,Lagos,Lagos Mainland,Harvey,,PUBLIC,,mixed,6.520960,3.375410,unity_colleges,fstc-yaba
+"King's College, Lagos",junior+senior,South West,Lagos,Lagos Island,Odam,,PUBLIC,,boys,6.449616,3.399063,unity_colleges,kc-lagos
+"Queen's College, Lagos",junior+senior,South West,Lagos,Lagos Mainland,Onike / Oyadiran,,PUBLIC,,girls,6.507227,3.381131,unity_colleges,qc-lagos
+"Federal Government College, Keffi",junior+senior,North Central,Nasarawa,Keffi,Yara,,PUBLIC,,mixed,8.847190,7.888250,unity_colleges,fgc-keffi
+"Federal Government Girls College, Keana",junior+senior,North Central,Nasarawa,,,,PUBLIC,,girls,,,unity_colleges,fggc-keana
+"Federal Science and Technical College, Doma",junior+senior,North Central,Nasarawa,Doma,Alagye,,PUBLIC,,mixed,8.398383,8.328168,unity_colleges,fstc-doma
+"Federal Government Academy, Suleja",junior+senior,North Central,Niger,Suleja,Iku 1 / Iku South 1,,PUBLIC,,mixed,9.251907,7.182543,unity_colleges,fga-suleja
+"Federal Government College, Minna",junior+senior,North Central,Niger,Bosso,Chachanga,,PUBLIC,,mixed,9.564012,6.593808,unity_colleges,fgc-minna
+"Federal Government College, New Bussa",junior+senior,North Central,Niger,,,,PUBLIC,,mixed,,,unity_colleges,fgc-new-bussa
+"Federal Government Girls College, Bida",junior+senior,North Central,Niger,Bida,Landzun,,PUBLIC,,girls,9.130046,6.013305,unity_colleges,fggc-bida
+"Federal Science and Technical College, Kuta, Shiroro",junior+senior,North Central,Niger,,,,PUBLIC,,,,,unity_colleges,fstc-kuta-shiroro
+"Federal Government College, Odogbolu",junior+senior,South West,Ogun,Odogbolu,Okun Owa,,PUBLIC,,mixed,6.861929,3.771194,unity_colleges,fgc-odogbolu
+"Federal Government Girls College, Sagamu",junior+senior,South West,Ogun,Ikenne,Iperu 1,,PUBLIC,,girls,6.874622,3.658962,unity_colleges,fggc-sagamu
+"Federal Science and Technical College, Ijebu-Mushin",junior+senior,South West,Ogun,Ijebu East,Imushin 2,,PUBLIC,,,6.788464,4.010218,unity_colleges,fstc-ijebu-mushin
+"Federal Government College, Idoani",junior+senior,South West,Ondo,Ose,Idoani 1,,PUBLIC,,mixed,7.306488,5.868056,unity_colleges,fgc-idoani
+"Federal Government Girls College, Akure",junior+senior,South West,Ondo,Akure North,Osi-Igoba,,PUBLIC,,girls,7.279020,5.228921,unity_colleges,fggc-akure
+"Federal Science and Technical College, Ikare Akoko",junior+senior,South West,Ondo,,,,PUBLIC,,mixed,,,unity_colleges,fstc-ikare-akoko
+"Federal Government College, Ikirun",junior+senior,South West,Osun,,,,PUBLIC,,mixed,,,unity_colleges,fgc-ikirun
+"Federal Government Girls College, Ipetumodu",junior+senior,South West,Osun,,,,PUBLIC,,girls,,,unity_colleges,fggc-ipetumodu
+"Federal Science and Technical College, Ilesa",junior+senior,South West,Osun,,,,PUBLIC,,mixed,,,unity_colleges,fstc-ilesa
+"Federal Government College, Ogbomoso",junior+senior,South West,Oyo,Ogbomosho North,Sabo / Tara,,PUBLIC,,mixed,8.155366,4.232689,unity_colleges,fgc-ogbomoso
+"Federal Government Girls College, Oyo",junior+senior,South West,Oyo,Atiba,Asipa 1,,PUBLIC,,girls,7.882836,3.955111,unity_colleges,fggc-oyo
+"Federal Science and Technical College, Igangan",junior+senior,South West,Oyo,,,,PUBLIC,,,,,unity_colleges,fstc-igangan
+"Federal Government College, Jos",junior+senior,North Central,Plateau,,,,PUBLIC,,mixed,,,unity_colleges,fgc-jos
+"Federal Government Girls College, Langtang",junior+senior,North Central,Plateau,Langtang North,Kwanpe,,PUBLIC,,girls,9.170230,9.801110,unity_colleges,fggc-langtang
+"Federal Government College, Port Harcourt",junior+senior,South South,Rivers,,,,PUBLIC,,mixed,,,unity_colleges,fgc-port-harcourt
+"Federal Government Girls College, Abuloma",junior+senior,South South,Rivers,Port-Harcourt,Phward 1,,PUBLIC,,girls,4.785195,7.051707,unity_colleges,fggc-abuloma
+"Federal Science and Technical College, Ahoada",junior+senior,South South,Rivers,,,,PUBLIC,,mixed,,,unity_colleges,fstc-ahoada
+"Federal Government College, Sokoto",junior+senior,North West,Sokoto,Sokoto South,Tudun Wada B,,PUBLIC,,mixed,13.022050,5.244980,unity_colleges,fgc-sokoto
+"Federal Government Girls College, Tambuwal",junior+senior,North West,Sokoto,Tambuwal,Tambuwal,,PUBLIC,,girls,12.387866,4.652496,unity_colleges,fggc-tambuwal
+"Federal Science College, Sokoto",junior+senior,North West,Sokoto,,,,PUBLIC,,mixed,,,unity_colleges,fsc-sokoto
+"Federal Government College, Wukari",junior+senior,North East,Taraba,Wukari,Puje,,PUBLIC,,mixed,7.888224,9.804841,unity_colleges,fgc-wukari
+"Federal Government Girls College, Jalingo",junior+senior,North East,Taraba,Jalingo,Kona,,PUBLIC,,girls,8.939454,11.348540,unity_colleges,fggc-jalingo
+"Federal Science and Technical College, Jalingo",junior+senior,North East,Taraba,Jalingo,Barade,,PUBLIC,,mixed,8.903695,11.355580,unity_colleges,fstc-jalingo
+"Federal Government College, Buni Yadi",junior+senior,North East,Yobe,Gujba,Buni Yadi,,PUBLIC,,mixed,11.253337,12.010278,unity_colleges,fgc-buni-yadi
+"Federal Government Girls College, Potiskum",junior+senior,North East,Yobe,,,,PUBLIC,,girls,,,unity_colleges,fggc-potiskum
+"Federal Government College, Anka",junior+senior,North West,Zamfara,Anka,Dangaladima,,PUBLIC,,mixed,12.103175,5.911166,unity_colleges,fgc-anka
+"Federal Government Girls College, Gusau",junior+senior,North West,Zamfara,,,,PUBLIC,,girls,,,unity_colleges,fggc-gusau

@@ -14,7 +14,7 @@ modifies them.
 |---|---|
 | `data/raw/` | Raw downloads (git-ignored; re-create with the download scripts) |
 | `data/sources/` | One cleaned CSV per source, in the shared schema |
-| `data/final/` | Merged dataset (not built yet) |
+| `data/final/` | Merged dataset: `nigeria_schools.csv`, `nigeria_schools_kenya_format.csv`, `merge_log.csv` |
 | `scripts/` | All code. Python standard library only |
 
 ## Sources
@@ -132,6 +132,61 @@ FGC Vandeikya, FGGC Gusau, FGC New Bussa). The other 42 colleges are not in
 Script: `scripts/unity_colleges.py` (downloads the PDF to `data/raw/unity_colleges/`;
 needs the `pdftotext` command from poppler-utils).
 
+## Final dataset
+
+Built by `scripts/build_final.py` from `data/sources/grid3.csv`,
+`data/sources/unity_colleges.csv` and `data/sources/unity_colleges_grid3_match.csv`.
+It powers the "pick your school" list in the Miyagi app.
+
+**Result: 24,114 schools** (24,004 from GRID3, 110 Federal Unity Colleges).
+Level: 16,322 `junior+senior`, 5,776 `junior`, 2,016 `senior`.
+
+| File | Contents |
+|---|---|
+| `data/final/nigeria_schools.csv` | The shared schema plus `name_original` (the name exactly as in the source file) |
+| `data/final/nigeria_schools_kenya_format.csv` | Same rows in the Kenya schools table's columns (below) |
+| `data/final/merge_log.csv` | Every row dropped or merged: kept and dropped source/ID, dropped name, reason |
+
+**Steps.**
+
+1. **Unity Colleges.** Each of the 64 colleges matched to GRID3 becomes one
+   row: Unity name, gender, level and state plus GRID3's LGA, ward and
+   coordinates (`source` = `unity_colleges`). The matched GRID3 row is dropped,
+   and so are 5 more GRID3 copies of matched colleges (FGC Ohafia, FSTC Ohanso,
+   FGGC Lejja, FGGC Tambuwal, FGGC Oyo). "Federal Government College Tungan Goru"
+   near FGC Minna is kept because it may be a different school. The 46
+   unmatched colleges are added with LGA, ward and coordinates empty.
+2. **GRID3 duplicates.** Rows with the same name (ignoring case, spaces and
+   punctuation, after the typo fixes) in the same LGA and less than 0.5 km apart are
+   merged into one: 25 pairs, mostly the same school spelled two ways or
+   listed once per section. The merged level combines both (junior + senior
+   gives `junior+senior`); `institution_type` and `gender` are kept only if both
+   rows agree, otherwise left empty. 105 other same-name groups are 0.5 km or
+   more apart (generic names such as "Government Junior Secondary School") and are
+   kept as separate schools; the ward tells them apart.
+3. **Names (GRID3 rows only; Unity names are already clean).** `name_original` keeps the source
+   name. 1,772 rows changed:
+   - **Typo fixes, 878 rows.** Whole words only, from an approved list of
+     misspellings of common words (e.g. Goverment → Government, Grammer → Grammar,
+     Collage → College, Secondry → Secondary, Morden → Modern; full list in
+     `TYPOS` in the script). Nothing else is respelled: place and personal names,
+     spelling variants (Islamiya, Ahmadiyyah), abbreviations (Schl) and real
+     words (Academic, Collegiate, Saints) are left alone.
+   - **Tidying, 918 rows.** Small joining words (and, of, the, in, for, on,
+     at, by) in lowercase unless first; words starting in lowercase
+     capitalised; run-together words split (SchoolKawo → School Kawo);
+     apostrophes that GRID3 turned into capitals restored (SaintS → Saint's, JamaAre →
+     Jama'are). All-caps abbreviations (UBE, NKST, ECWA) and stray single
+     letters are left as they are.
+
+**Kenya-format file.** Columns: `name`, `level`, `region`, `county` (= state),
+`sub_county` (= LGA), `ward_name` (= ward), `knec_code` (empty), `institution_type`,
+`accommodation_type`, `gender`, `lat`, `lon`. Values follow the Kenya table:
+`gender` in capitals (`MIXED`, `GIRLS`, `BOYS`); `institution_type` `PUBLIC` /
+`PRIVATE`; `accommodation_type` would be `DAY` / `BOARDING` / `HYBRID` but is
+empty for now. `level` keeps `junior+senior` as a third value. `region` is the
+geopolitical zone. Left out: `id`, `created_at`, `fts`, `name_original`.
+
 ## Sources considered and skipped
 
 - **OpenStreetMap** (`amenity=school`, checked Nov 2026): only about 4,000 schools in Nigeria, of which about 400–600 look secondary and about half are unnamed, and its ODbL share-alike licence would bind any merged dataset. Not worth it.
@@ -141,7 +196,7 @@ needs the `pdftotext` command from poppler-utils).
 | Field | Meaning |
 |---|---|
 | `name` | School name as given by the source |
-| `level` | `junior`, `senior`, or `junior+senior` |
+| `level` | One of three values: `junior`, `senior`, or `junior+senior` (a school with both junior and senior sections; the app is adding support for it) |
 | `region` | Geopolitical zone: North Central, North East, North West, South East, South South, South West |
 | `state` | State name (36 states + FCT) |
 | `lga` | Local Government Area name |

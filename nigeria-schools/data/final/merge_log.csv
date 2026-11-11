@@ -1,0 +1,95 @@
+kept_source,kept_source_id,dropped_source,dropped_source_id,dropped_name,reason
+unity_colleges,fgc-ohafia,grid3,d6d8e5a6-5f03-4bb4-88a9-465d67114d9a,Federal Government College Ebem Ohafia,replaced by Unity College (town_in_name)
+unity_colleges,fstc-ohanso,grid3,f0dd0007-9fc1-4702-8f20-7281cfb562f5,Federal Science And Technical College Ohanso,replaced by Unity College (town_in_name)
+unity_colleges,fgc-ganye,grid3,19fa4a15-58f6-4f69-a88c-5dcfbf364a16,Federal Government College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-ikot-ekpene,grid3,e81c0783-85eb-4dc7-8f15-42fa1dcaba49,Federal Government College Ikot Ikpong Urukuso,replaced by Unity College (town_in_name)
+unity_colleges,fggc-ikot-obio-itong,grid3,6ce124c1-13fb-458d-a84d-ce8a96ecb864,Federal Government Girls College Ikot Obio Itong,replaced by Unity College (town_in_name)
+unity_colleges,fgc-nise,grid3,84b1252c-bfb0-40ba-88c6-a4f924c56fec,Federal Government College Ara Nise,replaced by Unity College (town_in_name)
+unity_colleges,fggc-onitsha,grid3,e9c9d2a3-6d1e-45a9-ad5f-8bfcc6bc8c53,Federal Girls College Nkwelle Oyolu Phase 2 Nkwelle Ezunaka,replaced by Unity College (town_in_name)
+unity_colleges,fgc-odi,grid3,94d56659-2528-4c29-845d-5e206bbec0d4,Federal Government College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-imiringi,grid3,475791f7-18ce-4e0e-b68f-c0728e32b106,Federal Government Girls College Imiringi,replaced by Unity College (town_in_name)
+unity_colleges,fstc-tungbo,grid3,f246ff66-4760-4087-ad39-7c470af9a4c8,Federal Science and Technical College Tungbo,replaced by Unity College (town_in_name)
+unity_colleges,fgc-otobi,grid3,31aef2e6-c459-4b5f-af7d-104cd36ee8ac,Federal Government College Oturkpo,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fstc-otukpo,grid3,0a7f40d6-896b-408f-bf3b-9cc5aad5fba3,Federal Technical College Oturkpo,replaced by Unity College (manual_reviewed)
+unity_colleges,fgc-maiduguri,grid3,7fd339e7-43b5-43f1-911d-2fa727077911,Fed Govt College Maiduguri,replaced by Unity College (town_in_name)
+unity_colleges,fggc-monguno,grid3,2f626992-c163-4fbb-b5c9-7b40f180ca80,Fedral Government Girl Collage Monguno,replaced by Unity College (town_in_name)
+unity_colleges,fggc-calabar,grid3,cdf4e938-907c-4dc8-89e9-4341e3832473,Federal Government Girls College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-ibusa,grid3,89777715-bd7d-40b2-afe7-499865e12f0a,Federal Government Girls College Ibusa,replaced by Unity College (town_in_name)
+unity_colleges,fgc-okposi,grid3,f9a1963a-f068-4efe-af81-ae6f5292811d,Federal Government College Okposi,replaced by Unity College (town_in_name)
+unity_colleges,fggc-ezzamgbo,grid3,46ebc542-64df-4e74-b8ef-2225a16cbb24,Federal Government Girls College Ezzangbo,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fstc-uromi,grid3,5a0145dd-cb5c-499e-b939-4c8630bcd9c3,Federal Science And Technical College,replaced by Unity College (manual_reviewed)
+unity_colleges,fgc-ikole-ekiti,grid3,8fb6d835-ac69-4a67-ab5b-b88efead3914,Federal Government College Imported,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-efon-alaaye,grid3,a02cc1b4-f629-4d36-9747-d425203d8d52,Federal Government Girls College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fstc-usi-ekiti,grid3,9fc246e7-7415-4ad3-b485-883d4acedbd8,Federal Science And Technical Collegeusi Ekiti,replaced by Unity College (town_in_name)
+unity_colleges,fgc-enugu,grid3,770093a9-beb4-475d-bf09-c04fcaa56066,Federal Government College Enugu,replaced by Unity College (town_in_name)
+unity_colleges,fggc-lejja,grid3,790c1b77-e315-41f4-9b05-4eb26ef7e637,Federal Government Girls College Lejja Nsukka,replaced by Unity College (town_in_name)
+unity_colleges,fgc-kwali,grid3,4f230a9c-4603-4b55-92ce-71e389809afa,Federal Government College Kwali,replaced by Unity College (town_in_name)
+unity_colleges,fgc-rubochi,grid3,5b912fb7-e946-4eff-864e-68c1249fc6b0,Federal Government College Rubochi,replaced by Unity College (town_in_name)
+unity_colleges,fggc-abaji,grid3,756d49bb-4a2c-4018-8a7b-55a001354df1,Federal Government Girls College Abaji,replaced by Unity College (town_in_name)
+unity_colleges,fggc-bwari,grid3,a3762320-e766-4afb-9b42-1cfe089f416f,Federal Government Girls College Bwari Fct Abuja,replaced by Unity College (town_in_name)
+unity_colleges,fgc-billiri,grid3,07751c15-ce51-416d-abf5-d6716c1ff772,Federal Government College Billiri,replaced by Unity College (town_in_name)
+unity_colleges,fggc-bajoga,grid3,9e3b120e-2130-4021-9228-deb8f1d2556f,Federal Government Girls College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-okigwe,grid3,9a9b6f55-2d85-4856-9bb5-5aeb04f8e313,Federal Government College Okigwe,replaced by Unity College (town_in_name)
+unity_colleges,fggc-owerri,grid3,c5898f6f-8fab-4a25-a877-3311e1e35225,Federal Government Girls College Owerri,replaced by Unity College (town_in_name)
+unity_colleges,fgc-kiyawa,grid3,776e90cd-35e8-4529-8aae-c688ffc1b013,Federal Government College Kiyawa,replaced by Unity College (town_in_name)
+unity_colleges,fgc-kaduna,grid3,6df57e76-d4cf-4f63-ae85-58a3ebb9ba94,Federal Government College Malali,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-bakori,grid3,6a5daebe-20b3-43b1-9637-b7a13cd4d480,Federal Government Girls College Bakori,replaced by Unity College (town_in_name)
+unity_colleges,fstc-dayi,grid3,0240ca8f-ae20-4a9e-b2f7-35411da5147d,Federal Government Science and Technology Dayi,replaced by Unity College (town_in_name)
+unity_colleges,fggc-gwandu,grid3,0dd79bd1-4602-4633-b045-cf88ff005f62,Federal Governement Girls College Gwandu,replaced by Unity College (town_in_name)
+unity_colleges,fgc-ugwolawo,grid3,b49c2c8c-a9b2-407a-9eb5-dc09f3a28234,Federal Government College Ugwolawo,replaced by Unity College (town_in_name)
+unity_colleges,fggc-kabba,grid3,d0e4c95a-d542-4379-b3ab-d0cb5abd714b,Federal Government Girls College Kabba,replaced by Unity College (town_in_name)
+unity_colleges,fgc-ijanikin,grid3,cad9abd2-6e3d-40df-9933-ddb6246c1913,Federal Government College Ijanikin,replaced by Unity College (town_in_name)
+unity_colleges,fstc-yaba,grid3,dfced3fc-8347-4f83-9171-1b871653e44f,Federal Science And Technical College,replaced by Unity College (manual_reviewed)
+unity_colleges,kc-lagos,grid3,841047dc-6975-4b43-bc06-24c6efdca83f,Kings College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,qc-lagos,grid3,4d978638-ee83-492f-b176-8a5ed38c30c7,Queens College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-keffi,grid3,c62d942c-665a-4bff-b2c3-01c65fb807d1,Federal Government College Keffi,replaced by Unity College (town_in_name)
+unity_colleges,fstc-doma,grid3,1cbbfbbc-dce2-4be2-bed6-504660281ad7,Federal Sciene and Technical College Doma,replaced by Unity College (town_in_name)
+unity_colleges,fga-suleja,grid3,a643f2a3-fa67-4a1b-a0f8-d03e2507a51b,Federal Government Academy Suleja,replaced by Unity College (town_in_name)
+unity_colleges,fgc-minna,grid3,48a5d4d4-72a7-43af-b44f-58f0596f63e7,Federal Government College Minna,replaced by Unity College (town_in_name)
+unity_colleges,fggc-bida,grid3,783e6baa-ab2b-48ec-997e-af4773bc6794,Federal Government Girls College Dabarako 3,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-odogbolu,grid3,600ef30b-adc2-4d6b-921c-ffdeb15b2171,Federal Government College Odogbolu,replaced by Unity College (town_in_name)
+unity_colleges,fggc-sagamu,grid3,bb3c5b55-d667-49fc-b318-7d1e68b93b98,Federal Govt Girls College Sagamu,replaced by Unity College (town_in_name)
+unity_colleges,fstc-ijebu-mushin,grid3,d0e9e463-311a-4a72-be67-97be39a13e7b,Federal Science and Technical College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-idoani,grid3,8bf30731-7f9c-439e-8791-bd55ef5c3e70,Federal Government College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-akure,grid3,ab8ca61d-09a0-46e8-bfe7-8f643f1ccd4b,Federal Government Girls College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-ogbomoso,grid3,6d1b5ea0-5ab8-457a-aeda-d39af03db32b,Federal Government College,replaced by Unity College (manual_reviewed)
+unity_colleges,fggc-oyo,grid3,30f6cbe9-d454-4d8a-9ed1-7902028bd760,Federal Government Girls College Oyo,replaced by Unity College (manual_reviewed)
+unity_colleges,fggc-langtang,grid3,5a156d7c-ec21-456f-a97a-68d6eb83a7da,Federal Government Girls College Langtang,replaced by Unity College (town_in_name)
+unity_colleges,fggc-abuloma,grid3,9893e9e6-4f49-45cc-ac0d-658b310013f5,Federal Government Girls College,replaced by Unity College (manual_reviewed)
+unity_colleges,fgc-sokoto,grid3,565b7f21-6d8e-4cbf-8431-7db21b945c05,Federal Government College Mabeka Sabon Gida,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-tambuwal,grid3,9cc43886-c87e-4464-8713-302247d74511,Federal Government Girls College Tambuwal,replaced by Unity College (town_in_name)
+unity_colleges,fgc-wukari,grid3,0e517aae-ebaf-43c8-a5a2-680f27afe97b,Federal Government College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fggc-jalingo,grid3,139fadad-e6b7-4592-99f7-76173486481c,Jalingo Federal Government Girls College,replaced by Unity College (town_in_name)
+unity_colleges,fstc-jalingo,grid3,12fa4795-58c2-41ff-8a0c-99146a2f6a44,Jalingo Federal Science and Technical College,replaced by Unity College (town_in_name)
+unity_colleges,fgc-buni-yadi,grid3,910a3970-c9d2-460d-a719-b09a6221c3c9,Federal Government College,replaced by Unity College (town_in_lga_or_ward)
+unity_colleges,fgc-anka,grid3,744030cb-ff60-4d9c-87f3-6fbd86224b70,Federal Government College Anka,replaced by Unity College (town_in_name)
+unity_colleges,fgc-ohafia,grid3,436d1726-7f03-47d3-a698-4b0f52a5b38b,Federal Government College,second GRID3 copy of a Unity College
+unity_colleges,fstc-ohanso,grid3,e37bff96-360e-4f50-83f4-11df417c3d7a,Federal Technical Collage,second GRID3 copy of a Unity College
+unity_colleges,fggc-lejja,grid3,ce4d8bae-7480-4ba9-9f02-8c44d75d7712,Federal Government Girls College,second GRID3 copy of a Unity College
+unity_colleges,fggc-tambuwal,grid3,963f9262-fdb5-4be1-9f1c-447c26e1fde3,Federal Government Girls College,second GRID3 copy of a Unity College
+unity_colleges,fggc-oyo,grid3,aec10f63-df25-4ceb-9208-807d9c5249ee,Federal Girls College Sabo Oyo,second GRID3 copy of a Unity College
+grid3,4179a0b1-2d6f-45a5-99f9-17514e1fa2ea,grid3,a05bddbd-91f1-407e-b8a0-62f6007d2707,Union Secondary Schooll,"same name and LGA, 0.32 km apart; merged"
+grid3,3542e4d8-fc47-4448-be4e-d9d0e0057480,grid3,0d043046-eac3-4aec-8009-d11488f27901,Christ The Redeemer College Amesi,"same name and LGA, 0.08 km apart; merged (institution_type disagreed; left empty)"
+grid3,fdfbac8b-16d1-45f7-98d4-9092a13ee07f,grid3,05913146-f526-493c-b38d-f0bba2e565ee,Brainville Interntional School,"same name and LGA, 0.07 km apart; merged (institution_type disagreed; left empty)"
+grid3,5e68b24d-4c10-4916-9162-2aa3c93a4989,grid3,1ae2466d-3a5b-4656-b37d-9b0924afc59f,Holyghost Foundation School,"same name and LGA, 0.07 km apart; merged (institution_type disagreed; left empty)"
+grid3,068884ef-241f-4082-ab94-25cd89f437a2,grid3,7350c021-749d-4d2b-b6bd-12e23647c574,Opoji Secondary Commercial School,"same name and LGA, 0.17 km apart; merged"
+grid3,4404cdf5-9505-482c-99c9-0c970bd85e79,grid3,26177788-5d38-4e5f-97c9-3ccc237486a6,Idoa Secondary Shool,"same name and LGA, 0.07 km apart; merged (institution_type disagreed; left empty)"
+grid3,27c89013-1bba-4be4-b992-ae44ea370622,grid3,de45ae04-4e49-4e6f-aa17-e59a132b6863,Our Lady of Fatima College,"same name and LGA, 0.17 km apart; merged"
+grid3,a2f8ecb2-fcb0-4c82-af4a-695ec3bd5f1b,grid3,623c0b34-8c46-4a85-b105-a7acd17d5d11,Fabunmi Memorial High School,"same name and LGA, 0.18 km apart; merged (institution_type disagreed; left empty)"
+grid3,41bd5709-64d7-4761-bfbb-84b59b917a62,grid3,d95e4c35-43f6-4bc4-a228-1be095ee1ee3,Community Secondary School Amufie,"same name and LGA, 0.12 km apart; merged"
+grid3,6c652e0e-81f6-4939-8a69-b73efac8ec10,grid3,b03b7396-0953-4bb9-85d2-5125281c4eb6,Community Secondary School Amaorba Inyi,"same name and LGA, 0.03 km apart; merged"
+grid3,8bd82001-86ba-4939-9634-bace543672c1,grid3,199d45a4-bda1-412b-b911-1867ebbcfbc9,Comprehesive Secondary School Mbulu Owo,"same name and LGA, 0.14 km apart; merged"
+grid3,48b2d041-17e6-4ca7-b526-99d7af97db6d,grid3,5bbefc90-5256-4dd4-8fd2-7a877599e676,Community Secondary School Edeoballa,"same name and LGA, 0.11 km apart; merged"
+grid3,c2b874b1-a4a9-4624-9a86-54baaf1b8692,grid3,6b37a83d-b917-41ba-b43d-19252965e5f3,Community Secondary School Amalla,"same name and LGA, 0.20 km apart; merged"
+grid3,4b94efd1-7710-459a-a801-6a66ef6b04eb,grid3,f1657377-8698-4942-aa7b-3573024187a3,Model Comprehensive Secondary Schoolamokwe,"same name and LGA, 0.05 km apart; merged"
+grid3,099b357f-32ac-46da-a857-dec2eabe8f74,grid3,12e5b66f-58c7-43d0-a5c7-76a87fa77b53,Uzouwani Secondary School,"same name and LGA, 0.07 km apart; merged"
+grid3,1c7b6184-d04e-4f08-8d2d-289c4ab85a26,grid3,5a333d2e-a937-4938-9b77-b1e42dffdbaf,Government Junior Secondary School Tudunwada Deba,"same name and LGA, 0.07 km apart; merged (institution_type disagreed; left empty)"
+grid3,0e0deed4-08a8-43b1-8883-5bf6e648198d,grid3,dfdbfe48-ac9f-4e8e-b4e3-70f5e64f9bc1,Umudim Secondary School,"same name and LGA, 0.28 km apart; merged"
+grid3,8b67d249-e16a-489f-aa5d-ec2202f3dc7e,grid3,44fc172f-4070-46d7-95f6-fa34a2d9187c,Comprehesive Secondary School Eziama Obaire,"same name and LGA, 0.30 km apart; merged"
+grid3,0b02b79a-9976-4aea-9313-1591b598fc2d,grid3,59707096-b28d-4526-8a3e-ac18a9948d76,Government Girls Secondary SchoolKawo,"same name and LGA, 0.13 km apart; merged"
+grid3,0cb52598-cd72-4ed5-9de3-7dd707e16d91,grid3,1ddc779c-1758-4ab4-85a3-55cd1d5cffce,Christ Supreme Academy,"same name and LGA, 0.04 km apart; merged"
+grid3,479cb3a1-29eb-4793-b8aa-715df98e7035,grid3,f6183ad3-4dc0-43a4-afc4-d9cf1be82e1d,Government Secondry School Kamba,"same name and LGA, 0.13 km apart; merged"
+grid3,970c0069-342f-41eb-830e-6f825c7d1b82,grid3,b8c0eece-0e42-4817-a0ac-01ac4f0749a1,Papalanto High School,"same name and LGA, 0.06 km apart; merged"
+grid3,02adf91d-b9e7-4e0c-9d92-369ff6b5d4e8,grid3,97034422-f99b-4781-b714-f621400f05e1,Okeigbo Grammar School Oke Igbo,"same name and LGA, 0.22 km apart; merged"
+grid3,95d5b979-1093-406b-9b26-9a0b80e7ba18,grid3,4ba823cf-0544-496b-9408-70f57720e7d3,Ife Oluwa Comprehensive Acedemy,"same name and LGA, 0.26 km apart; merged"
+grid3,ae83d510-d11e-4032-8705-a8b7e7398be4,grid3,ec06cd26-3b2d-4714-beb9-6f48ea571c98,Bathel School of Turse,"same name and LGA, 0.00 km apart; merged"

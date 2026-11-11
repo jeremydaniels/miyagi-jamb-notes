@@ -89,3 +89,7 @@ Decisions are recorded in `IMAGES-PLAN.md`. The notes carry `[IMAGE: ...]` place
 - Save each topic's prompts and label specs under `tools/specs/<subject>/`.
 - **Budget:** stop and ask before the image spend of a run passes its stated cap (the Biology B to E run: $40). Work out the real cost of each call from the token usage the API returns and keep a running total.
 - Allowed Python packages: Pillow and matplotlib. Ask before adding any other dependency.
+
+## Nigeria schools project
+
+A separate project in this repo: a dataset of Nigerian secondary schools. All work for it (data, scripts, docs) lives in `nigeria-schools/` (see `nigeria-schools/README.md`). It must never modify JAMB notes files or anything else outside `nigeria-schools/`. The JAMB rules above (Gemini workflow, notes, images) do not apply to it.

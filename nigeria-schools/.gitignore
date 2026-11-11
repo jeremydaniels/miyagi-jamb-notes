@@ -1,0 +1,3 @@
+# Raw downloads are large and re-downloadable with scripts/grid3_download.py
+data/raw/
+__pycache__/

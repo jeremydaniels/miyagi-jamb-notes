@@ -21,7 +21,7 @@ modifies them.
 
 | Source | File | Where from | Licence | Status |
 |---|---|---|---|---|
-| GRID3 Nigeria Education Facilities | `data/sources/grid3.csv` | HDX, <https://data.humdata.org/dataset/nigeria-education-facilities> | CC BY 4.0 (attribution: GRID3, NMIS, OSGOF, Proxy Logistics, eHA Polio, Bauchi JSI MCSP) | Downloaded and profiled; mapping awaiting approval |
+| GRID3 Nigeria Education Facilities | `data/sources/grid3.csv` | HDX, <https://data.humdata.org/dataset/nigeria-education-facilities> | CC BY 4.0 (attribution: GRID3, NMIS, OSGOF, Proxy Logistics, eHA Polio, Bauchi JSI MCSP) | Cleaned: 24,098 schools |
 
 ### GRID3 notes
 
@@ -39,10 +39,35 @@ The HDX page has three files:
 
 We use `Nigeria_-_Schools`.
 
+### GRID3 mapping
+
+Rows kept: GRID3 `education` is Formal or Integrated, and `category` is
+Secondary or Mixed (23,990). Also kept: 108 schools filed under another category
+whose name clearly says secondary ("Secondary", "Grammar", "High School",
+JSS/SSS/GSS and similar) and does not mention primary or nursery.
+
+| Field | From GRID3 |
+|---|---|
+| `name` | `name`, extra spaces removed (spelling unchanged) |
+| `level` | The name decides first: "Junior"/"JSS" gives `junior`, "Senior"/"SSS" gives `senior`. Otherwise `subtype` Junior/Senior. Everything else gives `junior+senior` (one row per school). GRID3's `subtype` is unreliable, so the name wins. |
+| `region` | From the state (FCT is in North Central) |
+| `state` | `statename` ("Fct" becomes "FCT") |
+| `lga`, `ward` | `lganame`, `wardname` |
+| `exam_code`, `accommodation_type` | Empty (not in GRID3) |
+| `institution_type` | `PUBLIC`: Public, State Government, Federal Government. `PRIVATE`: Private, Private Faith Based, Private NGO Funded, NGO Funded. Empty: plain Faith Based (mission schools may have been taken over by government), Unknown, Public Private, Public Faith Based, Public NGO Funded. |
+| `gender` | `girls` or `boys` only when the name says "Girls" or "Boys" (not both); otherwise empty, not assumed mixed |
+| `lat`, `lon` | Shapefile point, 6 decimal places |
+| `source` | `grid3` |
+| `source_id` | GRID3 `globalid` |
+
+GRID3's labels are kept as given. Some look wrong (e.g. a "Junior Secondary
+School" marked Private); they are not corrected here.
+
 Scripts:
 
 - `scripts/grid3_download.py`: download the files from HDX into `data/raw/grid3/`.
 - `scripts/grid3_profile.py`: print row counts, columns, categories and % missing.
+- `scripts/grid3_clean.py`: write `data/sources/grid3.csv` using the mapping below.
 - `scripts/shapefile_lite.py`: small standard-library shapefile reader.
 
 ## Schema
@@ -50,7 +75,7 @@ Scripts:
 | Field | Meaning |
 |---|---|
 | `name` | School name as given by the source |
-| `level` | `junior`, `senior` (see the source notes for schools offering both) |
+| `level` | `junior`, `senior`, or `junior+senior` |
 | `region` | Geopolitical zone: North Central, North East, North West, South East, South South, South West |
 | `state` | State name (36 states + FCT) |
 | `lga` | Local Government Area name |
@@ -58,6 +83,7 @@ Scripts:
 | `exam_code` | WAEC/NECO centre code (empty for now) |
 | `institution_type` | `PUBLIC` or `PRIVATE` |
 | `accommodation_type` | Day, boarding, or both |
-| `gender` | Boys, girls, or mixed |
+| `gender` | `boys`, `girls` or `mixed` (empty if unknown) |
 | `lat`, `lon` | WGS84 decimal degrees |
 | `source` | Source of the row (e.g. `grid3`) |
+| `source_id` | The record's ID in its source (GRID3: `globalid`) |

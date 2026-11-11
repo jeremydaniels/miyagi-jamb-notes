@@ -70,6 +70,10 @@ Scripts:
 - `scripts/grid3_clean.py`: write `data/sources/grid3.csv` using the mapping below.
 - `scripts/shapefile_lite.py`: small standard-library shapefile reader.
 
+## Sources considered and skipped
+
+- **OpenStreetMap** (`amenity=school`, checked Nov 2026): only about 4,000 schools in Nigeria, of which about 400–600 look secondary and about half are unnamed, and its ODbL share-alike licence would bind any merged dataset. Not worth it.
+
 ## Schema
 
 | Field | Meaning |

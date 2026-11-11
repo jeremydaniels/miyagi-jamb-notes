@@ -92,4 +92,4 @@ Decisions are recorded in `IMAGES-PLAN.md`. The notes carry `[IMAGE: ...]` place
 
 ## Nigeria schools project
 
-A separate project in this repo: a dataset of Nigerian secondary schools. All work for it (data, scripts, docs) lives in `nigeria-schools/` (see `nigeria-schools/README.md`). It must never modify JAMB notes files or anything else outside `nigeria-schools/`. The JAMB rules above (Gemini workflow, notes, images) do not apply to it.
+A separate project in this repo: a dataset of Nigerian secondary schools. All work for it (data, scripts, docs) lives in `nigeria-schools/` (see `nigeria-schools/README.md`). It must never modify JAMB notes files or anything else outside `nigeria-schools/`. All work for it is done directly on `main` (no branches); commit and push to `main` after each task. The other JAMB rules above (Gemini workflow, notes, images) do not apply to it.
